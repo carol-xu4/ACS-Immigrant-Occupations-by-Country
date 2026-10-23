@@ -66,26 +66,31 @@ bpl_table_18_64 = acs %>%
 View(bpl_table_18_64)
 
 # occupations by US Standard Occupational Classification (SOC) system -- 23 major groups
-top3_occ = acs %>%
+top_n_occ = 3
+
+top_occ = acs %>%
   filter(country != "United States", citizen %in% c(2, 3),
          age >= 18, age <= 64, empstat == 1) %>%
-  mutate(occ_lbl = as.character(as_factor(occ))) %>%
-  group_by(country, occ_lbl) %>%
+  mutate(occ = as.integer(zap_labels(occ))) %>%
+  group_by(country, occ) %>%
   summarise(n = n(), pop = sum(perwt), .groups = "drop_last") %>%
-  mutate(share = pop / sum(pop)) %>%                 # share of that country's workers
-  slice_max(pop, n = 3, with_ties = FALSE) %>%
+  mutate(share = pop / sum(pop)) %>%
+  slice_max(pop, n = top_n_occ, with_ties = FALSE) %>%
   mutate(rank  = row_number(),
-         label = paste0(occ_lbl, " (", round(100 * share, 1), "%)")) %>%
+         label = paste0(sprintf("%04d", occ), " (", round(100 * share, 1), "%)")) %>%
   ungroup()
 
-top3_wide = top3_occ %>%
-  select(country, rank, label) %>%
-  pivot_wider(names_from = rank, values_from = label, names_prefix = "occ_")
+top_occ_wide = top_occ %>%
+  select(country, rank, occ = label, workers = pop) %>%
+  pivot_wider(names_from = rank, values_from = c(occ, workers),
+              names_glue = "{.value}_{rank}") %>%
+  select(country, all_of(as.vector(rbind(paste0("occ_", 1:top_n_occ),
+                                         paste0("workers_", 1:top_n_occ)))))
 
 bpl_jobs = bpl_table_18_64 %>%
-  left_join(top3_wide, by = "country") %>%
+  left_join(top_occ_wide, by = "country") %>%
   arrange(desc(pop))
 
-View(bpl_jobs)
+print(bpl_jobs, n = Inf, width = Inf)
 
-write_csv(bpl_jobs, "results/top_10_jobs.csv")
+write_csv(bpl_jobs, "results/top_3_jobs.csv")
