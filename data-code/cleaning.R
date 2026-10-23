@@ -1,4 +1,4 @@
-## Preliminari---
+## Preliminaries -------------------------------------------------------------------------------
 if (!require("pacman")) install.packages("pacman")
 pacman::p_load(matrixStats, tidyverse, ggthemes, readxl, data.table, gdata, ipumsr)
 
@@ -14,7 +14,7 @@ acs = acs %>%
     bpl, bpld, citizen, yrnatur, yrimmig,
     empstat, empstatd, labforce, occ, occsoc, ind, indnaics)
 
-# country recodes
+# country recodes --------------------------------------------------------------------------------
 acs = acs %>%
   mutate(
     bpld_lbl = as.character(as_factor(bpld)),
