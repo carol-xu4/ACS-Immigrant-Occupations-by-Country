@@ -1,0 +1,274 @@
+country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
+Kazakhstan,2027,45449,1146,25237,1021,Software developers,60,1397,0.0553552323968776
+Kazakhstan,2027,45449,1146,25237,0440,Other managers,38,1002,0.03970360977929231
+Kazakhstan,2027,45449,1146,25237,9130,Driver/sales workers and truck drivers,41,905,0.03586004675674605
+Kazakhstan,2027,45449,1146,25237,3602,Personal care aides,25,685,0.027142687324166897
+Kazakhstan,2027,45449,1146,25237,2205,Postsecondary teachers,30,675,0.02674644371359512
+Kazakhstan,2027,45449,1146,25237,6260,Construction laborers,13,613,0.024289733328050084
+Kazakhstan,2027,45449,1146,25237,0800,Accountants and auditors,27,555,0.021991520386733764
+Kazakhstan,2027,45449,1146,25237,3255,Registered nurses,26,488,0.01933668819590284
+Kazakhstan,2027,45449,1146,25237,4700,First-line supervisors of retail sales workers,16,483,0.01913856639061695
+Kazakhstan,2027,45449,1146,25237,4760,Retail salespersons,25,477,0.018900820224273883
+Kazakhstan,2027,45449,1146,25237,1530,Other engineers,8,358,0.014185521258469707
+Kazakhstan,2027,45449,1146,25237,2310,Elementary and middle school teachers,16,321,0.012719419899354123
+Kazakhstan,2027,45449,1146,25237,3601,Home health aides,13,292,0.011570313428695963
+Kazakhstan,2027,45449,1146,25237,2545,Teaching assistants,9,282,0.011174069818124183
+Kazakhstan,2027,45449,1146,25237,5240,Customer service representatives,12,275,0.010896699290723937
+Kazakhstan,2027,45449,1146,25237,4110,Waiters and waitresses,12,269,0.010658953124380869
+Kazakhstan,2027,45449,1146,25237,4720,Cashiers,12,267,0.010579704402266514
+Kazakhstan,2027,45449,1146,25237,1410,Electrical and electronics engineers,5,258,0.010223085152751912
+Kazakhstan,2027,45449,1146,25237,0710,Management analysts,14,250,0.009906090264294488
+Kazakhstan,2027,45449,1146,25237,4600,Childcare workers,16,238,0.009430597931608354
+Kazakhstan,2027,45449,1146,25237,1010,Computer programmers,3,234,0.00927210048737964
+Kazakhstan,2027,45449,1146,25237,6355,Electricians,10,229,0.009073978682093751
+Kazakhstan,2027,45449,1146,25237,1108,"Computer occupations, all other",9,225,0.00891548123786504
+Kazakhstan,2027,45449,1146,25237,2360,Other teachers and instructors,9,225,0.00891548123786504
+Kazakhstan,2027,45449,1146,25237,4220,Janitors and building cleaners,9,220,0.00871735943257915
+Kazakhstan,2027,45449,1146,25237,0120,Financial managers,11,215,0.00851923762729326
+Kazakhstan,2027,45449,1146,25237,1240,Other mathematical science occupations,7,215,0.00851923762729326
+Kazakhstan,2027,45449,1146,25237,5740,"Secretaries and administrative assistants, except legal, medical, and executive",12,207,0.008202242738835836
+Kazakhstan,2027,45449,1146,25237,0705,Project management specialists,10,198,0.007845623489321234
+Kazakhstan,2027,45449,1146,25237,4230,Maids and housekeeping cleaners,7,197,0.007805999128264057
+Kazakhstan,2027,45449,1146,25237,7200,Automotive service technicians and mechanics,9,194,0.0076871260450925225
+Kazakhstan,2027,45449,1146,25237,3603,Nursing assistants,8,192,0.007607877322978167
+Kazakhstan,2027,45449,1146,25237,9620,"Laborers and freight, stock, and material movers, hand",11,189,0.007489004239806633
+Kazakhstan,2027,45449,1146,25237,0310,Food service managers,5,187,0.007409755517692278
+Kazakhstan,2027,45449,1146,25237,4920,Real estate brokers and sales agents,7,186,0.007370131156635099
+Kazakhstan,2027,45449,1146,25237,2722,Coaches and scouts,9,172,0.006815390101834608
+Kazakhstan,2027,45449,1146,25237,0845,Financial and investment analysts,7,165,0.006538019574434362
+Kazakhstan,2027,45449,1146,25237,0020,General and operations managers,8,164,0.0064983952133771845
+Kazakhstan,2027,45449,1146,25237,5400,Receptionists and information clerks,9,164,0.0064983952133771845
+Kazakhstan,2027,45449,1146,25237,3090,Physicians,7,161,0.00637952213020565
+Kazakhstan,2027,45449,1146,25237,7320,Home appliance repairers,4,161,0.00637952213020565
+Kazakhstan,2027,45449,1146,25237,0630,Human resources workers,11,160,0.006339897769148472
+Kazakhstan,2027,45449,1146,25237,4621,Exercise trainers and group fitness instructors,6,159,0.006300273408091295
+Kazakhstan,2027,45449,1146,25237,5510,Couriers and messengers,9,156,0.0061814003249197605
+Kazakhstan,2027,45449,1146,25237,7340,"Maintenance and repair workers, general",3,152,0.006022902880691049
+Kazakhstan,2027,45449,1146,25237,4521,Manicurists and pedicurists,7,149,0.005904029797519515
+Kazakhstan,2027,45449,1146,25237,9645,Stockers and order fillers,8,148,0.005864405436462337
+Kazakhstan,2027,45449,1146,25237,4055,Fast food and counter workers,7,147,0.005824781075405159
+Kazakhstan,2027,45449,1146,25237,5860,"Office clerks, general",10,147,0.005824781075405159
+Kazakhstan,2027,45449,1146,25237,4710,First-line supervisors of non-retail sales workers,8,144,0.005705907992233626
+Kazakhstan,2027,45449,1146,25237,8990,"Miscellaneous production workers, including equipment operators and tenders",8,141,0.0055870349090620915
+Kazakhstan,2027,45449,1146,25237,2320,Secondary school teachers,5,136,0.0053889131037762016
+Kazakhstan,2027,45449,1146,25237,9142,Taxi drivers,4,136,0.0053889131037762016
+Kazakhstan,2027,45449,1146,25237,4510,"Hairdressers, hairstylists, and cosmetologists",4,135,0.005349288742719023
+Kazakhstan,2027,45449,1146,25237,1050,Computer support specialists,5,126,0.004992669493204422
+Kazakhstan,2027,45449,1146,25237,0160,"Transportation, storage, and distribution managers",3,124,0.004913420771090066
+Kazakhstan,2027,45449,1146,25237,4522,Skincare specialists,4,122,0.00483417204897571
+Kazakhstan,2027,45449,1146,25237,5550,Postal service mail carriers,3,122,0.00483417204897571
+Kazakhstan,2027,45449,1146,25237,4140,Dishwashers,7,121,0.004794547687918533
+Kazakhstan,2027,45449,1146,25237,9150,"Motor vehicle operators, all other",3,120,0.004754923326861354
+Kazakhstan,2027,45449,1146,25237,0010,Chief executives and legislators,7,114,0.004517177160518287
+Kazakhstan,2027,45449,1146,25237,0850,Personal financial advisors,7,113,0.0044775527994611085
+Kazakhstan,2027,45449,1146,25237,1700,Astronomers and physicists,2,111,0.004398304077346753
+Kazakhstan,2027,45449,1146,25237,4030,Food preparation workers,7,111,0.004398304077346753
+Kazakhstan,2027,45449,1146,25237,7800,Bakers,2,110,0.004358679716289575
+Kazakhstan,2027,45449,1146,25237,4820,"Securities, commodities, and financial services sales agents",1,109,0.004319055355232397
+Kazakhstan,2027,45449,1146,25237,6230,Carpenters,7,109,0.004319055355232397
+Kazakhstan,2027,45449,1146,25237,2350,Tutors,9,107,0.004239806633118041
+Kazakhstan,2027,45449,1146,25237,2014,"Social workers, all other",5,106,0.004200182272060863
+Kazakhstan,2027,45449,1146,25237,0650,Training and development specialists,2,103,0.0040813091888893295
+Kazakhstan,2027,45449,1146,25237,2861,Interpreters and translators,3,103,0.0040813091888893295
+Kazakhstan,2027,45449,1146,25237,1760,"Physical scientists, all other",5,101,0.004002060466774973
+Kazakhstan,2027,45449,1146,25237,2300,Preschool and kindergarten teachers,6,101,0.004002060466774973
+Kazakhstan,2027,45449,1146,25237,0051,Marketing managers,7,95,0.0037643143004319054
+Kazakhstan,2027,45449,1146,25237,5610,"Shipping, receiving, and inventory clerks",5,95,0.0037643143004319054
+Kazakhstan,2027,45449,1146,25237,5120,"Bookkeeping, accounting, and auditing clerks",6,94,0.0037246899393747275
+Kazakhstan,2027,45449,1146,25237,5522,"Dispatchers, except police, fire, and ambulance",3,94,0.0037246899393747275
+Kazakhstan,2027,45449,1146,25237,3160,Physical therapists,1,92,0.0036454412172603717
+Kazakhstan,2027,45449,1146,25237,7700,First-line supervisors of production and operating workers,4,91,0.003605816856203194
+Kazakhstan,2027,45449,1146,25237,1430,"Industrial engineers, including health and safety",5,90,0.003566192495146016
+Kazakhstan,2027,45449,1146,25237,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",5,89,0.003526568134088838
+Kazakhstan,2027,45449,1146,25237,4020,Cooks,6,86,0.003407695050917304
+Kazakhstan,2027,45449,1146,25237,0350,Medical and health services managers,4,82,0.0032491976066885923
+Kazakhstan,2027,45449,1146,25237,3960,Other protective service workers,6,81,0.0032095732456314144
+Kazakhstan,2027,45449,1146,25237,0052,Sales managers,5,80,0.003169948884574236
+Kazakhstan,2027,45449,1146,25237,5000,First-line supervisors of office and administrative support workers,4,79,0.003130324523517058
+Kazakhstan,2027,45449,1146,25237,7640,"Other installation, maintenance, and repair workers",2,79,0.003130324523517058
+Kazakhstan,2027,45449,1146,25237,3050,Pharmacists,4,78,0.0030907001624598802
+Kazakhstan,2027,45449,1146,25237,4040,Bartenders,3,78,0.0030907001624598802
+Kazakhstan,2027,45449,1146,25237,1022,Software quality assurance analysts and testers,3,77,0.0030510758014027023
+Kazakhstan,2027,45449,1146,25237,0410,"Property, real estate, and community association managers",5,76,0.0030114514403455244
+Kazakhstan,2027,45449,1146,25237,1460,Mechanical engineers,2,76,0.0030114514403455244
+Kazakhstan,2027,45449,1146,25237,2002,"Educational, guidance, and career counselors and advisors",3,75,0.0029718270792883465
+Kazakhstan,2027,45449,1146,25237,1360,Civil engineers,3,73,0.0028925783571739907
+Kazakhstan,2027,45449,1146,25237,2100,"Lawyers, and judges, magistrates, and other judicial workers",6,72,0.002852953996116813
+Kazakhstan,2027,45449,1146,25237,3261,Acupuncturists,3,72,0.002852953996116813
+Kazakhstan,2027,45449,1146,25237,3323,Radiologic technologists and technicians,1,71,0.0028133296350596345
+Kazakhstan,2027,45449,1146,25237,3655,Other healthcare support workers,3,71,0.0028133296350596345
+Kazakhstan,2027,45449,1146,25237,2634,Graphic designers,3,69,0.0027340809129452787
+Kazakhstan,2027,45449,1146,25237,0230,Education and childcare administrators,3,66,0.002615207829773745
+Kazakhstan,2027,45449,1146,25237,5110,Billing and posting clerks,2,66,0.002615207829773745
+Kazakhstan,2027,45449,1146,25237,4200,First-line supervisors of housekeeping and janitorial workers,3,65,0.002575583468716567
+Kazakhstan,2027,45449,1146,25237,8030,Machinists,2,65,0.002575583468716567
+Kazakhstan,2027,45449,1146,25237,3930,Security guards and gaming surveillance officers,4,63,0.002496334746602211
+Kazakhstan,2027,45449,1146,25237,9365,Transportation service attendants,2,63,0.002496334746602211
+Kazakhstan,2027,45449,1146,25237,3270,"Healthcare diagnosing or treating practitioners, all other",1,62,0.002456710385545033
+Kazakhstan,2027,45449,1146,25237,7750,Other assemblers and fabricators,4,62,0.002456710385545033
+Kazakhstan,2027,45449,1146,25237,2640,Other designers,2,59,0.0023378373023734992
+Kazakhstan,2027,45449,1146,25237,6660,Construction and building inspectors,2,57,0.0022585885802591434
+Kazakhstan,2027,45449,1146,25237,1006,Computer systems analysts,4,56,0.0022189642192019655
+Kazakhstan,2027,45449,1146,25237,1320,Aerospace engineers,1,55,0.0021793398581447876
+Kazakhstan,2027,45449,1146,25237,6200,First-line supervisors of construction trades and extraction workers,2,55,0.0021793398581447876
+Kazakhstan,2027,45449,1146,25237,8750,Jewelers and precious stone and metal workers,1,53,0.0021000911360304314
+Kazakhstan,2027,45449,1146,25237,0136,Human resources managers,2,52,0.0020604667749732535
+Kazakhstan,2027,45449,1146,25237,5940,Other office and administrative support workers,4,52,0.0020604667749732535
+Kazakhstan,2027,45449,1146,25237,7315,"Heating, air conditioning, and refrigeration mechanics and installers",2,52,0.0020604667749732535
+Kazakhstan,2027,45449,1146,25237,3310,Dental hygienists,2,51,0.0020208424139160756
+Kazakhstan,2027,45449,1146,25237,3630,Massage therapists,3,51,0.0020208424139160756
+Kazakhstan,2027,45449,1146,25237,2600,Artists and related workers,3,50,0.0019812180528588977
+Kazakhstan,2027,45449,1146,25237,2830,Editors,4,50,0.0019812180528588977
+Kazakhstan,2027,45449,1146,25237,3421,Pharmacy technicians,3,50,0.0019812180528588977
+Kazakhstan,2027,45449,1146,25237,8350,"Tailors, dressmakers, and sewers",3,50,0.0019812180528588977
+Kazakhstan,2027,45449,1146,25237,1032,Web and digital interface designers,2,49,0.0019415936918017198
+Kazakhstan,2027,45449,1146,25237,3401,Emergency medical technicians,1,49,0.0019415936918017198
+Kazakhstan,2027,45449,1146,25237,9610,Cleaners of vehicles and equipment,3,49,0.0019415936918017198
+Kazakhstan,2027,45449,1146,25237,1650,Other life scientists,2,48,0.0019019693307445417
+Kazakhstan,2027,45449,1146,25237,3258,"Nurse practitioners, and nurse midwives",2,48,0.0019019693307445417
+Kazakhstan,2027,45449,1146,25237,7330,Industrial and refractory machinery mechanics,3,48,0.0019019693307445417
+Kazakhstan,2027,45449,1146,25237,0220,Construction managers,4,47,0.0018623449696873638
+Kazakhstan,2027,45449,1146,25237,1560,Surveying and mapping technicians,1,47,0.0018623449696873638
+Kazakhstan,2027,45449,1146,25237,3500,Licensed practical and licensed vocational nurses,2,46,0.0018227206086301859
+Kazakhstan,2027,45449,1146,25237,0565,Compliance officers,3,45,0.001783096247573008
+Kazakhstan,2027,45449,1146,25237,0900,Financial examiners,1,45,0.001783096247573008
+Kazakhstan,2027,45449,1146,25237,3910,Private detectives and investigators,2,45,0.001783096247573008
+Kazakhstan,2027,45449,1146,25237,5165,Other financial clerks,2,45,0.001783096247573008
+Kazakhstan,2027,45449,1146,25237,9350,Parking attendants,1,45,0.001783096247573008
+Kazakhstan,2027,45449,1146,25237,0735,Market research analysts and marketing specialists,3,44,0.0017434718865158298
+Kazakhstan,2027,45449,1146,25237,2145,Paralegals and legal assistants,4,44,0.0017434718865158298
+Kazakhstan,2027,45449,1146,25237,2710,Producers and directors,3,44,0.0017434718865158298
+Kazakhstan,2027,45449,1146,25237,5840,Insurance claims and policy processing clerks,2,44,0.0017434718865158298
+Kazakhstan,2027,45449,1146,25237,4965,"Sales and related workers, all other",2,43,0.001703847525458652
+Kazakhstan,2027,45449,1146,25237,2330,Special education teachers,3,42,0.001664223164401474
+Kazakhstan,2027,45449,1146,25237,3220,Respiratory therapists,4,42,0.001664223164401474
+Kazakhstan,2027,45449,1146,25237,0110,Computer and information systems managers,3,41,0.0016245988033442961
+Kazakhstan,2027,45449,1146,25237,6250,"Cement masons, concrete finishers, and terrazzo workers",2,41,0.0016245988033442961
+Kazakhstan,2027,45449,1146,25237,4850,"Sales representatives, wholesale and manufacturing",2,40,0.001584974442287118
+Kazakhstan,2027,45449,1146,25237,4240,Pest control workers,1,39,0.0015453500812299401
+Kazakhstan,2027,45449,1146,25237,4622,Recreation workers,1,39,0.0015453500812299401
+Kazakhstan,2027,45449,1146,25237,0300,Architectural and engineering managers,3,38,0.0015057257201727622
+Kazakhstan,2027,45449,1146,25237,0420,Social and community service managers,2,38,0.0015057257201727622
+Kazakhstan,2027,45449,1146,25237,3010,Dentists,1,38,0.0015057257201727622
+Kazakhstan,2027,45449,1146,25237,3645,Medical assistants,2,37,0.0014661013591155843
+Kazakhstan,2027,45449,1146,25237,8830,Photographic process workers and processing machine operators,1,37,0.0014661013591155843
+Kazakhstan,2027,45449,1146,25237,2001,Substance abuse and behavioral disorder counselors,2,36,0.0014264769980584064
+Kazakhstan,2027,45449,1146,25237,2850,Writers and authors,2,36,0.0014264769980584064
+Kazakhstan,2027,45449,1146,25237,6442,"Plumbers, pipefitters, and steamfitters",4,36,0.0014264769980584064
+Kazakhstan,2027,45449,1146,25237,7420,Telecommunications line installers and repairers,1,36,0.0014264769980584064
+Kazakhstan,2027,45449,1146,25237,9030,Aircraft pilots and flight engineers,1,36,0.0014264769980584064
+Kazakhstan,2027,45449,1146,25237,0810,Property appraisers and assessors,1,35,0.0013868526370012283
+Kazakhstan,2027,45449,1146,25237,2635,Interior designers,3,35,0.0013868526370012283
+Kazakhstan,2027,45449,1146,25237,3725,"Miscellaneous first-line supervisors, protective service workers",2,35,0.0013868526370012283
+Kazakhstan,2027,45449,1146,25237,0750,"Business operations specialists, all other",2,34,0.0013472282759440504
+Kazakhstan,2027,45449,1146,25237,4530,"Baggage porters, bellhops, and concierges",2,34,0.0013472282759440504
+Kazakhstan,2027,45449,1146,25237,1065,Database administrators and architects,2,33,0.0013076039148868725
+Kazakhstan,2027,45449,1146,25237,9830,"Military, rank not specified",2,33,0.0013076039148868725
+Kazakhstan,2027,45449,1146,25237,0930,"Tax examiners and collectors, and revenue agents",1,31,0.0012283551927725165
+Kazakhstan,2027,45449,1146,25237,1970,"Other life, physical, and social science technicians",1,30,0.0011887308317153386
+Kazakhstan,2027,45449,1146,25237,3550,Other healthcare practitioners and technical occupations,2,30,0.0011887308317153386
+Kazakhstan,2027,45449,1146,25237,1400,Computer hardware engineers,2,29,0.0011491064706581607
+Kazakhstan,2027,45449,1146,25237,2633,Floral designers,1,29,0.0011491064706581607
+Kazakhstan,2027,45449,1146,25237,2810,"News analysts, reporters, and journalists",1,29,0.0011491064706581607
+Kazakhstan,2027,45449,1146,25237,0820,Budget analysts,2,28,0.0011094821096009828
+Kazakhstan,2027,45449,1146,25237,1610,Biological scientists,2,28,0.0011094821096009828
+Kazakhstan,2027,45449,1146,25237,2180,"Legal support workers, all other",1,28,0.0011094821096009828
+Kazakhstan,2027,45449,1146,25237,4000,Chefs and head cooks,2,28,0.0011094821096009828
+Kazakhstan,2027,45449,1146,25237,5810,Data entry keyers,1,28,0.0011094821096009828
+Kazakhstan,2027,45449,1146,25237,6210,Boilermakers,1,28,0.0011094821096009828
+Kazakhstan,2027,45449,1146,25237,8610,Stationary engineers and boiler operators,1,28,0.0011094821096009828
+Kazakhstan,2027,45449,1146,25237,3646,Medical transcriptionists,1,27,0.0010698577485438046
+Kazakhstan,2027,45449,1146,25237,3870,Police officers,2,27,0.0010698577485438046
+Kazakhstan,2027,45449,1146,25237,8740,"Inspectors, testers, sorters, samplers, and weighers",2,27,0.0010698577485438046
+Kazakhstan,2027,45449,1146,25237,0600,Cost estimators,1,26,0.0010302333874866267
+Kazakhstan,2027,45449,1146,25237,0960,Other financial specialists,2,26,0.0010302333874866267
+Kazakhstan,2027,45449,1146,25237,6950,Other extraction workers,1,26,0.0010302333874866267
+Kazakhstan,2027,45449,1146,25237,0700,Logisticians,2,25,9.906090264294488e-4
+Kazakhstan,2027,45449,1146,25237,3250,Veterinarians,1,25,9.906090264294488e-4
+Kazakhstan,2027,45449,1146,25237,1007,Information security analysts,2,24,9.509846653722708e-4
+Kazakhstan,2027,45449,1146,25237,1420,Environmental engineers,1,24,9.509846653722708e-4
+Kazakhstan,2027,45449,1146,25237,3649,Phlebotomists,1,24,9.509846653722708e-4
+Kazakhstan,2027,45449,1146,25237,8225,Other metal workers and plastic workers,1,24,9.509846653722708e-4
+Kazakhstan,2027,45449,1146,25237,8465,"Other textile, apparel, and furnishings workers",2,24,9.509846653722708e-4
+Kazakhstan,2027,45449,1146,25237,0530,"Purchasing agents, except wholesale, retail, and farm products",1,23,9.113603043150929e-4
+Kazakhstan,2027,45449,1146,25237,4251,Landscaping and groundskeeping workers,1,23,9.113603043150929e-4
+Kazakhstan,2027,45449,1146,25237,4540,Tour and travel guides,1,23,9.113603043150929e-4
+Kazakhstan,2027,45449,1146,25237,5920,Statistical assistants,2,23,9.113603043150929e-4
+Kazakhstan,2027,45449,1146,25237,0940,Tax preparers,1,22,8.717359432579149e-4
+Kazakhstan,2027,45449,1146,25237,3030,Dietitians and nutritionists,2,22,8.717359432579149e-4
+Kazakhstan,2027,45449,1146,25237,3423,Surgical technologists,2,22,8.717359432579149e-4
+Kazakhstan,2027,45449,1146,25237,6410,Painters and paperhangers,1,22,8.717359432579149e-4
+Kazakhstan,2027,45449,1146,25237,1860,Other social scientists,2,21,8.32111582200737e-4
+Kazakhstan,2027,45449,1146,25237,3321,Cardiovascular technologists and technicians,2,21,8.32111582200737e-4
+Kazakhstan,2027,45449,1146,25237,3620,Physical therapist assistants and aides,1,21,8.32111582200737e-4
+Kazakhstan,2027,45449,1146,25237,5521,Public safety telecommunicators,1,21,8.32111582200737e-4
+Kazakhstan,2027,45449,1146,25237,6515,Roofers,1,21,8.32111582200737e-4
+Kazakhstan,2027,45449,1146,25237,8650,"Crushing, grinding, polishing, mixing, and blending workers",1,21,8.32111582200737e-4
+Kazakhstan,2027,45449,1146,25237,4810,Insurance sales agents,1,20,7.92487221143559e-4
+Kazakhstan,2027,45449,1146,25237,7020,Radio and telecommunications equipment installers and repairers,1,20,7.92487221143559e-4
+Kazakhstan,2027,45449,1146,25237,0335,Entertainment and recreation managers,1,19,7.528628600863811e-4
+Kazakhstan,2027,45449,1146,25237,4120,"Food servers, nonrestaurant",1,19,7.528628600863811e-4
+Kazakhstan,2027,45449,1146,25237,1105,Network and computer systems administrators,1,18,7.132384990292032e-4
+Kazakhstan,2027,45449,1146,25237,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,18,7.132384990292032e-4
+Kazakhstan,2027,45449,1146,25237,8930,"Paper goods machine setters, operators, and tenders",1,18,7.132384990292032e-4
+Kazakhstan,2027,45449,1146,25237,0101,Administrative services managers,1,17,6.736141379720252e-4
+Kazakhstan,2027,45449,1146,25237,1520,"Petroleum, mining and geological engineers, including mining safety engineers",1,17,6.736141379720252e-4
+Kazakhstan,2027,45449,1146,25237,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",2,17,6.736141379720252e-4
+Kazakhstan,2027,45449,1146,25237,0102,Facilities managers,1,16,6.339897769148473e-4
+Kazakhstan,2027,45449,1146,25237,1305,"Architects, except landscape and naval",1,16,6.339897769148473e-4
+Kazakhstan,2027,45449,1146,25237,3256,Nurse anesthetists,1,16,6.339897769148473e-4
+Kazakhstan,2027,45449,1146,25237,3740,Firefighters,1,16,6.339897769148473e-4
+Kazakhstan,2027,45449,1146,25237,4500,Barbers,1,16,6.339897769148473e-4
+Kazakhstan,2027,45449,1146,25237,8320,Sewing machine operators,1,16,6.339897769148473e-4
+Kazakhstan,2027,45449,1146,25237,0140,Industrial production managers,1,15,5.943654158576693e-4
+Kazakhstan,2027,45449,1146,25237,2435,Librarians and media collections specialists,1,15,5.943654158576693e-4
+Kazakhstan,2027,45449,1146,25237,5310,"Interviewers, except eligibility and loan",1,15,5.943654158576693e-4
+Kazakhstan,2027,45449,1146,25237,7010,"Computer, automated teller, and office machine repairers",1,15,5.943654158576693e-4
+Kazakhstan,2027,45449,1146,25237,8140,"Welding, soldering, and brazing workers",2,15,5.943654158576693e-4
+Kazakhstan,2027,45449,1146,25237,9600,Industrial truck and tractor operators,1,15,5.943654158576693e-4
+Kazakhstan,2027,45449,1146,25237,1545,Other drafters,1,14,5.547410548004914e-4
+Kazakhstan,2027,45449,1146,25237,2721,Athletes and sports competitors,1,14,5.547410548004914e-4
+Kazakhstan,2027,45449,1146,25237,4940,Telemarketers,1,14,5.547410548004914e-4
+Kazakhstan,2027,45449,1146,25237,0520,"Wholesale and retail buyers, except farm products",1,13,5.151166937433134e-4
+Kazakhstan,2027,45449,1146,25237,1555,"Other engineering technologists and technicians, except drafters",1,13,5.151166937433134e-4
+Kazakhstan,2027,45449,1146,25237,3150,Occupational therapists,1,13,5.151166937433134e-4
+Kazakhstan,2027,45449,1146,25237,3322,Diagnostic medical sonographers,1,13,5.151166937433134e-4
+Kazakhstan,2027,45449,1146,25237,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,13,5.151166937433134e-4
+Kazakhstan,2027,45449,1146,25237,8310,"Pressers, textile, garment, and related materials",1,13,5.151166937433134e-4
+Kazakhstan,2027,45449,1146,25237,2040,Clergy,1,12,4.754923326861354e-4
+Kazakhstan,2027,45449,1146,25237,2825,Public relations specialists,1,12,4.754923326861354e-4
+Kazakhstan,2027,45449,1146,25237,3640,Dental assistants,1,12,4.754923326861354e-4
+Kazakhstan,2027,45449,1146,25237,3801,Bailiffs,1,12,4.754923326861354e-4
+Kazakhstan,2027,45449,1146,25237,4435,Other entertainment attendants and related workers,1,12,4.754923326861354e-4
+Kazakhstan,2027,45449,1146,25237,5300,"Hotel, motel, and resort desk clerks",1,12,4.754923326861354e-4
+Kazakhstan,2027,45449,1146,25237,6730,Highway maintenance workers,1,12,4.754923326861354e-4
+Kazakhstan,2027,45449,1146,25237,7120,Electronic home entertainment equipment installers and repairers,1,12,4.754923326861354e-4
+Kazakhstan,2027,45449,1146,25237,0150,Purchasing managers,1,11,4.3586797162895746e-4
+Kazakhstan,2027,45449,1146,25237,2920,"Television, video, and film camera operators and editors",1,11,4.3586797162895746e-4
+Kazakhstan,2027,45449,1146,25237,5260,File clerks,1,11,4.3586797162895746e-4
+Kazakhstan,2027,45449,1146,25237,5600,"Production, planning, and expediting clerks",1,11,4.3586797162895746e-4
+Kazakhstan,2027,45449,1146,25237,6240,"Carpet, floor, and tile installers and finishers",1,11,4.3586797162895746e-4
+Kazakhstan,2027,45449,1146,25237,2700,Actors,1,10,3.962436105717795e-4
+Kazakhstan,2027,45449,1146,25237,3422,Psychiatric technicians,1,10,3.962436105717795e-4
+Kazakhstan,2027,45449,1146,25237,3515,Medical records specialists,1,10,3.962436105717795e-4
+Kazakhstan,2027,45449,1146,25237,4350,Animal caretakers,1,10,3.962436105717795e-4
+Kazakhstan,2027,45449,1146,25237,5250,"Eligibility interviewers, government programs",1,10,3.962436105717795e-4
+Kazakhstan,2027,45449,1146,25237,1220,Operations research analysts,1,9,3.566192495146016e-4
+Kazakhstan,2027,45449,1146,25237,5540,Postal service clerks,1,9,3.566192495146016e-4
+Kazakhstan,2027,45449,1146,25237,1440,Marine engineers and naval architects,1,8,3.1699488845742365e-4
+Kazakhstan,2027,45449,1146,25237,2400,"Archivists, curators, and museum technicians",1,8,3.1699488845742365e-4
+Kazakhstan,2027,45449,1146,25237,6540,Solar photovoltaic installers,1,8,3.1699488845742365e-4
+Kazakhstan,2027,45449,1146,25237,7905,Computer numerically controlled tool operators and programmers,1,8,3.1699488845742365e-4
+Kazakhstan,2027,45449,1146,25237,9122,"Bus drivers, transit and intercity",1,8,3.1699488845742365e-4
+Kazakhstan,2027,45449,1146,25237,1541,Architectural and civil drafters,1,7,2.773705274002457e-4
+Kazakhstan,2027,45449,1146,25237,5500,Cargo and freight agents,1,7,2.773705274002457e-4
+Kazakhstan,2027,45449,1146,25237,8800,Packaging and filling machine operators and tenders,1,7,2.773705274002457e-4
+Kazakhstan,2027,45449,1146,25237,2025,Other community and social service specialists,1,6,2.377461663430677e-4
+Kazakhstan,2027,45449,1146,25237,7810,"Butchers and other meat, poultry, and fish processing workers",1,6,2.377461663430677e-4
+Kazakhstan,2027,45449,1146,25237,1720,Chemists and materials scientists,1,5,1.9812180528588975e-4
+Kazakhstan,2027,45449,1146,25237,2752,Musicians and singers,1,5,1.9812180528588975e-4
+Kazakhstan,2027,45449,1146,25237,2840,Technical writers,1,5,1.9812180528588975e-4
+Kazakhstan,2027,45449,1146,25237,9640,"Packers and packagers, hand",1,5,1.9812180528588975e-4
+Kazakhstan,2027,45449,1146,25237,1551,Electrical and electronic engineering technologists and technicians,1,4,1.5849744422871182e-4
+Kazakhstan,2027,45449,1146,25237,3750,Fire inspectors,1,2,7.924872211435591e-5
+Kazakhstan,2027,45449,1146,25237,7210,Bus and truck mechanics and diesel engine specialists,1,2,7.924872211435591e-5

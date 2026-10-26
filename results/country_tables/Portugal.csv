@@ -1,0 +1,373 @@
+country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
+Portugal,7935,163015,3149,70736,6260,Construction laborers,108,2664,0.03766116263288849
+Portugal,7935,163015,3149,70736,0440,Other managers,100,2350,0.03322212169192491
+Portugal,7935,163015,3149,70736,9130,Driver/sales workers and truck drivers,91,2037,0.028797217824021715
+Portugal,7935,163015,3149,70736,4230,Maids and housekeeping cleaners,81,1996,0.028217597828545576
+Portugal,7935,163015,3149,70736,4220,Janitors and building cleaners,76,1703,0.02407543542185026
+Portugal,7935,163015,3149,70736,4700,First-line supervisors of retail sales workers,65,1542,0.021799366659126896
+Portugal,7935,163015,3149,70736,9620,"Laborers and freight, stock, and material movers, hand",57,1497,0.021163198371409182
+Portugal,7935,163015,3149,70736,6230,Carpenters,54,1396,0.019735353992309433
+Portugal,7935,163015,3149,70736,5740,"Secretaries and administrative assistants, except legal, medical, and executive",55,1290,0.018236824247907714
+Portugal,7935,163015,3149,70736,0010,Chief executives and legislators,46,1250,0.01767134132549197
+Portugal,7935,163015,3149,70736,6200,First-line supervisors of construction trades and extraction workers,56,1144,0.01617281158109025
+Portugal,7935,163015,3149,70736,0120,Financial managers,64,1120,0.015833521827640806
+Portugal,7935,163015,3149,70736,5240,Customer service representatives,47,995,0.014066387695091609
+Portugal,7935,163015,3149,70736,4760,Retail salespersons,47,954,0.013486767699615472
+Portugal,7935,163015,3149,70736,3255,Registered nurses,39,928,0.013119203800045238
+Portugal,7935,163015,3149,70736,3603,Nursing assistants,29,924,0.013062655507803665
+Portugal,7935,163015,3149,70736,7700,First-line supervisors of production and operating workers,40,855,0.012087197466636508
+Portugal,7935,163015,3149,70736,4720,Cashiers,26,800,0.011309658448314861
+Portugal,7935,163015,3149,70736,8990,"Miscellaneous production workers, including equipment operators and tenders",36,776,0.010970368694865415
+Portugal,7935,163015,3149,70736,8740,"Inspectors, testers, sorters, samplers, and weighers",23,740,0.010461434064691246
+Portugal,7935,163015,3149,70736,5000,First-line supervisors of office and administrative support workers,39,730,0.01032006333408731
+Portugal,7935,163015,3149,70736,2310,Elementary and middle school teachers,31,724,0.010235240895724949
+Portugal,7935,163015,3149,70736,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",23,670,0.009471838950463695
+Portugal,7935,163015,3149,70736,6410,Painters and paperhangers,20,668,0.009443564804342908
+Portugal,7935,163015,3149,70736,7340,"Maintenance and repair workers, general",27,665,0.009401153585161729
+Portugal,7935,163015,3149,70736,5120,"Bookkeeping, accounting, and auditing clerks",32,643,0.00909013797783307
+Portugal,7935,163015,3149,70736,6305,Construction equipment operators,32,617,0.008722574078262836
+Portugal,7935,163015,3149,70736,5860,"Office clerks, general",29,602,0.008510517982356932
+Portugal,7935,163015,3149,70736,1021,Software developers,29,591,0.008355010178692604
+Portugal,7935,163015,3149,70736,4850,"Sales representatives, wholesale and manufacturing",24,562,0.00794503505994119
+Portugal,7935,163015,3149,70736,0220,Construction managers,29,558,0.007888486767699616
+Portugal,7935,163015,3149,70736,3870,Police officers,15,542,0.007662293598733318
+Portugal,7935,163015,3149,70736,6355,Electricians,20,523,0.007393689210585841
+Portugal,7935,163015,3149,70736,7200,Automotive service technicians and mechanics,19,517,0.0073088667722234785
+Portugal,7935,163015,3149,70736,3602,Personal care aides,20,507,0.0071674960416195435
+Portugal,7935,163015,3149,70736,2545,Teaching assistants,27,501,0.0070826736032571815
+Portugal,7935,163015,3149,70736,2205,Postsecondary teachers,30,481,0.0067999321420493105
+Portugal,7935,163015,3149,70736,3601,Home health aides,9,470,0.006644424338384981
+Portugal,7935,163015,3149,70736,4600,Childcare workers,17,469,0.006630287265324587
+Portugal,7935,163015,3149,70736,4020,Cooks,27,467,0.0066020131192038
+Portugal,7935,163015,3149,70736,0705,Project management specialists,22,459,0.006488916534720651
+Portugal,7935,163015,3149,70736,4251,Landscaping and groundskeeping workers,20,440,0.006220312146573173
+Portugal,7935,163015,3149,70736,9645,Stockers and order fillers,21,425,0.00600825605066727
+Portugal,7935,163015,3149,70736,6442,"Plumbers, pipefitters, and steamfitters",14,422,0.005965844831486089
+Portugal,7935,163015,3149,70736,0205,"Farmers, ranchers, and other agricultural managers",17,410,0.0057961999547613665
+Portugal,7935,163015,3149,70736,0020,General and operations managers,22,409,0.005782062881700973
+Portugal,7935,163015,3149,70736,8225,Other metal workers and plastic workers,16,408,0.005767925808640579
+Portugal,7935,163015,3149,70736,7750,Other assemblers and fabricators,16,407,0.0057537887355801854
+Portugal,7935,163015,3149,70736,0310,Food service managers,19,398,0.005626555078036643
+Portugal,7935,163015,3149,70736,4000,Chefs and head cooks,13,384,0.0054286360551911335
+Portugal,7935,163015,3149,70736,1555,"Other engineering technologists and technicians, except drafters",15,381,0.0053862248360099525
+Portugal,7935,163015,3149,70736,4110,Waiters and waitresses,17,376,0.005315539470707985
+Portugal,7935,163015,3149,70736,0800,Accountants and auditors,18,372,0.00525899117846641
+Portugal,7935,163015,3149,70736,2300,Preschool and kindergarten teachers,19,367,0.005188305813164443
+Portugal,7935,163015,3149,70736,2360,Other teachers and instructors,15,364,0.005145894593983262
+Portugal,7935,163015,3149,70736,4710,First-line supervisors of non-retail sales workers,19,357,0.005046935082560507
+Portugal,7935,163015,3149,70736,8140,"Welding, soldering, and brazing workers",13,357,0.005046935082560507
+Portugal,7935,163015,3149,70736,0110,Computer and information systems managers,14,353,0.004990386790318932
+Portugal,7935,163015,3149,70736,1760,"Physical scientists, all other",12,349,0.004933838498077358
+Portugal,7935,163015,3149,70736,4510,"Hairdressers, hairstylists, and cosmetologists",19,345,0.004877290205835784
+Portugal,7935,163015,3149,70736,3645,Medical assistants,13,337,0.004764193621352635
+Portugal,7935,163015,3149,70736,7330,Industrial and refractory machinery mechanics,14,329,0.0046510970368694865
+Portugal,7935,163015,3149,70736,1108,"Computer occupations, all other",19,323,0.004566274598507125
+Portugal,7935,163015,3149,70736,4920,Real estate brokers and sales agents,17,322,0.004552137525446732
+Portugal,7935,163015,3149,70736,0350,Medical and health services managers,14,310,0.004382492648722008
+Portugal,7935,163015,3149,70736,5940,Other office and administrative support workers,7,287,0.0040573399683329564
+Portugal,7935,163015,3149,70736,9610,Cleaners of vehicles and equipment,4,276,0.003901832164668627
+Portugal,7935,163015,3149,70736,0410,"Property, real estate, and community association managers",13,275,0.0038876950916082336
+Portugal,7935,163015,3149,70736,2600,Artists and related workers,8,274,0.00387355801854784
+Portugal,7935,163015,3149,70736,0230,Education and childcare administrators,10,263,0.0037180502148835104
+Portugal,7935,163015,3149,70736,2640,Other designers,11,260,0.00367563899570233
+Portugal,7935,163015,3149,70736,7000,"First-line supervisors of mechanics, installers, and repairers",8,260,0.00367563899570233
+Portugal,7935,163015,3149,70736,6515,Roofers,8,257,0.003633227776521149
+Portugal,7935,163015,3149,70736,6050,Other agricultural workers,14,249,0.0035201311920380006
+Portugal,7935,163015,3149,70736,0750,"Business operations specialists, all other",12,248,0.003505994118977607
+Portugal,7935,163015,3149,70736,0052,Sales managers,10,243,0.003435308753675639
+Portugal,7935,163015,3149,70736,8320,Sewing machine operators,13,242,0.0034211716806152453
+Portugal,7935,163015,3149,70736,9005,Supervisors of transportation and material moving workers,6,242,0.0034211716806152453
+Portugal,7935,163015,3149,70736,2320,Secondary school teachers,14,239,0.0033787604614340648
+Portugal,7935,163015,3149,70736,2100,"Lawyers, and judges, magistrates, and other judicial workers",11,235,0.0033222121691924905
+Portugal,7935,163015,3149,70736,5400,Receptionists and information clerks,14,224,0.003166704365528161
+Portugal,7935,163015,3149,70736,0710,Management analysts,8,219,0.003096019000226193
+Portugal,7935,163015,3149,70736,7800,Bakers,11,219,0.003096019000226193
+Portugal,7935,163015,3149,70736,0140,Industrial production managers,9,214,0.0030253336349242255
+Portugal,7935,163015,3149,70736,3930,Security guards and gaming surveillance officers,13,212,0.002997059488803438
+Portugal,7935,163015,3149,70736,5110,Billing and posting clerks,7,212,0.002997059488803438
+Portugal,7935,163015,3149,70736,0630,Human resources workers,10,211,0.0029829224157430444
+Portugal,7935,163015,3149,70736,4200,First-line supervisors of housekeeping and janitorial workers,11,211,0.0029829224157430444
+Portugal,7935,163015,3149,70736,5710,Executive secretaries and executive administrative assistants,10,210,0.002968785342682651
+Portugal,7935,163015,3149,70736,4030,Food preparation workers,12,208,0.002940511196561864
+Portugal,7935,163015,3149,70736,2002,"Educational, guidance, and career counselors and advisors",6,207,0.00292637412350147
+Portugal,7935,163015,3149,70736,9640,"Packers and packagers, hand",7,201,0.002841551685139109
+Portugal,7935,163015,3149,70736,5730,Medical secretaries and administrative assistants,10,198,0.002799140465957928
+Portugal,7935,163015,3149,70736,0565,Compliance officers,11,194,0.0027425921737163537
+Portugal,7935,163015,3149,70736,1006,Computer systems analysts,10,193,0.00272845510065596
+Portugal,7935,163015,3149,70736,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",8,191,0.002700180954535173
+Portugal,7935,163015,3149,70736,9142,Taxi drivers,7,189,0.0026719068084143857
+Portugal,7935,163015,3149,70736,4810,Insurance sales agents,12,180,0.0025446731508708435
+Portugal,7935,163015,3149,70736,2861,Interpreters and translators,5,178,0.0025163990047500566
+Portugal,7935,163015,3149,70736,7150,Automotive body and related repairers,10,177,0.002502261931689663
+Portugal,7935,163015,3149,70736,7810,"Butchers and other meat, poultry, and fish processing workers",5,167,0.002360891201085727
+Portugal,7935,163015,3149,70736,8920,"Molders, shapers, and casters, except metal and plastic",1,161,0.002276068762723366
+Portugal,7935,163015,3149,70736,6115,Fishing and hunting workers,7,159,0.0022477946166025785
+Portugal,7935,163015,3149,70736,0540,"Claims adjusters, appraisers, examiners, and investigators",8,158,0.0022336575435421852
+Portugal,7935,163015,3149,70736,5160,Tellers,11,153,0.0021629721782402173
+Portugal,7935,163015,3149,70736,9600,Industrial truck and tractor operators,5,152,0.0021488351051798236
+Portugal,7935,163015,3149,70736,5550,Postal service mail carriers,10,150,0.0021205609590590362
+Portugal,7935,163015,3149,70736,2016,Social and human service assistants,8,149,0.002106423885998643
+Portugal,7935,163015,3149,70736,0910,Credit counselors and loan officers,7,146,0.002064012666817462
+Portugal,7935,163015,3149,70736,6240,"Carpet, floor, and tile installers and finishers",6,146,0.002064012666817462
+Portugal,7935,163015,3149,70736,0051,Marketing managers,7,144,0.002035738520696675
+Portugal,7935,163015,3149,70736,2040,Clergy,9,144,0.002035738520696675
+Portugal,7935,163015,3149,70736,0102,Facilities managers,10,142,0.0020074643745758877
+Portugal,7935,163015,3149,70736,1530,Other engineers,10,138,0.0019509160823343134
+Portugal,7935,163015,3149,70736,2710,Producers and directors,6,138,0.0019509160823343134
+Portugal,7935,163015,3149,70736,1240,Other mathematical science occupations,6,136,0.0019226419362135263
+Portugal,7935,163015,3149,70736,7720,"Electrical, electronics, and electromechanical assemblers",7,136,0.0019226419362135263
+Portugal,7935,163015,3149,70736,2330,Special education teachers,6,134,0.0018943677900927392
+Portugal,7935,163015,3149,70736,4120,"Food servers, nonrestaurant",5,134,0.0018943677900927392
+Portugal,7935,163015,3149,70736,4350,Animal caretakers,6,133,0.0018802307170323457
+Portugal,7935,163015,3149,70736,7210,Bus and truck mechanics and diesel engine specialists,7,133,0.0018802307170323457
+Portugal,7935,163015,3149,70736,7430,Precision instrument and equipment repairers,4,133,0.0018802307170323457
+Portugal,7935,163015,3149,70736,8710,Cutting workers,5,133,0.0018802307170323457
+Portugal,7935,163015,3149,70736,3655,Other healthcare support workers,5,132,0.001866093643971952
+Portugal,7935,163015,3149,70736,8030,Machinists,7,132,0.001866093643971952
+Portugal,7935,163015,3149,70736,8255,Printing press operators,4,132,0.001866093643971952
+Portugal,7935,163015,3149,70736,0136,Human resources managers,5,130,0.001837819497851165
+Portugal,7935,163015,3149,70736,7855,"Food processing workers, all other",4,130,0.001837819497851165
+Portugal,7935,163015,3149,70736,1050,Computer support specialists,8,129,0.0018236824247907712
+Portugal,7935,163015,3149,70736,7040,"Electric motor, power tool, and related repairers",2,128,0.0018095453517303778
+Portugal,7935,163015,3149,70736,3802,Correctional officers and jailers,5,127,0.001795408278669984
+Portugal,7935,163015,3149,70736,3820,Detectives and criminal investigators,4,127,0.001795408278669984
+Portugal,7935,163015,3149,70736,5810,Data entry keyers,2,127,0.001795408278669984
+Portugal,7935,163015,3149,70736,7315,"Heating, air conditioning, and refrigeration mechanics and installers",6,127,0.001795408278669984
+Portugal,7935,163015,3149,70736,0160,"Transportation, storage, and distribution managers",8,125,0.001767134132549197
+Portugal,7935,163015,3149,70736,3515,Medical records specialists,4,122,0.0017247229133680163
+Portugal,7935,163015,3149,70736,3740,Firefighters,3,121,0.0017105858403076227
+Portugal,7935,163015,3149,70736,5140,Payroll and timekeeping clerks,7,120,0.0016964487672472292
+Portugal,7935,163015,3149,70736,8610,Stationary engineers and boiler operators,5,119,0.0016823116941868355
+Portugal,7935,163015,3149,70736,3090,Physicians,6,116,0.0016399004750056547
+Portugal,7935,163015,3149,70736,3545,Miscellaneous health technologists and technicians,6,115,0.0016257634019452613
+Portugal,7935,163015,3149,70736,1430,"Industrial engineers, including health and safety",6,113,0.0015974892558244741
+Portugal,7935,163015,3149,70736,2634,Graphic designers,7,113,0.0015974892558244741
+Portugal,7935,163015,3149,70736,2910,Photographers,4,113,0.0015974892558244741
+Portugal,7935,163015,3149,70736,6520,Sheet metal workers,7,113,0.0015974892558244741
+Portugal,7935,163015,3149,70736,7840,Food batchmakers,3,112,0.0015833521827640805
+Portugal,7935,163015,3149,70736,5610,"Shipping, receiving, and inventory clerks",6,108,0.0015268038905225062
+Portugal,7935,163015,3149,70736,1305,"Architects, except landscape and naval",7,106,0.001498529744401719
+Portugal,7935,163015,3149,70736,9122,"Bus drivers, transit and intercity",6,106,0.001498529744401719
+Portugal,7935,163015,3149,70736,2145,Paralegals and legal assistants,7,105,0.0014843926713413256
+Portugal,7935,163015,3149,70736,1007,Information security analysts,4,104,0.001470255598280932
+Portugal,7935,163015,3149,70736,9050,Flight attendants,6,103,0.0014561185252205382
+Portugal,7935,163015,3149,70736,9760,Other material moving workers,3,103,0.0014561185252205382
+Portugal,7935,163015,3149,70736,3500,Licensed practical and licensed vocational nurses,3,102,0.0014419814521601448
+Portugal,7935,163015,3149,70736,3550,Other healthcare practitioners and technical occupations,2,101,0.001427844379099751
+Portugal,7935,163015,3149,70736,9430,Other transportation workers,4,100,0.0014137073060393576
+Portugal,7935,163015,3149,70736,2014,"Social workers, all other",6,97,0.0013712960868581768
+Portugal,7935,163015,3149,70736,3710,First-line supervisors of police and detectives,3,93,0.0013147477946166026
+Portugal,7935,163015,3149,70736,3649,Phlebotomists,3,91,0.0012864736484958154
+Portugal,7935,163015,3149,70736,5510,Couriers and messengers,5,91,0.0012864736484958154
+Portugal,7935,163015,3149,70736,1650,Other life scientists,4,89,0.0012581995023750283
+Portugal,7935,163015,3149,70736,0830,Credit analysts,5,88,0.0012440624293146346
+Portugal,7935,163015,3149,70736,2722,Coaches and scouts,4,88,0.0012440624293146346
+Portugal,7935,163015,3149,70736,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",4,87,0.0012299253562542412
+Portugal,7935,163015,3149,70736,2635,Interior designers,2,85,0.001201651210133454
+Portugal,7935,163015,3149,70736,4010,First-line supervisors of food preparation and serving workers,5,85,0.001201651210133454
+Portugal,7935,163015,3149,70736,0530,"Purchasing agents, except wholesale, retail, and farm products",5,84,0.0011875141370730603
+Portugal,7935,163015,3149,70736,3010,Dentists,3,84,0.0011875141370730603
+Portugal,7935,163015,3149,70736,0845,Financial and investment analysts,3,83,0.0011733770640126669
+Portugal,7935,163015,3149,70736,1410,Electrical and electronics engineers,5,83,0.0011733770640126669
+Portugal,7935,163015,3149,70736,7220,Heavy vehicle and mobile equipment service technicians and mechanics,6,83,0.0011733770640126669
+Portugal,7935,163015,3149,70736,9121,"Bus drivers, school",5,82,0.0011592399909522732
+Portugal,7935,163015,3149,70736,1970,"Other life, physical, and social science technicians",2,80,0.001130965844831486
+Portugal,7935,163015,3149,70736,8800,Packaging and filling machine operators and tenders,3,80,0.001130965844831486
+Portugal,7935,163015,3149,70736,3321,Cardiovascular technologists and technicians,2,79,0.0011168287717710926
+Portugal,7935,163015,3149,70736,3422,Psychiatric technicians,1,79,0.0011168287717710926
+Portugal,7935,163015,3149,70736,4140,Dishwashers,2,78,0.001102691698710699
+Portugal,7935,163015,3149,70736,5521,Public safety telecommunicators,2,76,0.0010744175525899118
+Portugal,7935,163015,3149,70736,6330,"Drywall installers, ceiling tile installers, and tapers",4,76,0.0010744175525899118
+Portugal,7935,163015,3149,70736,2004,Mental health counselors,3,74,0.0010461434064691247
+Portugal,7935,163015,3149,70736,2006,"Counselors, all other",4,74,0.0010461434064691247
+Portugal,7935,163015,3149,70736,4055,Fast food and counter workers,4,73,0.001032006333408731
+Portugal,7935,163015,3149,70736,4622,Recreation workers,3,73,0.001032006333408731
+Portugal,7935,163015,3149,70736,4965,"Sales and related workers, all other",3,72,0.0010178692603483375
+Portugal,7935,163015,3149,70736,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",2,71,0.0010037321872879439
+Portugal,7935,163015,3149,70736,7640,"Other installation, maintenance, and repair workers",6,71,0.0010037321872879439
+Portugal,7935,163015,3149,70736,2003,Marriage and family therapists,2,70,9.895951142275504e-4
+Portugal,7935,163015,3149,70736,1105,Network and computer systems administrators,3,67,9.471838950463696e-4
+Portugal,7935,163015,3149,70736,0960,Other financial specialists,3,65,9.189097489255824e-4
+Portugal,7935,163015,3149,70736,3640,Dental assistants,3,65,9.189097489255824e-4
+Portugal,7935,163015,3149,70736,4130,Dining room and cafeteria attendants and bartender helpers,2,63,8.906356028047953e-4
+Portugal,7935,163015,3149,70736,4621,Exercise trainers and group fitness instructors,5,63,8.906356028047953e-4
+Portugal,7935,163015,3149,70736,0300,Architectural and engineering managers,4,62,8.764985297444017e-4
+Portugal,7935,163015,3149,70736,0420,Social and community service managers,4,62,8.764985297444017e-4
+Portugal,7935,163015,3149,70736,4530,"Baggage porters, bellhops, and concierges",2,62,8.764985297444017e-4
+Portugal,7935,163015,3149,70736,3250,Veterinarians,1,58,8.199502375028274e-4
+Portugal,7935,163015,3149,70736,0850,Personal financial advisors,5,57,8.058131644424338e-4
+Portugal,7935,163015,3149,70736,3324,Magnetic resonance imaging technologists,3,57,8.058131644424338e-4
+Portugal,7935,163015,3149,70736,4522,Skincare specialists,3,57,8.058131644424338e-4
+Portugal,7935,163015,3149,70736,3520,"Opticians, dispensing",2,55,7.775390183216467e-4
+Portugal,7935,163015,3149,70736,4750,Parts salespersons,3,55,7.775390183216467e-4
+Portugal,7935,163015,3149,70736,5600,"Production, planning, and expediting clerks",4,54,7.634019452612531e-4
+Portugal,7935,163015,3149,70736,0600,Cost estimators,3,53,7.492648722008595e-4
+Portugal,7935,163015,3149,70736,3421,Pharmacy technicians,4,53,7.492648722008595e-4
+Portugal,7935,163015,3149,70736,0520,"Wholesale and retail buyers, except farm products",2,52,7.35127799140466e-4
+Portugal,7935,163015,3149,70736,0940,Tax preparers,1,52,7.35127799140466e-4
+Portugal,7935,163015,3149,70736,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",4,52,7.35127799140466e-4
+Portugal,7935,163015,3149,70736,9510,Crane and tower operators,3,51,7.209907260800724e-4
+Portugal,7935,163015,3149,70736,7020,Radio and telecommunications equipment installers and repairers,3,50,7.068536530196788e-4
+Portugal,7935,163015,3149,70736,2170,"Title examiners, abstractors, and searchers",3,49,6.927165799592853e-4
+Portugal,7935,163015,3149,70736,1005,Computer and information research scientists,2,48,6.785795068988917e-4
+Portugal,7935,163015,3149,70736,7510,"Coin, vending, and amusement machine servicers and repairers",3,48,6.785795068988917e-4
+Portugal,7935,163015,3149,70736,8465,"Other textile, apparel, and furnishings workers",2,48,6.785795068988917e-4
+Portugal,7935,163015,3149,70736,1460,Mechanical engineers,3,47,6.644424338384981e-4
+Portugal,7935,163015,3149,70736,2025,Other community and social service specialists,2,47,6.644424338384981e-4
+Portugal,7935,163015,3149,70736,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
+						and plastic",3,47,6.644424338384981e-4
+Portugal,7935,163015,3149,70736,7905,Computer numerically controlled tool operators and programmers,3,46,6.503053607781046e-4
+Portugal,7935,163015,3149,70736,0735,Market research analysts and marketing specialists,2,45,6.361682877177109e-4
+Portugal,7935,163015,3149,70736,3230,Speech-language pathologists,2,45,6.361682877177109e-4
+Portugal,7935,163015,3149,70736,8300,Laundry and dry-cleaning workers,3,45,6.361682877177109e-4
+Portugal,7935,163015,3149,70736,3310,Dental hygienists,1,44,6.220312146573173e-4
+Portugal,7935,163015,3149,70736,0860,Insurance underwriters,3,43,6.078941415969237e-4
+Portugal,7935,163015,3149,70736,4252,Tree trimmers and pruners,2,43,6.078941415969237e-4
+Portugal,7935,163015,3149,70736,9265,Other rail transportation workers,1,43,6.078941415969237e-4
+Portugal,7935,163015,3149,70736,1980,Occupational health and safety specialists and technicians,2,42,5.937570685365302e-4
+Portugal,7935,163015,3149,70736,2633,Floral designers,1,42,5.937570685365302e-4
+Portugal,7935,163015,3149,70736,0900,Financial examiners,1,41,5.796199954761366e-4
+Portugal,7935,163015,3149,70736,2632,Fashion designers,1,41,5.796199954761366e-4
+Portugal,7935,163015,3149,70736,0101,Administrative services managers,2,39,5.513458493553495e-4
+Portugal,7935,163015,3149,70736,1360,Civil engineers,3,39,5.513458493553495e-4
+Portugal,7935,163015,3149,70736,3245,Other therapists,2,39,5.513458493553495e-4
+Portugal,7935,163015,3149,70736,3750,Fire inspectors,1,39,5.513458493553495e-4
+Portugal,7935,163015,3149,70736,2050,"Directors, religious activities and education",3,38,5.372087762949559e-4
+Portugal,7935,163015,3149,70736,3402,Paramedics,2,38,5.372087762949559e-4
+Portugal,7935,163015,3149,70736,8335,Shoe and leather workers,1,38,5.372087762949559e-4
+Portugal,7935,163015,3149,70736,8810,Painting workers,1,38,5.372087762949559e-4
+Portugal,7935,163015,3149,70736,3605,Orderlies and psychiatric aides,1,37,5.230717032345623e-4
+Portugal,7935,163015,3149,70736,3610,Occupational therapy assistants and aides,2,37,5.230717032345623e-4
+Portugal,7935,163015,3149,70736,2440,Library technicians,1,36,5.089346301741688e-4
+Portugal,7935,163015,3149,70736,3160,Physical therapists,3,36,5.089346301741688e-4
+Portugal,7935,163015,3149,70736,3210,Recreational therapists,1,36,5.089346301741688e-4
+Portugal,7935,163015,3149,70736,0150,Purchasing managers,2,35,4.947975571137752e-4
+Portugal,7935,163015,3149,70736,0810,Property appraisers and assessors,2,35,4.947975571137752e-4
+Portugal,7935,163015,3149,70736,2555,Other educational instruction and library workers,1,35,4.947975571137752e-4
+Portugal,7935,163015,3149,70736,2752,Musicians and singers,1,35,4.947975571137752e-4
+Portugal,7935,163015,3149,70736,5330,Loan interviewers and clerks,2,35,4.947975571137752e-4
+Portugal,7935,163015,3149,70736,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,35,4.947975571137752e-4
+Portugal,7935,163015,3149,70736,1220,Operations research analysts,3,34,4.806604840533816e-4
+Portugal,7935,163015,3149,70736,1720,Chemists and materials scientists,2,34,4.806604840533816e-4
+Portugal,7935,163015,3149,70736,5410,Reservation and transportation ticket agents and travel clerks,3,34,4.806604840533816e-4
+Portugal,7935,163015,3149,70736,8450,Upholsterers,1,34,4.806604840533816e-4
+Portugal,7935,163015,3149,70736,3423,Surgical technologists,2,33,4.66523410992988e-4
+Portugal,7935,163015,3149,70736,4500,Barbers,2,33,4.66523410992988e-4
+Portugal,7935,163015,3149,70736,4740,Counter and rental clerks,2,33,4.66523410992988e-4
+Portugal,7935,163015,3149,70736,0700,Logisticians,3,32,4.5238633793259444e-4
+Portugal,7935,163015,3149,70736,4800,Advertising sales agents,2,32,4.5238633793259444e-4
+Portugal,7935,163015,3149,70736,6250,"Cement masons, concrete finishers, and terrazzo workers",2,32,4.5238633793259444e-4
+Portugal,7935,163015,3149,70736,6600,"Helpers, construction trades",2,32,4.5238633793259444e-4
+Portugal,7935,163015,3149,70736,2850,Writers and authors,2,31,4.3824926487220087e-4
+Portugal,7935,163015,3149,70736,7010,"Computer, automated teller, and office machine repairers",3,31,4.3824926487220087e-4
+Portugal,7935,163015,3149,70736,1010,Computer programmers,2,30,4.241121918118073e-4
+Portugal,7935,163015,3149,70736,1800,Economists,2,30,4.241121918118073e-4
+Portugal,7935,163015,3149,70736,5260,File clerks,2,30,4.241121918118073e-4
+Portugal,7935,163015,3149,70736,7420,Telecommunications line installers and repairers,3,30,4.241121918118073e-4
+Portugal,7935,163015,3149,70736,8350,"Tailors, dressmakers, and sewers",3,30,4.241121918118073e-4
+Portugal,7935,163015,3149,70736,1032,Web and digital interface designers,2,29,4.099751187514137e-4
+Portugal,7935,163015,3149,70736,1320,Aerospace engineers,3,29,4.099751187514137e-4
+Portugal,7935,163015,3149,70736,1551,Electrical and electronic engineering technologists and technicians,2,29,4.099751187514137e-4
+Portugal,7935,163015,3149,70736,9310,Ship and boat captains and operators,2,29,4.099751187514137e-4
+Portugal,7935,163015,3149,70736,1106,Computer network architects,2,28,3.958380456910201e-4
+Portugal,7935,163015,3149,70736,1310,"Surveyors, cartographers, and photogrammetrists",2,28,3.958380456910201e-4
+Portugal,7935,163015,3149,70736,1825,Other psychologists,2,28,3.958380456910201e-4
+Portugal,7935,163015,3149,70736,2435,Librarians and media collections specialists,1,28,3.958380456910201e-4
+Portugal,7935,163015,3149,70736,5540,Postal service clerks,2,28,3.958380456910201e-4
+Portugal,7935,163015,3149,70736,9720,Refuse and recyclable material collectors,2,28,3.958380456910201e-4
+Portugal,7935,163015,3149,70736,9830,"Military, rank not specified",1,28,3.958380456910201e-4
+Portugal,7935,163015,3149,70736,1065,Database administrators and architects,3,27,3.8170097263062655e-4
+Portugal,7935,163015,3149,70736,3110,Physician assistants,2,27,3.8170097263062655e-4
+Portugal,7935,163015,3149,70736,5840,Insurance claims and policy processing clerks,2,27,3.8170097263062655e-4
+Portugal,7935,163015,3149,70736,1610,Biological scientists,1,26,3.67563899570233e-4
+Portugal,7935,163015,3149,70736,2400,"Archivists, curators, and museum technicians",2,26,3.67563899570233e-4
+Portugal,7935,163015,3149,70736,6710,Fence erectors,2,26,3.67563899570233e-4
+Portugal,7935,163015,3149,70736,0726,Fundraisers,2,25,3.534268265098394e-4
+Portugal,7935,163015,3149,70736,3940,Crossing guards and flaggers,2,25,3.534268265098394e-4
+Portugal,7935,163015,3149,70736,5360,"Human resources assistants, except payroll and timekeeping",1,25,3.534268265098394e-4
+Portugal,7935,163015,3149,70736,8930,"Paper goods machine setters, operators, and tenders",1,25,3.534268265098394e-4
+Portugal,7935,163015,3149,70736,9410,Transportation inspectors,3,25,3.534268265098394e-4
+Portugal,7935,163015,3149,70736,0335,Entertainment and recreation managers,1,24,3.3928975344944584e-4
+Portugal,7935,163015,3149,70736,1022,Software quality assurance analysts and testers,2,24,3.3928975344944584e-4
+Portugal,7935,163015,3149,70736,3430,Dietetic technicians and ophthalmic medical technicians,2,24,3.3928975344944584e-4
+Portugal,7935,163015,3149,70736,7410,Electrical power-line installers and repairers,1,24,3.3928975344944584e-4
+Portugal,7935,163015,3149,70736,0360,Natural sciences managers,1,23,3.251526803890523e-4
+Portugal,7935,163015,3149,70736,1200,Actuaries,1,23,3.251526803890523e-4
+Portugal,7935,163015,3149,70736,3323,Radiologic technologists and technicians,2,23,3.251526803890523e-4
+Portugal,7935,163015,3149,70736,3630,Massage therapists,1,23,3.251526803890523e-4
+Portugal,7935,163015,3149,70736,4255,Other grounds maintenance workers,1,23,3.251526803890523e-4
+Portugal,7935,163015,3149,70736,4400,Gambling services workers,1,23,3.251526803890523e-4
+Portugal,7935,163015,3149,70736,5165,Other financial clerks,2,23,3.251526803890523e-4
+Portugal,7935,163015,3149,70736,3258,"Nurse practitioners, and nurse midwives",2,22,3.1101560732865865e-4
+Portugal,7935,163015,3149,70736,3300,Clinical laboratory technologists and technicians,2,22,3.1101560732865865e-4
+Portugal,7935,163015,3149,70736,5720,Legal secretaries and administrative assistants,2,22,3.1101560732865865e-4
+Portugal,7935,163015,3149,70736,1821,Clinical and counseling psychologists,1,21,2.968785342682651e-4
+Portugal,7935,163015,3149,70736,2700,Actors,1,21,2.968785342682651e-4
+Portugal,7935,163015,3149,70736,6130,Logging workers,1,21,2.968785342682651e-4
+Portugal,7935,163015,3149,70736,6530,Structural iron and steel workers,1,21,2.968785342682651e-4
+Portugal,7935,163015,3149,70736,9630,Machine feeders and offbearers,1,21,2.968785342682651e-4
+Portugal,7935,163015,3149,70736,2015,Probation officers and correctional treatment specialists,1,20,2.827414612078715e-4
+Portugal,7935,163015,3149,70736,2721,Athletes and sports competitors,1,20,2.827414612078715e-4
+Portugal,7935,163015,3149,70736,3648,Veterinary assistants and laboratory animal caretakers,1,20,2.827414612078715e-4
+Portugal,7935,163015,3149,70736,3910,Private detectives and investigators,2,20,2.827414612078715e-4
+Portugal,7935,163015,3149,70736,5522,"Dispatchers, except police, fire, and ambulance",2,20,2.827414612078715e-4
+Portugal,7935,163015,3149,70736,3220,Respiratory therapists,1,19,2.6860438814747795e-4
+Portugal,7935,163015,3149,70736,3270,"Healthcare diagnosing or treating practitioners, all other",1,19,2.6860438814747795e-4
+Portugal,7935,163015,3149,70736,4830,Travel agents,2,19,2.6860438814747795e-4
+Portugal,7935,163015,3149,70736,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,19,2.6860438814747795e-4
+Portugal,7935,163015,3149,70736,7740,Structural metal fabricators and fitters,1,19,2.6860438814747795e-4
+Portugal,7935,163015,3149,70736,7925,"Forming machine setters, operators, and tenders, metal and plastic",1,19,2.6860438814747795e-4
+Portugal,7935,163015,3149,70736,2755,"Disc jockeys, except radio",1,18,2.544673150870844e-4
+Portugal,7935,163015,3149,70736,2810,"News analysts, reporters, and journalists",1,18,2.544673150870844e-4
+Portugal,7935,163015,3149,70736,6765,Other construction and related workers,1,18,2.544673150870844e-4
+Portugal,7935,163015,3149,70736,1350,Chemical engineers,1,17,2.403302420266908e-4
+Portugal,7935,163015,3149,70736,2805,Broadcast announcers and radio disc jockeys,1,17,2.403302420266908e-4
+Portugal,7935,163015,3149,70736,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,17,2.403302420266908e-4
+Portugal,7935,163015,3149,70736,3946,School bus monitors,1,16,2.2619316896629722e-4
+Portugal,7935,163015,3149,70736,4900,"Models, demonstrators, and product promoters",1,16,2.2619316896629722e-4
+Portugal,7935,163015,3149,70736,3424,Veterinary technologists and technicians,1,15,2.1205609590590365e-4
+Portugal,7935,163015,3149,70736,3620,Physical therapist assistants and aides,1,15,2.1205609590590365e-4
+Portugal,7935,163015,3149,70736,3720,First-line supervisors of firefighting and prevention workers,1,15,2.1205609590590365e-4
+Portugal,7935,163015,3149,70736,4820,"Securities, commodities, and financial services sales agents",2,15,2.1205609590590365e-4
+Portugal,7935,163015,3149,70736,7140,Aircraft mechanics and service technicians,1,15,2.1205609590590365e-4
+Portugal,7935,163015,3149,70736,8130,Tool and die makers,1,15,2.1205609590590365e-4
+Portugal,7935,163015,3149,70736,8630,Miscellaneous plant and system operators,1,15,2.1205609590590365e-4
+Portugal,7935,163015,3149,70736,9150,"Motor vehicle operators, all other",2,15,2.1205609590590365e-4
+Portugal,7935,163015,3149,70736,2001,Substance abuse and behavioral disorder counselors,1,14,1.9791902284551006e-4
+Portugal,7935,163015,3149,70736,4160,"Food preparation and serving related workers, all other",1,14,1.9791902284551006e-4
+Portugal,7935,163015,3149,70736,7030,Avionics technicians,1,14,1.9791902284551006e-4
+Portugal,7935,163015,3149,70736,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,14,1.9791902284551006e-4
+Portugal,7935,163015,3149,70736,0640,"Compensation, benefits, and job analysis specialists",1,13,1.837819497851165e-4
+Portugal,7935,163015,3149,70736,3050,Pharmacists,1,13,1.837819497851165e-4
+Portugal,7935,163015,3149,70736,4540,Tour and travel guides,1,13,1.837819497851165e-4
+Portugal,7935,163015,3149,70736,4655,"Personal care and service workers, all other",1,13,1.837819497851165e-4
+Portugal,7935,163015,3149,70736,5250,"Eligibility interviewers, government programs",1,13,1.837819497851165e-4
+Portugal,7935,163015,3149,70736,5310,"Interviewers, except eligibility and loan",1,13,1.837819497851165e-4
+Portugal,7935,163015,3149,70736,9800,Military officer special and tactical operations leaders,1,13,1.837819497851165e-4
+Portugal,7935,163015,3149,70736,4465,"Morticians, undertakers, and funeral arrangers",1,12,1.6964487672472292e-4
+Portugal,7935,163015,3149,70736,6010,Agricultural inspectors,1,12,1.6964487672472292e-4
+Portugal,7935,163015,3149,70736,9040,Air traffic controllers and airfield operations specialists,1,12,1.6964487672472292e-4
+Portugal,7935,163015,3149,70736,0650,Training and development specialists,1,11,1.5550780366432933e-4
+Portugal,7935,163015,3149,70736,6950,Other extraction workers,1,11,1.5550780366432933e-4
+Portugal,7935,163015,3149,70736,0500,"Agents and business managers of artists, performers, and athletes",1,10,1.4137073060393576e-4
+Portugal,7935,163015,3149,70736,1400,Computer hardware engineers,1,10,1.4137073060393576e-4
+Portugal,7935,163015,3149,70736,1840,Urban and regional planners,1,10,1.4137073060393576e-4
+Portugal,7935,163015,3149,70736,5300,"Hotel, motel, and resort desk clerks",1,10,1.4137073060393576e-4
+Portugal,7935,163015,3149,70736,7120,Electronic home entertainment equipment installers and repairers,1,10,1.4137073060393576e-4
+Portugal,7935,163015,3149,70736,9350,Parking attendants,1,10,1.4137073060393576e-4
+Portugal,7935,163015,3149,70736,1545,Other drafters,1,9,1.272336575435422e-4
+Portugal,7935,163015,3149,70736,2636,Merchandise displayers and window trimmers,1,9,1.272336575435422e-4
+Portugal,7935,163015,3149,70736,2830,Editors,1,9,1.272336575435422e-4
+Portugal,7935,163015,3149,70736,7130,Security and fire alarm systems installers,1,9,1.272336575435422e-4
+Portugal,7935,163015,3149,70736,0137,Training and development managers,1,8,1.1309658448314861e-4
+Portugal,7935,163015,3149,70736,1700,Astronomers and physicists,1,8,1.1309658448314861e-4
+Portugal,7935,163015,3149,70736,1860,Other social scientists,1,8,1.1309658448314861e-4
+Portugal,7935,163015,3149,70736,2825,Public relations specialists,2,8,1.1309658448314861e-4
+Portugal,7935,163015,3149,70736,5150,Procurement clerks,1,8,1.1309658448314861e-4
+Portugal,7935,163015,3149,70736,4640,Residential advisors,1,7,9.895951142275503e-5
+Portugal,7935,163015,3149,70736,8620,Water and wastewater treatment plant and system operators,1,7,9.895951142275503e-5
+Portugal,7935,163015,3149,70736,0510,"Buyers and purchasing agents, farm products",1,6,8.482243836236146e-5
+Portugal,7935,163015,3149,70736,1920,Chemical technicians,1,5,7.068536530196788e-5
+Portugal,7935,163015,3149,70736,4435,Other entertainment attendants and related workers,1,5,7.068536530196788e-5
+Portugal,7935,163015,3149,70736,6005,"First-line supervisors of farming, fishing, and forestry workers",1,4,5.6548292241574305e-5
+Portugal,7935,163015,3149,70736,2350,Tutors,1,3,4.241121918118073e-5

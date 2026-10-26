@@ -1,0 +1,147 @@
+country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
+Guinea,672,22791,412,14991,9142,Taxi drivers,26,1183,0.0789140150757121
+Guinea,672,22791,412,14991,3601,Home health aides,19,889,0.059302248015475956
+Guinea,672,22791,412,14991,3603,Nursing assistants,16,671,0.04476018944700153
+Guinea,672,22791,412,14991,3602,Personal care aides,22,573,0.03822293376025615
+Guinea,672,22791,412,14991,3255,Registered nurses,11,402,0.026816089653792275
+Guinea,672,22791,412,14991,0350,Medical and health services managers,6,385,0.025682075912213994
+Guinea,672,22791,412,14991,4510,"Hairdressers, hairstylists, and cosmetologists",10,336,0.022413448068841303
+Guinea,672,22791,412,14991,4220,Janitors and building cleaners,8,330,0.022013207924754852
+Guinea,672,22791,412,14991,5240,Customer service representatives,9,327,0.021813087852711625
+Guinea,672,22791,412,14991,9130,Driver/sales workers and truck drivers,10,290,0.01934494029751184
+Guinea,672,22791,412,14991,9645,Stockers and order fillers,7,282,0.018811286772063236
+Guinea,672,22791,412,14991,4760,Retail salespersons,8,270,0.018010806483890335
+Guinea,672,22791,412,14991,9620,"Laborers and freight, stock, and material movers, hand",5,262,0.01747715295844173
+Guinea,672,22791,412,14991,8990,"Miscellaneous production workers, including equipment operators and tenders",6,241,0.01607631245413915
+Guinea,672,22791,412,14991,9640,"Packers and packagers, hand",5,239,0.015942899072777
+Guinea,672,22791,412,14991,2300,Preschool and kindergarten teachers,4,234,0.015609365619371623
+Guinea,672,22791,412,14991,7750,Other assemblers and fabricators,2,234,0.015609365619371623
+Guinea,672,22791,412,14991,9610,Cleaners of vehicles and equipment,4,216,0.014408645187112268
+Guinea,672,22791,412,14991,3930,Security guards and gaming surveillance officers,8,207,0.01380828497098259
+Guinea,672,22791,412,14991,4600,Childcare workers,7,200,0.013341338136215063
+Guinea,672,22791,412,14991,4720,Cashiers,4,192,0.01280768461076646
+Guinea,672,22791,412,14991,4020,Cooks,5,190,0.012674271229404309
+Guinea,672,22791,412,14991,2350,Tutors,1,188,0.012540857848042158
+Guinea,672,22791,412,14991,0800,Accountants and auditors,7,175,0.01167367086918818
+Guinea,672,22791,412,14991,4230,Maids and housekeeping cleaners,6,175,0.01167367086918818
+Guinea,672,22791,412,14991,3870,Police officers,4,172,0.011473550797144953
+Guinea,672,22791,412,14991,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,171,0.011406844106463879
+Guinea,672,22791,412,14991,9830,"Military, rank not specified",6,164,0.010939897271696352
+Guinea,672,22791,412,14991,4920,Real estate brokers and sales agents,3,162,0.010806483890334201
+Guinea,672,22791,412,14991,0120,Financial managers,3,153,0.010206123674204523
+Guinea,672,22791,412,14991,4700,First-line supervisors of retail sales workers,4,147,0.00980588353011807
+Guinea,672,22791,412,14991,8225,Other metal workers and plastic workers,2,144,0.009605763458074845
+Guinea,672,22791,412,14991,5810,Data entry keyers,2,136,0.009072109932626242
+Guinea,672,22791,412,14991,0530,"Purchasing agents, except wholesale, retail, and farm products",1,128,0.00853845640717764
+Guinea,672,22791,412,14991,0820,Budget analysts,1,127,0.008471749716496564
+Guinea,672,22791,412,14991,5510,Couriers and messengers,2,123,0.008204922953772264
+Guinea,672,22791,412,14991,8800,Packaging and filling machine operators and tenders,4,116,0.007737976119004736
+Guinea,672,22791,412,14991,3500,Licensed practical and licensed vocational nurses,4,113,0.00753785604696151
+Guinea,672,22791,412,14991,3649,Phlebotomists,1,111,0.007404442665599359
+Guinea,672,22791,412,14991,9150,"Motor vehicle operators, all other",3,111,0.007404442665599359
+Guinea,672,22791,412,14991,1430,"Industrial engineers, including health and safety",3,107,0.0071376159028750585
+Guinea,672,22791,412,14991,0710,Management analysts,2,106,0.007070909212193983
+Guinea,672,22791,412,14991,0440,Other managers,4,105,0.007004202521512908
+Guinea,672,22791,412,14991,5940,Other office and administrative support workers,5,104,0.006937495830831832
+Guinea,672,22791,412,14991,2014,"Social workers, all other",4,101,0.006737375758788607
+Guinea,672,22791,412,14991,3655,Other healthcare support workers,3,100,0.0066706690681075315
+Guinea,672,22791,412,14991,1021,Software developers,4,86,0.005736775398572477
+Guinea,672,22791,412,14991,8350,"Tailors, dressmakers, and sewers",2,86,0.005736775398572477
+Guinea,672,22791,412,14991,5540,Postal service clerks,2,85,0.005670068707891401
+Guinea,672,22791,412,14991,3645,Medical assistants,2,84,0.005603362017210326
+Guinea,672,22791,412,14991,9122,"Bus drivers, transit and intercity",3,80,0.005336535254486025
+Guinea,672,22791,412,14991,0160,"Transportation, storage, and distribution managers",1,78,0.005203121873123874
+Guinea,672,22791,412,14991,1920,Chemical technicians,1,78,0.005203121873123874
+Guinea,672,22791,412,14991,3050,Pharmacists,1,77,0.005136415182442799
+Guinea,672,22791,412,14991,0230,Education and childcare administrators,4,76,0.005069708491761723
+Guinea,672,22791,412,14991,9600,Industrial truck and tractor operators,1,75,0.005003001801080648
+Guinea,672,22791,412,14991,9121,"Bus drivers, school",2,74,0.004936295110399573
+Guinea,672,22791,412,14991,2830,Editors,1,73,0.004869588419718498
+Guinea,672,22791,412,14991,6355,Electricians,1,72,0.004802881729037423
+Guinea,672,22791,412,14991,4055,Fast food and counter workers,1,70,0.004669468347675272
+Guinea,672,22791,412,14991,7720,"Electrical, electronics, and electromechanical assemblers",1,69,0.004602761656994196
+Guinea,672,22791,412,14991,4800,Advertising sales agents,1,68,0.004536054966313121
+Guinea,672,22791,412,14991,5000,First-line supervisors of office and administrative support workers,3,67,0.0044693482756320456
+Guinea,672,22791,412,14991,1050,Computer support specialists,1,66,0.004402641584950971
+Guinea,672,22791,412,14991,4820,"Securities, commodities, and financial services sales agents",2,66,0.004402641584950971
+Guinea,672,22791,412,14991,3545,Miscellaneous health technologists and technicians,1,63,0.004202521512907745
+Guinea,672,22791,412,14991,5550,Postal service mail carriers,2,62,0.004135814822226669
+Guinea,672,22791,412,14991,0136,Human resources managers,2,61,0.004069108131545594
+Guinea,672,22791,412,14991,4110,Waiters and waitresses,3,60,0.0040024014408645186
+Guinea,672,22791,412,14991,0137,Training and development managers,1,57,0.0038022813688212928
+Guinea,672,22791,412,14991,9050,Flight attendants,1,57,0.0038022813688212928
+Guinea,672,22791,412,14991,0705,Project management specialists,2,51,0.0034020412247348407
+Guinea,672,22791,412,14991,2545,Teaching assistants,3,51,0.0034020412247348407
+Guinea,672,22791,412,14991,3640,Dental assistants,1,50,0.0033353345340537657
+Guinea,672,22791,412,14991,5120,"Bookkeeping, accounting, and auditing clerks",1,47,0.0031352144620105395
+Guinea,672,22791,412,14991,3300,Clinical laboratory technologists and technicians,2,45,0.003001801080648389
+Guinea,672,22791,412,14991,3421,Pharmacy technicians,1,45,0.003001801080648389
+Guinea,672,22791,412,14991,5740,"Secretaries and administrative assistants, except legal, medical, and executive",3,44,0.0029350943899673137
+Guinea,672,22791,412,14991,6230,Carpenters,1,44,0.0029350943899673137
+Guinea,672,22791,412,14991,9141,Shuttle drivers and chauffeurs,2,42,0.002801681008605163
+Guinea,672,22791,412,14991,0020,General and operations managers,1,41,0.002734974317924088
+Guinea,672,22791,412,14991,0540,"Claims adjusters, appraisers, examiners, and investigators",2,41,0.002734974317924088
+Guinea,672,22791,412,14991,1108,"Computer occupations, all other",2,40,0.0026682676272430125
+Guinea,672,22791,412,14991,0750,"Business operations specialists, all other",1,39,0.002601560936561937
+Guinea,672,22791,412,14991,5850,"Mail clerks and mail machine operators, except postal service",2,39,0.002601560936561937
+Guinea,672,22791,412,14991,5165,Other financial clerks,1,38,0.0025348542458808617
+Guinea,672,22791,412,14991,1360,Civil engineers,2,34,0.0022680274831565605
+Guinea,672,22791,412,14991,0850,Personal financial advisors,2,33,0.0022013207924754855
+Guinea,672,22791,412,14991,9760,Other material moving workers,1,33,0.0022013207924754855
+Guinea,672,22791,412,14991,0110,Computer and information systems managers,1,32,0.00213461410179441
+Guinea,672,22791,412,14991,4655,"Personal care and service workers, all other",1,32,0.00213461410179441
+Guinea,672,22791,412,14991,5610,"Shipping, receiving, and inventory clerks",1,32,0.00213461410179441
+Guinea,672,22791,412,14991,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,32,0.00213461410179441
+Guinea,672,22791,412,14991,8255,Printing press operators,1,31,0.0020679074111133347
+Guinea,672,22791,412,14991,2100,"Lawyers, and judges, magistrates, and other judicial workers",1,30,0.0020012007204322593
+Guinea,672,22791,412,14991,5250,"Eligibility interviewers, government programs",1,30,0.0020012007204322593
+Guinea,672,22791,412,14991,3700,First-line supervisors of correctional officers,1,28,0.0018677873390701087
+Guinea,672,22791,412,14991,4710,First-line supervisors of non-retail sales workers,1,28,0.0018677873390701087
+Guinea,672,22791,412,14991,3610,Occupational therapy assistants and aides,2,27,0.0018010806483890335
+Guinea,672,22791,412,14991,4010,First-line supervisors of food preparation and serving workers,1,27,0.0018010806483890335
+Guinea,672,22791,412,14991,2006,"Counselors, all other",1,24,0.0016009605763458075
+Guinea,672,22791,412,14991,7020,Radio and telecommunications equipment installers and repairers,1,24,0.0016009605763458075
+Guinea,672,22791,412,14991,7130,Security and fire alarm systems installers,1,24,0.0016009605763458075
+Guinea,672,22791,412,14991,8640,"Chemical processing machine setters, operators, and tenders",1,24,0.0016009605763458075
+Guinea,672,22791,412,14991,5860,"Office clerks, general",2,23,0.0015342538856647323
+Guinea,672,22791,412,14991,9430,Other transportation workers,1,23,0.0015342538856647323
+Guinea,672,22791,412,14991,1800,Economists,1,22,0.0014675471949836569
+Guinea,672,22791,412,14991,2205,Postsecondary teachers,1,22,0.0014675471949836569
+Guinea,672,22791,412,14991,3110,Physician assistants,1,22,0.0014675471949836569
+Guinea,672,22791,412,14991,7330,Industrial and refractory machinery mechanics,1,22,0.0014675471949836569
+Guinea,672,22791,412,14991,0220,Construction managers,1,21,0.0014008405043025814
+Guinea,672,22791,412,14991,2310,Elementary and middle school teachers,1,20,0.0013341338136215063
+Guinea,672,22791,412,14991,7200,Automotive service technicians and mechanics,1,20,0.0013341338136215063
+Guinea,672,22791,412,14991,2004,Mental health counselors,1,19,0.0012674271229404308
+Guinea,672,22791,412,14991,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,19,0.0012674271229404308
+Guinea,672,22791,412,14991,2700,Actors,1,18,0.0012007204322593557
+Guinea,672,22791,412,14991,4140,Dishwashers,2,18,0.0012007204322593557
+Guinea,672,22791,412,14991,1545,Other drafters,1,17,0.0011340137415782802
+Guinea,672,22791,412,14991,2060,"Religious workers, all other",1,17,0.0011340137415782802
+Guinea,672,22791,412,14991,4251,Landscaping and groundskeeping workers,1,17,0.0011340137415782802
+Guinea,672,22791,412,14991,0150,Purchasing managers,1,16,0.001067307050897205
+Guinea,672,22791,412,14991,0700,Logisticians,1,16,0.001067307050897205
+Guinea,672,22791,412,14991,3401,Emergency medical technicians,1,15,0.0010006003602161296
+Guinea,672,22791,412,14991,3430,Dietetic technicians and ophthalmic medical technicians,1,15,0.0010006003602161296
+Guinea,672,22791,412,14991,4965,"Sales and related workers, all other",1,15,0.0010006003602161296
+Guinea,672,22791,412,14991,0630,Human resources workers,1,14,9.338936695350543e-4
+Guinea,672,22791,412,14991,1007,Information security analysts,1,14,9.338936695350543e-4
+Guinea,672,22791,412,14991,1970,"Other life, physical, and social science technicians",1,14,9.338936695350543e-4
+Guinea,672,22791,412,14991,5140,Payroll and timekeeping clerks,1,14,9.338936695350543e-4
+Guinea,672,22791,412,14991,0300,Architectural and engineering managers,1,13,8.67186978853979e-4
+Guinea,672,22791,412,14991,0565,Compliance officers,1,13,8.67186978853979e-4
+Guinea,672,22791,412,14991,3725,"Miscellaneous first-line supervisors, protective service workers",1,13,8.67186978853979e-4
+Guinea,672,22791,412,14991,7340,"Maintenance and repair workers, general",1,13,8.67186978853979e-4
+Guinea,672,22791,412,14991,5840,Insurance claims and policy processing clerks,1,12,8.004802881729037e-4
+Guinea,672,22791,412,14991,7640,"Other installation, maintenance, and repair workers",1,12,8.004802881729037e-4
+Guinea,672,22791,412,14991,1410,Electrical and electronics engineers,1,11,7.337735974918284e-4
+Guinea,672,22791,412,14991,5410,Reservation and transportation ticket agents and travel clerks,1,11,7.337735974918284e-4
+Guinea,672,22791,412,14991,7905,Computer numerically controlled tool operators and programmers,1,11,7.337735974918284e-4
+Guinea,672,22791,412,14991,5260,File clerks,1,10,6.670669068107531e-4
+Guinea,672,22791,412,14991,1220,Operations research analysts,1,9,6.003602161296778e-4
+Guinea,672,22791,412,14991,5720,Legal secretaries and administrative assistants,1,9,6.003602161296778e-4
+Guinea,672,22791,412,14991,0310,Food service managers,1,8,5.336535254486025e-4
+Guinea,672,22791,412,14991,5400,Receptionists and information clerks,1,8,5.336535254486025e-4
+Guinea,672,22791,412,14991,5560,"Postal service mail sorters, processors, and processing machine operators",1,8,5.336535254486025e-4
+Guinea,672,22791,412,14991,5160,Tellers,1,7,4.6694683476752717e-4
+Guinea,672,22791,412,14991,0420,Social and community service managers,1,6,4.0024014408645187e-4

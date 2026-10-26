@@ -1,0 +1,222 @@
+country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
+Switzerland,2206,39064,942,17850,2205,Postsecondary teachers,62,1069,0.05988795518207283
+Switzerland,2206,39064,942,17850,0440,Other managers,55,1019,0.05708683473389356
+Switzerland,2206,39064,942,17850,0010,Chief executives and legislators,41,893,0.05002801120448179
+Switzerland,2206,39064,942,17850,1021,Software developers,32,559,0.031316526610644255
+Switzerland,2206,39064,942,17850,1760,"Physical scientists, all other",25,469,0.02627450980392157
+Switzerland,2206,39064,942,17850,2310,Elementary and middle school teachers,16,376,0.021064425770308124
+Switzerland,2206,39064,942,17850,5240,Customer service representatives,11,368,0.02061624649859944
+Switzerland,2206,39064,942,17850,0120,Financial managers,15,366,0.020504201680672268
+Switzerland,2206,39064,942,17850,0710,Management analysts,18,365,0.020448179271708684
+Switzerland,2206,39064,942,17850,9030,Aircraft pilots and flight engineers,17,317,0.017759103641456584
+Switzerland,2206,39064,942,17850,2100,"Lawyers, and judges, magistrates, and other judicial workers",13,309,0.0173109243697479
+Switzerland,2206,39064,942,17850,1430,"Industrial engineers, including health and safety",7,280,0.01568627450980392
+Switzerland,2206,39064,942,17850,4965,"Sales and related workers, all other",3,280,0.01568627450980392
+Switzerland,2206,39064,942,17850,4700,First-line supervisors of retail sales workers,17,278,0.01557422969187675
+Switzerland,2206,39064,942,17850,1530,Other engineers,15,240,0.013445378151260505
+Switzerland,2206,39064,942,17850,0051,Marketing managers,14,237,0.013277310924369748
+Switzerland,2206,39064,942,17850,5120,"Bookkeeping, accounting, and auditing clerks",10,228,0.012773109243697478
+Switzerland,2206,39064,942,17850,4850,"Sales representatives, wholesale and manufacturing",24,227,0.012717086834733894
+Switzerland,2206,39064,942,17850,0705,Project management specialists,9,189,0.010588235294117647
+Switzerland,2206,39064,942,17850,1050,Computer support specialists,6,186,0.010420168067226891
+Switzerland,2206,39064,942,17850,1650,Other life scientists,7,182,0.01019607843137255
+Switzerland,2206,39064,942,17850,0020,General and operations managers,10,177,0.009915966386554622
+Switzerland,2206,39064,942,17850,0110,Computer and information systems managers,7,171,0.00957983193277311
+Switzerland,2206,39064,942,17850,4760,Retail salespersons,8,171,0.00957983193277311
+Switzerland,2206,39064,942,17850,2320,Secondary school teachers,6,167,0.009355742296918768
+Switzerland,2206,39064,942,17850,0800,Accountants and auditors,8,162,0.00907563025210084
+Switzerland,2206,39064,942,17850,2545,Teaching assistants,7,161,0.009019607843137255
+Switzerland,2206,39064,942,17850,0750,"Business operations specialists, all other",9,159,0.008907563025210084
+Switzerland,2206,39064,942,17850,4600,Childcare workers,8,159,0.008907563025210084
+Switzerland,2206,39064,942,17850,4920,Real estate brokers and sales agents,8,157,0.008795518207282913
+Switzerland,2206,39064,942,17850,0310,Food service managers,6,156,0.008739495798319327
+Switzerland,2206,39064,942,17850,3255,Registered nurses,8,155,0.008683473389355743
+Switzerland,2206,39064,942,17850,3090,Physicians,7,154,0.008627450980392156
+Switzerland,2206,39064,942,17850,0350,Medical and health services managers,6,145,0.008123249299719889
+Switzerland,2206,39064,942,17850,4720,Cashiers,5,144,0.008067226890756302
+Switzerland,2206,39064,942,17850,2360,Other teachers and instructors,7,136,0.007619047619047619
+Switzerland,2206,39064,942,17850,0520,"Wholesale and retail buyers, except farm products",3,135,0.007563025210084034
+Switzerland,2206,39064,942,17850,0300,Architectural and engineering managers,5,134,0.007507002801120448
+Switzerland,2206,39064,942,17850,2600,Artists and related workers,7,132,0.007394957983193277
+Switzerland,2206,39064,942,17850,4710,First-line supervisors of non-retail sales workers,8,132,0.007394957983193277
+Switzerland,2206,39064,942,17850,0230,Education and childcare administrators,7,130,0.007282913165266107
+Switzerland,2206,39064,942,17850,6230,Carpenters,5,126,0.007058823529411765
+Switzerland,2206,39064,942,17850,0630,Human resources workers,4,123,0.006890756302521009
+Switzerland,2206,39064,942,17850,2060,"Religious workers, all other",7,117,0.006554621848739495
+Switzerland,2206,39064,942,17850,0052,Sales managers,5,116,0.00649859943977591
+Switzerland,2206,39064,942,17850,4110,Waiters and waitresses,7,114,0.006386554621848739
+Switzerland,2206,39064,942,17850,0650,Training and development specialists,2,113,0.006330532212885154
+Switzerland,2206,39064,942,17850,4621,Exercise trainers and group fitness instructors,5,112,0.006274509803921568
+Switzerland,2206,39064,942,17850,0205,"Farmers, ranchers, and other agricultural managers",5,108,0.006050420168067227
+Switzerland,2206,39064,942,17850,0340,Lodging managers,4,96,0.005378151260504202
+Switzerland,2206,39064,942,17850,1240,Other mathematical science occupations,8,96,0.005378151260504202
+Switzerland,2206,39064,942,17850,1006,Computer systems analysts,6,94,0.005266106442577031
+Switzerland,2206,39064,942,17850,0845,Financial and investment analysts,5,93,0.005210084033613446
+Switzerland,2206,39064,942,17850,5320,"Library assistants, clerical",8,93,0.005210084033613446
+Switzerland,2206,39064,942,17850,1460,Mechanical engineers,4,91,0.005098039215686275
+Switzerland,2206,39064,942,17850,2300,Preschool and kindergarten teachers,5,89,0.004985994397759104
+Switzerland,2206,39064,942,17850,4220,Janitors and building cleaners,2,87,0.004873949579831933
+Switzerland,2206,39064,942,17850,5000,First-line supervisors of office and administrative support workers,5,86,0.004817927170868348
+Switzerland,2206,39064,942,17850,0140,Industrial production managers,3,80,0.004481792717086834
+Switzerland,2206,39064,942,17850,1320,Aerospace engineers,4,77,0.004313725490196078
+Switzerland,2206,39064,942,17850,1970,"Other life, physical, and social science technicians",4,77,0.004313725490196078
+Switzerland,2206,39064,942,17850,4820,"Securities, commodities, and financial services sales agents",5,77,0.004313725490196078
+Switzerland,2206,39064,942,17850,2634,Graphic designers,5,75,0.004201680672268907
+Switzerland,2206,39064,942,17850,4000,Chefs and head cooks,4,74,0.004145658263305322
+Switzerland,2206,39064,942,17850,2920,"Television, video, and film camera operators and editors",5,71,0.003977591036414566
+Switzerland,2206,39064,942,17850,6355,Electricians,4,71,0.003977591036414566
+Switzerland,2206,39064,942,17850,0735,Market research analysts and marketing specialists,5,70,0.00392156862745098
+Switzerland,2206,39064,942,17850,2910,Photographers,3,68,0.0038095238095238095
+Switzerland,2206,39064,942,17850,1350,Chemical engineers,4,67,0.003753501400560224
+Switzerland,2206,39064,942,17850,5740,"Secretaries and administrative assistants, except legal, medical, and executive",6,66,0.0036974789915966387
+Switzerland,2206,39064,942,17850,5400,Receptionists and information clerks,6,64,0.003585434173669468
+Switzerland,2206,39064,942,17850,9130,Driver/sales workers and truck drivers,4,64,0.003585434173669468
+Switzerland,2206,39064,942,17850,1305,"Architects, except landscape and naval",3,58,0.003249299719887955
+Switzerland,2206,39064,942,17850,1400,Computer hardware engineers,2,58,0.003249299719887955
+Switzerland,2206,39064,942,17850,2640,Other designers,4,58,0.003249299719887955
+Switzerland,2206,39064,942,17850,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",3,56,0.003137254901960784
+Switzerland,2206,39064,942,17850,9142,Taxi drivers,2,56,0.003137254901960784
+Switzerland,2206,39064,942,17850,8750,Jewelers and precious stone and metal workers,3,54,0.0030252100840336134
+Switzerland,2206,39064,942,17850,5860,"Office clerks, general",4,52,0.0029131652661064425
+Switzerland,2206,39064,942,17850,3258,"Nurse practitioners, and nurse midwives",2,51,0.002857142857142857
+Switzerland,2206,39064,942,17850,5165,Other financial clerks,4,49,0.0027450980392156863
+Switzerland,2206,39064,942,17850,8030,Machinists,1,49,0.0027450980392156863
+Switzerland,2206,39064,942,17850,4020,Cooks,4,48,0.002689075630252101
+Switzerland,2206,39064,942,17850,0410,"Property, real estate, and community association managers",4,47,0.0026330532212885155
+Switzerland,2206,39064,942,17850,0420,Social and community service managers,4,47,0.0026330532212885155
+Switzerland,2206,39064,942,17850,0530,"Purchasing agents, except wholesale, retail, and farm products",2,46,0.00257703081232493
+Switzerland,2206,39064,942,17850,2145,Paralegals and legal assistants,3,46,0.00257703081232493
+Switzerland,2206,39064,942,17850,2751,Music directors and composers,1,46,0.00257703081232493
+Switzerland,2206,39064,942,17850,0960,Other financial specialists,2,45,0.0025210084033613447
+Switzerland,2206,39064,942,17850,4240,Pest control workers,1,45,0.0025210084033613447
+Switzerland,2206,39064,942,17850,2722,Coaches and scouts,3,44,0.0024649859943977593
+Switzerland,2206,39064,942,17850,9050,Flight attendants,1,44,0.0024649859943977593
+Switzerland,2206,39064,942,17850,1410,Electrical and electronics engineers,2,43,0.002408963585434174
+Switzerland,2206,39064,942,17850,2040,Clergy,2,43,0.002408963585434174
+Switzerland,2206,39064,942,17850,1032,Web and digital interface designers,2,42,0.002352941176470588
+Switzerland,2206,39064,942,17850,8740,"Inspectors, testers, sorters, samplers, and weighers",2,42,0.002352941176470588
+Switzerland,2206,39064,942,17850,9620,"Laborers and freight, stock, and material movers, hand",4,42,0.002352941176470588
+Switzerland,2206,39064,942,17850,2810,"News analysts, reporters, and journalists",3,41,0.0022969187675070026
+Switzerland,2206,39064,942,17850,5710,Executive secretaries and executive administrative assistants,3,41,0.0022969187675070026
+Switzerland,2206,39064,942,17850,0136,Human resources managers,3,40,0.002240896358543417
+Switzerland,2206,39064,942,17850,3300,Clinical laboratory technologists and technicians,3,40,0.002240896358543417
+Switzerland,2206,39064,942,17850,2710,Producers and directors,1,39,0.002184873949579832
+Switzerland,2206,39064,942,17850,5220,"Court, municipal, and license clerks",1,39,0.002184873949579832
+Switzerland,2206,39064,942,17850,3250,Veterinarians,1,38,0.0021288515406162464
+Switzerland,2206,39064,942,17850,0101,Administrative services managers,2,37,0.002072829131652661
+Switzerland,2206,39064,942,17850,2850,Writers and authors,2,37,0.002072829131652661
+Switzerland,2206,39064,942,17850,0910,Credit counselors and loan officers,2,35,0.00196078431372549
+Switzerland,2206,39064,942,17850,3160,Physical therapists,4,35,0.00196078431372549
+Switzerland,2206,39064,942,17850,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,34,0.0019047619047619048
+Switzerland,2206,39064,942,17850,0220,Construction managers,1,33,0.0018487394957983194
+Switzerland,2206,39064,942,17850,1106,Computer network architects,1,33,0.0018487394957983194
+Switzerland,2206,39064,942,17850,1825,Other psychologists,3,33,0.0018487394957983194
+Switzerland,2206,39064,942,17850,2025,Other community and social service specialists,1,33,0.0018487394957983194
+Switzerland,2206,39064,942,17850,2635,Interior designers,2,33,0.0018487394957983194
+Switzerland,2206,39064,942,17850,8130,Tool and die makers,1,33,0.0018487394957983194
+Switzerland,2206,39064,942,17850,3150,Occupational therapists,2,32,0.001792717086834734
+Switzerland,2206,39064,942,17850,9610,Cleaners of vehicles and equipment,1,32,0.001792717086834734
+Switzerland,2206,39064,942,17850,1065,Database administrators and architects,2,31,0.0017366946778711485
+Switzerland,2206,39064,942,17850,2330,Special education teachers,3,31,0.0017366946778711485
+Switzerland,2206,39064,942,17850,2861,Interpreters and translators,2,30,0.0016806722689075631
+Switzerland,2206,39064,942,17850,6240,"Carpet, floor, and tile installers and finishers",1,30,0.0016806722689075631
+Switzerland,2206,39064,942,17850,7000,"First-line supervisors of mechanics, installers, and repairers",3,30,0.0016806722689075631
+Switzerland,2206,39064,942,17850,2770,"Entertainers and performers, sports and related workers, all other",1,29,0.0016246498599439775
+Switzerland,2206,39064,942,17850,7800,Bakers,2,29,0.0016246498599439775
+Switzerland,2206,39064,942,17850,9645,Stockers and order fillers,2,29,0.0016246498599439775
+Switzerland,2206,39064,942,17850,0060,Public relations and fundraising managers,1,28,0.001568627450980392
+Switzerland,2206,39064,942,17850,7430,Precision instrument and equipment repairers,2,28,0.001568627450980392
+Switzerland,2206,39064,942,17850,3645,Medical assistants,1,27,0.0015126050420168067
+Switzerland,2206,39064,942,17850,2840,Technical writers,1,26,0.0014565826330532213
+Switzerland,2206,39064,942,17850,3602,Personal care aides,2,26,0.0014565826330532213
+Switzerland,2206,39064,942,17850,2435,Librarians and media collections specialists,1,25,0.0014005602240896359
+Switzerland,2206,39064,942,17850,3245,Other therapists,1,25,0.0014005602240896359
+Switzerland,2206,39064,942,17850,2002,"Educational, guidance, and career counselors and advisors",2,24,0.0013445378151260505
+Switzerland,2206,39064,942,17850,3870,Police officers,1,24,0.0013445378151260505
+Switzerland,2206,39064,942,17850,4230,Maids and housekeeping cleaners,3,24,0.0013445378151260505
+Switzerland,2206,39064,942,17850,5510,Couriers and messengers,2,24,0.0013445378151260505
+Switzerland,2206,39064,942,17850,8555,Other woodworkers,2,24,0.0013445378151260505
+Switzerland,2206,39064,942,17850,1610,Biological scientists,2,23,0.001288515406162465
+Switzerland,2206,39064,942,17850,5810,Data entry keyers,1,23,0.001288515406162465
+Switzerland,2206,39064,942,17850,8320,Sewing machine operators,2,23,0.001288515406162465
+Switzerland,2206,39064,942,17850,1105,Network and computer systems administrators,2,22,0.0012324929971988796
+Switzerland,2206,39064,942,17850,2350,Tutors,1,21,0.001176470588235294
+Switzerland,2206,39064,942,17850,5360,"Human resources assistants, except payroll and timekeeping",1,21,0.001176470588235294
+Switzerland,2206,39064,942,17850,7420,Telecommunications line installers and repairers,1,21,0.001176470588235294
+Switzerland,2206,39064,942,17850,9122,"Bus drivers, transit and intercity",1,21,0.001176470588235294
+Switzerland,2206,39064,942,17850,2180,"Legal support workers, all other",1,20,0.0011204481792717086
+Switzerland,2206,39064,942,17850,3100,Surgeons,2,20,0.0011204481792717086
+Switzerland,2206,39064,942,17850,6260,Construction laborers,2,20,0.0011204481792717086
+Switzerland,2206,39064,942,17850,0850,Personal financial advisors,2,19,0.0010644257703081232
+Switzerland,2206,39064,942,17850,1822,School psychologists,1,19,0.0010644257703081232
+Switzerland,2206,39064,942,17850,4435,Other entertainment attendants and related workers,1,19,0.0010644257703081232
+Switzerland,2206,39064,942,17850,9121,"Bus drivers, school",1,19,0.0010644257703081232
+Switzerland,2206,39064,942,17850,1360,Civil engineers,2,18,0.0010084033613445378
+Switzerland,2206,39064,942,17850,1545,Other drafters,1,18,0.0010084033613445378
+Switzerland,2206,39064,942,17850,1700,Astronomers and physicists,1,18,0.0010084033613445378
+Switzerland,2206,39064,942,17850,3270,"Healthcare diagnosing or treating practitioners, all other",1,18,0.0010084033613445378
+Switzerland,2206,39064,942,17850,3630,Massage therapists,2,18,0.0010084033613445378
+Switzerland,2206,39064,942,17850,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,18,0.0010084033613445378
+Switzerland,2206,39064,942,17850,1108,"Computer occupations, all other",2,17,9.523809523809524e-4
+Switzerland,2206,39064,942,17850,2752,Musicians and singers,1,17,9.523809523809524e-4
+Switzerland,2206,39064,942,17850,0160,"Transportation, storage, and distribution managers",1,16,8.96358543417367e-4
+Switzerland,2206,39064,942,17850,0725,"Meeting, convention, and event planners",1,16,8.96358543417367e-4
+Switzerland,2206,39064,942,17850,0810,Property appraisers and assessors,1,16,8.96358543417367e-4
+Switzerland,2206,39064,942,17850,2905,Other media and communication equipment workers,1,16,8.96358543417367e-4
+Switzerland,2206,39064,942,17850,3261,Acupuncturists,1,16,8.96358543417367e-4
+Switzerland,2206,39064,942,17850,3945,Transportation security screeners,1,16,8.96358543417367e-4
+Switzerland,2206,39064,942,17850,0565,Compliance officers,1,15,8.403361344537816e-4
+Switzerland,2206,39064,942,17850,1010,Computer programmers,1,15,8.403361344537816e-4
+Switzerland,2206,39064,942,17850,1551,Electrical and electronic engineering technologists and technicians,1,15,8.403361344537816e-4
+Switzerland,2206,39064,942,17850,1821,Clinical and counseling psychologists,1,15,8.403361344537816e-4
+Switzerland,2206,39064,942,17850,3700,First-line supervisors of correctional officers,1,15,8.403361344537816e-4
+Switzerland,2206,39064,942,17850,5100,Bill and account collectors,1,15,8.403361344537816e-4
+Switzerland,2206,39064,942,17850,5730,Medical secretaries and administrative assistants,1,15,8.403361344537816e-4
+Switzerland,2206,39064,942,17850,7340,"Maintenance and repair workers, general",2,15,8.403361344537816e-4
+Switzerland,2206,39064,942,17850,8610,Stationary engineers and boiler operators,1,15,8.403361344537816e-4
+Switzerland,2206,39064,942,17850,1005,Computer and information research scientists,1,14,7.84313725490196e-4
+Switzerland,2206,39064,942,17850,2740,Dancers and choreographers,1,14,7.84313725490196e-4
+Switzerland,2206,39064,942,17850,3030,Dietitians and nutritionists,1,14,7.84313725490196e-4
+Switzerland,2206,39064,942,17850,3930,Security guards and gaming surveillance officers,2,14,7.84313725490196e-4
+Switzerland,2206,39064,942,17850,4251,Landscaping and groundskeeping workers,1,14,7.84313725490196e-4
+Switzerland,2206,39064,942,17850,4510,"Hairdressers, hairstylists, and cosmetologists",2,14,7.84313725490196e-4
+Switzerland,2206,39064,942,17850,4525,Other personal appearance workers,1,14,7.84313725490196e-4
+Switzerland,2206,39064,942,17850,9640,"Packers and packagers, hand",1,14,7.84313725490196e-4
+Switzerland,2206,39064,942,17850,0940,Tax preparers,1,13,7.282913165266106e-4
+Switzerland,2206,39064,942,17850,1750,"Geoscientists and hydrologists, except geographers",1,13,7.282913165266106e-4
+Switzerland,2206,39064,942,17850,5550,Postal service mail carriers,1,13,7.282913165266106e-4
+Switzerland,2206,39064,942,17850,1031,Web developers,1,12,6.722689075630252e-4
+Switzerland,2206,39064,942,17850,2006,"Counselors, all other",1,12,6.722689075630252e-4
+Switzerland,2206,39064,942,17850,3310,Dental hygienists,1,12,6.722689075630252e-4
+Switzerland,2206,39064,942,17850,3515,Medical records specialists,1,12,6.722689075630252e-4
+Switzerland,2206,39064,942,17850,4010,First-line supervisors of food preparation and serving workers,1,12,6.722689075630252e-4
+Switzerland,2206,39064,942,17850,4830,Travel agents,1,12,6.722689075630252e-4
+Switzerland,2206,39064,942,17850,6050,Other agricultural workers,1,12,6.722689075630252e-4
+Switzerland,2206,39064,942,17850,0150,Purchasing managers,1,11,6.162464985994398e-4
+Switzerland,2206,39064,942,17850,1007,Information security analysts,1,11,6.162464985994398e-4
+Switzerland,2206,39064,942,17850,1860,Other social scientists,1,11,6.162464985994398e-4
+Switzerland,2206,39064,942,17850,5110,Billing and posting clerks,1,11,6.162464985994398e-4
+Switzerland,2206,39064,942,17850,7700,First-line supervisors of production and operating workers,1,11,6.162464985994398e-4
+Switzerland,2206,39064,942,17850,9630,Machine feeders and offbearers,1,11,6.162464985994398e-4
+Switzerland,2206,39064,942,17850,9650,Pumping station operators,1,11,6.162464985994398e-4
+Switzerland,2206,39064,942,17850,1800,Economists,1,10,5.602240896358543e-4
+Switzerland,2206,39064,942,17850,2014,"Social workers, all other",1,10,5.602240896358543e-4
+Switzerland,2206,39064,942,17850,3647,Pharmacy aides,1,10,5.602240896358543e-4
+Switzerland,2206,39064,942,17850,6330,"Drywall installers, ceiling tile installers, and tapers",1,10,5.602240896358543e-4
+Switzerland,2206,39064,942,17850,0726,Fundraisers,1,9,5.042016806722689e-4
+Switzerland,2206,39064,942,17850,3000,Chiropractors,1,9,5.042016806722689e-4
+Switzerland,2206,39064,942,17850,3322,Diagnostic medical sonographers,1,9,5.042016806722689e-4
+Switzerland,2206,39064,942,17850,4030,Food preparation workers,1,9,5.042016806722689e-4
+Switzerland,2206,39064,942,17850,5500,Cargo and freight agents,1,9,5.042016806722689e-4
+Switzerland,2206,39064,942,17850,7140,Aircraft mechanics and service technicians,2,9,5.042016806722689e-4
+Switzerland,2206,39064,942,17850,8500,Cabinetmakers and bench carpenters,2,9,5.042016806722689e-4
+Switzerland,2206,39064,942,17850,2636,Merchandise displayers and window trimmers,1,8,4.481792717086835e-4
+Switzerland,2206,39064,942,17850,0700,Logisticians,1,7,3.92156862745098e-4
+Switzerland,2206,39064,942,17850,1220,Operations research analysts,1,7,3.92156862745098e-4
+Switzerland,2206,39064,942,17850,7315,"Heating, air conditioning, and refrigeration mechanics and installers",1,6,3.361344537815126e-4
+Switzerland,2206,39064,942,17850,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,6,3.361344537815126e-4
+Switzerland,2206,39064,942,17850,3401,Emergency medical technicians,1,4,2.2408963585434174e-4
+Switzerland,2206,39064,942,17850,3960,Other protective service workers,1,3,1.680672268907563e-4
+Switzerland,2206,39064,942,17850,6200,First-line supervisors of construction trades and extraction workers,1,3,1.680672268907563e-4
+Switzerland,2206,39064,942,17850,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,3,1.680672268907563e-4
+Switzerland,2206,39064,942,17850,2830,Editors,1,2,1.1204481792717087e-4

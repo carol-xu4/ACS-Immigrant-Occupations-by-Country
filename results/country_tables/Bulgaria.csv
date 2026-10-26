@@ -1,0 +1,342 @@
+country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
+Bulgaria,3462,74945,2291,50703,9130,Driver/sales workers and truck drivers,109,2905,0.05729444017119303
+Bulgaria,3462,74945,2291,50703,0440,Other managers,94,2170,0.0427982565134213
+Bulgaria,3462,74945,2291,50703,1021,Software developers,98,2162,0.042640474922588406
+Bulgaria,3462,74945,2291,50703,0800,Accountants and auditors,56,1226,0.024180028795140328
+Bulgaria,3462,74945,2291,50703,4110,Waiters and waitresses,48,1165,0.022976944165039544
+Bulgaria,3462,74945,2291,50703,4700,First-line supervisors of retail sales workers,39,1056,0.020827169989941424
+Bulgaria,3462,74945,2291,50703,2205,Postsecondary teachers,51,939,0.018519614224010415
+Bulgaria,3462,74945,2291,50703,4760,Retail salespersons,34,807,0.015916217975267734
+Bulgaria,3462,74945,2291,50703,0120,Financial managers,41,804,0.0158570498787054
+Bulgaria,3462,74945,2291,50703,4220,Janitors and building cleaners,25,786,0.015502041299331401
+Bulgaria,3462,74945,2291,50703,0010,Chief executives and legislators,30,646,0.012740863459755832
+Bulgaria,3462,74945,2291,50703,3255,Registered nurses,26,591,0.011656115022779717
+Bulgaria,3462,74945,2291,50703,3090,Physicians,29,567,0.01118277025028105
+Bulgaria,3462,74945,2291,50703,1760,"Physical scientists, all other",25,565,0.011143324852572826
+Bulgaria,3462,74945,2291,50703,0845,Financial and investment analysts,20,553,0.010906652466323491
+Bulgaria,3462,74945,2291,50703,0340,Lodging managers,6,512,0.010098021813304933
+Bulgaria,3462,74945,2291,50703,0710,Management analysts,23,510,0.01005857641559671
+Bulgaria,3462,74945,2291,50703,1006,Computer systems analysts,10,509,0.0100388537167426
+Bulgaria,3462,74945,2291,50703,3602,Personal care aides,12,509,0.0100388537167426
+Bulgaria,3462,74945,2291,50703,5240,Customer service representatives,21,492,0.009703567836222709
+Bulgaria,3462,74945,2291,50703,5120,"Bookkeeping, accounting, and auditing clerks",27,482,0.009506340847681597
+Bulgaria,3462,74945,2291,50703,0110,Computer and information systems managers,19,480,0.009466895449973374
+Bulgaria,3462,74945,2291,50703,1530,Other engineers,21,478,0.009427450052265153
+Bulgaria,3462,74945,2291,50703,9142,Taxi drivers,18,478,0.009427450052265153
+Bulgaria,3462,74945,2291,50703,4920,Real estate brokers and sales agents,18,469,0.00924994576257815
+Bulgaria,3462,74945,2291,50703,0310,Food service managers,21,447,0.008816046387787706
+Bulgaria,3462,74945,2291,50703,0020,General and operations managers,22,433,0.008539928603830148
+Bulgaria,3462,74945,2291,50703,2310,Elementary and middle school teachers,25,395,0.007790466047373923
+Bulgaria,3462,74945,2291,50703,1108,"Computer occupations, all other",18,355,0.007001558093209475
+Bulgaria,3462,74945,2291,50703,4710,First-line supervisors of non-retail sales workers,15,354,0.006981835394355364
+Bulgaria,3462,74945,2291,50703,2545,Teaching assistants,18,351,0.00692266729779303
+Bulgaria,3462,74945,2291,50703,5510,Couriers and messengers,15,347,0.006843776502376585
+Bulgaria,3462,74945,2291,50703,4230,Maids and housekeeping cleaners,14,338,0.006666272212689585
+Bulgaria,3462,74945,2291,50703,5000,First-line supervisors of office and administrative support workers,12,331,0.006528213320710806
+Bulgaria,3462,74945,2291,50703,0705,Project management specialists,16,328,0.006469045224148473
+Bulgaria,3462,74945,2291,50703,2360,Other teachers and instructors,20,328,0.006469045224148473
+Bulgaria,3462,74945,2291,50703,4965,"Sales and related workers, all other",8,324,0.006390154428732028
+Bulgaria,3462,74945,2291,50703,0735,Market research analysts and marketing specialists,10,319,0.006291540934461472
+Bulgaria,3462,74945,2291,50703,0630,Human resources workers,17,315,0.006212650139045027
+Bulgaria,3462,74945,2291,50703,2100,"Lawyers, and judges, magistrates, and other judicial workers",18,313,0.006173204741336804
+Bulgaria,3462,74945,2291,50703,4020,Cooks,10,313,0.006173204741336804
+Bulgaria,3462,74945,2291,50703,5940,Other office and administrative support workers,11,308,0.006074591247066248
+Bulgaria,3462,74945,2291,50703,4040,Bartenders,12,302,0.005956255053941581
+Bulgaria,3462,74945,2291,50703,6442,"Plumbers, pipefitters, and steamfitters",14,302,0.005956255053941581
+Bulgaria,3462,74945,2291,50703,5740,"Secretaries and administrative assistants, except legal, medical, and executive",14,300,0.005916809656233359
+Bulgaria,3462,74945,2291,50703,1240,Other mathematical science occupations,13,297,0.005857641559671025
+Bulgaria,3462,74945,2291,50703,0850,Personal financial advisors,10,293,0.005778750764254581
+Bulgaria,3462,74945,2291,50703,0160,"Transportation, storage, and distribution managers",6,291,0.0057393053665463585
+Bulgaria,3462,74945,2291,50703,0051,Marketing managers,18,279,0.005502632980297024
+Bulgaria,3462,74945,2291,50703,3603,Nursing assistants,10,278,0.005482910281442913
+Bulgaria,3462,74945,2291,50703,6260,Construction laborers,14,278,0.005482910281442913
+Bulgaria,3462,74945,2291,50703,4720,Cashiers,13,273,0.005384296787172357
+Bulgaria,3462,74945,2291,50703,2640,Other designers,10,271,0.005344851389464134
+Bulgaria,3462,74945,2291,50703,7200,Automotive service technicians and mechanics,12,265,0.005226515196339467
+Bulgaria,3462,74945,2291,50703,5522,"Dispatchers, except police, fire, and ambulance",13,262,0.005167347099777134
+Bulgaria,3462,74945,2291,50703,2320,Secondary school teachers,15,257,0.005068733605506578
+Bulgaria,3462,74945,2291,50703,9620,"Laborers and freight, stock, and material movers, hand",12,251,0.00495039741238191
+Bulgaria,3462,74945,2291,50703,7750,Other assemblers and fabricators,10,249,0.004910952014673688
+Bulgaria,3462,74945,2291,50703,0300,Architectural and engineering managers,11,242,0.004772893122694909
+Bulgaria,3462,74945,2291,50703,4621,Exercise trainers and group fitness instructors,8,241,0.0047531704238407985
+Bulgaria,3462,74945,2291,50703,2300,Preschool and kindergarten teachers,9,240,0.004733447724986687
+Bulgaria,3462,74945,2291,50703,1360,Civil engineers,13,235,0.004634834230716131
+Bulgaria,3462,74945,2291,50703,2634,Graphic designers,10,223,0.004398161844466797
+Bulgaria,3462,74945,2291,50703,4522,Skincare specialists,9,221,0.004358716446758574
+Bulgaria,3462,74945,2291,50703,1410,Electrical and electronics engineers,14,216,0.004260102952488018
+Bulgaria,3462,74945,2291,50703,1050,Computer support specialists,15,210,0.0041417667593633516
+Bulgaria,3462,74945,2291,50703,0530,"Purchasing agents, except wholesale, retail, and farm products",7,209,0.00412204406050924
+Bulgaria,3462,74945,2291,50703,1460,Mechanical engineers,14,208,0.0041023213616551285
+Bulgaria,3462,74945,2291,50703,0565,Compliance officers,6,204,0.004023430566238684
+Bulgaria,3462,74945,2291,50703,4000,Chefs and head cooks,7,194,0.0038262035776975723
+Bulgaria,3462,74945,2291,50703,2722,Coaches and scouts,8,193,0.003806480878843461
+Bulgaria,3462,74945,2291,50703,4510,"Hairdressers, hairstylists, and cosmetologists",11,193,0.003806480878843461
+Bulgaria,3462,74945,2291,50703,8320,Sewing machine operators,5,193,0.003806480878843461
+Bulgaria,3462,74945,2291,50703,0410,"Property, real estate, and community association managers",12,184,0.00362897658915646
+Bulgaria,3462,74945,2291,50703,9141,Shuttle drivers and chauffeurs,6,179,0.003530363094885904
+Bulgaria,3462,74945,2291,50703,1305,"Architects, except landscape and naval",12,170,0.0033528588051989034
+Bulgaria,3462,74945,2291,50703,3010,Dentists,7,170,0.0033528588051989034
+Bulgaria,3462,74945,2291,50703,3870,Police officers,7,170,0.0033528588051989034
+Bulgaria,3462,74945,2291,50703,1010,Computer programmers,8,169,0.0033331361063447923
+Bulgaria,3462,74945,2291,50703,4055,Fast food and counter workers,7,167,0.0032936907086365697
+Bulgaria,3462,74945,2291,50703,6230,Carpenters,9,167,0.0032936907086365697
+Bulgaria,3462,74945,2291,50703,9645,Stockers and order fillers,9,162,0.003195077214366014
+Bulgaria,3462,74945,2291,50703,2002,"Educational, guidance, and career counselors and advisors",9,158,0.003116186418949569
+Bulgaria,3462,74945,2291,50703,0230,Education and childcare administrators,11,156,0.003076741021241347
+Bulgaria,3462,74945,2291,50703,2330,Special education teachers,7,156,0.003076741021241347
+Bulgaria,3462,74945,2291,50703,4120,"Food servers, nonrestaurant",6,153,0.003017572924679013
+Bulgaria,3462,74945,2291,50703,0350,Medical and health services managers,8,152,0.002997850225824902
+Bulgaria,3462,74945,2291,50703,5860,"Office clerks, general",7,148,0.002918959430408457
+Bulgaria,3462,74945,2291,50703,1970,"Other life, physical, and social science technicians",5,145,0.0028597913338461235
+Bulgaria,3462,74945,2291,50703,2752,Musicians and singers,6,144,0.0028400686349920124
+Bulgaria,3462,74945,2291,50703,7340,"Maintenance and repair workers, general",5,144,0.0028400686349920124
+Bulgaria,3462,74945,2291,50703,0220,Construction managers,10,140,0.0027611778395755676
+Bulgaria,3462,74945,2291,50703,4600,Childcare workers,7,139,0.0027414551407214565
+Bulgaria,3462,74945,2291,50703,7140,Aircraft mechanics and service technicians,13,139,0.0027414551407214565
+Bulgaria,3462,74945,2291,50703,2600,Artists and related workers,9,134,0.0026428416464509
+Bulgaria,3462,74945,2291,50703,3258,"Nurse practitioners, and nurse midwives",8,134,0.0026428416464509
+Bulgaria,3462,74945,2291,50703,0960,Other financial specialists,6,131,0.002583673549888567
+Bulgaria,3462,74945,2291,50703,5250,"Eligibility interviewers, government programs",1,130,0.0025639508510344558
+Bulgaria,3462,74945,2291,50703,3645,Medical assistants,4,128,0.002524505453326233
+Bulgaria,3462,74945,2291,50703,1007,Information security analysts,6,122,0.002406169260201566
+Bulgaria,3462,74945,2291,50703,2145,Paralegals and legal assistants,6,122,0.002406169260201566
+Bulgaria,3462,74945,2291,50703,0700,Logisticians,4,121,0.0023864465613474546
+Bulgaria,3462,74945,2291,50703,3930,Security guards and gaming surveillance officers,4,120,0.0023667238624933435
+Bulgaria,3462,74945,2291,50703,4820,"Securities, commodities, and financial services sales agents",5,119,0.0023470011636392324
+Bulgaria,3462,74945,2291,50703,9830,"Military, rank not specified",2,119,0.0023470011636392324
+Bulgaria,3462,74945,2291,50703,8810,Painting workers,1,116,0.0022878330670768987
+Bulgaria,3462,74945,2291,50703,8740,"Inspectors, testers, sorters, samplers, and weighers",8,114,0.0022483876693686765
+Bulgaria,3462,74945,2291,50703,1105,Network and computer systems administrators,6,112,0.002208942271660454
+Bulgaria,3462,74945,2291,50703,7210,Bus and truck mechanics and diesel engine specialists,5,108,0.002130051476244009
+Bulgaria,3462,74945,2291,50703,0136,Human resources managers,5,104,0.0020511606808275643
+Bulgaria,3462,74945,2291,50703,2016,Social and human service assistants,1,104,0.0020511606808275643
+Bulgaria,3462,74945,2291,50703,3550,Other healthcare practitioners and technical occupations,3,104,0.0020511606808275643
+Bulgaria,3462,74945,2291,50703,5410,Reservation and transportation ticket agents and travel clerks,4,103,0.002031437981973453
+Bulgaria,3462,74945,2291,50703,1106,Computer network architects,5,101,0.001991992584265231
+Bulgaria,3462,74945,2291,50703,2635,Interior designers,4,101,0.001991992584265231
+Bulgaria,3462,74945,2291,50703,4030,Food preparation workers,8,101,0.001991992584265231
+Bulgaria,3462,74945,2291,50703,4330,Supervisors of personal care and service workers,3,101,0.001991992584265231
+Bulgaria,3462,74945,2291,50703,6410,Painters and paperhangers,4,101,0.001991992584265231
+Bulgaria,3462,74945,2291,50703,3640,Dental assistants,7,100,0.0019722698854111194
+Bulgaria,3462,74945,2291,50703,8990,"Miscellaneous production workers, including equipment operators and tenders",5,99,0.0019525471865570086
+Bulgaria,3462,74945,2291,50703,0052,Sales managers,7,98,0.0019328244877028973
+Bulgaria,3462,74945,2291,50703,0540,"Claims adjusters, appraisers, examiners, and investigators",7,98,0.0019328244877028973
+Bulgaria,3462,74945,2291,50703,0420,Social and community service managers,5,97,0.0019131017888487862
+Bulgaria,3462,74945,2291,50703,3601,Home health aides,4,97,0.0019131017888487862
+Bulgaria,3462,74945,2291,50703,7330,Industrial and refractory machinery mechanics,4,97,0.0019131017888487862
+Bulgaria,3462,74945,2291,50703,7700,First-line supervisors of production and operating workers,6,97,0.0019131017888487862
+Bulgaria,3462,74945,2291,50703,2435,Librarians and media collections specialists,5,96,0.0018933790899946748
+Bulgaria,3462,74945,2291,50703,4251,Landscaping and groundskeeping workers,5,96,0.0018933790899946748
+Bulgaria,3462,74945,2291,50703,0750,"Business operations specialists, all other",8,95,0.0018736563911405638
+Bulgaria,3462,74945,2291,50703,6660,Construction and building inspectors,2,95,0.0018736563911405638
+Bulgaria,3462,74945,2291,50703,1065,Database administrators and architects,5,94,0.0018539336922864524
+Bulgaria,3462,74945,2291,50703,3620,Physical therapist assistants and aides,5,91,0.001794765595724119
+Bulgaria,3462,74945,2291,50703,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",2,90,0.0017750428968700076
+Bulgaria,3462,74945,2291,50703,5165,Other financial clerks,3,89,0.0017553201980158965
+Bulgaria,3462,74945,2291,50703,1980,Occupational health and safety specialists and technicians,4,88,0.0017355974991617852
+Bulgaria,3462,74945,2291,50703,0140,Industrial production managers,6,87,0.0017158748003076741
+Bulgaria,3462,74945,2291,50703,5400,Receptionists and information clerks,3,87,0.0017158748003076741
+Bulgaria,3462,74945,2291,50703,6355,Electricians,6,86,0.0016961521014535628
+Bulgaria,3462,74945,2291,50703,7640,"Other installation, maintenance, and repair workers",2,86,0.0016961521014535628
+Bulgaria,3462,74945,2291,50703,4200,First-line supervisors of housekeeping and janitorial workers,5,85,0.0016764294025994517
+Bulgaria,3462,74945,2291,50703,4400,Gambling services workers,4,83,0.0016369840048912293
+Bulgaria,3462,74945,2291,50703,4530,"Baggage porters, bellhops, and concierges",6,82,0.0016172613060371182
+Bulgaria,3462,74945,2291,50703,6200,First-line supervisors of construction trades and extraction workers,4,80,0.0015778159083288958
+Bulgaria,3462,74945,2291,50703,4850,"Sales representatives, wholesale and manufacturing",5,79,0.0015580932094747845
+Bulgaria,3462,74945,2291,50703,9005,Supervisors of transportation and material moving workers,5,79,0.0015580932094747845
+Bulgaria,3462,74945,2291,50703,1200,Actuaries,4,78,0.0015383705106206734
+Bulgaria,3462,74945,2291,50703,7810,"Butchers and other meat, poultry, and fish processing workers",1,78,0.0015383705106206734
+Bulgaria,3462,74945,2291,50703,8030,Machinists,1,78,0.0015383705106206734
+Bulgaria,3462,74945,2291,50703,8800,Packaging and filling machine operators and tenders,1,78,0.0015383705106206734
+Bulgaria,3462,74945,2291,50703,0520,"Wholesale and retail buyers, except farm products",5,77,0.001518647811766562
+Bulgaria,3462,74945,2291,50703,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",6,76,0.001498925112912451
+Bulgaria,3462,74945,2291,50703,1022,Software quality assurance analysts and testers,2,75,0.0014792024140583397
+Bulgaria,3462,74945,2291,50703,3421,Pharmacy technicians,4,75,0.0014792024140583397
+Bulgaria,3462,74945,2291,50703,3245,Other therapists,3,74,0.0014594797152042286
+Bulgaria,3462,74945,2291,50703,8350,"Tailors, dressmakers, and sewers",3,73,0.0014397570163501173
+Bulgaria,3462,74945,2291,50703,5550,Postal service mail carriers,5,72,0.0014200343174960062
+Bulgaria,3462,74945,2291,50703,5710,Executive secretaries and executive administrative assistants,4,71,0.0014003116186418949
+Bulgaria,3462,74945,2291,50703,0930,"Tax examiners and collectors, and revenue agents",4,70,0.0013805889197877838
+Bulgaria,3462,74945,2291,50703,1450,Materials engineers,3,70,0.0013805889197877838
+Bulgaria,3462,74945,2291,50703,1800,Economists,5,70,0.0013805889197877838
+Bulgaria,3462,74945,2291,50703,7720,"Electrical, electronics, and electromechanical assemblers",3,70,0.0013805889197877838
+Bulgaria,3462,74945,2291,50703,2710,Producers and directors,1,68,0.0013411435220795614
+Bulgaria,3462,74945,2291,50703,9600,Industrial truck and tractor operators,3,68,0.0013411435220795614
+Bulgaria,3462,74945,2291,50703,1350,Chemical engineers,4,67,0.00132142082322545
+Bulgaria,3462,74945,2291,50703,9430,Other transportation workers,3,66,0.001301698124371339
+Bulgaria,3462,74945,2291,50703,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",4,65,0.0012819754255172279
+Bulgaria,3462,74945,2291,50703,3630,Massage therapists,3,64,0.0012622527266631166
+Bulgaria,3462,74945,2291,50703,7130,Security and fire alarm systems installers,1,64,0.0012622527266631166
+Bulgaria,3462,74945,2291,50703,8750,Jewelers and precious stone and metal workers,2,64,0.0012622527266631166
+Bulgaria,3462,74945,2291,50703,1610,Biological scientists,1,63,0.0012425300278090055
+Bulgaria,3462,74945,2291,50703,7000,"First-line supervisors of mechanics, installers, and repairers",3,63,0.0012425300278090055
+Bulgaria,3462,74945,2291,50703,0910,Credit counselors and loan officers,4,62,0.0012228073289548942
+Bulgaria,3462,74945,2291,50703,3323,Radiologic technologists and technicians,2,62,0.0012228073289548942
+Bulgaria,3462,74945,2291,50703,4010,First-line supervisors of food preparation and serving workers,2,62,0.0012228073289548942
+Bulgaria,3462,74945,2291,50703,9300,"Sailors and marine oilers, and ship engineers",2,62,0.0012228073289548942
+Bulgaria,3462,74945,2291,50703,1430,"Industrial engineers, including health and safety",4,61,0.001203084630100783
+Bulgaria,3462,74945,2291,50703,1720,Chemists and materials scientists,4,60,0.0011833619312466718
+Bulgaria,3462,74945,2291,50703,2014,"Social workers, all other",3,60,0.0011833619312466718
+Bulgaria,3462,74945,2291,50703,5310,"Interviewers, except eligibility and loan",3,60,0.0011833619312466718
+Bulgaria,3462,74945,2291,50703,0150,Purchasing managers,3,59,0.0011636392323925607
+Bulgaria,3462,74945,2291,50703,9050,Flight attendants,4,59,0.0011636392323925607
+Bulgaria,3462,74945,2291,50703,3655,Other healthcare support workers,4,58,0.0011439165335384493
+Bulgaria,3462,74945,2291,50703,0940,Tax preparers,3,57,0.0011241938346843383
+Bulgaria,3462,74945,2291,50703,1650,Other life scientists,3,57,0.0011241938346843383
+Bulgaria,3462,74945,2291,50703,4350,Animal caretakers,5,57,0.0011241938346843383
+Bulgaria,3462,74945,2291,50703,7315,"Heating, air conditioning, and refrigeration mechanics and installers",4,57,0.0011241938346843383
+Bulgaria,3462,74945,2291,50703,2632,Fashion designers,2,56,0.001104471135830227
+Bulgaria,3462,74945,2291,50703,2006,"Counselors, all other",3,54,0.0010650257381220045
+Bulgaria,3462,74945,2291,50703,2350,Tutors,3,54,0.0010650257381220045
+Bulgaria,3462,74945,2291,50703,2633,Floral designers,2,54,0.0010650257381220045
+Bulgaria,3462,74945,2291,50703,8610,Stationary engineers and boiler operators,2,54,0.0010650257381220045
+Bulgaria,3462,74945,2291,50703,1320,Aerospace engineers,2,53,0.0010453030392678934
+Bulgaria,3462,74945,2291,50703,6530,Structural iron and steel workers,2,53,0.0010453030392678934
+Bulgaria,3462,74945,2291,50703,2400,"Archivists, curators, and museum technicians",3,52,0.0010255803404137821
+Bulgaria,3462,74945,2291,50703,3945,Transportation security screeners,2,52,0.0010255803404137821
+Bulgaria,3462,74945,2291,50703,9121,"Bus drivers, school",3,52,0.0010255803404137821
+Bulgaria,3462,74945,2291,50703,8140,"Welding, soldering, and brazing workers",4,51,0.001005857641559671
+Bulgaria,3462,74945,2291,50703,3310,Dental hygienists,2,50,9.861349427055597e-4
+Bulgaria,3462,74945,2291,50703,3649,Phlebotomists,3,50,9.861349427055597e-4
+Bulgaria,3462,74945,2291,50703,6515,Roofers,1,50,9.861349427055597e-4
+Bulgaria,3462,74945,2291,50703,1555,"Other engineering technologists and technicians, except drafters",4,49,9.664122438514486e-4
+Bulgaria,3462,74945,2291,50703,5610,"Shipping, receiving, and inventory clerks",4,49,9.664122438514486e-4
+Bulgaria,3462,74945,2291,50703,0137,Training and development managers,2,48,9.466895449973374e-4
+Bulgaria,3462,74945,2291,50703,1551,Electrical and electronic engineering technologists and technicians,3,48,9.466895449973374e-4
+Bulgaria,3462,74945,2291,50703,3160,Physical therapists,3,48,9.466895449973374e-4
+Bulgaria,3462,74945,2291,50703,3740,Firefighters,4,47,9.269668461432262e-4
+Bulgaria,3462,74945,2291,50703,5110,Billing and posting clerks,3,47,9.269668461432262e-4
+Bulgaria,3462,74945,2291,50703,1541,Architectural and civil drafters,1,46,9.07244147289115e-4
+Bulgaria,3462,74945,2291,50703,2861,Interpreters and translators,2,46,9.07244147289115e-4
+Bulgaria,3462,74945,2291,50703,5320,"Library assistants, clerical",2,46,9.07244147289115e-4
+Bulgaria,3462,74945,2291,50703,9365,Transportation service attendants,2,46,9.07244147289115e-4
+Bulgaria,3462,74945,2291,50703,1005,Computer and information research scientists,1,45,8.875214484350038e-4
+Bulgaria,3462,74945,2291,50703,0860,Insurance underwriters,2,44,8.677987495808926e-4
+Bulgaria,3462,74945,2291,50703,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",1,43,8.480760507267814e-4
+Bulgaria,3462,74945,2291,50703,8225,Other metal workers and plastic workers,3,43,8.480760507267814e-4
+Bulgaria,3462,74945,2291,50703,0102,Facilities managers,2,42,8.283533518726702e-4
+Bulgaria,3462,74945,2291,50703,4830,Travel agents,2,42,8.283533518726702e-4
+Bulgaria,3462,74945,2291,50703,5850,"Mail clerks and mail machine operators, except postal service",1,42,8.283533518726702e-4
+Bulgaria,3462,74945,2291,50703,9640,"Packers and packagers, hand",2,42,8.283533518726702e-4
+Bulgaria,3462,74945,2291,50703,0900,Financial examiners,2,41,8.086306530185591e-4
+Bulgaria,3462,74945,2291,50703,7430,Precision instrument and equipment repairers,1,41,8.086306530185591e-4
+Bulgaria,3462,74945,2291,50703,4930,Sales engineers,2,37,7.297398576021143e-4
+Bulgaria,3462,74945,2291,50703,5810,Data entry keyers,3,37,7.297398576021143e-4
+Bulgaria,3462,74945,2291,50703,7150,Automotive body and related repairers,2,37,7.297398576021143e-4
+Bulgaria,3462,74945,2291,50703,1400,Computer hardware engineers,3,36,7.100171587480031e-4
+Bulgaria,3462,74945,2291,50703,2170,"Title examiners, abstractors, and searchers",2,36,7.100171587480031e-4
+Bulgaria,3462,74945,2291,50703,3050,Pharmacists,2,36,7.100171587480031e-4
+Bulgaria,3462,74945,2291,50703,5300,"Hotel, motel, and resort desk clerks",2,36,7.100171587480031e-4
+Bulgaria,3462,74945,2291,50703,9610,Cleaners of vehicles and equipment,1,36,7.100171587480031e-4
+Bulgaria,3462,74945,2291,50703,7010,"Computer, automated teller, and office machine repairers",2,35,6.902944598938919e-4
+Bulgaria,3462,74945,2291,50703,4810,Insurance sales agents,2,34,6.705717610397807e-4
+Bulgaria,3462,74945,2291,50703,0101,Administrative services managers,2,33,6.508490621856695e-4
+Bulgaria,3462,74945,2291,50703,0650,Training and development specialists,2,33,6.508490621856695e-4
+Bulgaria,3462,74945,2291,50703,5140,Payroll and timekeeping clerks,1,33,6.508490621856695e-4
+Bulgaria,3462,74945,2291,50703,3110,Physician assistants,3,32,6.311263633315583e-4
+Bulgaria,3462,74945,2291,50703,8830,Photographic process workers and processing machine operators,1,32,6.311263633315583e-4
+Bulgaria,3462,74945,2291,50703,9150,"Motor vehicle operators, all other",1,32,6.311263633315583e-4
+Bulgaria,3462,74945,2291,50703,0205,"Farmers, ranchers, and other agricultural managers",1,31,6.114036644774471e-4
+Bulgaria,3462,74945,2291,50703,0820,Budget analysts,2,31,6.114036644774471e-4
+Bulgaria,3462,74945,2291,50703,5160,Tellers,2,31,6.114036644774471e-4
+Bulgaria,3462,74945,2291,50703,3330,Nuclear medicine technologists and medical dosimetrists,2,30,5.916809656233359e-4
+Bulgaria,3462,74945,2291,50703,8640,"Chemical processing machine setters, operators, and tenders",1,30,5.916809656233359e-4
+Bulgaria,3462,74945,2291,50703,0600,Cost estimators,2,29,5.719582667692247e-4
+Bulgaria,3462,74945,2291,50703,0725,"Meeting, convention, and event planners",1,29,5.719582667692247e-4
+Bulgaria,3462,74945,2291,50703,5040,"Communications equipment operators, all other",1,29,5.719582667692247e-4
+Bulgaria,3462,74945,2291,50703,5350,Correspondence clerks and order clerks,2,29,5.719582667692247e-4
+Bulgaria,3462,74945,2291,50703,9210,Locomotive engineers and operators,1,29,5.719582667692247e-4
+Bulgaria,3462,74945,2291,50703,9570,"Conveyor, dredge, and hoist and winch operators",2,29,5.719582667692247e-4
+Bulgaria,3462,74945,2291,50703,3500,Licensed practical and licensed vocational nurses,1,28,5.522355679151135e-4
+Bulgaria,3462,74945,2291,50703,2810,"News analysts, reporters, and journalists",2,26,5.127901702068911e-4
+Bulgaria,3462,74945,2291,50703,2825,Public relations specialists,2,26,5.127901702068911e-4
+Bulgaria,3462,74945,2291,50703,2015,Probation officers and correctional treatment specialists,2,25,4.930674713527799e-4
+Bulgaria,3462,74945,2291,50703,3256,Nurse anesthetists,1,25,4.930674713527799e-4
+Bulgaria,3462,74945,2291,50703,3424,Veterinary technologists and technicians,1,25,4.930674713527799e-4
+Bulgaria,3462,74945,2291,50703,4655,"Personal care and service workers, all other",2,25,4.930674713527799e-4
+Bulgaria,3462,74945,2291,50703,8255,Printing press operators,2,25,4.930674713527799e-4
+Bulgaria,3462,74945,2291,50703,3750,Fire inspectors,2,24,4.733447724986687e-4
+Bulgaria,3462,74945,2291,50703,4130,Dining room and cafeteria attendants and bartender helpers,3,24,4.733447724986687e-4
+Bulgaria,3462,74945,2291,50703,4540,Tour and travel guides,2,24,4.733447724986687e-4
+Bulgaria,3462,74945,2291,50703,1822,School psychologists,1,23,4.536220736445575e-4
+Bulgaria,3462,74945,2291,50703,4640,Residential advisors,1,23,4.536220736445575e-4
+Bulgaria,3462,74945,2291,50703,5720,Legal secretaries and administrative assistants,2,23,4.536220736445575e-4
+Bulgaria,3462,74945,2291,50703,6700,Elevator installers and repairers,1,23,4.536220736445575e-4
+Bulgaria,3462,74945,2291,50703,9030,Aircraft pilots and flight engineers,1,23,4.536220736445575e-4
+Bulgaria,3462,74945,2291,50703,0500,"Agents and business managers of artists, performers, and athletes",1,22,4.338993747904463e-4
+Bulgaria,3462,74945,2291,50703,1600,Agricultural and food scientists,1,22,4.338993747904463e-4
+Bulgaria,3462,74945,2291,50703,3220,Respiratory therapists,1,22,4.338993747904463e-4
+Bulgaria,3462,74945,2291,50703,5100,Bill and account collectors,1,22,4.338993747904463e-4
+Bulgaria,3462,74945,2291,50703,5840,Insurance claims and policy processing clerks,1,22,4.338993747904463e-4
+Bulgaria,3462,74945,2291,50703,8650,"Crushing, grinding, polishing, mixing, and blending workers",1,22,4.338993747904463e-4
+Bulgaria,3462,74945,2291,50703,9825,Military enlisted tactical operations and air/weapons specialists and crew members,1,22,4.338993747904463e-4
+Bulgaria,3462,74945,2291,50703,0060,Public relations and fundraising managers,1,21,4.141766759363351e-4
+Bulgaria,3462,74945,2291,50703,2040,Clergy,2,21,4.141766759363351e-4
+Bulgaria,3462,74945,2291,50703,1520,"Petroleum, mining and geological engineers, including mining safety engineers",1,20,3.9445397708222395e-4
+Bulgaria,3462,74945,2291,50703,3322,Diagnostic medical sonographers,1,20,3.9445397708222395e-4
+Bulgaria,3462,74945,2291,50703,5420,Other information and records clerks,1,20,3.9445397708222395e-4
+Bulgaria,3462,74945,2291,50703,0810,Property appraisers and assessors,2,19,3.7473127822811275e-4
+Bulgaria,3462,74945,2291,50703,2060,"Religious workers, all other",1,19,3.7473127822811275e-4
+Bulgaria,3462,74945,2291,50703,2850,Writers and authors,2,19,3.7473127822811275e-4
+Bulgaria,3462,74945,2291,50703,5540,Postal service clerks,2,19,3.7473127822811275e-4
+Bulgaria,3462,74945,2291,50703,5600,"Production, planning, and expediting clerks",1,19,3.7473127822811275e-4
+Bulgaria,3462,74945,2291,50703,7840,Food batchmakers,1,19,3.7473127822811275e-4
+Bulgaria,3462,74945,2291,50703,9122,"Bus drivers, transit and intercity",1,19,3.7473127822811275e-4
+Bulgaria,3462,74945,2291,50703,1032,Web and digital interface designers,1,18,3.5500857937400155e-4
+Bulgaria,3462,74945,2291,50703,7800,Bakers,1,18,3.5500857937400155e-4
+Bulgaria,3462,74945,2291,50703,0335,Entertainment and recreation managers,1,17,3.3528588051989034e-4
+Bulgaria,3462,74945,2291,50703,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,17,3.3528588051989034e-4
+Bulgaria,3462,74945,2291,50703,5220,"Court, municipal, and license clerks",1,16,3.1556318166577914e-4
+Bulgaria,3462,74945,2291,50703,6800,"Derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining",1,16,3.1556318166577914e-4
+Bulgaria,3462,74945,2291,50703,1340,Biomedical and agricultural engineers,1,15,2.9584048281166794e-4
+Bulgaria,3462,74945,2291,50703,1745,"Environmental scientists and specialists, including health",1,15,2.9584048281166794e-4
+Bulgaria,3462,74945,2291,50703,3321,Cardiovascular technologists and technicians,1,15,2.9584048281166794e-4
+Bulgaria,3462,74945,2291,50703,3402,Paramedics,1,15,2.9584048281166794e-4
+Bulgaria,3462,74945,2291,50703,6305,Construction equipment operators,1,15,2.9584048281166794e-4
+Bulgaria,3462,74945,2291,50703,6740,Rail-track laying and maintenance equipment operators,1,15,2.9584048281166794e-4
+Bulgaria,3462,74945,2291,50703,8620,Water and wastewater treatment plant and system operators,1,15,2.9584048281166794e-4
+Bulgaria,3462,74945,2291,50703,0830,Credit analysts,1,14,2.7611778395755673e-4
+Bulgaria,3462,74945,2291,50703,1825,Other psychologists,1,14,2.7611778395755673e-4
+Bulgaria,3462,74945,2291,50703,2905,Other media and communication equipment workers,1,14,2.7611778395755673e-4
+Bulgaria,3462,74945,2291,50703,2920,"Television, video, and film camera operators and editors",1,14,2.7611778395755673e-4
+Bulgaria,3462,74945,2291,50703,3270,"Healthcare diagnosing or treating practitioners, all other",1,14,2.7611778395755673e-4
+Bulgaria,3462,74945,2291,50703,3300,Clinical laboratory technologists and technicians,1,14,2.7611778395755673e-4
+Bulgaria,3462,74945,2291,50703,3515,Medical records specialists,1,14,2.7611778395755673e-4
+Bulgaria,3462,74945,2291,50703,4800,Advertising sales agents,1,14,2.7611778395755673e-4
+Bulgaria,3462,74945,2291,50703,5500,Cargo and freight agents,1,14,2.7611778395755673e-4
+Bulgaria,3462,74945,2291,50703,6520,Sheet metal workers,1,14,2.7611778395755673e-4
+Bulgaria,3462,74945,2291,50703,9720,Refuse and recyclable material collectors,1,14,2.7611778395755673e-4
+Bulgaria,3462,74945,2291,50703,1306,Landscape architects,1,13,2.5639508510344553e-4
+Bulgaria,3462,74945,2291,50703,2001,Substance abuse and behavioral disorder counselors,1,13,2.5639508510344553e-4
+Bulgaria,3462,74945,2291,50703,2723,"Umpires, referees, and other sports officials",1,13,2.5639508510344553e-4
+Bulgaria,3462,74945,2291,50703,3700,First-line supervisors of correctional officers,1,13,2.5639508510344553e-4
+Bulgaria,3462,74945,2291,50703,4750,Parts salespersons,1,13,2.5639508510344553e-4
+Bulgaria,3462,74945,2291,50703,9760,Other material moving workers,1,13,2.5639508510344553e-4
+Bulgaria,3462,74945,2291,50703,1310,"Surveyors, cartographers, and photogrammetrists",1,12,2.3667238624933436e-4
+Bulgaria,3462,74945,2291,50703,1640,Conservation scientists and foresters,1,12,2.3667238624933436e-4
+Bulgaria,3462,74945,2291,50703,3605,Orderlies and psychiatric aides,1,12,2.3667238624933436e-4
+Bulgaria,3462,74945,2291,50703,9310,Ship and boat captains and operators,1,12,2.3667238624933436e-4
+Bulgaria,3462,74945,2291,50703,9410,Transportation inspectors,1,12,2.3667238624933436e-4
+Bulgaria,3462,74945,2291,50703,1031,Web developers,1,11,2.1694968739522315e-4
+Bulgaria,3462,74945,2291,50703,1920,Chemical technicians,1,11,2.1694968739522315e-4
+Bulgaria,3462,74945,2291,50703,4950,"Door-to-door sales workers, news and street vendors, and related workers",1,11,2.1694968739522315e-4
+Bulgaria,3462,74945,2291,50703,5260,File clerks,1,11,2.1694968739522315e-4
+Bulgaria,3462,74945,2291,50703,3261,Acupuncturists,1,10,1.9722698854111198e-4
+Bulgaria,3462,74945,2291,50703,3520,"Opticians, dispensing",1,10,1.9722698854111198e-4
+Bulgaria,3462,74945,2291,50703,4740,Counter and rental clerks,1,10,1.9722698854111198e-4
+Bulgaria,3462,74945,2291,50703,7360,Millwrights,1,10,1.9722698854111198e-4
+Bulgaria,3462,74945,2291,50703,7905,Computer numerically controlled tool operators and programmers,1,10,1.9722698854111198e-4
+Bulgaria,3462,74945,2291,50703,0040,Advertising and promotions managers,1,9,1.7750428968700077e-4
+Bulgaria,3462,74945,2291,50703,3120,Podiatrists,1,9,1.7750428968700077e-4
+Bulgaria,3462,74945,2291,50703,4521,Manicurists and pedicurists,1,9,1.7750428968700077e-4
+Bulgaria,3462,74945,2291,50703,1750,"Geoscientists and hydrologists, except geographers",1,8,1.5778159083288957e-4
+Bulgaria,3462,74945,2291,50703,3200,Radiation therapists,1,8,1.5778159083288957e-4
+Bulgaria,3462,74945,2291,50703,3648,Veterinary assistants and laboratory animal caretakers,1,8,1.5778159083288957e-4
+Bulgaria,3462,74945,2291,50703,5900,"Office machine operators, except computer",1,8,1.5778159083288957e-4
+Bulgaria,3462,74945,2291,50703,0360,Natural sciences managers,1,7,1.3805889197877837e-4
+Bulgaria,3462,74945,2291,50703,3802,Correctional officers and jailers,1,7,1.3805889197877837e-4
+Bulgaria,3462,74945,2291,50703,8510,Furniture finishers,1,6,1.1833619312466718e-4
+Bulgaria,3462,74945,2291,50703,2721,Athletes and sports competitors,1,5,9.861349427055599e-5
+Bulgaria,3462,74945,2291,50703,4461,"Embalmers, crematory operators, and funeral attendants",1,4,7.889079541644479e-5
+Bulgaria,3462,74945,2291,50703,5230,"Credit authorizers, checkers, and clerks",1,4,7.889079541644479e-5
+Bulgaria,3462,74945,2291,50703,3910,Private detectives and investigators,1,2,3.944539770822239e-5

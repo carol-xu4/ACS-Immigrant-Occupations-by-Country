@@ -1,0 +1,373 @@
+country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
+Cambodia,7439,157329,3746,82593,4521,Manicurists and pedicurists,158,3766,0.04559708449868633
+Cambodia,7439,157329,3746,82593,7750,Other assemblers and fabricators,160,3733,0.045197534900052065
+Cambodia,7439,157329,3746,82593,4720,Cashiers,130,2812,0.034046468829077525
+Cambodia,7439,157329,3746,82593,8990,"Miscellaneous production workers, including equipment operators and tenders",102,2307,0.027932149213613745
+Cambodia,7439,157329,3746,82593,3602,Personal care aides,107,2195,0.026576102090976234
+Cambodia,7439,157329,3746,82593,8740,"Inspectors, testers, sorters, samplers, and weighers",78,1885,0.02282275737653312
+Cambodia,7439,157329,3746,82593,4700,First-line supervisors of retail sales workers,70,1654,0.020025910186093253
+Cambodia,7439,157329,3746,82593,4400,Gambling services workers,60,1427,0.017277493250033294
+Cambodia,7439,157329,3746,82593,4760,Retail salespersons,69,1416,0.01714431005048854
+Cambodia,7439,157329,3746,82593,9620,"Laborers and freight, stock, and material movers, hand",63,1402,0.01697480416015885
+Cambodia,7439,157329,3746,82593,7800,Bakers,64,1395,0.01689005121499401
+Cambodia,7439,157329,3746,82593,4020,Cooks,57,1260,0.015255530129672006
+Cambodia,7439,157329,3746,82593,0310,Food service managers,65,1248,0.015110239366532273
+Cambodia,7439,157329,3746,82593,3255,Registered nurses,58,1152,0.013947913261414405
+Cambodia,7439,157329,3746,82593,7720,"Electrical, electronics, and electromechanical assemblers",58,1142,0.013826837625464628
+Cambodia,7439,157329,3746,82593,1021,Software developers,50,1127,0.01364522417153996
+Cambodia,7439,157329,3746,82593,0440,Other managers,57,1109,0.013427288026830362
+Cambodia,7439,157329,3746,82593,9130,Driver/sales workers and truck drivers,46,1081,0.013088276246170982
+Cambodia,7439,157329,3746,82593,1555,"Other engineering technologists and technicians, except drafters",38,1021,0.012361822430472316
+Cambodia,7439,157329,3746,82593,8225,Other metal workers and plastic workers,46,1014,0.012277069485307471
+Cambodia,7439,157329,3746,82593,4220,Janitors and building cleaners,52,988,0.01196227283183805
+Cambodia,7439,157329,3746,82593,8030,Machinists,33,952,0.011526400542418849
+Cambodia,7439,157329,3746,82593,4510,"Hairdressers, hairstylists, and cosmetologists",40,949,0.011490077851633916
+Cambodia,7439,157329,3746,82593,0800,Accountants and auditors,54,940,0.011381109779279116
+Cambodia,7439,157329,3746,82593,5240,Customer service representatives,40,899,0.010884699671885026
+Cambodia,7439,157329,3746,82593,9640,"Packers and packagers, hand",29,886,0.010727301345150316
+Cambodia,7439,157329,3746,82593,9645,Stockers and order fillers,45,872,0.010557795454820626
+Cambodia,7439,157329,3746,82593,5120,"Bookkeeping, accounting, and auditing clerks",27,775,0.009383361786107781
+Cambodia,7439,157329,3746,82593,1108,"Computer occupations, all other",24,743,0.008995919751068492
+Cambodia,7439,157329,3746,82593,2310,Elementary and middle school teachers,27,676,0.00818471299020498
+Cambodia,7439,157329,3746,82593,3603,Nursing assistants,22,667,0.00807574491785018
+Cambodia,7439,157329,3746,82593,7200,Automotive service technicians and mechanics,29,667,0.00807574491785018
+Cambodia,7439,157329,3746,82593,8140,"Welding, soldering, and brazing workers",21,645,0.0078093785187606695
+Cambodia,7439,157329,3746,82593,5610,"Shipping, receiving, and inventory clerks",29,594,0.007191892775416803
+Cambodia,7439,157329,3746,82593,3601,Home health aides,20,583,0.007058709575872047
+Cambodia,7439,157329,3746,82593,4030,Food preparation workers,27,576,0.0069739566307072025
+Cambodia,7439,157329,3746,82593,4110,Waiters and waitresses,30,573,0.00693763393992227
+Cambodia,7439,157329,3746,82593,0120,Financial managers,32,571,0.006913418812732314
+Cambodia,7439,157329,3746,82593,8320,Sewing machine operators,22,541,0.0065501919048829805
+Cambodia,7439,157329,3746,82593,7700,First-line supervisors of production and operating workers,23,540,0.006538084341288003
+Cambodia,7439,157329,3746,82593,4000,Chefs and head cooks,28,531,0.0064291162689332024
+Cambodia,7439,157329,3746,82593,9610,Cleaners of vehicles and equipment,13,528,0.00639279357814827
+Cambodia,7439,157329,3746,82593,7340,"Maintenance and repair workers, general",21,486,0.005884275907159202
+Cambodia,7439,157329,3746,82593,5000,First-line supervisors of office and administrative support workers,22,447,0.005412080926955069
+Cambodia,7439,157329,3746,82593,0020,General and operations managers,15,421,0.005097284273485646
+Cambodia,7439,157329,3746,82593,1530,Other engineers,18,410,0.004964101073940891
+Cambodia,7439,157329,3746,82593,5860,"Office clerks, general",20,405,0.0049035632559660015
+Cambodia,7439,157329,3746,82593,3500,Licensed practical and licensed vocational nurses,13,390,0.004721949802041335
+Cambodia,7439,157329,3746,82593,6355,Electricians,18,382,0.0046250892932815126
+Cambodia,7439,157329,3746,82593,4230,Maids and housekeeping cleaners,19,381,0.0046129817296865355
+Cambodia,7439,157329,3746,82593,2545,Teaching assistants,24,362,0.004382938021381957
+Cambodia,7439,157329,3746,82593,2014,"Social workers, all other",19,353,0.004273969949027157
+Cambodia,7439,157329,3746,82593,4010,First-line supervisors of food preparation and serving workers,11,353,0.004273969949027157
+Cambodia,7439,157329,3746,82593,5740,"Secretaries and administrative assistants, except legal, medical, and executive",15,347,0.0042013245674572906
+Cambodia,7439,157329,3746,82593,3930,Security guards and gaming surveillance officers,16,340,0.004116571622292446
+Cambodia,7439,157329,3746,82593,9600,Industrial truck and tractor operators,11,338,0.00409235649510249
+Cambodia,7439,157329,3746,82593,5400,Receptionists and information clerks,15,335,0.0040560338043175576
+Cambodia,7439,157329,3746,82593,8255,Printing press operators,16,335,0.0040560338043175576
+Cambodia,7439,157329,3746,82593,1006,Computer systems analysts,14,334,0.00404392624072258
+Cambodia,7439,157329,3746,82593,1050,Computer support specialists,23,332,0.004019711113532624
+Cambodia,7439,157329,3746,82593,2640,Other designers,9,322,0.003898635477582846
+Cambodia,7439,157329,3746,82593,2040,Clergy,7,313,0.003789667405228046
+Cambodia,7439,157329,3746,82593,3300,Clinical laboratory technologists and technicians,13,310,0.0037533447144431128
+Cambodia,7439,157329,3746,82593,1360,Civil engineers,13,308,0.003729129587253157
+Cambodia,7439,157329,3746,82593,8800,Packaging and filling machine operators and tenders,17,295,0.003571731260518446
+Cambodia,7439,157329,3746,82593,4850,"Sales representatives, wholesale and manufacturing",17,293,0.0035475161333284903
+Cambodia,7439,157329,3746,82593,7330,Industrial and refractory machinery mechanics,14,282,0.0034143329337837348
+Cambodia,7439,157329,3746,82593,4920,Real estate brokers and sales agents,13,281,0.003402225370188757
+Cambodia,7439,157329,3746,82593,0705,Project management specialists,14,280,0.003390117806593779
+Cambodia,7439,157329,3746,82593,3050,Pharmacists,17,280,0.003390117806593779
+Cambodia,7439,157329,3746,82593,3421,Pharmacy technicians,13,280,0.003390117806593779
+Cambodia,7439,157329,3746,82593,0750,"Business operations specialists, all other",12,277,0.0033537951158088457
+Cambodia,7439,157329,3746,82593,7855,"Food processing workers, all other",12,274,0.0033174724250239125
+Cambodia,7439,157329,3746,82593,0630,Human resources workers,16,273,0.0033053648614289346
+Cambodia,7439,157329,3746,82593,5550,Postal service mail carriers,11,265,0.0032085043526691123
+Cambodia,7439,157329,3746,82593,2205,Postsecondary teachers,15,263,0.003184289225479157
+Cambodia,7439,157329,3746,82593,5110,Billing and posting clerks,12,249,0.0030147833351494677
+Cambodia,7439,157329,3746,82593,4600,Childcare workers,8,244,0.002954245517174579
+Cambodia,7439,157329,3746,82593,4055,Fast food and counter workers,12,242,0.0029300303899846233
+Cambodia,7439,157329,3746,82593,7140,Aircraft mechanics and service technicians,8,242,0.0029300303899846233
+Cambodia,7439,157329,3746,82593,0540,"Claims adjusters, appraisers, examiners, and investigators",7,240,0.002905815262794668
+Cambodia,7439,157329,3746,82593,3090,Physicians,10,240,0.002905815262794668
+Cambodia,7439,157329,3746,82593,5510,Couriers and messengers,10,237,0.0028694925720097347
+Cambodia,7439,157329,3746,82593,7810,"Butchers and other meat, poultry, and fish processing workers",12,224,0.0027120942452750233
+Cambodia,7439,157329,3746,82593,0710,Management analysts,16,223,0.0026999866816800454
+Cambodia,7439,157329,3746,82593,8350,"Tailors, dressmakers, and sewers",7,219,0.0026515564273001343
+Cambodia,7439,157329,3746,82593,0010,Chief executives and legislators,12,216,0.002615233736515201
+Cambodia,7439,157329,3746,82593,0140,Industrial production managers,6,216,0.002615233736515201
+Cambodia,7439,157329,3746,82593,0230,Education and childcare administrators,10,215,0.002603126172920223
+Cambodia,7439,157329,3746,82593,1010,Computer programmers,8,206,0.0024941581005654234
+Cambodia,7439,157329,3746,82593,2016,Social and human service assistants,8,205,0.0024820505369704455
+Cambodia,7439,157329,3746,82593,5160,Tellers,9,203,0.0024578354097804897
+Cambodia,7439,157329,3746,82593,4330,Supervisors of personal care and service workers,7,202,0.0024457278461855123
+Cambodia,7439,157329,3746,82593,0110,Computer and information systems managers,8,200,0.0024215127189955565
+Cambodia,7439,157329,3746,82593,2360,Other teachers and instructors,9,197,0.002385190028210623
+Cambodia,7439,157329,3746,82593,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
+						and plastic",6,195,0.0023609749010206674
+Cambodia,7439,157329,3746,82593,1551,Electrical and electronic engineering technologists and technicians,9,193,0.002336759773830712
+Cambodia,7439,157329,3746,82593,4710,First-line supervisors of non-retail sales workers,14,193,0.002336759773830712
+Cambodia,7439,157329,3746,82593,8750,Jewelers and precious stone and metal workers,11,191,0.0023125446466407563
+Cambodia,7439,157329,3746,82593,2300,Preschool and kindergarten teachers,11,189,0.002288329519450801
+Cambodia,7439,157329,3746,82593,3645,Medical assistants,10,186,0.0022520068286658677
+Cambodia,7439,157329,3746,82593,6442,"Plumbers, pipefitters, and steamfitters",5,185,0.0022398992650708898
+Cambodia,7439,157329,3746,82593,5940,Other office and administrative support workers,9,184,0.002227791701475912
+Cambodia,7439,157329,3746,82593,4251,Landscaping and groundskeeping workers,8,181,0.0021914690106909786
+Cambodia,7439,157329,3746,82593,4522,Skincare specialists,5,180,0.0021793614470960007
+Cambodia,7439,157329,3746,82593,2634,Graphic designers,8,179,0.0021672538835010233
+Cambodia,7439,157329,3746,82593,0735,Market research analysts and marketing specialists,6,178,0.0021551463199060454
+Cambodia,7439,157329,3746,82593,1320,Aerospace engineers,8,176,0.0021309311927160896
+Cambodia,7439,157329,3746,82593,6520,Sheet metal workers,2,176,0.0021309311927160896
+Cambodia,7439,157329,3746,82593,4810,Insurance sales agents,10,173,0.0020946085019311563
+Cambodia,7439,157329,3746,82593,0410,"Property, real estate, and community association managers",7,172,0.0020825009383361784
+Cambodia,7439,157329,3746,82593,8950,Helpers--production workers,6,170,0.002058285811146223
+Cambodia,7439,157329,3746,82593,2145,Paralegals and legal assistants,6,169,0.002046178247551245
+Cambodia,7439,157329,3746,82593,7905,Computer numerically controlled tool operators and programmers,10,168,0.0020340706839562673
+Cambodia,7439,157329,3746,82593,9142,Taxi drivers,11,165,0.001997747993171334
+Cambodia,7439,157329,3746,82593,1650,Other life scientists,4,158,0.0019129950480064896
+Cambodia,7439,157329,3746,82593,5600,"Production, planning, and expediting clerks",6,157,0.001900887484411512
+Cambodia,7439,157329,3746,82593,7315,"Heating, air conditioning, and refrigeration mechanics and installers",6,157,0.001900887484411512
+Cambodia,7439,157329,3746,82593,1970,"Other life, physical, and social science technicians",7,153,0.0018524572300316008
+Cambodia,7439,157329,3746,82593,5260,File clerks,4,153,0.0018524572300316008
+Cambodia,7439,157329,3746,82593,6260,Construction laborers,5,153,0.0018524572300316008
+Cambodia,7439,157329,3746,82593,6660,Construction and building inspectors,4,153,0.0018524572300316008
+Cambodia,7439,157329,3746,82593,2170,"Title examiners, abstractors, and searchers",5,152,0.001840349666436623
+Cambodia,7439,157329,3746,82593,5540,Postal service clerks,6,151,0.0018282421028416452
+Cambodia,7439,157329,3746,82593,4965,"Sales and related workers, all other",6,150,0.0018161345392466673
+Cambodia,7439,157329,3746,82593,4130,Dining room and cafeteria attendants and bartender helpers,9,149,0.0018040269756516897
+Cambodia,7439,157329,3746,82593,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",5,149,0.0018040269756516897
+Cambodia,7439,157329,3746,82593,9005,Supervisors of transportation and material moving workers,6,140,0.0016950589032968895
+Cambodia,7439,157329,3746,82593,4140,Dishwashers,7,135,0.0016345210853220007
+Cambodia,7439,157329,3746,82593,1410,Electrical and electronics engineers,10,134,0.001622413521727023
+Cambodia,7439,157329,3746,82593,2100,"Lawyers, and judges, magistrates, and other judicial workers",7,134,0.001622413521727023
+Cambodia,7439,157329,3746,82593,3870,Police officers,6,134,0.001622413521727023
+Cambodia,7439,157329,3746,82593,1430,"Industrial engineers, including health and safety",9,133,0.001610305958132045
+Cambodia,7439,157329,3746,82593,1340,Biomedical and agricultural engineers,2,132,0.0015981983945370674
+Cambodia,7439,157329,3746,82593,0420,Social and community service managers,5,130,0.0015739832673471118
+Cambodia,7439,157329,3746,82593,2330,Special education teachers,4,126,0.0015255530129672007
+Cambodia,7439,157329,3746,82593,3258,"Nurse practitioners, and nurse midwives",6,126,0.0015255530129672007
+Cambodia,7439,157329,3746,82593,3640,Dental assistants,5,122,0.0014771227585872895
+Cambodia,7439,157329,3746,82593,8300,Laundry and dry-cleaning workers,9,119,0.001440800067802356
+Cambodia,7439,157329,3746,82593,2910,Photographers,2,118,0.0014286925042073784
+Cambodia,7439,157329,3746,82593,0520,"Wholesale and retail buyers, except farm products",4,117,0.0014165849406124005
+Cambodia,7439,157329,3746,82593,5165,Other financial clerks,6,117,0.0014165849406124005
+Cambodia,7439,157329,3746,82593,2180,"Legal support workers, all other",5,114,0.0013802622498274672
+Cambodia,7439,157329,3746,82593,7850,Food cooking machine operators and tenders,6,113,0.0013681546862324894
+Cambodia,7439,157329,3746,82593,1240,Other mathematical science occupations,5,112,0.0013560471226375117
+Cambodia,7439,157329,3746,82593,5250,"Eligibility interviewers, government programs",7,110,0.001331831995447556
+Cambodia,7439,157329,3746,82593,6540,Solar photovoltaic installers,1,110,0.001331831995447556
+Cambodia,7439,157329,3746,82593,2861,Interpreters and translators,7,108,0.0013076168682576005
+Cambodia,7439,157329,3746,82593,0150,Purchasing managers,4,107,0.0012955093046626228
+Cambodia,7439,157329,3746,82593,4200,First-line supervisors of housekeeping and janitorial workers,4,107,0.0012955093046626228
+Cambodia,7439,157329,3746,82593,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",5,107,0.0012955093046626228
+Cambodia,7439,157329,3746,82593,0205,"Farmers, ranchers, and other agricultural managers",6,106,0.001283401741067645
+Cambodia,7439,157329,3746,82593,9122,"Bus drivers, transit and intercity",6,106,0.001283401741067645
+Cambodia,7439,157329,3746,82593,1545,Other drafters,5,105,0.0012712941774726673
+Cambodia,7439,157329,3746,82593,6230,Carpenters,5,105,0.0012712941774726673
+Cambodia,7439,157329,3746,82593,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",3,102,0.0012349714866877338
+Cambodia,7439,157329,3746,82593,0845,Financial and investment analysts,6,101,0.0012228639230927561
+Cambodia,7439,157329,3746,82593,5410,Reservation and transportation ticket agents and travel clerks,3,101,0.0012228639230927561
+Cambodia,7439,157329,3746,82593,7210,Bus and truck mechanics and diesel engine specialists,6,101,0.0012228639230927561
+Cambodia,7439,157329,3746,82593,0565,Compliance officers,5,100,0.0012107563594977782
+Cambodia,7439,157329,3746,82593,3322,Diagnostic medical sonographers,1,100,0.0012107563594977782
+Cambodia,7439,157329,3746,82593,4435,Other entertainment attendants and related workers,6,100,0.0012107563594977782
+Cambodia,7439,157329,3746,82593,5140,Payroll and timekeeping clerks,3,100,0.0012107563594977782
+Cambodia,7439,157329,3746,82593,3160,Physical therapists,3,99,0.0011986487959028006
+Cambodia,7439,157329,3746,82593,3323,Radiologic technologists and technicians,7,99,0.0011986487959028006
+Cambodia,7439,157329,3746,82593,5810,Data entry keyers,6,98,0.0011865412323078227
+Cambodia,7439,157329,3746,82593,1105,Network and computer systems administrators,6,95,0.0011502185415228894
+Cambodia,7439,157329,3746,82593,3630,Massage therapists,3,92,0.001113895850737956
+Cambodia,7439,157329,3746,82593,8640,"Chemical processing machine setters, operators, and tenders",5,92,0.001113895850737956
+Cambodia,7439,157329,3746,82593,6200,First-line supervisors of construction trades and extraction workers,6,91,0.0011017882871429783
+Cambodia,7439,157329,3746,82593,0530,"Purchasing agents, except wholesale, retail, and farm products",4,89,0.0010775731599530227
+Cambodia,7439,157329,3746,82593,4120,"Food servers, nonrestaurant",5,89,0.0010775731599530227
+Cambodia,7439,157329,3746,82593,0940,Tax preparers,2,87,0.0010533580327630671
+Cambodia,7439,157329,3746,82593,8710,Cutting workers,5,87,0.0010533580327630671
+Cambodia,7439,157329,3746,82593,4820,"Securities, commodities, and financial services sales agents",2,85,0.0010291429055731115
+Cambodia,7439,157329,3746,82593,0220,Construction managers,5,82,9.92820214788178e-4
+Cambodia,7439,157329,3746,82593,3040,Optometrists,3,82,9.92820214788178e-4
+Cambodia,7439,157329,3746,82593,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,5,79,9.564975240032448e-4
+Cambodia,7439,157329,3746,82593,3245,Other therapists,2,78,9.44389960408267e-4
+Cambodia,7439,157329,3746,82593,5330,Loan interviewers and clerks,2,78,9.44389960408267e-4
+Cambodia,7439,157329,3746,82593,1822,School psychologists,1,76,9.201748332183115e-4
+Cambodia,7439,157329,3746,82593,5360,"Human resources assistants, except payroll and timekeeping",3,76,9.201748332183115e-4
+Cambodia,7439,157329,3746,82593,6330,"Drywall installers, ceiling tile installers, and tapers",1,76,9.201748332183115e-4
+Cambodia,7439,157329,3746,82593,2002,"Educational, guidance, and career counselors and advisors",5,75,9.080672696233337e-4
+Cambodia,7439,157329,3746,82593,0850,Personal financial advisors,4,73,8.838521424333781e-4
+Cambodia,7439,157329,3746,82593,1305,"Architects, except landscape and naval",3,73,8.838521424333781e-4
+Cambodia,7439,157329,3746,82593,2555,Other educational instruction and library workers,2,73,8.838521424333781e-4
+Cambodia,7439,157329,3746,82593,1022,Software quality assurance analysts and testers,4,72,8.717445788384003e-4
+Cambodia,7439,157329,3746,82593,3310,Dental hygienists,4,72,8.717445788384003e-4
+Cambodia,7439,157329,3746,82593,9830,"Military, rank not specified",3,72,8.717445788384003e-4
+Cambodia,7439,157329,3746,82593,0051,Marketing managers,3,71,8.596370152434225e-4
+Cambodia,7439,157329,3746,82593,0350,Medical and health services managers,3,70,8.475294516484447e-4
+Cambodia,7439,157329,3746,82593,7220,Heavy vehicle and mobile equipment service technicians and mechanics,2,70,8.475294516484447e-4
+Cambodia,7439,157329,3746,82593,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",5,70,8.475294516484447e-4
+Cambodia,7439,157329,3746,82593,3545,Miscellaneous health technologists and technicians,5,69,8.35421888053467e-4
+Cambodia,7439,157329,3746,82593,4655,"Personal care and service workers, all other",3,69,8.35421888053467e-4
+Cambodia,7439,157329,3746,82593,1460,Mechanical engineers,3,68,8.233143244584892e-4
+Cambodia,7439,157329,3746,82593,5010,"Switchboard operators, including answering service",5,68,8.233143244584892e-4
+Cambodia,7439,157329,3746,82593,9350,Parking attendants,2,67,8.112067608635115e-4
+Cambodia,7439,157329,3746,82593,3010,Dentists,3,66,7.990991972685337e-4
+Cambodia,7439,157329,3746,82593,6050,Other agricultural workers,4,66,7.990991972685337e-4
+Cambodia,7439,157329,3746,82593,0860,Insurance underwriters,2,65,7.869916336735559e-4
+Cambodia,7439,157329,3746,82593,2350,Tutors,3,64,7.748840700785781e-4
+Cambodia,7439,157329,3746,82593,4621,Exercise trainers and group fitness instructors,5,63,7.627765064836003e-4
+Cambodia,7439,157329,3746,82593,6765,Other construction and related workers,1,61,7.385613792936448e-4
+Cambodia,7439,157329,3746,82593,8250,Prepress technicians and workers,2,61,7.385613792936448e-4
+Cambodia,7439,157329,3746,82593,0650,Training and development specialists,2,60,7.26453815698667e-4
+Cambodia,7439,157329,3746,82593,0160,"Transportation, storage, and distribution managers",6,59,7.143462521036892e-4
+Cambodia,7439,157329,3746,82593,3649,Phlebotomists,3,59,7.143462521036892e-4
+Cambodia,7439,157329,3746,82593,0700,Logisticians,5,58,7.022386885087114e-4
+Cambodia,7439,157329,3746,82593,8256,Print binding and finishing workers,2,58,7.022386885087114e-4
+Cambodia,7439,157329,3746,82593,1220,Operations research analysts,4,57,6.901311249137336e-4
+Cambodia,7439,157329,3746,82593,0910,Credit counselors and loan officers,4,56,6.780235613187558e-4
+Cambodia,7439,157329,3746,82593,3230,Speech-language pathologists,1,56,6.780235613187558e-4
+Cambodia,7439,157329,3746,82593,9825,Military enlisted tactical operations and air/weapons specialists and crew members,1,56,6.780235613187558e-4
+Cambodia,7439,157329,3746,82593,1760,"Physical scientists, all other",4,55,6.65915997723778e-4
+Cambodia,7439,157329,3746,82593,7360,Millwrights,2,55,6.65915997723778e-4
+Cambodia,7439,157329,3746,82593,8465,"Other textile, apparel, and furnishings workers",2,54,6.538084341288003e-4
+Cambodia,7439,157329,3746,82593,7000,"First-line supervisors of mechanics, installers, and repairers",3,53,6.417008705338225e-4
+Cambodia,7439,157329,3746,82593,2001,Substance abuse and behavioral disorder counselors,2,52,6.295933069388447e-4
+Cambodia,7439,157329,3746,82593,9030,Aircraft pilots and flight engineers,2,52,6.295933069388447e-4
+Cambodia,7439,157329,3746,82593,1065,Database administrators and architects,2,51,6.174857433438669e-4
+Cambodia,7439,157329,3746,82593,3030,Dietitians and nutritionists,2,49,5.932706161539113e-4
+Cambodia,7439,157329,3746,82593,4622,Recreation workers,3,49,5.932706161539113e-4
+Cambodia,7439,157329,3746,82593,0725,"Meeting, convention, and event planners",5,48,5.811630525589335e-4
+Cambodia,7439,157329,3746,82593,6600,"Helpers, construction trades",1,48,5.811630525589335e-4
+Cambodia,7439,157329,3746,82593,8630,Miscellaneous plant and system operators,1,48,5.811630525589335e-4
+Cambodia,7439,157329,3746,82593,3110,Physician assistants,4,46,5.56947925368978e-4
+Cambodia,7439,157329,3746,82593,8040,"Metal furnace operators, tenders, pourers, and casters",2,45,5.448403617740002e-4
+Cambodia,7439,157329,3746,82593,1910,Biological technicians,2,44,5.327327981790224e-4
+Cambodia,7439,157329,3746,82593,3000,Chiropractors,1,44,5.327327981790224e-4
+Cambodia,7439,157329,3746,82593,8530,"Sawing machine setters, operators, and tenders, wood",1,44,5.327327981790224e-4
+Cambodia,7439,157329,3746,82593,8810,Painting workers,3,44,5.327327981790224e-4
+Cambodia,7439,157329,3746,82593,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,43,5.206252345840446e-4
+Cambodia,7439,157329,3746,82593,5840,Insurance claims and policy processing clerks,3,42,5.085176709890668e-4
+Cambodia,7439,157329,3746,82593,7840,Food batchmakers,3,42,5.085176709890668e-4
+Cambodia,7439,157329,3746,82593,3321,Cardiovascular technologists and technicians,1,40,4.843025437991113e-4
+Cambodia,7439,157329,3746,82593,6410,Painters and paperhangers,3,40,4.843025437991113e-4
+Cambodia,7439,157329,3746,82593,1106,Computer network architects,3,39,4.721949802041335e-4
+Cambodia,7439,157329,3746,82593,4950,"Door-to-door sales workers, news and street vendors, and related workers",1,38,4.6008741660915573e-4
+Cambodia,7439,157329,3746,82593,1541,Architectural and civil drafters,3,37,4.4797985301417794e-4
+Cambodia,7439,157329,3746,82593,8450,Upholsterers,3,37,4.4797985301417794e-4
+Cambodia,7439,157329,3746,82593,8920,"Molders, shapers, and casters, except metal and plastic",3,37,4.4797985301417794e-4
+Cambodia,7439,157329,3746,82593,0930,"Tax examiners and collectors, and revenue agents",2,36,4.3587228941920016e-4
+Cambodia,7439,157329,3746,82593,3720,First-line supervisors of firefighting and prevention workers,1,36,4.3587228941920016e-4
+Cambodia,7439,157329,3746,82593,6515,Roofers,1,36,4.3587228941920016e-4
+Cambodia,7439,157329,3746,82593,8540,"Woodworking machine setters, operators, and tenders, except sawing",1,36,4.3587228941920016e-4
+Cambodia,7439,157329,3746,82593,5850,"Mail clerks and mail machine operators, except postal service",3,35,4.2376472582422237e-4
+Cambodia,7439,157329,3746,82593,0052,Sales managers,3,34,4.116571622292446e-4
+Cambodia,7439,157329,3746,82593,2003,Marriage and family therapists,1,34,4.116571622292446e-4
+Cambodia,7439,157329,3746,82593,5100,Bill and account collectors,1,34,4.116571622292446e-4
+Cambodia,7439,157329,3746,82593,2435,Librarians and media collections specialists,2,33,3.9954959863426685e-4
+Cambodia,7439,157329,3746,82593,7010,"Computer, automated teller, and office machine repairers",2,33,3.9954959863426685e-4
+Cambodia,7439,157329,3746,82593,0300,Architectural and engineering managers,2,32,3.8744203503928906e-4
+Cambodia,7439,157329,3746,82593,2060,"Religious workers, all other",8,32,3.8744203503928906e-4
+Cambodia,7439,157329,3746,82593,2600,Artists and related workers,1,32,3.8744203503928906e-4
+Cambodia,7439,157329,3746,82593,8025,"Other machine tool setters, operators, and tenders, metal and plastic",2,32,3.8744203503928906e-4
+Cambodia,7439,157329,3746,82593,3647,Pharmacy aides,3,31,3.753344714443113e-4
+Cambodia,7439,157329,3746,82593,0960,Other financial specialists,2,30,3.632269078493335e-4
+Cambodia,7439,157329,3746,82593,2015,Probation officers and correctional treatment specialists,1,30,3.632269078493335e-4
+Cambodia,7439,157329,3746,82593,3940,Crossing guards and flaggers,3,30,3.632269078493335e-4
+Cambodia,7439,157329,3746,82593,5900,"Office machine operators, except computer",2,30,3.632269078493335e-4
+Cambodia,7439,157329,3746,82593,9630,Machine feeders and offbearers,2,30,3.632269078493335e-4
+Cambodia,7439,157329,3746,82593,0340,Lodging managers,2,29,3.511193442543557e-4
+Cambodia,7439,157329,3746,82593,1450,Materials engineers,3,29,3.511193442543557e-4
+Cambodia,7439,157329,3746,82593,8130,Tool and die makers,2,29,3.511193442543557e-4
+Cambodia,7439,157329,3746,82593,8620,Water and wastewater treatment plant and system operators,1,29,3.511193442543557e-4
+Cambodia,7439,157329,3746,82593,9430,Other transportation workers,2,29,3.511193442543557e-4
+Cambodia,7439,157329,3746,82593,9510,Crane and tower operators,1,29,3.511193442543557e-4
+Cambodia,7439,157329,3746,82593,2400,"Archivists, curators, and museum technicians",1,28,3.390117806593779e-4
+Cambodia,7439,157329,3746,82593,3422,Psychiatric technicians,2,28,3.390117806593779e-4
+Cambodia,7439,157329,3746,82593,4252,Tree trimmers and pruners,1,28,3.390117806593779e-4
+Cambodia,7439,157329,3746,82593,6240,"Carpet, floor, and tile installers and finishers",1,28,3.390117806593779e-4
+Cambodia,7439,157329,3746,82593,7430,Precision instrument and equipment repairers,1,28,3.390117806593779e-4
+Cambodia,7439,157329,3746,82593,1350,Chemical engineers,1,27,3.2690421706440013e-4
+Cambodia,7439,157329,3746,82593,3324,Magnetic resonance imaging technologists,2,27,3.2690421706440013e-4
+Cambodia,7439,157329,3746,82593,3820,Detectives and criminal investigators,2,27,3.2690421706440013e-4
+Cambodia,7439,157329,3746,82593,0040,Advertising and promotions managers,1,26,3.1479665346942234e-4
+Cambodia,7439,157329,3746,82593,5310,"Interviewers, except eligibility and loan",1,26,3.1479665346942234e-4
+Cambodia,7439,157329,3746,82593,8310,"Pressers, textile, garment, and related materials",2,26,3.1479665346942234e-4
+Cambodia,7439,157329,3746,82593,0136,Human resources managers,1,25,3.0268908987444456e-4
+Cambodia,7439,157329,3746,82593,5500,Cargo and freight agents,2,25,3.0268908987444456e-4
+Cambodia,7439,157329,3746,82593,5522,"Dispatchers, except police, fire, and ambulance",3,25,3.0268908987444456e-4
+Cambodia,7439,157329,3746,82593,5710,Executive secretaries and executive administrative assistants,3,25,3.0268908987444456e-4
+Cambodia,7439,157329,3746,82593,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,25,3.0268908987444456e-4
+Cambodia,7439,157329,3746,82593,3605,Orderlies and psychiatric aides,1,24,2.9058152627946677e-4
+Cambodia,7439,157329,3746,82593,7640,"Other installation, maintenance, and repair workers",2,24,2.9058152627946677e-4
+Cambodia,7439,157329,3746,82593,1007,Information security analysts,2,23,2.78473962684489e-4
+Cambodia,7439,157329,3746,82593,4640,Residential advisors,1,23,2.78473962684489e-4
+Cambodia,7439,157329,3746,82593,5220,"Court, municipal, and license clerks",1,23,2.78473962684489e-4
+Cambodia,7439,157329,3746,82593,5730,Medical secretaries and administrative assistants,1,23,2.78473962684489e-4
+Cambodia,7439,157329,3746,82593,8650,"Crushing, grinding, polishing, mixing, and blending workers",1,23,2.78473962684489e-4
+Cambodia,7439,157329,3746,82593,1720,Chemists and materials scientists,2,22,2.663663990895112e-4
+Cambodia,7439,157329,3746,82593,2440,Library technicians,1,22,2.663663990895112e-4
+Cambodia,7439,157329,3746,82593,2710,Producers and directors,2,22,2.663663990895112e-4
+Cambodia,7439,157329,3746,82593,3220,Respiratory therapists,2,22,2.663663990895112e-4
+Cambodia,7439,157329,3746,82593,3655,Other healthcare support workers,2,22,2.663663990895112e-4
+Cambodia,7439,157329,3746,82593,3945,Transportation security screeners,2,22,2.663663990895112e-4
+Cambodia,7439,157329,3746,82593,9141,Shuttle drivers and chauffeurs,2,22,2.663663990895112e-4
+Cambodia,7439,157329,3746,82593,1610,Biological scientists,2,21,2.542588354945334e-4
+Cambodia,7439,157329,3746,82593,2635,Interior designers,1,20,2.4215127189955565e-4
+Cambodia,7439,157329,3746,82593,3100,Surgeons,1,20,2.4215127189955565e-4
+Cambodia,7439,157329,3746,82593,3150,Occupational therapists,1,20,2.4215127189955565e-4
+Cambodia,7439,157329,3746,82593,3802,Correctional officers and jailers,1,20,2.4215127189955565e-4
+Cambodia,7439,157329,3746,82593,6460,Plasterers and stucco masons,1,20,2.4215127189955565e-4
+Cambodia,7439,157329,3746,82593,1032,Web and digital interface designers,1,19,2.3004370830457787e-4
+Cambodia,7439,157329,3746,82593,4500,Barbers,2,19,2.3004370830457787e-4
+Cambodia,7439,157329,3746,82593,2320,Secondary school teachers,2,18,2.1793614470960008e-4
+Cambodia,7439,157329,3746,82593,5320,"Library assistants, clerical",2,18,2.1793614470960008e-4
+Cambodia,7439,157329,3746,82593,8910,Etchers and engravers,1,18,2.1793614470960008e-4
+Cambodia,7439,157329,3746,82593,0600,Cost estimators,1,17,2.058285811146223e-4
+Cambodia,7439,157329,3746,82593,1745,"Environmental scientists and specialists, including health",1,17,2.058285811146223e-4
+Cambodia,7439,157329,3746,82593,1920,Chemical technicians,2,17,2.058285811146223e-4
+Cambodia,7439,157329,3746,82593,2025,Other community and social service specialists,1,17,2.058285811146223e-4
+Cambodia,7439,157329,3746,82593,4350,Animal caretakers,1,16,1.9372101751964453e-4
+Cambodia,7439,157329,3746,82593,6305,Construction equipment operators,1,16,1.9372101751964453e-4
+Cambodia,7439,157329,3746,82593,7150,Automotive body and related repairers,1,16,1.9372101751964453e-4
+Cambodia,7439,157329,3746,82593,9150,"Motor vehicle operators, all other",1,16,1.9372101751964453e-4
+Cambodia,7439,157329,3746,82593,1980,Occupational health and safety specialists and technicians,1,15,1.8161345392466675e-4
+Cambodia,7439,157329,3746,82593,3515,Medical records specialists,1,15,1.8161345392466675e-4
+Cambodia,7439,157329,3746,82593,5560,"Postal service mail sorters, processors, and processing machine operators",1,15,1.8161345392466675e-4
+Cambodia,7439,157329,3746,82593,7160,Automotive glass installers and repairers,1,15,1.8161345392466675e-4
+Cambodia,7439,157329,3746,82593,9040,Air traffic controllers and airfield operations specialists,1,15,1.8161345392466675e-4
+Cambodia,7439,157329,3746,82593,9415,Passenger attendants,1,15,1.8161345392466675e-4
+Cambodia,7439,157329,3746,82593,9810,First-line enlisted military supervisors,1,15,1.8161345392466675e-4
+Cambodia,7439,157329,3746,82593,0060,Public relations and fundraising managers,1,14,1.6950589032968896e-4
+Cambodia,7439,157329,3746,82593,2012,Healthcare social workers,1,14,1.6950589032968896e-4
+Cambodia,7439,157329,3746,82593,3120,Podiatrists,1,14,1.6950589032968896e-4
+Cambodia,7439,157329,3746,82593,3330,Nuclear medicine technologists and medical dosimetrists,2,14,1.6950589032968896e-4
+Cambodia,7439,157329,3746,82593,3910,Private detectives and investigators,1,14,1.6950589032968896e-4
+Cambodia,7439,157329,3746,82593,4750,Parts salespersons,1,14,1.6950589032968896e-4
+Cambodia,7439,157329,3746,82593,5420,Other information and records clerks,1,14,1.6950589032968896e-4
+Cambodia,7439,157329,3746,82593,8830,Photographic process workers and processing machine operators,1,14,1.6950589032968896e-4
+Cambodia,7439,157329,3746,82593,1005,Computer and information research scientists,1,13,1.5739832673471117e-4
+Cambodia,7439,157329,3746,82593,1400,Computer hardware engineers,1,13,1.5739832673471117e-4
+Cambodia,7439,157329,3746,82593,1825,Other psychologists,1,13,1.5739832673471117e-4
+Cambodia,7439,157329,3746,82593,3550,Other healthcare practitioners and technical occupations,1,13,1.5739832673471117e-4
+Cambodia,7439,157329,3746,82593,4040,Bartenders,1,13,1.5739832673471117e-4
+Cambodia,7439,157329,3746,82593,4525,Other personal appearance workers,1,13,1.5739832673471117e-4
+Cambodia,7439,157329,3746,82593,4830,Travel agents,1,13,1.5739832673471117e-4
+Cambodia,7439,157329,3746,82593,7030,Avionics technicians,1,13,1.5739832673471117e-4
+Cambodia,7439,157329,3746,82593,7040,"Electric motor, power tool, and related repairers",1,13,1.5739832673471117e-4
+Cambodia,7439,157329,3746,82593,7100,"Other electrical and electronic equipment mechanics, installers, and repairers",1,13,1.5739832673471117e-4
+Cambodia,7439,157329,3746,82593,7130,Security and fire alarm systems installers,1,13,1.5739832673471117e-4
+Cambodia,7439,157329,3746,82593,8335,Shoe and leather workers,1,13,1.5739832673471117e-4
+Cambodia,7439,157329,3746,82593,1800,Economists,1,12,1.4529076313973339e-4
+Cambodia,7439,157329,3746,82593,5230,"Credit authorizers, checkers, and clerks",1,12,1.4529076313973339e-4
+Cambodia,7439,157329,3746,82593,8850,Adhesive bonding machine operators and tenders,1,12,1.4529076313973339e-4
+Cambodia,7439,157329,3746,82593,1031,Web developers,1,11,1.331831995447556e-4
+Cambodia,7439,157329,3746,82593,3725,"Miscellaneous first-line supervisors, protective service workers",1,11,1.331831995447556e-4
+Cambodia,7439,157329,3746,82593,9050,Flight attendants,1,11,1.331831995447556e-4
+Cambodia,7439,157329,3746,82593,9365,Transportation service attendants,1,11,1.331831995447556e-4
+Cambodia,7439,157329,3746,82593,4255,Other grounds maintenance workers,1,10,1.2107563594977783e-4
+Cambodia,7439,157329,3746,82593,7020,Radio and telecommunications equipment installers and repairers,1,10,1.2107563594977783e-4
+Cambodia,7439,157329,3746,82593,9300,"Sailors and marine oilers, and ship engineers",1,10,1.2107563594977783e-4
+Cambodia,7439,157329,3746,82593,0102,Facilities managers,1,9,1.0896807235480004e-4
+Cambodia,7439,157329,3746,82593,0640,"Compensation, benefits, and job analysis specialists",1,9,1.0896807235480004e-4
+Cambodia,7439,157329,3746,82593,0810,Property appraisers and assessors,1,9,1.0896807235480004e-4
+Cambodia,7439,157329,3746,82593,3250,Veterinarians,1,9,1.0896807235480004e-4
+Cambodia,7439,157329,3746,82593,7420,Telecommunications line installers and repairers,1,9,1.0896807235480004e-4
+Cambodia,7439,157329,3746,82593,8720,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",1,8,9.686050875982227e-5
+Cambodia,7439,157329,3746,82593,9570,"Conveyor, dredge, and hoist and winch operators",1,8,9.686050875982227e-5
+Cambodia,7439,157329,3746,82593,0830,Credit analysts,1,7,8.475294516484448e-5
+Cambodia,7439,157329,3746,82593,2752,Musicians and singers,1,7,8.475294516484448e-5
+Cambodia,7439,157329,3746,82593,4800,Advertising sales agents,1,7,8.475294516484448e-5
+Cambodia,7439,157329,3746,82593,2905,Other media and communication equipment workers,1,6,7.264538156986669e-5
+Cambodia,7439,157329,3746,82593,6010,Agricultural inspectors,1,6,7.264538156986669e-5
+Cambodia,7439,157329,3746,82593,9121,"Bus drivers, school",1,6,7.264538156986669e-5
+Cambodia,7439,157329,3746,82593,5350,Correspondence clerks and order clerks,1,5,6.053781797488891e-5
+Cambodia,7439,157329,3746,82593,7120,Electronic home entertainment equipment installers and repairers,1,4,4.843025437991113e-5
+Cambodia,7439,157329,3746,82593,0510,"Buyers and purchasing agents, farm products",1,3,3.6322690784933346e-5

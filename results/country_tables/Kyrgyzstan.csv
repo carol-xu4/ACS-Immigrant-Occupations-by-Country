@@ -1,0 +1,159 @@
+country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
+Kyrgyzstan,658,14980,380,8795,9130,Driver/sales workers and truck drivers,29,805,0.09152927799886298
+Kyrgyzstan,658,14980,380,8795,1021,Software developers,25,469,0.053325753268902785
+Kyrgyzstan,658,14980,380,8795,0440,Other managers,15,411,0.04673109721432632
+Kyrgyzstan,658,14980,380,8795,9142,Taxi drivers,10,261,0.02967595224559409
+Kyrgyzstan,658,14980,380,8795,2205,Postsecondary teachers,7,220,0.025014212620807278
+Kyrgyzstan,658,14980,380,8795,3255,Registered nurses,7,193,0.021944286526435475
+Kyrgyzstan,658,14980,380,8795,1010,Computer programmers,4,169,0.019215463331438316
+Kyrgyzstan,658,14980,380,8795,2360,Other teachers and instructors,6,162,0.018419556566230812
+Kyrgyzstan,658,14980,380,8795,4720,Cashiers,7,161,0.0183058555997726
+Kyrgyzstan,658,14980,380,8795,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",4,151,0.017168845935190448
+Kyrgyzstan,658,14980,380,8795,0800,Accountants and auditors,6,141,0.0160318362706083
+Kyrgyzstan,658,14980,380,8795,4710,First-line supervisors of non-retail sales workers,3,139,0.01580443433769187
+Kyrgyzstan,658,14980,380,8795,0220,Construction managers,6,130,0.014781125639567936
+Kyrgyzstan,658,14980,380,8795,6200,First-line supervisors of construction trades and extraction workers,2,127,0.014440022740193292
+Kyrgyzstan,658,14980,380,8795,3602,Personal care aides,5,120,0.013644115974985787
+Kyrgyzstan,658,14980,380,8795,5000,First-line supervisors of office and administrative support workers,2,119,0.013530415008527573
+Kyrgyzstan,658,14980,380,8795,0120,Financial managers,5,116,0.013189312109152928
+Kyrgyzstan,658,14980,380,8795,1022,Software quality assurance analysts and testers,4,114,0.012961910176236498
+Kyrgyzstan,658,14980,380,8795,1410,Electrical and electronics engineers,3,107,0.012166003411028994
+Kyrgyzstan,658,14980,380,8795,3630,Massage therapists,1,95,0.010801591813530414
+Kyrgyzstan,658,14980,380,8795,1108,"Computer occupations, all other",3,92,0.01046048891415577
+Kyrgyzstan,658,14980,380,8795,6230,Carpenters,4,90,0.01023308698123934
+Kyrgyzstan,658,14980,380,8795,4030,Food preparation workers,3,89,0.010119386014781125
+Kyrgyzstan,658,14980,380,8795,3601,Home health aides,5,84,0.009550881182490051
+Kyrgyzstan,658,14980,380,8795,0710,Management analysts,4,83,0.009437180216031836
+Kyrgyzstan,658,14980,380,8795,2861,Interpreters and translators,2,81,0.009209778283115406
+Kyrgyzstan,658,14980,380,8795,3030,Dietitians and nutritionists,1,77,0.008754974417282547
+Kyrgyzstan,658,14980,380,8795,1530,Other engineers,3,73,0.008300170551449687
+Kyrgyzstan,658,14980,380,8795,1105,Network and computer systems administrators,1,72,0.008186469584991472
+Kyrgyzstan,658,14980,380,8795,4521,Manicurists and pedicurists,2,71,0.008072768618533257
+Kyrgyzstan,658,14980,380,8795,5610,"Shipping, receiving, and inventory clerks",3,69,0.007845366685616828
+Kyrgyzstan,658,14980,380,8795,8140,"Welding, soldering, and brazing workers",2,69,0.007845366685616828
+Kyrgyzstan,658,14980,380,8795,3090,Physicians,5,67,0.007617964752700398
+Kyrgyzstan,658,14980,380,8795,2545,Teaching assistants,3,66,0.007504263786242183
+Kyrgyzstan,658,14980,380,8795,4110,Waiters and waitresses,4,65,0.007390562819783968
+Kyrgyzstan,658,14980,380,8795,9825,Military enlisted tactical operations and air/weapons specialists and crew members,2,64,0.007276861853325753
+Kyrgyzstan,658,14980,380,8795,4760,Retail salespersons,2,60,0.006822057987492893
+Kyrgyzstan,658,14980,380,8795,5310,"Interviewers, except eligibility and loan",2,59,0.006708357021034679
+Kyrgyzstan,658,14980,380,8795,2865,"Media and communication workers, all other",1,57,0.006480955088118249
+Kyrgyzstan,658,14980,380,8795,3960,Other protective service workers,3,57,0.006480955088118249
+Kyrgyzstan,658,14980,380,8795,5110,Billing and posting clerks,4,57,0.006480955088118249
+Kyrgyzstan,658,14980,380,8795,4700,First-line supervisors of retail sales workers,2,56,0.006367254121660034
+Kyrgyzstan,658,14980,380,8795,4230,Maids and housekeeping cleaners,4,55,0.0062535531552018195
+Kyrgyzstan,658,14980,380,8795,0310,Food service managers,2,53,0.006026151222285389
+Kyrgyzstan,658,14980,380,8795,3421,Pharmacy technicians,2,53,0.006026151222285389
+Kyrgyzstan,658,14980,380,8795,0910,Credit counselors and loan officers,2,52,0.005912450255827174
+Kyrgyzstan,658,14980,380,8795,4600,Childcare workers,2,52,0.005912450255827174
+Kyrgyzstan,658,14980,380,8795,6260,Construction laborers,3,50,0.005685048322910745
+Kyrgyzstan,658,14980,380,8795,6660,Construction and building inspectors,1,50,0.005685048322910745
+Kyrgyzstan,658,14980,380,8795,0705,Project management specialists,2,47,0.0053439454235361
+Kyrgyzstan,658,14980,380,8795,1760,"Physical scientists, all other",2,46,0.005230244457077885
+Kyrgyzstan,658,14980,380,8795,4055,Fast food and counter workers,2,46,0.005230244457077885
+Kyrgyzstan,658,14980,380,8795,5240,Customer service representatives,2,46,0.005230244457077885
+Kyrgyzstan,658,14980,380,8795,5510,Couriers and messengers,3,44,0.005002842524161455
+Kyrgyzstan,658,14980,380,8795,9640,"Packers and packagers, hand",1,44,0.005002842524161455
+Kyrgyzstan,658,14980,380,8795,4510,"Hairdressers, hairstylists, and cosmetologists",2,43,0.004889141557703241
+Kyrgyzstan,658,14980,380,8795,0350,Medical and health services managers,1,42,0.004775440591245026
+Kyrgyzstan,658,14980,380,8795,0735,Market research analysts and marketing specialists,2,42,0.004775440591245026
+Kyrgyzstan,658,14980,380,8795,0845,Financial and investment analysts,3,42,0.004775440591245026
+Kyrgyzstan,658,14980,380,8795,0020,General and operations managers,1,40,0.0045480386583285955
+Kyrgyzstan,658,14980,380,8795,5860,"Office clerks, general",3,40,0.0045480386583285955
+Kyrgyzstan,658,14980,380,8795,1430,"Industrial engineers, including health and safety",3,39,0.004434337691870381
+Kyrgyzstan,658,14980,380,8795,2320,Secondary school teachers,3,39,0.004434337691870381
+Kyrgyzstan,658,14980,380,8795,5740,"Secretaries and administrative assistants, except legal, medical, and executive",2,39,0.004434337691870381
+Kyrgyzstan,658,14980,380,8795,0630,Human resources workers,1,38,0.004320636725412166
+Kyrgyzstan,658,14980,380,8795,5522,"Dispatchers, except police, fire, and ambulance",2,38,0.004320636725412166
+Kyrgyzstan,658,14980,380,8795,9620,"Laborers and freight, stock, and material movers, hand",3,38,0.004320636725412166
+Kyrgyzstan,658,14980,380,8795,4740,Counter and rental clerks,1,37,0.004206935758953951
+Kyrgyzstan,658,14980,380,8795,4850,"Sales representatives, wholesale and manufacturing",1,37,0.004206935758953951
+Kyrgyzstan,658,14980,380,8795,0140,Industrial production managers,2,36,0.004093234792495736
+Kyrgyzstan,658,14980,380,8795,8990,"Miscellaneous production workers, including equipment operators and tenders",2,36,0.004093234792495736
+Kyrgyzstan,658,14980,380,8795,1800,Economists,1,35,0.003979533826037522
+Kyrgyzstan,658,14980,380,8795,6355,Electricians,2,35,0.003979533826037522
+Kyrgyzstan,658,14980,380,8795,4020,Cooks,2,33,0.0037521318931210915
+Kyrgyzstan,658,14980,380,8795,9645,Stockers and order fillers,2,33,0.0037521318931210915
+Kyrgyzstan,658,14980,380,8795,3322,Diagnostic medical sonographers,2,32,0.0036384309266628764
+Kyrgyzstan,658,14980,380,8795,0420,Social and community service managers,1,31,0.0035247299602046618
+Kyrgyzstan,658,14980,380,8795,1006,Computer systems analysts,3,31,0.0035247299602046618
+Kyrgyzstan,658,14980,380,8795,1970,"Other life, physical, and social science technicians",1,31,0.0035247299602046618
+Kyrgyzstan,658,14980,380,8795,5940,Other office and administrative support workers,2,31,0.0035247299602046618
+Kyrgyzstan,658,14980,380,8795,1400,Computer hardware engineers,1,30,0.0034110289937464467
+Kyrgyzstan,658,14980,380,8795,2310,Elementary and middle school teachers,3,30,0.0034110289937464467
+Kyrgyzstan,658,14980,380,8795,3500,Licensed practical and licensed vocational nurses,2,30,0.0034110289937464467
+Kyrgyzstan,658,14980,380,8795,3820,Detectives and criminal investigators,1,30,0.0034110289937464467
+Kyrgyzstan,658,14980,380,8795,4040,Bartenders,1,30,0.0034110289937464467
+Kyrgyzstan,658,14980,380,8795,1005,Computer and information research scientists,1,29,0.003297328027288232
+Kyrgyzstan,658,14980,380,8795,3258,"Nurse practitioners, and nurse midwives",3,29,0.003297328027288232
+Kyrgyzstan,658,14980,380,8795,3945,Transportation security screeners,1,29,0.003297328027288232
+Kyrgyzstan,658,14980,380,8795,2145,Paralegals and legal assistants,2,28,0.003183627060830017
+Kyrgyzstan,658,14980,380,8795,3323,Radiologic technologists and technicians,1,28,0.003183627060830017
+Kyrgyzstan,658,14980,380,8795,4220,Janitors and building cleaners,1,28,0.003183627060830017
+Kyrgyzstan,658,14980,380,8795,3930,Security guards and gaming surveillance officers,1,27,0.003069926094371802
+Kyrgyzstan,658,14980,380,8795,4000,Chefs and head cooks,1,27,0.003069926094371802
+Kyrgyzstan,658,14980,380,8795,5600,"Production, planning, and expediting clerks",1,27,0.003069926094371802
+Kyrgyzstan,658,14980,380,8795,6700,Elevator installers and repairers,1,27,0.003069926094371802
+Kyrgyzstan,658,14980,380,8795,0010,Chief executives and legislators,2,26,0.002956225127913587
+Kyrgyzstan,658,14980,380,8795,2004,Mental health counselors,2,26,0.002956225127913587
+Kyrgyzstan,658,14980,380,8795,2640,Other designers,2,26,0.002956225127913587
+Kyrgyzstan,658,14980,380,8795,2825,Public relations specialists,1,26,0.002956225127913587
+Kyrgyzstan,658,14980,380,8795,8350,"Tailors, dressmakers, and sewers",1,26,0.002956225127913587
+Kyrgyzstan,658,14980,380,8795,8510,Furniture finishers,1,26,0.002956225127913587
+Kyrgyzstan,658,14980,380,8795,0500,"Agents and business managers of artists, performers, and athletes",1,25,0.0028425241614553724
+Kyrgyzstan,658,14980,380,8795,3324,Magnetic resonance imaging technologists,1,25,0.0028425241614553724
+Kyrgyzstan,658,14980,380,8795,5400,Receptionists and information clerks,2,25,0.0028425241614553724
+Kyrgyzstan,658,14980,380,8795,7210,Bus and truck mechanics and diesel engine specialists,1,24,0.0027288231949971573
+Kyrgyzstan,658,14980,380,8795,9600,Industrial truck and tractor operators,1,24,0.0027288231949971573
+Kyrgyzstan,658,14980,380,8795,5710,Executive secretaries and executive administrative assistants,1,23,0.0026151222285389427
+Kyrgyzstan,658,14980,380,8795,8335,Shoe and leather workers,1,23,0.0026151222285389427
+Kyrgyzstan,658,14980,380,8795,9610,Cleaners of vehicles and equipment,2,23,0.0026151222285389427
+Kyrgyzstan,658,14980,380,8795,1350,Chemical engineers,1,22,0.0025014212620807275
+Kyrgyzstan,658,14980,380,8795,2330,Special education teachers,2,22,0.0025014212620807275
+Kyrgyzstan,658,14980,380,8795,7150,Automotive body and related repairers,1,22,0.0025014212620807275
+Kyrgyzstan,658,14980,380,8795,7320,Home appliance repairers,1,22,0.0025014212620807275
+Kyrgyzstan,658,14980,380,8795,8740,"Inspectors, testers, sorters, samplers, and weighers",2,22,0.0025014212620807275
+Kyrgyzstan,658,14980,380,8795,1460,Mechanical engineers,1,21,0.002387720295622513
+Kyrgyzstan,658,14980,380,8795,1555,"Other engineering technologists and technicians, except drafters",2,21,0.002387720295622513
+Kyrgyzstan,658,14980,380,8795,2722,Coaches and scouts,1,21,0.002387720295622513
+Kyrgyzstan,658,14980,380,8795,4435,Other entertainment attendants and related workers,1,21,0.002387720295622513
+Kyrgyzstan,658,14980,380,8795,9141,Shuttle drivers and chauffeurs,1,21,0.002387720295622513
+Kyrgyzstan,658,14980,380,8795,4622,Recreation workers,1,20,0.0022740193291642978
+Kyrgyzstan,658,14980,380,8795,4920,Real estate brokers and sales agents,1,19,0.002160318362706083
+Kyrgyzstan,658,14980,380,8795,7750,Other assemblers and fabricators,1,18,0.002046617396247868
+Kyrgyzstan,658,14980,380,8795,0930,"Tax examiners and collectors, and revenue agents",1,17,0.0019329164297896533
+Kyrgyzstan,658,14980,380,8795,2001,Substance abuse and behavioral disorder counselors,1,17,0.0019329164297896533
+Kyrgyzstan,658,14980,380,8795,4621,Exercise trainers and group fitness instructors,1,17,0.0019329164297896533
+Kyrgyzstan,658,14980,380,8795,1065,Database administrators and architects,1,16,0.0018192154633314382
+Kyrgyzstan,658,14980,380,8795,3603,Nursing assistants,1,16,0.0018192154633314382
+Kyrgyzstan,658,14980,380,8795,5810,Data entry keyers,1,16,0.0018192154633314382
+Kyrgyzstan,658,14980,380,8795,0051,Marketing managers,1,15,0.0017055144968732233
+Kyrgyzstan,658,14980,380,8795,1745,"Environmental scientists and specialists, including health",1,15,0.0017055144968732233
+Kyrgyzstan,658,14980,380,8795,7720,"Electrical, electronics, and electromechanical assemblers",1,15,0.0017055144968732233
+Kyrgyzstan,658,14980,380,8795,0510,"Buyers and purchasing agents, farm products",1,14,0.0015918135304150084
+Kyrgyzstan,658,14980,380,8795,1240,Other mathematical science occupations,1,14,0.0015918135304150084
+Kyrgyzstan,658,14980,380,8795,1305,"Architects, except landscape and naval",1,14,0.0015918135304150084
+Kyrgyzstan,658,14980,380,8795,3870,Police officers,1,14,0.0015918135304150084
+Kyrgyzstan,658,14980,380,8795,5120,"Bookkeeping, accounting, and auditing clerks",1,14,0.0015918135304150084
+Kyrgyzstan,658,14980,380,8795,1050,Computer support specialists,1,13,0.0014781125639567935
+Kyrgyzstan,658,14980,380,8795,2435,Librarians and media collections specialists,1,13,0.0014781125639567935
+Kyrgyzstan,658,14980,380,8795,4640,Residential advisors,1,13,0.0014781125639567935
+Kyrgyzstan,658,14980,380,8795,3545,Miscellaneous health technologists and technicians,1,12,0.0013644115974985787
+Kyrgyzstan,658,14980,380,8795,5100,Bill and account collectors,1,12,0.0013644115974985787
+Kyrgyzstan,658,14980,380,8795,1007,Information security analysts,1,11,0.0012507106310403638
+Kyrgyzstan,658,14980,380,8795,1220,Operations research analysts,1,11,0.0012507106310403638
+Kyrgyzstan,658,14980,380,8795,3010,Dentists,1,11,0.0012507106310403638
+Kyrgyzstan,658,14980,380,8795,3230,Speech-language pathologists,1,11,0.0012507106310403638
+Kyrgyzstan,658,14980,380,8795,6720,Hazardous materials removal workers,1,11,0.0012507106310403638
+Kyrgyzstan,658,14980,380,8795,7700,First-line supervisors of production and operating workers,1,11,0.0012507106310403638
+Kyrgyzstan,658,14980,380,8795,0335,Entertainment and recreation managers,1,10,0.0011370096645821489
+Kyrgyzstan,658,14980,380,8795,2100,"Lawyers, and judges, magistrates, and other judicial workers",1,10,0.0011370096645821489
+Kyrgyzstan,658,14980,380,8795,6442,"Plumbers, pipefitters, and steamfitters",1,10,0.0011370096645821489
+Kyrgyzstan,658,14980,380,8795,3645,Medical assistants,1,9,0.001023308698123934
+Kyrgyzstan,658,14980,380,8795,4010,First-line supervisors of food preparation and serving workers,1,8,9.096077316657191e-4
+Kyrgyzstan,658,14980,380,8795,8225,Other metal workers and plastic workers,1,8,9.096077316657191e-4
+Kyrgyzstan,658,14980,380,8795,3424,Veterinary technologists and technicians,1,7,7.959067652075042e-4
+Kyrgyzstan,658,14980,380,8795,1610,Biological scientists,1,6,6.822057987492893e-4
+Kyrgyzstan,658,14980,380,8795,5160,Tellers,1,5,5.685048322910744e-4
+Kyrgyzstan,658,14980,380,8795,4350,Animal caretakers,1,3,3.4110289937464467e-4
+Kyrgyzstan,658,14980,380,8795,4500,Barbers,1,3,3.4110289937464467e-4

@@ -5,14 +5,15 @@ pacman::p_load(matrixStats, tidyverse, ggthemes, readxl, data.table, gdata, ipum
 setwd("C:/Users/CarolXu/OneDrive - Cato Institute/Desktop/ACS Immigrant Occupations by Country")
 
 ## Read 2024 ACS 5-year sample
-ddi_acs = read_ipums_ddi("data/input/usa_00037.xml")
+ddi_acs = read_ipums_ddi("data/input/usa_00039.xml")
 acs = read_ipums_micro(ddi_acs)
 
 acs = acs %>%
   rename_with(tolower) %>%
   select(year, multyear, perwt, hhwt, 
     bpl, bpld, citizen, yrnatur, yrimmig, age, sex,
-    empstat, empstatd, labforce, occ, occsoc, ind, indnaics)
+    empstat, empstatd, labforce, occ, occsoc, ind, indnaics,
+    educ, educd, inctot, incwage, hhincome)
 
 # country recodes --------------------------------------------------------------------------------
 acs = acs %>%

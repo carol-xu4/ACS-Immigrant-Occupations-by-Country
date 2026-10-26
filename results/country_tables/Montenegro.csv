@@ -1,0 +1,128 @@
+country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
+Montenegro,595,15010,341,9207,4220,Janitors and building cleaners,21,530,0.057564896274573694
+Montenegro,595,15010,341,9207,0310,Food service managers,10,444,0.048224177256435324
+Montenegro,595,15010,341,9207,0410,"Property, real estate, and community association managers",13,413,0.04485717388943195
+Montenegro,595,15010,341,9207,6410,Painters and paperhangers,10,413,0.04485717388943195
+Montenegro,595,15010,341,9207,0120,Financial managers,4,302,0.03280112957532312
+Montenegro,595,15010,341,9207,0440,Other managers,10,298,0.03236667752796785
+Montenegro,595,15010,341,9207,4230,Maids and housekeeping cleaners,9,298,0.03236667752796785
+Montenegro,595,15010,341,9207,4530,"Baggage porters, bellhops, and concierges",13,298,0.03236667752796785
+Montenegro,595,15010,341,9207,4110,Waiters and waitresses,13,257,0.027913544042576302
+Montenegro,595,15010,341,9207,1021,Software developers,6,255,0.027696318018898665
+Montenegro,595,15010,341,9207,7340,"Maintenance and repair workers, general",8,224,0.024329314651895296
+Montenegro,595,15010,341,9207,6260,Construction laborers,7,200,0.021722602367763657
+Montenegro,595,15010,341,9207,6400,Insulation workers,3,198,0.021505376344086023
+Montenegro,595,15010,341,9207,5740,"Secretaries and administrative assistants, except legal, medical, and executive",6,191,0.020745085261214293
+Montenegro,595,15010,341,9207,0220,Construction managers,7,179,0.019441729119148474
+Montenegro,595,15010,341,9207,9130,Driver/sales workers and truck drivers,7,154,0.016726403823178016
+Montenegro,595,15010,341,9207,4020,Cooks,4,136,0.014771369610079287
+Montenegro,595,15010,341,9207,4200,First-line supervisors of housekeeping and janitorial workers,7,123,0.01335940045617465
+Montenegro,595,15010,341,9207,4965,"Sales and related workers, all other",2,122,0.013250787444335832
+Montenegro,595,15010,341,9207,3601,Home health aides,6,120,0.013033561420658195
+Montenegro,595,15010,341,9207,7000,"First-line supervisors of mechanics, installers, and repairers",1,115,0.012490496361464104
+Montenegro,595,15010,341,9207,4600,Childcare workers,1,112,0.012164657325947648
+Montenegro,595,15010,341,9207,0230,Education and childcare administrators,4,109,0.011838818290431194
+Montenegro,595,15010,341,9207,4720,Cashiers,3,102,0.011078527207559466
+Montenegro,595,15010,341,9207,3602,Personal care aides,5,99,0.010752688172043012
+Montenegro,595,15010,341,9207,9620,"Laborers and freight, stock, and material movers, hand",5,99,0.010752688172043012
+Montenegro,595,15010,341,9207,1530,Other engineers,2,98,0.010644075160204193
+Montenegro,595,15010,341,9207,4760,Retail salespersons,7,98,0.010644075160204193
+Montenegro,595,15010,341,9207,4510,"Hairdressers, hairstylists, and cosmetologists",3,97,0.010535462148365374
+Montenegro,595,15010,341,9207,2310,Elementary and middle school teachers,7,92,0.009992397089171283
+Montenegro,595,15010,341,9207,4920,Real estate brokers and sales agents,2,86,0.009340719018138374
+Montenegro,595,15010,341,9207,3630,Massage therapists,3,84,0.009123492994460736
+Montenegro,595,15010,341,9207,5510,Couriers and messengers,1,84,0.009123492994460736
+Montenegro,595,15010,341,9207,6700,Elevator installers and repairers,1,74,0.008037362876072554
+Montenegro,595,15010,341,9207,8030,Machinists,1,74,0.008037362876072554
+Montenegro,595,15010,341,9207,0735,Market research analysts and marketing specialists,1,73,0.007928749864233735
+Montenegro,595,15010,341,9207,4000,Chefs and head cooks,4,73,0.007928749864233735
+Montenegro,595,15010,341,9207,4040,Bartenders,3,70,0.007602910828717281
+Montenegro,595,15010,341,9207,4700,First-line supervisors of retail sales workers,3,68,0.0073856848050396435
+Montenegro,595,15010,341,9207,8990,"Miscellaneous production workers, including equipment operators and tenders",3,67,0.007277071793200826
+Montenegro,595,15010,341,9207,6442,"Plumbers, pipefitters, and steamfitters",2,61,0.006625393722167916
+Montenegro,595,15010,341,9207,0010,Chief executives and legislators,4,60,0.006516780710329097
+Montenegro,595,15010,341,9207,4710,First-line supervisors of non-retail sales workers,2,59,0.006408167698490279
+Montenegro,595,15010,341,9207,5000,First-line supervisors of office and administrative support workers,4,58,0.006299554686651461
+Montenegro,595,15010,341,9207,3603,Nursing assistants,1,55,0.005973715651135006
+Montenegro,595,15010,341,9207,6230,Carpenters,1,55,0.005973715651135006
+Montenegro,595,15010,341,9207,5240,Customer service representatives,2,54,0.005865102639296188
+Montenegro,595,15010,341,9207,6050,Other agricultural workers,2,53,0.005756489627457369
+Montenegro,595,15010,341,9207,8300,Laundry and dry-cleaning workers,1,51,0.005539263603779733
+Montenegro,595,15010,341,9207,2100,"Lawyers, and judges, magistrates, and other judicial workers",2,48,0.005213424568263278
+Montenegro,595,15010,341,9207,9005,Supervisors of transportation and material moving workers,1,47,0.005104811556424459
+Montenegro,595,15010,341,9207,5400,Receptionists and information clerks,2,45,0.004887585532746823
+Montenegro,595,15010,341,9207,0136,Human resources managers,1,43,0.004670359509069187
+Montenegro,595,15010,341,9207,5110,Billing and posting clerks,2,43,0.004670359509069187
+Montenegro,595,15010,341,9207,0830,Credit analysts,1,42,0.004561746497230368
+Montenegro,595,15010,341,9207,6240,"Carpet, floor, and tile installers and finishers",3,42,0.004561746497230368
+Montenegro,595,15010,341,9207,0710,Management analysts,2,40,0.004344520473552732
+Montenegro,595,15010,341,9207,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,40,0.004344520473552732
+Montenegro,595,15010,341,9207,3500,Licensed practical and licensed vocational nurses,1,39,0.004235907461713913
+Montenegro,595,15010,341,9207,5120,"Bookkeeping, accounting, and auditing clerks",1,39,0.004235907461713913
+Montenegro,595,15010,341,9207,7420,Telecommunications line installers and repairers,1,39,0.004235907461713913
+Montenegro,595,15010,341,9207,0630,Human resources workers,2,38,0.004127294449875095
+Montenegro,595,15010,341,9207,0800,Accountants and auditors,2,37,0.004018681438036277
+Montenegro,595,15010,341,9207,2006,"Counselors, all other",1,34,0.0036928424025198217
+Montenegro,595,15010,341,9207,2320,Secondary school teachers,1,34,0.0036928424025198217
+Montenegro,595,15010,341,9207,7315,"Heating, air conditioning, and refrigeration mechanics and installers",1,34,0.0036928424025198217
+Montenegro,595,15010,341,9207,0420,Social and community service managers,2,33,0.0035842293906810036
+Montenegro,595,15010,341,9207,4810,Insurance sales agents,1,33,0.0035842293906810036
+Montenegro,595,15010,341,9207,4850,"Sales representatives, wholesale and manufacturing",1,33,0.0035842293906810036
+Montenegro,595,15010,341,9207,5860,"Office clerks, general",2,33,0.0035842293906810036
+Montenegro,595,15010,341,9207,0051,Marketing managers,2,32,0.0034756163788421854
+Montenegro,595,15010,341,9207,3255,Registered nurses,3,32,0.0034756163788421854
+Montenegro,595,15010,341,9207,0845,Financial and investment analysts,1,31,0.003367003367003367
+Montenegro,595,15010,341,9207,7200,Automotive service technicians and mechanics,1,31,0.003367003367003367
+Montenegro,595,15010,341,9207,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,31,0.003367003367003367
+Montenegro,595,15010,341,9207,1541,Architectural and civil drafters,1,28,0.003041164331486912
+Montenegro,595,15010,341,9207,2300,Preschool and kindergarten teachers,1,28,0.003041164331486912
+Montenegro,595,15010,341,9207,6200,First-line supervisors of construction trades and extraction workers,2,28,0.003041164331486912
+Montenegro,595,15010,341,9207,5160,Tellers,1,27,0.002932551319648094
+Montenegro,595,15010,341,9207,1320,Aerospace engineers,1,25,0.002715325295970457
+Montenegro,595,15010,341,9207,5340,New accounts clerks,1,24,0.002606712284131639
+Montenegro,595,15010,341,9207,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,23,0.002498099272292821
+Montenegro,595,15010,341,9207,2016,Social and human service assistants,1,22,0.0023894862604540022
+Montenegro,595,15010,341,9207,6355,Electricians,2,22,0.0023894862604540022
+Montenegro,595,15010,341,9207,9640,"Packers and packagers, hand",1,21,0.002280873248615184
+Montenegro,595,15010,341,9207,8310,"Pressers, textile, garment, and related materials",1,20,0.002172260236776366
+Montenegro,595,15010,341,9207,3300,Clinical laboratory technologists and technicians,2,19,0.0020636472249375474
+Montenegro,595,15010,341,9207,3322,Diagnostic medical sonographers,1,19,0.0020636472249375474
+Montenegro,595,15010,341,9207,3645,Medical assistants,1,19,0.0020636472249375474
+Montenegro,595,15010,341,9207,0052,Sales managers,1,18,0.0019550342130987292
+Montenegro,595,15010,341,9207,2633,Floral designers,1,18,0.0019550342130987292
+Montenegro,595,15010,341,9207,3930,Security guards and gaming surveillance officers,1,17,0.0018464212012599109
+Montenegro,595,15010,341,9207,4540,Tour and travel guides,1,17,0.0018464212012599109
+Montenegro,595,15010,341,9207,5140,Payroll and timekeeping clerks,2,17,0.0018464212012599109
+Montenegro,595,15010,341,9207,8740,"Inspectors, testers, sorters, samplers, and weighers",1,17,0.0018464212012599109
+Montenegro,595,15010,341,9207,0725,"Meeting, convention, and event planners",1,16,0.0017378081894210927
+Montenegro,595,15010,341,9207,0020,General and operations managers,1,15,0.0016291951775822744
+Montenegro,595,15010,341,9207,4140,Dishwashers,1,15,0.0016291951775822744
+Montenegro,595,15010,341,9207,6720,Hazardous materials removal workers,1,15,0.0016291951775822744
+Montenegro,595,15010,341,9207,1005,Computer and information research scientists,1,14,0.001520582165743456
+Montenegro,595,15010,341,9207,3160,Physical therapists,1,14,0.001520582165743456
+Montenegro,595,15010,341,9207,4010,First-line supervisors of food preparation and serving workers,1,14,0.001520582165743456
+Montenegro,595,15010,341,9207,5710,Executive secretaries and executive administrative assistants,1,14,0.001520582165743456
+Montenegro,595,15010,341,9207,6765,Other construction and related workers,1,14,0.001520582165743456
+Montenegro,595,15010,341,9207,1108,"Computer occupations, all other",1,13,0.0014119691539046378
+Montenegro,595,15010,341,9207,5610,"Shipping, receiving, and inventory clerks",1,13,0.0014119691539046378
+Montenegro,595,15010,341,9207,0750,"Business operations specialists, all other",1,12,0.0013033561420658195
+Montenegro,595,15010,341,9207,2330,Special education teachers,1,12,0.0013033561420658195
+Montenegro,595,15010,341,9207,2545,Teaching assistants,2,12,0.0013033561420658195
+Montenegro,595,15010,341,9207,3090,Physicians,1,12,0.0013033561420658195
+Montenegro,595,15010,341,9207,4130,Dining room and cafeteria attendants and bartender helpers,1,12,0.0013033561420658195
+Montenegro,595,15010,341,9207,4820,"Securities, commodities, and financial services sales agents",1,12,0.0013033561420658195
+Montenegro,595,15010,341,9207,5521,Public safety telecommunicators,1,12,0.0013033561420658195
+Montenegro,595,15010,341,9207,9122,"Bus drivers, transit and intercity",1,12,0.0013033561420658195
+Montenegro,595,15010,341,9207,0340,Lodging managers,1,11,0.0011947431302270011
+Montenegro,595,15010,341,9207,1360,Civil engineers,1,11,0.0011947431302270011
+Montenegro,595,15010,341,9207,3310,Dental hygienists,1,11,0.0011947431302270011
+Montenegro,595,15010,341,9207,6305,Construction equipment operators,1,11,0.0011947431302270011
+Montenegro,595,15010,341,9207,9760,Other material moving workers,1,11,0.0011947431302270011
+Montenegro,595,15010,341,9207,2600,Artists and related workers,1,10,0.001086130118388183
+Montenegro,595,15010,341,9207,6005,"First-line supervisors of farming, fishing, and forestry workers",1,10,0.001086130118388183
+Montenegro,595,15010,341,9207,9645,Stockers and order fillers,1,9,9.775171065493646e-4
+Montenegro,595,15010,341,9207,1106,Computer network architects,1,8,8.689040947105464e-4
+Montenegro,595,15010,341,9207,0350,Medical and health services managers,1,7,7.60291082871728e-4
+Montenegro,595,15010,341,9207,1400,Computer hardware engineers,1,7,7.60291082871728e-4
+Montenegro,595,15010,341,9207,2640,Other designers,1,6,6.516780710329097e-4
+Montenegro,595,15010,341,9207,1240,Other mathematical science occupations,1,5,5.430650591940915e-4

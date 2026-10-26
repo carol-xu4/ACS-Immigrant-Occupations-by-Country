@@ -1,0 +1,433 @@
+country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
+Trinidad and Tobago,9292,231962,4586,128574,3255,Registered nurses,152,4244,0.0330082287243144
+Trinidad and Tobago,9292,231962,4586,128574,0440,Other managers,130,3192,0.0248261701432638
+Trinidad and Tobago,9292,231962,4586,128574,4220,Janitors and building cleaners,85,2720,0.021155132452906497
+Trinidad and Tobago,9292,231962,4586,128574,2310,Elementary and middle school teachers,84,2615,0.020338482119246503
+Trinidad and Tobago,9292,231962,4586,128574,3603,Nursing assistants,95,2591,0.020151819185838506
+Trinidad and Tobago,9292,231962,4586,128574,9130,Driver/sales workers and truck drivers,89,2462,0.019148505918770514
+Trinidad and Tobago,9292,231962,4586,128574,4600,Childcare workers,87,2392,0.018604072362997184
+Trinidad and Tobago,9292,231962,4586,128574,5240,Customer service representatives,83,2368,0.018417409429589186
+Trinidad and Tobago,9292,231962,4586,128574,4700,First-line supervisors of retail sales workers,73,2305,0.01792741922939319
+Trinidad and Tobago,9292,231962,4586,128574,4760,Retail salespersons,68,1997,0.015531911583990542
+Trinidad and Tobago,9292,231962,4586,128574,3601,Home health aides,73,1979,0.015391914383934543
+Trinidad and Tobago,9292,231962,4586,128574,3602,Personal care aides,60,1942,0.015104142361597213
+Trinidad and Tobago,9292,231962,4586,128574,0800,Accountants and auditors,66,1837,0.014287492027937219
+Trinidad and Tobago,9292,231962,4586,128574,5740,"Secretaries and administrative assistants, except legal, medical, and executive",70,1616,0.012568637516138566
+Trinidad and Tobago,9292,231962,4586,128574,1108,"Computer occupations, all other",28,1540,0.011977538227013237
+Trinidad and Tobago,9292,231962,4586,128574,0120,Financial managers,55,1505,0.011705321449126572
+Trinidad and Tobago,9292,231962,4586,128574,5860,"Office clerks, general",56,1478,0.011495325649042574
+Trinidad and Tobago,9292,231962,4586,128574,9645,Stockers and order fillers,37,1414,0.010997557826621245
+Trinidad and Tobago,9292,231962,4586,128574,3500,Licensed practical and licensed vocational nurses,39,1330,0.010344237559693251
+Trinidad and Tobago,9292,231962,4586,128574,3930,Security guards and gaming surveillance officers,43,1303,0.010134241759609253
+Trinidad and Tobago,9292,231962,4586,128574,2545,Teaching assistants,50,1239,0.009636473937187922
+Trinidad and Tobago,9292,231962,4586,128574,5400,Receptionists and information clerks,41,1214,0.00944203338155459
+Trinidad and Tobago,9292,231962,4586,128574,0350,Medical and health services managers,42,1189,0.009247592825921259
+Trinidad and Tobago,9292,231962,4586,128574,9620,"Laborers and freight, stock, and material movers, hand",44,1126,0.008757602625725263
+Trinidad and Tobago,9292,231962,4586,128574,5000,First-line supervisors of office and administrative support workers,43,1113,0.00865649353679593
+Trinidad and Tobago,9292,231962,4586,128574,0010,Chief executives and legislators,33,1104,0.00858649493676793
+Trinidad and Tobago,9292,231962,4586,128574,5810,Data entry keyers,20,1047,0.008143170469923935
+Trinidad and Tobago,9292,231962,4586,128574,2205,Postsecondary teachers,31,1022,0.007948729914290603
+Trinidad and Tobago,9292,231962,4586,128574,6355,Electricians,28,1012,0.007870953692037271
+Trinidad and Tobago,9292,231962,4586,128574,9122,"Bus drivers, transit and intercity",31,993,0.007723178869755938
+Trinidad and Tobago,9292,231962,4586,128574,4720,Cashiers,41,952,0.007404296358517274
+Trinidad and Tobago,9292,231962,4586,128574,7200,Automotive service technicians and mechanics,31,921,0.0071631900695319425
+Trinidad and Tobago,9292,231962,4586,128574,4510,"Hairdressers, hairstylists, and cosmetologists",25,886,0.006890973291645278
+Trinidad and Tobago,9292,231962,4586,128574,3090,Physicians,43,876,0.006813197069391945
+Trinidad and Tobago,9292,231962,4586,128574,0410,"Property, real estate, and community association managers",27,871,0.006774308958265279
+Trinidad and Tobago,9292,231962,4586,128574,2014,"Social workers, all other",31,871,0.006774308958265279
+Trinidad and Tobago,9292,231962,4586,128574,4020,Cooks,32,865,0.006727643224913279
+Trinidad and Tobago,9292,231962,4586,128574,4230,Maids and housekeeping cleaners,42,865,0.006727643224913279
+Trinidad and Tobago,9292,231962,4586,128574,6230,Carpenters,26,831,0.006463204069251948
+Trinidad and Tobago,9292,231962,4586,128574,4920,Real estate brokers and sales agents,28,816,0.006346539735871949
+Trinidad and Tobago,9292,231962,4586,128574,6442,"Plumbers, pipefitters, and steamfitters",27,810,0.00629987400251995
+Trinidad and Tobago,9292,231962,4586,128574,0630,Human resources workers,28,803,0.006245430646942616
+Trinidad and Tobago,9292,231962,4586,128574,3870,Police officers,28,803,0.006245430646942616
+Trinidad and Tobago,9292,231962,4586,128574,6260,Construction laborers,29,779,0.006058767713534618
+Trinidad and Tobago,9292,231962,4586,128574,0710,Management analysts,27,765,0.005949881002379953
+Trinidad and Tobago,9292,231962,4586,128574,0705,Project management specialists,34,758,0.005895437646802619
+Trinidad and Tobago,9292,231962,4586,128574,4710,First-line supervisors of non-retail sales workers,27,756,0.005879882402351953
+Trinidad and Tobago,9292,231962,4586,128574,5940,Other office and administrative support workers,31,739,0.005747662824521287
+Trinidad and Tobago,9292,231962,4586,128574,0020,General and operations managers,29,732,0.005693219468943954
+Trinidad and Tobago,9292,231962,4586,128574,5120,"Bookkeeping, accounting, and auditing clerks",37,723,0.005623220868915955
+Trinidad and Tobago,9292,231962,4586,128574,9142,Taxi drivers,25,700,0.00544433555773329
+Trinidad and Tobago,9292,231962,4586,128574,1021,Software developers,25,694,0.0053976698243812906
+Trinidad and Tobago,9292,231962,4586,128574,7340,"Maintenance and repair workers, general",26,684,0.005319893602127958
+Trinidad and Tobago,9292,231962,4586,128574,2300,Preschool and kindergarten teachers,25,681,0.005296560735451958
+Trinidad and Tobago,9292,231962,4586,128574,2320,Secondary school teachers,29,628,0.004884346757509294
+Trinidad and Tobago,9292,231962,4586,128574,4000,Chefs and head cooks,18,608,0.004728794313002629
+Trinidad and Tobago,9292,231962,4586,128574,5110,Billing and posting clerks,27,582,0.004526576135143964
+Trinidad and Tobago,9292,231962,4586,128574,0230,Education and childcare administrators,27,562,0.004371023690637298
+Trinidad and Tobago,9292,231962,4586,128574,0530,"Purchasing agents, except wholesale, retail, and farm products",18,562,0.004371023690637298
+Trinidad and Tobago,9292,231962,4586,128574,2360,Other teachers and instructors,20,559,0.004347690823961299
+Trinidad and Tobago,9292,231962,4586,128574,8990,"Miscellaneous production workers, including equipment operators and tenders",20,542,0.0042154712461306325
+Trinidad and Tobago,9292,231962,4586,128574,5550,Postal service mail carriers,21,530,0.004122139779426634
+Trinidad and Tobago,9292,231962,4586,128574,4850,"Sales representatives, wholesale and manufacturing",18,528,0.004106584534975967
+Trinidad and Tobago,9292,231962,4586,128574,0220,Construction managers,17,526,0.0040910292905253
+Trinidad and Tobago,9292,231962,4586,128574,1006,Computer systems analysts,21,525,0.004083251668299967
+Trinidad and Tobago,9292,231962,4586,128574,0565,Compliance officers,19,517,0.004021030690497301
+Trinidad and Tobago,9292,231962,4586,128574,2100,"Lawyers, and judges, magistrates, and other judicial workers",26,508,0.0039510320904693015
+Trinidad and Tobago,9292,231962,4586,128574,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",17,505,0.003927699223793302
+Trinidad and Tobago,9292,231962,4586,128574,4030,Food preparation workers,15,495,0.003849923001539969
+Trinidad and Tobago,9292,231962,4586,128574,5610,"Shipping, receiving, and inventory clerks",13,494,0.003842145379314636
+Trinidad and Tobago,9292,231962,4586,128574,4110,Waiters and waitresses,17,493,0.0038343677570893027
+Trinidad and Tobago,9292,231962,4586,128574,0750,"Business operations specialists, all other",21,491,0.003818812512638636
+Trinidad and Tobago,9292,231962,4586,128574,2002,"Educational, guidance, and career counselors and advisors",17,479,0.003725481045934637
+Trinidad and Tobago,9292,231962,4586,128574,0420,Social and community service managers,26,460,0.0035777062236533046
+Trinidad and Tobago,9292,231962,4586,128574,3645,Medical assistants,14,460,0.0035777062236533046
+Trinidad and Tobago,9292,231962,4586,128574,9005,Supervisors of transportation and material moving workers,15,457,0.003554373356977305
+Trinidad and Tobago,9292,231962,4586,128574,1530,Other engineers,19,449,0.003492152379174639
+Trinidad and Tobago,9292,231962,4586,128574,5510,Couriers and messengers,17,446,0.0034688195124986387
+Trinidad and Tobago,9292,231962,4586,128574,9600,Industrial truck and tractor operators,10,446,0.0034688195124986387
+Trinidad and Tobago,9292,231962,4586,128574,4251,Landscaping and groundskeeping workers,12,442,0.0034377090235973057
+Trinidad and Tobago,9292,231962,4586,128574,3655,Other healthcare support workers,17,441,0.0034299314013719728
+Trinidad and Tobago,9292,231962,4586,128574,7210,Bus and truck mechanics and diesel engine specialists,16,441,0.0034299314013719728
+Trinidad and Tobago,9292,231962,4586,128574,5140,Payroll and timekeeping clerks,9,433,0.0033677104235693063
+Trinidad and Tobago,9292,231962,4586,128574,1555,"Other engineering technologists and technicians, except drafters",14,432,0.0033599328013439733
+Trinidad and Tobago,9292,231962,4586,128574,6200,First-line supervisors of construction trades and extraction workers,11,430,0.0033443775568933066
+Trinidad and Tobago,9292,231962,4586,128574,2145,Paralegals and legal assistants,19,424,0.003297711823541307
+Trinidad and Tobago,9292,231962,4586,128574,1360,Civil engineers,13,419,0.0032588237124146404
+Trinidad and Tobago,9292,231962,4586,128574,3300,Clinical laboratory technologists and technicians,13,418,0.0032510460901893075
+Trinidad and Tobago,9292,231962,4586,128574,0051,Marketing managers,15,414,0.0032199356012879744
+Trinidad and Tobago,9292,231962,4586,128574,1050,Computer support specialists,25,405,0.003149937001259975
+Trinidad and Tobago,9292,231962,4586,128574,9050,Flight attendants,13,404,0.0031421593790346416
+Trinidad and Tobago,9292,231962,4586,128574,0110,Computer and information systems managers,21,392,0.003048827912330642
+Trinidad and Tobago,9292,231962,4586,128574,0052,Sales managers,13,387,0.003009939801203976
+Trinidad and Tobago,9292,231962,4586,128574,7315,"Heating, air conditioning, and refrigeration mechanics and installers",10,384,0.002986606934527976
+Trinidad and Tobago,9292,231962,4586,128574,1825,Other psychologists,7,383,0.0029788293123026426
+Trinidad and Tobago,9292,231962,4586,128574,0340,Lodging managers,9,369,0.002869942601147977
+Trinidad and Tobago,9292,231962,4586,128574,4810,Insurance sales agents,13,366,0.002846609734471977
+Trinidad and Tobago,9292,231962,4586,128574,2722,Coaches and scouts,10,365,0.002838832112246644
+Trinidad and Tobago,9292,231962,4586,128574,9610,Cleaners of vehicles and equipment,9,365,0.002838832112246644
+Trinidad and Tobago,9292,231962,4586,128574,8740,"Inspectors, testers, sorters, samplers, and weighers",13,362,0.002815499245570644
+Trinidad and Tobago,9292,231962,4586,128574,0160,"Transportation, storage, and distribution managers",12,359,0.0027921663788946444
+Trinidad and Tobago,9292,231962,4586,128574,1105,Network and computer systems administrators,11,346,0.002691057289965312
+Trinidad and Tobago,9292,231962,4586,128574,3802,Correctional officers and jailers,12,344,0.002675502045514645
+Trinidad and Tobago,9292,231962,4586,128574,0540,"Claims adjusters, appraisers, examiners, and investigators",12,339,0.0026366139343879788
+Trinidad and Tobago,9292,231962,4586,128574,3515,Medical records specialists,12,336,0.002613281067711979
+Trinidad and Tobago,9292,231962,4586,128574,3030,Dietitians and nutritionists,7,335,0.0026055034454866457
+Trinidad and Tobago,9292,231962,4586,128574,6410,Painters and paperhangers,11,330,0.0025666153343599793
+Trinidad and Tobago,9292,231962,4586,128574,3050,Pharmacists,12,325,0.002527727223233313
+Trinidad and Tobago,9292,231962,4586,128574,7750,Other assemblers and fabricators,10,320,0.002488839112106647
+Trinidad and Tobago,9292,231962,4586,128574,0910,Credit counselors and loan officers,11,312,0.0024266181343039804
+Trinidad and Tobago,9292,231962,4586,128574,3421,Pharmacy technicians,13,309,0.0024032852676279808
+Trinidad and Tobago,9292,231962,4586,128574,9640,"Packers and packagers, hand",11,307,0.002387730023177314
+Trinidad and Tobago,9292,231962,4586,128574,7640,"Other installation, maintenance, and repair workers",7,301,0.0023410642898253147
+Trinidad and Tobago,9292,231962,4586,128574,6515,Roofers,3,289,0.002247732823121315
+Trinidad and Tobago,9292,231962,4586,128574,5710,Executive secretaries and executive administrative assistants,8,287,0.002232177578670649
+Trinidad and Tobago,9292,231962,4586,128574,5850,"Mail clerks and mail machine operators, except postal service",2,286,0.0022243999564453155
+Trinidad and Tobago,9292,231962,4586,128574,2016,Social and human service assistants,8,276,0.0021466237341919827
+Trinidad and Tobago,9292,231962,4586,128574,8140,"Welding, soldering, and brazing workers",12,275,0.0021388461119666497
+Trinidad and Tobago,9292,231962,4586,128574,0136,Human resources managers,13,274,0.0021310684897413164
+Trinidad and Tobago,9292,231962,4586,128574,0310,Food service managers,13,274,0.0021310684897413164
+Trinidad and Tobago,9292,231962,4586,128574,4820,"Securities, commodities, and financial services sales agents",5,272,0.0021155132452906496
+Trinidad and Tobago,9292,231962,4586,128574,9240,Railroad conductors and yardmasters,8,267,0.0020766251341639832
+Trinidad and Tobago,9292,231962,4586,128574,1760,"Physical scientists, all other",11,265,0.002061069889713317
+Trinidad and Tobago,9292,231962,4586,128574,5840,Insurance claims and policy processing clerks,5,265,0.002061069889713317
+Trinidad and Tobago,9292,231962,4586,128574,7220,Heavy vehicle and mobile equipment service technicians and mechanics,9,265,0.002061069889713317
+Trinidad and Tobago,9292,231962,4586,128574,0930,"Tax examiners and collectors, and revenue agents",7,260,0.0020221817785866505
+Trinidad and Tobago,9292,231962,4586,128574,7140,Aircraft mechanics and service technicians,10,259,0.002014404156361317
+Trinidad and Tobago,9292,231962,4586,128574,0845,Financial and investment analysts,11,256,0.0019910712896853175
+Trinidad and Tobago,9292,231962,4586,128574,5360,"Human resources assistants, except payroll and timekeeping",7,256,0.0019910712896853175
+Trinidad and Tobago,9292,231962,4586,128574,1460,Mechanical engineers,8,249,0.0019366279341079845
+Trinidad and Tobago,9292,231962,4586,128574,5540,Postal service clerks,6,246,0.0019132950674319847
+Trinidad and Tobago,9292,231962,4586,128574,3323,Radiologic technologists and technicians,8,242,0.0018821845785306516
+Trinidad and Tobago,9292,231962,4586,128574,2850,Writers and authors,6,241,0.0018744069563053183
+Trinidad and Tobago,9292,231962,4586,128574,3605,Orderlies and psychiatric aides,7,240,0.001866629334079985
+Trinidad and Tobago,9292,231962,4586,128574,3630,Massage therapists,9,240,0.001866629334079985
+Trinidad and Tobago,9292,231962,4586,128574,3160,Physical therapists,9,238,0.0018510740896293186
+Trinidad and Tobago,9292,231962,4586,128574,3423,Surgical technologists,12,235,0.0018277412229533187
+Trinidad and Tobago,9292,231962,4586,128574,5720,Legal secretaries and administrative assistants,1,223,0.0017344097562493194
+Trinidad and Tobago,9292,231962,4586,128574,7020,Radio and telecommunications equipment installers and repairers,8,223,0.0017344097562493194
+Trinidad and Tobago,9292,231962,4586,128574,2012,Healthcare social workers,6,222,0.0017266321340239862
+Trinidad and Tobago,9292,231962,4586,128574,2040,Clergy,11,216,0.0016799664006719867
+Trinidad and Tobago,9292,231962,4586,128574,0700,Logisticians,7,214,0.00166441115622132
+Trinidad and Tobago,9292,231962,4586,128574,7700,First-line supervisors of production and operating workers,8,214,0.00166441115622132
+Trinidad and Tobago,9292,231962,4586,128574,4530,"Baggage porters, bellhops, and concierges",6,213,0.0016566335339959868
+Trinidad and Tobago,9292,231962,4586,128574,1106,Computer network architects,9,209,0.0016255230450946537
+Trinidad and Tobago,9292,231962,4586,128574,2905,Other media and communication equipment workers,6,209,0.0016255230450946537
+Trinidad and Tobago,9292,231962,4586,128574,1240,Other mathematical science occupations,10,208,0.0016177454228693204
+Trinidad and Tobago,9292,231962,4586,128574,3725,"Miscellaneous first-line supervisors, protective service workers",4,206,0.0016021901784186538
+Trinidad and Tobago,9292,231962,4586,128574,1410,Electrical and electronics engineers,7,205,0.0015944125561933205
+Trinidad and Tobago,9292,231962,4586,128574,3258,"Nurse practitioners, and nurse midwives",6,204,0.0015866349339679873
+Trinidad and Tobago,9292,231962,4586,128574,7130,Security and fire alarm systems installers,6,204,0.0015866349339679873
+Trinidad and Tobago,9292,231962,4586,128574,2004,Mental health counselors,8,202,0.0015710796895173208
+Trinidad and Tobago,9292,231962,4586,128574,5260,File clerks,6,202,0.0015710796895173208
+Trinidad and Tobago,9292,231962,4586,128574,3640,Dental assistants,6,200,0.0015555244450666543
+Trinidad and Tobago,9292,231962,4586,128574,2350,Tutors,5,199,0.001547746822841321
+Trinidad and Tobago,9292,231962,4586,128574,9121,"Bus drivers, school",8,199,0.001547746822841321
+Trinidad and Tobago,9292,231962,4586,128574,4500,Barbers,6,198,0.0015399692006159878
+Trinidad and Tobago,9292,231962,4586,128574,2330,Special education teachers,10,197,0.0015321915783906544
+Trinidad and Tobago,9292,231962,4586,128574,4200,First-line supervisors of housekeeping and janitorial workers,10,194,0.0015088587117146545
+Trinidad and Tobago,9292,231962,4586,128574,5160,Tellers,8,194,0.0015088587117146545
+Trinidad and Tobago,9292,231962,4586,128574,2600,Artists and related workers,5,193,0.0015010810894893214
+Trinidad and Tobago,9292,231962,4586,128574,1007,Information security analysts,8,192,0.001493303467263988
+Trinidad and Tobago,9292,231962,4586,128574,3000,Chiropractors,4,192,0.001493303467263988
+Trinidad and Tobago,9292,231962,4586,128574,3710,First-line supervisors of police and detectives,7,189,0.0014699706005879883
+Trinidad and Tobago,9292,231962,4586,128574,1220,Operations research analysts,3,187,0.0014544153561373216
+Trinidad and Tobago,9292,231962,4586,128574,2634,Graphic designers,10,187,0.0014544153561373216
+Trinidad and Tobago,9292,231962,4586,128574,3649,Phlebotomists,4,184,0.001431082489461322
+Trinidad and Tobago,9292,231962,4586,128574,5600,"Production, planning, and expediting clerks",8,182,0.0014155272450106554
+Trinidad and Tobago,9292,231962,4586,128574,7420,Telecommunications line installers and repairers,7,182,0.0014155272450106554
+Trinidad and Tobago,9292,231962,4586,128574,8810,Painting workers,3,178,0.0013844167561093224
+Trinidad and Tobago,9292,231962,4586,128574,4340,Animal trainers,1,176,0.0013688615116586556
+Trinidad and Tobago,9292,231962,4586,128574,7150,Automotive body and related repairers,5,176,0.0013688615116586556
+Trinidad and Tobago,9292,231962,4586,128574,9150,"Motor vehicle operators, all other",3,174,0.0013533062672079891
+Trinidad and Tobago,9292,231962,4586,128574,4622,Recreation workers,4,173,0.001345528644982656
+Trinidad and Tobago,9292,231962,4586,128574,4240,Pest control workers,5,172,0.0013377510227573226
+Trinidad and Tobago,9292,231962,4586,128574,4621,Exercise trainers and group fitness instructors,10,171,0.0013299734005319894
+Trinidad and Tobago,9292,231962,4586,128574,7330,Industrial and refractory machinery mechanics,8,170,0.001322195778306656
+Trinidad and Tobago,9292,231962,4586,128574,4130,Dining room and cafeteria attendants and bartender helpers,6,168,0.0013066405338559896
+Trinidad and Tobago,9292,231962,4586,128574,8225,Other metal workers and plastic workers,8,167,0.0012988629116306562
+Trinidad and Tobago,9292,231962,4586,128574,0860,Insurance underwriters,5,166,0.001291085289405323
+Trinidad and Tobago,9292,231962,4586,128574,3740,Firefighters,8,165,0.0012833076671799897
+Trinidad and Tobago,9292,231962,4586,128574,9030,Aircraft pilots and flight engineers,3,165,0.0012833076671799897
+Trinidad and Tobago,9292,231962,4586,128574,4010,First-line supervisors of food preparation and serving workers,10,164,0.0012755300449546565
+Trinidad and Tobago,9292,231962,4586,128574,3545,Miscellaneous health technologists and technicians,5,162,0.00125997480050399
+Trinidad and Tobago,9292,231962,4586,128574,2555,Other educational instruction and library workers,7,157,0.0012210866893773236
+Trinidad and Tobago,9292,231962,4586,128574,4521,Manicurists and pedicurists,5,157,0.0012210866893773236
+Trinidad and Tobago,9292,231962,4586,128574,5560,"Postal service mail sorters, processors, and processing machine operators",3,155,0.001205531444926657
+Trinidad and Tobago,9292,231962,4586,128574,3110,Physician assistants,7,153,0.0011899762004759906
+Trinidad and Tobago,9292,231962,4586,128574,0150,Purchasing managers,4,151,0.001174420956025324
+Trinidad and Tobago,9292,231962,4586,128574,9210,Locomotive engineers and operators,5,151,0.001174420956025324
+Trinidad and Tobago,9292,231962,4586,128574,5410,Reservation and transportation ticket agents and travel clerks,7,150,0.0011666433337999907
+Trinidad and Tobago,9292,231962,4586,128574,9410,Transportation inspectors,4,147,0.0011433104671239908
+Trinidad and Tobago,9292,231962,4586,128574,7010,"Computer, automated teller, and office machine repairers",5,146,0.0011355328448986576
+Trinidad and Tobago,9292,231962,4586,128574,4120,"Food servers, nonrestaurant",7,145,0.0011277552226733243
+Trinidad and Tobago,9292,231962,4586,128574,0640,"Compensation, benefits, and job analysis specialists",2,142,0.0011044223559973246
+Trinidad and Tobago,9292,231962,4586,128574,2700,Actors,4,142,0.0011044223559973246
+Trinidad and Tobago,9292,231962,4586,128574,3401,Emergency medical technicians,6,142,0.0011044223559973246
+Trinidad and Tobago,9292,231962,4586,128574,6600,"Helpers, construction trades",3,141,0.0010966447337719912
+Trinidad and Tobago,9292,231962,4586,128574,2006,"Counselors, all other",5,139,0.0010810894893213247
+Trinidad and Tobago,9292,231962,4586,128574,4055,Fast food and counter workers,8,139,0.0010810894893213247
+Trinidad and Tobago,9292,231962,4586,128574,4655,"Personal care and service workers, all other",3,138,0.0010733118670959913
+Trinidad and Tobago,9292,231962,4586,128574,8255,Printing press operators,6,138,0.0010733118670959913
+Trinidad and Tobago,9292,231962,4586,128574,2825,Public relations specialists,4,136,0.0010577566226453248
+Trinidad and Tobago,9292,231962,4586,128574,3910,Private detectives and investigators,4,136,0.0010577566226453248
+Trinidad and Tobago,9292,231962,4586,128574,3610,Occupational therapy assistants and aides,1,130,0.0010110908892933253
+Trinidad and Tobago,9292,231962,4586,128574,5522,"Dispatchers, except police, fire, and ambulance",5,130,0.0010110908892933253
+Trinidad and Tobago,9292,231962,4586,128574,9365,Transportation service attendants,1,130,0.0010110908892933253
+Trinidad and Tobago,9292,231962,4586,128574,2640,Other designers,8,127,9.877580226173254e-4
+Trinidad and Tobago,9292,231962,4586,128574,0820,Budget analysts,7,126,9.799804003919922e-4
+Trinidad and Tobago,9292,231962,4586,128574,5530,"Meter readers, utilities",1,126,9.799804003919922e-4
+Trinidad and Tobago,9292,231962,4586,128574,3245,Other therapists,5,124,9.644251559413256e-4
+Trinidad and Tobago,9292,231962,4586,128574,7350,"Maintenance workers, machinery",2,124,9.644251559413256e-4
+Trinidad and Tobago,9292,231962,4586,128574,6530,Structural iron and steel workers,3,122,9.488699114906591e-4
+Trinidad and Tobago,9292,231962,4586,128574,0850,Personal financial advisors,7,121,9.410922892653258e-4
+Trinidad and Tobago,9292,231962,4586,128574,1822,School psychologists,5,121,9.410922892653258e-4
+Trinidad and Tobago,9292,231962,4586,128574,1970,"Other life, physical, and social science technicians",5,120,9.333146670399926e-4
+Trinidad and Tobago,9292,231962,4586,128574,9300,"Sailors and marine oilers, and ship engineers",3,120,9.333146670399926e-4
+Trinidad and Tobago,9292,231962,4586,128574,2752,Musicians and singers,5,117,9.099818003639928e-4
+Trinidad and Tobago,9292,231962,4586,128574,9141,Shuttle drivers and chauffeurs,6,117,9.099818003639928e-4
+Trinidad and Tobago,9292,231962,4586,128574,5100,Bill and account collectors,2,116,9.022041781386594e-4
+Trinidad and Tobago,9292,231962,4586,128574,0300,Architectural and engineering managers,7,114,8.866489336879929e-4
+Trinidad and Tobago,9292,231962,4586,128574,1440,Marine engineers and naval architects,1,111,8.633160670119931e-4
+Trinidad and Tobago,9292,231962,4586,128574,2910,Photographers,4,111,8.633160670119931e-4
+Trinidad and Tobago,9292,231962,4586,128574,3321,Cardiovascular technologists and technicians,4,110,8.555384447866598e-4
+Trinidad and Tobago,9292,231962,4586,128574,5420,Other information and records clerks,8,110,8.555384447866598e-4
+Trinidad and Tobago,9292,231962,4586,128574,6660,Construction and building inspectors,6,110,8.555384447866598e-4
+Trinidad and Tobago,9292,231962,4586,128574,1610,Biological scientists,3,109,8.477608225613266e-4
+Trinidad and Tobago,9292,231962,4586,128574,9760,Other material moving workers,2,109,8.477608225613266e-4
+Trinidad and Tobago,9292,231962,4586,128574,0060,Public relations and fundraising managers,2,108,8.399832003359933e-4
+Trinidad and Tobago,9292,231962,4586,128574,1350,Chemical engineers,2,108,8.399832003359933e-4
+Trinidad and Tobago,9292,231962,4586,128574,4640,Residential advisors,8,108,8.399832003359933e-4
+Trinidad and Tobago,9292,231962,4586,128574,0940,Tax preparers,4,106,8.244279558853267e-4
+Trinidad and Tobago,9292,231962,4586,128574,1430,"Industrial engineers, including health and safety",4,105,8.166503336599934e-4
+Trinidad and Tobago,9292,231962,4586,128574,1551,Electrical and electronic engineering technologists and technicians,4,104,8.088727114346602e-4
+Trinidad and Tobago,9292,231962,4586,128574,4940,Telemarketers,2,103,8.010950892093269e-4
+Trinidad and Tobago,9292,231962,4586,128574,1022,Software quality assurance analysts and testers,4,102,7.933174669839937e-4
+Trinidad and Tobago,9292,231962,4586,128574,3402,Paramedics,6,102,7.933174669839937e-4
+Trinidad and Tobago,9292,231962,4586,128574,9830,"Military, rank not specified",4,102,7.933174669839937e-4
+Trinidad and Tobago,9292,231962,4586,128574,0735,Market research analysts and marketing specialists,6,100,7.777622225333271e-4
+Trinidad and Tobago,9292,231962,4586,128574,1700,Astronomers and physicists,2,97,7.544293558573273e-4
+Trinidad and Tobago,9292,231962,4586,128574,1200,Actuaries,3,96,7.46651733631994e-4
+Trinidad and Tobago,9292,231962,4586,128574,6460,Plasterers and stucco masons,1,95,7.388741114066607e-4
+Trinidad and Tobago,9292,231962,4586,128574,0520,"Wholesale and retail buyers, except farm products",5,94,7.310964891813275e-4
+Trinidad and Tobago,9292,231962,4586,128574,5310,"Interviewers, except eligibility and loan",6,93,7.233188669559942e-4
+Trinidad and Tobago,9292,231962,4586,128574,5730,Medical secretaries and administrative assistants,4,93,7.233188669559942e-4
+Trinidad and Tobago,9292,231962,4586,128574,7320,Home appliance repairers,2,93,7.233188669559942e-4
+Trinidad and Tobago,9292,231962,4586,128574,6765,Other construction and related workers,5,92,7.15541244730661e-4
+Trinidad and Tobago,9292,231962,4586,128574,2011,"Child, family, and school social workers",2,91,7.077636225053277e-4
+Trinidad and Tobago,9292,231962,4586,128574,4965,"Sales and related workers, all other",4,90,6.999860002799944e-4
+Trinidad and Tobago,9292,231962,4586,128574,1010,Computer programmers,6,88,6.844307558293278e-4
+Trinidad and Tobago,9292,231962,4586,128574,2025,Other community and social service specialists,6,86,6.688755113786613e-4
+Trinidad and Tobago,9292,231962,4586,128574,9415,Passenger attendants,3,86,6.688755113786613e-4
+Trinidad and Tobago,9292,231962,4586,128574,3422,Psychiatric technicians,4,85,6.61097889153328e-4
+Trinidad and Tobago,9292,231962,4586,128574,0140,Industrial production managers,4,84,6.533202669279948e-4
+Trinidad and Tobago,9292,231962,4586,128574,2001,Substance abuse and behavioral disorder counselors,3,84,6.533202669279948e-4
+Trinidad and Tobago,9292,231962,4586,128574,3550,Other healthcare practitioners and technical occupations,4,84,6.533202669279948e-4
+Trinidad and Tobago,9292,231962,4586,128574,0650,Training and development specialists,8,83,6.455426447026615e-4
+Trinidad and Tobago,9292,231962,4586,128574,1910,Biological technicians,2,81,6.29987400251995e-4
+Trinidad and Tobago,9292,231962,4586,128574,3220,Respiratory therapists,5,81,6.29987400251995e-4
+Trinidad and Tobago,9292,231962,4586,128574,3940,Crossing guards and flaggers,2,81,6.29987400251995e-4
+Trinidad and Tobago,9292,231962,4586,128574,0101,Administrative services managers,3,80,6.222097780266617e-4
+Trinidad and Tobago,9292,231962,4586,128574,5500,Cargo and freight agents,2,80,6.222097780266617e-4
+Trinidad and Tobago,9292,231962,4586,128574,3100,Surgeons,3,78,6.066545335759951e-4
+Trinidad and Tobago,9292,231962,4586,128574,3230,Speech-language pathologists,3,77,5.988769113506619e-4
+Trinidad and Tobago,9292,231962,4586,128574,3256,Nurse anesthetists,2,77,5.988769113506619e-4
+Trinidad and Tobago,9292,231962,4586,128574,3430,Dietetic technicians and ophthalmic medical technicians,4,76,5.910992891253286e-4
+Trinidad and Tobago,9292,231962,4586,128574,3646,Medical transcriptionists,1,74,5.755440446746621e-4
+Trinidad and Tobago,9292,231962,4586,128574,6441,Pipelayers,1,74,5.755440446746621e-4
+Trinidad and Tobago,9292,231962,4586,128574,6050,Other agricultural workers,4,73,5.677664224493288e-4
+Trinidad and Tobago,9292,231962,4586,128574,7030,Avionics technicians,2,73,5.677664224493288e-4
+Trinidad and Tobago,9292,231962,4586,128574,5350,Correspondence clerks and order clerks,1,71,5.522111779986623e-4
+Trinidad and Tobago,9292,231962,4586,128574,9720,Refuse and recyclable material collectors,3,71,5.522111779986623e-4
+Trinidad and Tobago,9292,231962,4586,128574,4140,Dishwashers,3,69,5.366559335479957e-4
+Trinidad and Tobago,9292,231962,4586,128574,3820,Detectives and criminal investigators,4,68,5.288783113226624e-4
+Trinidad and Tobago,9292,231962,4586,128574,5820,Word processors and typists,1,67,5.211006890973291e-4
+Trinidad and Tobago,9292,231962,4586,128574,8610,Stationary engineers and boiler operators,5,67,5.211006890973291e-4
+Trinidad and Tobago,9292,231962,4586,128574,3150,Occupational therapists,5,66,5.133230668719959e-4
+Trinidad and Tobago,9292,231962,4586,128574,5521,Public safety telecommunicators,3,66,5.133230668719959e-4
+Trinidad and Tobago,9292,231962,4586,128574,6305,Construction equipment operators,4,66,5.133230668719959e-4
+Trinidad and Tobago,9292,231962,4586,128574,4350,Animal caretakers,2,65,5.055454446466626e-4
+Trinidad and Tobago,9292,231962,4586,128574,7000,"First-line supervisors of mechanics, installers, and repairers",5,65,5.055454446466626e-4
+Trinidad and Tobago,9292,231962,4586,128574,3010,Dentists,3,64,4.977678224213294e-4
+Trinidad and Tobago,9292,231962,4586,128574,2865,"Media and communication workers, all other",1,63,4.899902001959961e-4
+Trinidad and Tobago,9292,231962,4586,128574,4800,Advertising sales agents,3,63,4.899902001959961e-4
+Trinidad and Tobago,9292,231962,4586,128574,1320,Aerospace engineers,3,62,4.822125779706628e-4
+Trinidad and Tobago,9292,231962,4586,128574,4740,Counter and rental clerks,4,62,4.822125779706628e-4
+Trinidad and Tobago,9292,231962,4586,128574,5230,"Credit authorizers, checkers, and clerks",2,62,4.822125779706628e-4
+Trinidad and Tobago,9292,231962,4586,128574,7720,"Electrical, electronics, and electromechanical assemblers",2,62,4.822125779706628e-4
+Trinidad and Tobago,9292,231962,4586,128574,2920,"Television, video, and film camera operators and editors",1,61,4.7443495574532954e-4
+Trinidad and Tobago,9292,231962,4586,128574,0137,Training and development managers,2,59,4.58879711294663e-4
+Trinidad and Tobago,9292,231962,4586,128574,2633,Floral designers,2,57,4.4332446684399644e-4
+Trinidad and Tobago,9292,231962,4586,128574,9810,First-line enlisted military supervisors,3,57,4.4332446684399644e-4
+Trinidad and Tobago,9292,231962,4586,128574,8320,Sewing machine operators,1,56,4.355468446186632e-4
+Trinidad and Tobago,9292,231962,4586,128574,0500,"Agents and business managers of artists, performers, and athletes",1,55,4.277692223933299e-4
+Trinidad and Tobago,9292,231962,4586,128574,3322,Diagnostic medical sonographers,3,55,4.277692223933299e-4
+Trinidad and Tobago,9292,231962,4586,128574,5020,Telephone operators,1,55,4.277692223933299e-4
+Trinidad and Tobago,9292,231962,4586,128574,0725,"Meeting, convention, and event planners",2,53,4.1221397794266335e-4
+Trinidad and Tobago,9292,231962,4586,128574,6210,Boilermakers,1,53,4.1221397794266335e-4
+Trinidad and Tobago,9292,231962,4586,128574,7855,"Food processing workers, all other",2,53,4.1221397794266335e-4
+Trinidad and Tobago,9292,231962,4586,128574,2015,Probation officers and correctional treatment specialists,2,52,4.044363557173301e-4
+Trinidad and Tobago,9292,231962,4586,128574,2050,"Directors, religious activities and education",1,51,3.9665873349199683e-4
+Trinidad and Tobago,9292,231962,4586,128574,5250,"Eligibility interviewers, government programs",3,51,3.9665873349199683e-4
+Trinidad and Tobago,9292,231962,4586,128574,4330,Supervisors of personal care and service workers,2,50,3.8888111126666357e-4
+Trinidad and Tobago,9292,231962,4586,128574,5150,Procurement clerks,2,50,3.8888111126666357e-4
+Trinidad and Tobago,9292,231962,4586,128574,0135,Compensation and benefits managers,2,49,3.8110348904133026e-4
+Trinidad and Tobago,9292,231962,4586,128574,5165,Other financial clerks,3,49,3.8110348904133026e-4
+Trinidad and Tobago,9292,231962,4586,128574,1305,"Architects, except landscape and naval",3,47,3.6554824459066374e-4
+Trinidad and Tobago,9292,231962,4586,128574,7510,"Coin, vending, and amusement machine servicers and repairers",1,47,3.6554824459066374e-4
+Trinidad and Tobago,9292,231962,4586,128574,2810,"News analysts, reporters, and journalists",1,46,3.577706223653305e-4
+Trinidad and Tobago,9292,231962,4586,128574,0360,Natural sciences managers,2,45,3.499930001399972e-4
+Trinidad and Tobago,9292,231962,4586,128574,1650,Other life scientists,3,45,3.499930001399972e-4
+Trinidad and Tobago,9292,231962,4586,128574,2435,Librarians and media collections specialists,4,45,3.499930001399972e-4
+Trinidad and Tobago,9292,231962,4586,128574,8650,"Crushing, grinding, polishing, mixing, and blending workers",1,45,3.499930001399972e-4
+Trinidad and Tobago,9292,231962,4586,128574,8800,Packaging and filling machine operators and tenders,2,45,3.499930001399972e-4
+Trinidad and Tobago,9292,231962,4586,128574,1541,Architectural and civil drafters,1,44,3.422153779146639e-4
+Trinidad and Tobago,9292,231962,4586,128574,6700,Elevator installers and repairers,1,44,3.422153779146639e-4
+Trinidad and Tobago,9292,231962,4586,128574,7120,Electronic home entertainment equipment installers and repairers,3,44,3.422153779146639e-4
+Trinidad and Tobago,9292,231962,4586,128574,1400,Computer hardware engineers,2,43,3.3443775568933065e-4
+Trinidad and Tobago,9292,231962,4586,128574,3946,School bus monitors,1,43,3.3443775568933065e-4
+Trinidad and Tobago,9292,231962,4586,128574,6520,Sheet metal workers,1,42,3.266601334639974e-4
+Trinidad and Tobago,9292,231962,4586,128574,0205,"Farmers, ranchers, and other agricultural managers",1,41,3.1888251123866413e-4
+Trinidad and Tobago,9292,231962,4586,128574,0425,Emergency management directors,1,41,3.1888251123866413e-4
+Trinidad and Tobago,9292,231962,4586,128574,1750,"Geoscientists and hydrologists, except geographers",2,41,3.1888251123866413e-4
+Trinidad and Tobago,9292,231962,4586,128574,4040,Bartenders,2,41,3.1888251123866413e-4
+Trinidad and Tobago,9292,231962,4586,128574,1031,Web developers,4,40,3.1110488901333087e-4
+Trinidad and Tobago,9292,231962,4586,128574,2631,Commercial and industrial designers,1,39,3.0332726678799756e-4
+Trinidad and Tobago,9292,231962,4586,128574,2861,Interpreters and translators,1,39,3.0332726678799756e-4
+Trinidad and Tobago,9292,231962,4586,128574,9350,Parking attendants,2,39,3.0332726678799756e-4
+Trinidad and Tobago,9292,231962,4586,128574,5330,Loan interviewers and clerks,2,38,2.955496445626643e-4
+Trinidad and Tobago,9292,231962,4586,128574,6540,Solar photovoltaic installers,1,37,2.8777202233733104e-4
+Trinidad and Tobago,9292,231962,4586,128574,7300,Control and valve installers and repairers,1,37,2.8777202233733104e-4
+Trinidad and Tobago,9292,231962,4586,128574,7410,Electrical power-line installers and repairers,2,37,2.8777202233733104e-4
+Trinidad and Tobago,9292,231962,4586,128574,1450,Materials engineers,2,36,2.799944001119978e-4
+Trinidad and Tobago,9292,231962,4586,128574,8450,Upholsterers,1,35,2.7221677788666446e-4
+Trinidad and Tobago,9292,231962,4586,128574,0335,Entertainment and recreation managers,1,33,2.5666153343599794e-4
+Trinidad and Tobago,9292,231962,4586,128574,3620,Physical therapist assistants and aides,2,33,2.5666153343599794e-4
+Trinidad and Tobago,9292,231962,4586,128574,3750,Fire inspectors,2,33,2.5666153343599794e-4
+Trinidad and Tobago,9292,231962,4586,128574,7430,Precision instrument and equipment repairers,2,33,2.5666153343599794e-4
+Trinidad and Tobago,9292,231962,4586,128574,8250,Prepress technicians and workers,1,33,2.5666153343599794e-4
+Trinidad and Tobago,9292,231962,4586,128574,2060,"Religious workers, all other",2,32,2.488839112106647e-4
+Trinidad and Tobago,9292,231962,4586,128574,3310,Dental hygienists,3,32,2.488839112106647e-4
+Trinidad and Tobago,9292,231962,4586,128574,3840,Fish and game wardens and parking enforcement officers,1,32,2.488839112106647e-4
+Trinidad and Tobago,9292,231962,4586,128574,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",2,32,2.488839112106647e-4
+Trinidad and Tobago,9292,231962,4586,128574,9040,Air traffic controllers and airfield operations specialists,1,32,2.488839112106647e-4
+Trinidad and Tobago,9292,231962,4586,128574,9825,Military enlisted tactical operations and air/weapons specialists and crew members,4,32,2.488839112106647e-4
+Trinidad and Tobago,9292,231962,4586,128574,6240,"Carpet, floor, and tile installers and finishers",3,31,2.411062889853314e-4
+Trinidad and Tobago,9292,231962,4586,128574,8300,Laundry and dry-cleaning workers,2,31,2.411062889853314e-4
+Trinidad and Tobago,9292,231962,4586,128574,0600,Cost estimators,2,30,2.3332866675999814e-4
+Trinidad and Tobago,9292,231962,4586,128574,3647,Pharmacy aides,2,30,2.3332866675999814e-4
+Trinidad and Tobago,9292,231962,4586,128574,3720,First-line supervisors of firefighting and prevention workers,1,30,2.3332866675999814e-4
+Trinidad and Tobago,9292,231962,4586,128574,3945,Transportation security screeners,2,30,2.3332866675999814e-4
+Trinidad and Tobago,9292,231962,4586,128574,6720,Hazardous materials removal workers,1,30,2.3332866675999814e-4
+Trinidad and Tobago,9292,231962,4586,128574,8350,"Tailors, dressmakers, and sewers",1,30,2.3332866675999814e-4
+Trinidad and Tobago,9292,231962,4586,128574,1935,"Environmental science and geoscience technicians, and nuclear technicians",2,29,2.2555104453466485e-4
+Trinidad and Tobago,9292,231962,4586,128574,2105,Judicial law clerks,2,29,2.2555104453466485e-4
+Trinidad and Tobago,9292,231962,4586,128574,1745,"Environmental scientists and specialists, including health",2,27,2.0999580008399833e-4
+Trinidad and Tobago,9292,231962,4586,128574,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,27,2.0999580008399833e-4
+Trinidad and Tobago,9292,231962,4586,128574,2840,Technical writers,1,26,2.0221817785866505e-4
+Trinidad and Tobago,9292,231962,4586,128574,3140,Audiologists,1,26,2.0221817785866505e-4
+Trinidad and Tobago,9292,231962,4586,128574,1560,Surveying and mapping technicians,2,25,1.9444055563333179e-4
+Trinidad and Tobago,9292,231962,4586,128574,8750,Jewelers and precious stone and metal workers,2,25,1.9444055563333179e-4
+Trinidad and Tobago,9292,231962,4586,128574,0960,Other financial specialists,2,24,1.866629334079985e-4
+Trinidad and Tobago,9292,231962,4586,128574,1420,Environmental engineers,1,24,1.866629334079985e-4
+Trinidad and Tobago,9292,231962,4586,128574,4435,Other entertainment attendants and related workers,2,24,1.866629334079985e-4
+Trinidad and Tobago,9292,231962,4586,128574,1340,Biomedical and agricultural engineers,2,22,1.7110768895733195e-4
+Trinidad and Tobago,9292,231962,4586,128574,2770,"Entertainers and performers, sports and related workers, all other",1,22,1.7110768895733195e-4
+Trinidad and Tobago,9292,231962,4586,128574,2830,Editors,2,22,1.7110768895733195e-4
+Trinidad and Tobago,9292,231962,4586,128574,4750,Parts salespersons,1,22,1.7110768895733195e-4
+Trinidad and Tobago,9292,231962,4586,128574,7100,"Other electrical and electronic equipment mechanics, installers, and repairers",2,22,1.7110768895733195e-4
+Trinidad and Tobago,9292,231962,4586,128574,7810,"Butchers and other meat, poultry, and fish processing workers",2,22,1.7110768895733195e-4
+Trinidad and Tobago,9292,231962,4586,128574,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,22,1.7110768895733195e-4
+Trinidad and Tobago,9292,231962,4586,128574,0040,Advertising and promotions managers,1,21,1.633300667319987e-4
+Trinidad and Tobago,9292,231962,4586,128574,1065,Database administrators and architects,1,21,1.633300667319987e-4
+Trinidad and Tobago,9292,231962,4586,128574,3324,Magnetic resonance imaging technologists,1,21,1.633300667319987e-4
+Trinidad and Tobago,9292,231962,4586,128574,9265,Other rail transportation workers,1,21,1.633300667319987e-4
+Trinidad and Tobago,9292,231962,4586,128574,3520,"Opticians, dispensing",1,20,1.5555244450666543e-4
+Trinidad and Tobago,9292,231962,4586,128574,7800,Bakers,2,20,1.5555244450666543e-4
+Trinidad and Tobago,9292,231962,4586,128574,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
+						and plastic",1,20,1.5555244450666543e-4
+Trinidad and Tobago,9292,231962,4586,128574,9430,Other transportation workers,2,20,1.5555244450666543e-4
+Trinidad and Tobago,9292,231962,4586,128574,1980,Occupational health and safety specialists and technicians,2,19,1.4777482228133215e-4
+Trinidad and Tobago,9292,231962,4586,128574,2003,Marriage and family therapists,1,19,1.4777482228133215e-4
+Trinidad and Tobago,9292,231962,4586,128574,4522,Skincare specialists,2,19,1.4777482228133215e-4
+Trinidad and Tobago,9292,231962,4586,128574,6730,Highway maintenance workers,1,19,1.4777482228133215e-4
+Trinidad and Tobago,9292,231962,4586,128574,9630,Machine feeders and offbearers,1,19,1.4777482228133215e-4
+Trinidad and Tobago,9292,231962,4586,128574,1600,Agricultural and food scientists,1,18,1.399972000559989e-4
+Trinidad and Tobago,9292,231962,4586,128574,1821,Clinical and counseling psychologists,1,18,1.399972000559989e-4
+Trinidad and Tobago,9292,231962,4586,128574,7160,Automotive glass installers and repairers,1,18,1.399972000559989e-4
+Trinidad and Tobago,9292,231962,4586,128574,2180,"Legal support workers, all other",2,17,1.322195778306656e-4
+Trinidad and Tobago,9292,231962,4586,128574,2721,Athletes and sports competitors,1,17,1.322195778306656e-4
+Trinidad and Tobago,9292,231962,4586,128574,5900,"Office machine operators, except computer",1,17,1.322195778306656e-4
+Trinidad and Tobago,9292,231962,4586,128574,1920,Chemical technicians,3,16,1.2444195560533234e-4
+Trinidad and Tobago,9292,231962,4586,128574,2440,Library technicians,1,16,1.2444195560533234e-4
+Trinidad and Tobago,9292,231962,4586,128574,4830,Travel agents,2,16,1.2444195560533234e-4
+Trinidad and Tobago,9292,231962,4586,128574,8620,Water and wastewater treatment plant and system operators,1,16,1.2444195560533234e-4
+Trinidad and Tobago,9292,231962,4586,128574,2170,"Title examiners, abstractors, and searchers",1,15,1.1666433337999907e-4
+Trinidad and Tobago,9292,231962,4586,128574,3040,Optometrists,2,15,1.1666433337999907e-4
+Trinidad and Tobago,9292,231962,4586,128574,8710,Cutting workers,1,15,1.1666433337999907e-4
+Trinidad and Tobago,9292,231962,4586,128574,0900,Financial examiners,1,14,1.088867111546658e-4
+Trinidad and Tobago,9292,231962,4586,128574,1860,Other social scientists,1,14,1.088867111546658e-4
+Trinidad and Tobago,9292,231962,4586,128574,8910,Etchers and engravers,1,14,1.088867111546658e-4
+Trinidad and Tobago,9292,231962,4586,128574,3330,Nuclear medicine technologists and medical dosimetrists,1,13,1.0110908892933252e-4
+Trinidad and Tobago,9292,231962,4586,128574,4465,"Morticians, undertakers, and funeral arrangers",1,13,1.0110908892933252e-4
+Trinidad and Tobago,9292,231962,4586,128574,6330,"Drywall installers, ceiling tile installers, and tapers",1,12,9.333146670399925e-5
+Trinidad and Tobago,9292,231962,4586,128574,7360,Millwrights,1,12,9.333146670399925e-5
+Trinidad and Tobago,9292,231962,4586,128574,1520,"Petroleum, mining and geological engineers, including mining safety engineers",1,11,8.555384447866598e-5
+Trinidad and Tobago,9292,231962,4586,128574,3700,First-line supervisors of correctional officers,1,11,8.555384447866598e-5
+Trinidad and Tobago,9292,231962,4586,128574,6740,Rail-track laying and maintenance equipment operators,1,11,8.555384447866598e-5
+Trinidad and Tobago,9292,231962,4586,128574,1800,Economists,1,10,7.777622225333272e-5
+Trinidad and Tobago,9292,231962,4586,128574,2635,Interior designers,1,10,7.777622225333272e-5
+Trinidad and Tobago,9292,231962,4586,128574,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,10,7.777622225333272e-5
+Trinidad and Tobago,9292,231962,4586,128574,8930,"Paper goods machine setters, operators, and tenders",1,10,7.777622225333272e-5
+Trinidad and Tobago,9292,231962,4586,128574,1840,Urban and regional planners,1,9,6.999860002799944e-5
+Trinidad and Tobago,9292,231962,4586,128574,2636,Merchandise displayers and window trimmers,1,9,6.999860002799944e-5
+Trinidad and Tobago,9292,231962,4586,128574,3261,Acupuncturists,1,9,6.999860002799944e-5
+Trinidad and Tobago,9292,231962,4586,128574,5220,"Court, municipal, and license clerks",1,9,6.999860002799944e-5
+Trinidad and Tobago,9292,231962,4586,128574,5300,"Hotel, motel, and resort desk clerks",1,9,6.999860002799944e-5
+Trinidad and Tobago,9292,231962,4586,128574,7905,Computer numerically controlled tool operators and programmers,1,9,6.999860002799944e-5
+Trinidad and Tobago,9292,231962,4586,128574,0102,Facilities managers,1,8,6.222097780266617e-5
+Trinidad and Tobago,9292,231962,4586,128574,0726,Fundraisers,1,8,6.222097780266617e-5
+Trinidad and Tobago,9292,231962,4586,128574,1032,Web and digital interface designers,1,8,6.222097780266617e-5
+Trinidad and Tobago,9292,231962,4586,128574,2755,"Disc jockeys, except radio",1,8,6.222097780266617e-5
+Trinidad and Tobago,9292,231962,4586,128574,3120,Podiatrists,1,8,6.222097780266617e-5
+Trinidad and Tobago,9292,231962,4586,128574,4525,Other personal appearance workers,1,8,6.222097780266617e-5
+Trinidad and Tobago,9292,231962,4586,128574,8640,"Chemical processing machine setters, operators, and tenders",1,8,6.222097780266617e-5
+Trinidad and Tobago,9292,231962,4586,128574,0810,Property appraisers and assessors,1,7,5.44433555773329e-5
+Trinidad and Tobago,9292,231962,4586,128574,3250,Veterinarians,1,7,5.44433555773329e-5
+Trinidad and Tobago,9292,231962,4586,128574,9510,Crane and tower operators,1,7,5.44433555773329e-5
+Trinidad and Tobago,9292,231962,4586,128574,3801,Bailiffs,1,6,4.6665733351999625e-5
+Trinidad and Tobago,9292,231962,4586,128574,8510,Furniture finishers,1,6,4.6665733351999625e-5
+Trinidad and Tobago,9292,231962,4586,128574,4950,"Door-to-door sales workers, news and street vendors, and related workers",1,4,3.1110488901333086e-5
+Trinidad and Tobago,9292,231962,4586,128574,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,4,3.1110488901333086e-5

@@ -1,0 +1,74 @@
+country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
+Iceland,267,5772,118,3053,2865,"Media and communication workers, all other",1,228,0.07468064199148379
+Iceland,267,5772,118,3053,0010,Chief executives and legislators,5,206,0.0674746151326564
+Iceland,267,5772,118,3053,4110,Waiters and waitresses,1,135,0.04421880117916803
+Iceland,267,5772,118,3053,1021,Software developers,5,127,0.041598427775958076
+Iceland,267,5772,118,3053,0220,Construction managers,2,124,0.04061578774975434
+Iceland,267,5772,118,3053,0020,General and operations managers,2,120,0.03930560104814936
+Iceland,267,5772,118,3053,4700,First-line supervisors of retail sales workers,6,116,0.03799541434654438
+Iceland,267,5772,118,3053,5940,Other office and administrative support workers,2,114,0.037340320995741895
+Iceland,267,5772,118,3053,0440,Other managers,6,112,0.0366852276449394
+Iceland,267,5772,118,3053,2205,Postsecondary teachers,9,110,0.036030134294136915
+Iceland,267,5772,118,3053,0705,Project management specialists,1,85,0.027841467409105796
+Iceland,267,5772,118,3053,0845,Financial and investment analysts,2,83,0.02718637405830331
+Iceland,267,5772,118,3053,0710,Management analysts,3,63,0.020635440550278415
+Iceland,267,5772,118,3053,0650,Training and development specialists,2,58,0.01899770717327219
+Iceland,267,5772,118,3053,4621,Exercise trainers and group fitness instructors,3,55,0.018015067147068457
+Iceland,267,5772,118,3053,1032,Web and digital interface designers,1,53,0.017359973796265967
+Iceland,267,5772,118,3053,2850,Writers and authors,1,51,0.016704880445463477
+Iceland,267,5772,118,3053,4920,Real estate brokers and sales agents,2,48,0.015722240419259743
+Iceland,267,5772,118,3053,2300,Preschool and kindergarten teachers,1,46,0.015067147068457255
+Iceland,267,5772,118,3053,2810,"News analysts, reporters, and journalists",1,41,0.013429413691451031
+Iceland,267,5772,118,3053,4510,"Hairdressers, hairstylists, and cosmetologists",1,39,0.012774320340648543
+Iceland,267,5772,118,3053,4830,Travel agents,1,37,0.012119226989846053
+Iceland,267,5772,118,3053,1006,Computer systems analysts,2,35,0.011464133639043564
+Iceland,267,5772,118,3053,1360,Civil engineers,2,35,0.011464133639043564
+Iceland,267,5772,118,3053,2100,"Lawyers, and judges, magistrates, and other judicial workers",1,33,0.010809040288241074
+Iceland,267,5772,118,3053,3000,Chiropractors,1,33,0.010809040288241074
+Iceland,267,5772,118,3053,0102,Facilities managers,1,31,0.010153946937438586
+Iceland,267,5772,118,3053,2634,Graphic designers,2,31,0.010153946937438586
+Iceland,267,5772,118,3053,1825,Other psychologists,2,29,0.009498853586636095
+Iceland,267,5772,118,3053,3090,Physicians,3,29,0.009498853586636095
+Iceland,267,5772,118,3053,1010,Computer programmers,2,28,0.00917130691123485
+Iceland,267,5772,118,3053,1031,Web developers,1,28,0.00917130691123485
+Iceland,267,5772,118,3053,0110,Computer and information systems managers,1,26,0.008516213560432362
+Iceland,267,5772,118,3053,2310,Elementary and middle school teachers,2,26,0.008516213560432362
+Iceland,267,5772,118,3053,2752,Musicians and singers,1,25,0.008188666885031117
+Iceland,267,5772,118,3053,1460,Mechanical engineers,1,24,0.007861120209629872
+Iceland,267,5772,118,3053,9830,"Military, rank not specified",1,24,0.007861120209629872
+Iceland,267,5772,118,3053,0120,Financial managers,1,23,0.0075335735342286275
+Iceland,267,5772,118,3053,2360,Other teachers and instructors,2,23,0.0075335735342286275
+Iceland,267,5772,118,3053,7700,First-line supervisors of production and operating workers,1,23,0.0075335735342286275
+Iceland,267,5772,118,3053,8620,Water and wastewater treatment plant and system operators,1,23,0.0075335735342286275
+Iceland,267,5772,118,3053,1541,Architectural and civil drafters,1,22,0.007206026858827383
+Iceland,267,5772,118,3053,4000,Chefs and head cooks,1,21,0.006878480183426138
+Iceland,267,5772,118,3053,4950,"Door-to-door sales workers, news and street vendors, and related workers",1,21,0.006878480183426138
+Iceland,267,5772,118,3053,5120,"Bookkeeping, accounting, and auditing clerks",1,21,0.006878480183426138
+Iceland,267,5772,118,3053,1760,"Physical scientists, all other",1,20,0.006550933508024894
+Iceland,267,5772,118,3053,7140,Aircraft mechanics and service technicians,1,20,0.006550933508024894
+Iceland,267,5772,118,3053,9130,Driver/sales workers and truck drivers,1,20,0.006550933508024894
+Iceland,267,5772,118,3053,2910,Photographers,1,19,0.006223386832623649
+Iceland,267,5772,118,3053,5610,"Shipping, receiving, and inventory clerks",1,19,0.006223386832623649
+Iceland,267,5772,118,3053,9620,"Laborers and freight, stock, and material movers, hand",1,19,0.006223386832623649
+Iceland,267,5772,118,3053,1305,"Architects, except landscape and naval",1,18,0.005895840157222404
+Iceland,267,5772,118,3053,1320,Aerospace engineers,1,18,0.005895840157222404
+Iceland,267,5772,118,3053,3648,Veterinary assistants and laboratory animal caretakers,1,18,0.005895840157222404
+Iceland,267,5772,118,3053,5240,Customer service representatives,1,18,0.005895840157222404
+Iceland,267,5772,118,3053,1306,Landscape architects,1,17,0.0055682934818211596
+Iceland,267,5772,118,3053,1007,Information security analysts,1,16,0.0052407468064199145
+Iceland,267,5772,118,3053,7130,Security and fire alarm systems installers,1,15,0.00491320013101867
+Iceland,267,5772,118,3053,2006,"Counselors, all other",1,14,0.004585653455617425
+Iceland,267,5772,118,3053,9030,Aircraft pilots and flight engineers,1,14,0.004585653455617425
+Iceland,267,5772,118,3053,2840,Technical writers,1,13,0.004258106780216181
+Iceland,267,5772,118,3053,3255,Registered nurses,1,13,0.004258106780216181
+Iceland,267,5772,118,3053,3960,Other protective service workers,1,12,0.003930560104814936
+Iceland,267,5772,118,3053,7000,"First-line supervisors of mechanics, installers, and repairers",1,12,0.003930560104814936
+Iceland,267,5772,118,3053,1720,Chemists and materials scientists,1,11,0.0036030134294136916
+Iceland,267,5772,118,3053,3603,Nursing assistants,1,11,0.0036030134294136916
+Iceland,267,5772,118,3053,0960,Other financial specialists,1,10,0.003275466754012447
+Iceland,267,5772,118,3053,1005,Computer and information research scientists,1,10,0.003275466754012447
+Iceland,267,5772,118,3053,0350,Medical and health services managers,1,8,0.0026203734032099572
+Iceland,267,5772,118,3053,5320,"Library assistants, clerical",1,8,0.0026203734032099572
+Iceland,267,5772,118,3053,4720,Cashiers,1,7,0.0022928267278087126
+Iceland,267,5772,118,3053,4600,Childcare workers,1,4,0.0013101867016049786
+Iceland,267,5772,118,3053,4850,"Sales representatives, wholesale and manufacturing",1,4,0.0013101867016049786

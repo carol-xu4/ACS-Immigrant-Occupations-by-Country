@@ -1,0 +1,227 @@
+country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
+Saudi Arabia,2210,60210,1107,28550,3090,Physicians,62,1505,0.05271453590192644
+Saudi Arabia,2210,60210,1107,28550,0440,Other managers,51,1496,0.052399299474605955
+Saudi Arabia,2210,60210,1107,28550,2205,Postsecondary teachers,36,831,0.029106830122591944
+Saudi Arabia,2210,60210,1107,28550,3255,Registered nurses,39,799,0.027985989492119088
+Saudi Arabia,2210,60210,1107,28550,9130,Driver/sales workers and truck drivers,18,713,0.024973730297723293
+Saudi Arabia,2210,60210,1107,28550,1530,Other engineers,19,641,0.02245183887915937
+Saudi Arabia,2210,60210,1107,28550,0800,Accountants and auditors,19,628,0.021996497373029774
+Saudi Arabia,2210,60210,1107,28550,1021,Software developers,34,617,0.02161120840630473
+Saudi Arabia,2210,60210,1107,28550,0705,Project management specialists,13,583,0.02042031523642732
+Saudi Arabia,2210,60210,1107,28550,5240,Customer service representatives,20,572,0.020035026269702275
+Saudi Arabia,2210,60210,1107,28550,4760,Retail salespersons,22,549,0.01922942206654991
+Saudi Arabia,2210,60210,1107,28550,1760,"Physical scientists, all other",14,508,0.017793345008756567
+Saudi Arabia,2210,60210,1107,28550,0710,Management analysts,22,498,0.0174430823117338
+Saudi Arabia,2210,60210,1107,28550,3050,Pharmacists,18,390,0.013660245183887917
+Saudi Arabia,2210,60210,1107,28550,5860,"Office clerks, general",12,385,0.013485113835376532
+Saudi Arabia,2210,60210,1107,28550,1410,Electrical and electronics engineers,11,373,0.013064798598949212
+Saudi Arabia,2210,60210,1107,28550,4110,Waiters and waitresses,13,340,0.011908931698774081
+Saudi Arabia,2210,60210,1107,28550,5740,"Secretaries and administrative assistants, except legal, medical, and executive",7,324,0.011348511383537653
+Saudi Arabia,2210,60210,1107,28550,4700,First-line supervisors of retail sales workers,12,317,0.011103327495621717
+Saudi Arabia,2210,60210,1107,28550,3010,Dentists,7,307,0.010753064798598949
+Saudi Arabia,2210,60210,1107,28550,2310,Elementary and middle school teachers,18,305,0.010683012259194396
+Saudi Arabia,2210,60210,1107,28550,0310,Food service managers,8,291,0.010192644483362523
+Saudi Arabia,2210,60210,1107,28550,1050,Computer support specialists,9,274,0.009597197898423818
+Saudi Arabia,2210,60210,1107,28550,4720,Cashiers,16,264,0.009246935201401052
+Saudi Arabia,2210,60210,1107,28550,1360,Civil engineers,14,262,0.009176882661996497
+Saudi Arabia,2210,60210,1107,28550,0630,Human resources workers,9,251,0.008791593695271454
+Saudi Arabia,2210,60210,1107,28550,9030,Aircraft pilots and flight engineers,4,249,0.0087215411558669
+Saudi Arabia,2210,60210,1107,28550,1551,Electrical and electronic engineering technologists and technicians,2,231,0.008091068301225919
+Saudi Arabia,2210,60210,1107,28550,2545,Teaching assistants,15,223,0.007810858143607706
+Saudi Arabia,2210,60210,1107,28550,9142,Taxi drivers,10,223,0.007810858143607706
+Saudi Arabia,2210,60210,1107,28550,0750,"Business operations specialists, all other",7,217,0.007600700525394045
+Saudi Arabia,2210,60210,1107,28550,1350,Chemical engineers,7,216,0.007565674255691769
+Saudi Arabia,2210,60210,1107,28550,0735,Market research analysts and marketing specialists,6,215,0.007530647985989492
+Saudi Arabia,2210,60210,1107,28550,8990,"Miscellaneous production workers, including equipment operators and tenders",6,215,0.007530647985989492
+Saudi Arabia,2210,60210,1107,28550,9645,Stockers and order fillers,10,215,0.007530647985989492
+Saudi Arabia,2210,60210,1107,28550,1108,"Computer occupations, all other",10,214,0.007495621716287215
+Saudi Arabia,2210,60210,1107,28550,4600,Childcare workers,8,214,0.007495621716287215
+Saudi Arabia,2210,60210,1107,28550,0110,Computer and information systems managers,8,209,0.007320490367775832
+Saudi Arabia,2210,60210,1107,28550,1240,Other mathematical science occupations,12,200,0.0070052539404553416
+Saudi Arabia,2210,60210,1107,28550,2640,Other designers,11,200,0.0070052539404553416
+Saudi Arabia,2210,60210,1107,28550,2350,Tutors,8,195,0.006830122591943958
+Saudi Arabia,2210,60210,1107,28550,9620,"Laborers and freight, stock, and material movers, hand",7,195,0.006830122591943958
+Saudi Arabia,2210,60210,1107,28550,7330,Industrial and refractory machinery mechanics,1,194,0.006795096322241681
+Saudi Arabia,2210,60210,1107,28550,0140,Industrial production managers,3,192,0.006725043782837128
+Saudi Arabia,2210,60210,1107,28550,5000,First-line supervisors of office and administrative support workers,9,187,0.006549912434325744
+Saudi Arabia,2210,60210,1107,28550,1006,Computer systems analysts,7,181,0.006339754816112084
+Saudi Arabia,2210,60210,1107,28550,2002,"Educational, guidance, and career counselors and advisors",3,178,0.006234676007005254
+Saudi Arabia,2210,60210,1107,28550,3930,Security guards and gaming surveillance officers,8,171,0.005989492119089317
+Saudi Arabia,2210,60210,1107,28550,1430,"Industrial engineers, including health and safety",6,168,0.0058844133099824865
+Saudi Arabia,2210,60210,1107,28550,3160,Physical therapists,6,168,0.0058844133099824865
+Saudi Arabia,2210,60210,1107,28550,3500,Licensed practical and licensed vocational nurses,4,167,0.00584938704028021
+Saudi Arabia,2210,60210,1107,28550,0010,Chief executives and legislators,10,166,0.005814360770577933
+Saudi Arabia,2210,60210,1107,28550,1970,"Other life, physical, and social science technicians",6,159,0.005569176882661997
+Saudi Arabia,2210,60210,1107,28550,8740,"Inspectors, testers, sorters, samplers, and weighers",9,154,0.005394045534150613
+Saudi Arabia,2210,60210,1107,28550,1555,"Other engineering technologists and technicians, except drafters",4,152,0.0053239929947460594
+Saudi Arabia,2210,60210,1107,28550,2300,Preschool and kindergarten teachers,4,148,0.005183887915936953
+Saudi Arabia,2210,60210,1107,28550,4030,Food preparation workers,4,148,0.005183887915936953
+Saudi Arabia,2210,60210,1107,28550,0120,Financial managers,9,147,0.005148861646234676
+Saudi Arabia,2210,60210,1107,28550,3645,Medical assistants,4,145,0.005078809106830123
+Saudi Arabia,2210,60210,1107,28550,4965,"Sales and related workers, all other",5,144,0.0050437828371278455
+Saudi Arabia,2210,60210,1107,28550,3230,Speech-language pathologists,5,142,0.004973730297723292
+Saudi Arabia,2210,60210,1107,28550,0220,Construction managers,3,131,0.004588441330998248
+Saudi Arabia,2210,60210,1107,28550,1650,Other life scientists,7,130,0.004553415061295972
+Saudi Arabia,2210,60210,1107,28550,0300,Architectural and engineering managers,4,126,0.004413309982486865
+Saudi Arabia,2210,60210,1107,28550,2016,Social and human service assistants,1,126,0.004413309982486865
+Saudi Arabia,2210,60210,1107,28550,3422,Psychiatric technicians,5,122,0.0042732049036777586
+Saudi Arabia,2210,60210,1107,28550,1860,Other social scientists,1,117,0.0040980735551663745
+Saudi Arabia,2210,60210,1107,28550,6260,Construction laborers,4,117,0.0040980735551663745
+Saudi Arabia,2210,60210,1107,28550,4220,Janitors and building cleaners,5,114,0.003992994746059545
+Saudi Arabia,2210,60210,1107,28550,1460,Mechanical engineers,7,113,0.003957968476357268
+Saudi Arabia,2210,60210,1107,28550,4850,"Sales representatives, wholesale and manufacturing",2,110,0.003852889667250438
+Saudi Arabia,2210,60210,1107,28550,3100,Surgeons,3,109,0.003817863397548161
+Saudi Arabia,2210,60210,1107,28550,2320,Secondary school teachers,6,108,0.0037828371278458843
+Saudi Arabia,2210,60210,1107,28550,3402,Paramedics,1,106,0.003712784588441331
+Saudi Arabia,2210,60210,1107,28550,2100,"Lawyers, and judges, magistrates, and other judicial workers",7,101,0.0035376532399299474
+Saudi Arabia,2210,60210,1107,28550,0230,Education and childcare administrators,5,99,0.003467600700525394
+Saudi Arabia,2210,60210,1107,28550,0350,Medical and health services managers,6,96,0.003362521891418564
+Saudi Arabia,2210,60210,1107,28550,1105,Network and computer systems administrators,4,95,0.003327495621716287
+Saudi Arabia,2210,60210,1107,28550,1320,Aerospace engineers,3,95,0.003327495621716287
+Saudi Arabia,2210,60210,1107,28550,3150,Occupational therapists,3,94,0.0032924693520140105
+Saudi Arabia,2210,60210,1107,28550,3300,Clinical laboratory technologists and technicians,5,93,0.003257443082311734
+Saudi Arabia,2210,60210,1107,28550,9122,"Bus drivers, transit and intercity",2,92,0.0032224168126094572
+Saudi Arabia,2210,60210,1107,28550,5400,Receptionists and information clerks,5,89,0.003117338003502627
+Saudi Arabia,2210,60210,1107,28550,3245,Other therapists,2,88,0.0030823117338003502
+Saudi Arabia,2210,60210,1107,28550,3421,Pharmacy technicians,4,88,0.0030823117338003502
+Saudi Arabia,2210,60210,1107,28550,2360,Other teachers and instructors,4,87,0.0030472854640980736
+Saudi Arabia,2210,60210,1107,28550,3110,Physician assistants,4,87,0.0030472854640980736
+Saudi Arabia,2210,60210,1107,28550,1220,Operations research analysts,5,85,0.0029772329246935203
+Saudi Arabia,2210,60210,1107,28550,3870,Police officers,4,84,0.0029422066549912433
+Saudi Arabia,2210,60210,1107,28550,4710,First-line supervisors of non-retail sales workers,3,84,0.0029422066549912433
+Saudi Arabia,2210,60210,1107,28550,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",1,81,0.0028371278458844133
+Saudi Arabia,2210,60210,1107,28550,2751,Music directors and composers,1,79,0.00276707530647986
+Saudi Arabia,2210,60210,1107,28550,2600,Artists and related workers,3,78,0.002732049036777583
+Saudi Arabia,2210,60210,1107,28550,5940,Other office and administrative support workers,6,77,0.0026970227670753064
+Saudi Arabia,2210,60210,1107,28550,3545,Miscellaneous health technologists and technicians,2,76,0.0026619964973730297
+Saudi Arabia,2210,60210,1107,28550,4000,Chefs and head cooks,4,76,0.0026619964973730297
+Saudi Arabia,2210,60210,1107,28550,5510,Couriers and messengers,5,76,0.0026619964973730297
+Saudi Arabia,2210,60210,1107,28550,0845,Financial and investment analysts,4,75,0.002626970227670753
+Saudi Arabia,2210,60210,1107,28550,1010,Computer programmers,4,75,0.002626970227670753
+Saudi Arabia,2210,60210,1107,28550,9430,Other transportation workers,1,74,0.0025919439579684764
+Saudi Arabia,2210,60210,1107,28550,1065,Database administrators and architects,4,72,0.0025218914185639227
+Saudi Arabia,2210,60210,1107,28550,2025,Other community and social service specialists,1,72,0.0025218914185639227
+Saudi Arabia,2210,60210,1107,28550,7750,Other assemblers and fabricators,3,71,0.002486865148861646
+Saudi Arabia,2210,60210,1107,28550,1980,Occupational health and safety specialists and technicians,2,70,0.0024518388791593695
+Saudi Arabia,2210,60210,1107,28550,0420,Social and community service managers,4,69,0.002416812609457093
+Saudi Arabia,2210,60210,1107,28550,0410,"Property, real estate, and community association managers",2,68,0.002381786339754816
+Saudi Arabia,2210,60210,1107,28550,5120,"Bookkeeping, accounting, and auditing clerks",4,68,0.002381786339754816
+Saudi Arabia,2210,60210,1107,28550,1007,Information security analysts,4,67,0.0023467600700525395
+Saudi Arabia,2210,60210,1107,28550,4530,"Baggage porters, bellhops, and concierges",1,67,0.0023467600700525395
+Saudi Arabia,2210,60210,1107,28550,0850,Personal financial advisors,4,66,0.002311733800350263
+Saudi Arabia,2210,60210,1107,28550,3515,Medical records specialists,2,66,0.002311733800350263
+Saudi Arabia,2210,60210,1107,28550,0565,Compliance officers,4,64,0.002241681260945709
+Saudi Arabia,2210,60210,1107,28550,0700,Logisticians,1,64,0.002241681260945709
+Saudi Arabia,2210,60210,1107,28550,0360,Natural sciences managers,1,63,0.0022066549912434326
+Saudi Arabia,2210,60210,1107,28550,4920,Real estate brokers and sales agents,2,63,0.0022066549912434326
+Saudi Arabia,2210,60210,1107,28550,4040,Bartenders,2,62,0.002171628721541156
+Saudi Arabia,2210,60210,1107,28550,2635,Interior designers,1,61,0.0021366024518388793
+Saudi Arabia,2210,60210,1107,28550,3649,Phlebotomists,1,58,0.002031523642732049
+Saudi Arabia,2210,60210,1107,28550,5110,Billing and posting clerks,1,57,0.0019964973730297723
+Saudi Arabia,2210,60210,1107,28550,2014,"Social workers, all other",2,56,0.0019614711033274957
+Saudi Arabia,2210,60210,1107,28550,0830,Credit analysts,1,55,0.001926444833625219
+Saudi Arabia,2210,60210,1107,28550,1400,Computer hardware engineers,1,55,0.001926444833625219
+Saudi Arabia,2210,60210,1107,28550,0137,Training and development managers,1,54,0.0018914185639229422
+Saudi Arabia,2210,60210,1107,28550,0530,"Purchasing agents, except wholesale, retail, and farm products",2,54,0.0018914185639229422
+Saudi Arabia,2210,60210,1107,28550,0051,Marketing managers,4,53,0.0018563922942206655
+Saudi Arabia,2210,60210,1107,28550,2435,Librarians and media collections specialists,2,53,0.0018563922942206655
+Saudi Arabia,2210,60210,1107,28550,4350,Animal caretakers,1,53,0.0018563922942206655
+Saudi Arabia,2210,60210,1107,28550,7315,"Heating, air conditioning, and refrigeration mechanics and installers",1,53,0.0018563922942206655
+Saudi Arabia,2210,60210,1107,28550,0150,Purchasing managers,3,52,0.0018213660245183889
+Saudi Arabia,2210,60210,1107,28550,3258,"Nurse practitioners, and nurse midwives",3,51,0.001786339754816112
+Saudi Arabia,2210,60210,1107,28550,3601,Home health aides,1,51,0.001786339754816112
+Saudi Arabia,2210,60210,1107,28550,4020,Cooks,4,51,0.001786339754816112
+Saudi Arabia,2210,60210,1107,28550,4820,"Securities, commodities, and financial services sales agents",2,50,0.0017513134851138354
+Saudi Arabia,2210,60210,1107,28550,5840,Insurance claims and policy processing clerks,2,48,0.001681260945709282
+Saudi Arabia,2210,60210,1107,28550,7700,First-line supervisors of production and operating workers,3,48,0.001681260945709282
+Saudi Arabia,2210,60210,1107,28550,0052,Sales managers,1,45,0.0015761821366024518
+Saudi Arabia,2210,60210,1107,28550,1200,Actuaries,2,45,0.0015761821366024518
+Saudi Arabia,2210,60210,1107,28550,3602,Personal care aides,2,45,0.0015761821366024518
+Saudi Arabia,2210,60210,1107,28550,6230,Carpenters,2,45,0.0015761821366024518
+Saudi Arabia,2210,60210,1107,28550,3640,Dental assistants,4,44,0.0015411558669001751
+Saudi Arabia,2210,60210,1107,28550,2555,Other educational instruction and library workers,1,43,0.0015061295971978985
+Saudi Arabia,2210,60210,1107,28550,1022,Software quality assurance analysts and testers,2,42,0.0014711033274956216
+Saudi Arabia,2210,60210,1107,28550,4810,Insurance sales agents,1,42,0.0014711033274956216
+Saudi Arabia,2210,60210,1107,28550,5610,"Shipping, receiving, and inventory clerks",3,42,0.0014711033274956216
+Saudi Arabia,2210,60210,1107,28550,1720,Chemists and materials scientists,1,41,0.001436077057793345
+Saudi Arabia,2210,60210,1107,28550,4055,Fast food and counter workers,1,41,0.001436077057793345
+Saudi Arabia,2210,60210,1107,28550,1106,Computer network architects,2,40,0.0014010507880910684
+Saudi Arabia,2210,60210,1107,28550,0020,General and operations managers,3,39,0.0013660245183887915
+Saudi Arabia,2210,60210,1107,28550,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",2,39,0.0013660245183887915
+Saudi Arabia,2210,60210,1107,28550,2634,Graphic designers,3,38,0.0013309982486865149
+Saudi Arabia,2210,60210,1107,28550,3605,Orderlies and psychiatric aides,2,38,0.0013309982486865149
+Saudi Arabia,2210,60210,1107,28550,5600,"Production, planning, and expediting clerks",1,38,0.0013309982486865149
+Saudi Arabia,2210,60210,1107,28550,0060,Public relations and fundraising managers,3,36,0.0012609457092819614
+Saudi Arabia,2210,60210,1107,28550,0726,Fundraisers,2,36,0.0012609457092819614
+Saudi Arabia,2210,60210,1107,28550,1306,Landscape architects,1,36,0.0012609457092819614
+Saudi Arabia,2210,60210,1107,28550,2721,Athletes and sports competitors,1,35,0.0012259194395796847
+Saudi Arabia,2210,60210,1107,28550,8225,Other metal workers and plastic workers,1,35,0.0012259194395796847
+Saudi Arabia,2210,60210,1107,28550,7810,"Butchers and other meat, poultry, and fish processing workers",1,34,0.001190893169877408
+Saudi Arabia,2210,60210,1107,28550,8950,Helpers--production workers,1,33,0.0011558669001751315
+Saudi Arabia,2210,60210,1107,28550,9640,"Packers and packagers, hand",1,33,0.0011558669001751315
+Saudi Arabia,2210,60210,1107,28550,0650,Training and development specialists,2,31,0.001085814360770578
+Saudi Arabia,2210,60210,1107,28550,6050,Other agricultural workers,2,31,0.001085814360770578
+Saudi Arabia,2210,60210,1107,28550,2006,"Counselors, all other",2,30,0.0010507880910683013
+Saudi Arabia,2210,60210,1107,28550,3646,Medical transcriptionists,2,30,0.0010507880910683013
+Saudi Arabia,2210,60210,1107,28550,1545,Other drafters,1,29,0.0010157618213660245
+Saudi Arabia,2210,60210,1107,28550,4621,Exercise trainers and group fitness instructors,2,29,0.0010157618213660245
+Saudi Arabia,2210,60210,1107,28550,3630,Massage therapists,1,28,9.807355516637478e-4
+Saudi Arabia,2210,60210,1107,28550,7200,Automotive service technicians and mechanics,2,28,9.807355516637478e-4
+Saudi Arabia,2210,60210,1107,28550,4522,Skincare specialists,2,27,9.457092819614711e-4
+Saudi Arabia,2210,60210,1107,28550,2105,Judicial law clerks,1,26,9.106830122591944e-4
+Saudi Arabia,2210,60210,1107,28550,3655,Other healthcare support workers,1,26,9.106830122591944e-4
+Saudi Arabia,2210,60210,1107,28550,4510,"Hairdressers, hairstylists, and cosmetologists",1,26,9.106830122591944e-4
+Saudi Arabia,2210,60210,1107,28550,0820,Budget analysts,2,25,8.756567425569177e-4
+Saudi Arabia,2210,60210,1107,28550,2910,Photographers,1,25,8.756567425569177e-4
+Saudi Arabia,2210,60210,1107,28550,3603,Nursing assistants,2,24,8.40630472854641e-4
+Saudi Arabia,2210,60210,1107,28550,2633,Floral designers,1,23,8.056042031523643e-4
+Saudi Arabia,2210,60210,1107,28550,3802,Correctional officers and jailers,1,23,8.056042031523643e-4
+Saudi Arabia,2210,60210,1107,28550,6410,Painters and paperhangers,1,23,8.056042031523643e-4
+Saudi Arabia,2210,60210,1107,28550,8800,Packaging and filling machine operators and tenders,1,23,8.056042031523643e-4
+Saudi Arabia,2210,60210,1107,28550,3424,Veterinary technologists and technicians,1,22,7.705779334500876e-4
+Saudi Arabia,2210,60210,1107,28550,5160,Tellers,1,22,7.705779334500876e-4
+Saudi Arabia,2210,60210,1107,28550,5810,Data entry keyers,2,22,7.705779334500876e-4
+Saudi Arabia,2210,60210,1107,28550,1305,"Architects, except landscape and naval",2,21,7.355516637478108e-4
+Saudi Arabia,2210,60210,1107,28550,2752,Musicians and singers,1,21,7.355516637478108e-4
+Saudi Arabia,2210,60210,1107,28550,3820,Detectives and criminal investigators,1,21,7.355516637478108e-4
+Saudi Arabia,2210,60210,1107,28550,9050,Flight attendants,1,21,7.355516637478108e-4
+Saudi Arabia,2210,60210,1107,28550,4120,"Food servers, nonrestaurant",1,20,7.005253940455342e-4
+Saudi Arabia,2210,60210,1107,28550,3740,Firefighters,1,19,6.654991243432574e-4
+Saudi Arabia,2210,60210,1107,28550,5550,Postal service mail carriers,1,19,6.654991243432574e-4
+Saudi Arabia,2210,60210,1107,28550,5910,Proofreaders and copy markers,1,19,6.654991243432574e-4
+Saudi Arabia,2210,60210,1107,28550,9365,Transportation service attendants,1,19,6.654991243432574e-4
+Saudi Arabia,2210,60210,1107,28550,1032,Web and digital interface designers,1,18,6.304728546409807e-4
+Saudi Arabia,2210,60210,1107,28550,2145,Paralegals and legal assistants,1,18,6.304728546409807e-4
+Saudi Arabia,2210,60210,1107,28550,0040,Advertising and promotions managers,1,17,5.95446584938704e-4
+Saudi Arabia,2210,60210,1107,28550,1700,Astronomers and physicists,1,17,5.95446584938704e-4
+Saudi Arabia,2210,60210,1107,28550,2710,Producers and directors,2,16,5.604203152364273e-4
+Saudi Arabia,2210,60210,1107,28550,5320,"Library assistants, clerical",1,16,5.604203152364273e-4
+Saudi Arabia,2210,60210,1107,28550,0102,Facilities managers,2,15,5.253940455341507e-4
+Saudi Arabia,2210,60210,1107,28550,2723,"Umpires, referees, and other sports officials",1,15,5.253940455341507e-4
+Saudi Arabia,2210,60210,1107,28550,3322,Diagnostic medical sonographers,1,15,5.253940455341507e-4
+Saudi Arabia,2210,60210,1107,28550,4521,Manicurists and pedicurists,1,15,5.253940455341507e-4
+Saudi Arabia,2210,60210,1107,28550,1031,Web developers,1,14,4.903677758318739e-4
+Saudi Arabia,2210,60210,1107,28550,3330,Nuclear medicine technologists and medical dosimetrists,1,14,4.903677758318739e-4
+Saudi Arabia,2210,60210,1107,28550,4435,Other entertainment attendants and related workers,1,14,4.903677758318739e-4
+Saudi Arabia,2210,60210,1107,28550,3321,Cardiovascular technologists and technicians,1,13,4.553415061295972e-4
+Saudi Arabia,2210,60210,1107,28550,7430,Precision instrument and equipment repairers,1,13,4.553415061295972e-4
+Saudi Arabia,2210,60210,1107,28550,9600,Industrial truck and tractor operators,1,13,4.553415061295972e-4
+Saudi Arabia,2210,60210,1107,28550,2060,"Religious workers, all other",1,12,4.203152364273205e-4
+Saudi Arabia,2210,60210,1107,28550,4420,"Ushers, lobby attendants, and ticket takers",1,12,4.203152364273205e-4
+Saudi Arabia,2210,60210,1107,28550,5522,"Dispatchers, except police, fire, and ambulance",1,12,4.203152364273205e-4
+Saudi Arabia,2210,60210,1107,28550,8030,Machinists,1,12,4.203152364273205e-4
+Saudi Arabia,2210,60210,1107,28550,2040,Clergy,1,11,3.852889667250438e-4
+Saudi Arabia,2210,60210,1107,28550,2330,Special education teachers,1,11,3.852889667250438e-4
+Saudi Arabia,2210,60210,1107,28550,7000,"First-line supervisors of mechanics, installers, and repairers",1,11,3.852889667250438e-4
+Saudi Arabia,2210,60210,1107,28550,9150,"Motor vehicle operators, all other",1,11,3.852889667250438e-4
+Saudi Arabia,2210,60210,1107,28550,3610,Occupational therapy assistants and aides,1,10,3.502626970227671e-4
+Saudi Arabia,2210,60210,1107,28550,3946,School bus monitors,1,10,3.502626970227671e-4
+Saudi Arabia,2210,60210,1107,28550,2810,"News analysts, reporters, and journalists",1,9,3.1523642732049034e-4
+Saudi Arabia,2210,60210,1107,28550,7130,Security and fire alarm systems installers,1,9,3.1523642732049034e-4
+Saudi Arabia,2210,60210,1107,28550,4230,Maids and housekeeping cleaners,1,8,2.8021015761821365e-4
+Saudi Arabia,2210,60210,1107,28550,9830,"Military, rank not specified",1,7,2.4518388791593696e-4
+Saudi Arabia,2210,60210,1107,28550,4251,Landscaping and groundskeeping workers,1,6,2.1015761821366024e-4
+Saudi Arabia,2210,60210,1107,28550,4930,Sales engineers,1,6,2.1015761821366024e-4
+Saudi Arabia,2210,60210,1107,28550,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,4,1.4010507880910682e-4
+Saudi Arabia,2210,60210,1107,28550,9415,Passenger attendants,1,3,1.0507880910683012e-4
+Saudi Arabia,2210,60210,1107,28550,2861,Interpreters and translators,1,2,7.005253940455341e-5

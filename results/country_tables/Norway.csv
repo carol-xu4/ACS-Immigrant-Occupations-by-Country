@@ -1,0 +1,167 @@
+country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
+Norway,1202,21333,458,8708,0010,Chief executives and legislators,25,499,0.05730362884703721
+Norway,1202,21333,458,8708,0440,Other managers,28,428,0.0491502067064768
+Norway,1202,21333,458,8708,1021,Software developers,21,423,0.04857602204869086
+Norway,1202,21333,458,8708,2205,Postsecondary teachers,15,347,0.039848415250344514
+Norway,1202,21333,458,8708,0705,Project management specialists,7,329,0.03778135048231511
+Norway,1202,21333,458,8708,9030,Aircraft pilots and flight engineers,13,232,0.0266421681212678
+Norway,1202,21333,458,8708,0710,Management analysts,10,212,0.024345429490124023
+Norway,1202,21333,458,8708,1530,Other engineers,10,190,0.02181901699586587
+Norway,1202,21333,458,8708,0120,Financial managers,9,179,0.020555810748736792
+Norway,1202,21333,458,8708,4720,Cashiers,13,176,0.020211299954065228
+Norway,1202,21333,458,8708,0420,Social and community service managers,4,154,0.017684887459807074
+Norway,1202,21333,458,8708,1520,"Petroleum, mining and geological engineers, including mining safety engineers",3,139,0.01596233348644924
+Norway,1202,21333,458,8708,9130,Driver/sales workers and truck drivers,4,130,0.014928801102434544
+Norway,1202,21333,458,8708,1760,"Physical scientists, all other",3,123,0.014124942581534222
+Norway,1202,21333,458,8708,3258,"Nurse practitioners, and nurse midwives",3,119,0.013665594855305467
+Norway,1202,21333,458,8708,3255,Registered nurses,6,115,0.01320624712907671
+Norway,1202,21333,458,8708,2100,"Lawyers, and judges, magistrates, and other judicial workers",7,107,0.0122875516766192
+Norway,1202,21333,458,8708,0300,Architectural and engineering managers,5,104,0.011943040881947635
+Norway,1202,21333,458,8708,4700,First-line supervisors of retail sales workers,7,102,0.011713367018833257
+Norway,1202,21333,458,8708,1105,Network and computer systems administrators,3,94,0.010794671566375747
+Norway,1202,21333,458,8708,2310,Elementary and middle school teachers,6,93,0.010679834634818558
+Norway,1202,21333,458,8708,0136,Human resources managers,4,92,0.010564997703261369
+Norway,1202,21333,458,8708,2700,Actors,3,91,0.01045016077170418
+Norway,1202,21333,458,8708,3090,Physicians,5,84,0.00964630225080386
+Norway,1202,21333,458,8708,2320,Secondary school teachers,5,83,0.00953146531924667
+Norway,1202,21333,458,8708,5610,"Shipping, receiving, and inventory clerks",2,83,0.00953146531924667
+Norway,1202,21333,458,8708,5360,"Human resources assistants, except payroll and timekeeping",1,81,0.009301791456132292
+Norway,1202,21333,458,8708,0800,Accountants and auditors,6,80,0.009186954524575103
+Norway,1202,21333,458,8708,5860,"Office clerks, general",6,80,0.009186954524575103
+Norway,1202,21333,458,8708,4760,Retail salespersons,4,79,0.009072117593017915
+Norway,1202,21333,458,8708,0140,Industrial production managers,2,75,0.008612769866789159
+Norway,1202,21333,458,8708,0845,Financial and investment analysts,4,75,0.008612769866789159
+Norway,1202,21333,458,8708,2751,Music directors and composers,2,72,0.008268259072117593
+Norway,1202,21333,458,8708,5740,"Secretaries and administrative assistants, except legal, medical, and executive",6,72,0.008268259072117593
+Norway,1202,21333,458,8708,1240,Other mathematical science occupations,5,70,0.008038585209003215
+Norway,1202,21333,458,8708,3160,Physical therapists,4,70,0.008038585209003215
+Norway,1202,21333,458,8708,0630,Human resources workers,4,64,0.007349563619660083
+Norway,1202,21333,458,8708,2600,Artists and related workers,3,63,0.007234726688102894
+Norway,1202,21333,458,8708,0020,General and operations managers,4,61,0.007005052824988516
+Norway,1202,21333,458,8708,3323,Radiologic technologists and technicians,1,61,0.007005052824988516
+Norway,1202,21333,458,8708,0340,Lodging managers,1,57,0.006545705098759761
+Norway,1202,21333,458,8708,2330,Special education teachers,4,57,0.006545705098759761
+Norway,1202,21333,458,8708,6230,Carpenters,2,55,0.006316031235645383
+Norway,1202,21333,458,8708,7750,Other assemblers and fabricators,1,55,0.006316031235645383
+Norway,1202,21333,458,8708,0735,Market research analysts and marketing specialists,2,52,0.0059715204409738175
+Norway,1202,21333,458,8708,1360,Civil engineers,3,52,0.0059715204409738175
+Norway,1202,21333,458,8708,0725,"Meeting, convention, and event planners",2,51,0.005856683509416628
+Norway,1202,21333,458,8708,0052,Sales managers,2,50,0.005741846577859439
+Norway,1202,21333,458,8708,4600,Childcare workers,2,50,0.005741846577859439
+Norway,1202,21333,458,8708,0230,Education and childcare administrators,4,49,0.005627009646302251
+Norway,1202,21333,458,8708,2710,Producers and directors,1,49,0.005627009646302251
+Norway,1202,21333,458,8708,4850,"Sales representatives, wholesale and manufacturing",4,48,0.005512172714745062
+Norway,1202,21333,458,8708,1305,"Architects, except landscape and naval",1,45,0.005167661920073495
+Norway,1202,21333,458,8708,1420,Environmental engineers,2,45,0.005167661920073495
+Norway,1202,21333,458,8708,4340,Animal trainers,1,45,0.005167661920073495
+Norway,1202,21333,458,8708,8990,"Miscellaneous production workers, including equipment operators and tenders",2,45,0.005167661920073495
+Norway,1202,21333,458,8708,2640,Other designers,2,44,0.005052824988516307
+Norway,1202,21333,458,8708,2850,Writers and authors,3,43,0.004937988056959118
+Norway,1202,21333,458,8708,7800,Bakers,1,43,0.004937988056959118
+Norway,1202,21333,458,8708,9310,Ship and boat captains and operators,2,43,0.004937988056959118
+Norway,1202,21333,458,8708,7315,"Heating, air conditioning, and refrigeration mechanics and installers",1,42,0.00482315112540193
+Norway,1202,21333,458,8708,0960,Other financial specialists,1,41,0.0047083141938447405
+Norway,1202,21333,458,8708,3602,Personal care aides,4,40,0.004593477262287551
+Norway,1202,21333,458,8708,7200,Automotive service technicians and mechanics,1,39,0.004478640330730363
+Norway,1202,21333,458,8708,1320,Aerospace engineers,2,38,0.004363803399173174
+Norway,1202,21333,458,8708,1555,"Other engineering technologists and technicians, except drafters",3,38,0.004363803399173174
+Norway,1202,21333,458,8708,8350,"Tailors, dressmakers, and sewers",1,38,0.004363803399173174
+Norway,1202,21333,458,8708,1410,Electrical and electronics engineers,1,37,0.004248966467615986
+Norway,1202,21333,458,8708,4521,Manicurists and pedicurists,2,37,0.004248966467615986
+Norway,1202,21333,458,8708,8255,Printing press operators,1,37,0.004248966467615986
+Norway,1202,21333,458,8708,1825,Other psychologists,2,36,0.004134129536058797
+Norway,1202,21333,458,8708,2360,Other teachers and instructors,2,36,0.004134129536058797
+Norway,1202,21333,458,8708,9825,Military enlisted tactical operations and air/weapons specialists and crew members,2,35,0.0040192926045016075
+Norway,1202,21333,458,8708,2400,"Archivists, curators, and museum technicians",1,34,0.0039044556729444188
+Norway,1202,21333,458,8708,4621,Exercise trainers and group fitness instructors,2,33,0.00378961874138723
+Norway,1202,21333,458,8708,5410,Reservation and transportation ticket agents and travel clerks,1,33,0.00378961874138723
+Norway,1202,21333,458,8708,0565,Compliance officers,1,32,0.0036747818098300414
+Norway,1202,21333,458,8708,6710,Fence erectors,1,32,0.0036747818098300414
+Norway,1202,21333,458,8708,2545,Teaching assistants,2,31,0.0035599448782728527
+Norway,1202,21333,458,8708,2001,Substance abuse and behavioral disorder counselors,2,30,0.003445107946715664
+Norway,1202,21333,458,8708,2040,Clergy,2,30,0.003445107946715664
+Norway,1202,21333,458,8708,2300,Preschool and kindergarten teachers,2,30,0.003445107946715664
+Norway,1202,21333,458,8708,2770,"Entertainers and performers, sports and related workers, all other",2,30,0.003445107946715664
+Norway,1202,21333,458,8708,6260,Construction laborers,2,30,0.003445107946715664
+Norway,1202,21333,458,8708,0850,Personal financial advisors,2,29,0.003330271015158475
+Norway,1202,21333,458,8708,1650,Other life scientists,2,29,0.003330271015158475
+Norway,1202,21333,458,8708,0540,"Claims adjusters, appraisers, examiners, and investigators",2,28,0.003215434083601286
+Norway,1202,21333,458,8708,1460,Mechanical engineers,1,28,0.003215434083601286
+Norway,1202,21333,458,8708,4920,Real estate brokers and sales agents,3,28,0.003215434083601286
+Norway,1202,21333,458,8708,7700,First-line supervisors of production and operating workers,2,28,0.003215434083601286
+Norway,1202,21333,458,8708,9620,"Laborers and freight, stock, and material movers, hand",1,28,0.003215434083601286
+Norway,1202,21333,458,8708,5000,First-line supervisors of office and administrative support workers,3,27,0.0031005971520440974
+Norway,1202,21333,458,8708,6005,"First-line supervisors of farming, fishing, and forestry workers",1,27,0.0031005971520440974
+Norway,1202,21333,458,8708,0110,Computer and information systems managers,2,26,0.0029857602204869087
+Norway,1202,21333,458,8708,4820,"Securities, commodities, and financial services sales agents",1,26,0.0029857602204869087
+Norway,1202,21333,458,8708,0051,Marketing managers,2,25,0.0028709232889297196
+Norway,1202,21333,458,8708,2002,"Educational, guidance, and career counselors and advisors",1,25,0.0028709232889297196
+Norway,1202,21333,458,8708,3655,Other healthcare support workers,1,25,0.0028709232889297196
+Norway,1202,21333,458,8708,2865,"Media and communication workers, all other",1,24,0.002756086357372531
+Norway,1202,21333,458,8708,4810,Insurance sales agents,2,23,0.002641249425815342
+Norway,1202,21333,458,8708,1610,Biological scientists,2,22,0.0025264124942581535
+Norway,1202,21333,458,8708,2634,Graphic designers,1,22,0.0025264124942581535
+Norway,1202,21333,458,8708,4930,Sales engineers,1,22,0.0025264124942581535
+Norway,1202,21333,458,8708,5110,Billing and posting clerks,3,22,0.0025264124942581535
+Norway,1202,21333,458,8708,5120,"Bookkeeping, accounting, and auditing clerks",2,22,0.0025264124942581535
+Norway,1202,21333,458,8708,4710,First-line supervisors of non-retail sales workers,2,21,0.002411575562700965
+Norway,1202,21333,458,8708,0700,Logisticians,1,20,0.0022967386311437757
+Norway,1202,21333,458,8708,1970,"Other life, physical, and social science technicians",2,20,0.0022967386311437757
+Norway,1202,21333,458,8708,4622,Recreation workers,1,20,0.0022967386311437757
+Norway,1202,21333,458,8708,4950,"Door-to-door sales workers, news and street vendors, and related workers",1,20,0.0022967386311437757
+Norway,1202,21333,458,8708,5710,Executive secretaries and executive administrative assistants,1,20,0.0022967386311437757
+Norway,1202,21333,458,8708,3870,Police officers,1,18,0.0020670647680293983
+Norway,1202,21333,458,8708,0150,Purchasing managers,1,17,0.0019522278364722094
+Norway,1202,21333,458,8708,0220,Construction managers,1,17,0.0019522278364722094
+Norway,1202,21333,458,8708,0750,"Business operations specialists, all other",1,16,0.0018373909049150207
+Norway,1202,21333,458,8708,1710,Atmospheric and space scientists,1,16,0.0018373909049150207
+Norway,1202,21333,458,8708,5510,Couriers and messengers,1,16,0.0018373909049150207
+Norway,1202,21333,458,8708,1108,"Computer occupations, all other",2,15,0.001722553973357832
+Norway,1202,21333,458,8708,4800,Advertising sales agents,1,14,0.001607717041800643
+Norway,1202,21333,458,8708,1050,Computer support specialists,1,13,0.0014928801102434544
+Norway,1202,21333,458,8708,2632,Fashion designers,1,13,0.0014928801102434544
+Norway,1202,21333,458,8708,3050,Pharmacists,1,13,0.0014928801102434544
+Norway,1202,21333,458,8708,3648,Veterinary assistants and laboratory animal caretakers,1,13,0.0014928801102434544
+Norway,1202,21333,458,8708,2721,Athletes and sports competitors,1,12,0.0013780431786862655
+Norway,1202,21333,458,8708,4040,Bartenders,1,12,0.0013780431786862655
+Norway,1202,21333,458,8708,4435,Other entertainment attendants and related workers,1,12,0.0013780431786862655
+Norway,1202,21333,458,8708,5240,Customer service representatives,2,12,0.0013780431786862655
+Norway,1202,21333,458,8708,8620,Water and wastewater treatment plant and system operators,1,12,0.0013780431786862655
+Norway,1202,21333,458,8708,0860,Insurance underwriters,1,11,0.0012632062471290768
+Norway,1202,21333,458,8708,1031,Web developers,1,11,0.0012632062471290768
+Norway,1202,21333,458,8708,1220,Operations research analysts,1,11,0.0012632062471290768
+Norway,1202,21333,458,8708,1822,School psychologists,1,11,0.0012632062471290768
+Norway,1202,21333,458,8708,3930,Security guards and gaming surveillance officers,1,11,0.0012632062471290768
+Norway,1202,21333,458,8708,4640,Residential advisors,2,11,0.0012632062471290768
+Norway,1202,21333,458,8708,0310,Food service managers,1,10,0.0011483693155718878
+Norway,1202,21333,458,8708,0520,"Wholesale and retail buyers, except farm products",1,10,0.0011483693155718878
+Norway,1202,21333,458,8708,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",1,10,0.0011483693155718878
+Norway,1202,21333,458,8708,5330,Loan interviewers and clerks,1,10,0.0011483693155718878
+Norway,1202,21333,458,8708,1720,Chemists and materials scientists,1,9,0.0010335323840146991
+Norway,1202,21333,458,8708,6355,Electricians,1,9,0.0010335323840146991
+Norway,1202,21333,458,8708,7340,"Maintenance and repair workers, general",1,9,0.0010335323840146991
+Norway,1202,21333,458,8708,2145,Paralegals and legal assistants,1,8,9.186954524575103e-4
+Norway,1202,21333,458,8708,3100,Surgeons,1,8,9.186954524575103e-4
+Norway,1202,21333,458,8708,4020,Cooks,1,8,9.186954524575103e-4
+Norway,1202,21333,458,8708,4830,Travel agents,1,8,9.186954524575103e-4
+Norway,1202,21333,458,8708,9122,"Bus drivers, transit and intercity",1,8,9.186954524575103e-4
+Norway,1202,21333,458,8708,0160,"Transportation, storage, and distribution managers",1,7,8.038585209003215e-4
+Norway,1202,21333,458,8708,0350,Medical and health services managers,1,7,8.038585209003215e-4
+Norway,1202,21333,458,8708,3000,Chiropractors,1,7,8.038585209003215e-4
+Norway,1202,21333,458,8708,5940,Other office and administrative support workers,1,7,8.038585209003215e-4
+Norway,1202,21333,458,8708,5220,"Court, municipal, and license clerks",1,6,6.890215893431327e-4
+Norway,1202,21333,458,8708,5810,Data entry keyers,1,6,6.890215893431327e-4
+Norway,1202,21333,458,8708,1400,Computer hardware engineers,1,5,5.741846577859439e-4
+Norway,1202,21333,458,8708,7330,Industrial and refractory machinery mechanics,1,5,5.741846577859439e-4
+Norway,1202,21333,458,8708,8225,Other metal workers and plastic workers,1,5,5.741846577859439e-4
+Norway,1202,21333,458,8708,0410,"Property, real estate, and community association managers",1,4,4.5934772622875517e-4
+Norway,1202,21333,458,8708,2170,"Title examiners, abstractors, and searchers",1,4,4.5934772622875517e-4
+Norway,1202,21333,458,8708,3603,Nursing assistants,1,4,4.5934772622875517e-4
+Norway,1202,21333,458,8708,4540,Tour and travel guides,1,4,4.5934772622875517e-4
+Norway,1202,21333,458,8708,5165,Other financial clerks,1,4,4.5934772622875517e-4
+Norway,1202,21333,458,8708,0205,"Farmers, ranchers, and other agricultural managers",1,3,3.4451079467156636e-4
+Norway,1202,21333,458,8708,2435,Librarians and media collections specialists,1,3,3.4451079467156636e-4
+Norway,1202,21333,458,8708,2006,"Counselors, all other",1,2,2.2967386311437759e-4
+Norway,1202,21333,458,8708,7100,"Other electrical and electronic equipment mechanics, installers, and repairers",1,2,2.2967386311437759e-4
+Norway,1202,21333,458,8708,8030,Machinists,1,2,2.2967386311437759e-4
+Norway,1202,21333,458,8708,9610,Cleaners of vehicles and equipment,1,2,2.2967386311437759e-4
