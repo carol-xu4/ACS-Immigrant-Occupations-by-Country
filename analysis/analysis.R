@@ -1,11 +1,22 @@
-## Preliminaries -------------------------------------------------------------------------------
+## Preliminaries---
 if (!require("pacman")) install.packages("pacman")
-pacman::p_load(matrixStats, tidyverse, ggthemes, readxl, data.table, gdata, ipumsr)
+pacman::p_load(matrixStats, tidyverse, ggthemes, readxl, data.table, gdata, ipumsr, rvest)
 
 setwd("C:/Users/CarolXu/OneDrive - Cato Institute/Desktop/ACS Immigrant Occupations by Country")
 
-## Read cleaned ACS -----------------------------------------------------------------------------
+## Read cleaned ACS-
 acs = read_rds("data/output/acs.RDS")
+
+# adding ipums occ labels
+occ_labels = read_html("https://usa.ipums.org/usa/volii/occ2018.shtml") %>%
+  html_elements("table") %>% .[[2]] %>%
+  html_table(header = FALSE) %>%
+  select(occ = X1, occ_title = X2) %>%
+  filter(str_detect(occ, "^\\d{3,4}$")) %>%          # drop section headings
+  mutate(occ = sprintf("%04d", as.integer(occ))) %>%
+  distinct(occ, .keep_all = TRUE)
+
+write_csv(occ_labels, "data/output/occ2018_labels.csv") 
 
 # counts by country, immigrants only (naturalized citizens and noncitizens)
 bpl_table = acs %>%
@@ -190,6 +201,79 @@ visa_bpl = visas %>%
 visa_bpl %>% anti_join(acs_bpl, by = "country")   
 acs_bpl %>% anti_join(visa_bpl, by = "country")  
 
+# ACS groupings by region
+acs = acs %>%
+  mutate(bpl_region = case_when(
+    bpld < 10000                 ~ "United States",
+    bpld < 15000 | bpld == 71047 ~ "US Territories",                # Puerto Rico, Guam, USVI, American Samoa, Northern Mariana Islands
+    bpld < 20000                 ~ "Other North America",           # Canada, Bermuda, Cape Verde
+    bpld < 30000                 ~ "Central America and Caribbean", # Mexico, Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panama, Cuba, Dominican Republic, Haiti, Jamaica, Bahamas, Barbados, etc.
+    bpld < 40000                 ~ "South America",                 # Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Uruguay, Venezuela
+
+    # Europe
+    bpld < 42000                 ~ "Northern Europe",               # Denmark, Finland, Iceland, Norway, Sweden, England, Scotland, Northern Ireland, Ireland
+    bpld < 43000                 ~ "Western Europe",                # Belgium, France, Netherlands, Switzerland
+    bpld < 45000                 ~ "Southern Europe",               # Albania, Greece, North Macedonia, Italy, Portugal (incl. Azores), Spain
+    bpld < 47000                 ~ "Central/Eastern Europe",        # Austria, Germany, Czech Republic, Slovakia, Hungary, Poland, Romania, Bulgaria, former Yugoslavia, Russia, Ukraine, Belarus, Moldova, Baltics, Caucasus, Kazakhstan, Kyrgyzstan, Uzbekistan
+    bpld < 50000                 ~ "Other Europe",                  # 49900 Europe, n.s.
+
+    # Asia
+    bpld < 51000                 ~ "East Asia",                     # China, Hong Kong, Taiwan, Mongolia, Japan, Korea
+    bpld < 52000                 ~ "Southeast Asia",                # Cambodia, Indonesia, Laos, Malaysia, Philippines, Singapore, Thailand, Vietnam
+    bpld < 53000                 ~ "India/Southwest Asia",          # Afghanistan, India, Bangladesh, Bhutan, Burma, Pakistan, Sri Lanka, Iran, Nepal
+    bpld < 55000                 ~ "Middle East/Asia Minor",        # Iraq, Israel/Palestine, Jordan, Kuwait, Lebanon, Saudi Arabia, Syria, Turkey, UAE, Yemen
+    bpld < 60000                 ~ "Other Asia",                    # 59900 Asia, n.e.c./n.s.
+
+    bpld < 70000                 ~ "Africa",                        # all African countries and n.s. codes
+    bpld < 80000                 ~ "Oceania",                       # Australia, New Zealand, Fiji, Tonga, Marshall Islands, Micronesia
+    TRUE                         ~ "Other/Unknown"                  # 95000 Other n.e.c.
+  ))
+
+acs %>%
+  distinct(bpl_region, country) %>%
+  arrange(bpl_region, country) %>%
+  print(n = Inf)
+
+# occupations by region
+region_table = acs %>%
+    filter(country != "United States", citizen %in% c(2, 3)) %>%
+    group_by(bpl_region) %>%
+    summarise(n = n(),
+        pop = sum(perwt),
+        n_workers_18_64 = sum(empstat == 1 & age >= 18 & age <= 64),
+        workers_18_64 = sum(perwt[empstat == 1 & age >= 18 & age <= 64]),
+        .groups = "drop")
+
+region_occ = acs %>%
+    filter(country != "United States", citizen %in% c(2, 3),
+        empstat == 1, age >= 18, age <= 64) %>%
+    mutate(occ = sprintf("%04d", as.integer(zap_labels(occ)))) %>%
+    group_by(bpl_region, occ) %>%
+    summarise(occ_n = n(),
+        occ_workers = sum(perwt),
+        .groups = "drop_last") %>%
+    mutate(occ_share = occ_workers / sum(occ_workers)) %>%
+    arrange(desc(occ_workers), .by_group = TRUE) %>%
+    ungroup() %>%
+    left_join(occ_labels, by = "occ") %>%
+    relocate(occ_title, .after = occ)
+
+region_table = region_table %>%
+    left_join(region_occ, by = "bpl_region") %>%
+    arrange(desc(pop), desc(occ_workers))
+
+view(region_table)
+
+write_csv(region_table, "results/region_occupations.csv")
+
+dir.create("results/region_tables", recursive = TRUE, showWarnings = FALSE)
+
+# individual csvs for each region
+for (r in unique(region_table$bpl_region)) {
+    out = region_table %>%
+        filter(bpl_region == r)
+    fname = str_replace_all(r, "[^A-Za-z0-9]+", "_")
+    write_csv(out, file.path("results/region_tables", paste0(fname, ".csv")))}
 
 
 
@@ -201,8 +285,3 @@ acs_bpl %>% anti_join(visa_bpl, by = "country")
 
 
 
-
-
-
-
-# census country groupings
