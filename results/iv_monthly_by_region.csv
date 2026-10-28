@@ -1,0 +1,960 @@
+bpl_region,month_date,issuances
+Africa,2021-02-01,2048
+Africa,2021-03-01,2933
+Africa,2021-04-01,3579
+Africa,2021-05-01,3078
+Africa,2021-06-01,4171
+Africa,2021-07-01,4063
+Africa,2021-08-01,5087
+Africa,2021-09-01,6128
+Africa,2021-10-01,3064
+Africa,2021-11-01,3531
+Africa,2021-12-01,2634
+Africa,2022-01-01,3286
+Africa,2022-02-01,3943
+Africa,2022-03-01,5080
+Africa,2022-04-01,4713
+Africa,2022-05-01,4721
+Africa,2022-06-01,5148
+Africa,2022-07-01,4415
+Africa,2022-08-01,7369
+Africa,2022-09-01,8848
+Africa,2022-10-01,3707
+Africa,2022-11-01,3895
+Africa,2022-12-01,3856
+Africa,2023-01-01,4372
+Africa,2023-02-01,4876
+Africa,2023-03-01,5913
+Africa,2023-04-01,4860
+Africa,2023-05-01,6215
+Africa,2023-06-01,5568
+Africa,2023-07-01,5819
+Africa,2023-08-01,7129
+Africa,2023-09-01,4465
+Africa,2023-10-01,5351
+Africa,2023-11-01,5476
+Africa,2023-12-01,5151
+Africa,2024-01-01,5908
+Africa,2024-02-01,7237
+Africa,2024-03-01,7643
+Africa,2024-04-01,7157
+Africa,2024-05-01,7332
+Africa,2024-06-01,6566
+Africa,2024-07-01,7509
+Africa,2024-08-01,8265
+Africa,2024-09-01,8460
+Africa,2024-10-01,7559
+Africa,2024-11-01,6716
+Africa,2024-12-01,7271
+Africa,2025-01-01,6982
+Africa,2025-02-01,7009
+Africa,2025-03-01,6896
+Africa,2025-04-01,7676
+Africa,2025-05-01,7254
+Africa,2025-06-01,6938
+Africa,2025-07-01,7725
+Africa,2025-08-01,7236
+Africa,2025-09-01,7495
+Africa,2025-10-01,6984
+Africa,2025-11-01,6156
+Africa,2025-12-01,7708
+Africa,2026-01-01,2840
+Africa,2026-02-01,695
+Central America and Caribbean,2021-02-01,3914
+Central America and Caribbean,2021-03-01,5610
+Central America and Caribbean,2021-04-01,6910
+Central America and Caribbean,2021-05-01,8303
+Central America and Caribbean,2021-06-01,12969
+Central America and Caribbean,2021-07-01,14598
+Central America and Caribbean,2021-08-01,15902
+Central America and Caribbean,2021-09-01,16806
+Central America and Caribbean,2021-10-01,15754
+Central America and Caribbean,2021-11-01,13770
+Central America and Caribbean,2021-12-01,15992
+Central America and Caribbean,2022-01-01,12567
+Central America and Caribbean,2022-02-01,13661
+Central America and Caribbean,2022-03-01,16243
+Central America and Caribbean,2022-04-01,13688
+Central America and Caribbean,2022-05-01,16086
+Central America and Caribbean,2022-06-01,17652
+Central America and Caribbean,2022-07-01,13316
+Central America and Caribbean,2022-08-01,18329
+Central America and Caribbean,2022-09-01,18356
+Central America and Caribbean,2022-10-01,19344
+Central America and Caribbean,2022-11-01,17829
+Central America and Caribbean,2022-12-01,18881
+Central America and Caribbean,2023-01-01,17260
+Central America and Caribbean,2023-02-01,16909
+Central America and Caribbean,2023-03-01,25217
+Central America and Caribbean,2023-04-01,17586
+Central America and Caribbean,2023-05-01,20275
+Central America and Caribbean,2023-06-01,19122
+Central America and Caribbean,2023-07-01,17512
+Central America and Caribbean,2023-08-01,15651
+Central America and Caribbean,2023-09-01,15340
+Central America and Caribbean,2023-10-01,17043
+Central America and Caribbean,2023-11-01,16205
+Central America and Caribbean,2023-12-01,17391
+Central America and Caribbean,2024-01-01,17287
+Central America and Caribbean,2024-02-01,17245
+Central America and Caribbean,2024-03-01,16519
+Central America and Caribbean,2024-04-01,19728
+Central America and Caribbean,2024-05-01,17971
+Central America and Caribbean,2024-06-01,16836
+Central America and Caribbean,2024-07-01,19389
+Central America and Caribbean,2024-08-01,18324
+Central America and Caribbean,2024-09-01,18694
+Central America and Caribbean,2024-10-01,19077
+Central America and Caribbean,2024-11-01,13459
+Central America and Caribbean,2024-12-01,13670
+Central America and Caribbean,2025-01-01,16802
+Central America and Caribbean,2025-02-01,16767
+Central America and Caribbean,2025-03-01,17637
+Central America and Caribbean,2025-04-01,15446
+Central America and Caribbean,2025-05-01,13768
+Central America and Caribbean,2025-06-01,14062
+Central America and Caribbean,2025-07-01,12250
+Central America and Caribbean,2025-08-01,11342
+Central America and Caribbean,2025-09-01,13965
+Central America and Caribbean,2025-10-01,16176
+Central America and Caribbean,2025-11-01,12883
+Central America and Caribbean,2025-12-01,14645
+Central America and Caribbean,2026-01-01,14134
+Central America and Caribbean,2026-02-01,13138
+Central/Eastern Europe,2021-02-01,377
+Central/Eastern Europe,2021-03-01,709
+Central/Eastern Europe,2021-04-01,1027
+Central/Eastern Europe,2021-05-01,1470
+Central/Eastern Europe,2021-06-01,1936
+Central/Eastern Europe,2021-07-01,1896
+Central/Eastern Europe,2021-08-01,2118
+Central/Eastern Europe,2021-09-01,3751
+Central/Eastern Europe,2021-10-01,1754
+Central/Eastern Europe,2021-11-01,1768
+Central/Eastern Europe,2021-12-01,1692
+Central/Eastern Europe,2022-01-01,1457
+Central/Eastern Europe,2022-02-01,1716
+Central/Eastern Europe,2022-03-01,2506
+Central/Eastern Europe,2022-04-01,2583
+Central/Eastern Europe,2022-05-01,2904
+Central/Eastern Europe,2022-06-01,3737
+Central/Eastern Europe,2022-07-01,3443
+Central/Eastern Europe,2022-08-01,4529
+Central/Eastern Europe,2022-09-01,4902
+Central/Eastern Europe,2022-10-01,1929
+Central/Eastern Europe,2022-11-01,2432
+Central/Eastern Europe,2022-12-01,2157
+Central/Eastern Europe,2023-01-01,2461
+Central/Eastern Europe,2023-02-01,2477
+Central/Eastern Europe,2023-03-01,3615
+Central/Eastern Europe,2023-04-01,3461
+Central/Eastern Europe,2023-05-01,3307
+Central/Eastern Europe,2023-06-01,3079
+Central/Eastern Europe,2023-07-01,2642
+Central/Eastern Europe,2023-08-01,3070
+Central/Eastern Europe,2023-09-01,1501
+Central/Eastern Europe,2023-10-01,1976
+Central/Eastern Europe,2023-11-01,1997
+Central/Eastern Europe,2023-12-01,1820
+Central/Eastern Europe,2024-01-01,2349
+Central/Eastern Europe,2024-02-01,2779
+Central/Eastern Europe,2024-03-01,2409
+Central/Eastern Europe,2024-04-01,2307
+Central/Eastern Europe,2024-05-01,2014
+Central/Eastern Europe,2024-06-01,2382
+Central/Eastern Europe,2024-07-01,2762
+Central/Eastern Europe,2024-08-01,2803
+Central/Eastern Europe,2024-09-01,2828
+Central/Eastern Europe,2024-10-01,2637
+Central/Eastern Europe,2024-11-01,2055
+Central/Eastern Europe,2024-12-01,1845
+Central/Eastern Europe,2025-01-01,2937
+Central/Eastern Europe,2025-02-01,2219
+Central/Eastern Europe,2025-03-01,2024
+Central/Eastern Europe,2025-04-01,2572
+Central/Eastern Europe,2025-05-01,1697
+Central/Eastern Europe,2025-06-01,1851
+Central/Eastern Europe,2025-07-01,2037
+Central/Eastern Europe,2025-08-01,2094
+Central/Eastern Europe,2025-09-01,2322
+Central/Eastern Europe,2025-10-01,2421
+Central/Eastern Europe,2025-11-01,2014
+Central/Eastern Europe,2025-12-01,1578
+Central/Eastern Europe,2026-01-01,780
+Central/Eastern Europe,2026-02-01,435
+East Asia,2021-02-01,380
+East Asia,2021-03-01,883
+East Asia,2021-04-01,2436
+East Asia,2021-05-01,3212
+East Asia,2021-06-01,4588
+East Asia,2021-07-01,4687
+East Asia,2021-08-01,3896
+East Asia,2021-09-01,3779
+East Asia,2021-10-01,3168
+East Asia,2021-11-01,3387
+East Asia,2021-12-01,3366
+East Asia,2022-01-01,2422
+East Asia,2022-02-01,1706
+East Asia,2022-03-01,2689
+East Asia,2022-04-01,2044
+East Asia,2022-05-01,2080
+East Asia,2022-06-01,2409
+East Asia,2022-07-01,2281
+East Asia,2022-08-01,2941
+East Asia,2022-09-01,4254
+East Asia,2022-10-01,2034
+East Asia,2022-11-01,2574
+East Asia,2022-12-01,1863
+East Asia,2023-01-01,1385
+East Asia,2023-02-01,2696
+East Asia,2023-03-01,3745
+East Asia,2023-04-01,2978
+East Asia,2023-05-01,2977
+East Asia,2023-06-01,2851
+East Asia,2023-07-01,1750
+East Asia,2023-08-01,2181
+East Asia,2023-09-01,1737
+East Asia,2023-10-01,2055
+East Asia,2023-11-01,2102
+East Asia,2023-12-01,1644
+East Asia,2024-01-01,2933
+East Asia,2024-02-01,2434
+East Asia,2024-03-01,3788
+East Asia,2024-04-01,3727
+East Asia,2024-05-01,3966
+East Asia,2024-06-01,3875
+East Asia,2024-07-01,5203
+East Asia,2024-08-01,4111
+East Asia,2024-09-01,1154
+East Asia,2024-10-01,4483
+East Asia,2024-11-01,3799
+East Asia,2024-12-01,3907
+East Asia,2025-01-01,2810
+East Asia,2025-02-01,2500
+East Asia,2025-03-01,3178
+East Asia,2025-04-01,2095
+East Asia,2025-05-01,2425
+East Asia,2025-06-01,2385
+East Asia,2025-07-01,3542
+East Asia,2025-08-01,2921
+East Asia,2025-09-01,1740
+East Asia,2025-10-01,2374
+East Asia,2025-11-01,2513
+East Asia,2025-12-01,2591
+East Asia,2026-01-01,2724
+East Asia,2026-02-01,2001
+India/Southwest Asia,2021-02-01,2541
+India/Southwest Asia,2021-03-01,3965
+India/Southwest Asia,2021-04-01,2928
+India/Southwest Asia,2021-05-01,2292
+India/Southwest Asia,2021-06-01,5365
+India/Southwest Asia,2021-07-01,7007
+India/Southwest Asia,2021-08-01,8328
+India/Southwest Asia,2021-09-01,5595
+India/Southwest Asia,2021-10-01,3615
+India/Southwest Asia,2021-11-01,3739
+India/Southwest Asia,2021-12-01,4488
+India/Southwest Asia,2022-01-01,3801
+India/Southwest Asia,2022-02-01,4912
+India/Southwest Asia,2022-03-01,6737
+India/Southwest Asia,2022-04-01,6385
+India/Southwest Asia,2022-05-01,5635
+India/Southwest Asia,2022-06-01,8772
+India/Southwest Asia,2022-07-01,7849
+India/Southwest Asia,2022-08-01,10225
+India/Southwest Asia,2022-09-01,9027
+India/Southwest Asia,2022-10-01,6771
+India/Southwest Asia,2022-11-01,7186
+India/Southwest Asia,2022-12-01,7369
+India/Southwest Asia,2023-01-01,8231
+India/Southwest Asia,2023-02-01,7739
+India/Southwest Asia,2023-03-01,9650
+India/Southwest Asia,2023-04-01,8088
+India/Southwest Asia,2023-05-01,10444
+India/Southwest Asia,2023-06-01,8886
+India/Southwest Asia,2023-07-01,7051
+India/Southwest Asia,2023-08-01,7632
+India/Southwest Asia,2023-09-01,7147
+India/Southwest Asia,2023-10-01,7533
+India/Southwest Asia,2023-11-01,8637
+India/Southwest Asia,2023-12-01,9061
+India/Southwest Asia,2024-01-01,10430
+India/Southwest Asia,2024-02-01,10670
+India/Southwest Asia,2024-03-01,9940
+India/Southwest Asia,2024-04-01,10261
+India/Southwest Asia,2024-05-01,12521
+India/Southwest Asia,2024-06-01,9727
+India/Southwest Asia,2024-07-01,11515
+India/Southwest Asia,2024-08-01,11256
+India/Southwest Asia,2024-09-01,12089
+India/Southwest Asia,2024-10-01,13492
+India/Southwest Asia,2024-11-01,11269
+India/Southwest Asia,2024-12-01,12379
+India/Southwest Asia,2025-01-01,10156
+India/Southwest Asia,2025-02-01,8884
+India/Southwest Asia,2025-03-01,7805
+India/Southwest Asia,2025-04-01,7642
+India/Southwest Asia,2025-05-01,7054
+India/Southwest Asia,2025-06-01,6398
+India/Southwest Asia,2025-07-01,6933
+India/Southwest Asia,2025-08-01,7783
+India/Southwest Asia,2025-09-01,8144
+India/Southwest Asia,2025-10-01,8445
+India/Southwest Asia,2025-11-01,7411
+India/Southwest Asia,2025-12-01,6244
+India/Southwest Asia,2026-01-01,3869
+India/Southwest Asia,2026-02-01,2330
+Middle East/Asia Minor,2021-02-01,841
+Middle East/Asia Minor,2021-03-01,1251
+Middle East/Asia Minor,2021-04-01,1774
+Middle East/Asia Minor,2021-05-01,1233
+Middle East/Asia Minor,2021-06-01,1491
+Middle East/Asia Minor,2021-07-01,1443
+Middle East/Asia Minor,2021-08-01,2036
+Middle East/Asia Minor,2021-09-01,2277
+Middle East/Asia Minor,2021-10-01,1385
+Middle East/Asia Minor,2021-11-01,1714
+Middle East/Asia Minor,2021-12-01,1757
+Middle East/Asia Minor,2022-01-01,1555
+Middle East/Asia Minor,2022-02-01,1635
+Middle East/Asia Minor,2022-03-01,2235
+Middle East/Asia Minor,2022-04-01,1513
+Middle East/Asia Minor,2022-05-01,1512
+Middle East/Asia Minor,2022-06-01,1870
+Middle East/Asia Minor,2022-07-01,2118
+Middle East/Asia Minor,2022-08-01,2426
+Middle East/Asia Minor,2022-09-01,2612
+Middle East/Asia Minor,2022-10-01,1602
+Middle East/Asia Minor,2022-11-01,1729
+Middle East/Asia Minor,2022-12-01,1746
+Middle East/Asia Minor,2023-01-01,2290
+Middle East/Asia Minor,2023-02-01,2099
+Middle East/Asia Minor,2023-03-01,2566
+Middle East/Asia Minor,2023-04-01,2102
+Middle East/Asia Minor,2023-05-01,2360
+Middle East/Asia Minor,2023-06-01,1629
+Middle East/Asia Minor,2023-07-01,1955
+Middle East/Asia Minor,2023-08-01,2056
+Middle East/Asia Minor,2023-09-01,1369
+Middle East/Asia Minor,2023-10-01,1485
+Middle East/Asia Minor,2023-11-01,2275
+Middle East/Asia Minor,2023-12-01,1815
+Middle East/Asia Minor,2024-01-01,2121
+Middle East/Asia Minor,2024-02-01,2025
+Middle East/Asia Minor,2024-03-01,2219
+Middle East/Asia Minor,2024-04-01,2064
+Middle East/Asia Minor,2024-05-01,2209
+Middle East/Asia Minor,2024-06-01,1868
+Middle East/Asia Minor,2024-07-01,2575
+Middle East/Asia Minor,2024-08-01,3413
+Middle East/Asia Minor,2024-09-01,3481
+Middle East/Asia Minor,2024-10-01,3418
+Middle East/Asia Minor,2024-11-01,3086
+Middle East/Asia Minor,2024-12-01,3057
+Middle East/Asia Minor,2025-01-01,3108
+Middle East/Asia Minor,2025-02-01,3019
+Middle East/Asia Minor,2025-03-01,2916
+Middle East/Asia Minor,2025-04-01,2707
+Middle East/Asia Minor,2025-05-01,2505
+Middle East/Asia Minor,2025-06-01,1963
+Middle East/Asia Minor,2025-07-01,2200
+Middle East/Asia Minor,2025-08-01,2155
+Middle East/Asia Minor,2025-09-01,1932
+Middle East/Asia Minor,2025-10-01,2339
+Middle East/Asia Minor,2025-11-01,1976
+Middle East/Asia Minor,2025-12-01,2185
+Middle East/Asia Minor,2026-01-01,847
+Middle East/Asia Minor,2026-02-01,576
+Northern Europe,2021-02-01,136
+Northern Europe,2021-03-01,246
+Northern Europe,2021-04-01,198
+Northern Europe,2021-05-01,222
+Northern Europe,2021-06-01,197
+Northern Europe,2021-07-01,190
+Northern Europe,2021-08-01,256
+Northern Europe,2021-09-01,301
+Northern Europe,2021-10-01,253
+Northern Europe,2021-11-01,237
+Northern Europe,2021-12-01,212
+Northern Europe,2022-01-01,270
+Northern Europe,2022-02-01,272
+Northern Europe,2022-03-01,302
+Northern Europe,2022-04-01,254
+Northern Europe,2022-05-01,237
+Northern Europe,2022-06-01,216
+Northern Europe,2022-07-01,193
+Northern Europe,2022-08-01,197
+Northern Europe,2022-09-01,195
+Northern Europe,2022-10-01,187
+Northern Europe,2022-11-01,233
+Northern Europe,2022-12-01,207
+Northern Europe,2023-01-01,241
+Northern Europe,2023-02-01,235
+Northern Europe,2023-03-01,275
+Northern Europe,2023-04-01,207
+Northern Europe,2023-05-01,250
+Northern Europe,2023-06-01,253
+Northern Europe,2023-07-01,234
+Northern Europe,2023-08-01,224
+Northern Europe,2023-09-01,253
+Northern Europe,2023-10-01,235
+Northern Europe,2023-11-01,215
+Northern Europe,2023-12-01,228
+Northern Europe,2024-01-01,290
+Northern Europe,2024-02-01,202
+Northern Europe,2024-03-01,248
+Northern Europe,2024-04-01,279
+Northern Europe,2024-05-01,214
+Northern Europe,2024-06-01,221
+Northern Europe,2024-07-01,219
+Northern Europe,2024-08-01,215
+Northern Europe,2024-09-01,185
+Northern Europe,2024-10-01,300
+Northern Europe,2024-11-01,238
+Northern Europe,2024-12-01,215
+Northern Europe,2025-01-01,313
+Northern Europe,2025-02-01,207
+Northern Europe,2025-03-01,255
+Northern Europe,2025-04-01,222
+Northern Europe,2025-05-01,198
+Northern Europe,2025-06-01,205
+Northern Europe,2025-07-01,201
+Northern Europe,2025-08-01,196
+Northern Europe,2025-09-01,193
+Northern Europe,2025-10-01,321
+Northern Europe,2025-11-01,189
+Northern Europe,2025-12-01,241
+Northern Europe,2026-01-01,251
+Northern Europe,2026-02-01,236
+Oceania,2021-02-01,72
+Oceania,2021-03-01,67
+Oceania,2021-04-01,120
+Oceania,2021-05-01,89
+Oceania,2021-06-01,132
+Oceania,2021-07-01,106
+Oceania,2021-08-01,265
+Oceania,2021-09-01,224
+Oceania,2021-10-01,55
+Oceania,2021-11-01,138
+Oceania,2021-12-01,97
+Oceania,2022-01-01,105
+Oceania,2022-02-01,132
+Oceania,2022-03-01,193
+Oceania,2022-04-01,183
+Oceania,2022-05-01,117
+Oceania,2022-06-01,336
+Oceania,2022-07-01,295
+Oceania,2022-08-01,199
+Oceania,2022-09-01,225
+Oceania,2022-10-01,68
+Oceania,2022-11-01,120
+Oceania,2022-12-01,189
+Oceania,2023-01-01,143
+Oceania,2023-02-01,228
+Oceania,2023-03-01,185
+Oceania,2023-04-01,107
+Oceania,2023-05-01,200
+Oceania,2023-06-01,143
+Oceania,2023-07-01,156
+Oceania,2023-08-01,94
+Oceania,2023-09-01,197
+Oceania,2023-10-01,143
+Oceania,2023-11-01,128
+Oceania,2023-12-01,144
+Oceania,2024-01-01,157
+Oceania,2024-02-01,187
+Oceania,2024-03-01,153
+Oceania,2024-04-01,204
+Oceania,2024-05-01,225
+Oceania,2024-06-01,211
+Oceania,2024-07-01,156
+Oceania,2024-08-01,120
+Oceania,2024-09-01,313
+Oceania,2024-10-01,192
+Oceania,2024-11-01,125
+Oceania,2024-12-01,121
+Oceania,2025-01-01,226
+Oceania,2025-02-01,103
+Oceania,2025-03-01,87
+Oceania,2025-04-01,179
+Oceania,2025-05-01,131
+Oceania,2025-06-01,152
+Oceania,2025-07-01,194
+Oceania,2025-08-01,157
+Oceania,2025-09-01,135
+Oceania,2025-10-01,286
+Oceania,2025-11-01,101
+Oceania,2025-12-01,130
+Oceania,2026-01-01,50
+Oceania,2026-02-01,45
+Other Asia,2021-02-01,42
+Other Asia,2021-03-01,54
+Other Asia,2021-04-01,82
+Other Asia,2021-05-01,62
+Other Asia,2021-06-01,181
+Other Asia,2021-07-01,119
+Other Asia,2021-08-01,176
+Other Asia,2021-09-01,328
+Other Asia,2021-10-01,64
+Other Asia,2021-11-01,53
+Other Asia,2021-12-01,52
+Other Asia,2022-01-01,111
+Other Asia,2022-02-01,125
+Other Asia,2022-03-01,171
+Other Asia,2022-04-01,173
+Other Asia,2022-05-01,199
+Other Asia,2022-06-01,300
+Other Asia,2022-07-01,189
+Other Asia,2022-08-01,218
+Other Asia,2022-09-01,453
+Other Asia,2022-10-01,103
+Other Asia,2022-11-01,138
+Other Asia,2022-12-01,111
+Other Asia,2023-01-01,290
+Other Asia,2023-02-01,264
+Other Asia,2023-03-01,300
+Other Asia,2023-04-01,460
+Other Asia,2023-05-01,424
+Other Asia,2023-06-01,354
+Other Asia,2023-07-01,377
+Other Asia,2023-08-01,221
+Other Asia,2023-09-01,120
+Other Asia,2023-10-01,188
+Other Asia,2023-11-01,230
+Other Asia,2023-12-01,157
+Other Asia,2024-01-01,239
+Other Asia,2024-02-01,317
+Other Asia,2024-03-01,314
+Other Asia,2024-04-01,237
+Other Asia,2024-05-01,171
+Other Asia,2024-06-01,196
+Other Asia,2024-07-01,268
+Other Asia,2024-08-01,383
+Other Asia,2024-09-01,391
+Other Asia,2024-10-01,367
+Other Asia,2024-11-01,176
+Other Asia,2024-12-01,182
+Other Asia,2025-01-01,529
+Other Asia,2025-02-01,249
+Other Asia,2025-03-01,277
+Other Asia,2025-04-01,323
+Other Asia,2025-05-01,155
+Other Asia,2025-06-01,116
+Other Asia,2025-07-01,130
+Other Asia,2025-08-01,223
+Other Asia,2025-09-01,182
+Other Asia,2025-10-01,119
+Other Asia,2025-11-01,70
+Other Asia,2025-12-01,105
+Other Asia,2026-01-01,56
+Other Asia,2026-02-01,47
+Other Europe,2021-02-01,2
+Other Europe,2021-03-01,7
+Other Europe,2021-04-01,3
+Other Europe,2021-05-01,12
+Other Europe,2021-06-01,22
+Other Europe,2021-07-01,16
+Other Europe,2021-08-01,12
+Other Europe,2021-09-01,8
+Other Europe,2021-10-01,16
+Other Europe,2021-11-01,3
+Other Europe,2021-12-01,2
+Other Europe,2022-01-01,6
+Other Europe,2022-02-01,3
+Other Europe,2022-03-01,7
+Other Europe,2022-04-01,6
+Other Europe,2022-05-01,10
+Other Europe,2022-06-01,4
+Other Europe,2022-07-01,6
+Other Europe,2022-08-01,5
+Other Europe,2022-09-01,3
+Other Europe,2022-10-01,7
+Other Europe,2022-11-01,9
+Other Europe,2022-12-01,5
+Other Europe,2023-01-01,7
+Other Europe,2023-02-01,5
+Other Europe,2023-03-01,11
+Other Europe,2023-04-01,10
+Other Europe,2023-05-01,8
+Other Europe,2023-06-01,12
+Other Europe,2023-07-01,3
+Other Europe,2023-08-01,6
+Other Europe,2023-09-01,8
+Other Europe,2023-10-01,8
+Other Europe,2023-11-01,4
+Other Europe,2023-12-01,9
+Other Europe,2024-01-01,3
+Other Europe,2024-02-01,4
+Other Europe,2024-03-01,3
+Other Europe,2024-04-01,14
+Other Europe,2024-05-01,7
+Other Europe,2024-06-01,10
+Other Europe,2024-07-01,7
+Other Europe,2024-08-01,5
+Other Europe,2024-09-01,2
+Other Europe,2024-10-01,7
+Other Europe,2024-11-01,11
+Other Europe,2024-12-01,4
+Other Europe,2025-01-01,6
+Other Europe,2025-02-01,10
+Other Europe,2025-04-01,1
+Other Europe,2025-05-01,3
+Other Europe,2025-06-01,2
+Other Europe,2025-07-01,6
+Other Europe,2025-08-01,4
+Other Europe,2025-09-01,8
+Other Europe,2025-10-01,16
+Other Europe,2025-11-01,7
+Other Europe,2025-12-01,3
+Other Europe,2026-01-01,15
+Other Europe,2026-02-01,6
+Other North America,2021-02-01,223
+Other North America,2021-03-01,249
+Other North America,2021-04-01,273
+Other North America,2021-05-01,188
+Other North America,2021-06-01,124
+Other North America,2021-07-01,216
+Other North America,2021-08-01,221
+Other North America,2021-09-01,222
+Other North America,2021-10-01,330
+Other North America,2021-11-01,345
+Other North America,2021-12-01,245
+Other North America,2022-01-01,252
+Other North America,2022-02-01,220
+Other North America,2022-03-01,207
+Other North America,2022-04-01,192
+Other North America,2022-05-01,218
+Other North America,2022-06-01,273
+Other North America,2022-07-01,273
+Other North America,2022-08-01,358
+Other North America,2022-09-01,246
+Other North America,2022-10-01,263
+Other North America,2022-11-01,322
+Other North America,2022-12-01,256
+Other North America,2023-01-01,362
+Other North America,2023-02-01,265
+Other North America,2023-03-01,335
+Other North America,2023-04-01,349
+Other North America,2023-05-01,462
+Other North America,2023-06-01,311
+Other North America,2023-07-01,259
+Other North America,2023-08-01,278
+Other North America,2023-09-01,222
+Other North America,2023-10-01,328
+Other North America,2023-11-01,230
+Other North America,2023-12-01,378
+Other North America,2024-01-01,347
+Other North America,2024-02-01,438
+Other North America,2024-03-01,342
+Other North America,2024-04-01,493
+Other North America,2024-05-01,423
+Other North America,2024-06-01,389
+Other North America,2024-07-01,385
+Other North America,2024-08-01,481
+Other North America,2024-09-01,422
+Other North America,2024-10-01,490
+Other North America,2024-11-01,404
+Other North America,2024-12-01,503
+Other North America,2025-01-01,481
+Other North America,2025-02-01,595
+Other North America,2025-03-01,500
+Other North America,2025-04-01,496
+Other North America,2025-05-01,279
+Other North America,2025-06-01,280
+Other North America,2025-07-01,434
+Other North America,2025-08-01,473
+Other North America,2025-09-01,444
+Other North America,2025-10-01,500
+Other North America,2025-11-01,457
+Other North America,2025-12-01,562
+Other North America,2026-01-01,543
+Other North America,2026-02-01,464
+Other/Unknown,2021-02-01,1
+Other/Unknown,2021-03-01,1
+Other/Unknown,2021-04-01,2
+Other/Unknown,2021-07-01,3
+Other/Unknown,2021-08-01,2
+Other/Unknown,2021-09-01,2
+Other/Unknown,2021-11-01,1
+Other/Unknown,2021-12-01,2
+Other/Unknown,2022-02-01,2
+Other/Unknown,2022-03-01,1
+Other/Unknown,2022-04-01,2
+Other/Unknown,2022-05-01,2
+Other/Unknown,2022-06-01,7
+Other/Unknown,2022-07-01,2
+Other/Unknown,2022-08-01,5
+Other/Unknown,2022-09-01,3
+Other/Unknown,2022-10-01,1
+Other/Unknown,2022-12-01,1
+Other/Unknown,2023-01-01,3
+Other/Unknown,2023-03-01,5
+Other/Unknown,2023-05-01,4
+Other/Unknown,2023-06-01,4
+Other/Unknown,2023-07-01,3
+Other/Unknown,2023-08-01,4
+Other/Unknown,2023-10-01,2
+Other/Unknown,2023-11-01,2
+Other/Unknown,2023-12-01,3
+Other/Unknown,2024-01-01,2
+Other/Unknown,2024-02-01,5
+Other/Unknown,2024-03-01,3
+Other/Unknown,2024-04-01,7
+Other/Unknown,2024-05-01,6
+Other/Unknown,2024-06-01,1
+Other/Unknown,2024-07-01,6
+Other/Unknown,2024-09-01,1
+Other/Unknown,2024-11-01,2
+Other/Unknown,2024-12-01,1
+Other/Unknown,2025-01-01,5
+Other/Unknown,2025-02-01,8
+Other/Unknown,2025-03-01,3
+Other/Unknown,2025-06-01,1
+Other/Unknown,2025-09-01,1
+Other/Unknown,2025-10-01,1
+Other/Unknown,2026-01-01,1
+Other/Unknown,2026-02-01,1
+South America,2021-02-01,561
+South America,2021-03-01,1242
+South America,2021-04-01,1292
+South America,2021-05-01,1751
+South America,2021-06-01,2695
+South America,2021-07-01,2775
+South America,2021-08-01,4414
+South America,2021-09-01,4766
+South America,2021-10-01,3915
+South America,2021-11-01,3577
+South America,2021-12-01,3036
+South America,2022-01-01,2696
+South America,2022-02-01,3101
+South America,2022-03-01,3377
+South America,2022-04-01,2540
+South America,2022-05-01,2476
+South America,2022-06-01,2739
+South America,2022-07-01,2548
+South America,2022-08-01,2792
+South America,2022-09-01,2413
+South America,2022-10-01,2378
+South America,2022-11-01,2385
+South America,2022-12-01,2751
+South America,2023-01-01,3221
+South America,2023-02-01,3643
+South America,2023-03-01,4276
+South America,2023-04-01,2743
+South America,2023-05-01,3360
+South America,2023-06-01,2810
+South America,2023-07-01,2912
+South America,2023-08-01,2604
+South America,2023-09-01,2876
+South America,2023-10-01,3156
+South America,2023-11-01,2874
+South America,2023-12-01,3530
+South America,2024-01-01,2914
+South America,2024-02-01,3046
+South America,2024-03-01,2988
+South America,2024-04-01,3524
+South America,2024-05-01,3182
+South America,2024-06-01,3415
+South America,2024-07-01,3624
+South America,2024-08-01,4481
+South America,2024-09-01,3482
+South America,2024-10-01,4058
+South America,2024-11-01,2700
+South America,2024-12-01,2744
+South America,2025-01-01,2955
+South America,2025-02-01,2853
+South America,2025-03-01,2765
+South America,2025-04-01,3129
+South America,2025-05-01,3443
+South America,2025-06-01,3340
+South America,2025-07-01,2942
+South America,2025-08-01,2736
+South America,2025-09-01,2703
+South America,2025-10-01,3967
+South America,2025-11-01,2537
+South America,2025-12-01,2884
+South America,2026-01-01,2126
+South America,2026-02-01,1295
+Southeast Asia,2021-02-01,1872
+Southeast Asia,2021-03-01,4087
+Southeast Asia,2021-04-01,3853
+Southeast Asia,2021-05-01,4026
+Southeast Asia,2021-06-01,3418
+Southeast Asia,2021-07-01,2271
+Southeast Asia,2021-08-01,1959
+Southeast Asia,2021-09-01,2219
+Southeast Asia,2021-10-01,2054
+Southeast Asia,2021-11-01,2725
+Southeast Asia,2021-12-01,4092
+Southeast Asia,2022-01-01,3869
+Southeast Asia,2022-02-01,3708
+Southeast Asia,2022-03-01,6899
+Southeast Asia,2022-04-01,6698
+Southeast Asia,2022-05-01,5062
+Southeast Asia,2022-06-01,5026
+Southeast Asia,2022-07-01,5434
+Southeast Asia,2022-08-01,6811
+Southeast Asia,2022-09-01,4722
+Southeast Asia,2022-10-01,5796
+Southeast Asia,2022-11-01,6159
+Southeast Asia,2022-12-01,5909
+Southeast Asia,2023-01-01,3791
+Southeast Asia,2023-02-01,4932
+Southeast Asia,2023-03-01,7796
+Southeast Asia,2023-04-01,5973
+Southeast Asia,2023-05-01,5836
+Southeast Asia,2023-06-01,6213
+Southeast Asia,2023-07-01,6825
+Southeast Asia,2023-08-01,7435
+Southeast Asia,2023-09-01,5177
+Southeast Asia,2023-10-01,6666
+Southeast Asia,2023-11-01,4532
+Southeast Asia,2023-12-01,4440
+Southeast Asia,2024-01-01,4790
+Southeast Asia,2024-02-01,4267
+Southeast Asia,2024-03-01,6393
+Southeast Asia,2024-04-01,6653
+Southeast Asia,2024-05-01,7963
+Southeast Asia,2024-06-01,6091
+Southeast Asia,2024-07-01,7757
+Southeast Asia,2024-08-01,7559
+Southeast Asia,2024-09-01,5891
+Southeast Asia,2024-10-01,6001
+Southeast Asia,2024-11-01,4889
+Southeast Asia,2024-12-01,4512
+Southeast Asia,2025-01-01,6197
+Southeast Asia,2025-02-01,5970
+Southeast Asia,2025-03-01,6681
+Southeast Asia,2025-04-01,5139
+Southeast Asia,2025-05-01,7390
+Southeast Asia,2025-06-01,5191
+Southeast Asia,2025-07-01,6077
+Southeast Asia,2025-08-01,6083
+Southeast Asia,2025-09-01,6117
+Southeast Asia,2025-10-01,7753
+Southeast Asia,2025-11-01,5908
+Southeast Asia,2025-12-01,6959
+Southeast Asia,2026-01-01,5923
+Southeast Asia,2026-02-01,5041
+Southern Europe,2021-02-01,131
+Southern Europe,2021-03-01,262
+Southern Europe,2021-04-01,219
+Southern Europe,2021-05-01,168
+Southern Europe,2021-06-01,462
+Southern Europe,2021-07-01,454
+Southern Europe,2021-08-01,621
+Southern Europe,2021-09-01,855
+Southern Europe,2021-10-01,679
+Southern Europe,2021-11-01,534
+Southern Europe,2021-12-01,629
+Southern Europe,2022-01-01,535
+Southern Europe,2022-02-01,651
+Southern Europe,2022-03-01,761
+Southern Europe,2022-04-01,744
+Southern Europe,2022-05-01,694
+Southern Europe,2022-06-01,706
+Southern Europe,2022-07-01,673
+Southern Europe,2022-08-01,621
+Southern Europe,2022-09-01,784
+Southern Europe,2022-10-01,446
+Southern Europe,2022-11-01,395
+Southern Europe,2022-12-01,511
+Southern Europe,2023-01-01,319
+Southern Europe,2023-02-01,441
+Southern Europe,2023-03-01,619
+Southern Europe,2023-04-01,554
+Southern Europe,2023-05-01,789
+Southern Europe,2023-06-01,496
+Southern Europe,2023-07-01,560
+Southern Europe,2023-08-01,487
+Southern Europe,2023-09-01,275
+Southern Europe,2023-10-01,414
+Southern Europe,2023-11-01,389
+Southern Europe,2023-12-01,374
+Southern Europe,2024-01-01,604
+Southern Europe,2024-02-01,557
+Southern Europe,2024-03-01,529
+Southern Europe,2024-04-01,591
+Southern Europe,2024-05-01,437
+Southern Europe,2024-06-01,514
+Southern Europe,2024-07-01,614
+Southern Europe,2024-08-01,579
+Southern Europe,2024-09-01,454
+Southern Europe,2024-10-01,589
+Southern Europe,2024-11-01,525
+Southern Europe,2024-12-01,364
+Southern Europe,2025-01-01,619
+Southern Europe,2025-02-01,507
+Southern Europe,2025-03-01,398
+Southern Europe,2025-04-01,453
+Southern Europe,2025-05-01,344
+Southern Europe,2025-06-01,324
+Southern Europe,2025-07-01,509
+Southern Europe,2025-08-01,611
+Southern Europe,2025-09-01,471
+Southern Europe,2025-10-01,528
+Southern Europe,2025-11-01,415
+Southern Europe,2025-12-01,489
+Southern Europe,2026-01-01,330
+Southern Europe,2026-02-01,99
+Western Europe,2021-02-01,43
+Western Europe,2021-03-01,77
+Western Europe,2021-04-01,80
+Western Europe,2021-05-01,72
+Western Europe,2021-06-01,130
+Western Europe,2021-07-01,138
+Western Europe,2021-08-01,163
+Western Europe,2021-09-01,149
+Western Europe,2021-10-01,119
+Western Europe,2021-11-01,114
+Western Europe,2021-12-01,87
+Western Europe,2022-01-01,82
+Western Europe,2022-02-01,120
+Western Europe,2022-03-01,119
+Western Europe,2022-04-01,125
+Western Europe,2022-05-01,100
+Western Europe,2022-06-01,116
+Western Europe,2022-07-01,83
+Western Europe,2022-08-01,82
+Western Europe,2022-09-01,69
+Western Europe,2022-10-01,90
+Western Europe,2022-11-01,133
+Western Europe,2022-12-01,119
+Western Europe,2023-01-01,95
+Western Europe,2023-02-01,104
+Western Europe,2023-03-01,160
+Western Europe,2023-04-01,126
+Western Europe,2023-05-01,114
+Western Europe,2023-06-01,130
+Western Europe,2023-07-01,67
+Western Europe,2023-08-01,92
+Western Europe,2023-09-01,101
+Western Europe,2023-10-01,91
+Western Europe,2023-11-01,88
+Western Europe,2023-12-01,83
+Western Europe,2024-01-01,106
+Western Europe,2024-02-01,110
+Western Europe,2024-03-01,108
+Western Europe,2024-04-01,100
+Western Europe,2024-05-01,89
+Western Europe,2024-06-01,67
+Western Europe,2024-07-01,113
+Western Europe,2024-08-01,45
+Western Europe,2024-09-01,79
+Western Europe,2024-10-01,124
+Western Europe,2024-11-01,126
+Western Europe,2024-12-01,109
+Western Europe,2025-01-01,131
+Western Europe,2025-02-01,121
+Western Europe,2025-03-01,121
+Western Europe,2025-04-01,81
+Western Europe,2025-05-01,79
+Western Europe,2025-06-01,116
+Western Europe,2025-07-01,115
+Western Europe,2025-08-01,84
+Western Europe,2025-09-01,83
+Western Europe,2025-10-01,141
+Western Europe,2025-11-01,72
+Western Europe,2025-12-01,136
+Western Europe,2026-01-01,89
+Western Europe,2026-02-01,73

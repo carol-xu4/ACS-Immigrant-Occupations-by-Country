@@ -437,3 +437,126 @@ iv_country_monthly_wide = iv_country_monthly %>%
     pivot_wider(names_from = date, values_from = issuances, values_fill = 0)
 
 write_csv(iv_country_monthly_wide, "results/iv_monthly_by_country_wide.csv")
+
+
+## Plot: monthly immigrant visas by policy group -----------------------------------------------
+
+# policy groups, using State Dept country names
+ban_countries = c(
+    # full (19 + Palestinian Authority documents)
+    "Afghanistan", "Burma", "Burkina Faso", "Chad", "Congo, Republic of the",
+    "Equatorial Guinea", "Eritrea", "Haiti", "Iran", "Laos", "Libya", "Mali", "Niger",
+    "Sierra Leone", "Somalia", "South Sudan", "Sudan", "Syria", "Yemen",
+    "Palestinian Authority Travel Document",
+    # partial (20)
+    "Angola", "Antigua and Barbuda", "Benin", "Burundi", "Cote d'Ivoire", "Cuba",
+    "Dominica", "Gabon", "Gambia, The", "Malawi", "Mauritania", "Nigeria", "Senegal",
+    "Tanzania", "Togo", "Tonga", "Turkmenistan", "Venezuela", "Zambia", "Zimbabwe")
+
+pause_only_countries = c(
+    "Albania", "Algeria", "Armenia", "Azerbaijan", "Bahamas, The", "Bangladesh",
+    "Barbados", "Belarus", "Belize", "Bhutan", "Bosnia-Herzegovina", "Brazil",
+    "Cambodia", "Cameroon", "Cabo Verde", "Colombia", "Congo, Democratic Republic of the",
+    "Egypt", "Ethiopia", "Fiji", "Georgia", "Ghana", "Grenada", "Guatemala", "Guinea",
+    "Iraq", "Jamaica", "Jordan", "Kazakhstan", "Kosovo", "Kuwait", "Kyrgyzstan",
+    "Lebanon", "Liberia", "North Macedonia", "Moldova", "Mongolia", "Montenegro",
+    "Morocco", "Nepal", "Nicaragua", "Pakistan", "Russia", "Rwanda",
+    "Saint Kitts and Nevis", "Saint Lucia", "Saint Vincent and the Grenadines",
+    "Thailand", "Tunisia", "Uganda", "Uruguay", "Uzbekistan")
+
+group_colors = c("Travel ban countries (39)" = "#3043B4",
+    "75-country pause only" = "#C97703",
+    "All other countries" = "#7C756D")
+
+iv_groups = iv_totals %>%
+    filter(country != "ALL COUNTRIES") %>%
+    mutate(policy_group = case_when(
+            country %in% ban_countries        ~ "Travel ban countries (39)",
+            country %in% pause_only_countries ~ "75-country pause only",
+            TRUE                              ~ "All other countries"),
+        policy_group = factor(policy_group, levels = names(group_colors)),
+        month_date = as.Date(paste0(date, "-01"))) %>%
+    group_by(policy_group, month_date) %>%
+    summarise(issuances = sum(issuances), .groups = "drop") %>%
+    group_by(policy_group) %>%
+    mutate(index_2024 = 100 * issuances / mean(issuances[format(month_date, "%Y") == "2024"])) %>%
+    ungroup()
+
+write_csv(iv_groups, "results/iv_monthly_by_policy_group.csv")
+
+event_dates = as.Date(c("2025-01-20", "2025-06-09", "2026-01-01"))
+y_top = max(iv_groups$issuances)
+
+ggplot(iv_groups, aes(month_date, issuances, color = policy_group)) +
+    annotate("segment", x = event_dates, xend = event_dates, y = 0, yend = 0.82 * y_top,
+        linetype = "dashed", color = "grey60") +
+    annotate("text", x = event_dates, y = c(1.08, 0.95, 1.08) * y_top, vjust = 1, hjust = 1.05,
+        lineheight = 0.9, size = 3, color = "grey35",
+        label = c("Inauguration", "19-country\nban", "39-country ban\n+ 75-country pause")) +
+    geom_line(linewidth = 0.8) +
+    scale_color_manual(values = group_colors) +
+    scale_x_date(date_breaks = "1 year", date_labels = "%Y") +
+    scale_y_continuous(labels = scales::comma, limits = c(0, NA)) +
+    labs(x = NULL, y = "Immigrant visas issued per month", color = NULL,
+        title = "Immigrant visas issued, by policy group",
+        caption = "Source: U.S. Department of State, Monthly Immigrant Visa Issuance Statistics, Feb 2021-Feb 2026.") +
+    theme_minimal(base_size = 11) +
+    theme(legend.position = "top",
+        panel.grid.minor = element_blank(),
+        panel.grid.major.x = element_blank(),
+        plot.title.position = "plot")
+
+ggsave("results/iv_policy_group_monthly.png", width = 9, height = 5, dpi = 300, bg = "white")
+
+# visas by region (matching acs groupings)
+acs %>%
+    filter(!is.na(country)) %>%
+    distinct(country, bpl_region) %>%
+    arrange(bpl_region, country) %>%
+    write_csv("data/output/country_region_lookup.csv")
+
+country_region = read_csv("data/output/country_region_lookup.csv")
+
+iv_regions = iv_totals %>%
+    filter(country != "ALL COUNTRIES") %>%
+    mutate(acs_country = recode_visa_country(country),
+        month_date = as.Date(paste0(date, "-01"))) %>%
+    left_join(country_region, by = c("acs_country" = "country")) %>%
+    mutate(bpl_region = if_else(acs_country == "Samoa", "Oceania", bpl_region))   # independent Samoa
+
+iv_regions = iv_regions %>%
+    filter(!is.na(bpl_region)) %>%
+    group_by(bpl_region, month_date) %>%
+    summarise(issuances = sum(issuances), .groups = "drop")
+
+# order panels by 2024 volume, largest first
+region_order = iv_regions %>%
+    filter(format(month_date, "%Y") == "2024") %>%
+    group_by(bpl_region) %>%
+    summarise(avg_2024 = mean(issuances)) %>%
+    arrange(desc(avg_2024))
+
+iv_regions = iv_regions %>%
+    mutate(bpl_region = factor(bpl_region, levels = region_order$bpl_region))
+
+write_csv(iv_regions, "results/iv_monthly_by_region.csv")
+
+event_dates = as.Date(c("2025-01-20", "2025-06-09", "2026-01-01"))
+
+ggplot(iv_regions, aes(month_date, issuances)) +
+    geom_vline(xintercept = event_dates, linetype = "dashed", color = "grey70", linewidth = 0.3) +
+    geom_line(color = "#3043B4", linewidth = 0.6) +
+    facet_wrap(~ bpl_region, scales = "free_y", ncol = 4) +
+    scale_x_date(date_breaks = "2 years", date_labels = "%Y") +
+    scale_y_continuous(labels = scales::comma, limits = c(0, NA)) +
+    labs(x = NULL, y = "Immigrant visas issued per month",
+        title = "Immigrant visas issued by region of birth",
+        subtitle = "Dashed lines: inauguration (Jan 2025), 19-country ban (Jun 2025), 39-country ban + 75-country pause (Jan 2026). Y-axes differ by panel.",
+        caption = "Source: U.S. Department of State, Monthly Immigrant Visa Issuance Statistics, Feb 2021-Feb 2026.") +
+    theme_minimal(base_size = 10) +
+    theme(panel.grid.minor = element_blank(),
+        panel.grid.major.x = element_blank(),
+        strip.text = element_text(face = "bold", hjust = 0),
+        plot.title.position = "plot")
+
+ggsave("results/iv_region_monthly.png", width = 11, height = 8, dpi = 300, bg = "white")
