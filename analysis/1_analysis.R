@@ -297,7 +297,9 @@ print(occ_totals, n = 20, width = Inf)
 
 write_csv(occ_totals, "results/occ_immigrant_totals.csv")
 
+occ_by_immig_share = occ_totals %>% arrange(desc(immig_share_of_occ)) 
 
+write_csv(occ_by_immig_share, "results/occ_immigrant_totals_by_share.csv")
 
 
 
