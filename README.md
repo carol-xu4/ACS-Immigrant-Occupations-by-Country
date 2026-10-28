@@ -1,6 +1,6 @@
-### Immigrant Occupations
+# Immigrant Occupations
 
-## Region groupings
+### Region groupings
 
 Regions follow the headings in the IPUMS USA birthplace codebook ([BPL](https://usa.ipums.org/usa-action/variables/BPL#codes_section)), assigned by detailed birthplace code (`bpld`). Only birthplaces separately identified in the 2020–2024 ACS are listed.
 
@@ -26,3 +26,7 @@ Regions follow the headings in the IPUMS USA birthplace codebook ([BPL](https://
 **Notes**
 - Groupings follow IPUMS, not Census Bureau regions. Differences from Census: Burma and Iran are in India/Southwest Asia (Census: Southeast Asia and South Central Asia); the Caucasus and Central Asian former Soviet states are in Central/Eastern Europe (Census: Western Asia and South Central Asia); Cape Verde is in Other North America (Census: Western Africa).
 - Several travel-ban countries have no separate ACS birthplace code and fall into "n.s." catch-alls. Examples: Chad, Mali, Niger and Burkina Faso (Africa n.s. codes) and Turkmenistan (Other Asia or USSR n.s.).
+
+
+### Travel ban countries: Afghanistan, Albania, Algeria, Antigua and Barbuda, Armenia, Azerbaijan, Bahamas, Bangladesh, Barbados, Belarus, Belize, Bhutan, Bosnia and Herzegovina, Brazil, Burma, Cambodia, Cameroon, Cape Verde, Colombia, Cote d’Ivoire, Cuba, Democratic Republic of the Congo, Dominica, Egypt, Eritrea, Ethiopia, Fiji, The Gambia, Georgia, Ghana, Grenada, Guatemala, Guinea, Haiti, Iran, Iraq, Jamaica, Jordan, Kazakhstan, Kosovo, Kuwait, Kyrgyz Republic, Laos, Lebanon, Liberia, Libya, Moldova, Mongolia, Montenegro, Morocco, Nepal, Nicaragua, Nigeria, North Macedonia, Pakistan, Republic of the Congo, Russia, Rwanda, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Senegal, Sierra Leone, Somalia, South Sudan, Sudan, Syria, Tanzania, Thailand, Togo, Tunisia, Uganda, Uruguay, Uzbekistan, and Yemen.
+

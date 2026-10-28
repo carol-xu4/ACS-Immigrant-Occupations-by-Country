@@ -4,13 +4,13 @@ pacman::p_load(matrixStats, tidyverse, ggthemes, readxl, data.table, gdata, ipum
 
 setwd("C:/Users/CarolXu/OneDrive - Cato Institute/Desktop/ACS Immigrant Occupations by Country")
 
-## Read 2024 ACS 5-year sample
-ddi_acs = read_ipums_ddi("data/input/usa_00039.xml")
+## Read 2021-2024 ONE-YEAR SAMPLES
+ddi_acs = read_ipums_ddi("data/input/usa_00045.xml")
 acs = read_ipums_micro(ddi_acs)
 
 acs = acs %>%
   rename_with(tolower) %>%
-  select(year, multyear, perwt, hhwt, 
+  select(year, perwt, hhwt, 
     bpl, bpld, citizen, yrnatur, yrimmig, age, sex,
     empstat, empstatd, labforce, occ, occsoc, ind, indnaics,
     educ, educd, inctot, incwage, hhincome)
@@ -172,6 +172,7 @@ acs = acs %>%
       bpld == 60013 ~ "Libya",
       bpld == 60014 ~ "Morocco",
       bpld == 60015 ~ "Sudan",
+      bpld == 60016 ~ "Tunisia",
       bpld == 60019 ~ "Other North Africa",   # incl. Tunisia
 
       # West Africa
@@ -196,6 +197,7 @@ acs = acs %>%
       bpld == 60056 ~ "Zambia",
       bpld == 60057 ~ "Zimbabwe",
       bpld == 60065 ~ "Eritrea",
+      bpld == 60066 ~ "South Sudan",
       bpld == 60064 ~ "Other East Africa",    # incl. Burundi, Malawi, South Sudan(?)
 
       # Central & Southern Africa
@@ -227,9 +229,9 @@ country_check = acs %>%
             .groups = "drop") %>%
   arrange(bpld)
 
-View(country_check)
+print(country_check, n = Inf)
 
 country_check %>% filter(str_detect(country, "^Other") | is.na(country))
 
 # write final dataset
-write_rds(acs, "data/output/acs.RDS")
+write_rds(acs, "data/output/acs_2021_2024.RDS")

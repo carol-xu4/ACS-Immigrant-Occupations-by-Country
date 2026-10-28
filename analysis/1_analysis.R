@@ -18,6 +18,8 @@ occ_labels = read_html("https://usa.ipums.org/usa/volii/occ2018.shtml") %>%
 
 write_csv(occ_labels, "data/output/occ2018_labels.csv") 
 
+occ_labels = read_csv("data/output/occ2018_labels.csv")
+
 # counts by country, immigrants only (naturalized citizens and noncitizens)
 bpl_table = acs %>%
     filter(bpld > 15000, citizen %in% c(2, 3)) %>%
@@ -275,7 +277,25 @@ for (r in unique(region_table$bpl_region)) {
     fname = str_replace_all(r, "[^A-Za-z0-9]+", "_")
     write_csv(out, file.path("results/region_tables", paste0(fname, ".csv")))}
 
+# total immigrants in each job
+occ_totals = acs %>%
+    filter(empstat == 1, age >= 18, age <= 64) %>%
+    mutate(occ = sprintf("%04d", as.integer(zap_labels(occ))),
+        immig = country != "United States" & citizen %in% c(2, 3)) %>%
+    group_by(occ) %>%
+    summarise(n_immig = sum(immig),
+        immig_workers = sum(perwt[immig]),
+        all_workers = sum(perwt),
+        .groups = "drop") %>%
+    mutate(immig_share_of_occ = immig_workers / all_workers,
+        share_of_immig_workers = immig_workers / sum(immig_workers)) %>%
+    left_join(occ_labels, by = "occ") %>%
+    relocate(occ_title, .after = occ) %>%
+    arrange(desc(immig_workers))
 
+print(occ_totals, n = 20, width = Inf)
+
+write_csv(occ_totals, "results/occ_immigrant_totals.csv")
 
 
 

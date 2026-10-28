@@ -59,5 +59,4 @@ country_tables = country_totals %>%
 for (c in unique(country_tables$country)) {
   out   = country_tables %>% filter(country == c)
   fname = str_replace_all(c, "[^A-Za-z0-9]+", "_")
-  write_csv(out, file.path("results/country_tables", paste0(fname, ".csv")))
-}
+  write_csv(out, file.path("results/country_tables", paste0(fname, ".csv")))}
