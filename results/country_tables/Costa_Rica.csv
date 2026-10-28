@@ -1,338 +1,341 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Costa Rica,4118,100981,2285,59003,4230,Maids and housekeeping cleaners,67,2173,0.03682863583207634
-Costa Rica,4118,100981,2285,59003,0440,Other managers,77,1816,0.030778096029015475
-Costa Rica,4118,100981,2285,59003,6260,Construction laborers,50,1760,0.029828991746182396
-Costa Rica,4118,100981,2285,59003,4220,Janitors and building cleaners,60,1728,0.029286646441706355
-Costa Rica,4118,100981,2285,59003,9130,Driver/sales workers and truck drivers,58,1645,0.027879938308221615
-Costa Rica,4118,100981,2285,59003,6410,Painters and paperhangers,47,1564,0.02650712675626663
-Costa Rica,4118,100981,2285,59003,4251,Landscaping and groundskeeping workers,42,1459,0.024727556225954614
-Costa Rica,4118,100981,2285,59003,4020,Cooks,40,1278,0.02165991559751199
-Costa Rica,4118,100981,2285,59003,0120,Financial managers,34,1080,0.01830415402606647
-Costa Rica,4118,100981,2285,59003,2310,Elementary and middle school teachers,37,955,0.016185617680456926
-Costa Rica,4118,100981,2285,59003,5240,Customer service representatives,36,940,0.01593139331898378
-Costa Rica,4118,100981,2285,59003,6230,Carpenters,31,928,0.015728013829805265
-Costa Rica,4118,100981,2285,59003,5740,"Secretaries and administrative assistants, except legal, medical, and executive",36,765,0.012965442435130417
-Costa Rica,4118,100981,2285,59003,4110,Waiters and waitresses,29,730,0.012372252258359744
-Costa Rica,4118,100981,2285,59003,4700,First-line supervisors of retail sales workers,30,726,0.012304459095300238
-Costa Rica,4118,100981,2285,59003,2205,Postsecondary teachers,31,678,0.011490941138586173
-Costa Rica,4118,100981,2285,59003,7200,Automotive service technicians and mechanics,23,650,0.011016388997169635
-Costa Rica,4118,100981,2285,59003,9620,"Laborers and freight, stock, and material movers, hand",24,647,0.010965544124875007
-Costa Rica,4118,100981,2285,59003,4600,Childcare workers,29,624,0.01057573343728285
-Costa Rica,4118,100981,2285,59003,4720,Cashiers,25,613,0.01038930223886921
-Costa Rica,4118,100981,2285,59003,0020,General and operations managers,21,610,0.01033845736657458
-Costa Rica,4118,100981,2285,59003,3602,Personal care aides,22,606,0.010270664203515075
-Costa Rica,4118,100981,2285,59003,2545,Teaching assistants,31,603,0.010219819331220447
-Costa Rica,4118,100981,2285,59003,0220,Construction managers,23,579,0.009813060352863414
-Costa Rica,4118,100981,2285,59003,3255,Registered nurses,29,568,0.009626629154449774
-Costa Rica,4118,100981,2285,59003,5000,First-line supervisors of office and administrative support workers,19,547,0.00927071504838737
-Costa Rica,4118,100981,2285,59003,1050,Computer support specialists,11,531,0.008999542396149349
-Costa Rica,4118,100981,2285,59003,1021,Software developers,22,523,0.008863956070030337
-Costa Rica,4118,100981,2285,59003,2040,Clergy,21,523,0.008863956070030337
-Costa Rica,4118,100981,2285,59003,5400,Receptionists and information clerks,16,493,0.008355507347084047
-Costa Rica,4118,100981,2285,59003,0630,Human resources workers,19,488,0.008270765893259665
-Costa Rica,4118,100981,2285,59003,5860,"Office clerks, general",24,482,0.008169076148670407
-Costa Rica,4118,100981,2285,59003,1240,Other mathematical science occupations,7,479,0.008118231276375778
-Costa Rica,4118,100981,2285,59003,4760,Retail salespersons,25,470,0.00796569665949189
-Costa Rica,4118,100981,2285,59003,9645,Stockers and order fillers,16,436,0.007389454773486094
-Costa Rica,4118,100981,2285,59003,0230,Education and childcare administrators,15,431,0.007304713319661712
-Costa Rica,4118,100981,2285,59003,3090,Physicians,16,422,0.007152178702777825
-Costa Rica,4118,100981,2285,59003,6355,Electricians,15,422,0.007152178702777825
-Costa Rica,4118,100981,2285,59003,0705,Project management specialists,22,406,0.006881006050539803
-Costa Rica,4118,100981,2285,59003,4710,First-line supervisors of non-retail sales workers,15,374,0.00633866074606376
-Costa Rica,4118,100981,2285,59003,3603,Nursing assistants,14,360,0.006101384675355491
-Costa Rica,4118,100981,2285,59003,0800,Accountants and auditors,21,357,0.0060505398030608615
-Costa Rica,4118,100981,2285,59003,5510,Couriers and messengers,15,353,0.0059827466400013555
-Costa Rica,4118,100981,2285,59003,0010,Chief executives and legislators,18,352,0.00596579834923648
-Costa Rica,4118,100981,2285,59003,3930,Security guards and gaming surveillance officers,7,342,0.005796315441587716
-Costa Rica,4118,100981,2285,59003,2320,Secondary school teachers,16,339,0.0057454705692930865
-Costa Rica,4118,100981,2285,59003,5120,"Bookkeeping, accounting, and auditing clerks",16,324,0.005491246207819942
-Costa Rica,4118,100981,2285,59003,0310,Food service managers,13,322,0.005457349626290188
-Costa Rica,4118,100981,2285,59003,7330,Industrial and refractory machinery mechanics,5,318,0.005389556463230683
-Costa Rica,4118,100981,2285,59003,6442,"Plumbers, pipefitters, and steamfitters",12,311,0.005270918427876549
-Costa Rica,4118,100981,2285,59003,4030,Food preparation workers,17,310,0.005253970137111672
-Costa Rica,4118,100981,2285,59003,6200,First-line supervisors of construction trades and extraction workers,12,307,0.005203125264817044
-Costa Rica,4118,100981,2285,59003,4200,First-line supervisors of housekeeping and janitorial workers,16,300,0.005084487229462908
-Costa Rica,4118,100981,2285,59003,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",7,274,0.004643831669576123
-Costa Rica,4118,100981,2285,59003,9640,"Packers and packagers, hand",10,263,0.004457400471162483
-Costa Rica,4118,100981,2285,59003,8990,"Miscellaneous production workers, including equipment operators and tenders",9,260,0.004406555598867854
-Costa Rica,4118,100981,2285,59003,4000,Chefs and head cooks,10,256,0.004338762435808349
-Costa Rica,4118,100981,2285,59003,7315,"Heating, air conditioning, and refrigeration mechanics and installers",5,253,0.00428791756351372
-Costa Rica,4118,100981,2285,59003,1460,Mechanical engineers,4,244,0.004135382946629833
-Costa Rica,4118,100981,2285,59003,1105,Network and computer systems administrators,7,243,0.004118434655864956
-Costa Rica,4118,100981,2285,59003,7700,First-line supervisors of production and operating workers,5,243,0.004118434655864956
-Costa Rica,4118,100981,2285,59003,0140,Industrial production managers,7,241,0.004084538074335203
-Costa Rica,4118,100981,2285,59003,3640,Dental assistants,9,241,0.004084538074335203
-Costa Rica,4118,100981,2285,59003,3655,Other healthcare support workers,5,240,0.004067589783570327
-Costa Rica,4118,100981,2285,59003,5165,Other financial clerks,6,238,0.004033693202040574
-Costa Rica,4118,100981,2285,59003,0052,Sales managers,9,236,0.0039997966205108215
-Costa Rica,4118,100981,2285,59003,4965,"Sales and related workers, all other",6,233,0.003948951748216192
-Costa Rica,4118,100981,2285,59003,0110,Computer and information systems managers,10,232,0.003932003457451316
-Costa Rica,4118,100981,2285,59003,2330,Special education teachers,7,230,0.0038981068759215633
-Costa Rica,4118,100981,2285,59003,0750,"Business operations specialists, all other",8,228,0.0038642102943918107
-Costa Rica,4118,100981,2285,59003,7340,"Maintenance and repair workers, general",8,227,0.0038472620036269344
-Costa Rica,4118,100981,2285,59003,0710,Management analysts,10,221,0.0037455722590376763
-Costa Rica,4118,100981,2285,59003,4850,"Sales representatives, wholesale and manufacturing",9,220,0.0037286239682727995
-Costa Rica,4118,100981,2285,59003,3421,Pharmacy technicians,8,217,0.0036777790959781707
-Costa Rica,4118,100981,2285,59003,1360,Civil engineers,8,214,0.0036269342236835414
-Costa Rica,4118,100981,2285,59003,1530,Other engineers,10,207,0.003508296188329407
-Costa Rica,4118,100981,2285,59003,2025,Other community and social service specialists,6,205,0.0034743996067996543
-Costa Rica,4118,100981,2285,59003,9600,Industrial truck and tractor operators,7,202,0.003423554734505025
-Costa Rica,4118,100981,2285,59003,1108,"Computer occupations, all other",11,200,0.0033896581529752725
-Costa Rica,4118,100981,2285,59003,2014,"Social workers, all other",9,193,0.003271020117621138
-Costa Rica,4118,100981,2285,59003,5610,"Shipping, receiving, and inventory clerks",9,192,0.0032540718268562617
-Costa Rica,4118,100981,2285,59003,2300,Preschool and kindergarten teachers,13,186,0.0031523820822670036
-Costa Rica,4118,100981,2285,59003,0300,Architectural and engineering managers,8,183,0.0031015372099723743
-Costa Rica,4118,100981,2285,59003,5110,Billing and posting clerks,8,182,0.003084588919207498
-Costa Rica,4118,100981,2285,59003,0136,Human resources managers,8,176,0.00298289917461824
-Costa Rica,4118,100981,2285,59003,2145,Paralegals and legal assistants,11,176,0.00298289917461824
-Costa Rica,4118,100981,2285,59003,0051,Marketing managers,7,173,0.0029320543023236105
-Costa Rica,4118,100981,2285,59003,3645,Medical assistants,7,167,0.0028303645577343523
-Costa Rica,4118,100981,2285,59003,1760,"Physical scientists, all other",3,164,0.0027795196854397235
-Costa Rica,4118,100981,2285,59003,9610,Cleaners of vehicles and equipment,6,164,0.0027795196854397235
-Costa Rica,4118,100981,2285,59003,0160,"Transportation, storage, and distribution managers",7,160,0.002711726522380218
-Costa Rica,4118,100981,2285,59003,6515,Roofers,7,159,0.0026947782316153416
-Costa Rica,4118,100981,2285,59003,9122,"Bus drivers, transit and intercity",3,154,0.0026100367777909597
-Costa Rica,4118,100981,2285,59003,4810,Insurance sales agents,7,153,0.0025930884870260834
-Costa Rica,4118,100981,2285,59003,0350,Medical and health services managers,7,150,0.002542243614731454
-Costa Rica,4118,100981,2285,59003,0845,Financial and investment analysts,6,149,0.002525295323966578
-Costa Rica,4118,100981,2285,59003,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",9,147,0.0024913987424368253
-Costa Rica,4118,100981,2285,59003,0410,"Property, real estate, and community association managers",8,143,0.0024236055793773197
-Costa Rica,4118,100981,2285,59003,3160,Physical therapists,4,142,0.0024066572886124434
-Costa Rica,4118,100981,2285,59003,6240,"Carpet, floor, and tile installers and finishers",6,142,0.0024066572886124434
-Costa Rica,4118,100981,2285,59003,7000,"First-line supervisors of mechanics, installers, and repairers",3,138,0.002338864125552938
-Costa Rica,4118,100981,2285,59003,4252,Tree trimmers and pruners,4,133,0.0022541226717285564
-Costa Rica,4118,100981,2285,59003,5710,Executive secretaries and executive administrative assistants,7,133,0.0022541226717285564
-Costa Rica,4118,100981,2285,59003,1006,Computer systems analysts,6,132,0.0022371743809636796
-Costa Rica,4118,100981,2285,59003,2555,Other educational instruction and library workers,4,132,0.0022371743809636796
-Costa Rica,4118,100981,2285,59003,9830,"Military, rank not specified",5,131,0.0022202260901988033
-Costa Rica,4118,100981,2285,59003,4621,Exercise trainers and group fitness instructors,5,130,0.002203277799433927
-Costa Rica,4118,100981,2285,59003,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",4,124,0.002101588054844669
-Costa Rica,4118,100981,2285,59003,5600,"Production, planning, and expediting clerks",5,123,0.0020846397640797926
-Costa Rica,4118,100981,2285,59003,1555,"Other engineering technologists and technicians, except drafters",6,122,0.0020676914733149163
-Costa Rica,4118,100981,2285,59003,2910,Photographers,3,122,0.0020676914733149163
-Costa Rica,4118,100981,2285,59003,4510,"Hairdressers, hairstylists, and cosmetologists",6,120,0.0020337948917851633
-Costa Rica,4118,100981,2285,59003,5940,Other office and administrative support workers,8,118,0.0019998983102554107
-Costa Rica,4118,100981,2285,59003,8740,"Inspectors, testers, sorters, samplers, and weighers",7,118,0.0019998983102554107
-Costa Rica,4118,100981,2285,59003,0360,Natural sciences managers,2,116,0.001966001728725658
-Costa Rica,4118,100981,2285,59003,2360,Other teachers and instructors,6,116,0.001966001728725658
-Costa Rica,4118,100981,2285,59003,3601,Home health aides,6,115,0.0019490534379607816
-Costa Rica,4118,100981,2285,59003,4920,Real estate brokers and sales agents,7,112,0.0018982085656661526
-Costa Rica,4118,100981,2285,59003,1430,"Industrial engineers, including health and safety",7,111,0.0018812602749012763
-Costa Rica,4118,100981,2285,59003,9150,"Motor vehicle operators, all other",5,111,0.0018812602749012763
-Costa Rica,4118,100981,2285,59003,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",3,110,0.0018643119841363998
-Costa Rica,4118,100981,2285,59003,0060,Public relations and fundraising managers,3,109,0.0018473636933715235
-Costa Rica,4118,100981,2285,59003,2016,Social and human service assistants,6,109,0.0018473636933715235
-Costa Rica,4118,100981,2285,59003,0540,"Claims adjusters, appraisers, examiners, and investigators",4,108,0.0018304154026066472
-Costa Rica,4118,100981,2285,59003,8800,Packaging and filling machine operators and tenders,1,104,0.0017626222395471416
-Costa Rica,4118,100981,2285,59003,9142,Taxi drivers,8,103,0.0017456739487822653
-Costa Rica,4118,100981,2285,59003,2100,"Lawyers, and judges, magistrates, and other judicial workers",7,101,0.0017117773672525125
-Costa Rica,4118,100981,2285,59003,2640,Other designers,7,101,0.0017117773672525125
-Costa Rica,4118,100981,2285,59003,3740,Firefighters,3,100,0.0016948290764876362
-Costa Rica,4118,100981,2285,59003,0850,Personal financial advisors,6,99,0.00167788078572276
-Costa Rica,4118,100981,2285,59003,2865,"Media and communication workers, all other",1,99,0.00167788078572276
-Costa Rica,4118,100981,2285,59003,3520,"Opticians, dispensing",3,99,0.00167788078572276
-Costa Rica,4118,100981,2285,59003,8140,"Welding, soldering, and brazing workers",5,99,0.00167788078572276
-Costa Rica,4118,100981,2285,59003,0735,Market research analysts and marketing specialists,4,98,0.0016609324949578834
-Costa Rica,4118,100981,2285,59003,2350,Tutors,3,97,0.0016439842041930071
-Costa Rica,4118,100981,2285,59003,5550,Postal service mail carriers,3,96,0.0016270359134281309
-Costa Rica,4118,100981,2285,59003,0420,Social and community service managers,6,95,0.0016100876226632544
-Costa Rica,4118,100981,2285,59003,0500,"Agents and business managers of artists, performers, and athletes",3,94,0.001593139331898378
-Costa Rica,4118,100981,2285,59003,0565,Compliance officers,7,94,0.001593139331898378
-Costa Rica,4118,100981,2285,59003,4040,Bartenders,5,94,0.001593139331898378
-Costa Rica,4118,100981,2285,59003,1551,Electrical and electronic engineering technologists and technicians,2,93,0.0015761910411335018
-Costa Rica,4118,100981,2285,59003,4010,First-line supervisors of food preparation and serving workers,2,92,0.0015592427503686253
-Costa Rica,4118,100981,2285,59003,0150,Purchasing managers,4,91,0.001542294459603749
-Costa Rica,4118,100981,2285,59003,3545,Miscellaneous health technologists and technicians,6,91,0.001542294459603749
-Costa Rica,4118,100981,2285,59003,8225,Other metal workers and plastic workers,3,91,0.001542294459603749
-Costa Rica,4118,100981,2285,59003,3820,Detectives and criminal investigators,3,89,0.0015083978780739962
-Costa Rica,4118,100981,2285,59003,7020,Radio and telecommunications equipment installers and repairers,3,89,0.0015083978780739962
-Costa Rica,4118,100981,2285,59003,0910,Credit counselors and loan officers,4,88,0.00149144958730912
-Costa Rica,4118,100981,2285,59003,1410,Electrical and electronics engineers,5,88,0.00149144958730912
-Costa Rica,4118,100981,2285,59003,5522,"Dispatchers, except police, fire, and ambulance",3,88,0.00149144958730912
-Costa Rica,4118,100981,2285,59003,3870,Police officers,5,87,0.0014745012965442436
-Costa Rica,4118,100981,2285,59003,4820,"Securities, commodities, and financial services sales agents",2,87,0.0014745012965442436
-Costa Rica,4118,100981,2285,59003,8950,Helpers--production workers,2,86,0.001457553005779367
-Costa Rica,4118,100981,2285,59003,0205,"Farmers, ranchers, and other agricultural managers",2,85,0.0014406047150144908
-Costa Rica,4118,100981,2285,59003,2004,Mental health counselors,3,85,0.0014406047150144908
-Costa Rica,4118,100981,2285,59003,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,85,0.0014406047150144908
-Costa Rica,4118,100981,2285,59003,4120,"Food servers, nonrestaurant",1,83,0.001406708133484738
-Costa Rica,4118,100981,2285,59003,7130,Security and fire alarm systems installers,2,83,0.001406708133484738
-Costa Rica,4118,100981,2285,59003,7750,Other assemblers and fabricators,4,83,0.001406708133484738
-Costa Rica,4118,100981,2285,59003,8650,"Crushing, grinding, polishing, mixing, and blending workers",3,83,0.001406708133484738
-Costa Rica,4118,100981,2285,59003,3300,Clinical laboratory technologists and technicians,2,81,0.0013728115519549854
-Costa Rica,4118,100981,2285,59003,3945,Transportation security screeners,2,81,0.0013728115519549854
-Costa Rica,4118,100981,2285,59003,9030,Aircraft pilots and flight engineers,3,81,0.0013728115519549854
-Costa Rica,4118,100981,2285,59003,1022,Software quality assurance analysts and testers,4,79,0.0013389149704252327
-Costa Rica,4118,100981,2285,59003,5360,"Human resources assistants, except payroll and timekeeping",3,79,0.0013389149704252327
-Costa Rica,4118,100981,2285,59003,1970,"Other life, physical, and social science technicians",3,78,0.0013219666796603561
-Costa Rica,4118,100981,2285,59003,9825,Military enlisted tactical operations and air/weapons specialists and crew members,1,77,0.0013050183888954799
-Costa Rica,4118,100981,2285,59003,1825,Other psychologists,3,75,0.001271121807365727
-Costa Rica,4118,100981,2285,59003,4622,Recreation workers,1,75,0.001271121807365727
-Costa Rica,4118,100981,2285,59003,7420,Telecommunications line installers and repairers,3,75,0.001271121807365727
-Costa Rica,4118,100981,2285,59003,2861,Interpreters and translators,8,74,0.0012541735166008508
-Costa Rica,4118,100981,2285,59003,3515,Medical records specialists,1,74,0.0012541735166008508
-Costa Rica,4118,100981,2285,59003,4522,Skincare specialists,2,74,0.0012541735166008508
-Costa Rica,4118,100981,2285,59003,9050,Flight attendants,4,73,0.0012372252258359745
-Costa Rica,4118,100981,2285,59003,5100,Bill and account collectors,3,72,0.001220276935071098
-Costa Rica,4118,100981,2285,59003,7150,Automotive body and related repairers,2,70,0.0011863803535413454
-Costa Rica,4118,100981,2285,59003,0530,"Purchasing agents, except wholesale, retail, and farm products",3,69,0.001169432062776469
-Costa Rica,4118,100981,2285,59003,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
-						and plastic",1,69,0.001169432062776469
-Costa Rica,4118,100981,2285,59003,2634,Graphic designers,5,68,0.0011524837720115926
-Costa Rica,4118,100981,2285,59003,2001,Substance abuse and behavioral disorder counselors,3,63,0.0010677423181872107
-Costa Rica,4118,100981,2285,59003,8810,Painting workers,1,63,0.0010677423181872107
-Costa Rica,4118,100981,2285,59003,0600,Cost estimators,1,62,0.0010507940274223344
-Costa Rica,4118,100981,2285,59003,1010,Computer programmers,3,62,0.0010507940274223344
-Costa Rica,4118,100981,2285,59003,5310,"Interviewers, except eligibility and loan",3,62,0.0010507940274223344
-Costa Rica,4118,100981,2285,59003,5160,Tellers,4,60,0.0010168974458925817
-Costa Rica,4118,100981,2285,59003,7210,Bus and truck mechanics and diesel engine specialists,3,59,9.999491551277054e-4
-Costa Rica,4118,100981,2285,59003,1320,Aerospace engineers,4,58,9.83000864362829e-4
-Costa Rica,4118,100981,2285,59003,2002,"Educational, guidance, and career counselors and advisors",5,57,9.660525735979527e-4
-Costa Rica,4118,100981,2285,59003,2006,"Counselors, all other",3,57,9.660525735979527e-4
-Costa Rica,4118,100981,2285,59003,8320,Sewing machine operators,2,56,9.491042828330763e-4
-Costa Rica,4118,100981,2285,59003,0700,Logisticians,3,55,9.321559920681999e-4
-Costa Rica,4118,100981,2285,59003,3010,Dentists,3,55,9.321559920681999e-4
-Costa Rica,4118,100981,2285,59003,6330,"Drywall installers, ceiling tile installers, and tapers",3,55,9.321559920681999e-4
-Costa Rica,4118,100981,2285,59003,0520,"Wholesale and retail buyers, except farm products",3,54,9.152077013033236e-4
-Costa Rica,4118,100981,2285,59003,0930,"Tax examiners and collectors, and revenue agents",3,53,8.982594105384472e-4
-Costa Rica,4118,100981,2285,59003,3423,Surgical technologists,1,53,8.982594105384472e-4
-Costa Rica,4118,100981,2285,59003,4140,Dishwashers,3,53,8.982594105384472e-4
-Costa Rica,4118,100981,2285,59003,4500,Barbers,1,53,8.982594105384472e-4
-Costa Rica,4118,100981,2285,59003,6400,Insulation workers,1,53,8.982594105384472e-4
-Costa Rica,4118,100981,2285,59003,2905,Other media and communication equipment workers,3,52,8.813111197735708e-4
-Costa Rica,4118,100981,2285,59003,2710,Producers and directors,3,50,8.474145382438181e-4
-Costa Rica,4118,100981,2285,59003,7720,"Electrical, electronics, and electromechanical assemblers",2,50,8.474145382438181e-4
-Costa Rica,4118,100981,2285,59003,0510,"Buyers and purchasing agents, farm products",1,49,8.304662474789417e-4
-Costa Rica,4118,100981,2285,59003,2435,Librarians and media collections specialists,3,49,8.304662474789417e-4
-Costa Rica,4118,100981,2285,59003,5150,Procurement clerks,1,49,8.304662474789417e-4
-Costa Rica,4118,100981,2285,59003,5250,"Eligibility interviewers, government programs",1,49,8.304662474789417e-4
-Costa Rica,4118,100981,2285,59003,5410,Reservation and transportation ticket agents and travel clerks,1,49,8.304662474789417e-4
-Costa Rica,4118,100981,2285,59003,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,49,8.304662474789417e-4
-Costa Rica,4118,100981,2285,59003,8350,"Tailors, dressmakers, and sewers",2,49,8.304662474789417e-4
-Costa Rica,4118,100981,2285,59003,1860,Other social scientists,4,48,8.135179567140654e-4
-Costa Rica,4118,100981,2285,59003,2752,Musicians and singers,1,48,8.135179567140654e-4
-Costa Rica,4118,100981,2285,59003,3110,Physician assistants,2,48,8.135179567140654e-4
-Costa Rica,4118,100981,2285,59003,4830,Travel agents,1,48,8.135179567140654e-4
-Costa Rica,4118,100981,2285,59003,6950,Other extraction workers,1,48,8.135179567140654e-4
-Costa Rica,4118,100981,2285,59003,1650,Other life scientists,1,47,7.96569665949189e-4
-Costa Rica,4118,100981,2285,59003,3245,Other therapists,2,46,7.796213751843126e-4
-Costa Rica,4118,100981,2285,59003,4521,Manicurists and pedicurists,3,46,7.796213751843126e-4
-Costa Rica,4118,100981,2285,59003,4130,Dining room and cafeteria attendants and bartender helpers,2,45,7.626730844194363e-4
-Costa Rica,4118,100981,2285,59003,1541,Architectural and civil drafters,1,44,7.4572479365456e-4
-Costa Rica,4118,100981,2285,59003,2635,Interior designers,2,44,7.4572479365456e-4
-Costa Rica,4118,100981,2285,59003,7360,Millwrights,1,44,7.4572479365456e-4
-Costa Rica,4118,100981,2285,59003,3648,Veterinary assistants and laboratory animal caretakers,2,43,7.287765028896836e-4
-Costa Rica,4118,100981,2285,59003,4530,"Baggage porters, bellhops, and concierges",2,42,7.118282121248073e-4
-Costa Rica,4118,100981,2285,59003,6520,Sheet metal workers,2,42,7.118282121248073e-4
-Costa Rica,4118,100981,2285,59003,0650,Training and development specialists,2,41,6.948799213599309e-4
-Costa Rica,4118,100981,2285,59003,1007,Information security analysts,2,41,6.948799213599309e-4
-Costa Rica,4118,100981,2285,59003,5140,Payroll and timekeeping clerks,3,41,6.948799213599309e-4
-Costa Rica,4118,100981,2285,59003,6660,Construction and building inspectors,2,41,6.948799213599309e-4
-Costa Rica,4118,100981,2285,59003,0137,Training and development managers,2,40,6.779316305950545e-4
-Costa Rica,4118,100981,2285,59003,3220,Respiratory therapists,1,40,6.779316305950545e-4
-Costa Rica,4118,100981,2285,59003,7640,"Other installation, maintenance, and repair workers",3,40,6.779316305950545e-4
-Costa Rica,4118,100981,2285,59003,9005,Supervisors of transportation and material moving workers,1,40,6.779316305950545e-4
-Costa Rica,4118,100981,2285,59003,1220,Operations research analysts,1,39,6.609833398301781e-4
-Costa Rica,4118,100981,2285,59003,2060,"Religious workers, all other",1,39,6.609833398301781e-4
-Costa Rica,4118,100981,2285,59003,5900,"Office machine operators, except computer",1,38,6.440350490653018e-4
-Costa Rica,4118,100981,2285,59003,7430,Precision instrument and equipment repairers,1,38,6.440350490653018e-4
-Costa Rica,4118,100981,2285,59003,7905,Computer numerically controlled tool operators and programmers,1,37,6.270867583004254e-4
-Costa Rica,4118,100981,2285,59003,8710,Cutting workers,1,37,6.270867583004254e-4
-Costa Rica,4118,100981,2285,59003,9141,Shuttle drivers and chauffeurs,1,37,6.270867583004254e-4
-Costa Rica,4118,100981,2285,59003,5560,"Postal service mail sorters, processors, and processing machine operators",1,36,6.10138467535549e-4
-Costa Rica,4118,100981,2285,59003,8830,Photographic process workers and processing machine operators,1,36,6.10138467535549e-4
-Costa Rica,4118,100981,2285,59003,3323,Radiologic technologists and technicians,2,35,5.931901767706727e-4
-Costa Rica,4118,100981,2285,59003,4740,Counter and rental clerks,3,35,5.931901767706727e-4
-Costa Rica,4118,100981,2285,59003,8030,Machinists,3,35,5.931901767706727e-4
-Costa Rica,4118,100981,2285,59003,0340,Lodging managers,2,34,5.762418860057963e-4
-Costa Rica,4118,100981,2285,59003,6305,Construction equipment operators,2,34,5.762418860057963e-4
-Costa Rica,4118,100981,2285,59003,6050,Other agricultural workers,3,33,5.592935952409199e-4
-Costa Rica,4118,100981,2285,59003,3250,Veterinarians,1,32,5.423453044760436e-4
-Costa Rica,4118,100981,2285,59003,2755,"Disc jockeys, except radio",1,31,5.253970137111672e-4
-Costa Rica,4118,100981,2285,59003,3647,Pharmacy aides,1,30,5.084487229462908e-4
-Costa Rica,4118,100981,2285,59003,6600,"Helpers, construction trades",2,30,5.084487229462908e-4
-Costa Rica,4118,100981,2285,59003,8300,Laundry and dry-cleaning workers,2,30,5.084487229462908e-4
-Costa Rica,4118,100981,2285,59003,4800,Advertising sales agents,2,29,4.915004321814145e-4
-Costa Rica,4118,100981,2285,59003,5810,Data entry keyers,1,29,4.915004321814145e-4
-Costa Rica,4118,100981,2285,59003,0860,Insurance underwriters,1,28,4.7455214141653814e-4
-Costa Rica,4118,100981,2285,59003,0960,Other financial specialists,2,28,4.7455214141653814e-4
-Costa Rica,4118,100981,2285,59003,3500,Licensed practical and licensed vocational nurses,3,28,4.7455214141653814e-4
-Costa Rica,4118,100981,2285,59003,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",2,28,4.7455214141653814e-4
-Costa Rica,4118,100981,2285,59003,4655,"Personal care and service workers, all other",2,28,4.7455214141653814e-4
-Costa Rica,4118,100981,2285,59003,2170,"Title examiners, abstractors, and searchers",1,27,4.576038506516618e-4
-Costa Rica,4118,100981,2285,59003,2751,Music directors and composers,1,27,4.576038506516618e-4
-Costa Rica,4118,100981,2285,59003,3424,Veterinary technologists and technicians,2,27,4.576038506516618e-4
-Costa Rica,4118,100981,2285,59003,4240,Pest control workers,1,27,4.576038506516618e-4
-Costa Rica,4118,100981,2285,59003,1032,Web and digital interface designers,1,26,4.406555598867854e-4
-Costa Rica,4118,100981,2285,59003,3321,Cardiovascular technologists and technicians,1,26,4.406555598867854e-4
-Costa Rica,4118,100981,2285,59003,8465,"Other textile, apparel, and furnishings workers",1,26,4.406555598867854e-4
-Costa Rica,4118,100981,2285,59003,2636,Merchandise displayers and window trimmers,1,25,4.2370726912190906e-4
-Costa Rica,4118,100981,2285,59003,5300,"Hotel, motel, and resort desk clerks",2,25,4.2370726912190906e-4
-Costa Rica,4118,100981,2285,59003,6835,"Explosives workers, ordnance handling experts, and blasters",1,25,4.2370726912190906e-4
-Costa Rica,4118,100981,2285,59003,9415,Passenger attendants,2,25,4.2370726912190906e-4
-Costa Rica,4118,100981,2285,59003,3261,Acupuncturists,2,24,4.067589783570327e-4
-Costa Rica,4118,100981,2285,59003,8750,Jewelers and precious stone and metal workers,2,24,4.067589783570327e-4
-Costa Rica,4118,100981,2285,59003,0102,Facilities managers,1,23,3.898106875921563e-4
-Costa Rica,4118,100981,2285,59003,0135,Compensation and benefits managers,1,23,3.898106875921563e-4
-Costa Rica,4118,100981,2285,59003,3910,Private detectives and investigators,2,23,3.898106875921563e-4
-Costa Rica,4118,100981,2285,59003,1800,Economists,1,22,3.7286239682728e-4
-Costa Rica,4118,100981,2285,59003,4350,Animal caretakers,2,22,3.7286239682728e-4
-Costa Rica,4118,100981,2285,59003,1065,Database administrators and architects,2,21,3.5591410606240363e-4
-Costa Rica,4118,100981,2285,59003,3725,"Miscellaneous first-line supervisors, protective service workers",1,21,3.5591410606240363e-4
-Costa Rica,4118,100981,2285,59003,8255,Printing press operators,1,21,3.5591410606240363e-4
-Costa Rica,4118,100981,2285,59003,9720,Refuse and recyclable material collectors,1,21,3.5591410606240363e-4
-Costa Rica,4118,100981,2285,59003,0040,Advertising and promotions managers,1,20,3.3896581529752724e-4
-Costa Rica,4118,100981,2285,59003,5330,Loan interviewers and clerks,2,20,3.3896581529752724e-4
-Costa Rica,4118,100981,2285,59003,6010,Agricultural inspectors,1,20,3.3896581529752724e-4
-Costa Rica,4118,100981,2285,59003,8450,Upholsterers,1,20,3.3896581529752724e-4
-Costa Rica,4118,100981,2285,59003,2011,"Child, family, and school social workers",1,18,3.050692337677745e-4
-Costa Rica,4118,100981,2285,59003,3802,Correctional officers and jailers,1,18,3.050692337677745e-4
-Costa Rica,4118,100981,2285,59003,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,18,3.050692337677745e-4
-Costa Rica,4118,100981,2285,59003,7410,Electrical power-line installers and repairers,1,18,3.050692337677745e-4
-Costa Rica,4118,100981,2285,59003,2050,"Directors, religious activities and education",2,17,2.8812094300289815e-4
-Costa Rica,4118,100981,2285,59003,3310,Dental hygienists,1,17,2.8812094300289815e-4
-Costa Rica,4118,100981,2285,59003,5521,Public safety telecommunicators,1,17,2.8812094300289815e-4
-Costa Rica,4118,100981,2285,59003,5820,Word processors and typists,1,17,2.8812094300289815e-4
-Costa Rica,4118,100981,2285,59003,2180,"Legal support workers, all other",1,16,2.711726522380218e-4
-Costa Rica,4118,100981,2285,59003,2840,Technical writers,1,16,2.711726522380218e-4
-Costa Rica,4118,100981,2285,59003,0725,"Meeting, convention, and event planners",1,15,2.542243614731454e-4
-Costa Rica,4118,100981,2285,59003,1545,Other drafters,1,15,2.542243614731454e-4
-Costa Rica,4118,100981,2285,59003,1560,Surveying and mapping technicians,1,15,2.542243614731454e-4
-Costa Rica,4118,100981,2285,59003,1610,Biological scientists,1,15,2.542243614731454e-4
-Costa Rica,4118,100981,2285,59003,2830,Editors,1,15,2.542243614731454e-4
-Costa Rica,4118,100981,2285,59003,4055,Fast food and counter workers,2,15,2.542243614731454e-4
-Costa Rica,4118,100981,2285,59003,4640,Residential advisors,1,15,2.542243614731454e-4
-Costa Rica,4118,100981,2285,59003,7120,Electronic home entertainment equipment installers and repairers,1,15,2.542243614731454e-4
-Costa Rica,4118,100981,2285,59003,8310,"Pressers, textile, garment, and related materials",1,15,2.542243614731454e-4
-Costa Rica,4118,100981,2285,59003,3550,Other healthcare practitioners and technical occupations,1,14,2.3727607070826907e-4
-Costa Rica,4118,100981,2285,59003,4400,Gambling services workers,1,14,2.3727607070826907e-4
-Costa Rica,4118,100981,2285,59003,4930,Sales engineers,1,14,2.3727607070826907e-4
-Costa Rica,4118,100981,2285,59003,1400,Computer hardware engineers,1,13,2.203277799433927e-4
-Costa Rica,4118,100981,2285,59003,1720,Chemists and materials scientists,1,13,2.203277799433927e-4
-Costa Rica,4118,100981,2285,59003,2012,Healthcare social workers,1,13,2.203277799433927e-4
-Costa Rica,4118,100981,2285,59003,5840,Insurance claims and policy processing clerks,1,13,2.203277799433927e-4
-Costa Rica,4118,100981,2285,59003,7320,Home appliance repairers,1,13,2.203277799433927e-4
-Costa Rica,4118,100981,2285,59003,9350,Parking attendants,1,13,2.203277799433927e-4
-Costa Rica,4118,100981,2285,59003,0640,"Compensation, benefits, and job analysis specialists",1,12,2.0337948917851636e-4
-Costa Rica,4118,100981,2285,59003,1305,"Architects, except landscape and naval",1,12,2.0337948917851636e-4
-Costa Rica,4118,100981,2285,59003,2003,Marriage and family therapists,1,12,2.0337948917851636e-4
-Costa Rica,4118,100981,2285,59003,3605,Orderlies and psychiatric aides,1,12,2.0337948917851636e-4
-Costa Rica,4118,100981,2285,59003,5260,File clerks,1,12,2.0337948917851636e-4
-Costa Rica,4118,100981,2285,59003,7140,Aircraft mechanics and service technicians,1,12,2.0337948917851636e-4
-Costa Rica,4118,100981,2285,59003,2722,Coaches and scouts,1,11,1.8643119841364e-4
-Costa Rica,4118,100981,2285,59003,3960,Other protective service workers,1,11,1.8643119841364e-4
-Costa Rica,4118,100981,2285,59003,9630,Machine feeders and offbearers,1,11,1.8643119841364e-4
-Costa Rica,4118,100981,2285,59003,2015,Probation officers and correctional treatment specialists,1,10,1.6948290764876362e-4
-Costa Rica,4118,100981,2285,59003,2810,"News analysts, reporters, and journalists",1,10,1.6948290764876362e-4
-Costa Rica,4118,100981,2285,59003,2850,Writers and authors,1,10,1.6948290764876362e-4
-Costa Rica,4118,100981,2285,59003,2632,Fashion designers,1,9,1.5253461688388725e-4
-Costa Rica,4118,100981,2285,59003,3050,Pharmacists,1,9,1.5253461688388725e-4
-Costa Rica,4118,100981,2285,59003,5420,Other information and records clerks,1,9,1.5253461688388725e-4
-Costa Rica,4118,100981,2285,59003,7810,"Butchers and other meat, poultry, and fish processing workers",1,9,1.5253461688388725e-4
-Costa Rica,4118,100981,2285,59003,8555,Other woodworkers,1,9,1.5253461688388725e-4
-Costa Rica,4118,100981,2285,59003,1200,Actuaries,1,8,1.355863261190109e-4
-Costa Rica,4118,100981,2285,59003,1350,Chemical engineers,1,8,1.355863261190109e-4
-Costa Rica,4118,100981,2285,59003,8630,Miscellaneous plant and system operators,1,8,1.355863261190109e-4
-Costa Rica,4118,100981,2285,59003,9121,"Bus drivers, school",1,8,1.355863261190109e-4
-Costa Rica,4118,100981,2285,59003,7855,"Food processing workers, all other",1,4,6.779316305950545e-5
-Costa Rica,4118,100981,2285,59003,1106,Computer network architects,1,3,5.084487229462909e-5
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Costa Rica,4118,100981,2474,63083,4230,Maids and housekeeping cleaners,84,2458,0.03896453878223927
+Costa Rica,4118,100981,2474,63083,4220,Janitors and building cleaners,73,2110,0.03344799708320784
+Costa Rica,4118,100981,2474,63083,9130,Driver/sales workers and truck drivers,67,1880,0.029802006879824993
+Costa Rica,4118,100981,2474,63083,6260,Construction laborers,56,1874,0.029706894091910657
+Costa Rica,4118,100981,2474,63083,0440,Other managers,79,1851,0.029342295071572374
+Costa Rica,4118,100981,2474,63083,4251,Landscaping and groundskeeping workers,45,1594,0.02526829732257502
+Costa Rica,4118,100981,2474,63083,6410,Painters and paperhangers,48,1575,0.02496710682751296
+Costa Rica,4118,100981,2474,63083,4020,Cooks,41,1284,0.02035413661366771
+Costa Rica,4118,100981,2474,63083,0120,Financial managers,35,1087,0.017231266743813707
+Costa Rica,4118,100981,2474,63083,5240,Customer service representatives,40,1077,0.01707274543062315
+Costa Rica,4118,100981,2474,63083,2310,Elementary and middle school teachers,38,963,0.015265602460250782
+Costa Rica,4118,100981,2474,63083,6230,Carpenters,32,940,0.014901003439912497
+Costa Rica,4118,100981,2474,63083,5740,"Secretaries and administrative assistants, except legal, medical, and executive",38,812,0.012871930631073348
+Costa Rica,4118,100981,2474,63083,9620,"Laborers and freight, stock, and material movers, hand",27,745,0.011809837832696606
+Costa Rica,4118,100981,2474,63083,4700,First-line supervisors of retail sales workers,31,734,0.011635464388186991
+Costa Rica,4118,100981,2474,63083,4110,Waiters and waitresses,30,731,0.011587907994229825
+Costa Rica,4118,100981,2474,63083,4600,Childcare workers,31,717,0.011365978155763042
+Costa Rica,4118,100981,2474,63083,3602,Personal care aides,27,712,0.011286717499167763
+Costa Rica,4118,100981,2474,63083,4720,Cashiers,28,701,0.01111234405465815
+Costa Rica,4118,100981,2474,63083,7200,Automotive service technicians and mechanics,26,699,0.011080639792020038
+Costa Rica,4118,100981,2474,63083,2205,Postsecondary teachers,32,692,0.010969674872786645
+Costa Rica,4118,100981,2474,63083,3255,Registered nurses,32,613,0.0097173564985812335
+Costa Rica,4118,100981,2474,63083,0020,General and operations managers,21,610,0.009669800104624067
+Costa Rica,4118,100981,2474,63083,2545,Teaching assistants,31,603,0.009558835185390675
+Costa Rica,4118,100981,2474,63083,0220,Construction managers,25,601,0.009527130922752564
+Costa Rica,4118,100981,2474,63083,4760,Retail salespersons,31,591,0.009368609609562005
+Costa Rica,4118,100981,2474,63083,2040,Clergy,22,557,0.008829637144714107
+Costa Rica,4118,100981,2474,63083,5000,First-line supervisors of office and administrative support workers,19,547,0.008671115831523548
+Costa Rica,4118,100981,2474,63083,1050,Computer support specialists,11,531,0.008417481730418655
+Costa Rica,4118,100981,2474,63083,5400,Receptionists and information clerks,17,524,0.008306516811185265
+Costa Rica,4118,100981,2474,63083,1021,Software developers,22,523,0.008290664679866208
+Costa Rica,4118,100981,2474,63083,0630,Human resources workers,19,488,0.007735840083699253
+Costa Rica,4118,100981,2474,63083,5860,"Office clerks, general",24,482,0.007640727295784918
+Costa Rica,4118,100981,2474,63083,1240,Other mathematical science occupations,7,479,0.007593170901827751
+Costa Rica,4118,100981,2474,63083,9645,Stockers and order fillers,17,456,0.007228571881489466
+Costa Rica,4118,100981,2474,63083,6355,Electricians,17,449,0.0071176069622560754
+Costa Rica,4118,100981,2474,63083,3090,Physicians,19,441,0.006990789911703628
+Costa Rica,4118,100981,2474,63083,0230,Education and childcare administrators,15,431,0.00683226859851307
+Costa Rica,4118,100981,2474,63083,0705,Project management specialists,22,406,0.006435965315536674
+Costa Rica,4118,100981,2474,63083,3603,Nursing assistants,15,385,0.006103070557836501
+Costa Rica,4118,100981,2474,63083,5120,"Bookkeeping, accounting, and auditing clerks",18,383,0.006071366295198389
+Costa Rica,4118,100981,2474,63083,0800,Accountants and auditors,22,380,0.006023809901241222
+Costa Rica,4118,100981,2474,63083,2320,Secondary school teachers,18,379,0.006007957769922166
+Costa Rica,4118,100981,2474,63083,3930,Security guards and gaming surveillance officers,9,374,0.005928697113326887
+Costa Rica,4118,100981,2474,63083,4710,First-line supervisors of non-retail sales workers,15,374,0.005928697113326887
+Costa Rica,4118,100981,2474,63083,4200,First-line supervisors of housekeeping and janitorial workers,17,370,0.0058652885880506635
+Costa Rica,4118,100981,2474,63083,5510,Couriers and messengers,15,353,0.005595802355626714
+Costa Rica,4118,100981,2474,63083,0010,Chief executives and legislators,18,352,0.005579950224307659
+Costa Rica,4118,100981,2474,63083,4030,Food preparation workers,20,341,0.0054055767797980435
+Costa Rica,4118,100981,2474,63083,6200,First-line supervisors of construction trades and extraction workers,14,335,0.0053104639918837085
+Costa Rica,4118,100981,2474,63083,0710,Management analysts,12,334,0.005294611860564653
+Costa Rica,4118,100981,2474,63083,0310,Food service managers,13,322,0.005104386284735983
+Costa Rica,4118,100981,2474,63083,7330,Industrial and refractory machinery mechanics,5,318,0.005040977759459759
+Costa Rica,4118,100981,2474,63083,6442,"Plumbers, pipefitters, and steamfitters",12,311,0.004930012840226369
+Costa Rica,4118,100981,2474,63083,2300,Preschool and kindergarten teachers,15,307,0.004866604314950145
+Costa Rica,4118,100981,2474,63083,7340,"Maintenance and repair workers, general",10,305,0.004834900052312034
+Costa Rica,4118,100981,2474,63083,9640,"Packers and packagers, hand",11,304,0.004819047920992977
+Costa Rica,4118,100981,2474,63083,8990,"Miscellaneous production workers, including equipment operators and tenders",11,291,0.0046129702138452515
+Costa Rica,4118,100981,2474,63083,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",7,274,0.004343483981421302
+Costa Rica,4118,100981,2474,63083,7315,"Heating, air conditioning, and refrigeration mechanics and installers",6,263,0.004169110536911688
+Costa Rica,4118,100981,2474,63083,7700,First-line supervisors of production and operating workers,6,261,0.004137406274273576
+Costa Rica,4118,100981,2474,63083,4000,Chefs and head cooks,10,256,0.0040581456176782965
+Costa Rica,4118,100981,2474,63083,0140,Industrial production managers,8,252,0.003994737092402074
+Costa Rica,4118,100981,2474,63083,1460,Mechanical engineers,4,244,0.0038679200418496266
+Costa Rica,4118,100981,2474,63083,1105,Network and computer systems administrators,7,243,0.003852067910530571
+Costa Rica,4118,100981,2474,63083,3640,Dental assistants,9,241,0.003820363647892459
+Costa Rica,4118,100981,2474,63083,3655,Other healthcare support workers,5,240,0.0038045115165734034
+Costa Rica,4118,100981,2474,63083,2014,"Social workers, all other",10,238,0.0037728072539352916
+Costa Rica,4118,100981,2474,63083,5165,Other financial clerks,6,238,0.0037728072539352916
+Costa Rica,4118,100981,2474,63083,0052,Sales managers,9,236,0.00374110299129718
+Costa Rica,4118,100981,2474,63083,4965,"Sales and related workers, all other",6,233,0.0036935465973400123
+Costa Rica,4118,100981,2474,63083,0110,Computer and information systems managers,10,232,0.0036776944660209566
+Costa Rica,4118,100981,2474,63083,2330,Special education teachers,7,230,0.003645990203382845
+Costa Rica,4118,100981,2474,63083,0750,"Business operations specialists, all other",8,228,0.003614285940744733
+Costa Rica,4118,100981,2474,63083,4850,"Sales representatives, wholesale and manufacturing",9,220,0.0034874688901922863
+Costa Rica,4118,100981,2474,63083,3421,Pharmacy technicians,8,217,0.003439912496235119
+Costa Rica,4118,100981,2474,63083,1360,Civil engineers,8,214,0.0033923561022779513
+Costa Rica,4118,100981,2474,63083,1530,Other engineers,10,207,0.0032813911830445602
+Costa Rica,4118,100981,2474,63083,2025,Other community and social service specialists,6,205,0.0032496869204064484
+Costa Rica,4118,100981,2474,63083,9600,Industrial truck and tractor operators,7,202,0.003202130526449281
+Costa Rica,4118,100981,2474,63083,1108,"Computer occupations, all other",11,200,0.0031704262638111696
+Costa Rica,4118,100981,2474,63083,5610,"Shipping, receiving, and inventory clerks",9,192,0.003043609213258723
+Costa Rica,4118,100981,2474,63083,8140,"Welding, soldering, and brazing workers",7,188,0.0029802006879824992
+Costa Rica,4118,100981,2474,63083,6515,Roofers,8,186,0.0029484964253443874
+Costa Rica,4118,100981,2474,63083,0300,Architectural and engineering managers,8,183,0.00290094003138722
+Costa Rica,4118,100981,2474,63083,9142,Taxi drivers,11,183,0.00290094003138722
+Costa Rica,4118,100981,2474,63083,5110,Billing and posting clerks,8,182,0.0028850879000681643
+Costa Rica,4118,100981,2474,63083,0136,Human resources managers,8,176,0.0027899751121538293
+Costa Rica,4118,100981,2474,63083,2145,Paralegals and legal assistants,11,176,0.0027899751121538293
+Costa Rica,4118,100981,2474,63083,0051,Marketing managers,7,173,0.0027424187181966614
+Costa Rica,4118,100981,2474,63083,0160,"Transportation, storage, and distribution managers",8,173,0.0027424187181966614
+Costa Rica,4118,100981,2474,63083,4510,"Hairdressers, hairstylists, and cosmetologists",7,170,0.002694862324239494
+Costa Rica,4118,100981,2474,63083,0410,"Property, real estate, and community association managers",9,168,0.0026631580616013825
+Costa Rica,4118,100981,2474,63083,3645,Medical assistants,7,167,0.0026473059302823264
+Costa Rica,4118,100981,2474,63083,9122,"Bus drivers, transit and intercity",4,166,0.0026314537989632707
+Costa Rica,4118,100981,2474,63083,1760,"Physical scientists, all other",3,164,0.002599749536325159
+Costa Rica,4118,100981,2474,63083,9610,Cleaners of vehicles and equipment,6,164,0.002599749536325159
+Costa Rica,4118,100981,2474,63083,1006,Computer systems analysts,8,163,0.0025838974050061032
+Costa Rica,4118,100981,2474,63083,4810,Insurance sales agents,7,153,0.0024253760918155447
+Costa Rica,4118,100981,2474,63083,5940,Other office and administrative support workers,10,151,0.002393671829177433
+Costa Rica,4118,100981,2474,63083,0350,Medical and health services managers,7,150,0.002377819697858377
+Costa Rica,4118,100981,2474,63083,0845,Financial and investment analysts,6,149,0.002361967566539321
+Costa Rica,4118,100981,2474,63083,5710,Executive secretaries and executive administrative assistants,9,149,0.002361967566539321
+Costa Rica,4118,100981,2474,63083,1825,Other psychologists,7,148,0.0023461154352202654
+Costa Rica,4118,100981,2474,63083,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",9,147,0.0023302633039012097
+Costa Rica,4118,100981,2474,63083,3160,Physical therapists,4,142,0.0022510026473059304
+Costa Rica,4118,100981,2474,63083,6240,"Carpet, floor, and tile installers and finishers",6,142,0.0022510026473059304
+Costa Rica,4118,100981,2474,63083,2360,Other teachers and instructors,8,139,0.002203446253348763
+Costa Rica,4118,100981,2474,63083,7000,"First-line supervisors of mechanics, installers, and repairers",3,138,0.002187594122029707
+Costa Rica,4118,100981,2474,63083,4252,Tree trimmers and pruners,4,133,0.0021083334654344275
+Costa Rica,4118,100981,2474,63083,1555,"Other engineering technologists and technicians, except drafters",7,132,0.002092481334115372
+Costa Rica,4118,100981,2474,63083,2555,Other educational instruction and library workers,4,132,0.002092481334115372
+Costa Rica,4118,100981,2474,63083,9830,"Military, rank not specified",5,131,0.002076629202796316
+Costa Rica,4118,100981,2474,63083,4621,Exercise trainers and group fitness instructors,5,130,0.00206077707147726
+Costa Rica,4118,100981,2474,63083,4920,Real estate brokers and sales agents,8,127,0.0020132206775200926
+Costa Rica,4118,100981,2474,63083,8740,"Inspectors, testers, sorters, samplers, and weighers",8,127,0.0020132206775200926
+Costa Rica,4118,100981,2474,63083,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",4,124,0.001965664283562925
+Costa Rica,4118,100981,2474,63083,5600,"Production, planning, and expediting clerks",5,123,0.0019498121522438692
+Costa Rica,4118,100981,2474,63083,2910,Photographers,3,122,0.0019339600209248133
+Costa Rica,4118,100981,2474,63083,0850,Personal financial advisors,7,117,0.001854699364329534
+Costa Rica,4118,100981,2474,63083,0360,Natural sciences managers,2,116,0.0018388472330104783
+Costa Rica,4118,100981,2474,63083,3601,Home health aides,6,115,0.0018229951016914224
+Costa Rica,4118,100981,2474,63083,3545,Miscellaneous health technologists and technicians,7,114,0.0018071429703723665
+Costa Rica,4118,100981,2474,63083,1430,"Industrial engineers, including health and safety",7,111,0.001759586576415199
+Costa Rica,4118,100981,2474,63083,9150,"Motor vehicle operators, all other",5,111,0.001759586576415199
+Costa Rica,4118,100981,2474,63083,0420,Social and community service managers,7,110,0.0017437344450961431
+Costa Rica,4118,100981,2474,63083,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",3,110,0.0017437344450961431
+Costa Rica,4118,100981,2474,63083,0060,Public relations and fundraising managers,3,109,0.0017278823137770872
+Costa Rica,4118,100981,2474,63083,2016,Social and human service assistants,6,109,0.0017278823137770872
+Costa Rica,4118,100981,2474,63083,0540,"Claims adjusters, appraisers, examiners, and investigators",4,108,0.0017120301824580316
+Costa Rica,4118,100981,2474,63083,0565,Compliance officers,8,104,0.0016486216571818082
+Costa Rica,4118,100981,2474,63083,8800,Packaging and filling machine operators and tenders,1,104,0.0016486216571818082
+Costa Rica,4118,100981,2474,63083,2100,"Lawyers, and judges, magistrates, and other judicial workers",7,101,0.0016010652632246405
+Costa Rica,4118,100981,2474,63083,2640,Other designers,7,101,0.0016010652632246405
+Costa Rica,4118,100981,2474,63083,3740,Firefighters,3,100,0.0015852131319055848
+Costa Rica,4118,100981,2474,63083,2865,"Media and communication workers, all other",1,99,0.001569361000586529
+Costa Rica,4118,100981,2474,63083,3520,"Opticians, dispensing",3,99,0.001569361000586529
+Costa Rica,4118,100981,2474,63083,0735,Market research analysts and marketing specialists,4,98,0.001553508869267473
+Costa Rica,4118,100981,2474,63083,2004,Mental health counselors,4,98,0.001553508869267473
+Costa Rica,4118,100981,2474,63083,2350,Tutors,3,97,0.001537656737948417
+Costa Rica,4118,100981,2474,63083,2861,Interpreters and translators,10,96,0.0015218046066293614
+Costa Rica,4118,100981,2474,63083,5550,Postal service mail carriers,3,96,0.0015218046066293614
+Costa Rica,4118,100981,2474,63083,0500,"Agents and business managers of artists, performers, and athletes",3,94,0.0014901003439912496
+Costa Rica,4118,100981,2474,63083,4040,Bartenders,5,94,0.0014901003439912496
+Costa Rica,4118,100981,2474,63083,1551,Electrical and electronic engineering technologists and technicians,2,93,0.0014742482126721937
+Costa Rica,4118,100981,2474,63083,4010,First-line supervisors of food preparation and serving workers,2,92,0.001458396081353138
+Costa Rica,4118,100981,2474,63083,0150,Purchasing managers,4,91,0.0014425439500340821
+Costa Rica,4118,100981,2474,63083,4120,"Food servers, nonrestaurant",2,91,0.0014425439500340821
+Costa Rica,4118,100981,2474,63083,8225,Other metal workers and plastic workers,3,91,0.0014425439500340821
+Costa Rica,4118,100981,2474,63083,5100,Bill and account collectors,4,90,0.0014266918187150262
+Costa Rica,4118,100981,2474,63083,7750,Other assemblers and fabricators,5,90,0.0014266918187150262
+Costa Rica,4118,100981,2474,63083,3820,Detectives and criminal investigators,3,89,0.0014108396873959703
+Costa Rica,4118,100981,2474,63083,7020,Radio and telecommunications equipment installers and repairers,3,89,0.0014108396873959703
+Costa Rica,4118,100981,2474,63083,0910,Credit counselors and loan officers,4,88,0.0013949875560769146
+Costa Rica,4118,100981,2474,63083,1410,Electrical and electronics engineers,5,88,0.0013949875560769146
+Costa Rica,4118,100981,2474,63083,5522,"Dispatchers, except police, fire, and ambulance",3,88,0.0013949875560769146
+Costa Rica,4118,100981,2474,63083,2006,"Counselors, all other",4,87,0.0013791354247578587
+Costa Rica,4118,100981,2474,63083,3870,Police officers,5,87,0.0013791354247578587
+Costa Rica,4118,100981,2474,63083,4820,"Securities, commodities, and financial services sales agents",2,87,0.0013791354247578587
+Costa Rica,4118,100981,2474,63083,8950,Helpers--production workers,2,86,0.0013632832934388028
+Costa Rica,4118,100981,2474,63083,0205,"Farmers, ranchers, and other agricultural managers",2,85,0.001347431162119747
+Costa Rica,4118,100981,2474,63083,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,85,0.001347431162119747
+Costa Rica,4118,100981,2474,63083,7130,Security and fire alarm systems installers,2,83,0.0013157268994816354
+Costa Rica,4118,100981,2474,63083,8650,"Crushing, grinding, polishing, mixing, and blending workers",3,83,0.0013157268994816354
+Costa Rica,4118,100981,2474,63083,3300,Clinical laboratory technologists and technicians,2,81,0.0012840226368435236
+Costa Rica,4118,100981,2474,63083,3945,Transportation security screeners,2,81,0.0012840226368435236
+Costa Rica,4118,100981,2474,63083,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
+						and plastic",2,81,0.0012840226368435236
+Costa Rica,4118,100981,2474,63083,9030,Aircraft pilots and flight engineers,3,81,0.0012840226368435236
+Costa Rica,4118,100981,2474,63083,1022,Software quality assurance analysts and testers,4,79,0.001252318374205412
+Costa Rica,4118,100981,2474,63083,3110,Physician assistants,3,79,0.001252318374205412
+Costa Rica,4118,100981,2474,63083,5360,"Human resources assistants, except payroll and timekeeping",3,79,0.001252318374205412
+Costa Rica,4118,100981,2474,63083,1970,"Other life, physical, and social science technicians",3,78,0.001236466242886356
+Costa Rica,4118,100981,2474,63083,3245,Other therapists,3,78,0.001236466242886356
+Costa Rica,4118,100981,2474,63083,9825,Military enlisted tactical operations and air/weapons specialists and crew members,1,77,0.0012206141115673002
+Costa Rica,4118,100981,2474,63083,4522,Skincare specialists,3,75,0.0011889098489291886
+Costa Rica,4118,100981,2474,63083,4622,Recreation workers,1,75,0.0011889098489291886
+Costa Rica,4118,100981,2474,63083,5250,"Eligibility interviewers, government programs",2,75,0.0011889098489291886
+Costa Rica,4118,100981,2474,63083,7420,Telecommunications line installers and repairers,3,75,0.0011889098489291886
+Costa Rica,4118,100981,2474,63083,7720,"Electrical, electronics, and electromechanical assemblers",3,75,0.0011889098489291886
+Costa Rica,4118,100981,2474,63083,3515,Medical records specialists,1,74,0.0011730577176101327
+Costa Rica,4118,100981,2474,63083,9050,Flight attendants,4,73,0.0011572055862910768
+Costa Rica,4118,100981,2474,63083,7150,Automotive body and related repairers,2,70,0.0011096491923339093
+Costa Rica,4118,100981,2474,63083,0530,"Purchasing agents, except wholesale, retail, and farm products",3,69,0.0010937970610148534
+Costa Rica,4118,100981,2474,63083,2634,Graphic designers,5,68,0.0010779449296957975
+Costa Rica,4118,100981,2474,63083,1010,Computer programmers,4,67,0.0010620927983767418
+Costa Rica,4118,100981,2474,63083,5850,"Mail clerks and mail machine operators, except postal service",2,64,0.0010145364044195741
+Costa Rica,4118,100981,2474,63083,2001,Substance abuse and behavioral disorder counselors,3,63,9.986842731005184e-4
+Costa Rica,4118,100981,2474,63083,2752,Musicians and singers,2,63,9.986842731005184e-4
+Costa Rica,4118,100981,2474,63083,8810,Painting workers,1,63,9.986842731005184e-4
+Costa Rica,4118,100981,2474,63083,0600,Cost estimators,1,62,9.828321417814625e-4
+Costa Rica,4118,100981,2474,63083,5310,"Interviewers, except eligibility and loan",3,62,9.828321417814625e-4
+Costa Rica,4118,100981,2474,63083,5160,Tellers,4,60,9.511278791433509e-4
+Costa Rica,4118,100981,2474,63083,1650,Other life scientists,2,59,9.35275747824295e-4
+Costa Rica,4118,100981,2474,63083,7210,Bus and truck mechanics and diesel engine specialists,3,59,9.35275747824295e-4
+Costa Rica,4118,100981,2474,63083,1320,Aerospace engineers,4,58,9.194236165052392e-4
+Costa Rica,4118,100981,2474,63083,2002,"Educational, guidance, and career counselors and advisors",5,57,9.035714851861833e-4
+Costa Rica,4118,100981,2474,63083,8320,Sewing machine operators,2,56,8.877193538671275e-4
+Costa Rica,4118,100981,2474,63083,0700,Logisticians,3,55,8.718672225480716e-4
+Costa Rica,4118,100981,2474,63083,3010,Dentists,3,55,8.718672225480716e-4
+Costa Rica,4118,100981,2474,63083,6330,"Drywall installers, ceiling tile installers, and tapers",3,55,8.718672225480716e-4
+Costa Rica,4118,100981,2474,63083,0520,"Wholesale and retail buyers, except farm products",3,54,8.560150912290158e-4
+Costa Rica,4118,100981,2474,63083,0930,"Tax examiners and collectors, and revenue agents",3,53,8.401629599099599e-4
+Costa Rica,4118,100981,2474,63083,2635,Interior designers,3,53,8.401629599099599e-4
+Costa Rica,4118,100981,2474,63083,3423,Surgical technologists,1,53,8.401629599099599e-4
+Costa Rica,4118,100981,2474,63083,4140,Dishwashers,3,53,8.401629599099599e-4
+Costa Rica,4118,100981,2474,63083,4500,Barbers,1,53,8.401629599099599e-4
+Costa Rica,4118,100981,2474,63083,6400,Insulation workers,1,53,8.401629599099599e-4
+Costa Rica,4118,100981,2474,63083,2905,Other media and communication equipment workers,3,52,8.243108285909041e-4
+Costa Rica,4118,100981,2474,63083,4655,"Personal care and service workers, all other",3,52,8.243108285909041e-4
+Costa Rica,4118,100981,2474,63083,2060,"Religious workers, all other",2,51,8.084586972718482e-4
+Costa Rica,4118,100981,2474,63083,2710,Producers and directors,3,50,7.926065659527924e-4
+Costa Rica,4118,100981,2474,63083,0510,"Buyers and purchasing agents, farm products",1,49,7.767544346337365e-4
+Costa Rica,4118,100981,2474,63083,2435,Librarians and media collections specialists,3,49,7.767544346337365e-4
+Costa Rica,4118,100981,2474,63083,5150,Procurement clerks,1,49,7.767544346337365e-4
+Costa Rica,4118,100981,2474,63083,5410,Reservation and transportation ticket agents and travel clerks,1,49,7.767544346337365e-4
+Costa Rica,4118,100981,2474,63083,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,49,7.767544346337365e-4
+Costa Rica,4118,100981,2474,63083,8350,"Tailors, dressmakers, and sewers",2,49,7.767544346337365e-4
+Costa Rica,4118,100981,2474,63083,1860,Other social scientists,4,48,7.609023033146807e-4
+Costa Rica,4118,100981,2474,63083,4830,Travel agents,1,48,7.609023033146807e-4
+Costa Rica,4118,100981,2474,63083,6950,Other extraction workers,1,48,7.609023033146807e-4
+Costa Rica,4118,100981,2474,63083,4521,Manicurists and pedicurists,3,46,7.29198040676569e-4
+Costa Rica,4118,100981,2474,63083,9005,Supervisors of transportation and material moving workers,2,46,7.29198040676569e-4
+Costa Rica,4118,100981,2474,63083,4130,Dining room and cafeteria attendants and bartender helpers,2,45,7.133459093575131e-4
+Costa Rica,4118,100981,2474,63083,1541,Architectural and civil drafters,1,44,6.974937780384573e-4
+Costa Rica,4118,100981,2474,63083,7360,Millwrights,1,44,6.974937780384573e-4
+Costa Rica,4118,100981,2474,63083,8300,Laundry and dry-cleaning workers,3,44,6.974937780384573e-4
+Costa Rica,4118,100981,2474,63083,3648,Veterinary assistants and laboratory animal caretakers,2,43,6.816416467194014e-4
+Costa Rica,4118,100981,2474,63083,5810,Data entry keyers,2,43,6.816416467194014e-4
+Costa Rica,4118,100981,2474,63083,7140,Aircraft mechanics and service technicians,2,43,6.816416467194014e-4
+Costa Rica,4118,100981,2474,63083,4530,"Baggage porters, bellhops, and concierges",2,42,6.657895154003456e-4
+Costa Rica,4118,100981,2474,63083,6520,Sheet metal workers,2,42,6.657895154003456e-4
+Costa Rica,4118,100981,2474,63083,0650,Training and development specialists,2,41,6.499373840812897e-4
+Costa Rica,4118,100981,2474,63083,1007,Information security analysts,2,41,6.499373840812897e-4
+Costa Rica,4118,100981,2474,63083,5140,Payroll and timekeeping clerks,3,41,6.499373840812897e-4
+Costa Rica,4118,100981,2474,63083,6660,Construction and building inspectors,2,41,6.499373840812897e-4
+Costa Rica,4118,100981,2474,63083,0137,Training and development managers,2,40,6.340852527622338e-4
+Costa Rica,4118,100981,2474,63083,3220,Respiratory therapists,1,40,6.340852527622338e-4
+Costa Rica,4118,100981,2474,63083,7640,"Other installation, maintenance, and repair workers",3,40,6.340852527622338e-4
+Costa Rica,4118,100981,2474,63083,1220,Operations research analysts,1,39,6.18233121443178e-4
+Costa Rica,4118,100981,2474,63083,3725,"Miscellaneous first-line supervisors, protective service workers",2,38,6.023809901241221e-4
+Costa Rica,4118,100981,2474,63083,5900,"Office machine operators, except computer",1,38,6.023809901241221e-4
+Costa Rica,4118,100981,2474,63083,7430,Precision instrument and equipment repairers,1,38,6.023809901241221e-4
+Costa Rica,4118,100981,2474,63083,7905,Computer numerically controlled tool operators and programmers,1,37,5.865288588050663e-4
+Costa Rica,4118,100981,2474,63083,8710,Cutting workers,1,37,5.865288588050663e-4
+Costa Rica,4118,100981,2474,63083,9141,Shuttle drivers and chauffeurs,1,37,5.865288588050663e-4
+Costa Rica,4118,100981,2474,63083,5560,"Postal service mail sorters, processors, and processing machine operators",1,36,5.706767274860104e-4
+Costa Rica,4118,100981,2474,63083,8830,Photographic process workers and processing machine operators,1,36,5.706767274860104e-4
+Costa Rica,4118,100981,2474,63083,3323,Radiologic technologists and technicians,2,35,5.548245961669547e-4
+Costa Rica,4118,100981,2474,63083,3500,Licensed practical and licensed vocational nurses,4,35,5.548245961669547e-4
+Costa Rica,4118,100981,2474,63083,4740,Counter and rental clerks,3,35,5.548245961669547e-4
+Costa Rica,4118,100981,2474,63083,8030,Machinists,3,35,5.548245961669547e-4
+Costa Rica,4118,100981,2474,63083,0340,Lodging managers,2,34,5.389724648478988e-4
+Costa Rica,4118,100981,2474,63083,6305,Construction equipment operators,2,34,5.389724648478988e-4
+Costa Rica,4118,100981,2474,63083,6050,Other agricultural workers,3,33,5.23120333528843e-4
+Costa Rica,4118,100981,2474,63083,3250,Veterinarians,1,32,5.072682022097871e-4
+Costa Rica,4118,100981,2474,63083,7220,Heavy vehicle and mobile equipment service technicians and mechanics,2,32,5.072682022097871e-4
+Costa Rica,4118,100981,2474,63083,2755,"Disc jockeys, except radio",1,31,4.914160708907313e-4
+Costa Rica,4118,100981,2474,63083,1560,Surveying and mapping technicians,2,30,4.755639395716754e-4
+Costa Rica,4118,100981,2474,63083,3647,Pharmacy aides,1,30,4.755639395716754e-4
+Costa Rica,4118,100981,2474,63083,6600,"Helpers, construction trades",2,30,4.755639395716754e-4
+Costa Rica,4118,100981,2474,63083,4800,Advertising sales agents,2,29,4.597118082526196e-4
+Costa Rica,4118,100981,2474,63083,0860,Insurance underwriters,1,28,4.4385967693356374e-4
+Costa Rica,4118,100981,2474,63083,0960,Other financial specialists,2,28,4.4385967693356374e-4
+Costa Rica,4118,100981,2474,63083,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",2,28,4.4385967693356374e-4
+Costa Rica,4118,100981,2474,63083,2170,"Title examiners, abstractors, and searchers",1,27,4.280075456145079e-4
+Costa Rica,4118,100981,2474,63083,2751,Music directors and composers,1,27,4.280075456145079e-4
+Costa Rica,4118,100981,2474,63083,3424,Veterinary technologists and technicians,2,27,4.280075456145079e-4
+Costa Rica,4118,100981,2474,63083,4240,Pest control workers,1,27,4.280075456145079e-4
+Costa Rica,4118,100981,2474,63083,1032,Web and digital interface designers,1,26,4.1215541429545204e-4
+Costa Rica,4118,100981,2474,63083,3321,Cardiovascular technologists and technicians,1,26,4.1215541429545204e-4
+Costa Rica,4118,100981,2474,63083,8465,"Other textile, apparel, and furnishings workers",1,26,4.1215541429545204e-4
+Costa Rica,4118,100981,2474,63083,2636,Merchandise displayers and window trimmers,1,25,3.963032829763962e-4
+Costa Rica,4118,100981,2474,63083,5300,"Hotel, motel, and resort desk clerks",2,25,3.963032829763962e-4
+Costa Rica,4118,100981,2474,63083,6835,"Explosives workers, ordnance handling experts, and blasters",1,25,3.963032829763962e-4
+Costa Rica,4118,100981,2474,63083,9415,Passenger attendants,2,25,3.963032829763962e-4
+Costa Rica,4118,100981,2474,63083,3261,Acupuncturists,2,24,3.8045115165734035e-4
+Costa Rica,4118,100981,2474,63083,8750,Jewelers and precious stone and metal workers,2,24,3.8045115165734035e-4
+Costa Rica,4118,100981,2474,63083,0102,Facilities managers,1,23,3.645990203382845e-4
+Costa Rica,4118,100981,2474,63083,0135,Compensation and benefits managers,1,23,3.645990203382845e-4
+Costa Rica,4118,100981,2474,63083,3910,Private detectives and investigators,2,23,3.645990203382845e-4
+Costa Rica,4118,100981,2474,63083,1800,Economists,1,22,3.4874688901922866e-4
+Costa Rica,4118,100981,2474,63083,4350,Animal caretakers,2,22,3.4874688901922866e-4
+Costa Rica,4118,100981,2474,63083,4435,Other entertainment attendants and related workers,1,22,3.4874688901922866e-4
+Costa Rica,4118,100981,2474,63083,1065,Database administrators and architects,2,21,3.328947577001728e-4
+Costa Rica,4118,100981,2474,63083,8255,Printing press operators,1,21,3.328947577001728e-4
+Costa Rica,4118,100981,2474,63083,9720,Refuse and recyclable material collectors,1,21,3.328947577001728e-4
+Costa Rica,4118,100981,2474,63083,0040,Advertising and promotions managers,1,20,3.170426263811169e-4
+Costa Rica,4118,100981,2474,63083,5330,Loan interviewers and clerks,2,20,3.170426263811169e-4
+Costa Rica,4118,100981,2474,63083,6010,Agricultural inspectors,1,20,3.170426263811169e-4
+Costa Rica,4118,100981,2474,63083,8450,Upholsterers,1,20,3.170426263811169e-4
+Costa Rica,4118,100981,2474,63083,2722,Coaches and scouts,2,19,3.0119049506206107e-4
+Costa Rica,4118,100981,2474,63083,2011,"Child, family, and school social workers",1,18,2.853383637430052e-4
+Costa Rica,4118,100981,2474,63083,3802,Correctional officers and jailers,1,18,2.853383637430052e-4
+Costa Rica,4118,100981,2474,63083,7410,Electrical power-line installers and repairers,1,18,2.853383637430052e-4
+Costa Rica,4118,100981,2474,63083,2050,"Directors, religious activities and education",2,17,2.694862324239494e-4
+Costa Rica,4118,100981,2474,63083,3310,Dental hygienists,1,17,2.694862324239494e-4
+Costa Rica,4118,100981,2474,63083,5521,Public safety telecommunicators,1,17,2.694862324239494e-4
+Costa Rica,4118,100981,2474,63083,5820,Word processors and typists,1,17,2.694862324239494e-4
+Costa Rica,4118,100981,2474,63083,0940,Tax preparers,1,16,2.5363410110489353e-4
+Costa Rica,4118,100981,2474,63083,2180,"Legal support workers, all other",1,16,2.5363410110489353e-4
+Costa Rica,4118,100981,2474,63083,2840,Technical writers,1,16,2.5363410110489353e-4
+Costa Rica,4118,100981,2474,63083,0725,"Meeting, convention, and event planners",1,15,2.377819697858377e-4
+Costa Rica,4118,100981,2474,63083,1545,Other drafters,1,15,2.377819697858377e-4
+Costa Rica,4118,100981,2474,63083,1610,Biological scientists,1,15,2.377819697858377e-4
+Costa Rica,4118,100981,2474,63083,2830,Editors,1,15,2.377819697858377e-4
+Costa Rica,4118,100981,2474,63083,4055,Fast food and counter workers,2,15,2.377819697858377e-4
+Costa Rica,4118,100981,2474,63083,4640,Residential advisors,1,15,2.377819697858377e-4
+Costa Rica,4118,100981,2474,63083,7120,Electronic home entertainment equipment installers and repairers,1,15,2.377819697858377e-4
+Costa Rica,4118,100981,2474,63083,8310,"Pressers, textile, garment, and related materials",1,15,2.377819697858377e-4
+Costa Rica,4118,100981,2474,63083,3550,Other healthcare practitioners and technical occupations,1,14,2.2192983846678187e-4
+Costa Rica,4118,100981,2474,63083,4400,Gambling services workers,1,14,2.2192983846678187e-4
+Costa Rica,4118,100981,2474,63083,4930,Sales engineers,1,14,2.2192983846678187e-4
+Costa Rica,4118,100981,2474,63083,7855,"Food processing workers, all other",2,14,2.2192983846678187e-4
+Costa Rica,4118,100981,2474,63083,1400,Computer hardware engineers,1,13,2.0607770714772602e-4
+Costa Rica,4118,100981,2474,63083,1720,Chemists and materials scientists,1,13,2.0607770714772602e-4
+Costa Rica,4118,100981,2474,63083,2012,Healthcare social workers,1,13,2.0607770714772602e-4
+Costa Rica,4118,100981,2474,63083,5840,Insurance claims and policy processing clerks,1,13,2.0607770714772602e-4
+Costa Rica,4118,100981,2474,63083,7320,Home appliance repairers,1,13,2.0607770714772602e-4
+Costa Rica,4118,100981,2474,63083,9350,Parking attendants,1,13,2.0607770714772602e-4
+Costa Rica,4118,100981,2474,63083,0640,"Compensation, benefits, and job analysis specialists",1,12,1.9022557582867018e-4
+Costa Rica,4118,100981,2474,63083,1305,"Architects, except landscape and naval",1,12,1.9022557582867018e-4
+Costa Rica,4118,100981,2474,63083,2003,Marriage and family therapists,1,12,1.9022557582867018e-4
+Costa Rica,4118,100981,2474,63083,3605,Orderlies and psychiatric aides,1,12,1.9022557582867018e-4
+Costa Rica,4118,100981,2474,63083,5260,File clerks,1,12,1.9022557582867018e-4
+Costa Rica,4118,100981,2474,63083,3960,Other protective service workers,1,11,1.7437344450961433e-4
+Costa Rica,4118,100981,2474,63083,7810,"Butchers and other meat, poultry, and fish processing workers",2,11,1.7437344450961433e-4
+Costa Rica,4118,100981,2474,63083,9630,Machine feeders and offbearers,1,11,1.7437344450961433e-4
+Costa Rica,4118,100981,2474,63083,2015,Probation officers and correctional treatment specialists,1,10,1.5852131319055846e-4
+Costa Rica,4118,100981,2474,63083,2810,"News analysts, reporters, and journalists",1,10,1.5852131319055846e-4
+Costa Rica,4118,100981,2474,63083,2850,Writers and authors,1,10,1.5852131319055846e-4
+Costa Rica,4118,100981,2474,63083,2632,Fashion designers,1,9,1.426691818715026e-4
+Costa Rica,4118,100981,2474,63083,3050,Pharmacists,1,9,1.426691818715026e-4
+Costa Rica,4118,100981,2474,63083,5420,Other information and records clerks,1,9,1.426691818715026e-4
+Costa Rica,4118,100981,2474,63083,8555,Other woodworkers,1,9,1.426691818715026e-4
+Costa Rica,4118,100981,2474,63083,1200,Actuaries,1,8,1.2681705055244677e-4
+Costa Rica,4118,100981,2474,63083,1350,Chemical engineers,1,8,1.2681705055244677e-4
+Costa Rica,4118,100981,2474,63083,8630,Miscellaneous plant and system operators,1,8,1.2681705055244677e-4
+Costa Rica,4118,100981,2474,63083,9121,"Bus drivers, school",1,8,1.2681705055244677e-4
+Costa Rica,4118,100981,2474,63083,1106,Computer network architects,1,3,4.7556393957167544e-5

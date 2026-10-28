@@ -1,364 +1,367 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Bosnia and Herzegovina,4307,106574,2903,72983,9130,Driver/sales workers and truck drivers,213,6120,0.08385514434868394
-Bosnia and Herzegovina,4307,106574,2903,72983,0440,Other managers,85,2019,0.027663976542482496
-Bosnia and Herzegovina,4307,106574,2903,72983,4220,Janitors and building cleaners,71,1877,0.025718317964457477
-Bosnia and Herzegovina,4307,106574,2903,72983,3255,Registered nurses,61,1395,0.019114040255950017
-Bosnia and Herzegovina,4307,106574,2903,72983,4760,Retail salespersons,65,1297,0.017771261800693314
-Bosnia and Herzegovina,4307,106574,2903,72983,4230,Maids and housekeeping cleaners,50,1286,0.017620541770001233
-Bosnia and Herzegovina,4307,106574,2903,72983,5240,Customer service representatives,43,1192,0.016332570598632558
-Bosnia and Herzegovina,4307,106574,2903,72983,9620,"Laborers and freight, stock, and material movers, hand",46,1154,0.015811901401696287
-Bosnia and Herzegovina,4307,106574,2903,72983,0800,Accountants and auditors,47,1153,0.015798199580724277
-Bosnia and Herzegovina,4307,106574,2903,72983,4700,First-line supervisors of retail sales workers,42,1085,0.01486647575462779
-Bosnia and Herzegovina,4307,106574,2903,72983,8990,"Miscellaneous production workers, including equipment operators and tenders",48,1083,0.014839072112683776
-Bosnia and Herzegovina,4307,106574,2903,72983,0120,Financial managers,37,938,0.012852308071742735
-Bosnia and Herzegovina,4307,106574,2903,72983,8740,"Inspectors, testers, sorters, samplers, and weighers",38,857,0.011742460573010153
-Bosnia and Herzegovina,4307,106574,2903,72983,7750,Other assemblers and fabricators,35,855,0.011715056931066139
-Bosnia and Herzegovina,4307,106574,2903,72983,6230,Carpenters,25,831,0.011386213227737967
-Bosnia and Herzegovina,4307,106574,2903,72983,2310,Elementary and middle school teachers,26,762,0.01044078758066947
-Bosnia and Herzegovina,4307,106574,2903,72983,0220,Construction managers,22,761,0.010427085759697464
-Bosnia and Herzegovina,4307,106574,2903,72983,4720,Cashiers,30,745,0.01020785662414535
-Bosnia and Herzegovina,4307,106574,2903,72983,0020,General and operations managers,26,742,0.010166751161229327
-Bosnia and Herzegovina,4307,106574,2903,72983,7700,First-line supervisors of production and operating workers,28,737,0.010098242056369292
-Bosnia and Herzegovina,4307,106574,2903,72983,6260,Construction laborers,23,680,0.009317238260964882
-Bosnia and Herzegovina,4307,106574,2903,72983,4020,Cooks,23,643,0.008810270885000616
-Bosnia and Herzegovina,4307,106574,2903,72983,5000,First-line supervisors of office and administrative support workers,22,637,0.008728059959168574
-Bosnia and Herzegovina,4307,106574,2903,72983,9645,Stockers and order fillers,27,608,0.008330707150980365
-Bosnia and Herzegovina,4307,106574,2903,72983,8225,Other metal workers and plastic workers,27,600,0.008221092583204307
-Bosnia and Herzegovina,4307,106574,2903,72983,3602,Personal care aides,20,569,0.0077963361330720855
-Bosnia and Herzegovina,4307,106574,2903,72983,0705,Project management specialists,24,568,0.0077826343121000785
-Bosnia and Herzegovina,4307,106574,2903,72983,4110,Waiters and waitresses,15,550,0.007536001534603949
-Bosnia and Herzegovina,4307,106574,2903,72983,5860,"Office clerks, general",25,549,0.007522299713631941
-Bosnia and Herzegovina,4307,106574,2903,72983,7200,Automotive service technicians and mechanics,15,548,0.007508597892659934
-Bosnia and Herzegovina,4307,106574,2903,72983,3603,Nursing assistants,20,542,0.007426386966827891
-Bosnia and Herzegovina,4307,106574,2903,72983,7340,"Maintenance and repair workers, general",19,542,0.007426386966827891
-Bosnia and Herzegovina,4307,106574,2903,72983,1021,Software developers,34,536,0.007344176040995848
-Bosnia and Herzegovina,4307,106574,2903,72983,8030,Machinists,23,514,0.00704273597961169
-Bosnia and Herzegovina,4307,106574,2903,72983,4710,First-line supervisors of non-retail sales workers,24,493,0.00675499773919954
-Bosnia and Herzegovina,4307,106574,2903,72983,2545,Teaching assistants,12,490,0.006713892276283518
-Bosnia and Herzegovina,4307,106574,2903,72983,0010,Chief executives and legislators,17,489,0.006700190455311511
-Bosnia and Herzegovina,4307,106574,2903,72983,3870,Police officers,16,462,0.006330241289067317
-Bosnia and Herzegovina,4307,106574,2903,72983,5740,"Secretaries and administrative assistants, except legal, medical, and executive",19,460,0.006302837647123302
-Bosnia and Herzegovina,4307,106574,2903,72983,1006,Computer systems analysts,20,434,0.005946590301851116
-Bosnia and Herzegovina,4307,106574,2903,72983,3645,Medical assistants,17,431,0.005905484838935094
-Bosnia and Herzegovina,4307,106574,2903,72983,3421,Pharmacy technicians,13,423,0.005795870271159037
-Bosnia and Herzegovina,4307,106574,2903,72983,1460,Mechanical engineers,8,413,0.005658852061438965
-Bosnia and Herzegovina,4307,106574,2903,72983,0160,"Transportation, storage, and distribution managers",7,409,0.005604044777550937
-Bosnia and Herzegovina,4307,106574,2903,72983,4850,"Sales representatives, wholesale and manufacturing",15,407,0.005576641135606922
-Bosnia and Herzegovina,4307,106574,2903,72983,5610,"Shipping, receiving, and inventory clerks",14,403,0.005521833851718894
-Bosnia and Herzegovina,4307,106574,2903,72983,4510,"Hairdressers, hairstylists, and cosmetologists",15,398,0.005453324746858858
-Bosnia and Herzegovina,4307,106574,2903,72983,0350,Medical and health services managers,16,394,0.005398517462970829
-Bosnia and Herzegovina,4307,106574,2903,72983,6355,Electricians,18,389,0.0053300083581107926
-Bosnia and Herzegovina,4307,106574,2903,72983,5120,"Bookkeeping, accounting, and auditing clerks",19,373,0.005110779222558678
-Bosnia and Herzegovina,4307,106574,2903,72983,3050,Pharmacists,10,370,0.005069673759642656
-Bosnia and Herzegovina,4307,106574,2903,72983,3090,Physicians,15,365,0.00500116465478262
-Bosnia and Herzegovina,4307,106574,2903,72983,1530,Other engineers,16,360,0.004932655549922585
-Bosnia and Herzegovina,4307,106574,2903,72983,0310,Food service managers,12,347,0.004754531877286491
-Bosnia and Herzegovina,4307,106574,2903,72983,8140,"Welding, soldering, and brazing workers",12,346,0.004740830056314484
-Bosnia and Herzegovina,4307,106574,2903,72983,1108,"Computer occupations, all other",12,344,0.00471342641437047
-Bosnia and Herzegovina,4307,106574,2903,72983,7330,Industrial and refractory machinery mechanics,11,342,0.004686022772426456
-Bosnia and Herzegovina,4307,106574,2903,72983,1050,Computer support specialists,17,341,0.004672320951454448
-Bosnia and Herzegovina,4307,106574,2903,72983,0630,Human resources workers,13,329,0.004507899099790362
-Bosnia and Herzegovina,4307,106574,2903,72983,3300,Clinical laboratory technologists and technicians,13,329,0.004507899099790362
-Bosnia and Herzegovina,4307,106574,2903,72983,5400,Receptionists and information clerks,12,327,0.004480495457846348
-Bosnia and Herzegovina,4307,106574,2903,72983,4530,"Baggage porters, bellhops, and concierges",11,323,0.004425688173958319
-Bosnia and Herzegovina,4307,106574,2903,72983,8320,Sewing machine operators,11,322,0.004411986352986312
-Bosnia and Herzegovina,4307,106574,2903,72983,5522,"Dispatchers, except police, fire, and ambulance",12,320,0.004384582711042298
-Bosnia and Herzegovina,4307,106574,2903,72983,4030,Food preparation workers,12,313,0.004288669964238248
-Bosnia and Herzegovina,4307,106574,2903,72983,0140,Industrial production managers,11,311,0.004261266322294233
-Bosnia and Herzegovina,4307,106574,2903,72983,4920,Real estate brokers and sales agents,15,309,0.0042338626803502186
-Bosnia and Herzegovina,4307,106574,2903,72983,6410,Painters and paperhangers,13,308,0.0042201608593782115
-Bosnia and Herzegovina,4307,106574,2903,72983,0410,"Property, real estate, and community association managers",17,307,0.0042064590384062045
-Bosnia and Herzegovina,4307,106574,2903,72983,3601,Home health aides,9,305,0.0041790553964621896
-Bosnia and Herzegovina,4307,106574,2903,72983,5940,Other office and administrative support workers,13,305,0.0041790553964621896
-Bosnia and Herzegovina,4307,106574,2903,72983,9142,Taxi drivers,7,303,0.0041516517545181755
-Bosnia and Herzegovina,4307,106574,2903,72983,9600,Industrial truck and tractor operators,10,288,0.003946124439938067
-Bosnia and Herzegovina,4307,106574,2903,72983,0110,Computer and information systems managers,16,285,0.0039050189770220463
-Bosnia and Herzegovina,4307,106574,2903,72983,0650,Training and development specialists,5,271,0.0037131934834139456
-Bosnia and Herzegovina,4307,106574,2903,72983,0052,Sales managers,11,263,0.003603578915637888
-Bosnia and Herzegovina,4307,106574,2903,72983,3640,Dental assistants,13,260,0.0035624734527218665
-Bosnia and Herzegovina,4307,106574,2903,72983,7720,"Electrical, electronics, and electromechanical assemblers",10,259,0.0035487716317498595
-Bosnia and Herzegovina,4307,106574,2903,72983,0750,"Business operations specialists, all other",12,258,0.0035350698107778525
-Bosnia and Herzegovina,4307,106574,2903,72983,1240,Other mathematical science occupations,4,258,0.0035350698107778525
-Bosnia and Herzegovina,4307,106574,2903,72983,0540,"Claims adjusters, appraisers, examiners, and investigators",7,252,0.0034528588849458094
-Bosnia and Herzegovina,4307,106574,2903,72983,0830,Credit analysts,3,249,0.003411753422029788
-Bosnia and Herzegovina,4307,106574,2903,72983,2100,"Lawyers, and judges, magistrates, and other judicial workers",11,246,0.0033706479591137663
-Bosnia and Herzegovina,4307,106574,2903,72983,7905,Computer numerically controlled tool operators and programmers,7,236,0.0032336297493936943
-Bosnia and Herzegovina,4307,106574,2903,72983,0735,Market research analysts and marketing specialists,8,235,0.0032199279284216872
-Bosnia and Herzegovina,4307,106574,2903,72983,0850,Personal financial advisors,6,232,0.0031788224655056657
-Bosnia and Herzegovina,4307,106574,2903,72983,5510,Couriers and messengers,11,224,0.003069207897729608
-Bosnia and Herzegovina,4307,106574,2903,72983,4200,First-line supervisors of housekeeping and janitorial workers,11,223,0.003055506076757601
-Bosnia and Herzegovina,4307,106574,2903,72983,7810,"Butchers and other meat, poultry, and fish processing workers",8,221,0.0030281024348135866
-Bosnia and Herzegovina,4307,106574,2903,72983,7800,Bakers,8,219,0.0030006987928695725
-Bosnia and Herzegovina,4307,106574,2903,72983,0845,Financial and investment analysts,9,218,0.002986996971897565
-Bosnia and Herzegovina,4307,106574,2903,72983,2040,Clergy,9,218,0.002986996971897565
-Bosnia and Herzegovina,4307,106574,2903,72983,5330,Loan interviewers and clerks,5,217,0.002973295150925558
-Bosnia and Herzegovina,4307,106574,2903,72983,3655,Other healthcare support workers,6,216,0.002959593329953551
-Bosnia and Herzegovina,4307,106574,2903,72983,0530,"Purchasing agents, except wholesale, retail, and farm products",8,213,0.0029184878670375294
-Bosnia and Herzegovina,4307,106574,2903,72983,3500,Licensed practical and licensed vocational nurses,8,213,0.0029184878670375294
-Bosnia and Herzegovina,4307,106574,2903,72983,1360,Civil engineers,9,210,0.002877382404121508
-Bosnia and Herzegovina,4307,106574,2903,72983,9610,Cleaners of vehicles and equipment,6,207,0.0028362769412054864
-Bosnia and Herzegovina,4307,106574,2903,72983,2205,Postsecondary teachers,12,206,0.002822575120233479
-Bosnia and Herzegovina,4307,106574,2903,72983,4040,Bartenders,4,203,0.0027814696573174574
-Bosnia and Herzegovina,4307,106574,2903,72983,0710,Management analysts,13,202,0.0027677678363454503
-Bosnia and Herzegovina,4307,106574,2903,72983,0150,Purchasing managers,6,197,0.0026992587314854143
-Bosnia and Herzegovina,4307,106574,2903,72983,6200,First-line supervisors of construction trades and extraction workers,11,196,0.0026855569105134073
-Bosnia and Herzegovina,4307,106574,2903,72983,6442,"Plumbers, pipefitters, and steamfitters",11,192,0.0026307496266253787
-Bosnia and Herzegovina,4307,106574,2903,72983,3520,"Opticians, dispensing",6,190,0.002603345984681364
-Bosnia and Herzegovina,4307,106574,2903,72983,2300,Preschool and kindergarten teachers,8,188,0.0025759423427373497
-Bosnia and Herzegovina,4307,106574,2903,72983,2634,Graphic designers,6,185,0.002534836879821328
-Bosnia and Herzegovina,4307,106574,2903,72983,4400,Gambling services workers,6,185,0.002534836879821328
-Bosnia and Herzegovina,4307,106574,2903,72983,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",7,183,0.002507433237877314
-Bosnia and Herzegovina,4307,106574,2903,72983,1410,Electrical and electronics engineers,10,182,0.0024937314169053066
-Bosnia and Herzegovina,4307,106574,2903,72983,4120,"Food servers, nonrestaurant",8,182,0.0024937314169053066
-Bosnia and Herzegovina,4307,106574,2903,72983,8255,Printing press operators,3,182,0.0024937314169053066
-Bosnia and Herzegovina,4307,106574,2903,72983,9122,"Bus drivers, transit and intercity",10,178,0.002438924133017278
-Bosnia and Herzegovina,4307,106574,2903,72983,0520,"Wholesale and retail buyers, except farm products",5,175,0.0023978186701012565
-Bosnia and Herzegovina,4307,106574,2903,72983,8810,Painting workers,4,175,0.0023978186701012565
-Bosnia and Herzegovina,4307,106574,2903,72983,0300,Architectural and engineering managers,8,173,0.002370415028157242
-Bosnia and Herzegovina,4307,106574,2903,72983,1555,"Other engineering technologists and technicians, except drafters",9,170,0.0023293095652412205
-Bosnia and Herzegovina,4307,106574,2903,72983,6240,"Carpet, floor, and tile installers and finishers",7,169,0.0023156077442692134
-Bosnia and Herzegovina,4307,106574,2903,72983,3515,Medical records specialists,4,167,0.002288204102325199
-Bosnia and Herzegovina,4307,106574,2903,72983,6050,Other agricultural workers,2,163,0.0022333968184371704
-Bosnia and Herzegovina,4307,106574,2903,72983,2014,"Social workers, all other",10,160,0.002192291355521149
-Bosnia and Herzegovina,4307,106574,2903,72983,1305,"Architects, except landscape and naval",10,156,0.00213748407163312
-Bosnia and Herzegovina,4307,106574,2903,72983,4000,Chefs and head cooks,6,155,0.002123782250661113
-Bosnia and Herzegovina,4307,106574,2903,72983,1760,"Physical scientists, all other",8,153,0.0020963786087170983
-Bosnia and Herzegovina,4307,106574,2903,72983,0340,Lodging managers,4,149,0.0020415713248290697
-Bosnia and Herzegovina,4307,106574,2903,72983,9005,Supervisors of transportation and material moving workers,8,148,0.0020278695038570627
-Bosnia and Herzegovina,4307,106574,2903,72983,4010,First-line supervisors of food preparation and serving workers,3,145,0.001986764040941041
-Bosnia and Herzegovina,4307,106574,2903,72983,8800,Packaging and filling machine operators and tenders,6,144,0.0019730622199690337
-Bosnia and Herzegovina,4307,106574,2903,72983,9830,"Military, rank not specified",4,140,0.0019182549360810051
-Bosnia and Herzegovina,4307,106574,2903,72983,7210,Bus and truck mechanics and diesel engine specialists,6,139,0.001904553115108998
-Bosnia and Herzegovina,4307,106574,2903,72983,5140,Payroll and timekeeping clerks,5,138,0.0018908512941369908
-Bosnia and Herzegovina,4307,106574,2903,72983,2016,Social and human service assistants,4,136,0.0018634476521929766
-Bosnia and Herzegovina,4307,106574,2903,72983,2320,Secondary school teachers,7,136,0.0018634476521929766
-Bosnia and Herzegovina,4307,106574,2903,72983,8350,"Tailors, dressmakers, and sewers",5,132,0.0018086403683049478
-Bosnia and Herzegovina,4307,106574,2903,72983,1430,"Industrial engineers, including health and safety",6,131,0.0017949385473329405
-Bosnia and Herzegovina,4307,106574,2903,72983,3930,Security guards and gaming surveillance officers,7,131,0.0017949385473329405
-Bosnia and Herzegovina,4307,106574,2903,72983,7315,"Heating, air conditioning, and refrigeration mechanics and installers",9,131,0.0017949385473329405
-Bosnia and Herzegovina,4307,106574,2903,72983,2861,Interpreters and translators,5,130,0.0017812367263609333
-Bosnia and Herzegovina,4307,106574,2903,72983,0136,Human resources managers,5,129,0.0017675349053889262
-Bosnia and Herzegovina,4307,106574,2903,72983,2025,Other community and social service specialists,5,128,0.001753833084416919
-Bosnia and Herzegovina,4307,106574,2903,72983,3220,Respiratory therapists,5,126,0.0017264294424729047
-Bosnia and Herzegovina,4307,106574,2903,72983,3160,Physical therapists,6,125,0.0017127276215008974
-Bosnia and Herzegovina,4307,106574,2903,72983,1220,Operations research analysts,6,124,0.0016990258005288902
-Bosnia and Herzegovina,4307,106574,2903,72983,7640,"Other installation, maintenance, and repair workers",5,124,0.0016990258005288902
-Bosnia and Herzegovina,4307,106574,2903,72983,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
-						and plastic",2,124,0.0016990258005288902
-Bosnia and Herzegovina,4307,106574,2903,72983,8610,Stationary engineers and boiler operators,6,124,0.0016990258005288902
-Bosnia and Herzegovina,4307,106574,2903,72983,4600,Childcare workers,7,122,0.001671622158584876
-Bosnia and Herzegovina,4307,106574,2903,72983,0640,"Compensation, benefits, and job analysis specialists",2,120,0.0016442185166408616
-Bosnia and Herzegovina,4307,106574,2903,72983,2145,Paralegals and legal assistants,5,120,0.0016442185166408616
-Bosnia and Herzegovina,4307,106574,2903,72983,7855,"Food processing workers, all other",4,120,0.0016442185166408616
-Bosnia and Herzegovina,4307,106574,2903,72983,1900,Agricultural and food science technicians,2,119,0.0016305166956688544
-Bosnia and Herzegovina,4307,106574,2903,72983,3110,Physician assistants,6,118,0.0016168148746968471
-Bosnia and Herzegovina,4307,106574,2903,72983,5360,"Human resources assistants, except payroll and timekeeping",3,118,0.0016168148746968471
-Bosnia and Herzegovina,4307,106574,2903,72983,0860,Insurance underwriters,4,117,0.00160311305372484
-Bosnia and Herzegovina,4307,106574,2903,72983,1551,Electrical and electronic engineering technologists and technicians,4,117,0.00160311305372484
-Bosnia and Herzegovina,4307,106574,2903,72983,2002,"Educational, guidance, and career counselors and advisors",3,117,0.00160311305372484
-Bosnia and Herzegovina,4307,106574,2903,72983,4140,Dishwashers,2,115,0.0015757094117808256
-Bosnia and Herzegovina,4307,106574,2903,72983,3310,Dental hygienists,4,114,0.0015620075908088186
-Bosnia and Herzegovina,4307,106574,2903,72983,1720,Chemists and materials scientists,4,112,0.001534603948864804
-Bosnia and Herzegovina,4307,106574,2903,72983,7010,"Computer, automated teller, and office machine repairers",3,111,0.001520902127892797
-Bosnia and Herzegovina,4307,106574,2903,72983,0420,Social and community service managers,5,110,0.0015072003069207898
-Bosnia and Herzegovina,4307,106574,2903,72983,0600,Cost estimators,2,109,0.0014934984859487825
-Bosnia and Herzegovina,4307,106574,2903,72983,4655,"Personal care and service workers, all other",7,107,0.0014660948440047682
-Bosnia and Herzegovina,4307,106574,2903,72983,3258,"Nurse practitioners, and nurse midwives",6,105,0.001438691202060754
-Bosnia and Herzegovina,4307,106574,2903,72983,4240,Pest control workers,3,105,0.001438691202060754
-Bosnia and Herzegovina,4307,106574,2903,72983,1825,Other psychologists,5,101,0.0013838839181727252
-Bosnia and Herzegovina,4307,106574,2903,72983,3321,Cardiovascular technologists and technicians,4,101,0.0013838839181727252
-Bosnia and Herzegovina,4307,106574,2903,72983,5110,Billing and posting clerks,8,100,0.001370182097200718
-Bosnia and Herzegovina,4307,106574,2903,72983,0700,Logisticians,2,98,0.0013427784552567036
-Bosnia and Herzegovina,4307,106574,2903,72983,1450,Materials engineers,2,98,0.0013427784552567036
-Bosnia and Herzegovina,4307,106574,2903,72983,2360,Other teachers and instructors,7,96,0.0013153748133126893
-Bosnia and Herzegovina,4307,106574,2903,72983,9640,"Packers and packagers, hand",5,96,0.0013153748133126893
-Bosnia and Herzegovina,4307,106574,2903,72983,2722,Coaches and scouts,5,95,0.001301672992340682
-Bosnia and Herzegovina,4307,106574,2903,72983,5260,File clerks,4,95,0.001301672992340682
-Bosnia and Herzegovina,4307,106574,2903,72983,0960,Other financial specialists,5,93,0.0012742693503966678
-Bosnia and Herzegovina,4307,106574,2903,72983,2006,"Counselors, all other",3,93,0.0012742693503966678
-Bosnia and Herzegovina,4307,106574,2903,72983,2440,Library technicians,5,93,0.0012742693503966678
-Bosnia and Herzegovina,4307,106574,2903,72983,5550,Postal service mail carriers,4,93,0.0012742693503966678
-Bosnia and Herzegovina,4307,106574,2903,72983,0051,Marketing managers,7,92,0.0012605675294246606
-Bosnia and Herzegovina,4307,106574,2903,72983,1105,Network and computer systems administrators,6,92,0.0012605675294246606
-Bosnia and Herzegovina,4307,106574,2903,72983,1980,Occupational health and safety specialists and technicians,2,92,0.0012605675294246606
-Bosnia and Herzegovina,4307,106574,2903,72983,4055,Fast food and counter workers,5,92,0.0012605675294246606
-Bosnia and Herzegovina,4307,106574,2903,72983,5500,Cargo and freight agents,3,92,0.0012605675294246606
-Bosnia and Herzegovina,4307,106574,2903,72983,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,5,92,0.0012605675294246606
-Bosnia and Herzegovina,4307,106574,2903,72983,4965,"Sales and related workers, all other",5,91,0.0012468657084526533
-Bosnia and Herzegovina,4307,106574,2903,72983,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",3,90,0.0012331638874806463
-Bosnia and Herzegovina,4307,106574,2903,72983,5410,Reservation and transportation ticket agents and travel clerks,4,88,0.0012057602455366318
-Bosnia and Herzegovina,4307,106574,2903,72983,5810,Data entry keyers,6,88,0.0012057602455366318
-Bosnia and Herzegovina,4307,106574,2903,72983,7000,"First-line supervisors of mechanics, installers, and repairers",4,87,0.0011920584245646247
-Bosnia and Herzegovina,4307,106574,2903,72983,5710,Executive secretaries and executive administrative assistants,3,86,0.0011783566035926175
-Bosnia and Herzegovina,4307,106574,2903,72983,5165,Other financial clerks,3,85,0.0011646547826206102
-Bosnia and Herzegovina,4307,106574,2903,72983,7140,Aircraft mechanics and service technicians,4,84,0.0011509529616486032
-Bosnia and Herzegovina,4307,106574,2903,72983,3910,Private detectives and investigators,4,79,0.0010824438567885672
-Bosnia and Herzegovina,4307,106574,2903,72983,9050,Flight attendants,3,77,0.0010550402148445529
-Bosnia and Herzegovina,4307,106574,2903,72983,5100,Bill and account collectors,4,76,0.0010413383938725456
-Bosnia and Herzegovina,4307,106574,2903,72983,0565,Compliance officers,6,75,0.0010276365729005384
-Bosnia and Herzegovina,4307,106574,2903,72983,1106,Computer network architects,2,74,0.0010139347519285313
-Bosnia and Herzegovina,4307,106574,2903,72983,0910,Credit counselors and loan officers,5,73,0.001000232930956524
-Bosnia and Herzegovina,4307,106574,2903,72983,6850,Underground mining machine operators,1,72,9.865311099845168e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,5250,"Eligibility interviewers, government programs",3,70,9.591274680405026e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,8710,Cutting workers,2,70,9.591274680405026e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,9121,"Bus drivers, school",5,69,9.454256470684954e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,7020,Radio and telecommunications equipment installers and repairers,4,67,9.18022005124481e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3550,Other healthcare practitioners and technical occupations,3,65,8.906183631804666e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,1541,Architectural and civil drafters,2,64,8.769165422084595e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2435,Librarians and media collections specialists,1,64,8.769165422084595e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,4800,Advertising sales agents,2,64,8.769165422084595e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,5600,"Production, planning, and expediting clerks",4,64,8.769165422084595e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",2,64,8.769165422084595e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,8310,"Pressers, textile, garment, and related materials",3,64,8.769165422084595e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,1320,Aerospace engineers,3,63,8.632147212364523e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,7150,Automotive body and related repairers,2,63,8.632147212364523e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,4820,"Securities, commodities, and financial services sales agents",2,62,8.495129002644451e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3030,Dietitians and nutritionists,3,59,8.084074373484236e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,5521,Public safety telecommunicators,3,59,8.084074373484236e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,6520,Sheet metal workers,1,59,8.084074373484236e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,7040,"Electric motor, power tool, and related repairers",2,58,7.947056163764164e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2330,Special education teachers,3,57,7.810037954044093e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,4435,Other entertainment attendants and related workers,2,57,7.810037954044093e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,4810,Insurance sales agents,4,57,7.810037954044093e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,4251,Landscaping and groundskeeping workers,3,56,7.67301974432402e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,1822,School psychologists,2,55,7.536001534603949e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,1970,"Other life, physical, and social science technicians",4,55,7.536001534603949e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,5840,Insurance claims and policy processing clerks,3,54,7.398983324883877e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,8300,Laundry and dry-cleaning workers,4,54,7.398983324883877e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,1800,Economists,2,53,7.261965115163805e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,4350,Animal caretakers,3,53,7.261965115163805e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,6305,Construction equipment operators,3,53,7.261965115163805e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3802,Correctional officers and jailers,3,52,7.124946905443734e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2632,Fashion designers,1,51,6.987928695723662e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,5160,Tellers,2,51,6.987928695723662e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,8450,Upholsterers,2,50,6.85091048600359e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3720,First-line supervisors of firefighting and prevention workers,1,49,6.713892276283518e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2850,Writers and authors,2,46,6.302837647123303e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3430,Dietetic technicians and ophthalmic medical technicians,2,46,6.302837647123303e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,4130,Dining room and cafeteria attendants and bartender helpers,2,45,6.165819437403231e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,7740,Structural metal fabricators and fitters,2,45,6.165819437403231e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,0102,Facilities managers,3,44,6.028801227683159e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",2,44,6.028801227683159e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,9510,Crane and tower operators,2,44,6.028801227683159e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3401,Emergency medical technicians,1,43,5.891783017963087e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,8650,"Crushing, grinding, polishing, mixing, and blending workers",2,43,5.891783017963087e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2825,Public relations specialists,1,42,5.754764808243016e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3946,School bus monitors,1,42,5.754764808243016e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,1650,Other life scientists,4,41,5.617746598522944e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,4500,Barbers,1,41,5.617746598522944e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,5150,Procurement clerks,1,41,5.617746598522944e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,1545,Other drafters,2,40,5.480728388802872e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,4621,Exercise trainers and group fitness instructors,2,40,5.480728388802872e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3323,Radiologic technologists and technicians,2,39,5.3437101790828e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,7840,Food batchmakers,2,39,5.3437101790828e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2635,Interior designers,2,37,5.069673759642657e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3620,Physical therapist assistants and aides,1,37,5.069673759642657e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,7925,"Forming machine setters, operators, and tenders, metal and plastic",1,37,5.069673759642657e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,9720,Refuse and recyclable material collectors,2,37,5.069673759642657e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,0930,"Tax examiners and collectors, and revenue agents",2,36,4.932655549922584e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3040,Optometrists,2,36,4.932655549922584e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3150,Occupational therapists,1,36,4.932655549922584e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,1065,Database administrators and architects,2,35,4.795637340202513e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,4330,Supervisors of personal care and service workers,3,35,4.795637340202513e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,7420,Telecommunications line installers and repairers,2,34,4.6586191304824414e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,0135,Compensation and benefits managers,2,33,4.5216009207623694e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,5300,"Hotel, motel, and resort desk clerks",2,33,4.5216009207623694e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,1031,Web developers,3,32,4.3845827110422975e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,5730,Medical secretaries and administrative assistants,2,32,4.3845827110422975e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,1007,Information security analysts,2,31,4.2475645013222255e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,1350,Chemical engineers,1,31,4.2475645013222255e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3100,Surgeons,2,31,4.2475645013222255e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,5420,Other information and records clerks,2,31,4.2475645013222255e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,9040,Air traffic controllers and airfield operations specialists,1,31,4.2475645013222255e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,6660,Construction and building inspectors,2,30,4.110546291602154e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,7300,Control and valve installers and repairers,1,30,4.110546291602154e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,0230,Education and childcare administrators,3,29,3.973528081882082e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3610,Occupational therapy assistants and aides,1,29,3.973528081882082e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,7130,Security and fire alarm systems installers,1,28,3.83650987216201e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,8950,Helpers--production workers,1,28,3.83650987216201e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,1010,Computer programmers,2,27,3.6994916624419387e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,1610,Biological scientists,2,27,3.6994916624419387e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2555,Other educational instruction and library workers,2,27,3.6994916624419387e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3649,Phlebotomists,3,27,3.6994916624419387e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,0725,"Meeting, convention, and event planners",3,26,3.562473452721867e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2640,Other designers,2,26,3.562473452721867e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3200,Radiation therapists,1,26,3.562473452721867e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3424,Veterinary technologists and technicians,1,26,3.562473452721867e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3646,Medical transcriptionists,1,26,3.562473452721867e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,0205,"Farmers, ranchers, and other agricultural managers",2,25,3.425455243001795e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2012,Healthcare social workers,1,25,3.425455243001795e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3256,Nurse anesthetists,1,25,3.425455243001795e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3605,Orderlies and psychiatric aides,1,25,3.425455243001795e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,9365,Transportation service attendants,1,25,3.425455243001795e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,0335,Entertainment and recreation managers,2,23,3.1514188235616514e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,4622,Recreation workers,2,23,3.1514188235616514e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,6730,Highway maintenance workers,1,23,3.1514188235616514e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2633,Floral designers,2,22,3.0144006138415794e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2840,Technical writers,1,22,3.0144006138415794e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,9240,Railroad conductors and yardmasters,2,22,3.0144006138415794e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2865,"Media and communication workers, all other",1,21,2.877382404121508e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3545,Miscellaneous health technologists and technicians,1,20,2.740364194401436e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,4750,Parts salespersons,1,20,2.740364194401436e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,0425,Emergency management directors,1,19,2.603345984681364e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2004,Mental health counselors,1,19,2.603345984681364e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2910,Photographers,1,19,2.603345984681364e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,5320,"Library assistants, clerical",2,19,2.603345984681364e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,9410,Transportation inspectors,1,18,2.466327774961292e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,0360,Natural sciences managers,2,17,2.3293095652412207e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2905,Other media and communication equipment workers,2,17,2.3293095652412207e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3120,Podiatrists,1,17,2.3293095652412207e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3322,Diagnostic medical sonographers,1,17,2.3293095652412207e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,17,2.3293095652412207e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,6330,"Drywall installers, ceiling tile installers, and tapers",1,17,2.3293095652412207e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,8620,Water and wastewater treatment plant and system operators,1,17,2.3293095652412207e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,9350,Parking attendants,1,17,2.3293095652412207e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,0900,Financial examiners,1,16,2.1922913555211487e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2920,"Television, video, and film camera operators and editors",2,16,2.1922913555211487e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,6250,"Cement masons, concrete finishers, and terrazzo workers",1,16,2.1922913555211487e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,0137,Training and development managers,1,15,2.055273145801077e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2011,"Child, family, and school social workers",1,15,2.055273145801077e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,5220,"Court, municipal, and license clerks",1,15,2.055273145801077e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,5920,Statistical assistants,1,15,2.055273145801077e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,6010,Agricultural inspectors,1,15,2.055273145801077e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,6360,Glaziers,1,15,2.055273145801077e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,5540,Postal service clerks,1,14,1.918254936081005e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,6400,Insulation workers,1,14,1.918254936081005e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3230,Speech-language pathologists,1,13,1.7812367263609334e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3245,Other therapists,1,13,1.7812367263609334e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3740,Firefighters,1,13,1.7812367263609334e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3750,Fire inspectors,1,13,1.7812367263609334e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2015,Probation officers and correctional treatment specialists,1,12,1.6442185166408617e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,4900,"Models, demonstrators, and product promoters",1,12,1.6442185166408617e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,5310,"Interviewers, except eligibility and loan",1,12,1.6442185166408617e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,6600,"Helpers, construction trades",1,12,1.6442185166408617e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,8040,"Metal furnace operators, tenders, pourers, and casters",1,12,1.6442185166408617e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,8130,Tool and die makers,1,12,1.6442185166408617e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,9141,Shuttle drivers and chauffeurs,1,12,1.6442185166408617e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,0060,Public relations and fundraising managers,1,11,1.5072003069207897e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2180,"Legal support workers, all other",1,11,1.5072003069207897e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3000,Chiropractors,1,11,1.5072003069207897e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,4830,Travel agents,1,11,1.5072003069207897e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,7430,Precision instrument and equipment repairers,1,11,1.5072003069207897e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,11,1.5072003069207897e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2170,"Title examiners, abstractors, and searchers",1,10,1.370182097200718e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,7240,Small engine mechanics,1,10,1.370182097200718e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,8500,Cabinetmakers and bench carpenters,1,10,1.370182097200718e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,9760,Other material moving workers,1,10,1.370182097200718e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2751,Music directors and composers,1,9,1.233163887480646e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3647,Pharmacy aides,1,9,1.233163887480646e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3700,First-line supervisors of correctional officers,1,9,1.233163887480646e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,5350,Correspondence clerks and order clerks,1,9,1.233163887480646e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2003,Marriage and family therapists,1,8,1.0961456777605744e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2600,Artists and related workers,1,8,1.0961456777605744e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,2636,Merchandise displayers and window trimmers,1,8,1.0961456777605744e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,3423,Surgical technologists,1,8,1.0961456777605744e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,5020,Telephone operators,1,8,1.0961456777605744e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,7540,Locksmiths and safe repairers,1,8,1.0961456777605744e-4
-Bosnia and Herzegovina,4307,106574,2903,72983,1005,Computer and information research scientists,1,7,9.591274680405025e-5
-Bosnia and Herzegovina,4307,106574,2903,72983,1032,Web and digital interface designers,1,7,9.591274680405025e-5
-Bosnia and Herzegovina,4307,106574,2903,72983,6130,Logging workers,1,7,9.591274680405025e-5
-Bosnia and Herzegovina,4307,106574,2903,72983,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,6,8.221092583204308e-5
-Bosnia and Herzegovina,4307,106574,2903,72983,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,6,8.221092583204308e-5
-Bosnia and Herzegovina,4307,106574,2903,72983,2105,Judicial law clerks,1,5,6.85091048600359e-5
-Bosnia and Herzegovina,4307,106574,2903,72983,5850,"Mail clerks and mail machine operators, except postal service",1,5,6.85091048600359e-5
-Bosnia and Herzegovina,4307,106574,2903,72983,2752,Musicians and singers,1,4,5.480728388802872e-5
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Bosnia and Herzegovina,4307,106574,3050,75713,9130,Driver/sales workers and truck drivers,226,6355,0.08393538758205328
+Bosnia and Herzegovina,4307,106574,3050,75713,0440,Other managers,90,2123,0.028040098794130466
+Bosnia and Herzegovina,4307,106574,3050,75713,4220,Janitors and building cleaners,83,2074,0.02739291799294705
+Bosnia and Herzegovina,4307,106574,3050,75713,4230,Maids and housekeeping cleaners,57,1473,0.019455047349860657
+Bosnia and Herzegovina,4307,106574,3050,75713,3255,Registered nurses,62,1406,0.018570126662528233
+Bosnia and Herzegovina,4307,106574,3050,75713,4760,Retail salespersons,71,1402,0.01851729557671734
+Bosnia and Herzegovina,4307,106574,3050,75713,9620,"Laborers and freight, stock, and material movers, hand",48,1234,0.016298389972659914
+Bosnia and Herzegovina,4307,106574,3050,75713,5240,Customer service representatives,43,1192,0.015743663571645555
+Bosnia and Herzegovina,4307,106574,3050,75713,4700,First-line supervisors of retail sales workers,44,1177,0.015545546999854715
+Bosnia and Herzegovina,4307,106574,3050,75713,0800,Accountants and auditors,48,1159,0.015307807113705704
+Bosnia and Herzegovina,4307,106574,3050,75713,8990,"Miscellaneous production workers, including equipment operators and tenders",51,1143,0.01509648277046214
+Bosnia and Herzegovina,4307,106574,3050,75713,0120,Financial managers,38,954,0.012600213965897535
+Bosnia and Herzegovina,4307,106574,3050,75713,7750,Other assemblers and fabricators,40,942,0.012441720708464861
+Bosnia and Herzegovina,4307,106574,3050,75713,8740,"Inspectors, testers, sorters, samplers, and weighers",40,887,0.011715293278565108
+Bosnia and Herzegovina,4307,106574,3050,75713,6230,Carpenters,26,867,0.011451137849510653
+Bosnia and Herzegovina,4307,106574,3050,75713,2310,Elementary and middle school teachers,26,762,0.01006432184697476
+Bosnia and Herzegovina,4307,106574,3050,75713,0220,Construction managers,22,761,0.010051114075522036
+Bosnia and Herzegovina,4307,106574,3050,75713,4720,Cashiers,30,745,0.009839789732278472
+Bosnia and Herzegovina,4307,106574,3050,75713,0020,General and operations managers,26,742,0.009800166417920305
+Bosnia and Herzegovina,4307,106574,3050,75713,7700,First-line supervisors of production and operating workers,28,737,0.00973412756065669
+Bosnia and Herzegovina,4307,106574,3050,75713,6260,Construction laborers,24,695,0.009179401159642334
+Bosnia and Herzegovina,4307,106574,3050,75713,3602,Personal care aides,23,661,0.00873033693024976
+Bosnia and Herzegovina,4307,106574,3050,75713,4020,Cooks,24,660,0.008717129158797037
+Bosnia and Herzegovina,4307,106574,3050,75713,5000,First-line supervisors of office and administrative support workers,22,637,0.008413350415384413
+Bosnia and Herzegovina,4307,106574,3050,75713,9645,Stockers and order fillers,29,637,0.008413350415384413
+Bosnia and Herzegovina,4307,106574,3050,75713,8225,Other metal workers and plastic workers,29,630,0.008320896015215353
+Bosnia and Herzegovina,4307,106574,3050,75713,7340,"Maintenance and repair workers, general",23,587,0.007752961842748273
+Bosnia and Herzegovina,4307,106574,3050,75713,0705,Project management specialists,24,568,0.00750201418514654
+Bosnia and Herzegovina,4307,106574,3050,75713,7200,Automotive service technicians and mechanics,16,559,0.0073831442420720355
+Bosnia and Herzegovina,4307,106574,3050,75713,3603,Nursing assistants,21,552,0.007290689841902976
+Bosnia and Herzegovina,4307,106574,3050,75713,4110,Waiters and waitresses,15,550,0.00726427429899753
+Bosnia and Herzegovina,4307,106574,3050,75713,5860,"Office clerks, general",25,549,0.007251066527544808
+Bosnia and Herzegovina,4307,106574,3050,75713,1021,Software developers,35,547,0.007224650984639362
+Bosnia and Herzegovina,4307,106574,3050,75713,8030,Machinists,24,537,0.007092573270112134
+Bosnia and Herzegovina,4307,106574,3050,75713,2545,Teaching assistants,14,511,0.0067491712123413415
+Bosnia and Herzegovina,4307,106574,3050,75713,0010,Chief executives and legislators,18,496,0.0065510546405504995
+Bosnia and Herzegovina,4307,106574,3050,75713,4710,First-line supervisors of non-retail sales workers,24,493,0.006511431326192332
+Bosnia and Herzegovina,4307,106574,3050,75713,3870,Police officers,16,462,0.006101990411157925
+Bosnia and Herzegovina,4307,106574,3050,75713,5740,"Secretaries and administrative assistants, except legal, medical, and executive",19,460,0.00607557486825248
+Bosnia and Herzegovina,4307,106574,3050,75713,1006,Computer systems analysts,20,434,0.005732172810481688
+Bosnia and Herzegovina,4307,106574,3050,75713,3645,Medical assistants,17,431,0.005692549496123519
+Bosnia and Herzegovina,4307,106574,3050,75713,1460,Mechanical engineers,9,426,0.0056265106388599054
+Bosnia and Herzegovina,4307,106574,3050,75713,3421,Pharmacy technicians,13,423,0.005586887324501737
+Bosnia and Herzegovina,4307,106574,3050,75713,0160,"Transportation, storage, and distribution managers",7,409,0.005401978524163618
+Bosnia and Herzegovina,4307,106574,3050,75713,4850,"Sales representatives, wholesale and manufacturing",15,407,0.005375562981258172
+Bosnia and Herzegovina,4307,106574,3050,75713,7330,Industrial and refractory machinery mechanics,12,404,0.005335939666900004
+Bosnia and Herzegovina,4307,106574,3050,75713,5610,"Shipping, receiving, and inventory clerks",14,403,0.005322731895447281
+Bosnia and Herzegovina,4307,106574,3050,75713,4510,"Hairdressers, hairstylists, and cosmetologists",15,398,0.005256693038183667
+Bosnia and Herzegovina,4307,106574,3050,75713,6355,Electricians,19,398,0.005256693038183667
+Bosnia and Herzegovina,4307,106574,3050,75713,0350,Medical and health services managers,16,394,0.005203861952372776
+Bosnia and Herzegovina,4307,106574,3050,75713,0310,Food service managers,14,378,0.0049925376091292115
+Bosnia and Herzegovina,4307,106574,3050,75713,6410,Painters and paperhangers,15,378,0.0049925376091292115
+Bosnia and Herzegovina,4307,106574,3050,75713,3090,Physicians,16,375,0.004952914294771044
+Bosnia and Herzegovina,4307,106574,3050,75713,5120,"Bookkeeping, accounting, and auditing clerks",19,373,0.004926498751865598
+Bosnia and Herzegovina,4307,106574,3050,75713,3050,Pharmacists,10,370,0.004886875437507429
+Bosnia and Herzegovina,4307,106574,3050,75713,4530,"Baggage porters, bellhops, and concierges",12,367,0.0048472521231492614
+Bosnia and Herzegovina,4307,106574,3050,75713,8320,Sewing machine operators,14,367,0.0048472521231492614
+Bosnia and Herzegovina,4307,106574,3050,75713,1530,Other engineers,16,360,0.004754797722980202
+Bosnia and Herzegovina,4307,106574,3050,75713,8140,"Welding, soldering, and brazing workers",13,359,0.004741589951527478
+Bosnia and Herzegovina,4307,106574,3050,75713,4030,Food preparation workers,14,353,0.004662343322811142
+Bosnia and Herzegovina,4307,106574,3050,75713,1108,"Computer occupations, all other",12,344,0.004543473379736637
+Bosnia and Herzegovina,4307,106574,3050,75713,1050,Computer support specialists,17,341,0.0045038500653784685
+Bosnia and Herzegovina,4307,106574,3050,75713,0410,"Property, real estate, and community association managers",19,337,0.004451018979567577
+Bosnia and Herzegovina,4307,106574,3050,75713,4920,Real estate brokers and sales agents,17,334,0.0044113956652094095
+Bosnia and Herzegovina,4307,106574,3050,75713,5522,"Dispatchers, except police, fire, and ambulance",13,333,0.004398187893756686
+Bosnia and Herzegovina,4307,106574,3050,75713,0630,Human resources workers,13,329,0.004345356807945795
+Bosnia and Herzegovina,4307,106574,3050,75713,3300,Clinical laboratory technologists and technicians,13,329,0.004345356807945795
+Bosnia and Herzegovina,4307,106574,3050,75713,5400,Receptionists and information clerks,12,327,0.00431894126504035
+Bosnia and Herzegovina,4307,106574,3050,75713,0140,Industrial production managers,11,311,0.004107616921796785
+Bosnia and Herzegovina,4307,106574,3050,75713,3601,Home health aides,9,305,0.004028370293080449
+Bosnia and Herzegovina,4307,106574,3050,75713,5940,Other office and administrative support workers,13,305,0.004028370293080449
+Bosnia and Herzegovina,4307,106574,3050,75713,9142,Taxi drivers,7,303,0.004001954750175003
+Bosnia and Herzegovina,4307,106574,3050,75713,9600,Industrial truck and tractor operators,10,288,0.003803838178384161
+Bosnia and Herzegovina,4307,106574,3050,75713,0110,Computer and information systems managers,16,285,0.0037642148640259928
+Bosnia and Herzegovina,4307,106574,3050,75713,0650,Training and development specialists,5,271,0.003579306063687874
+Bosnia and Herzegovina,4307,106574,3050,75713,7905,Computer numerically controlled tool operators and programmers,9,265,0.0035000594349715373
+Bosnia and Herzegovina,4307,106574,3050,75713,0052,Sales managers,11,263,0.003473643892066092
+Bosnia and Herzegovina,4307,106574,3050,75713,3640,Dental assistants,13,260,0.0034340205777079235
+Bosnia and Herzegovina,4307,106574,3050,75713,7720,"Electrical, electronics, and electromechanical assemblers",10,259,0.0034208128062552007
+Bosnia and Herzegovina,4307,106574,3050,75713,0750,"Business operations specialists, all other",12,258,0.003407605034802478
+Bosnia and Herzegovina,4307,106574,3050,75713,1240,Other mathematical science occupations,4,258,0.003407605034802478
+Bosnia and Herzegovina,4307,106574,3050,75713,4120,"Food servers, nonrestaurant",10,258,0.003407605034802478
+Bosnia and Herzegovina,4307,106574,3050,75713,0540,"Claims adjusters, appraisers, examiners, and investigators",7,252,0.0033283584060861413
+Bosnia and Herzegovina,4307,106574,3050,75713,0830,Credit analysts,3,249,0.0032887350917279725
+Bosnia and Herzegovina,4307,106574,3050,75713,2100,"Lawyers, and judges, magistrates, and other judicial workers",11,246,0.0032491117773698042
+Bosnia and Herzegovina,4307,106574,3050,75713,2205,Postsecondary teachers,15,242,0.003196280691558913
+Bosnia and Herzegovina,4307,106574,3050,75713,4200,First-line supervisors of housekeeping and janitorial workers,12,239,0.003156657377200745
+Bosnia and Herzegovina,4307,106574,3050,75713,0735,Market research analysts and marketing specialists,8,235,0.0031038262913898537
+Bosnia and Herzegovina,4307,106574,3050,75713,0850,Personal financial advisors,6,232,0.0030642029770316854
+Bosnia and Herzegovina,4307,106574,3050,75713,0530,"Purchasing agents, except wholesale, retail, and farm products",9,231,0.0030509952055789626
+Bosnia and Herzegovina,4307,106574,3050,75713,5510,Couriers and messengers,11,224,0.0029585408054099032
+Bosnia and Herzegovina,4307,106574,3050,75713,7810,"Butchers and other meat, poultry, and fish processing workers",8,221,0.002918917491051735
+Bosnia and Herzegovina,4307,106574,3050,75713,7800,Bakers,8,219,0.0028925019481462894
+Bosnia and Herzegovina,4307,106574,3050,75713,0845,Financial and investment analysts,9,218,0.0028792941766935666
+Bosnia and Herzegovina,4307,106574,3050,75713,2040,Clergy,9,218,0.0028792941766935666
+Bosnia and Herzegovina,4307,106574,3050,75713,5330,Loan interviewers and clerks,5,217,0.002866086405240844
+Bosnia and Herzegovina,4307,106574,3050,75713,3655,Other healthcare support workers,6,216,0.002852878633788121
+Bosnia and Herzegovina,4307,106574,3050,75713,3500,Licensed practical and licensed vocational nurses,8,213,0.0028132553194299527
+Bosnia and Herzegovina,4307,106574,3050,75713,1360,Civil engineers,9,210,0.0027736320050717844
+Bosnia and Herzegovina,4307,106574,3050,75713,9610,Cleaners of vehicles and equipment,6,207,0.002734008690713616
+Bosnia and Herzegovina,4307,106574,3050,75713,4040,Bartenders,4,203,0.0026811776049027246
+Bosnia and Herzegovina,4307,106574,3050,75713,0710,Management analysts,13,202,0.002667969833450002
+Bosnia and Herzegovina,4307,106574,3050,75713,1305,"Architects, except landscape and naval",12,199,0.0026283465190918335
+Bosnia and Herzegovina,4307,106574,3050,75713,0150,Purchasing managers,6,197,0.002601930976186388
+Bosnia and Herzegovina,4307,106574,3050,75713,1555,"Other engineering technologists and technicians, except drafters",11,196,0.002588723204733665
+Bosnia and Herzegovina,4307,106574,3050,75713,6200,First-line supervisors of construction trades and extraction workers,11,196,0.002588723204733665
+Bosnia and Herzegovina,4307,106574,3050,75713,6442,"Plumbers, pipefitters, and steamfitters",11,192,0.002535892118922774
+Bosnia and Herzegovina,4307,106574,3050,75713,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
+						and plastic",3,191,0.0025226843474700513
+Bosnia and Herzegovina,4307,106574,3050,75713,3520,"Opticians, dispensing",6,190,0.0025094765760173285
+Bosnia and Herzegovina,4307,106574,3050,75713,0340,Lodging managers,5,188,0.002483061033111883
+Bosnia and Herzegovina,4307,106574,3050,75713,2300,Preschool and kindergarten teachers,8,188,0.002483061033111883
+Bosnia and Herzegovina,4307,106574,3050,75713,2634,Graphic designers,6,185,0.0024434377187537147
+Bosnia and Herzegovina,4307,106574,3050,75713,4400,Gambling services workers,6,185,0.0024434377187537147
+Bosnia and Herzegovina,4307,106574,3050,75713,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",7,183,0.002417022175848269
+Bosnia and Herzegovina,4307,106574,3050,75713,1410,Electrical and electronics engineers,10,182,0.0024038144043955463
+Bosnia and Herzegovina,4307,106574,3050,75713,8255,Printing press operators,3,182,0.0024038144043955463
+Bosnia and Herzegovina,4307,106574,3050,75713,9122,"Bus drivers, transit and intercity",10,178,0.0023509833185846553
+Bosnia and Herzegovina,4307,106574,3050,75713,0520,"Wholesale and retail buyers, except farm products",5,175,0.002311360004226487
+Bosnia and Herzegovina,4307,106574,3050,75713,2014,"Social workers, all other",11,175,0.002311360004226487
+Bosnia and Herzegovina,4307,106574,3050,75713,8810,Painting workers,4,175,0.002311360004226487
+Bosnia and Herzegovina,4307,106574,3050,75713,0300,Architectural and engineering managers,8,173,0.0022849444613210414
+Bosnia and Herzegovina,4307,106574,3050,75713,6240,"Carpet, floor, and tile installers and finishers",7,169,0.0022321133755101503
+Bosnia and Herzegovina,4307,106574,3050,75713,3515,Medical records specialists,4,167,0.0022056978326047048
+Bosnia and Herzegovina,4307,106574,3050,75713,1760,"Physical scientists, all other",9,164,0.0021660745182465364
+Bosnia and Herzegovina,4307,106574,3050,75713,6050,Other agricultural workers,2,163,0.0021528667467938137
+Bosnia and Herzegovina,4307,106574,3050,75713,4010,First-line supervisors of food preparation and serving workers,4,156,0.002060412346624754
+Bosnia and Herzegovina,4307,106574,3050,75713,4000,Chefs and head cooks,6,155,0.002047204575172031
+Bosnia and Herzegovina,4307,106574,3050,75713,8350,"Tailors, dressmakers, and sewers",6,155,0.002047204575172031
+Bosnia and Herzegovina,4307,106574,3050,75713,2320,Secondary school teachers,8,148,0.0019547501750029716
+Bosnia and Herzegovina,4307,106574,3050,75713,9005,Supervisors of transportation and material moving workers,8,148,0.0019547501750029716
+Bosnia and Herzegovina,4307,106574,3050,75713,3930,Security guards and gaming surveillance officers,8,146,0.001928334632097526
+Bosnia and Herzegovina,4307,106574,3050,75713,8800,Packaging and filling machine operators and tenders,6,144,0.0019019190891920805
+Bosnia and Herzegovina,4307,106574,3050,75713,9640,"Packers and packagers, hand",8,140,0.0018490880033811895
+Bosnia and Herzegovina,4307,106574,3050,75713,9830,"Military, rank not specified",4,140,0.0018490880033811895
+Bosnia and Herzegovina,4307,106574,3050,75713,7210,Bus and truck mechanics and diesel engine specialists,6,139,0.0018358802319284667
+Bosnia and Herzegovina,4307,106574,3050,75713,5140,Payroll and timekeeping clerks,5,138,0.001822672460475744
+Bosnia and Herzegovina,4307,106574,3050,75713,2016,Social and human service assistants,4,136,0.0017962569175702984
+Bosnia and Herzegovina,4307,106574,3050,75713,7010,"Computer, automated teller, and office machine repairers",4,134,0.0017698413746648528
+Bosnia and Herzegovina,4307,106574,3050,75713,1430,"Industrial engineers, including health and safety",6,131,0.0017302180603066845
+Bosnia and Herzegovina,4307,106574,3050,75713,4600,Childcare workers,8,131,0.0017302180603066845
+Bosnia and Herzegovina,4307,106574,3050,75713,7315,"Heating, air conditioning, and refrigeration mechanics and installers",9,131,0.0017302180603066845
+Bosnia and Herzegovina,4307,106574,3050,75713,2861,Interpreters and translators,5,130,0.0017170102888539617
+Bosnia and Herzegovina,4307,106574,3050,75713,0136,Human resources managers,5,129,0.001703802517401239
+Bosnia and Herzegovina,4307,106574,3050,75713,2025,Other community and social service specialists,5,128,0.0016905947459485162
+Bosnia and Herzegovina,4307,106574,3050,75713,3220,Respiratory therapists,5,126,0.0016641792030430706
+Bosnia and Herzegovina,4307,106574,3050,75713,3160,Physical therapists,6,125,0.0016509714315903477
+Bosnia and Herzegovina,4307,106574,3050,75713,1220,Operations research analysts,6,124,0.0016377636601376249
+Bosnia and Herzegovina,4307,106574,3050,75713,7640,"Other installation, maintenance, and repair workers",5,124,0.0016377636601376249
+Bosnia and Herzegovina,4307,106574,3050,75713,8610,Stationary engineers and boiler operators,6,124,0.0016377636601376249
+Bosnia and Herzegovina,4307,106574,3050,75713,0640,"Compensation, benefits, and job analysis specialists",2,120,0.0015849325743267338
+Bosnia and Herzegovina,4307,106574,3050,75713,2145,Paralegals and legal assistants,5,120,0.0015849325743267338
+Bosnia and Herzegovina,4307,106574,3050,75713,7855,"Food processing workers, all other",4,120,0.0015849325743267338
+Bosnia and Herzegovina,4307,106574,3050,75713,1900,Agricultural and food science technicians,2,119,0.001571724802874011
+Bosnia and Herzegovina,4307,106574,3050,75713,3110,Physician assistants,6,118,0.0015585170314212882
+Bosnia and Herzegovina,4307,106574,3050,75713,5360,"Human resources assistants, except payroll and timekeeping",3,118,0.0015585170314212882
+Bosnia and Herzegovina,4307,106574,3050,75713,0860,Insurance underwriters,4,117,0.0015453092599685655
+Bosnia and Herzegovina,4307,106574,3050,75713,1551,Electrical and electronic engineering technologists and technicians,4,117,0.0015453092599685655
+Bosnia and Herzegovina,4307,106574,3050,75713,2002,"Educational, guidance, and career counselors and advisors",3,117,0.0015453092599685655
+Bosnia and Herzegovina,4307,106574,3050,75713,4140,Dishwashers,2,115,0.00151889371706312
+Bosnia and Herzegovina,4307,106574,3050,75713,3310,Dental hygienists,4,114,0.0015056859456103972
+Bosnia and Herzegovina,4307,106574,3050,75713,1720,Chemists and materials scientists,4,112,0.0014792704027049516
+Bosnia and Herzegovina,4307,106574,3050,75713,0420,Social and community service managers,5,110,0.001452854859799506
+Bosnia and Herzegovina,4307,106574,3050,75713,0600,Cost estimators,2,109,0.0014396470883467833
+Bosnia and Herzegovina,4307,106574,3050,75713,5260,File clerks,5,108,0.0014264393168940605
+Bosnia and Herzegovina,4307,106574,3050,75713,4655,"Personal care and service workers, all other",7,107,0.0014132315454413377
+Bosnia and Herzegovina,4307,106574,3050,75713,3258,"Nurse practitioners, and nurse midwives",6,105,0.0013868160025358922
+Bosnia and Herzegovina,4307,106574,3050,75713,4240,Pest control workers,3,105,0.0013868160025358922
+Bosnia and Herzegovina,4307,106574,3050,75713,1825,Other psychologists,5,101,0.001333984916725001
+Bosnia and Herzegovina,4307,106574,3050,75713,3321,Cardiovascular technologists and technicians,4,101,0.001333984916725001
+Bosnia and Herzegovina,4307,106574,3050,75713,4055,Fast food and counter workers,6,100,0.0013207771452722781
+Bosnia and Herzegovina,4307,106574,3050,75713,5110,Billing and posting clerks,8,100,0.0013207771452722781
+Bosnia and Herzegovina,4307,106574,3050,75713,0700,Logisticians,2,98,0.0012943616023668326
+Bosnia and Herzegovina,4307,106574,3050,75713,1450,Materials engineers,2,98,0.0012943616023668326
+Bosnia and Herzegovina,4307,106574,3050,75713,2360,Other teachers and instructors,7,96,0.001267946059461387
+Bosnia and Herzegovina,4307,106574,3050,75713,2722,Coaches and scouts,5,95,0.0012547382880086643
+Bosnia and Herzegovina,4307,106574,3050,75713,0960,Other financial specialists,5,93,0.0012283227451032187
+Bosnia and Herzegovina,4307,106574,3050,75713,2006,"Counselors, all other",3,93,0.0012283227451032187
+Bosnia and Herzegovina,4307,106574,3050,75713,2440,Library technicians,5,93,0.0012283227451032187
+Bosnia and Herzegovina,4307,106574,3050,75713,5550,Postal service mail carriers,4,93,0.0012283227451032187
+Bosnia and Herzegovina,4307,106574,3050,75713,0051,Marketing managers,7,92,0.001215114973650496
+Bosnia and Herzegovina,4307,106574,3050,75713,1105,Network and computer systems administrators,6,92,0.001215114973650496
+Bosnia and Herzegovina,4307,106574,3050,75713,1980,Occupational health and safety specialists and technicians,2,92,0.001215114973650496
+Bosnia and Herzegovina,4307,106574,3050,75713,5500,Cargo and freight agents,3,92,0.001215114973650496
+Bosnia and Herzegovina,4307,106574,3050,75713,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,5,92,0.001215114973650496
+Bosnia and Herzegovina,4307,106574,3050,75713,4965,"Sales and related workers, all other",5,91,0.0012019072021977732
+Bosnia and Herzegovina,4307,106574,3050,75713,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",3,90,0.0011886994307450504
+Bosnia and Herzegovina,4307,106574,3050,75713,5410,Reservation and transportation ticket agents and travel clerks,4,88,0.0011622838878396049
+Bosnia and Herzegovina,4307,106574,3050,75713,5810,Data entry keyers,6,88,0.0011622838878396049
+Bosnia and Herzegovina,4307,106574,3050,75713,7000,"First-line supervisors of mechanics, installers, and repairers",4,87,0.001149076116386882
+Bosnia and Herzegovina,4307,106574,3050,75713,5710,Executive secretaries and executive administrative assistants,3,86,0.0011358683449341593
+Bosnia and Herzegovina,4307,106574,3050,75713,5165,Other financial clerks,3,85,0.0011226605734814365
+Bosnia and Herzegovina,4307,106574,3050,75713,7140,Aircraft mechanics and service technicians,4,84,0.0011094528020287138
+Bosnia and Herzegovina,4307,106574,3050,75713,0910,Credit counselors and loan officers,6,82,0.0010830372591232682
+Bosnia and Herzegovina,4307,106574,3050,75713,3910,Private detectives and investigators,4,79,0.0010434139447650997
+Bosnia and Herzegovina,4307,106574,3050,75713,9050,Flight attendants,3,77,0.0010169984018596541
+Bosnia and Herzegovina,4307,106574,3050,75713,5100,Bill and account collectors,4,76,0.0010037906304069314
+Bosnia and Herzegovina,4307,106574,3050,75713,0565,Compliance officers,6,75,9.905828589542086e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,1106,Computer network architects,2,74,9.773750875014858e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,6850,Underground mining machine operators,1,72,9.509595445960403e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,7020,Radio and telecommunications equipment installers and repairers,5,71,9.377517731433175e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,5250,"Eligibility interviewers, government programs",3,70,9.245440016905947e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,8710,Cutting workers,2,70,9.245440016905947e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,9121,"Bus drivers, school",5,69,9.11336230237872e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,4435,Other entertainment attendants and related workers,3,68,8.981284587851492e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3550,Other healthcare practitioners and technical occupations,3,65,8.585051444269809e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,1541,Architectural and civil drafters,2,64,8.452973729742581e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2435,Librarians and media collections specialists,1,64,8.452973729742581e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,4800,Advertising sales agents,2,64,8.452973729742581e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,5600,"Production, planning, and expediting clerks",4,64,8.452973729742581e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",2,64,8.452973729742581e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,8310,"Pressers, textile, garment, and related materials",3,64,8.452973729742581e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,1320,Aerospace engineers,3,63,8.320896015215353e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,7150,Automotive body and related repairers,2,63,8.320896015215353e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,4820,"Securities, commodities, and financial services sales agents",2,62,8.188818300688124e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,6305,Construction equipment operators,4,61,8.056740586160897e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3030,Dietitians and nutritionists,3,59,7.792585157106441e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,5521,Public safety telecommunicators,3,59,7.792585157106441e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,6520,Sheet metal workers,1,59,7.792585157106441e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,7040,"Electric motor, power tool, and related repairers",2,58,7.660507442579214e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,0102,Facilities managers,4,57,7.528429728051986e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2330,Special education teachers,3,57,7.528429728051986e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",3,57,7.528429728051986e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,4810,Insurance sales agents,4,57,7.528429728051986e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3323,Radiologic technologists and technicians,3,56,7.396352013524758e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,4251,Landscaping and groundskeeping workers,3,56,7.396352013524758e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,1822,School psychologists,2,55,7.26427429899753e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,1970,"Other life, physical, and social science technicians",4,55,7.26427429899753e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,5840,Insurance claims and policy processing clerks,3,54,7.132196584470303e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,8300,Laundry and dry-cleaning workers,4,54,7.132196584470303e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,1800,Economists,2,53,7.000118869943075e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,4350,Animal caretakers,3,53,7.000118869943075e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3802,Correctional officers and jailers,3,52,6.868041155415847e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2632,Fashion designers,1,51,6.735963440888618e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3620,Physical therapist assistants and aides,2,51,6.735963440888618e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,5160,Tellers,2,51,6.735963440888618e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,8450,Upholsterers,2,50,6.603885726361391e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2635,Interior designers,3,49,6.471808011834163e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3720,First-line supervisors of firefighting and prevention workers,1,49,6.471808011834163e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2850,Writers and authors,2,46,6.07557486825248e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3430,Dietetic technicians and ophthalmic medical technicians,2,46,6.07557486825248e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,4130,Dining room and cafeteria attendants and bartender helpers,2,45,5.943497153725252e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,7740,Structural metal fabricators and fitters,2,45,5.943497153725252e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,9510,Crane and tower operators,2,44,5.811419439198024e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3401,Emergency medical technicians,1,43,5.679341724670797e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,8500,Cabinetmakers and bench carpenters,2,43,5.679341724670797e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,8650,"Crushing, grinding, polishing, mixing, and blending workers",2,43,5.679341724670797e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2825,Public relations specialists,1,42,5.547264010143569e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3946,School bus monitors,1,42,5.547264010143569e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,1650,Other life scientists,4,41,5.415186295616341e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,4500,Barbers,1,41,5.415186295616341e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,5150,Procurement clerks,1,41,5.415186295616341e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,1545,Other drafters,2,40,5.283108581089113e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,4621,Exercise trainers and group fitness instructors,2,40,5.283108581089113e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,7840,Food batchmakers,2,39,5.151030866561885e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,7925,"Forming machine setters, operators, and tenders, metal and plastic",1,37,4.886875437507429e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,9720,Refuse and recyclable material collectors,2,37,4.886875437507429e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,0930,"Tax examiners and collectors, and revenue agents",2,36,4.7547977229802014e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3040,Optometrists,2,36,4.7547977229802014e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3150,Occupational therapists,1,36,4.7547977229802014e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,1065,Database administrators and architects,2,35,4.6227200084529736e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,4330,Supervisors of personal care and service workers,3,35,4.6227200084529736e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2751,Music directors and composers,2,34,4.490642293925746e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3545,Miscellaneous health technologists and technicians,2,34,4.490642293925746e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,7420,Telecommunications line installers and repairers,2,34,4.490642293925746e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,0135,Compensation and benefits managers,2,33,4.358564579398518e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,5300,"Hotel, motel, and resort desk clerks",2,33,4.358564579398518e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,1031,Web developers,3,32,4.2264868648712905e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,5730,Medical secretaries and administrative assistants,2,32,4.2264868648712905e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,1007,Information security analysts,2,31,4.094409150344062e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,1350,Chemical engineers,1,31,4.094409150344062e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3100,Surgeons,2,31,4.094409150344062e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,5420,Other information and records clerks,2,31,4.094409150344062e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,9040,Air traffic controllers and airfield operations specialists,1,31,4.094409150344062e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,6660,Construction and building inspectors,2,30,3.9623314358168345e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,7300,Control and valve installers and repairers,1,30,3.9623314358168345e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,0230,Education and childcare administrators,3,29,3.830253721289607e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3610,Occupational therapy assistants and aides,1,29,3.830253721289607e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,7130,Security and fire alarm systems installers,1,28,3.698176006762379e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,8950,Helpers--production workers,1,28,3.698176006762379e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,1010,Computer programmers,2,27,3.5660982922351513e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,1610,Biological scientists,2,27,3.5660982922351513e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2555,Other educational instruction and library workers,2,27,3.5660982922351513e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3649,Phlebotomists,3,27,3.5660982922351513e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,5320,"Library assistants, clerical",3,27,3.5660982922351513e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,0725,"Meeting, convention, and event planners",3,26,3.4340205777079236e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2640,Other designers,2,26,3.4340205777079236e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3200,Radiation therapists,1,26,3.4340205777079236e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3424,Veterinary technologists and technicians,1,26,3.4340205777079236e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3646,Medical transcriptionists,1,26,3.4340205777079236e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,0205,"Farmers, ranchers, and other agricultural managers",2,25,3.3019428631806953e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2012,Healthcare social workers,1,25,3.3019428631806953e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3256,Nurse anesthetists,1,25,3.3019428631806953e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3605,Orderlies and psychiatric aides,1,25,3.3019428631806953e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,9365,Transportation service attendants,1,25,3.3019428631806953e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,0335,Entertainment and recreation managers,2,23,3.03778743412624e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,4622,Recreation workers,2,23,3.03778743412624e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,6730,Highway maintenance workers,1,23,3.03778743412624e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2633,Floral designers,2,22,2.905709719599012e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2840,Technical writers,1,22,2.905709719599012e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,9240,Railroad conductors and yardmasters,2,22,2.905709719599012e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2865,"Media and communication workers, all other",1,21,2.7736320050717844e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,4750,Parts salespersons,1,20,2.6415542905445567e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,0425,Emergency management directors,1,19,2.5094765760173284e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2004,Mental health counselors,1,19,2.5094765760173284e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2910,Photographers,1,19,2.5094765760173284e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3423,Surgical technologists,2,19,2.5094765760173284e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,9630,Machine feeders and offbearers,1,19,2.5094765760173284e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,9410,Transportation inspectors,1,18,2.3773988614901007e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,0360,Natural sciences managers,2,17,2.245321146962873e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2905,Other media and communication equipment workers,2,17,2.245321146962873e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3120,Podiatrists,1,17,2.245321146962873e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3322,Diagnostic medical sonographers,1,17,2.245321146962873e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,17,2.245321146962873e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,6330,"Drywall installers, ceiling tile installers, and tapers",1,17,2.245321146962873e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,8620,Water and wastewater treatment plant and system operators,1,17,2.245321146962873e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,9350,Parking attendants,1,17,2.245321146962873e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,0900,Financial examiners,1,16,2.1132434324356452e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2920,"Television, video, and film camera operators and editors",2,16,2.1132434324356452e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,6250,"Cement masons, concrete finishers, and terrazzo workers",1,16,2.1132434324356452e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,7430,Precision instrument and equipment repairers,2,16,2.1132434324356452e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,0137,Training and development managers,1,15,1.9811657179084172e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2011,"Child, family, and school social workers",1,15,1.9811657179084172e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,5220,"Court, municipal, and license clerks",1,15,1.9811657179084172e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,5920,Statistical assistants,1,15,1.9811657179084172e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,6010,Agricultural inspectors,1,15,1.9811657179084172e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,6360,Glaziers,1,15,1.9811657179084172e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,8555,Other woodworkers,1,15,1.9811657179084172e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,5540,Postal service clerks,1,14,1.8490880033811895e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,6400,Insulation workers,1,14,1.8490880033811895e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3230,Speech-language pathologists,1,13,1.7170102888539618e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3245,Other therapists,1,13,1.7170102888539618e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3740,Firefighters,1,13,1.7170102888539618e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3750,Fire inspectors,1,13,1.7170102888539618e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2015,Probation officers and correctional treatment specialists,1,12,1.5849325743267338e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,4900,"Models, demonstrators, and product promoters",1,12,1.5849325743267338e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,5310,"Interviewers, except eligibility and loan",1,12,1.5849325743267338e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,6600,"Helpers, construction trades",1,12,1.5849325743267338e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,8040,"Metal furnace operators, tenders, pourers, and casters",1,12,1.5849325743267338e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,8130,Tool and die makers,1,12,1.5849325743267338e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,9141,Shuttle drivers and chauffeurs,1,12,1.5849325743267338e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,0060,Public relations and fundraising managers,1,11,1.452854859799506e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2180,"Legal support workers, all other",1,11,1.452854859799506e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3000,Chiropractors,1,11,1.452854859799506e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,4830,Travel agents,1,11,1.452854859799506e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,11,1.452854859799506e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2170,"Title examiners, abstractors, and searchers",1,10,1.3207771452722783e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,7240,Small engine mechanics,1,10,1.3207771452722783e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,9760,Other material moving workers,1,10,1.3207771452722783e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3647,Pharmacy aides,1,9,1.1886994307450503e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,3700,First-line supervisors of correctional officers,1,9,1.1886994307450503e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,5350,Correspondence clerks and order clerks,1,9,1.1886994307450503e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2003,Marriage and family therapists,1,8,1.0566217162178226e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2600,Artists and related workers,1,8,1.0566217162178226e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,2636,Merchandise displayers and window trimmers,1,8,1.0566217162178226e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,5020,Telephone operators,1,8,1.0566217162178226e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,7540,Locksmiths and safe repairers,1,8,1.0566217162178226e-4
+Bosnia and Herzegovina,4307,106574,3050,75713,1005,Computer and information research scientists,1,7,9.245440016905948e-5
+Bosnia and Herzegovina,4307,106574,3050,75713,1032,Web and digital interface designers,1,7,9.245440016905948e-5
+Bosnia and Herzegovina,4307,106574,3050,75713,6130,Logging workers,1,7,9.245440016905948e-5
+Bosnia and Herzegovina,4307,106574,3050,75713,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,6,7.924662871633669e-5
+Bosnia and Herzegovina,4307,106574,3050,75713,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,6,7.924662871633669e-5
+Bosnia and Herzegovina,4307,106574,3050,75713,2105,Judicial law clerks,1,5,6.603885726361392e-5
+Bosnia and Herzegovina,4307,106574,3050,75713,5850,"Mail clerks and mail machine operators, except postal service",1,5,6.603885726361392e-5
+Bosnia and Herzegovina,4307,106574,3050,75713,2752,Musicians and singers,1,4,5.283108581089113e-5
+Bosnia and Herzegovina,4307,106574,3050,75713,8930,"Paper goods machine setters, operators, and tenders",1,3,3.9623314358168345e-5

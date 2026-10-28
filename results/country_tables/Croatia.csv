@@ -1,241 +1,252 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Croatia,1933,39584,821,19101,0440,Other managers,37,905,0.04737971833935396
-Croatia,1933,39584,821,19101,9130,Driver/sales workers and truck drivers,34,881,0.04612323962096225
-Croatia,1933,39584,821,19101,3255,Registered nurses,14,362,0.018951887335741584
-Croatia,1933,39584,821,19101,1021,Software developers,17,337,0.01764305533741689
-Croatia,1933,39584,821,19101,4760,Retail salespersons,11,336,0.017590702057483903
-Croatia,1933,39584,821,19101,0120,Financial managers,12,330,0.017276582377885975
-Croatia,1933,39584,821,19101,5240,Customer service representatives,12,310,0.016229516779226218
-Croatia,1933,39584,821,19101,3090,Physicians,15,300,0.01570598397989634
-Croatia,1933,39584,821,19101,7200,Automotive service technicians and mechanics,8,297,0.015548924140097377
-Croatia,1933,39584,821,19101,2310,Elementary and middle school teachers,9,292,0.015287157740432438
-Croatia,1933,39584,821,19101,2205,Postsecondary teachers,17,282,0.01476362494110256
-Croatia,1933,39584,821,19101,3300,Clinical laboratory technologists and technicians,4,282,0.01476362494110256
-Croatia,1933,39584,821,19101,0010,Chief executives and legislators,11,279,0.014606565101303596
-Croatia,1933,39584,821,19101,0800,Accountants and auditors,11,277,0.014501858541437622
-Croatia,1933,39584,821,19101,5860,"Office clerks, general",10,262,0.013716559342442805
-Croatia,1933,39584,821,19101,4700,First-line supervisors of retail sales workers,13,261,0.013664206062509817
-Croatia,1933,39584,821,19101,6260,Construction laborers,4,259,0.01355949950264384
-Croatia,1933,39584,821,19101,7700,First-line supervisors of production and operating workers,10,255,0.01335008638291189
-Croatia,1933,39584,821,19101,0710,Management analysts,7,230,0.012041254384587195
-Croatia,1933,39584,821,19101,1050,Computer support specialists,8,226,0.011831841264855243
-Croatia,1933,39584,821,19101,6230,Carpenters,5,225,0.011779487984922255
-Croatia,1933,39584,821,19101,3515,Medical records specialists,4,224,0.011727134704989267
-Croatia,1933,39584,821,19101,5120,"Bookkeeping, accounting, and auditing clerks",7,221,0.011570074865190304
-Croatia,1933,39584,821,19101,1006,Computer systems analysts,8,216,0.011308308465525364
-Croatia,1933,39584,821,19101,0020,General and operations managers,10,207,0.010837128946128476
-Croatia,1933,39584,821,19101,3602,Personal care aides,4,207,0.010837128946128476
-Croatia,1933,39584,821,19101,0705,Project management specialists,11,201,0.010523009266530547
-Croatia,1933,39584,821,19101,4220,Janitors and building cleaners,10,194,0.010156536306999633
-Croatia,1933,39584,821,19101,2360,Other teachers and instructors,8,183,0.009580650227736768
-Croatia,1933,39584,821,19101,5000,First-line supervisors of office and administrative support workers,8,175,0.009161823988272866
-Croatia,1933,39584,821,19101,1240,Other mathematical science occupations,9,171,0.008952410868540914
-Croatia,1933,39584,821,19101,4110,Waiters and waitresses,10,170,0.008900057588607926
-Croatia,1933,39584,821,19101,1410,Electrical and electronics engineers,6,168,0.008795351028741951
-Croatia,1933,39584,821,19101,6355,Electricians,7,168,0.008795351028741951
-Croatia,1933,39584,821,19101,0052,Sales managers,5,165,0.008638291188942987
-Croatia,1933,39584,821,19101,8990,"Miscellaneous production workers, including equipment operators and tenders",7,163,0.008533584629077011
-Croatia,1933,39584,821,19101,4920,Real estate brokers and sales agents,5,153,0.008010051829747135
-Croatia,1933,39584,821,19101,5165,Other financial clerks,3,153,0.008010051829747135
-Croatia,1933,39584,821,19101,2320,Secondary school teachers,7,149,0.007800638710015182
-Croatia,1933,39584,821,19101,0102,Facilities managers,3,148,0.007748285430082194
-Croatia,1933,39584,821,19101,5400,Receptionists and information clerks,8,148,0.007748285430082194
-Croatia,1933,39584,821,19101,5940,Other office and administrative support workers,7,147,0.007695932150149207
-Croatia,1933,39584,821,19101,2300,Preschool and kindergarten teachers,6,143,0.007486519030417256
-Croatia,1933,39584,821,19101,4230,Maids and housekeeping cleaners,5,142,0.007434165750484268
-Croatia,1933,39584,821,19101,9620,"Laborers and freight, stock, and material movers, hand",6,139,0.007277105910685305
-Croatia,1933,39584,821,19101,0140,Industrial production managers,7,134,0.0070153395110203656
-Croatia,1933,39584,821,19101,3945,Transportation security screeners,2,131,0.006858279671221402
-Croatia,1933,39584,821,19101,8030,Machinists,6,131,0.006858279671221402
-Croatia,1933,39584,821,19101,1108,"Computer occupations, all other",6,125,0.006544159991623475
-Croatia,1933,39584,821,19101,0110,Computer and information systems managers,7,121,0.006334746871891524
-Croatia,1933,39584,821,19101,1760,"Physical scientists, all other",10,120,0.006282393591958536
-Croatia,1933,39584,821,19101,3930,Security guards and gaming surveillance officers,4,120,0.006282393591958536
-Croatia,1933,39584,821,19101,5150,Procurement clerks,1,120,0.006282393591958536
-Croatia,1933,39584,821,19101,4710,First-line supervisors of non-retail sales workers,5,119,0.006230040312025549
-Croatia,1933,39584,821,19101,5740,"Secretaries and administrative assistants, except legal, medical, and executive",5,116,0.006072980472226585
-Croatia,1933,39584,821,19101,8225,Other metal workers and plastic workers,6,114,0.0059682739123606094
-Croatia,1933,39584,821,19101,4810,Insurance sales agents,3,110,0.005758860792628658
-Croatia,1933,39584,821,19101,6410,Painters and paperhangers,3,109,0.00570650751269567
-Croatia,1933,39584,821,19101,8300,Laundry and dry-cleaning workers,3,109,0.00570650751269567
-Croatia,1933,39584,821,19101,1530,Other engineers,7,108,0.005654154232762682
-Croatia,1933,39584,821,19101,0410,"Property, real estate, and community association managers",4,107,0.005601800952829695
-Croatia,1933,39584,821,19101,4850,"Sales representatives, wholesale and manufacturing",5,107,0.005601800952829695
-Croatia,1933,39584,821,19101,0640,"Compensation, benefits, and job analysis specialists",2,104,0.005444741113030731
-Croatia,1933,39584,821,19101,2545,Teaching assistants,7,101,0.005287681273231768
-Croatia,1933,39584,821,19101,0700,Logisticians,3,100,0.005235327993298781
-Croatia,1933,39584,821,19101,0300,Architectural and engineering managers,5,99,0.0051829747133657926
-Croatia,1933,39584,821,19101,5522,"Dispatchers, except police, fire, and ambulance",4,99,0.0051829747133657926
-Croatia,1933,39584,821,19101,0220,Construction managers,4,87,0.004554735354169939
-Croatia,1933,39584,821,19101,0630,Human resources workers,6,83,0.004345322234437988
-Croatia,1933,39584,821,19101,3050,Pharmacists,3,82,0.004292968954505
-Croatia,1933,39584,821,19101,4200,First-line supervisors of housekeeping and janitorial workers,1,82,0.004292968954505
-Croatia,1933,39584,821,19101,7410,Electrical power-line installers and repairers,1,80,0.0041882623946390245
-Croatia,1933,39584,821,19101,0205,"Farmers, ranchers, and other agricultural managers",1,79,0.0041359091147060364
-Croatia,1933,39584,821,19101,6442,"Plumbers, pipefitters, and steamfitters",5,78,0.004083555834773048
-Croatia,1933,39584,821,19101,0150,Purchasing managers,4,77,0.00403120255484006
-Croatia,1933,39584,821,19101,3802,Correctional officers and jailers,3,77,0.00403120255484006
-Croatia,1933,39584,821,19101,1105,Network and computer systems administrators,2,74,0.003874142715041097
-Croatia,1933,39584,821,19101,5710,Executive secretaries and executive administrative assistants,4,74,0.003874142715041097
-Croatia,1933,39584,821,19101,9030,Aircraft pilots and flight engineers,2,73,0.0038217894351081096
-Croatia,1933,39584,821,19101,8740,"Inspectors, testers, sorters, samplers, and weighers",4,72,0.0037694361551751216
-Croatia,1933,39584,821,19101,2600,Artists and related workers,4,71,0.003717082875242134
-Croatia,1933,39584,821,19101,0845,Financial and investment analysts,4,70,0.003664729595309146
-Croatia,1933,39584,821,19101,0350,Medical and health services managers,4,64,0.003350609915711219
-Croatia,1933,39584,821,19101,0735,Market research analysts and marketing specialists,4,64,0.003350609915711219
-Croatia,1933,39584,821,19101,4640,Residential advisors,4,63,0.0032982566357782316
-Croatia,1933,39584,821,19101,2435,Librarians and media collections specialists,2,62,0.0032459033558452435
-Croatia,1933,39584,821,19101,3258,"Nurse practitioners, and nurse midwives",2,61,0.003193550075912256
-Croatia,1933,39584,821,19101,4720,Cashiers,4,61,0.003193550075912256
-Croatia,1933,39584,821,19101,7720,"Electrical, electronics, and electromechanical assemblers",3,61,0.003193550075912256
-Croatia,1933,39584,821,19101,3500,Licensed practical and licensed vocational nurses,2,58,0.0030364902361132923
-Croatia,1933,39584,821,19101,1305,"Architects, except landscape and naval",2,57,0.0029841369561803047
-Croatia,1933,39584,821,19101,7750,Other assemblers and fabricators,2,57,0.0029841369561803047
-Croatia,1933,39584,821,19101,0420,Social and community service managers,2,55,0.002879430396314329
-Croatia,1933,39584,821,19101,9265,Other rail transportation workers,1,55,0.002879430396314329
-Croatia,1933,39584,821,19101,3603,Nursing assistants,4,54,0.002827077116381341
-Croatia,1933,39584,821,19101,0600,Cost estimators,2,52,0.0027223705565153655
-Croatia,1933,39584,821,19101,4530,"Baggage porters, bellhops, and concierges",4,52,0.0027223705565153655
-Croatia,1933,39584,821,19101,3940,Crossing guards and flaggers,2,51,0.002670017276582378
-Croatia,1933,39584,821,19101,4130,Dining room and cafeteria attendants and bartender helpers,1,51,0.002670017276582378
-Croatia,1933,39584,821,19101,4020,Cooks,3,50,0.0026176639966493903
-Croatia,1933,39584,821,19101,7340,"Maintenance and repair workers, general",4,49,0.0025653107167164023
-Croatia,1933,39584,821,19101,6400,Insulation workers,1,48,0.0025129574367834147
-Croatia,1933,39584,821,19101,8140,"Welding, soldering, and brazing workers",2,48,0.0025129574367834147
-Croatia,1933,39584,821,19101,7220,Heavy vehicle and mobile equipment service technicians and mechanics,3,47,0.0024606041568504267
-Croatia,1933,39584,821,19101,1900,Agricultural and food science technicians,3,46,0.002408250876917439
-Croatia,1933,39584,821,19101,3250,Veterinarians,2,46,0.002408250876917439
-Croatia,1933,39584,821,19101,9645,Stockers and order fillers,3,44,0.0023035443170514635
-Croatia,1933,39584,821,19101,4510,"Hairdressers, hairstylists, and cosmetologists",1,43,0.0022511910371184754
-Croatia,1933,39584,821,19101,7320,Home appliance repairers,1,42,0.002198837757185488
-Croatia,1933,39584,821,19101,0565,Compliance officers,2,41,0.0021464844772525
-Croatia,1933,39584,821,19101,1010,Computer programmers,4,41,0.0021464844772525
-Croatia,1933,39584,821,19101,1750,"Geoscientists and hydrologists, except geographers",1,41,0.0021464844772525
-Croatia,1933,39584,821,19101,2011,"Child, family, and school social workers",1,41,0.0021464844772525
-Croatia,1933,39584,821,19101,3421,Pharmacy technicians,2,41,0.0021464844772525
-Croatia,1933,39584,821,19101,1800,Economists,2,40,0.0020941311973195122
-Croatia,1933,39584,821,19101,2002,"Educational, guidance, and career counselors and advisors",2,40,0.0020941311973195122
-Croatia,1933,39584,821,19101,3870,Police officers,1,40,0.0020941311973195122
-Croatia,1933,39584,821,19101,5250,"Eligibility interviewers, government programs",1,40,0.0020941311973195122
-Croatia,1933,39584,821,19101,2100,"Lawyers, and judges, magistrates, and other judicial workers",3,39,0.002041777917386524
-Croatia,1933,39584,821,19101,3620,Physical therapist assistants and aides,3,38,0.0019894246374535366
-Croatia,1933,39584,821,19101,4030,Food preparation workers,2,38,0.0019894246374535366
-Croatia,1933,39584,821,19101,2635,Interior designers,2,37,0.0019370713575205486
-Croatia,1933,39584,821,19101,2825,Public relations specialists,3,36,0.0018847180775875608
-Croatia,1933,39584,821,19101,0051,Marketing managers,2,35,0.001832364797654573
-Croatia,1933,39584,821,19101,1610,Biological scientists,1,35,0.001832364797654573
-Croatia,1933,39584,821,19101,4040,Bartenders,3,35,0.001832364797654573
-Croatia,1933,39584,821,19101,8650,"Crushing, grinding, polishing, mixing, and blending workers",1,35,0.001832364797654573
-Croatia,1933,39584,821,19101,5140,Payroll and timekeeping clerks,1,34,0.0017800115177215852
-Croatia,1933,39584,821,19101,0850,Personal financial advisors,3,33,0.0017276582377885974
-Croatia,1933,39584,821,19101,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",3,33,0.0017276582377885974
-Croatia,1933,39584,821,19101,2700,Actors,1,32,0.0016753049578556096
-Croatia,1933,39584,821,19101,6115,Fishing and hunting workers,1,32,0.0016753049578556096
-Croatia,1933,39584,821,19101,0060,Public relations and fundraising managers,1,31,0.0016229516779226218
-Croatia,1933,39584,821,19101,3010,Dentists,1,31,0.0016229516779226218
-Croatia,1933,39584,821,19101,9005,Supervisors of transportation and material moving workers,1,31,0.0016229516779226218
-Croatia,1933,39584,821,19101,3310,Dental hygienists,1,30,0.001570598397989634
-Croatia,1933,39584,821,19101,8920,"Molders, shapers, and casters, except metal and plastic",1,30,0.001570598397989634
-Croatia,1933,39584,821,19101,4350,Animal caretakers,2,29,0.0015182451180566462
-Croatia,1933,39584,821,19101,9800,Military officer special and tactical operations leaders,1,28,0.0014658918381236583
-Croatia,1933,39584,821,19101,2350,Tutors,2,27,0.0014135385581906705
-Croatia,1933,39584,821,19101,8640,"Chemical processing machine setters, operators, and tenders",1,27,0.0014135385581906705
-Croatia,1933,39584,821,19101,9121,"Bus drivers, school",1,27,0.0014135385581906705
-Croatia,1933,39584,821,19101,0530,"Purchasing agents, except wholesale, retail, and farm products",2,26,0.0013611852782576827
-Croatia,1933,39584,821,19101,4600,Childcare workers,3,26,0.0013611852782576827
-Croatia,1933,39584,821,19101,9640,"Packers and packagers, hand",1,26,0.0013611852782576827
-Croatia,1933,39584,821,19101,3630,Massage therapists,1,25,0.0013088319983246951
-Croatia,1933,39584,821,19101,0910,Credit counselors and loan officers,1,24,0.0012564787183917073
-Croatia,1933,39584,821,19101,1430,"Industrial engineers, including health and safety",2,24,0.0012564787183917073
-Croatia,1933,39584,821,19101,1650,Other life scientists,1,24,0.0012564787183917073
-Croatia,1933,39584,821,19101,3245,Other therapists,1,24,0.0012564787183917073
-Croatia,1933,39584,821,19101,3655,Other healthcare support workers,1,24,0.0012564787183917073
-Croatia,1933,39584,821,19101,7210,Bus and truck mechanics and diesel engine specialists,2,24,0.0012564787183917073
-Croatia,1933,39584,821,19101,7315,"Heating, air conditioning, and refrigeration mechanics and installers",2,24,0.0012564787183917073
-Croatia,1933,39584,821,19101,1320,Aerospace engineers,2,23,0.0012041254384587195
-Croatia,1933,39584,821,19101,2145,Paralegals and legal assistants,1,23,0.0012041254384587195
-Croatia,1933,39584,821,19101,1555,"Other engineering technologists and technicians, except drafters",1,22,0.0011517721585257317
-Croatia,1933,39584,821,19101,6200,First-line supervisors of construction trades and extraction workers,2,22,0.0011517721585257317
-Croatia,1933,39584,821,19101,7420,Telecommunications line installers and repairers,1,22,0.0011517721585257317
-Croatia,1933,39584,821,19101,0930,"Tax examiners and collectors, and revenue agents",1,21,0.001099418878592744
-Croatia,1933,39584,821,19101,1460,Mechanical engineers,1,21,0.001099418878592744
-Croatia,1933,39584,821,19101,5320,"Library assistants, clerical",1,21,0.001099418878592744
-Croatia,1933,39584,821,19101,5810,Data entry keyers,1,21,0.001099418878592744
-Croatia,1933,39584,821,19101,6120,Forest and conservation workers,1,21,0.001099418878592744
-Croatia,1933,39584,821,19101,7810,"Butchers and other meat, poultry, and fish processing workers",1,21,0.001099418878592744
-Croatia,1933,39584,821,19101,0750,"Business operations specialists, all other",2,20,0.0010470655986597561
-Croatia,1933,39584,821,19101,2040,Clergy,1,20,0.0010470655986597561
-Croatia,1933,39584,821,19101,3230,Speech-language pathologists,1,20,0.0010470655986597561
-Croatia,1933,39584,821,19101,1007,Information security analysts,1,19,9.947123187267683e-4
-Croatia,1933,39584,821,19101,1450,Materials engineers,1,19,9.947123187267683e-4
-Croatia,1933,39584,821,19101,2330,Special education teachers,2,19,9.947123187267683e-4
-Croatia,1933,39584,821,19101,5100,Bill and account collectors,1,19,9.947123187267683e-4
-Croatia,1933,39584,821,19101,7140,Aircraft mechanics and service technicians,1,19,9.947123187267683e-4
-Croatia,1933,39584,821,19101,7800,Bakers,1,19,9.947123187267683e-4
-Croatia,1933,39584,821,19101,9050,Flight attendants,1,19,9.947123187267683e-4
-Croatia,1933,39584,821,19101,1306,Landscape architects,1,18,9.423590387937804e-4
-Croatia,1933,39584,821,19101,1551,Electrical and electronic engineering technologists and technicians,2,18,9.423590387937804e-4
-Croatia,1933,39584,821,19101,7020,Radio and telecommunications equipment installers and repairers,1,18,9.423590387937804e-4
-Croatia,1933,39584,821,19101,2910,Photographers,1,17,8.900057588607926e-4
-Croatia,1933,39584,821,19101,3645,Medical assistants,1,17,8.900057588607926e-4
-Croatia,1933,39584,821,19101,4400,Gambling services workers,1,17,8.900057588607926e-4
-Croatia,1933,39584,821,19101,4435,Other entertainment attendants and related workers,1,17,8.900057588607926e-4
-Croatia,1933,39584,821,19101,5040,"Communications equipment operators, all other",1,17,8.900057588607926e-4
-Croatia,1933,39584,821,19101,5610,"Shipping, receiving, and inventory clerks",2,17,8.900057588607926e-4
-Croatia,1933,39584,821,19101,0860,Insurance underwriters,1,16,8.376524789278048e-4
-Croatia,1933,39584,821,19101,1350,Chemical engineers,1,16,8.376524789278048e-4
-Croatia,1933,39584,821,19101,6240,"Carpet, floor, and tile installers and finishers",1,16,8.376524789278048e-4
-Croatia,1933,39584,821,19101,9720,Refuse and recyclable material collectors,1,16,8.376524789278048e-4
-Croatia,1933,39584,821,19101,0160,"Transportation, storage, and distribution managers",1,15,7.85299198994817e-4
-Croatia,1933,39584,821,19101,1910,Biological technicians,1,15,7.85299198994817e-4
-Croatia,1933,39584,821,19101,1970,"Other life, physical, and social science technicians",1,15,7.85299198994817e-4
-Croatia,1933,39584,821,19101,2014,"Social workers, all other",1,15,7.85299198994817e-4
-Croatia,1933,39584,821,19101,0101,Administrative services managers,1,14,7.329459190618292e-4
-Croatia,1933,39584,821,19101,0136,Human resources managers,1,14,7.329459190618292e-4
-Croatia,1933,39584,821,19101,0940,Tax preparers,1,14,7.329459190618292e-4
-Croatia,1933,39584,821,19101,0960,Other financial specialists,1,14,7.329459190618292e-4
-Croatia,1933,39584,821,19101,1005,Computer and information research scientists,1,14,7.329459190618292e-4
-Croatia,1933,39584,821,19101,1400,Computer hardware engineers,1,14,7.329459190618292e-4
-Croatia,1933,39584,821,19101,3423,Surgical technologists,1,14,7.329459190618292e-4
-Croatia,1933,39584,821,19101,4621,Exercise trainers and group fitness instructors,1,14,7.329459190618292e-4
-Croatia,1933,39584,821,19101,9365,Transportation service attendants,1,14,7.329459190618292e-4
-Croatia,1933,39584,821,19101,9610,Cleaners of vehicles and equipment,1,14,7.329459190618292e-4
-Croatia,1933,39584,821,19101,2751,Music directors and composers,1,13,6.805926391288414e-4
-Croatia,1933,39584,821,19101,2830,Editors,1,13,6.805926391288414e-4
-Croatia,1933,39584,821,19101,4120,"Food servers, nonrestaurant",1,13,6.805926391288414e-4
-Croatia,1933,39584,821,19101,7360,Millwrights,1,13,6.805926391288414e-4
-Croatia,1933,39584,821,19101,9410,Transportation inspectors,1,13,6.805926391288414e-4
-Croatia,1933,39584,821,19101,0900,Financial examiners,1,12,6.282393591958537e-4
-Croatia,1933,39584,821,19101,1360,Civil engineers,1,12,6.282393591958537e-4
-Croatia,1933,39584,821,19101,1822,School psychologists,1,12,6.282393591958537e-4
-Croatia,1933,39584,821,19101,7905,Computer numerically controlled tool operators and programmers,1,12,6.282393591958537e-4
-Croatia,1933,39584,821,19101,8130,Tool and die makers,1,12,6.282393591958537e-4
-Croatia,1933,39584,821,19101,0500,"Agents and business managers of artists, performers, and athletes",1,11,5.758860792628659e-4
-Croatia,1933,39584,821,19101,0520,"Wholesale and retail buyers, except farm products",1,11,5.758860792628659e-4
-Croatia,1933,39584,821,19101,2752,Musicians and singers,1,11,5.758860792628659e-4
-Croatia,1933,39584,821,19101,2810,"News analysts, reporters, and journalists",1,11,5.758860792628659e-4
-Croatia,1933,39584,821,19101,3605,Orderlies and psychiatric aides,1,11,5.758860792628659e-4
-Croatia,1933,39584,821,19101,5110,Billing and posting clerks,1,11,5.758860792628659e-4
-Croatia,1933,39584,821,19101,5220,"Court, municipal, and license clerks",1,11,5.758860792628659e-4
-Croatia,1933,39584,821,19101,8800,Packaging and filling machine operators and tenders,1,11,5.758860792628659e-4
-Croatia,1933,39584,821,19101,1700,Astronomers and physicists,1,10,5.235327993298781e-4
-Croatia,1933,39584,821,19101,2004,Mental health counselors,1,10,5.235327993298781e-4
-Croatia,1933,39584,821,19101,2180,"Legal support workers, all other",1,10,5.235327993298781e-4
-Croatia,1933,39584,821,19101,3160,Physical therapists,1,10,5.235327993298781e-4
-Croatia,1933,39584,821,19101,3545,Miscellaneous health technologists and technicians,1,10,5.235327993298781e-4
-Croatia,1933,39584,821,19101,3601,Home health aides,1,10,5.235327993298781e-4
-Croatia,1933,39584,821,19101,3647,Pharmacy aides,1,10,5.235327993298781e-4
-Croatia,1933,39584,821,19101,4140,Dishwashers,1,10,5.235327993298781e-4
-Croatia,1933,39584,821,19101,5410,Reservation and transportation ticket agents and travel clerks,1,10,5.235327993298781e-4
-Croatia,1933,39584,821,19101,2400,"Archivists, curators, and museum technicians",1,9,4.711795193968902e-4
-Croatia,1933,39584,821,19101,2632,Fashion designers,1,9,4.711795193968902e-4
-Croatia,1933,39584,821,19101,3110,Physician assistants,1,9,4.711795193968902e-4
-Croatia,1933,39584,821,19101,4820,"Securities, commodities, and financial services sales agents",1,9,4.711795193968902e-4
-Croatia,1933,39584,821,19101,5550,Postal service mail carriers,1,9,4.711795193968902e-4
-Croatia,1933,39584,821,19101,9142,Taxi drivers,1,8,4.188262394639024e-4
-Croatia,1933,39584,821,19101,1825,Other psychologists,1,7,3.664729595309146e-4
-Croatia,1933,39584,821,19101,2170,"Title examiners, abstractors, and searchers",1,7,3.664729595309146e-4
-Croatia,1933,39584,821,19101,2861,Interpreters and translators,1,5,2.6176639966493903e-4
-Croatia,1933,39584,821,19101,4800,Advertising sales agents,1,4,2.094131197319512e-4
-Croatia,1933,39584,821,19101,9150,"Motor vehicle operators, all other",1,3,1.5705983979896342e-4
-Croatia,1933,39584,821,19101,3100,Surgeons,1,2,1.047065598659756e-4
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Croatia,1933,39584,930,21324,9130,Driver/sales workers and truck drivers,38,982,0.0460513974864003
+Croatia,1933,39584,930,21324,0440,Other managers,39,960,0.04501969611705121
+Croatia,1933,39584,930,21324,4760,Retail salespersons,16,395,0.01852372913149503
+Croatia,1933,39584,930,21324,0120,Financial managers,13,362,0.016976177077471392
+Croatia,1933,39584,930,21324,3255,Registered nurses,14,362,0.016976177077471392
+Croatia,1933,39584,930,21324,3090,Physicians,20,361,0.0169292815606828
+Croatia,1933,39584,930,21324,1021,Software developers,19,356,0.016694803976739822
+Croatia,1933,39584,930,21324,6230,Carpenters,6,329,0.015428625023447759
+Croatia,1933,39584,930,21324,2205,Postsecondary teachers,20,328,0.015381729506659163
+Croatia,1933,39584,930,21324,3300,Clinical laboratory technologists and technicians,5,324,0.015194147439504783
+Croatia,1933,39584,930,21324,7200,Automotive service technicians and mechanics,10,323,0.015147251922716189
+Croatia,1933,39584,930,21324,5240,Customer service representatives,12,310,0.014537610204464453
+Croatia,1933,39584,930,21324,2310,Elementary and middle school teachers,9,292,0.013693490902269742
+Croatia,1933,39584,930,21324,0010,Chief executives and legislators,11,279,0.013083849184018007
+Croatia,1933,39584,930,21324,0020,General and operations managers,11,279,0.013083849184018007
+Croatia,1933,39584,930,21324,0800,Accountants and auditors,11,277,0.012990058150440818
+Croatia,1933,39584,930,21324,6260,Construction laborers,5,273,0.012802476083286439
+Croatia,1933,39584,930,21324,5860,"Office clerks, general",10,262,0.012286625398611892
+Croatia,1933,39584,930,21324,4700,First-line supervisors of retail sales workers,13,261,0.012239729881823298
+Croatia,1933,39584,930,21324,7700,First-line supervisors of production and operating workers,10,255,0.011958356781091728
+Croatia,1933,39584,930,21324,5120,"Bookkeeping, accounting, and auditing clerks",9,250,0.011723879197148752
+Croatia,1933,39584,930,21324,4220,Janitors and building cleaners,13,249,0.011676983680360157
+Croatia,1933,39584,930,21324,0710,Management analysts,8,246,0.011536297129994372
+Croatia,1933,39584,930,21324,1050,Computer support specialists,8,226,0.010598386794222472
+Croatia,1933,39584,930,21324,3515,Medical records specialists,4,224,0.010504595760645283
+Croatia,1933,39584,930,21324,1006,Computer systems analysts,8,216,0.010129431626336522
+Croatia,1933,39584,930,21324,0705,Project management specialists,12,213,0.009988745075970737
+Croatia,1933,39584,930,21324,0140,Industrial production managers,8,207,0.009707371975239167
+Croatia,1933,39584,930,21324,3602,Personal care aides,4,207,0.009707371975239167
+Croatia,1933,39584,930,21324,5000,First-line supervisors of office and administrative support workers,10,201,0.009425998874507596
+Croatia,1933,39584,930,21324,4230,Maids and housekeeping cleaners,6,196,0.009191521290564622
+Croatia,1933,39584,930,21324,1410,Electrical and electronics engineers,7,189,0.008863252673044457
+Croatia,1933,39584,930,21324,2360,Other teachers and instructors,8,183,0.008581879572312887
+Croatia,1933,39584,930,21324,4530,"Baggage porters, bellhops, and concierges",5,183,0.008581879572312887
+Croatia,1933,39584,930,21324,2545,Teaching assistants,8,181,0.008488088538735696
+Croatia,1933,39584,930,21324,2320,Secondary school teachers,9,179,0.008394297505158507
+Croatia,1933,39584,930,21324,6355,Electricians,8,176,0.008253610954792722
+Croatia,1933,39584,930,21324,5400,Receptionists and information clerks,9,172,0.008066028887638342
+Croatia,1933,39584,930,21324,1240,Other mathematical science occupations,9,171,0.008019133370849746
+Croatia,1933,39584,930,21324,4110,Waiters and waitresses,10,170,0.007972237854061152
+Croatia,1933,39584,930,21324,0052,Sales managers,5,165,0.007737760270118177
+Croatia,1933,39584,930,21324,8990,"Miscellaneous production workers, including equipment operators and tenders",7,163,0.007643969236540987
+Croatia,1933,39584,930,21324,9620,"Laborers and freight, stock, and material movers, hand",7,159,0.007456387169386606
+Croatia,1933,39584,930,21324,5940,Other office and administrative support workers,8,158,0.007409491652598012
+Croatia,1933,39584,930,21324,8030,Machinists,7,156,0.007315700619020821
+Croatia,1933,39584,930,21324,4920,Real estate brokers and sales agents,5,153,0.007175014068655037
+Croatia,1933,39584,930,21324,5165,Other financial clerks,3,153,0.007175014068655037
+Croatia,1933,39584,930,21324,2300,Preschool and kindergarten teachers,7,152,0.0071281185518664416
+Croatia,1933,39584,930,21324,1760,"Physical scientists, all other",13,149,0.006987432001500656
+Croatia,1933,39584,930,21324,0102,Facilities managers,3,148,0.006940536484712062
+Croatia,1933,39584,930,21324,6442,"Plumbers, pipefitters, and steamfitters",6,136,0.006377790283248921
+Croatia,1933,39584,930,21324,3945,Transportation security screeners,2,131,0.006143312699305946
+Croatia,1933,39584,930,21324,0220,Construction managers,6,128,0.006002626148940161
+Croatia,1933,39584,930,21324,4710,First-line supervisors of non-retail sales workers,6,128,0.006002626148940161
+Croatia,1933,39584,930,21324,8225,Other metal workers and plastic workers,7,126,0.005908835115362971
+Croatia,1933,39584,930,21324,1108,"Computer occupations, all other",6,125,0.005861939598574376
+Croatia,1933,39584,930,21324,0110,Computer and information systems managers,8,123,0.005768148564997186
+Croatia,1933,39584,930,21324,3930,Security guards and gaming surveillance officers,4,120,0.005627462014631401
+Croatia,1933,39584,930,21324,5150,Procurement clerks,1,120,0.005627462014631401
+Croatia,1933,39584,930,21324,0410,"Property, real estate, and community association managers",5,118,0.005533670981054211
+Croatia,1933,39584,930,21324,0150,Purchasing managers,6,116,0.005439879947477021
+Croatia,1933,39584,930,21324,5740,"Secretaries and administrative assistants, except legal, medical, and executive",5,116,0.005439879947477021
+Croatia,1933,39584,930,21324,4810,Insurance sales agents,3,110,0.005158506846745451
+Croatia,1933,39584,930,21324,6410,Painters and paperhangers,3,109,0.005111611329956856
+Croatia,1933,39584,930,21324,8300,Laundry and dry-cleaning workers,3,109,0.005111611329956856
+Croatia,1933,39584,930,21324,1530,Other engineers,7,108,0.005064715813168261
+Croatia,1933,39584,930,21324,3050,Pharmacists,5,108,0.005064715813168261
+Croatia,1933,39584,930,21324,4850,"Sales representatives, wholesale and manufacturing",5,107,0.005017820296379666
+Croatia,1933,39584,930,21324,0300,Architectural and engineering managers,6,105,0.004924029262802476
+Croatia,1933,39584,930,21324,4600,Childcare workers,5,105,0.004924029262802476
+Croatia,1933,39584,930,21324,0640,"Compensation, benefits, and job analysis specialists",2,104,0.004877133746013881
+Croatia,1933,39584,930,21324,7340,"Maintenance and repair workers, general",6,104,0.004877133746013881
+Croatia,1933,39584,930,21324,0700,Logisticians,3,100,0.004689551678859501
+Croatia,1933,39584,930,21324,4720,Cashiers,7,100,0.004689551678859501
+Croatia,1933,39584,930,21324,5522,"Dispatchers, except police, fire, and ambulance",4,99,0.004642656162070906
+Croatia,1933,39584,930,21324,4020,Cooks,5,86,0.004033014443819171
+Croatia,1933,39584,930,21324,8740,"Inspectors, testers, sorters, samplers, and weighers",5,84,0.0039392234102419805
+Croatia,1933,39584,930,21324,0630,Human resources workers,6,83,0.003892327893453386
+Croatia,1933,39584,930,21324,4200,First-line supervisors of housekeeping and janitorial workers,1,82,0.0038454323766647907
+Croatia,1933,39584,930,21324,7410,Electrical power-line installers and repairers,1,80,0.003751641343087601
+Croatia,1933,39584,930,21324,0205,"Farmers, ranchers, and other agricultural managers",1,79,0.003704745826299006
+Croatia,1933,39584,930,21324,3802,Correctional officers and jailers,3,77,0.0036109547927218157
+Croatia,1933,39584,930,21324,7750,Other assemblers and fabricators,3,76,0.0035640592759332208
+Croatia,1933,39584,930,21324,1105,Network and computer systems administrators,2,74,0.003470268242356031
+Croatia,1933,39584,930,21324,5710,Executive secretaries and executive administrative assistants,4,74,0.003470268242356031
+Croatia,1933,39584,930,21324,9030,Aircraft pilots and flight engineers,2,73,0.0034233727255674356
+Croatia,1933,39584,930,21324,2600,Artists and related workers,4,71,0.0033295816919902458
+Croatia,1933,39584,930,21324,0845,Financial and investment analysts,4,70,0.003282686175201651
+Croatia,1933,39584,930,21324,1305,"Architects, except landscape and naval",3,68,0.0031888951416244606
+Croatia,1933,39584,930,21324,0350,Medical and health services managers,4,64,0.0030013130744700805
+Croatia,1933,39584,930,21324,0735,Market research analysts and marketing specialists,4,64,0.0030013130744700805
+Croatia,1933,39584,930,21324,0600,Cost estimators,3,63,0.0029544175576814856
+Croatia,1933,39584,930,21324,4640,Residential advisors,4,63,0.0029544175576814856
+Croatia,1933,39584,930,21324,2435,Librarians and media collections specialists,2,62,0.0029075220408928907
+Croatia,1933,39584,930,21324,4130,Dining room and cafeteria attendants and bartender helpers,2,62,0.0029075220408928907
+Croatia,1933,39584,930,21324,3258,"Nurse practitioners, and nurse midwives",2,61,0.0028606265241042958
+Croatia,1933,39584,930,21324,7720,"Electrical, electronics, and electromechanical assemblers",3,61,0.0028606265241042958
+Croatia,1933,39584,930,21324,2100,"Lawyers, and judges, magistrates, and other judicial workers",5,60,0.0028137310073157004
+Croatia,1933,39584,930,21324,3500,Licensed practical and licensed vocational nurses,2,58,0.0027199399737385106
+Croatia,1933,39584,930,21324,8140,"Welding, soldering, and brazing workers",3,56,0.0026261489401613208
+Croatia,1933,39584,930,21324,0420,Social and community service managers,2,55,0.0025792534233727254
+Croatia,1933,39584,930,21324,9265,Other rail transportation workers,1,55,0.0025792534233727254
+Croatia,1933,39584,930,21324,3603,Nursing assistants,4,54,0.0025323579065841305
+Croatia,1933,39584,930,21324,9005,Supervisors of transportation and material moving workers,2,52,0.0024385668730069407
+Croatia,1933,39584,930,21324,3940,Crossing guards and flaggers,2,51,0.0023916713562183453
+Croatia,1933,39584,930,21324,4030,Food preparation workers,3,51,0.0023916713562183453
+Croatia,1933,39584,930,21324,6400,Insulation workers,1,48,0.0022509848058525606
+Croatia,1933,39584,930,21324,7220,Heavy vehicle and mobile equipment service technicians and mechanics,3,47,0.0022040892890639657
+Croatia,1933,39584,930,21324,1900,Agricultural and food science technicians,3,46,0.0021571937722753703
+Croatia,1933,39584,930,21324,3250,Veterinarians,2,46,0.0021571937722753703
+Croatia,1933,39584,930,21324,7330,Industrial and refractory machinery mechanics,2,45,0.0021102982554867754
+Croatia,1933,39584,930,21324,1320,Aerospace engineers,3,44,0.0020634027386981805
+Croatia,1933,39584,930,21324,9645,Stockers and order fillers,3,44,0.0020634027386981805
+Croatia,1933,39584,930,21324,4510,"Hairdressers, hairstylists, and cosmetologists",1,43,0.0020165072219095856
+Croatia,1933,39584,930,21324,7320,Home appliance repairers,1,42,0.0019696117051209903
+Croatia,1933,39584,930,21324,0565,Compliance officers,2,41,0.0019227161883323953
+Croatia,1933,39584,930,21324,1010,Computer programmers,4,41,0.0019227161883323953
+Croatia,1933,39584,930,21324,1750,"Geoscientists and hydrologists, except geographers",1,41,0.0019227161883323953
+Croatia,1933,39584,930,21324,2011,"Child, family, and school social workers",1,41,0.0019227161883323953
+Croatia,1933,39584,930,21324,3421,Pharmacy technicians,2,41,0.0019227161883323953
+Croatia,1933,39584,930,21324,1800,Economists,2,40,0.0018758206715438004
+Croatia,1933,39584,930,21324,2002,"Educational, guidance, and career counselors and advisors",2,40,0.0018758206715438004
+Croatia,1933,39584,930,21324,3870,Police officers,1,40,0.0018758206715438004
+Croatia,1933,39584,930,21324,5250,"Eligibility interviewers, government programs",1,40,0.0018758206715438004
+Croatia,1933,39584,930,21324,1430,"Industrial engineers, including health and safety",3,39,0.0018289251547552053
+Croatia,1933,39584,930,21324,3620,Physical therapist assistants and aides,3,38,0.0017820296379666104
+Croatia,1933,39584,930,21324,2635,Interior designers,2,37,0.0017351341211780155
+Croatia,1933,39584,930,21324,4251,Landscaping and groundskeeping workers,1,37,0.0017351341211780155
+Croatia,1933,39584,930,21324,5320,"Library assistants, clerical",2,37,0.0017351341211780155
+Croatia,1933,39584,930,21324,2825,Public relations specialists,3,36,0.0016882386043894203
+Croatia,1933,39584,930,21324,0051,Marketing managers,2,35,0.0016413430876008254
+Croatia,1933,39584,930,21324,1610,Biological scientists,1,35,0.0016413430876008254
+Croatia,1933,39584,930,21324,4040,Bartenders,3,35,0.0016413430876008254
+Croatia,1933,39584,930,21324,4120,"Food servers, nonrestaurant",2,35,0.0016413430876008254
+Croatia,1933,39584,930,21324,8650,"Crushing, grinding, polishing, mixing, and blending workers",1,35,0.0016413430876008254
+Croatia,1933,39584,930,21324,5140,Payroll and timekeeping clerks,1,34,0.0015944475708122303
+Croatia,1933,39584,930,21324,8256,Print binding and finishing workers,1,34,0.0015944475708122303
+Croatia,1933,39584,930,21324,0850,Personal financial advisors,3,33,0.0015475520540236354
+Croatia,1933,39584,930,21324,0860,Insurance underwriters,2,33,0.0015475520540236354
+Croatia,1933,39584,930,21324,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",3,33,0.0015475520540236354
+Croatia,1933,39584,930,21324,7315,"Heating, air conditioning, and refrigeration mechanics and installers",3,33,0.0015475520540236354
+Croatia,1933,39584,930,21324,2700,Actors,1,32,0.0015006565372350403
+Croatia,1933,39584,930,21324,6115,Fishing and hunting workers,1,32,0.0015006565372350403
+Croatia,1933,39584,930,21324,0060,Public relations and fundraising managers,1,31,0.0014537610204464453
+Croatia,1933,39584,930,21324,3010,Dentists,1,31,0.0014537610204464453
+Croatia,1933,39584,930,21324,3310,Dental hygienists,1,30,0.0014068655036578502
+Croatia,1933,39584,930,21324,8920,"Molders, shapers, and casters, except metal and plastic",1,30,0.0014068655036578502
+Croatia,1933,39584,930,21324,4350,Animal caretakers,2,29,0.0013599699868692553
+Croatia,1933,39584,930,21324,1555,"Other engineering technologists and technicians, except drafters",2,28,0.0013130744700806604
+Croatia,1933,39584,930,21324,7810,"Butchers and other meat, poultry, and fish processing workers",2,28,0.0013130744700806604
+Croatia,1933,39584,930,21324,9800,Military officer special and tactical operations leaders,1,28,0.0013130744700806604
+Croatia,1933,39584,930,21324,2350,Tutors,2,27,0.0012661789532920653
+Croatia,1933,39584,930,21324,5410,Reservation and transportation ticket agents and travel clerks,2,27,0.0012661789532920653
+Croatia,1933,39584,930,21324,8640,"Chemical processing machine setters, operators, and tenders",1,27,0.0012661789532920653
+Croatia,1933,39584,930,21324,9121,"Bus drivers, school",1,27,0.0012661789532920653
+Croatia,1933,39584,930,21324,0530,"Purchasing agents, except wholesale, retail, and farm products",2,26,0.0012192834365034703
+Croatia,1933,39584,930,21324,9640,"Packers and packagers, hand",1,26,0.0012192834365034703
+Croatia,1933,39584,930,21324,3630,Massage therapists,1,25,0.0011723879197148752
+Croatia,1933,39584,930,21324,0910,Credit counselors and loan officers,1,24,0.0011254924029262803
+Croatia,1933,39584,930,21324,1650,Other life scientists,1,24,0.0011254924029262803
+Croatia,1933,39584,930,21324,3245,Other therapists,1,24,0.0011254924029262803
+Croatia,1933,39584,930,21324,3655,Other healthcare support workers,1,24,0.0011254924029262803
+Croatia,1933,39584,930,21324,4000,Chefs and head cooks,1,24,0.0011254924029262803
+Croatia,1933,39584,930,21324,7210,Bus and truck mechanics and diesel engine specialists,2,24,0.0011254924029262803
+Croatia,1933,39584,930,21324,2145,Paralegals and legal assistants,1,23,0.0010785968861376852
+Croatia,1933,39584,930,21324,9142,Taxi drivers,2,23,0.0010785968861376852
+Croatia,1933,39584,930,21324,6200,First-line supervisors of construction trades and extraction workers,2,22,0.0010317013693490903
+Croatia,1933,39584,930,21324,7420,Telecommunications line installers and repairers,1,22,0.0010317013693490903
+Croatia,1933,39584,930,21324,0930,"Tax examiners and collectors, and revenue agents",1,21,9.848058525604951e-4
+Croatia,1933,39584,930,21324,1360,Civil engineers,2,21,9.848058525604951e-4
+Croatia,1933,39584,930,21324,1460,Mechanical engineers,1,21,9.848058525604951e-4
+Croatia,1933,39584,930,21324,5810,Data entry keyers,1,21,9.848058525604951e-4
+Croatia,1933,39584,930,21324,6120,Forest and conservation workers,1,21,9.848058525604951e-4
+Croatia,1933,39584,930,21324,0750,"Business operations specialists, all other",2,20,9.379103357719002e-4
+Croatia,1933,39584,930,21324,2040,Clergy,1,20,9.379103357719002e-4
+Croatia,1933,39584,930,21324,3030,Dietitians and nutritionists,1,20,9.379103357719002e-4
+Croatia,1933,39584,930,21324,3230,Speech-language pathologists,1,20,9.379103357719002e-4
+Croatia,1933,39584,930,21324,1007,Information security analysts,1,19,8.910148189833052e-4
+Croatia,1933,39584,930,21324,1450,Materials engineers,1,19,8.910148189833052e-4
+Croatia,1933,39584,930,21324,2330,Special education teachers,2,19,8.910148189833052e-4
+Croatia,1933,39584,930,21324,5100,Bill and account collectors,1,19,8.910148189833052e-4
+Croatia,1933,39584,930,21324,5550,Postal service mail carriers,2,19,8.910148189833052e-4
+Croatia,1933,39584,930,21324,7140,Aircraft mechanics and service technicians,1,19,8.910148189833052e-4
+Croatia,1933,39584,930,21324,7800,Bakers,1,19,8.910148189833052e-4
+Croatia,1933,39584,930,21324,9050,Flight attendants,1,19,8.910148189833052e-4
+Croatia,1933,39584,930,21324,1306,Landscape architects,1,18,8.441193021947102e-4
+Croatia,1933,39584,930,21324,1551,Electrical and electronic engineering technologists and technicians,2,18,8.441193021947102e-4
+Croatia,1933,39584,930,21324,7020,Radio and telecommunications equipment installers and repairers,1,18,8.441193021947102e-4
+Croatia,1933,39584,930,21324,2910,Photographers,1,17,7.972237854061152e-4
+Croatia,1933,39584,930,21324,3645,Medical assistants,1,17,7.972237854061152e-4
+Croatia,1933,39584,930,21324,4400,Gambling services workers,1,17,7.972237854061152e-4
+Croatia,1933,39584,930,21324,4435,Other entertainment attendants and related workers,1,17,7.972237854061152e-4
+Croatia,1933,39584,930,21324,4930,Sales engineers,1,17,7.972237854061152e-4
+Croatia,1933,39584,930,21324,5040,"Communications equipment operators, all other",1,17,7.972237854061152e-4
+Croatia,1933,39584,930,21324,5610,"Shipping, receiving, and inventory clerks",2,17,7.972237854061152e-4
+Croatia,1933,39584,930,21324,1350,Chemical engineers,1,16,7.503282686175201e-4
+Croatia,1933,39584,930,21324,6240,"Carpet, floor, and tile installers and finishers",1,16,7.503282686175201e-4
+Croatia,1933,39584,930,21324,6250,"Cement masons, concrete finishers, and terrazzo workers",1,16,7.503282686175201e-4
+Croatia,1933,39584,930,21324,9720,Refuse and recyclable material collectors,1,16,7.503282686175201e-4
+Croatia,1933,39584,930,21324,0160,"Transportation, storage, and distribution managers",1,15,7.034327518289251e-4
+Croatia,1933,39584,930,21324,1720,Chemists and materials scientists,1,15,7.034327518289251e-4
+Croatia,1933,39584,930,21324,1910,Biological technicians,1,15,7.034327518289251e-4
+Croatia,1933,39584,930,21324,1970,"Other life, physical, and social science technicians",1,15,7.034327518289251e-4
+Croatia,1933,39584,930,21324,2014,"Social workers, all other",1,15,7.034327518289251e-4
+Croatia,1933,39584,930,21324,0101,Administrative services managers,1,14,6.565372350403302e-4
+Croatia,1933,39584,930,21324,0136,Human resources managers,1,14,6.565372350403302e-4
+Croatia,1933,39584,930,21324,0940,Tax preparers,1,14,6.565372350403302e-4
+Croatia,1933,39584,930,21324,0960,Other financial specialists,1,14,6.565372350403302e-4
+Croatia,1933,39584,930,21324,1005,Computer and information research scientists,1,14,6.565372350403302e-4
+Croatia,1933,39584,930,21324,1400,Computer hardware engineers,1,14,6.565372350403302e-4
+Croatia,1933,39584,930,21324,3423,Surgical technologists,1,14,6.565372350403302e-4
+Croatia,1933,39584,930,21324,4621,Exercise trainers and group fitness instructors,1,14,6.565372350403302e-4
+Croatia,1933,39584,930,21324,9365,Transportation service attendants,1,14,6.565372350403302e-4
+Croatia,1933,39584,930,21324,9610,Cleaners of vehicles and equipment,1,14,6.565372350403302e-4
+Croatia,1933,39584,930,21324,2751,Music directors and composers,1,13,6.096417182517352e-4
+Croatia,1933,39584,930,21324,2830,Editors,1,13,6.096417182517352e-4
+Croatia,1933,39584,930,21324,7360,Millwrights,1,13,6.096417182517352e-4
+Croatia,1933,39584,930,21324,9410,Transportation inspectors,1,13,6.096417182517352e-4
+Croatia,1933,39584,930,21324,0900,Financial examiners,1,12,5.627462014631402e-4
+Croatia,1933,39584,930,21324,1822,School psychologists,1,12,5.627462014631402e-4
+Croatia,1933,39584,930,21324,3601,Home health aides,2,12,5.627462014631402e-4
+Croatia,1933,39584,930,21324,7905,Computer numerically controlled tool operators and programmers,1,12,5.627462014631402e-4
+Croatia,1933,39584,930,21324,8130,Tool and die makers,1,12,5.627462014631402e-4
+Croatia,1933,39584,930,21324,0500,"Agents and business managers of artists, performers, and athletes",1,11,5.158506846745451e-4
+Croatia,1933,39584,930,21324,0520,"Wholesale and retail buyers, except farm products",1,11,5.158506846745451e-4
+Croatia,1933,39584,930,21324,2752,Musicians and singers,1,11,5.158506846745451e-4
+Croatia,1933,39584,930,21324,2810,"News analysts, reporters, and journalists",1,11,5.158506846745451e-4
+Croatia,1933,39584,930,21324,3605,Orderlies and psychiatric aides,1,11,5.158506846745451e-4
+Croatia,1933,39584,930,21324,5110,Billing and posting clerks,1,11,5.158506846745451e-4
+Croatia,1933,39584,930,21324,5220,"Court, municipal, and license clerks",1,11,5.158506846745451e-4
+Croatia,1933,39584,930,21324,8800,Packaging and filling machine operators and tenders,1,11,5.158506846745451e-4
+Croatia,1933,39584,930,21324,1700,Astronomers and physicists,1,10,4.689551678859501e-4
+Croatia,1933,39584,930,21324,2004,Mental health counselors,1,10,4.689551678859501e-4
+Croatia,1933,39584,930,21324,2180,"Legal support workers, all other",1,10,4.689551678859501e-4
+Croatia,1933,39584,930,21324,3160,Physical therapists,1,10,4.689551678859501e-4
+Croatia,1933,39584,930,21324,3545,Miscellaneous health technologists and technicians,1,10,4.689551678859501e-4
+Croatia,1933,39584,930,21324,3647,Pharmacy aides,1,10,4.689551678859501e-4
+Croatia,1933,39584,930,21324,4140,Dishwashers,1,10,4.689551678859501e-4
+Croatia,1933,39584,930,21324,8320,Sewing machine operators,1,10,4.689551678859501e-4
+Croatia,1933,39584,930,21324,2400,"Archivists, curators, and museum technicians",1,9,4.220596510973551e-4
+Croatia,1933,39584,930,21324,2632,Fashion designers,1,9,4.220596510973551e-4
+Croatia,1933,39584,930,21324,3110,Physician assistants,1,9,4.220596510973551e-4
+Croatia,1933,39584,930,21324,4820,"Securities, commodities, and financial services sales agents",1,9,4.220596510973551e-4
+Croatia,1933,39584,930,21324,2440,Library technicians,1,8,3.7516413430876007e-4
+Croatia,1933,39584,930,21324,1825,Other psychologists,1,7,3.282686175201651e-4
+Croatia,1933,39584,930,21324,2170,"Title examiners, abstractors, and searchers",1,7,3.282686175201651e-4
+Croatia,1933,39584,930,21324,4055,Fast food and counter workers,1,7,3.282686175201651e-4
+Croatia,1933,39584,930,21324,2861,Interpreters and translators,1,5,2.3447758394297505e-4
+Croatia,1933,39584,930,21324,4800,Advertising sales agents,1,4,1.8758206715438003e-4
+Croatia,1933,39584,930,21324,9150,"Motor vehicle operators, all other",1,3,1.4068655036578504e-4
+Croatia,1933,39584,930,21324,3100,Surgeons,1,2,9.379103357719002e-5

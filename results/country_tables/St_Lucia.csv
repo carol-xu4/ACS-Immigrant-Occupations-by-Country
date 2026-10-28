@@ -1,187 +1,194 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-St. Lucia,937,28240,550,17298,9130,Driver/sales workers and truck drivers,18,734,0.042432651173546075
-St. Lucia,937,28240,550,17298,3255,Registered nurses,17,673,0.03890623193432767
-St. Lucia,937,28240,550,17298,2310,Elementary and middle school teachers,12,563,0.032547115273442014
-St. Lucia,937,28240,550,17298,4600,Childcare workers,22,543,0.03139091224419008
-St. Lucia,937,28240,550,17298,4760,Retail salespersons,11,517,0.029887848306162562
-St. Lucia,937,28240,550,17298,3603,Nursing assistants,19,511,0.029540987397386982
-St. Lucia,937,28240,550,17298,6260,Construction laborers,11,434,0.025089605734767026
-St. Lucia,937,28240,550,17298,0800,Accountants and auditors,10,390,0.022545959070412763
-St. Lucia,937,28240,550,17298,0350,Medical and health services managers,8,372,0.021505376344086023
-St. Lucia,937,28240,550,17298,4220,Janitors and building cleaners,13,371,0.021447566192623425
-St. Lucia,937,28240,550,17298,4230,Maids and housekeeping cleaners,13,366,0.02115851543531044
-St. Lucia,937,28240,550,17298,3601,Home health aides,15,361,0.020869464677997458
-St. Lucia,937,28240,550,17298,4700,First-line supervisors of retail sales workers,7,349,0.020175742860446294
-St. Lucia,937,28240,550,17298,0120,Financial managers,6,291,0.01682275407561568
-St. Lucia,937,28240,550,17298,5740,"Secretaries and administrative assistants, except legal, medical, and executive",9,282,0.016302462712452306
-St. Lucia,937,28240,550,17298,6230,Carpenters,5,219,0.012660423170308707
-St. Lucia,937,28240,550,17298,3930,Security guards and gaming surveillance officers,5,216,0.012486992715920915
-St. Lucia,937,28240,550,17298,7340,"Maintenance and repair workers, general",3,213,0.012313562261533125
-St. Lucia,937,28240,550,17298,1021,Software developers,7,198,0.011446409989594173
-St. Lucia,937,28240,550,17298,2205,Postsecondary teachers,7,192,0.011099549080818592
-St. Lucia,937,28240,550,17298,5240,Customer service representatives,10,187,0.010810498323505608
-St. Lucia,937,28240,550,17298,0710,Management analysts,6,185,0.010694878020580414
-St. Lucia,937,28240,550,17298,9300,"Sailors and marine oilers, and ship engineers",2,181,0.010463637414730026
-St. Lucia,937,28240,550,17298,4020,Cooks,5,180,0.01040582726326743
-St. Lucia,937,28240,550,17298,7200,Automotive service technicians and mechanics,3,170,0.009827725748641462
-St. Lucia,937,28240,550,17298,3500,Licensed practical and licensed vocational nurses,3,165,0.009538674991328478
-St. Lucia,937,28240,550,17298,5120,"Bookkeeping, accounting, and auditing clerks",7,165,0.009538674991328478
-St. Lucia,937,28240,550,17298,0440,Other managers,6,163,0.009423054688403284
-St. Lucia,937,28240,550,17298,0310,Food service managers,3,151,0.008729332870852122
-St. Lucia,937,28240,550,17298,2100,"Lawyers, and judges, magistrates, and other judicial workers",5,149,0.008613712567926929
-St. Lucia,937,28240,550,17298,9645,Stockers and order fillers,6,144,0.008324661810613945
-St. Lucia,937,28240,550,17298,0705,Project management specialists,3,143,0.008266851659151347
-St. Lucia,937,28240,550,17298,2330,Special education teachers,4,143,0.008266851659151347
-St. Lucia,937,28240,550,17298,2014,"Social workers, all other",6,141,0.008151231356226153
-St. Lucia,937,28240,550,17298,7855,"Food processing workers, all other",3,141,0.008151231356226153
-St. Lucia,937,28240,550,17298,9620,"Laborers and freight, stock, and material movers, hand",3,136,0.007862180598913169
-St. Lucia,937,28240,550,17298,5000,First-line supervisors of office and administrative support workers,3,135,0.007804370447450572
-St. Lucia,937,28240,550,17298,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",3,135,0.007804370447450572
-St. Lucia,937,28240,550,17298,3602,Personal care aides,6,134,0.007746560295987976
-St. Lucia,937,28240,550,17298,4720,Cashiers,5,127,0.007341889235749798
-St. Lucia,937,28240,550,17298,0340,Lodging managers,1,125,0.007226268932824604
-St. Lucia,937,28240,550,17298,0010,Chief executives and legislators,5,121,0.006995028326974216
-St. Lucia,937,28240,550,17298,6410,Painters and paperhangers,3,119,0.006879408024049023
-St. Lucia,937,28240,550,17298,5310,"Interviewers, except eligibility and loan",3,113,0.006532547115273442
-St. Lucia,937,28240,550,17298,0845,Financial and investment analysts,2,111,0.0064169268123482484
-St. Lucia,937,28240,550,17298,4000,Chefs and head cooks,2,106,0.0061278760550352645
-St. Lucia,937,28240,550,17298,2016,Social and human service assistants,4,102,0.005896635449184877
-St. Lucia,937,28240,550,17298,3645,Medical assistants,4,101,0.00583882529772228
-St. Lucia,937,28240,550,17298,0220,Construction managers,3,99,0.005723204994797087
-St. Lucia,937,28240,550,17298,2040,Clergy,3,97,0.005607584691871893
-St. Lucia,937,28240,550,17298,5510,Couriers and messengers,3,97,0.005607584691871893
-St. Lucia,937,28240,550,17298,7700,First-line supervisors of production and operating workers,2,97,0.005607584691871893
-St. Lucia,937,28240,550,17298,5320,"Library assistants, clerical",1,95,0.005491964388946699
-St. Lucia,937,28240,550,17298,5940,Other office and administrative support workers,1,87,0.005029483177245924
-St. Lucia,937,28240,550,17298,5610,"Shipping, receiving, and inventory clerks",1,85,0.004913862874320731
-St. Lucia,937,28240,550,17298,6240,"Carpet, floor, and tile installers and finishers",1,82,0.00474043241993294
-St. Lucia,937,28240,550,17298,2011,"Child, family, and school social workers",2,80,0.004624812117007746
-St. Lucia,937,28240,550,17298,8990,"Miscellaneous production workers, including equipment operators and tenders",3,80,0.004624812117007746
-St. Lucia,937,28240,550,17298,9610,Cleaners of vehicles and equipment,2,77,0.004451381662619956
-St. Lucia,937,28240,550,17298,3402,Paramedics,2,76,0.004393571511157359
-St. Lucia,937,28240,550,17298,4820,"Securities, commodities, and financial services sales agents",1,76,0.004393571511157359
-St. Lucia,937,28240,550,17298,5400,Receptionists and information clerks,2,76,0.004393571511157359
-St. Lucia,937,28240,550,17298,6200,First-line supervisors of construction trades and extraction workers,3,73,0.004220141056769568
-St. Lucia,937,28240,550,17298,3515,Medical records specialists,1,72,0.004162330905306972
-St. Lucia,937,28240,550,17298,9640,"Packers and packagers, hand",2,72,0.004162330905306972
-St. Lucia,937,28240,550,17298,0136,Human resources managers,2,71,0.004104520753844375
-St. Lucia,937,28240,550,17298,0137,Training and development managers,1,69,0.003988900450919181
-St. Lucia,937,28240,550,17298,4010,First-line supervisors of food preparation and serving workers,3,69,0.003988900450919181
-St. Lucia,937,28240,550,17298,2004,Mental health counselors,1,68,0.0039310902994565845
-St. Lucia,937,28240,550,17298,1240,Other mathematical science occupations,3,66,0.003815469996531391
-St. Lucia,937,28240,550,17298,5730,Medical secretaries and administrative assistants,1,66,0.003815469996531391
-St. Lucia,937,28240,550,17298,7130,Security and fire alarm systems installers,1,65,0.003757659845068794
-St. Lucia,937,28240,550,17298,6442,"Plumbers, pipefitters, and steamfitters",2,62,0.0035842293906810036
-St. Lucia,937,28240,550,17298,3090,Physicians,4,61,0.0035264192392184066
-St. Lucia,937,28240,550,17298,0700,Logisticians,3,60,0.00346860908775581
-St. Lucia,937,28240,550,17298,0420,Social and community service managers,3,56,0.0032373684819054227
-St. Lucia,937,28240,550,17298,3946,School bus monitors,2,56,0.0032373684819054227
-St. Lucia,937,28240,550,17298,7020,Radio and telecommunications equipment installers and repairers,2,56,0.0032373684819054227
-St. Lucia,937,28240,550,17298,0650,Training and development specialists,1,55,0.0031795583304428257
-St. Lucia,937,28240,550,17298,2350,Tutors,1,55,0.0031795583304428257
-St. Lucia,937,28240,550,17298,2545,Teaching assistants,3,55,0.0031795583304428257
-St. Lucia,937,28240,550,17298,3945,Transportation security screeners,2,55,0.0031795583304428257
-St. Lucia,937,28240,550,17298,0230,Education and childcare administrators,2,54,0.003121748178980229
-St. Lucia,937,28240,550,17298,1010,Computer programmers,3,54,0.003121748178980229
-St. Lucia,937,28240,550,17298,4810,Insurance sales agents,3,54,0.003121748178980229
-St. Lucia,937,28240,550,17298,0051,Marketing managers,3,52,0.0030061278760550353
-St. Lucia,937,28240,550,17298,0520,"Wholesale and retail buyers, except farm products",3,52,0.0030061278760550353
-St. Lucia,937,28240,550,17298,1305,"Architects, except landscape and naval",2,52,0.0030061278760550353
-St. Lucia,937,28240,550,17298,5420,Other information and records clerks,1,52,0.0030061278760550353
-St. Lucia,937,28240,550,17298,8300,Laundry and dry-cleaning workers,2,52,0.0030061278760550353
-St. Lucia,937,28240,550,17298,1050,Computer support specialists,2,51,0.0029483177245924383
-St. Lucia,937,28240,550,17298,4965,"Sales and related workers, all other",2,51,0.0029483177245924383
-St. Lucia,937,28240,550,17298,5140,Payroll and timekeeping clerks,1,51,0.0029483177245924383
-St. Lucia,937,28240,550,17298,9430,Other transportation workers,2,50,0.0028905075731298414
-St. Lucia,937,28240,550,17298,1006,Computer systems analysts,3,49,0.002832697421667245
-St. Lucia,937,28240,550,17298,5860,"Office clerks, general",5,49,0.002832697421667245
-St. Lucia,937,28240,550,17298,0750,"Business operations specialists, all other",2,48,0.002774887270204648
-St. Lucia,937,28240,550,17298,3545,Miscellaneous health technologists and technicians,2,48,0.002774887270204648
-St. Lucia,937,28240,550,17298,9122,"Bus drivers, transit and intercity",1,47,0.002717077118742051
-St. Lucia,937,28240,550,17298,6600,"Helpers, construction trades",1,46,0.0026592669672794544
-St. Lucia,937,28240,550,17298,9240,Railroad conductors and yardmasters,2,46,0.0026592669672794544
-St. Lucia,937,28240,550,17298,8140,"Welding, soldering, and brazing workers",3,45,0.0026014568158168575
-St. Lucia,937,28240,550,17298,0110,Computer and information systems managers,2,44,0.0025436466643542605
-St. Lucia,937,28240,550,17298,3258,"Nurse practitioners, and nurse midwives",1,44,0.0025436466643542605
-St. Lucia,937,28240,550,17298,1105,Network and computer systems administrators,2,41,0.00237021620996647
-St. Lucia,937,28240,550,17298,3422,Psychiatric technicians,2,41,0.00237021620996647
-St. Lucia,937,28240,550,17298,3647,Pharmacy aides,1,41,0.00237021620996647
-St. Lucia,937,28240,550,17298,4950,"Door-to-door sales workers, news and street vendors, and related workers",1,41,0.00237021620996647
-St. Lucia,937,28240,550,17298,0820,Budget analysts,1,40,0.002312406058503873
-St. Lucia,937,28240,550,17298,4055,Fast food and counter workers,1,40,0.002312406058503873
-St. Lucia,937,28240,550,17298,1108,"Computer occupations, all other",2,39,0.0022545959070412766
-St. Lucia,937,28240,550,17298,4110,Waiters and waitresses,3,38,0.0021967857555786796
-St. Lucia,937,28240,550,17298,4140,Dishwashers,1,37,0.0021389756041160827
-St. Lucia,937,28240,550,17298,0020,General and operations managers,2,36,0.002081165452653486
-St. Lucia,937,28240,550,17298,0630,Human resources workers,2,36,0.002081165452653486
-St. Lucia,937,28240,550,17298,3940,Crossing guards and flaggers,1,36,0.002081165452653486
-St. Lucia,937,28240,550,17298,9810,First-line enlisted military supervisors,1,36,0.002081165452653486
-St. Lucia,937,28240,550,17298,5160,Tellers,2,35,0.002023355301190889
-St. Lucia,937,28240,550,17298,0930,"Tax examiners and collectors, and revenue agents",1,34,0.0019655451497282922
-St. Lucia,937,28240,550,17298,4340,Animal trainers,1,34,0.0019655451497282922
-St. Lucia,937,28240,550,17298,4435,Other entertainment attendants and related workers,1,34,0.0019655451497282922
-St. Lucia,937,28240,550,17298,4510,"Hairdressers, hairstylists, and cosmetologists",1,34,0.0019655451497282922
-St. Lucia,937,28240,550,17298,8740,"Inspectors, testers, sorters, samplers, and weighers",1,34,0.0019655451497282922
-St. Lucia,937,28240,550,17298,8950,Helpers--production workers,1,34,0.0019655451497282922
-St. Lucia,937,28240,550,17298,3655,Other healthcare support workers,1,33,0.0019077349982656955
-St. Lucia,937,28240,550,17298,6355,Electricians,1,33,0.0019077349982656955
-St. Lucia,937,28240,550,17298,0960,Other financial specialists,1,32,0.0018499248468030985
-St. Lucia,937,28240,550,17298,3740,Firefighters,1,32,0.0018499248468030985
-St. Lucia,937,28240,550,17298,3870,Police officers,3,32,0.0018499248468030985
-St. Lucia,937,28240,550,17298,6515,Roofers,1,31,0.0017921146953405018
-St. Lucia,937,28240,550,17298,6730,Highway maintenance workers,1,31,0.0017921146953405018
-St. Lucia,937,28240,550,17298,4621,Exercise trainers and group fitness instructors,1,30,0.001734304543877905
-St. Lucia,937,28240,550,17298,7420,Telecommunications line installers and repairers,2,29,0.001676494392415308
-St. Lucia,937,28240,550,17298,5710,Executive secretaries and executive administrative assistants,1,28,0.0016186842409527114
-St. Lucia,937,28240,550,17298,8500,Cabinetmakers and bench carpenters,1,28,0.0016186842409527114
-St. Lucia,937,28240,550,17298,2320,Secondary school teachers,1,27,0.0015608740894901144
-St. Lucia,937,28240,550,17298,4120,"Food servers, nonrestaurant",1,27,0.0015608740894901144
-St. Lucia,937,28240,550,17298,7000,"First-line supervisors of mechanics, installers, and repairers",1,27,0.0015608740894901144
-St. Lucia,937,28240,550,17298,9265,Other rail transportation workers,1,27,0.0015608740894901144
-St. Lucia,937,28240,550,17298,2905,Other media and communication equipment workers,1,26,0.0015030639380275177
-St. Lucia,937,28240,550,17298,3300,Clinical laboratory technologists and technicians,1,25,0.0014452537865649207
-St. Lucia,937,28240,550,17298,5110,Billing and posting clerks,1,25,0.0014452537865649207
-St. Lucia,937,28240,550,17298,5560,"Postal service mail sorters, processors, and processing machine operators",1,25,0.0014452537865649207
-St. Lucia,937,28240,550,17298,4850,"Sales representatives, wholesale and manufacturing",1,24,0.001387443635102324
-St. Lucia,937,28240,550,17298,0565,Compliance officers,1,22,0.0012718233321771303
-St. Lucia,937,28240,550,17298,1410,Electrical and electronics engineers,1,22,0.0012718233321771303
-St. Lucia,937,28240,550,17298,4200,First-line supervisors of housekeeping and janitorial workers,1,22,0.0012718233321771303
-St. Lucia,937,28240,550,17298,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,22,0.0012718233321771303
-St. Lucia,937,28240,550,17298,0052,Sales managers,1,21,0.0012140131807145335
-St. Lucia,937,28240,550,17298,1530,Other engineers,2,21,0.0012140131807145335
-St. Lucia,937,28240,550,17298,2920,"Television, video, and film camera operators and editors",1,21,0.0012140131807145335
-St. Lucia,937,28240,550,17298,5600,"Production, planning, and expediting clerks",2,21,0.0012140131807145335
-St. Lucia,937,28240,550,17298,3321,Cardiovascular technologists and technicians,1,20,0.0011562030292519366
-St. Lucia,937,28240,550,17298,3421,Pharmacy technicians,2,20,0.0011562030292519366
-St. Lucia,937,28240,550,17298,3725,"Miscellaneous first-line supervisors, protective service workers",1,20,0.0011562030292519366
-St. Lucia,937,28240,550,17298,4940,Telemarketers,1,20,0.0011562030292519366
-St. Lucia,937,28240,550,17298,5810,Data entry keyers,1,20,0.0011562030292519366
-St. Lucia,937,28240,550,17298,1005,Computer and information research scientists,1,19,0.0010983928777893398
-St. Lucia,937,28240,550,17298,3710,First-line supervisors of police and detectives,1,19,0.0010983928777893398
-St. Lucia,937,28240,550,17298,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",2,19,0.0010983928777893398
-St. Lucia,937,28240,550,17298,0410,"Property, real estate, and community association managers",1,17,9.827725748641461e-4
-St. Lucia,937,28240,550,17298,3110,Physician assistants,2,17,9.827725748641461e-4
-St. Lucia,937,28240,550,17298,0725,"Meeting, convention, and event planners",1,16,9.249624234015493e-4
-St. Lucia,937,28240,550,17298,1200,Actuaries,1,16,9.249624234015493e-4
-St. Lucia,937,28240,550,17298,4350,Animal caretakers,1,16,9.249624234015493e-4
-St. Lucia,937,28240,550,17298,4522,Skincare specialists,1,16,9.249624234015493e-4
-St. Lucia,937,28240,550,17298,4740,Counter and rental clerks,1,16,9.249624234015493e-4
-St. Lucia,937,28240,550,17298,5250,"Eligibility interviewers, government programs",1,16,9.249624234015493e-4
-St. Lucia,937,28240,550,17298,3323,Radiologic technologists and technicians,2,15,8.671522719389525e-4
-St. Lucia,937,28240,550,17298,3610,Occupational therapy assistants and aides,1,15,8.671522719389525e-4
-St. Lucia,937,28240,550,17298,0300,Architectural and engineering managers,1,14,8.093421204763557e-4
-St. Lucia,937,28240,550,17298,4830,Travel agents,1,14,8.093421204763557e-4
-St. Lucia,937,28240,550,17298,0150,Purchasing managers,1,13,7.515319690137588e-4
-St. Lucia,937,28240,550,17298,1760,"Physical scientists, all other",2,13,7.515319690137588e-4
-St. Lucia,937,28240,550,17298,6305,Construction equipment operators,1,13,7.515319690137588e-4
-St. Lucia,937,28240,550,17298,8810,Painting workers,1,13,7.515319690137588e-4
-St. Lucia,937,28240,550,17298,7315,"Heating, air conditioning, and refrigeration mechanics and installers",1,12,6.93721817551162e-4
-St. Lucia,937,28240,550,17298,1022,Software quality assurance analysts and testers,1,11,6.359116660885651e-4
-St. Lucia,937,28240,550,17298,3430,Dietetic technicians and ophthalmic medical technicians,1,11,6.359116660885651e-4
-St. Lucia,937,28240,550,17298,7720,"Electrical, electronics, and electromechanical assemblers",1,11,6.359116660885651e-4
-St. Lucia,937,28240,550,17298,5540,Postal service clerks,1,10,5.781015146259683e-4
-St. Lucia,937,28240,550,17298,5150,Procurement clerks,1,9,5.202913631633715e-4
-St. Lucia,937,28240,550,17298,9600,Industrial truck and tractor operators,1,9,5.202913631633715e-4
-St. Lucia,937,28240,550,17298,1106,Computer network architects,1,8,4.6248121170077463e-4
-St. Lucia,937,28240,550,17298,4622,Recreation workers,1,7,4.0467106023817784e-4
-St. Lucia,937,28240,550,17298,2360,Other teachers and instructors,1,3,1.734304543877905e-4
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+St. Lucia,937,28240,589,18053,9130,Driver/sales workers and truck drivers,18,734,0.040658062371904946
+St. Lucia,937,28240,589,18053,3255,Registered nurses,18,689,0.038165401872265
+St. Lucia,937,28240,589,18053,2310,Elementary and middle school teachers,12,563,0.03118595247327314
+St. Lucia,937,28240,589,18053,4600,Childcare workers,22,543,0.030078103362322053
+St. Lucia,937,28240,589,18053,4760,Retail salespersons,12,528,0.029247216529108735
+St. Lucia,937,28240,589,18053,3603,Nursing assistants,20,517,0.02863789951808564
+St. Lucia,937,28240,589,18053,6260,Construction laborers,12,440,0.024372680440923947
+St. Lucia,937,28240,589,18053,0800,Accountants and auditors,11,402,0.022267767130116876
+St. Lucia,937,28240,589,18053,4220,Janitors and building cleaners,15,391,0.02165845011909378
+St. Lucia,937,28240,589,18053,3601,Home health aides,16,388,0.021492272752451115
+St. Lucia,937,28240,589,18053,4230,Maids and housekeeping cleaners,14,379,0.020993740652523126
+St. Lucia,937,28240,589,18053,0350,Medical and health services managers,8,372,0.020605993463690245
+St. Lucia,937,28240,589,18053,4700,First-line supervisors of retail sales workers,7,349,0.019331966986096495
+St. Lucia,937,28240,589,18053,5740,"Secretaries and administrative assistants, except legal, medical, and executive",12,312,0.01728244613083698
+St. Lucia,937,28240,589,18053,0120,Financial managers,6,291,0.016119204564338338
+St. Lucia,937,28240,589,18053,3930,Security guards and gaming surveillance officers,8,273,0.015122140364482357
+St. Lucia,937,28240,589,18053,6230,Carpenters,5,219,0.012130947764914418
+St. Lucia,937,28240,589,18053,7340,"Maintenance and repair workers, general",3,213,0.011798593031629091
+St. Lucia,937,28240,589,18053,9645,Stockers and order fillers,7,210,0.011632415664986429
+St. Lucia,937,28240,589,18053,1021,Software developers,7,198,0.010967706198415776
+St. Lucia,937,28240,589,18053,2205,Postsecondary teachers,7,192,0.01063535146513045
+St. Lucia,937,28240,589,18053,5000,First-line supervisors of office and administrative support workers,4,190,0.010524566554035341
+St. Lucia,937,28240,589,18053,3602,Personal care aides,8,189,0.010469174098487785
+St. Lucia,937,28240,589,18053,7200,Automotive service technicians and mechanics,4,189,0.010469174098487785
+St. Lucia,937,28240,589,18053,4020,Cooks,6,187,0.010358389187392677
+St. Lucia,937,28240,589,18053,5240,Customer service representatives,10,187,0.010358389187392677
+St. Lucia,937,28240,589,18053,0710,Management analysts,6,185,0.010247604276297569
+St. Lucia,937,28240,589,18053,9300,"Sailors and marine oilers, and ship engineers",2,181,0.01002603445410735
+St. Lucia,937,28240,589,18053,3500,Licensed practical and licensed vocational nurses,3,165,0.009139755165346479
+St. Lucia,937,28240,589,18053,5120,"Bookkeeping, accounting, and auditing clerks",7,165,0.009139755165346479
+St. Lucia,937,28240,589,18053,0440,Other managers,6,163,0.00902897025425137
+St. Lucia,937,28240,589,18053,4720,Cashiers,6,156,0.00864122306541849
+St. Lucia,937,28240,589,18053,0310,Food service managers,3,151,0.008364260787680718
+St. Lucia,937,28240,589,18053,2100,"Lawyers, and judges, magistrates, and other judicial workers",5,149,0.00825347587658561
+St. Lucia,937,28240,589,18053,0705,Project management specialists,3,143,0.007921121143300283
+St. Lucia,937,28240,589,18053,2330,Special education teachers,4,143,0.007921121143300283
+St. Lucia,937,28240,589,18053,9620,"Laborers and freight, stock, and material movers, hand",4,142,0.007865728687752729
+St. Lucia,937,28240,589,18053,2014,"Social workers, all other",6,141,0.007810336232205174
+St. Lucia,937,28240,589,18053,7855,"Food processing workers, all other",3,141,0.007810336232205174
+St. Lucia,937,28240,589,18053,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",3,135,0.007477981498919847
+St. Lucia,937,28240,589,18053,0220,Construction managers,4,132,0.007311804132277184
+St. Lucia,937,28240,589,18053,0340,Lodging managers,1,125,0.006924056943444303
+St. Lucia,937,28240,589,18053,0010,Chief executives and legislators,5,121,0.006702487121254085
+St. Lucia,937,28240,589,18053,6410,Painters and paperhangers,3,119,0.006591702210158977
+St. Lucia,937,28240,589,18053,5310,"Interviewers, except eligibility and loan",3,113,0.00625934747687365
+St. Lucia,937,28240,589,18053,0845,Financial and investment analysts,2,111,0.006148562565778541
+St. Lucia,937,28240,589,18053,4000,Chefs and head cooks,2,106,0.005871600288040769
+St. Lucia,937,28240,589,18053,2016,Social and human service assistants,4,102,0.005650030465850551
+St. Lucia,937,28240,589,18053,3645,Medical assistants,4,101,0.005594638010302997
+St. Lucia,937,28240,589,18053,2040,Clergy,3,97,0.005373068188112779
+St. Lucia,937,28240,589,18053,5510,Couriers and messengers,3,97,0.005373068188112779
+St. Lucia,937,28240,589,18053,7700,First-line supervisors of production and operating workers,2,97,0.005373068188112779
+St. Lucia,937,28240,589,18053,5320,"Library assistants, clerical",1,95,0.0052622832770176705
+St. Lucia,937,28240,589,18053,8950,Helpers--production workers,2,92,0.005096105910375007
+St. Lucia,937,28240,589,18053,5940,Other office and administrative support workers,1,87,0.004819143632637235
+St. Lucia,937,28240,589,18053,5610,"Shipping, receiving, and inventory clerks",1,85,0.004708358721542126
+St. Lucia,937,28240,589,18053,6240,"Carpet, floor, and tile installers and finishers",1,82,0.004542181354899462
+St. Lucia,937,28240,589,18053,2011,"Child, family, and school social workers",2,80,0.004431396443804354
+St. Lucia,937,28240,589,18053,4010,First-line supervisors of food preparation and serving workers,4,80,0.004431396443804354
+St. Lucia,937,28240,589,18053,8990,"Miscellaneous production workers, including equipment operators and tenders",3,80,0.004431396443804354
+St. Lucia,937,28240,589,18053,9610,Cleaners of vehicles and equipment,2,77,0.004265219077161691
+St. Lucia,937,28240,589,18053,3402,Paramedics,2,76,0.004209826621614136
+St. Lucia,937,28240,589,18053,4820,"Securities, commodities, and financial services sales agents",1,76,0.004209826621614136
+St. Lucia,937,28240,589,18053,5400,Receptionists and information clerks,2,76,0.004209826621614136
+St. Lucia,937,28240,589,18053,6200,First-line supervisors of construction trades and extraction workers,3,73,0.004043649254971473
+St. Lucia,937,28240,589,18053,6442,"Plumbers, pipefitters, and steamfitters",3,73,0.004043649254971473
+St. Lucia,937,28240,589,18053,3515,Medical records specialists,1,72,0.0039882567994239185
+St. Lucia,937,28240,589,18053,9640,"Packers and packagers, hand",2,72,0.0039882567994239185
+St. Lucia,937,28240,589,18053,0136,Human resources managers,2,71,0.003932864343876364
+St. Lucia,937,28240,589,18053,0137,Training and development managers,1,69,0.003822079432781255
+St. Lucia,937,28240,589,18053,2004,Mental health counselors,1,68,0.0037666869772337006
+St. Lucia,937,28240,589,18053,1240,Other mathematical science occupations,3,66,0.003655902066138592
+St. Lucia,937,28240,589,18053,5730,Medical secretaries and administrative assistants,1,66,0.003655902066138592
+St. Lucia,937,28240,589,18053,7130,Security and fire alarm systems installers,1,65,0.0036005096105910374
+St. Lucia,937,28240,589,18053,3090,Physicians,4,61,0.00337893978840082
+St. Lucia,937,28240,589,18053,0700,Logisticians,3,60,0.0033235473328532654
+St. Lucia,937,28240,589,18053,0420,Social and community service managers,3,56,0.0031019775106630476
+St. Lucia,937,28240,589,18053,3946,School bus monitors,2,56,0.0031019775106630476
+St. Lucia,937,28240,589,18053,7020,Radio and telecommunications equipment installers and repairers,2,56,0.0031019775106630476
+St. Lucia,937,28240,589,18053,0650,Training and development specialists,1,55,0.0030465850551154934
+St. Lucia,937,28240,589,18053,1108,"Computer occupations, all other",3,55,0.0030465850551154934
+St. Lucia,937,28240,589,18053,2350,Tutors,1,55,0.0030465850551154934
+St. Lucia,937,28240,589,18053,2545,Teaching assistants,3,55,0.0030465850551154934
+St. Lucia,937,28240,589,18053,3945,Transportation security screeners,2,55,0.0030465850551154934
+St. Lucia,937,28240,589,18053,0230,Education and childcare administrators,2,54,0.002991192599567939
+St. Lucia,937,28240,589,18053,1010,Computer programmers,3,54,0.002991192599567939
+St. Lucia,937,28240,589,18053,4810,Insurance sales agents,3,54,0.002991192599567939
+St. Lucia,937,28240,589,18053,0051,Marketing managers,3,52,0.00288040768847283
+St. Lucia,937,28240,589,18053,0520,"Wholesale and retail buyers, except farm products",3,52,0.00288040768847283
+St. Lucia,937,28240,589,18053,1305,"Architects, except landscape and naval",2,52,0.00288040768847283
+St. Lucia,937,28240,589,18053,5420,Other information and records clerks,1,52,0.00288040768847283
+St. Lucia,937,28240,589,18053,8300,Laundry and dry-cleaning workers,2,52,0.00288040768847283
+St. Lucia,937,28240,589,18053,1050,Computer support specialists,2,51,0.0028250152329252756
+St. Lucia,937,28240,589,18053,4965,"Sales and related workers, all other",2,51,0.0028250152329252756
+St. Lucia,937,28240,589,18053,5140,Payroll and timekeeping clerks,1,51,0.0028250152329252756
+St. Lucia,937,28240,589,18053,9430,Other transportation workers,2,50,0.002769622777377721
+St. Lucia,937,28240,589,18053,1006,Computer systems analysts,3,49,0.002714230321830167
+St. Lucia,937,28240,589,18053,5860,"Office clerks, general",5,49,0.002714230321830167
+St. Lucia,937,28240,589,18053,0750,"Business operations specialists, all other",2,48,0.0026588378662826123
+St. Lucia,937,28240,589,18053,3545,Miscellaneous health technologists and technicians,2,48,0.0026588378662826123
+St. Lucia,937,28240,589,18053,9122,"Bus drivers, transit and intercity",1,47,0.0026034454107350577
+St. Lucia,937,28240,589,18053,0410,"Property, real estate, and community association managers",2,46,0.0025480529551875036
+St. Lucia,937,28240,589,18053,6600,"Helpers, construction trades",1,46,0.0025480529551875036
+St. Lucia,937,28240,589,18053,9240,Railroad conductors and yardmasters,2,46,0.0025480529551875036
+St. Lucia,937,28240,589,18053,8140,"Welding, soldering, and brazing workers",3,45,0.002492660499639949
+St. Lucia,937,28240,589,18053,0110,Computer and information systems managers,2,44,0.0024372680440923945
+St. Lucia,937,28240,589,18053,3258,"Nurse practitioners, and nurse midwives",1,44,0.0024372680440923945
+St. Lucia,937,28240,589,18053,1105,Network and computer systems administrators,2,41,0.002271090677449731
+St. Lucia,937,28240,589,18053,3422,Psychiatric technicians,2,41,0.002271090677449731
+St. Lucia,937,28240,589,18053,3647,Pharmacy aides,1,41,0.002271090677449731
+St. Lucia,937,28240,589,18053,4950,"Door-to-door sales workers, news and street vendors, and related workers",1,41,0.002271090677449731
+St. Lucia,937,28240,589,18053,0820,Budget analysts,1,40,0.002215698221902177
+St. Lucia,937,28240,589,18053,4055,Fast food and counter workers,1,40,0.002215698221902177
+St. Lucia,937,28240,589,18053,4110,Waiters and waitresses,3,38,0.002104913310807068
+St. Lucia,937,28240,589,18053,4140,Dishwashers,1,37,0.002049520855259514
+St. Lucia,937,28240,589,18053,0020,General and operations managers,2,36,0.0019941283997119592
+St. Lucia,937,28240,589,18053,0630,Human resources workers,2,36,0.0019941283997119592
+St. Lucia,937,28240,589,18053,3940,Crossing guards and flaggers,1,36,0.0019941283997119592
+St. Lucia,937,28240,589,18053,9810,First-line enlisted military supervisors,1,36,0.0019941283997119592
+St. Lucia,937,28240,589,18053,5160,Tellers,2,35,0.0019387359441644049
+St. Lucia,937,28240,589,18053,0930,"Tax examiners and collectors, and revenue agents",1,34,0.0018833434886168503
+St. Lucia,937,28240,589,18053,3321,Cardiovascular technologists and technicians,2,34,0.0018833434886168503
+St. Lucia,937,28240,589,18053,4120,"Food servers, nonrestaurant",2,34,0.0018833434886168503
+St. Lucia,937,28240,589,18053,4340,Animal trainers,1,34,0.0018833434886168503
+St. Lucia,937,28240,589,18053,4435,Other entertainment attendants and related workers,1,34,0.0018833434886168503
+St. Lucia,937,28240,589,18053,4510,"Hairdressers, hairstylists, and cosmetologists",1,34,0.0018833434886168503
+St. Lucia,937,28240,589,18053,8740,"Inspectors, testers, sorters, samplers, and weighers",1,34,0.0018833434886168503
+St. Lucia,937,28240,589,18053,3655,Other healthcare support workers,1,33,0.001827951033069296
+St. Lucia,937,28240,589,18053,6355,Electricians,1,33,0.001827951033069296
+St. Lucia,937,28240,589,18053,0960,Other financial specialists,1,32,0.0017725585775217416
+St. Lucia,937,28240,589,18053,3740,Firefighters,1,32,0.0017725585775217416
+St. Lucia,937,28240,589,18053,3870,Police officers,3,32,0.0017725585775217416
+St. Lucia,937,28240,589,18053,6515,Roofers,1,31,0.001717166121974187
+St. Lucia,937,28240,589,18053,6730,Highway maintenance workers,1,31,0.001717166121974187
+St. Lucia,937,28240,589,18053,4621,Exercise trainers and group fitness instructors,1,30,0.0016617736664266327
+St. Lucia,937,28240,589,18053,7420,Telecommunications line installers and repairers,2,29,0.0016063812108790783
+St. Lucia,937,28240,589,18053,5710,Executive secretaries and executive administrative assistants,1,28,0.0015509887553315238
+St. Lucia,937,28240,589,18053,8500,Cabinetmakers and bench carpenters,1,28,0.0015509887553315238
+St. Lucia,937,28240,589,18053,2320,Secondary school teachers,1,27,0.0014955962997839694
+St. Lucia,937,28240,589,18053,7000,"First-line supervisors of mechanics, installers, and repairers",1,27,0.0014955962997839694
+St. Lucia,937,28240,589,18053,9265,Other rail transportation workers,1,27,0.0014955962997839694
+St. Lucia,937,28240,589,18053,2905,Other media and communication equipment workers,1,26,0.001440203844236415
+St. Lucia,937,28240,589,18053,3430,Dietetic technicians and ophthalmic medical technicians,2,26,0.001440203844236415
+St. Lucia,937,28240,589,18053,4130,Dining room and cafeteria attendants and bartender helpers,1,26,0.001440203844236415
+St. Lucia,937,28240,589,18053,7810,"Butchers and other meat, poultry, and fish processing workers",1,26,0.001440203844236415
+St. Lucia,937,28240,589,18053,3300,Clinical laboratory technologists and technicians,1,25,0.0013848113886888605
+St. Lucia,937,28240,589,18053,5110,Billing and posting clerks,1,25,0.0013848113886888605
+St. Lucia,937,28240,589,18053,5560,"Postal service mail sorters, processors, and processing machine operators",1,25,0.0013848113886888605
+St. Lucia,937,28240,589,18053,4850,"Sales representatives, wholesale and manufacturing",1,24,0.0013294189331413062
+St. Lucia,937,28240,589,18053,0565,Compliance officers,1,22,0.0012186340220461972
+St. Lucia,937,28240,589,18053,1410,Electrical and electronics engineers,1,22,0.0012186340220461972
+St. Lucia,937,28240,589,18053,4200,First-line supervisors of housekeeping and janitorial workers,1,22,0.0012186340220461972
+St. Lucia,937,28240,589,18053,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,22,0.0012186340220461972
+St. Lucia,937,28240,589,18053,8800,Packaging and filling machine operators and tenders,1,22,0.0012186340220461972
+St. Lucia,937,28240,589,18053,0052,Sales managers,1,21,0.0011632415664986429
+St. Lucia,937,28240,589,18053,1530,Other engineers,2,21,0.0011632415664986429
+St. Lucia,937,28240,589,18053,2920,"Television, video, and film camera operators and editors",1,21,0.0011632415664986429
+St. Lucia,937,28240,589,18053,5600,"Production, planning, and expediting clerks",2,21,0.0011632415664986429
+St. Lucia,937,28240,589,18053,3421,Pharmacy technicians,2,20,0.0011078491109510885
+St. Lucia,937,28240,589,18053,3725,"Miscellaneous first-line supervisors, protective service workers",1,20,0.0011078491109510885
+St. Lucia,937,28240,589,18053,4940,Telemarketers,1,20,0.0011078491109510885
+St. Lucia,937,28240,589,18053,5810,Data entry keyers,1,20,0.0011078491109510885
+St. Lucia,937,28240,589,18053,1005,Computer and information research scientists,1,19,0.001052456655403534
+St. Lucia,937,28240,589,18053,3710,First-line supervisors of police and detectives,1,19,0.001052456655403534
+St. Lucia,937,28240,589,18053,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",2,19,0.001052456655403534
+St. Lucia,937,28240,589,18053,2170,"Title examiners, abstractors, and searchers",1,18,9.970641998559796e-4
+St. Lucia,937,28240,589,18053,3110,Physician assistants,2,17,9.416717443084252e-4
+St. Lucia,937,28240,589,18053,0725,"Meeting, convention, and event planners",1,16,8.862792887608708e-4
+St. Lucia,937,28240,589,18053,1200,Actuaries,1,16,8.862792887608708e-4
+St. Lucia,937,28240,589,18053,4350,Animal caretakers,1,16,8.862792887608708e-4
+St. Lucia,937,28240,589,18053,4522,Skincare specialists,1,16,8.862792887608708e-4
+St. Lucia,937,28240,589,18053,4740,Counter and rental clerks,1,16,8.862792887608708e-4
+St. Lucia,937,28240,589,18053,5250,"Eligibility interviewers, government programs",1,16,8.862792887608708e-4
+St. Lucia,937,28240,589,18053,3323,Radiologic technologists and technicians,2,15,8.308868332133163e-4
+St. Lucia,937,28240,589,18053,3610,Occupational therapy assistants and aides,1,15,8.308868332133163e-4
+St. Lucia,937,28240,589,18053,0300,Architectural and engineering managers,1,14,7.754943776657619e-4
+St. Lucia,937,28240,589,18053,4830,Travel agents,1,14,7.754943776657619e-4
+St. Lucia,937,28240,589,18053,9350,Parking attendants,1,14,7.754943776657619e-4
+St. Lucia,937,28240,589,18053,0150,Purchasing managers,1,13,7.201019221182075e-4
+St. Lucia,937,28240,589,18053,1760,"Physical scientists, all other",2,13,7.201019221182075e-4
+St. Lucia,937,28240,589,18053,6305,Construction equipment operators,1,13,7.201019221182075e-4
+St. Lucia,937,28240,589,18053,8810,Painting workers,1,13,7.201019221182075e-4
+St. Lucia,937,28240,589,18053,7315,"Heating, air conditioning, and refrigeration mechanics and installers",1,12,6.647094665706531e-4
+St. Lucia,937,28240,589,18053,1022,Software quality assurance analysts and testers,1,11,6.093170110230986e-4
+St. Lucia,937,28240,589,18053,7210,Bus and truck mechanics and diesel engine specialists,1,11,6.093170110230986e-4
+St. Lucia,937,28240,589,18053,7720,"Electrical, electronics, and electromechanical assemblers",1,11,6.093170110230986e-4
+St. Lucia,937,28240,589,18053,5540,Postal service clerks,1,10,5.539245554755443e-4
+St. Lucia,937,28240,589,18053,3423,Surgical technologists,1,9,4.985320999279898e-4
+St. Lucia,937,28240,589,18053,5150,Procurement clerks,1,9,4.985320999279898e-4
+St. Lucia,937,28240,589,18053,9600,Industrial truck and tractor operators,1,9,4.985320999279898e-4
+St. Lucia,937,28240,589,18053,1106,Computer network architects,1,8,4.431396443804354e-4
+St. Lucia,937,28240,589,18053,4622,Recreation workers,1,7,3.8774718883288094e-4
+St. Lucia,937,28240,589,18053,2360,Other teachers and instructors,1,3,1.6617736664266327e-4

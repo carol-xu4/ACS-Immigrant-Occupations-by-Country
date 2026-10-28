@@ -1,220 +1,241 @@
-bpl_region,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Other Europe,1861,38576,842,20029,0440,Other managers,48,1031,0.05147536072694593
-Other Europe,1861,38576,842,20029,9130,Driver/sales workers and truck drivers,26,778,0.03884367666883019
-Other Europe,1861,38576,842,20029,0800,Accountants and auditors,20,490,0.02446452643666683
-Other Europe,1861,38576,842,20029,4700,First-line supervisors of retail sales workers,19,463,0.02311648110240152
-Other Europe,1861,38576,842,20029,4220,Janitors and building cleaners,14,461,0.023016625892455938
-Other Europe,1861,38576,842,20029,1021,Software developers,17,456,0.02276698786759199
-Other Europe,1861,38576,842,20029,5740,"Secretaries and administrative assistants, except legal, medical, and executive",17,423,0.02111937690348994
-Other Europe,1861,38576,842,20029,2310,Elementary and middle school teachers,19,400,0.01997104198911578
-Other Europe,1861,38576,842,20029,1760,"Physical scientists, all other",14,362,0.018073793000149784
-Other Europe,1861,38576,842,20029,0120,Financial managers,11,351,0.0175245893454491
-Other Europe,1861,38576,842,20029,9005,Supervisors of transportation and material moving workers,3,325,0.016226471616156573
-Other Europe,1861,38576,842,20029,5000,First-line supervisors of office and administrative support workers,6,297,0.014828498676918468
-Other Europe,1861,38576,842,20029,6260,Construction laborers,9,292,0.01457886065205452
-Other Europe,1861,38576,842,20029,4710,First-line supervisors of non-retail sales workers,9,289,0.014429077837136152
-Other Europe,1861,38576,842,20029,1108,"Computer occupations, all other",15,285,0.014229367417244995
-Other Europe,1861,38576,842,20029,3090,Physicians,11,285,0.014229367417244995
-Other Europe,1861,38576,842,20029,3255,Registered nurses,15,266,0.013280742922761995
-Other Europe,1861,38576,842,20029,0010,Chief executives and legislators,13,257,0.01283139447800689
-Other Europe,1861,38576,842,20029,5240,Customer service representatives,10,253,0.012631684058115732
-Other Europe,1861,38576,842,20029,2205,Postsecondary teachers,19,247,0.012332118428278995
-Other Europe,1861,38576,842,20029,4760,Retail salespersons,14,246,0.012282190823306206
-Other Europe,1861,38576,842,20029,0750,"Business operations specialists, all other",6,228,0.011383493933795995
-Other Europe,1861,38576,842,20029,2145,Paralegals and legal assistants,8,213,0.010634579859204154
-Other Europe,1861,38576,842,20029,0020,General and operations managers,6,200,0.00998552099455789
-Other Europe,1861,38576,842,20029,0230,Education and childcare administrators,10,195,0.009735882969693944
-Other Europe,1861,38576,842,20029,1530,Other engineers,9,193,0.009636027759748365
-Other Europe,1861,38576,842,20029,6230,Carpenters,8,189,0.009436317339857206
-Other Europe,1861,38576,842,20029,2100,"Lawyers, and judges, magistrates, and other judicial workers",10,182,0.009086824105047681
-Other Europe,1861,38576,842,20029,7200,Automotive service technicians and mechanics,5,180,0.008986968895102102
-Other Europe,1861,38576,842,20029,0630,Human resources workers,6,179,0.008937041290129313
-Other Europe,1861,38576,842,20029,4920,Real estate brokers and sales agents,10,179,0.008937041290129313
-Other Europe,1861,38576,842,20029,0110,Computer and information systems managers,7,173,0.008637475660292576
-Other Europe,1861,38576,842,20029,3602,Personal care aides,7,173,0.008637475660292576
-Other Europe,1861,38576,842,20029,5860,"Office clerks, general",7,163,0.008138199610564681
-Other Europe,1861,38576,842,20029,4350,Animal caretakers,3,162,0.008088272005591892
-Other Europe,1861,38576,842,20029,4230,Maids and housekeeping cleaners,7,149,0.0074392131409456285
-Other Europe,1861,38576,842,20029,9645,Stockers and order fillers,4,148,0.00738928553597284
-Other Europe,1861,38576,842,20029,0705,Project management specialists,9,147,0.00733935793100005
-Other Europe,1861,38576,842,20029,0710,Management analysts,7,145,0.007239502721054471
-Other Europe,1861,38576,842,20029,4810,Insurance sales agents,3,145,0.007239502721054471
-Other Europe,1861,38576,842,20029,4720,Cashiers,6,142,0.007089719906136102
-Other Europe,1861,38576,842,20029,9142,Taxi drivers,5,141,0.0070397923011633135
-Other Europe,1861,38576,842,20029,1610,Biological scientists,3,140,0.006989864696190524
-Other Europe,1861,38576,842,20029,4621,Exercise trainers and group fitness instructors,4,136,0.006790154276299366
-Other Europe,1861,38576,842,20029,0300,Architectural and engineering managers,2,134,0.006690299066353787
-Other Europe,1861,38576,842,20029,3870,Police officers,3,134,0.006690299066353787
-Other Europe,1861,38576,842,20029,2910,Photographers,2,128,0.00639073343651705
-Other Europe,1861,38576,842,20029,8990,"Miscellaneous production workers, including equipment operators and tenders",5,127,0.006340805831544261
-Other Europe,1861,38576,842,20029,5120,"Bookkeeping, accounting, and auditing clerks",8,124,0.006191023016625893
-Other Europe,1861,38576,842,20029,8610,Stationary engineers and boiler operators,2,122,0.0060911678066803135
-Other Europe,1861,38576,842,20029,2006,"Counselors, all other",2,121,0.006041240201707524
-Other Europe,1861,38576,842,20029,4200,First-line supervisors of housekeeping and janitorial workers,1,121,0.006041240201707524
-Other Europe,1861,38576,842,20029,0410,"Property, real estate, and community association managers",5,120,0.005991312596734735
-Other Europe,1861,38576,842,20029,2545,Teaching assistants,5,118,0.0058914573867891555
-Other Europe,1861,38576,842,20029,7340,"Maintenance and repair workers, general",3,118,0.0058914573867891555
-Other Europe,1861,38576,842,20029,0136,Human resources managers,3,115,0.005741674571870787
-Other Europe,1861,38576,842,20029,2040,Clergy,8,112,0.005591891756952419
-Other Europe,1861,38576,842,20029,1305,"Architects, except landscape and naval",4,111,0.005541964151979629
-Other Europe,1861,38576,842,20029,7750,Other assemblers and fabricators,2,110,0.0054920365470068405
-Other Europe,1861,38576,842,20029,4020,Cooks,5,108,0.005392181337061261
-Other Europe,1861,38576,842,20029,1825,Other psychologists,3,104,0.005192470917170103
-Other Europe,1861,38576,842,20029,1010,Computer programmers,5,100,0.004992760497278945
-Other Europe,1861,38576,842,20029,1240,Other mathematical science occupations,5,100,0.004992760497278945
-Other Europe,1861,38576,842,20029,4850,"Sales representatives, wholesale and manufacturing",3,95,0.004743122472414998
-Other Europe,1861,38576,842,20029,6355,Electricians,5,92,0.00459333965749663
-Other Europe,1861,38576,842,20029,2600,Artists and related workers,5,91,0.0045434120525238405
-Other Europe,1861,38576,842,20029,3630,Massage therapists,2,91,0.0045434120525238405
-Other Europe,1861,38576,842,20029,1800,Economists,2,90,0.004493484447551051
-Other Europe,1861,38576,842,20029,2350,Tutors,4,89,0.004443556842578262
-Other Europe,1861,38576,842,20029,2002,"Educational, guidance, and career counselors and advisors",5,88,0.004393629237605472
-Other Europe,1861,38576,842,20029,0910,Credit counselors and loan officers,4,87,0.0043437016326326825
-Other Europe,1861,38576,842,20029,1050,Computer support specialists,2,87,0.0043437016326326825
-Other Europe,1861,38576,842,20029,6410,Painters and paperhangers,3,86,0.004293774027659893
-Other Europe,1861,38576,842,20029,2360,Other teachers and instructors,6,85,0.004243846422687104
-Other Europe,1861,38576,842,20029,3640,Dental assistants,5,85,0.004243846422687104
-Other Europe,1861,38576,842,20029,8740,"Inspectors, testers, sorters, samplers, and weighers",4,83,0.0041439912127415246
-Other Europe,1861,38576,842,20029,4510,"Hairdressers, hairstylists, and cosmetologists",5,82,0.004094063607768736
-Other Europe,1861,38576,842,20029,2320,Secondary school teachers,5,81,0.004044136002795946
-Other Europe,1861,38576,842,20029,4010,First-line supervisors of food preparation and serving workers,4,80,0.003994208397823156
-Other Europe,1861,38576,842,20029,0725,"Meeting, convention, and event planners",2,79,0.003944280792850367
-Other Europe,1861,38576,842,20029,5940,Other office and administrative support workers,3,77,0.003844425582904788
-Other Europe,1861,38576,842,20029,1410,Electrical and electronics engineers,3,75,0.003744570372959209
-Other Europe,1861,38576,842,20029,9620,"Laborers and freight, stock, and material movers, hand",6,75,0.003744570372959209
-Other Europe,1861,38576,842,20029,1006,Computer systems analysts,4,73,0.00364471516301363
-Other Europe,1861,38576,842,20029,0700,Logisticians,1,71,0.003544859953068051
-Other Europe,1861,38576,842,20029,4600,Childcare workers,4,71,0.003544859953068051
-Other Europe,1861,38576,842,20029,5610,"Shipping, receiving, and inventory clerks",1,71,0.003544859953068051
-Other Europe,1861,38576,842,20029,0860,Insurance underwriters,2,70,0.003494932348095262
-Other Europe,1861,38576,842,20029,0220,Construction managers,5,68,0.003395077138149683
-Other Europe,1861,38576,842,20029,1650,Other life scientists,3,67,0.0033451495331768936
-Other Europe,1861,38576,842,20029,5522,"Dispatchers, except police, fire, and ambulance",2,65,0.0032452943232313147
-Other Europe,1861,38576,842,20029,0540,"Claims adjusters, appraisers, examiners, and investigators",2,64,0.003195366718258525
-Other Europe,1861,38576,842,20029,5400,Receptionists and information clerks,2,62,0.0030955115083129464
-Other Europe,1861,38576,842,20029,2300,Preschool and kindergarten teachers,2,59,0.0029457286933945778
-Other Europe,1861,38576,842,20029,3601,Home health aides,3,59,0.0029457286933945778
-Other Europe,1861,38576,842,20029,2722,Coaches and scouts,2,58,0.0028958010884217885
-Other Europe,1861,38576,842,20029,1032,Web and digital interface designers,3,56,0.0027959458784762095
-Other Europe,1861,38576,842,20029,4140,Dishwashers,2,56,0.0027959458784762095
-Other Europe,1861,38576,842,20029,4540,Tour and travel guides,2,55,0.0027460182735034202
-Other Europe,1861,38576,842,20029,0845,Financial and investment analysts,3,54,0.0026960906685306305
-Other Europe,1861,38576,842,20029,3645,Medical assistants,2,53,0.0026461630635578413
-Other Europe,1861,38576,842,20029,4820,"Securities, commodities, and financial services sales agents",5,53,0.0026461630635578413
-Other Europe,1861,38576,842,20029,2640,Other designers,3,52,0.0025962354585850516
-Other Europe,1861,38576,842,20029,8320,Sewing machine operators,1,52,0.0025962354585850516
-Other Europe,1861,38576,842,20029,5320,"Library assistants, clerical",1,51,0.0025463078536122623
-Other Europe,1861,38576,842,20029,6200,First-line supervisors of construction trades and extraction workers,2,51,0.0025463078536122623
-Other Europe,1861,38576,842,20029,9030,Aircraft pilots and flight engineers,3,49,0.0024464526436666833
-Other Europe,1861,38576,842,20029,0350,Medical and health services managers,3,47,0.0023465974337211043
-Other Europe,1861,38576,842,20029,2721,Athletes and sports competitors,2,47,0.0023465974337211043
-Other Europe,1861,38576,842,20029,4110,Waiters and waitresses,2,47,0.0023465974337211043
-Other Europe,1861,38576,842,20029,4040,Bartenders,2,46,0.002296669828748315
-Other Europe,1861,38576,842,20029,0051,Marketing managers,3,45,0.0022467422237755254
-Other Europe,1861,38576,842,20029,0850,Personal financial advisors,3,45,0.0022467422237755254
-Other Europe,1861,38576,842,20029,3930,Security guards and gaming surveillance officers,1,44,0.002196814618802736
-Other Europe,1861,38576,842,20029,7700,First-line supervisors of production and operating workers,4,44,0.002196814618802736
-Other Europe,1861,38576,842,20029,5550,Postal service mail carriers,1,42,0.002096959408857157
-Other Europe,1861,38576,842,20029,4522,Skincare specialists,2,41,0.002047031803884368
-Other Europe,1861,38576,842,20029,5360,"Human resources assistants, except payroll and timekeeping",1,41,0.002047031803884368
-Other Europe,1861,38576,842,20029,9610,Cleaners of vehicles and equipment,1,41,0.002047031803884368
-Other Europe,1861,38576,842,20029,5110,Billing and posting clerks,2,40,0.001997104198911578
-Other Europe,1861,38576,842,20029,5510,Couriers and messengers,2,39,0.0019471765939387887
-Other Europe,1861,38576,842,20029,1360,Civil engineers,5,38,0.0018972489889659994
-Other Europe,1861,38576,842,20029,2330,Special education teachers,3,38,0.0018972489889659994
-Other Europe,1861,38576,842,20029,3515,Medical records specialists,1,36,0.0017973937790204204
-Other Europe,1861,38576,842,20029,4055,Fast food and counter workers,2,36,0.0017973937790204204
-Other Europe,1861,38576,842,20029,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,36,0.0017973937790204204
-Other Europe,1861,38576,842,20029,1430,"Industrial engineers, including health and safety",2,35,0.001747466174047631
-Other Europe,1861,38576,842,20029,1007,Information security analysts,2,34,0.0016975385690748415
-Other Europe,1861,38576,842,20029,2710,Producers and directors,1,34,0.0016975385690748415
-Other Europe,1861,38576,842,20029,3310,Dental hygienists,2,34,0.0016975385690748415
-Other Europe,1861,38576,842,20029,4251,Landscaping and groundskeeping workers,2,34,0.0016975385690748415
-Other Europe,1861,38576,842,20029,4965,"Sales and related workers, all other",2,34,0.0016975385690748415
-Other Europe,1861,38576,842,20029,9410,Transportation inspectors,1,34,0.0016975385690748415
-Other Europe,1861,38576,842,20029,1745,"Environmental scientists and specialists, including health",1,33,0.001647610964102052
-Other Europe,1861,38576,842,20029,3740,Firefighters,2,33,0.001647610964102052
-Other Europe,1861,38576,842,20029,4420,"Ushers, lobby attendants, and ticket takers",1,30,0.0014978281491836837
-Other Europe,1861,38576,842,20029,8030,Machinists,1,30,0.0014978281491836837
-Other Europe,1861,38576,842,20029,1200,Actuaries,2,29,0.0014479005442108942
-Other Europe,1861,38576,842,20029,2004,Mental health counselors,2,29,0.0014479005442108942
-Other Europe,1861,38576,842,20029,2635,Interior designers,1,28,0.0013979729392381048
-Other Europe,1861,38576,842,20029,5220,"Court, municipal, and license clerks",1,28,0.0013979729392381048
-Other Europe,1861,38576,842,20029,2435,Librarians and media collections specialists,2,27,0.0013480453342653153
-Other Europe,1861,38576,842,20029,1860,Other social scientists,2,26,0.0012981177292925258
-Other Europe,1861,38576,842,20029,0735,Market research analysts and marketing specialists,2,25,0.0012481901243197363
-Other Europe,1861,38576,842,20029,8225,Other metal workers and plastic workers,1,25,0.0012481901243197363
-Other Europe,1861,38576,842,20029,8620,Water and wastewater treatment plant and system operators,1,25,0.0012481901243197363
-Other Europe,1861,38576,842,20029,8920,"Molders, shapers, and casters, except metal and plastic",1,25,0.0012481901243197363
-Other Europe,1861,38576,842,20029,2060,"Religious workers, all other",4,24,0.001198262519346947
-Other Europe,1861,38576,842,20029,3545,Miscellaneous health technologists and technicians,1,24,0.001198262519346947
-Other Europe,1861,38576,842,20029,0150,Purchasing managers,1,23,0.0011483349143741575
-Other Europe,1861,38576,842,20029,0530,"Purchasing agents, except wholesale, retail, and farm products",1,23,0.0011483349143741575
-Other Europe,1861,38576,842,20029,1600,Agricultural and food scientists,1,23,0.0011483349143741575
-Other Europe,1861,38576,842,20029,3910,Private detectives and investigators,1,23,0.0011483349143741575
-Other Europe,1861,38576,842,20029,7640,"Other installation, maintenance, and repair workers",1,23,0.0011483349143741575
-Other Europe,1861,38576,842,20029,0140,Industrial production managers,1,22,0.001098407309401368
-Other Europe,1861,38576,842,20029,2810,"News analysts, reporters, and journalists",1,22,0.001098407309401368
-Other Europe,1861,38576,842,20029,4030,Food preparation workers,1,22,0.001098407309401368
-Other Europe,1861,38576,842,20029,4655,"Personal care and service workers, all other",1,22,0.001098407309401368
-Other Europe,1861,38576,842,20029,5730,Medical secretaries and administrative assistants,1,22,0.001098407309401368
-Other Europe,1861,38576,842,20029,3270,"Healthcare diagnosing or treating practitioners, all other",1,21,0.0010484797044285786
-Other Europe,1861,38576,842,20029,4930,Sales engineers,1,21,0.0010484797044285786
-Other Europe,1861,38576,842,20029,0810,Property appraisers and assessors,1,20,9.98552099455789e-4
-Other Europe,1861,38576,842,20029,2752,Musicians and singers,1,20,9.98552099455789e-4
-Other Europe,1861,38576,842,20029,3100,Surgeons,1,20,9.98552099455789e-4
-Other Europe,1861,38576,842,20029,5165,Other financial clerks,2,20,9.98552099455789e-4
-Other Europe,1861,38576,842,20029,5600,"Production, planning, and expediting clerks",2,20,9.98552099455789e-4
-Other Europe,1861,38576,842,20029,7150,Automotive body and related repairers,1,20,9.98552099455789e-4
-Other Europe,1861,38576,842,20029,3050,Pharmacists,1,19,9.486244944829997e-4
-Other Europe,1861,38576,842,20029,3300,Clinical laboratory technologists and technicians,2,19,9.486244944829997e-4
-Other Europe,1861,38576,842,20029,0726,Fundraisers,1,18,8.986968895102102e-4
-Other Europe,1861,38576,842,20029,0137,Training and development managers,1,17,8.487692845374207e-4
-Other Europe,1861,38576,842,20029,2440,Library technicians,1,16,7.988416795646312e-4
-Other Europe,1861,38576,842,20029,3258,"Nurse practitioners, and nurse midwives",1,16,7.988416795646312e-4
-Other Europe,1861,38576,842,20029,3330,Nuclear medicine technologists and medical dosimetrists,1,16,7.988416795646312e-4
-Other Europe,1861,38576,842,20029,4400,Gambling services workers,1,16,7.988416795646312e-4
-Other Europe,1861,38576,842,20029,6115,Fishing and hunting workers,1,16,7.988416795646312e-4
-Other Europe,1861,38576,842,20029,8630,Miscellaneous plant and system operators,1,16,7.988416795646312e-4
-Other Europe,1861,38576,842,20029,0102,Facilities managers,1,15,7.489140745918419e-4
-Other Europe,1861,38576,842,20029,2840,Technical writers,1,15,7.489140745918419e-4
-Other Europe,1861,38576,842,20029,3655,Other healthcare support workers,1,15,7.489140745918419e-4
-Other Europe,1861,38576,842,20029,5710,Executive secretaries and executive administrative assistants,1,15,7.489140745918419e-4
-Other Europe,1861,38576,842,20029,8500,Cabinetmakers and bench carpenters,1,15,7.489140745918419e-4
-Other Europe,1861,38576,842,20029,8710,Cutting workers,1,15,7.489140745918419e-4
-Other Europe,1861,38576,842,20029,9350,Parking attendants,1,15,7.489140745918419e-4
-Other Europe,1861,38576,842,20029,9830,"Military, rank not specified",1,15,7.489140745918419e-4
-Other Europe,1861,38576,842,20029,0420,Social and community service managers,1,14,6.989864696190524e-4
-Other Europe,1861,38576,842,20029,0600,Cost estimators,1,14,6.989864696190524e-4
-Other Europe,1861,38576,842,20029,2633,Floral designers,1,14,6.989864696190524e-4
-Other Europe,1861,38576,842,20029,7320,Home appliance repairers,1,14,6.989864696190524e-4
-Other Europe,1861,38576,842,20029,8350,"Tailors, dressmakers, and sewers",1,14,6.989864696190524e-4
-Other Europe,1861,38576,842,20029,1520,"Petroleum, mining and geological engineers, including mining safety engineers",1,13,6.490588646462629e-4
-Other Europe,1861,38576,842,20029,1980,Occupational health and safety specialists and technicians,1,13,6.490588646462629e-4
-Other Europe,1861,38576,842,20029,2003,Marriage and family therapists,1,13,6.490588646462629e-4
-Other Europe,1861,38576,842,20029,2830,Editors,1,13,6.490588646462629e-4
-Other Europe,1861,38576,842,20029,7210,Bus and truck mechanics and diesel engine specialists,2,13,6.490588646462629e-4
-Other Europe,1861,38576,842,20029,8810,Painting workers,1,13,6.490588646462629e-4
-Other Europe,1861,38576,842,20029,9141,Shuttle drivers and chauffeurs,1,13,6.490588646462629e-4
-Other Europe,1861,38576,842,20029,9430,Other transportation workers,1,13,6.490588646462629e-4
-Other Europe,1861,38576,842,20029,1031,Web developers,1,12,5.991312596734735e-4
-Other Europe,1861,38576,842,20029,1065,Database administrators and architects,1,12,5.991312596734735e-4
-Other Europe,1861,38576,842,20029,3010,Dentists,1,12,5.991312596734735e-4
-Other Europe,1861,38576,842,20029,5150,Procurement clerks,1,12,5.991312596734735e-4
-Other Europe,1861,38576,842,20029,0335,Entertainment and recreation managers,1,11,5.49203654700684e-4
-Other Europe,1861,38576,842,20029,2861,Interpreters and translators,1,11,5.49203654700684e-4
-Other Europe,1861,38576,842,20029,3160,Physical therapists,1,11,5.49203654700684e-4
-Other Europe,1861,38576,842,20029,4330,Supervisors of personal care and service workers,1,11,5.49203654700684e-4
-Other Europe,1861,38576,842,20029,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,10,4.992760497278945e-4
-Other Europe,1861,38576,842,20029,7000,"First-line supervisors of mechanics, installers, and repairers",1,10,4.992760497278945e-4
-Other Europe,1861,38576,842,20029,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,9,4.493484447551051e-4
-Other Europe,1861,38576,842,20029,2012,Healthcare social workers,1,8,3.994208397823156e-4
-Other Europe,1861,38576,842,20029,3422,Psychiatric technicians,1,8,3.994208397823156e-4
-Other Europe,1861,38576,842,20029,6660,Construction and building inspectors,1,8,3.994208397823156e-4
-Other Europe,1861,38576,842,20029,8940,Tire builders,1,8,3.994208397823156e-4
-Other Europe,1861,38576,842,20029,9640,"Packers and packagers, hand",1,7,3.494932348095262e-4
-Other Europe,1861,38576,842,20029,7330,Industrial and refractory machinery mechanics,1,6,2.9956562983673676e-4
-Other Europe,1861,38576,842,20029,8830,Photographic process workers and processing machine operators,1,6,2.9956562983673676e-4
-Other Europe,1861,38576,842,20029,8140,"Welding, soldering, and brazing workers",1,5,2.4963802486394727e-4
-Other Europe,1861,38576,842,20029,3323,Radiologic technologists and technicians,1,3,1.4978281491836838e-4
-Other Europe,1861,38576,842,20029,5420,Other information and records clerks,1,2,9.98552099455789e-5
+bpl_region,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Other Europe,1861,38576,930,21386,0440,Other managers,50,1049,0.04905078088469092
+Other Europe,1861,38576,930,21386,9130,Driver/sales workers and truck drivers,27,784,0.03665949686710932
+Other Europe,1861,38576,930,21386,5740,"Secretaries and administrative assistants, except legal, medical, and executive",21,492,0.023005704666604322
+Other Europe,1861,38576,930,21386,0800,Accountants and auditors,20,490,0.02291218554194333
+Other Europe,1861,38576,930,21386,4220,Janitors and building cleaners,16,484,0.022631628167960348
+Other Europe,1861,38576,930,21386,1021,Software developers,18,469,0.021930234733002898
+Other Europe,1861,38576,930,21386,4700,First-line supervisors of retail sales workers,19,463,0.02164967735901992
+Other Europe,1861,38576,930,21386,2310,Elementary and middle school teachers,19,400,0.018703824932198635
+Other Europe,1861,38576,930,21386,1760,"Physical scientists, all other",15,374,0.017488076311605722
+Other Europe,1861,38576,930,21386,0120,Financial managers,12,367,0.017160759375292246
+Other Europe,1861,38576,930,21386,9005,Supervisors of transportation and material moving workers,3,325,0.01519685775741139
+Other Europe,1861,38576,930,21386,3090,Physicians,13,319,0.014916300383428411
+Other Europe,1861,38576,930,21386,5000,First-line supervisors of office and administrative support workers,7,312,0.014588983447114935
+Other Europe,1861,38576,930,21386,2205,Postsecondary teachers,21,293,0.0137005517628355
+Other Europe,1861,38576,930,21386,6260,Construction laborers,9,292,0.013653792200505003
+Other Europe,1861,38576,930,21386,4710,First-line supervisors of non-retail sales workers,9,289,0.013513513513513514
+Other Europe,1861,38576,930,21386,1108,"Computer occupations, all other",15,285,0.013326475264191527
+Other Europe,1861,38576,930,21386,0010,Chief executives and legislators,16,283,0.013232956139530534
+Other Europe,1861,38576,930,21386,3255,Registered nurses,15,266,0.012438043579912092
+Other Europe,1861,38576,930,21386,4760,Retail salespersons,16,259,0.012110726643598616
+Other Europe,1861,38576,930,21386,5240,Customer service representatives,10,253,0.011830169269615637
+Other Europe,1861,38576,930,21386,0020,General and operations managers,10,250,0.011689890582624147
+Other Europe,1861,38576,930,21386,4720,Cashiers,9,230,0.010754699336014214
+Other Europe,1861,38576,930,21386,0750,"Business operations specialists, all other",6,228,0.010661180211353222
+Other Europe,1861,38576,930,21386,1530,Other engineers,11,226,0.010567661086692229
+Other Europe,1861,38576,930,21386,2145,Paralegals and legal assistants,8,213,0.009959786776395772
+Other Europe,1861,38576,930,21386,0230,Education and childcare administrators,10,195,0.009118114654446834
+Other Europe,1861,38576,930,21386,2100,"Lawyers, and judges, magistrates, and other judicial workers",11,193,0.009024595529785842
+Other Europe,1861,38576,930,21386,6230,Carpenters,8,189,0.008837557280463855
+Other Europe,1861,38576,930,21386,4230,Maids and housekeeping cleaners,9,181,0.008463480781819882
+Other Europe,1861,38576,930,21386,7200,Automotive service technicians and mechanics,5,180,0.008416721219489385
+Other Europe,1861,38576,930,21386,0630,Human resources workers,6,179,0.008369961657158888
+Other Europe,1861,38576,930,21386,4920,Real estate brokers and sales agents,10,179,0.008369961657158888
+Other Europe,1861,38576,930,21386,7340,"Maintenance and repair workers, general",6,179,0.008369961657158888
+Other Europe,1861,38576,930,21386,0110,Computer and information systems managers,7,173,0.00808940428317591
+Other Europe,1861,38576,930,21386,3602,Personal care aides,7,173,0.00808940428317591
+Other Europe,1861,38576,930,21386,5860,"Office clerks, general",7,163,0.007621808659870943
+Other Europe,1861,38576,930,21386,4350,Animal caretakers,3,162,0.0075750490975404474
+Other Europe,1861,38576,930,21386,9645,Stockers and order fillers,5,158,0.00738801084821846
+Other Europe,1861,38576,930,21386,0705,Project management specialists,10,151,0.0070606939119049845
+Other Europe,1861,38576,930,21386,0410,"Property, real estate, and community association managers",7,147,0.006873655662582998
+Other Europe,1861,38576,930,21386,0710,Management analysts,7,145,0.006780136537922005
+Other Europe,1861,38576,930,21386,4810,Insurance sales agents,3,145,0.006780136537922005
+Other Europe,1861,38576,930,21386,9142,Taxi drivers,5,141,0.006593098288600018
+Other Europe,1861,38576,930,21386,1610,Biological scientists,3,140,0.0065463387262695225
+Other Europe,1861,38576,930,21386,4621,Exercise trainers and group fitness instructors,4,136,0.006359300476947536
+Other Europe,1861,38576,930,21386,0300,Architectural and engineering managers,2,134,0.006265781352286543
+Other Europe,1861,38576,930,21386,3870,Police officers,3,134,0.006265781352286543
+Other Europe,1861,38576,930,21386,7750,Other assemblers and fabricators,3,130,0.006078743102964556
+Other Europe,1861,38576,930,21386,2910,Photographers,2,128,0.005985223978303563
+Other Europe,1861,38576,930,21386,8990,"Miscellaneous production workers, including equipment operators and tenders",5,127,0.005938464415973067
+Other Europe,1861,38576,930,21386,5120,"Bookkeeping, accounting, and auditing clerks",8,124,0.0057981857289815765
+Other Europe,1861,38576,930,21386,8610,Stationary engineers and boiler operators,2,122,0.005704666604320584
+Other Europe,1861,38576,930,21386,2006,"Counselors, all other",2,121,0.005657907041990087
+Other Europe,1861,38576,930,21386,4200,First-line supervisors of housekeeping and janitorial workers,1,121,0.005657907041990087
+Other Europe,1861,38576,930,21386,1010,Computer programmers,6,118,0.0055176283549985975
+Other Europe,1861,38576,930,21386,2545,Teaching assistants,5,118,0.0055176283549985975
+Other Europe,1861,38576,930,21386,0136,Human resources managers,3,115,0.005377349668007107
+Other Europe,1861,38576,930,21386,2040,Clergy,8,112,0.005237070981015618
+Other Europe,1861,38576,930,21386,4850,"Sales representatives, wholesale and manufacturing",4,112,0.005237070981015618
+Other Europe,1861,38576,930,21386,1305,"Architects, except landscape and naval",4,111,0.005190311418685121
+Other Europe,1861,38576,930,21386,1825,Other psychologists,4,111,0.005190311418685121
+Other Europe,1861,38576,930,21386,4020,Cooks,5,108,0.005050032731693631
+Other Europe,1861,38576,930,21386,1006,Computer systems analysts,6,107,0.0050032731693631345
+Other Europe,1861,38576,930,21386,0530,"Purchasing agents, except wholesale, retail, and farm products",2,101,0.0047227157953801556
+Other Europe,1861,38576,930,21386,1240,Other mathematical science occupations,5,100,0.004675956233049659
+Other Europe,1861,38576,930,21386,3630,Massage therapists,3,97,0.004535677546058169
+Other Europe,1861,38576,930,21386,6355,Electricians,5,92,0.004301879734405686
+Other Europe,1861,38576,930,21386,2600,Artists and related workers,5,91,0.004255120172075189
+Other Europe,1861,38576,930,21386,4510,"Hairdressers, hairstylists, and cosmetologists",6,91,0.004255120172075189
+Other Europe,1861,38576,930,21386,1800,Economists,2,90,0.004208360609744693
+Other Europe,1861,38576,930,21386,2350,Tutors,4,89,0.004161601047414196
+Other Europe,1861,38576,930,21386,2002,"Educational, guidance, and career counselors and advisors",5,88,0.0041148414850837
+Other Europe,1861,38576,930,21386,0910,Credit counselors and loan officers,4,87,0.004068081922753203
+Other Europe,1861,38576,930,21386,1050,Computer support specialists,2,87,0.004068081922753203
+Other Europe,1861,38576,930,21386,6410,Painters and paperhangers,3,86,0.004021322360422706
+Other Europe,1861,38576,930,21386,2360,Other teachers and instructors,6,85,0.00397456279809221
+Other Europe,1861,38576,930,21386,3640,Dental assistants,5,85,0.00397456279809221
+Other Europe,1861,38576,930,21386,4600,Childcare workers,5,84,0.003927803235761714
+Other Europe,1861,38576,930,21386,9620,"Laborers and freight, stock, and material movers, hand",7,84,0.003927803235761714
+Other Europe,1861,38576,930,21386,1410,Electrical and electronics engineers,4,83,0.003881043673431217
+Other Europe,1861,38576,930,21386,8740,"Inspectors, testers, sorters, samplers, and weighers",4,83,0.003881043673431217
+Other Europe,1861,38576,930,21386,2320,Secondary school teachers,5,81,0.0037875245487702237
+Other Europe,1861,38576,930,21386,4010,First-line supervisors of food preparation and serving workers,4,80,0.003740764986439727
+Other Europe,1861,38576,930,21386,0725,"Meeting, convention, and event planners",2,79,0.00369400542410923
+Other Europe,1861,38576,930,21386,5940,Other office and administrative support workers,3,77,0.003600486299448237
+Other Europe,1861,38576,930,21386,5320,"Library assistants, clerical",2,75,0.003506967174787244
+Other Europe,1861,38576,930,21386,0700,Logisticians,1,71,0.0033199289254652576
+Other Europe,1861,38576,930,21386,5610,"Shipping, receiving, and inventory clerks",1,71,0.0033199289254652576
+Other Europe,1861,38576,930,21386,0850,Personal financial advisors,4,70,0.0032731693631347612
+Other Europe,1861,38576,930,21386,0860,Insurance underwriters,2,70,0.0032731693631347612
+Other Europe,1861,38576,930,21386,0220,Construction managers,5,68,0.003179650238473768
+Other Europe,1861,38576,930,21386,1650,Other life scientists,3,67,0.0031328906761432713
+Other Europe,1861,38576,930,21386,5400,Receptionists and information clerks,3,67,0.0031328906761432713
+Other Europe,1861,38576,930,21386,5522,"Dispatchers, except police, fire, and ambulance",2,65,0.003039371551482278
+Other Europe,1861,38576,930,21386,0540,"Claims adjusters, appraisers, examiners, and investigators",2,64,0.0029926119891517814
+Other Europe,1861,38576,930,21386,2300,Preschool and kindergarten teachers,2,59,0.0027588141774992987
+Other Europe,1861,38576,930,21386,3601,Home health aides,3,59,0.0027588141774992987
+Other Europe,1861,38576,930,21386,2722,Coaches and scouts,2,58,0.002712054615168802
+Other Europe,1861,38576,930,21386,1430,"Industrial engineers, including health and safety",3,57,0.0026652950528383056
+Other Europe,1861,38576,930,21386,1032,Web and digital interface designers,3,56,0.002618535490507809
+Other Europe,1861,38576,930,21386,2710,Producers and directors,2,56,0.002618535490507809
+Other Europe,1861,38576,930,21386,4140,Dishwashers,2,56,0.002618535490507809
+Other Europe,1861,38576,930,21386,4540,Tour and travel guides,2,55,0.0025717759281773125
+Other Europe,1861,38576,930,21386,0845,Financial and investment analysts,3,54,0.0025250163658468157
+Other Europe,1861,38576,930,21386,3645,Medical assistants,2,53,0.002478256803516319
+Other Europe,1861,38576,930,21386,4820,"Securities, commodities, and financial services sales agents",5,53,0.002478256803516319
+Other Europe,1861,38576,930,21386,2640,Other designers,3,52,0.0024314972411858225
+Other Europe,1861,38576,930,21386,8320,Sewing machine operators,1,52,0.0024314972411858225
+Other Europe,1861,38576,930,21386,6200,First-line supervisors of construction trades and extraction workers,2,51,0.0023847376788553257
+Other Europe,1861,38576,930,21386,9030,Aircraft pilots and flight engineers,3,49,0.0022912185541943326
+Other Europe,1861,38576,930,21386,0350,Medical and health services managers,3,47,0.0021976994295333395
+Other Europe,1861,38576,930,21386,2721,Athletes and sports competitors,2,47,0.0021976994295333395
+Other Europe,1861,38576,930,21386,4110,Waiters and waitresses,2,47,0.0021976994295333395
+Other Europe,1861,38576,930,21386,4040,Bartenders,2,46,0.002150939867202843
+Other Europe,1861,38576,930,21386,0051,Marketing managers,3,45,0.0021041803048723463
+Other Europe,1861,38576,930,21386,3930,Security guards and gaming surveillance officers,1,44,0.00205742074254185
+Other Europe,1861,38576,930,21386,7130,Security and fire alarm systems installers,1,44,0.00205742074254185
+Other Europe,1861,38576,930,21386,7700,First-line supervisors of production and operating workers,4,44,0.00205742074254185
+Other Europe,1861,38576,930,21386,5550,Postal service mail carriers,1,42,0.001963901617880857
+Other Europe,1861,38576,930,21386,4522,Skincare specialists,2,41,0.00191714205555036
+Other Europe,1861,38576,930,21386,5360,"Human resources assistants, except payroll and timekeeping",1,41,0.00191714205555036
+Other Europe,1861,38576,930,21386,9610,Cleaners of vehicles and equipment,1,41,0.00191714205555036
+Other Europe,1861,38576,930,21386,3310,Dental hygienists,3,40,0.0018703824932198635
+Other Europe,1861,38576,930,21386,5110,Billing and posting clerks,2,40,0.0018703824932198635
+Other Europe,1861,38576,930,21386,3300,Clinical laboratory technologists and technicians,3,39,0.001823622930889367
+Other Europe,1861,38576,930,21386,5510,Couriers and messengers,2,39,0.001823622930889367
+Other Europe,1861,38576,930,21386,1360,Civil engineers,5,38,0.0017768633685588703
+Other Europe,1861,38576,930,21386,2330,Special education teachers,3,38,0.0017768633685588703
+Other Europe,1861,38576,930,21386,8920,"Molders, shapers, and casters, except metal and plastic",2,38,0.0017768633685588703
+Other Europe,1861,38576,930,21386,3515,Medical records specialists,1,36,0.0016833442438978772
+Other Europe,1861,38576,930,21386,4055,Fast food and counter workers,2,36,0.0016833442438978772
+Other Europe,1861,38576,930,21386,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,36,0.0016833442438978772
+Other Europe,1861,38576,930,21386,1007,Information security analysts,2,34,0.001589825119236884
+Other Europe,1861,38576,930,21386,4251,Landscaping and groundskeeping workers,2,34,0.001589825119236884
+Other Europe,1861,38576,930,21386,4965,"Sales and related workers, all other",2,34,0.001589825119236884
+Other Europe,1861,38576,930,21386,9410,Transportation inspectors,1,34,0.001589825119236884
+Other Europe,1861,38576,930,21386,1745,"Environmental scientists and specialists, including health",1,33,0.0015430655569063873
+Other Europe,1861,38576,930,21386,3740,Firefighters,2,33,0.0015430655569063873
+Other Europe,1861,38576,930,21386,4420,"Ushers, lobby attendants, and ticket takers",1,30,0.0014027868699148975
+Other Europe,1861,38576,930,21386,8030,Machinists,1,30,0.0014027868699148975
+Other Europe,1861,38576,930,21386,1200,Actuaries,2,29,0.001356027307584401
+Other Europe,1861,38576,930,21386,2004,Mental health counselors,2,29,0.001356027307584401
+Other Europe,1861,38576,930,21386,2635,Interior designers,1,28,0.0013092677452539044
+Other Europe,1861,38576,930,21386,5220,"Court, municipal, and license clerks",1,28,0.0013092677452539044
+Other Europe,1861,38576,930,21386,2435,Librarians and media collections specialists,2,27,0.0012625081829234078
+Other Europe,1861,38576,930,21386,7140,Aircraft mechanics and service technicians,1,27,0.0012625081829234078
+Other Europe,1861,38576,930,21386,1860,Other social scientists,2,26,0.0012157486205929113
+Other Europe,1861,38576,930,21386,7010,"Computer, automated teller, and office machine repairers",1,26,0.0012157486205929113
+Other Europe,1861,38576,930,21386,0735,Market research analysts and marketing specialists,2,25,0.0011689890582624147
+Other Europe,1861,38576,930,21386,2850,Writers and authors,2,25,0.0011689890582624147
+Other Europe,1861,38576,930,21386,8225,Other metal workers and plastic workers,1,25,0.0011689890582624147
+Other Europe,1861,38576,930,21386,8620,Water and wastewater treatment plant and system operators,1,25,0.0011689890582624147
+Other Europe,1861,38576,930,21386,1970,"Other life, physical, and social science technicians",1,24,0.0011222294959319181
+Other Europe,1861,38576,930,21386,2060,"Religious workers, all other",4,24,0.0011222294959319181
+Other Europe,1861,38576,930,21386,2555,Other educational instruction and library workers,2,24,0.0011222294959319181
+Other Europe,1861,38576,930,21386,3545,Miscellaneous health technologists and technicians,1,24,0.0011222294959319181
+Other Europe,1861,38576,930,21386,4000,Chefs and head cooks,2,24,0.0011222294959319181
+Other Europe,1861,38576,930,21386,5820,Word processors and typists,1,24,0.0011222294959319181
+Other Europe,1861,38576,930,21386,0150,Purchasing managers,1,23,0.0010754699336014216
+Other Europe,1861,38576,930,21386,1600,Agricultural and food scientists,1,23,0.0010754699336014216
+Other Europe,1861,38576,930,21386,3910,Private detectives and investigators,1,23,0.0010754699336014216
+Other Europe,1861,38576,930,21386,5100,Bill and account collectors,2,23,0.0010754699336014216
+Other Europe,1861,38576,930,21386,7640,"Other installation, maintenance, and repair workers",1,23,0.0010754699336014216
+Other Europe,1861,38576,930,21386,0140,Industrial production managers,1,22,0.001028710371270925
+Other Europe,1861,38576,930,21386,1350,Chemical engineers,1,22,0.001028710371270925
+Other Europe,1861,38576,930,21386,2810,"News analysts, reporters, and journalists",1,22,0.001028710371270925
+Other Europe,1861,38576,930,21386,4030,Food preparation workers,1,22,0.001028710371270925
+Other Europe,1861,38576,930,21386,4655,"Personal care and service workers, all other",1,22,0.001028710371270925
+Other Europe,1861,38576,930,21386,5730,Medical secretaries and administrative assistants,1,22,0.001028710371270925
+Other Europe,1861,38576,930,21386,3270,"Healthcare diagnosing or treating practitioners, all other",1,21,9.819508089404284e-4
+Other Europe,1861,38576,930,21386,4930,Sales engineers,1,21,9.819508089404284e-4
+Other Europe,1861,38576,930,21386,0810,Property appraisers and assessors,1,20,9.351912466099317e-4
+Other Europe,1861,38576,930,21386,2752,Musicians and singers,1,20,9.351912466099317e-4
+Other Europe,1861,38576,930,21386,3100,Surgeons,1,20,9.351912466099317e-4
+Other Europe,1861,38576,930,21386,5165,Other financial clerks,2,20,9.351912466099317e-4
+Other Europe,1861,38576,930,21386,5600,"Production, planning, and expediting clerks",2,20,9.351912466099317e-4
+Other Europe,1861,38576,930,21386,7150,Automotive body and related repairers,1,20,9.351912466099317e-4
+Other Europe,1861,38576,930,21386,3050,Pharmacists,1,19,8.884316842794352e-4
+Other Europe,1861,38576,930,21386,0726,Fundraisers,1,18,8.416721219489386e-4
+Other Europe,1861,38576,930,21386,7315,"Heating, air conditioning, and refrigeration mechanics and installers",1,18,8.416721219489386e-4
+Other Europe,1861,38576,930,21386,0137,Training and development managers,1,17,7.94912559618442e-4
+Other Europe,1861,38576,930,21386,2440,Library technicians,1,16,7.481529972879453e-4
+Other Europe,1861,38576,930,21386,3258,"Nurse practitioners, and nurse midwives",1,16,7.481529972879453e-4
+Other Europe,1861,38576,930,21386,3330,Nuclear medicine technologists and medical dosimetrists,1,16,7.481529972879453e-4
+Other Europe,1861,38576,930,21386,4400,Gambling services workers,1,16,7.481529972879453e-4
+Other Europe,1861,38576,930,21386,6115,Fishing and hunting workers,1,16,7.481529972879453e-4
+Other Europe,1861,38576,930,21386,8630,Miscellaneous plant and system operators,1,16,7.481529972879453e-4
+Other Europe,1861,38576,930,21386,0102,Facilities managers,1,15,7.013934349574488e-4
+Other Europe,1861,38576,930,21386,0360,Natural sciences managers,1,15,7.013934349574488e-4
+Other Europe,1861,38576,930,21386,2840,Technical writers,1,15,7.013934349574488e-4
+Other Europe,1861,38576,930,21386,3655,Other healthcare support workers,1,15,7.013934349574488e-4
+Other Europe,1861,38576,930,21386,5710,Executive secretaries and executive administrative assistants,1,15,7.013934349574488e-4
+Other Europe,1861,38576,930,21386,8500,Cabinetmakers and bench carpenters,1,15,7.013934349574488e-4
+Other Europe,1861,38576,930,21386,8710,Cutting workers,1,15,7.013934349574488e-4
+Other Europe,1861,38576,930,21386,9350,Parking attendants,1,15,7.013934349574488e-4
+Other Europe,1861,38576,930,21386,9830,"Military, rank not specified",1,15,7.013934349574488e-4
+Other Europe,1861,38576,930,21386,0420,Social and community service managers,1,14,6.546338726269522e-4
+Other Europe,1861,38576,930,21386,0600,Cost estimators,1,14,6.546338726269522e-4
+Other Europe,1861,38576,930,21386,2012,Healthcare social workers,2,14,6.546338726269522e-4
+Other Europe,1861,38576,930,21386,2633,Floral designers,1,14,6.546338726269522e-4
+Other Europe,1861,38576,930,21386,3261,Acupuncturists,1,14,6.546338726269522e-4
+Other Europe,1861,38576,930,21386,7320,Home appliance repairers,1,14,6.546338726269522e-4
+Other Europe,1861,38576,930,21386,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,14,6.546338726269522e-4
+Other Europe,1861,38576,930,21386,8350,"Tailors, dressmakers, and sewers",1,14,6.546338726269522e-4
+Other Europe,1861,38576,930,21386,1005,Computer and information research scientists,2,13,6.078743102964556e-4
+Other Europe,1861,38576,930,21386,1520,"Petroleum, mining and geological engineers, including mining safety engineers",1,13,6.078743102964556e-4
+Other Europe,1861,38576,930,21386,1980,Occupational health and safety specialists and technicians,1,13,6.078743102964556e-4
+Other Europe,1861,38576,930,21386,2003,Marriage and family therapists,1,13,6.078743102964556e-4
+Other Europe,1861,38576,930,21386,2830,Editors,1,13,6.078743102964556e-4
+Other Europe,1861,38576,930,21386,7210,Bus and truck mechanics and diesel engine specialists,2,13,6.078743102964556e-4
+Other Europe,1861,38576,930,21386,8810,Painting workers,1,13,6.078743102964556e-4
+Other Europe,1861,38576,930,21386,9141,Shuttle drivers and chauffeurs,1,13,6.078743102964556e-4
+Other Europe,1861,38576,930,21386,9430,Other transportation workers,1,13,6.078743102964556e-4
+Other Europe,1861,38576,930,21386,1031,Web developers,1,12,5.611147479659591e-4
+Other Europe,1861,38576,930,21386,1065,Database administrators and architects,1,12,5.611147479659591e-4
+Other Europe,1861,38576,930,21386,3010,Dentists,1,12,5.611147479659591e-4
+Other Europe,1861,38576,930,21386,5150,Procurement clerks,1,12,5.611147479659591e-4
+Other Europe,1861,38576,930,21386,0335,Entertainment and recreation managers,1,11,5.143551856354625e-4
+Other Europe,1861,38576,930,21386,1555,"Other engineering technologists and technicians, except drafters",1,11,5.143551856354625e-4
+Other Europe,1861,38576,930,21386,1920,Chemical technicians,1,11,5.143551856354625e-4
+Other Europe,1861,38576,930,21386,2861,Interpreters and translators,1,11,5.143551856354625e-4
+Other Europe,1861,38576,930,21386,3160,Physical therapists,1,11,5.143551856354625e-4
+Other Europe,1861,38576,930,21386,4330,Supervisors of personal care and service workers,1,11,5.143551856354625e-4
+Other Europe,1861,38576,930,21386,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,10,4.6759562330496587e-4
+Other Europe,1861,38576,930,21386,5300,"Hotel, motel, and resort desk clerks",1,10,4.6759562330496587e-4
+Other Europe,1861,38576,930,21386,7000,"First-line supervisors of mechanics, installers, and repairers",1,10,4.6759562330496587e-4
+Other Europe,1861,38576,930,21386,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,9,4.208360609744693e-4
+Other Europe,1861,38576,930,21386,3422,Psychiatric technicians,1,8,3.7407649864397267e-4
+Other Europe,1861,38576,930,21386,6660,Construction and building inspectors,1,8,3.7407649864397267e-4
+Other Europe,1861,38576,930,21386,8940,Tire builders,1,8,3.7407649864397267e-4
+Other Europe,1861,38576,930,21386,0940,Tax preparers,1,7,3.273169363134761e-4
+Other Europe,1861,38576,930,21386,9640,"Packers and packagers, hand",1,7,3.273169363134761e-4
+Other Europe,1861,38576,930,21386,4900,"Models, demonstrators, and product promoters",1,6,2.8055737398297953e-4
+Other Europe,1861,38576,930,21386,6950,Other extraction workers,1,6,2.8055737398297953e-4
+Other Europe,1861,38576,930,21386,7330,Industrial and refractory machinery mechanics,1,6,2.8055737398297953e-4
+Other Europe,1861,38576,930,21386,8830,Photographic process workers and processing machine operators,1,6,2.8055737398297953e-4
+Other Europe,1861,38576,930,21386,8140,"Welding, soldering, and brazing workers",1,5,2.3379781165248293e-4
+Other Europe,1861,38576,930,21386,3323,Radiologic technologists and technicians,1,3,1.4027868699148977e-4
+Other Europe,1861,38576,930,21386,5420,Other information and records clerks,1,2,9.351912466099317e-5

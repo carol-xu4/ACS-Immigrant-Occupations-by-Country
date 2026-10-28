@@ -1,212 +1,214 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Cote d'Ivoire,947,30681,649,21519,9142,Taxi drivers,26,979,0.04549467912077699
-Cote d'Ivoire,947,30681,649,21519,4510,"Hairdressers, hairstylists, and cosmetologists",16,799,0.037129978158836376
-Cote d'Ivoire,947,30681,649,21519,4720,Cashiers,15,652,0.03029880570658488
-Cote d'Ivoire,947,30681,649,21519,3602,Personal care aides,18,607,0.028207630466099726
-Cote d'Ivoire,947,30681,649,21519,9620,"Laborers and freight, stock, and material movers, hand",16,589,0.027371160369905664
-Cote d'Ivoire,947,30681,649,21519,4700,First-line supervisors of retail sales workers,14,531,0.0246758678377248
-Cote d'Ivoire,947,30681,649,21519,9130,Driver/sales workers and truck drivers,17,502,0.023328221571634368
-Cote d'Ivoire,947,30681,649,21519,3255,Registered nurses,13,496,0.02304939820623635
-Cote d'Ivoire,947,30681,649,21519,4020,Cooks,14,453,0.021051164087550537
-Cote d'Ivoire,947,30681,649,21519,5240,Customer service representatives,16,441,0.020493517356754497
-Cote d'Ivoire,947,30681,649,21519,1050,Computer support specialists,6,423,0.019657047260560435
-Cote d'Ivoire,947,30681,649,21519,8990,"Miscellaneous production workers, including equipment operators and tenders",11,423,0.019657047260560435
-Cote d'Ivoire,947,30681,649,21519,0800,Accountants and auditors,11,421,0.019564106138761094
-Cote d'Ivoire,947,30681,649,21519,4760,Retail salespersons,10,390,0.01812351875087132
-Cote d'Ivoire,947,30681,649,21519,3601,Home health aides,17,376,0.01747293089827594
-Cote d'Ivoire,947,30681,649,21519,5610,"Shipping, receiving, and inventory clerks",6,361,0.01677587248478089
-Cote d'Ivoire,947,30681,649,21519,2205,Postsecondary teachers,10,320,0.01487057948789442
-Cote d'Ivoire,947,30681,649,21519,0440,Other managers,11,317,0.014731167805195408
-Cote d'Ivoire,947,30681,649,21519,0710,Management analysts,4,295,0.013708815465402667
-Cote d'Ivoire,947,30681,649,21519,1021,Software developers,10,286,0.013290580417305638
-Cote d'Ivoire,947,30681,649,21519,8740,"Inspectors, testers, sorters, samplers, and weighers",6,274,0.012732933686509596
-Cote d'Ivoire,947,30681,649,21519,3603,Nursing assistants,12,272,0.012639992564710255
-Cote d'Ivoire,947,30681,649,21519,4230,Maids and housekeeping cleaners,7,268,0.012454110321111576
-Cote d'Ivoire,947,30681,649,21519,5510,Couriers and messengers,8,259,0.012035875273014545
-Cote d'Ivoire,947,30681,649,21519,3500,Licensed practical and licensed vocational nurses,8,258,0.011989404712114874
-Cote d'Ivoire,947,30681,649,21519,5740,"Secretaries and administrative assistants, except legal, medical, and executive",5,253,0.011757051907616525
-Cote d'Ivoire,947,30681,649,21519,7750,Other assemblers and fabricators,5,242,0.011245875737720155
-Cote d'Ivoire,947,30681,649,21519,9600,Industrial truck and tractor operators,4,241,0.011199405176820484
-Cote d'Ivoire,947,30681,649,21519,1840,Urban and regional planners,1,213,0.009898229471629723
-Cote d'Ivoire,947,30681,649,21519,7010,"Computer, automated teller, and office machine repairers",1,212,0.009851758910730053
-Cote d'Ivoire,947,30681,649,21519,0845,Financial and investment analysts,3,205,0.009526464984432362
-Cote d'Ivoire,947,30681,649,21519,0120,Financial managers,8,176,0.00817881871834193
-Cote d'Ivoire,947,30681,649,21519,4600,Childcare workers,10,173,0.008039407035642921
-Cote d'Ivoire,947,30681,649,21519,5160,Tellers,2,167,0.0077605836702449
-Cote d'Ivoire,947,30681,649,21519,4220,Janitors and building cleaners,5,161,0.007481760304846879
-Cote d'Ivoire,947,30681,649,21519,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",4,157,0.0072958780612482
-Cote d'Ivoire,947,30681,649,21519,7855,"Food processing workers, all other",1,157,0.0072958780612482
-Cote d'Ivoire,947,30681,649,21519,3300,Clinical laboratory technologists and technicians,1,152,0.007063525256749849
-Cote d'Ivoire,947,30681,649,21519,4055,Fast food and counter workers,4,152,0.007063525256749849
-Cote d'Ivoire,947,30681,649,21519,5000,First-line supervisors of office and administrative support workers,4,138,0.006412937404154468
-Cote d'Ivoire,947,30681,649,21519,3930,Security guards and gaming surveillance officers,5,133,0.0061805845996561175
-Cote d'Ivoire,947,30681,649,21519,5220,"Court, municipal, and license clerks",1,130,0.0060411729169571075
-Cote d'Ivoire,947,30681,649,21519,6260,Construction laborers,2,130,0.0060411729169571075
-Cote d'Ivoire,947,30681,649,21519,4110,Waiters and waitresses,3,125,0.005808820112458758
-Cote d'Ivoire,947,30681,649,21519,0630,Human resources workers,4,124,0.005762349551559087
-Cote d'Ivoire,947,30681,649,21519,3945,Transportation security screeners,1,124,0.005762349551559087
-Cote d'Ivoire,947,30681,649,21519,0350,Medical and health services managers,3,123,0.005715878990659417
-Cote d'Ivoire,947,30681,649,21519,5120,"Bookkeeping, accounting, and auditing clerks",3,123,0.005715878990659417
-Cote d'Ivoire,947,30681,649,21519,2100,"Lawyers, and judges, magistrates, and other judicial workers",1,117,0.005437055625261397
-Cote d'Ivoire,947,30681,649,21519,4030,Food preparation workers,8,116,0.005390585064361727
-Cote d'Ivoire,947,30681,649,21519,4010,First-line supervisors of food preparation and serving workers,1,113,0.005251173381662717
-Cote d'Ivoire,947,30681,649,21519,9645,Stockers and order fillers,5,113,0.005251173381662717
-Cote d'Ivoire,947,30681,649,21519,7700,First-line supervisors of production and operating workers,3,110,0.005111761698963707
-Cote d'Ivoire,947,30681,649,21519,1760,"Physical scientists, all other",5,108,0.005018820577164366
-Cote d'Ivoire,947,30681,649,21519,2310,Elementary and middle school teachers,4,105,0.004879408894465356
-Cote d'Ivoire,947,30681,649,21519,6050,Other agricultural workers,1,103,0.004786467772666016
-Cote d'Ivoire,947,30681,649,21519,0010,Chief executives and legislators,2,102,0.004739997211766346
-Cote d'Ivoire,947,30681,649,21519,5350,Correspondence clerks and order clerks,2,102,0.004739997211766346
-Cote d'Ivoire,947,30681,649,21519,1006,Computer systems analysts,1,98,0.0045541149681676656
-Cote d'Ivoire,947,30681,649,21519,4130,Dining room and cafeteria attendants and bartender helpers,2,97,0.004507644407267996
-Cote d'Ivoire,947,30681,649,21519,7810,"Butchers and other meat, poultry, and fish processing workers",2,97,0.004507644407267996
-Cote d'Ivoire,947,30681,649,21519,5410,Reservation and transportation ticket agents and travel clerks,3,93,0.004321762163669316
-Cote d'Ivoire,947,30681,649,21519,0310,Food service managers,2,88,0.004089409359170965
-Cote d'Ivoire,947,30681,649,21519,1530,Other engineers,1,87,0.004042938798271295
-Cote d'Ivoire,947,30681,649,21519,2360,Other teachers and instructors,2,85,0.003949997676471955
-Cote d'Ivoire,947,30681,649,21519,3515,Medical records specialists,1,85,0.003949997676471955
-Cote d'Ivoire,947,30681,649,21519,1555,"Other engineering technologists and technicians, except drafters",3,82,0.003810585993772945
-Cote d'Ivoire,947,30681,649,21519,2320,Secondary school teachers,4,82,0.003810585993772945
-Cote d'Ivoire,947,30681,649,21519,3640,Dental assistants,1,81,0.0037641154328732747
-Cote d'Ivoire,947,30681,649,21519,9005,Supervisors of transportation and material moving workers,2,80,0.003717644871973605
-Cote d'Ivoire,947,30681,649,21519,5420,Other information and records clerks,1,79,0.0036711743110739345
-Cote d'Ivoire,947,30681,649,21519,1108,"Computer occupations, all other",2,77,0.0035782331892745944
-Cote d'Ivoire,947,30681,649,21519,2014,"Social workers, all other",3,74,0.0034388215065755843
-Cote d'Ivoire,947,30681,649,21519,3421,Pharmacy technicians,4,72,0.003345880384776244
-Cote d'Ivoire,947,30681,649,21519,5860,"Office clerks, general",4,71,0.0032994098238765743
-Cote d'Ivoire,947,30681,649,21519,2300,Preschool and kindergarten teachers,3,70,0.003252939262976904
-Cote d'Ivoire,947,30681,649,21519,2350,Tutors,2,70,0.003252939262976904
-Cote d'Ivoire,947,30681,649,21519,7330,Industrial and refractory machinery mechanics,1,70,0.003252939262976904
-Cote d'Ivoire,947,30681,649,21519,4200,First-line supervisors of housekeeping and janitorial workers,1,68,0.003159998141177564
-Cote d'Ivoire,947,30681,649,21519,1106,Computer network architects,4,67,0.003113527580277894
-Cote d'Ivoire,947,30681,649,21519,1650,Other life scientists,4,67,0.003113527580277894
-Cote d'Ivoire,947,30681,649,21519,5400,Receptionists and information clerks,2,62,0.0028811747757795437
-Cote d'Ivoire,947,30681,649,21519,8300,Laundry and dry-cleaning workers,2,61,0.0028347042148798734
-Cote d'Ivoire,947,30681,649,21519,2011,"Child, family, and school social workers",2,60,0.0027882336539802035
-Cote d'Ivoire,947,30681,649,21519,2545,Teaching assistants,3,60,0.0027882336539802035
-Cote d'Ivoire,947,30681,649,21519,9825,Military enlisted tactical operations and air/weapons specialists and crew members,4,60,0.0027882336539802035
-Cote d'Ivoire,947,30681,649,21519,0052,Sales managers,3,59,0.0027417630930805337
-Cote d'Ivoire,947,30681,649,21519,1360,Civil engineers,3,59,0.0027417630930805337
-Cote d'Ivoire,947,30681,649,21519,4710,First-line supervisors of non-retail sales workers,2,59,0.0027417630930805337
-Cote d'Ivoire,947,30681,649,21519,6835,"Explosives workers, ordnance handling experts, and blasters",1,59,0.0027417630930805337
-Cote d'Ivoire,947,30681,649,21519,0705,Project management specialists,3,57,0.0026488219712811935
-Cote d'Ivoire,947,30681,649,21519,1410,Electrical and electronics engineers,3,57,0.0026488219712811935
-Cote d'Ivoire,947,30681,649,21519,6410,Painters and paperhangers,2,54,0.002509410288582183
-Cote d'Ivoire,947,30681,649,21519,9121,"Bus drivers, school",1,54,0.002509410288582183
-Cote d'Ivoire,947,30681,649,21519,6040,"Graders and sorters, agricultural products",1,53,0.002462939727682513
-Cote d'Ivoire,947,30681,649,21519,2632,Fashion designers,1,52,0.0024164691667828433
-Cote d'Ivoire,947,30681,649,21519,4850,"Sales representatives, wholesale and manufacturing",2,52,0.0024164691667828433
-Cote d'Ivoire,947,30681,649,21519,9610,Cleaners of vehicles and equipment,2,52,0.0024164691667828433
-Cote d'Ivoire,947,30681,649,21519,0020,General and operations managers,4,50,0.002323528044983503
-Cote d'Ivoire,947,30681,649,21519,1240,Other mathematical science occupations,2,50,0.002323528044983503
-Cote d'Ivoire,947,30681,649,21519,9830,"Military, rank not specified",3,49,0.0022770574840838328
-Cote d'Ivoire,947,30681,649,21519,3050,Pharmacists,2,48,0.002230586923184163
-Cote d'Ivoire,947,30681,649,21519,9640,"Packers and packagers, hand",2,48,0.002230586923184163
-Cote d'Ivoire,947,30681,649,21519,5550,Postal service mail carriers,2,47,0.0021841163622844926
-Cote d'Ivoire,947,30681,649,21519,3110,Physician assistants,1,46,0.0021376458013848227
-Cote d'Ivoire,947,30681,649,21519,9141,Shuttle drivers and chauffeurs,1,46,0.0021376458013848227
-Cote d'Ivoire,947,30681,649,21519,3160,Physical therapists,2,44,0.0020447046795854826
-Cote d'Ivoire,947,30681,649,21519,8610,Stationary engineers and boiler operators,1,44,0.0020447046795854826
-Cote d'Ivoire,947,30681,649,21519,2905,Other media and communication equipment workers,1,43,0.0019982341186858127
-Cote d'Ivoire,947,30681,649,21519,5300,"Hotel, motel, and resort desk clerks",2,43,0.0019982341186858127
-Cote d'Ivoire,947,30681,649,21519,4140,Dishwashers,2,42,0.0019517635577861424
-Cote d'Ivoire,947,30681,649,21519,5940,Other office and administrative support workers,3,42,0.0019517635577861424
-Cote d'Ivoire,947,30681,649,21519,3550,Other healthcare practitioners and technical occupations,1,41,0.0019052929968864725
-Cote d'Ivoire,947,30681,649,21519,7340,"Maintenance and repair workers, general",2,41,0.0019052929968864725
-Cote d'Ivoire,947,30681,649,21519,2145,Paralegals and legal assistants,1,40,0.0018588224359868024
-Cote d'Ivoire,947,30681,649,21519,5840,Insurance claims and policy processing clerks,1,40,0.0018588224359868024
-Cote d'Ivoire,947,30681,649,21519,0700,Logisticians,1,39,0.0018123518750871323
-Cote d'Ivoire,947,30681,649,21519,3802,Correctional officers and jailers,2,39,0.0018123518750871323
-Cote d'Ivoire,947,30681,649,21519,2920,"Television, video, and film camera operators and editors",2,38,0.0017658813141874622
-Cote d'Ivoire,947,30681,649,21519,5710,Executive secretaries and executive administrative assistants,2,38,0.0017658813141874622
-Cote d'Ivoire,947,30681,649,21519,8800,Packaging and filling machine operators and tenders,2,38,0.0017658813141874622
-Cote d'Ivoire,947,30681,649,21519,8225,Other metal workers and plastic workers,1,37,0.0017194107532877922
-Cote d'Ivoire,947,30681,649,21519,2004,Mental health counselors,2,36,0.001672940192388122
-Cote d'Ivoire,947,30681,649,21519,2040,Clergy,2,36,0.001672940192388122
-Cote d'Ivoire,947,30681,649,21519,5260,File clerks,1,36,0.001672940192388122
-Cote d'Ivoire,947,30681,649,21519,0565,Compliance officers,2,35,0.001626469631488452
-Cote d'Ivoire,947,30681,649,21519,3422,Psychiatric technicians,2,34,0.001579999070588782
-Cote d'Ivoire,947,30681,649,21519,4525,Other personal appearance workers,1,34,0.001579999070588782
-Cote d'Ivoire,947,30681,649,21519,7140,Aircraft mechanics and service technicians,1,34,0.001579999070588782
-Cote d'Ivoire,947,30681,649,21519,6200,First-line supervisors of construction trades and extraction workers,2,33,0.001533528509689112
-Cote d'Ivoire,947,30681,649,21519,2002,"Educational, guidance, and career counselors and advisors",2,32,0.001487057948789442
-Cote d'Ivoire,947,30681,649,21519,4040,Bartenders,1,32,0.001487057948789442
-Cote d'Ivoire,947,30681,649,21519,4240,Pest control workers,1,32,0.001487057948789442
-Cote d'Ivoire,947,30681,649,21519,7210,Bus and truck mechanics and diesel engine specialists,2,31,0.0014405873878897719
-Cote d'Ivoire,947,30681,649,21519,7240,Small engine mechanics,1,31,0.0014405873878897719
-Cote d'Ivoire,947,30681,649,21519,0750,"Business operations specialists, all other",2,30,0.0013941168269901018
-Cote d'Ivoire,947,30681,649,21519,8750,Jewelers and precious stone and metal workers,1,30,0.0013941168269901018
-Cote d'Ivoire,947,30681,649,21519,0300,Architectural and engineering managers,1,29,0.0013476462660904317
-Cote d'Ivoire,947,30681,649,21519,2752,Musicians and singers,2,29,0.0013476462660904317
-Cote d'Ivoire,947,30681,649,21519,3220,Respiratory therapists,1,29,0.0013476462660904317
-Cote d'Ivoire,947,30681,649,21519,1220,Operations research analysts,1,28,0.0013011757051907616
-Cote d'Ivoire,947,30681,649,21519,2012,Healthcare social workers,1,28,0.0013011757051907616
-Cote d'Ivoire,947,30681,649,21519,4640,Residential advisors,2,28,0.0013011757051907616
-Cote d'Ivoire,947,30681,649,21519,5920,Statistical assistants,1,28,0.0013011757051907616
-Cote d'Ivoire,947,30681,649,21519,2721,Athletes and sports competitors,1,27,0.0012547051442910915
-Cote d'Ivoire,947,30681,649,21519,3910,Private detectives and investigators,1,27,0.0012547051442910915
-Cote d'Ivoire,947,30681,649,21519,9122,"Bus drivers, transit and intercity",1,27,0.0012547051442910915
-Cote d'Ivoire,947,30681,649,21519,9265,Other rail transportation workers,1,27,0.0012547051442910915
-Cote d'Ivoire,947,30681,649,21519,9760,Other material moving workers,1,27,0.0012547051442910915
-Cote d'Ivoire,947,30681,649,21519,0160,"Transportation, storage, and distribution managers",2,26,0.0012082345833914216
-Cote d'Ivoire,947,30681,649,21519,4810,Insurance sales agents,1,26,0.0012082345833914216
-Cote d'Ivoire,947,30681,649,21519,9350,Parking attendants,1,23,0.0010688229006924114
-Cote d'Ivoire,947,30681,649,21519,1320,Aerospace engineers,1,22,0.0010223523397927413
-Cote d'Ivoire,947,30681,649,21519,4251,Landscaping and groundskeeping workers,1,22,0.0010223523397927413
-Cote d'Ivoire,947,30681,649,21519,4750,Parts salespersons,1,22,0.0010223523397927413
-Cote d'Ivoire,947,30681,649,21519,0410,"Property, real estate, and community association managers",2,21,9.758817788930712e-4
-Cote d'Ivoire,947,30681,649,21519,3645,Medical assistants,1,21,9.758817788930712e-4
-Cote d'Ivoire,947,30681,649,21519,5810,Data entry keyers,1,21,9.758817788930712e-4
-Cote d'Ivoire,947,30681,649,21519,6115,Fishing and hunting workers,1,21,9.758817788930712e-4
-Cote d'Ivoire,947,30681,649,21519,7800,Bakers,1,21,9.758817788930712e-4
-Cote d'Ivoire,947,30681,649,21519,8030,Machinists,2,21,9.758817788930712e-4
-Cote d'Ivoire,947,30681,649,21519,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,20,9.294112179934012e-4
-Cote d'Ivoire,947,30681,649,21519,2555,Other educational instruction and library workers,1,19,8.829406570937311e-4
-Cote d'Ivoire,947,30681,649,21519,9810,First-line enlisted military supervisors,1,19,8.829406570937311e-4
-Cote d'Ivoire,947,30681,649,21519,0735,Market research analysts and marketing specialists,1,18,8.36470096194061e-4
-Cote d'Ivoire,947,30681,649,21519,1105,Network and computer systems administrators,1,18,8.36470096194061e-4
-Cote d'Ivoire,947,30681,649,21519,3258,"Nurse practitioners, and nurse midwives",1,18,8.36470096194061e-4
-Cote d'Ivoire,947,30681,649,21519,4530,"Baggage porters, bellhops, and concierges",1,18,8.36470096194061e-4
-Cote d'Ivoire,947,30681,649,21519,0910,Credit counselors and loan officers,1,17,7.89999535294391e-4
-Cote d'Ivoire,947,30681,649,21519,0960,Other financial specialists,1,17,7.89999535294391e-4
-Cote d'Ivoire,947,30681,649,21519,5522,"Dispatchers, except police, fire, and ambulance",1,17,7.89999535294391e-4
-Cote d'Ivoire,947,30681,649,21519,0060,Public relations and fundraising managers,1,16,7.43528974394721e-4
-Cote d'Ivoire,947,30681,649,21519,1980,Occupational health and safety specialists and technicians,1,16,7.43528974394721e-4
-Cote d'Ivoire,947,30681,649,21519,2025,Other community and social service specialists,1,16,7.43528974394721e-4
-Cote d'Ivoire,947,30681,649,21519,2050,"Directors, religious activities and education",1,16,7.43528974394721e-4
-Cote d'Ivoire,947,30681,649,21519,6230,Carpenters,1,16,7.43528974394721e-4
-Cote d'Ivoire,947,30681,649,21519,6355,Electricians,1,16,7.43528974394721e-4
-Cote d'Ivoire,947,30681,649,21519,6442,"Plumbers, pipefitters, and steamfitters",1,16,7.43528974394721e-4
-Cote d'Ivoire,947,30681,649,21519,1610,Biological scientists,1,15,6.970584134950509e-4
-Cote d'Ivoire,947,30681,649,21519,2850,Writers and authors,1,15,6.970584134950509e-4
-Cote d'Ivoire,947,30681,649,21519,2862,Court reporters and simultaneous captioners,1,15,6.970584134950509e-4
-Cote d'Ivoire,947,30681,649,21519,3545,Miscellaneous health technologists and technicians,1,15,6.970584134950509e-4
-Cote d'Ivoire,947,30681,649,21519,7200,Automotive service technicians and mechanics,1,15,6.970584134950509e-4
-Cote d'Ivoire,947,30681,649,21519,8950,Helpers--production workers,1,15,6.970584134950509e-4
-Cote d'Ivoire,947,30681,649,21519,9365,Transportation service attendants,1,15,6.970584134950509e-4
-Cote d'Ivoire,947,30681,649,21519,9800,Military officer special and tactical operations leaders,1,15,6.970584134950509e-4
-Cote d'Ivoire,947,30681,649,21519,0150,Purchasing managers,1,14,6.505878525953808e-4
-Cote d'Ivoire,947,30681,649,21519,1400,Computer hardware engineers,1,14,6.505878525953808e-4
-Cote d'Ivoire,947,30681,649,21519,1745,"Environmental scientists and specialists, including health",1,14,6.505878525953808e-4
-Cote d'Ivoire,947,30681,649,21519,4965,"Sales and related workers, all other",1,14,6.505878525953808e-4
-Cote d'Ivoire,947,30681,649,21519,1970,"Other life, physical, and social science technicians",1,13,6.041172916957108e-4
-Cote d'Ivoire,947,30681,649,21519,7300,Control and valve installers and repairers,1,13,6.041172916957108e-4
-Cote d'Ivoire,947,30681,649,21519,7840,Food batchmakers,1,13,6.041172916957108e-4
-Cote d'Ivoire,947,30681,649,21519,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,13,6.041172916957108e-4
-Cote d'Ivoire,947,30681,649,21519,8350,"Tailors, dressmakers, and sewers",1,13,6.041172916957108e-4
-Cote d'Ivoire,947,30681,649,21519,8365,"Textile machine setters, operators, and tenders",1,13,6.041172916957108e-4
-Cote d'Ivoire,947,30681,649,21519,3090,Physicians,1,12,5.576467307960407e-4
-Cote d'Ivoire,947,30681,649,21519,4621,Exercise trainers and group fitness instructors,1,12,5.576467307960407e-4
-Cote d'Ivoire,947,30681,649,21519,7420,Telecommunications line installers and repairers,1,12,5.576467307960407e-4
-Cote d'Ivoire,947,30681,649,21519,1022,Software quality assurance analysts and testers,1,11,5.111761698963706e-4
-Cote d'Ivoire,947,30681,649,21519,8810,Painting workers,1,11,5.111761698963706e-4
-Cote d'Ivoire,947,30681,649,21519,0230,Education and childcare administrators,1,10,4.647056089967006e-4
-Cote d'Ivoire,947,30681,649,21519,3430,Dietetic technicians and ophthalmic medical technicians,1,10,4.647056089967006e-4
-Cote d'Ivoire,947,30681,649,21519,4820,"Securities, commodities, and financial services sales agents",1,10,4.647056089967006e-4
-Cote d'Ivoire,947,30681,649,21519,1065,Database administrators and architects,1,9,4.182350480970305e-4
-Cote d'Ivoire,947,30681,649,21519,1720,Chemists and materials scientists,1,9,4.182350480970305e-4
-Cote d'Ivoire,947,30681,649,21519,3655,Other healthcare support workers,1,9,4.182350480970305e-4
-Cote d'Ivoire,947,30681,649,21519,0540,"Claims adjusters, appraisers, examiners, and investigators",1,8,3.717644871973605e-4
-Cote d'Ivoire,947,30681,649,21519,0140,Industrial production managers,1,7,3.252939262976904e-4
-Cote d'Ivoire,947,30681,649,21519,1350,Chemical engineers,1,6,2.7882336539802036e-4
-Cote d'Ivoire,947,30681,649,21519,1200,Actuaries,1,4,1.8588224359868024e-4
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Cote d'Ivoire,947,30681,670,22002,9142,Taxi drivers,26,979,0.04449595491318971
+Cote d'Ivoire,947,30681,670,22002,4510,"Hairdressers, hairstylists, and cosmetologists",16,799,0.03631488046541224
+Cote d'Ivoire,947,30681,670,22002,4720,Cashiers,16,666,0.030269975456776656
+Cote d'Ivoire,947,30681,670,22002,9620,"Laborers and freight, stock, and material movers, hand",17,612,0.027815653122443416
+Cote d'Ivoire,947,30681,670,22002,3602,Personal care aides,18,607,0.027588401054449596
+Cote d'Ivoire,947,30681,670,22002,4700,First-line supervisors of retail sales workers,14,531,0.02413416962094355
+Cote d'Ivoire,947,30681,670,22002,9130,Driver/sales workers and truck drivers,17,502,0.0228161076265794
+Cote d'Ivoire,947,30681,670,22002,3255,Registered nurses,13,496,0.02254340514498682
+Cote d'Ivoire,947,30681,670,22002,4020,Cooks,14,453,0.020589037360239978
+Cote d'Ivoire,947,30681,670,22002,8990,"Miscellaneous production workers, including equipment operators and tenders",12,442,0.020089082810653577
+Cote d'Ivoire,947,30681,670,22002,5240,Customer service representatives,16,441,0.020043632397054815
+Cote d'Ivoire,947,30681,670,22002,1050,Computer support specialists,6,423,0.019225524952277067
+Cote d'Ivoire,947,30681,670,22002,0800,Accountants and auditors,11,421,0.01913462412507954
+Cote d'Ivoire,947,30681,670,22002,4760,Retail salespersons,11,412,0.018725570402690666
+Cote d'Ivoire,947,30681,670,22002,3601,Home health aides,18,403,0.018316516680301792
+Cote d'Ivoire,947,30681,670,22002,5610,"Shipping, receiving, and inventory clerks",6,361,0.016407599309153715
+Cote d'Ivoire,947,30681,670,22002,3603,Nursing assistants,15,352,0.01599854558676484
+Cote d'Ivoire,947,30681,670,22002,2205,Postsecondary teachers,11,340,0.015453140623579675
+Cote d'Ivoire,947,30681,670,22002,8740,"Inspectors, testers, sorters, samplers, and weighers",7,326,0.014816834833196983
+Cote d'Ivoire,947,30681,670,22002,0440,Other managers,11,317,0.014407781110808109
+Cote d'Ivoire,947,30681,670,22002,4230,Maids and housekeeping cleaners,8,298,0.013544223252431598
+Cote d'Ivoire,947,30681,670,22002,0710,Management analysts,4,295,0.013407872011635305
+Cote d'Ivoire,947,30681,670,22002,1021,Software developers,10,286,0.012998818289246433
+Cote d'Ivoire,947,30681,670,22002,3500,Licensed practical and licensed vocational nurses,9,272,0.01236251249886374
+Cote d'Ivoire,947,30681,670,22002,5510,Couriers and messengers,8,259,0.011771657122079811
+Cote d'Ivoire,947,30681,670,22002,5740,"Secretaries and administrative assistants, except legal, medical, and executive",5,253,0.011498954640487228
+Cote d'Ivoire,947,30681,670,22002,7750,Other assemblers and fabricators,5,242,0.010999000090900827
+Cote d'Ivoire,947,30681,670,22002,9600,Industrial truck and tractor operators,4,241,0.010953549677302063
+Cote d'Ivoire,947,30681,670,22002,1840,Urban and regional planners,1,213,0.009680938096536678
+Cote d'Ivoire,947,30681,670,22002,7010,"Computer, automated teller, and office machine repairers",1,212,0.009635487682937914
+Cote d'Ivoire,947,30681,670,22002,0845,Financial and investment analysts,3,205,0.009317334787746568
+Cote d'Ivoire,947,30681,670,22002,4600,Childcare workers,11,200,0.00909008271975275
+Cote d'Ivoire,947,30681,670,22002,0120,Financial managers,8,176,0.00799927279338242
+Cote d'Ivoire,947,30681,670,22002,4110,Waiters and waitresses,4,175,0.007953822379783655
+Cote d'Ivoire,947,30681,670,22002,5160,Tellers,2,167,0.007590219070993546
+Cote d'Ivoire,947,30681,670,22002,4220,Janitors and building cleaners,5,161,0.007317516589400963
+Cote d'Ivoire,947,30681,670,22002,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",4,157,0.007135714935005908
+Cote d'Ivoire,947,30681,670,22002,7855,"Food processing workers, all other",1,157,0.007135714935005908
+Cote d'Ivoire,947,30681,670,22002,3930,Security guards and gaming surveillance officers,7,154,0.0069993636942096175
+Cote d'Ivoire,947,30681,670,22002,3300,Clinical laboratory technologists and technicians,1,152,0.0069084628670120895
+Cote d'Ivoire,947,30681,670,22002,4055,Fast food and counter workers,4,152,0.0069084628670120895
+Cote d'Ivoire,947,30681,670,22002,5000,First-line supervisors of office and administrative support workers,4,138,0.006272157076629398
+Cote d'Ivoire,947,30681,670,22002,5220,"Court, municipal, and license clerks",1,130,0.005908553767839287
+Cote d'Ivoire,947,30681,670,22002,6260,Construction laborers,2,130,0.005908553767839287
+Cote d'Ivoire,947,30681,670,22002,0630,Human resources workers,4,124,0.005635851286246705
+Cote d'Ivoire,947,30681,670,22002,3945,Transportation security screeners,1,124,0.005635851286246705
+Cote d'Ivoire,947,30681,670,22002,0350,Medical and health services managers,3,123,0.0055904008726479415
+Cote d'Ivoire,947,30681,670,22002,5120,"Bookkeeping, accounting, and auditing clerks",3,123,0.0055904008726479415
+Cote d'Ivoire,947,30681,670,22002,2100,"Lawyers, and judges, magistrates, and other judicial workers",1,117,0.005317698391055358
+Cote d'Ivoire,947,30681,670,22002,4030,Food preparation workers,8,116,0.005272247977456595
+Cote d'Ivoire,947,30681,670,22002,4010,First-line supervisors of food preparation and serving workers,1,113,0.005135896736660304
+Cote d'Ivoire,947,30681,670,22002,9645,Stockers and order fillers,5,113,0.005135896736660304
+Cote d'Ivoire,947,30681,670,22002,7700,First-line supervisors of production and operating workers,3,110,0.004999545495864012
+Cote d'Ivoire,947,30681,670,22002,1760,"Physical scientists, all other",5,108,0.004908644668666485
+Cote d'Ivoire,947,30681,670,22002,2310,Elementary and middle school teachers,4,105,0.004772293427870194
+Cote d'Ivoire,947,30681,670,22002,6050,Other agricultural workers,1,103,0.0046813926006726665
+Cote d'Ivoire,947,30681,670,22002,0010,Chief executives and legislators,2,102,0.004635942187073902
+Cote d'Ivoire,947,30681,670,22002,5350,Correspondence clerks and order clerks,2,102,0.004635942187073902
+Cote d'Ivoire,947,30681,670,22002,1006,Computer systems analysts,1,98,0.004454140532678848
+Cote d'Ivoire,947,30681,670,22002,4130,Dining room and cafeteria attendants and bartender helpers,2,97,0.004408690119080083
+Cote d'Ivoire,947,30681,670,22002,7810,"Butchers and other meat, poultry, and fish processing workers",2,97,0.004408690119080083
+Cote d'Ivoire,947,30681,670,22002,2360,Other teachers and instructors,3,95,0.004317789291882556
+Cote d'Ivoire,947,30681,670,22002,5410,Reservation and transportation ticket agents and travel clerks,3,93,0.004226888464685029
+Cote d'Ivoire,947,30681,670,22002,0310,Food service managers,2,88,0.00399963639669121
+Cote d'Ivoire,947,30681,670,22002,1530,Other engineers,1,87,0.003954185983092446
+Cote d'Ivoire,947,30681,670,22002,3515,Medical records specialists,1,85,0.0038632851558949187
+Cote d'Ivoire,947,30681,670,22002,1555,"Other engineering technologists and technicians, except drafters",3,82,0.0037269339150986275
+Cote d'Ivoire,947,30681,670,22002,2320,Secondary school teachers,4,82,0.0037269339150986275
+Cote d'Ivoire,947,30681,670,22002,3640,Dental assistants,1,81,0.0036814835014998635
+Cote d'Ivoire,947,30681,670,22002,9005,Supervisors of transportation and material moving workers,2,80,0.0036360330879011
+Cote d'Ivoire,947,30681,670,22002,5420,Other information and records clerks,1,79,0.0035905826743023363
+Cote d'Ivoire,947,30681,670,22002,1108,"Computer occupations, all other",2,77,0.0034996818471048088
+Cote d'Ivoire,947,30681,670,22002,2545,Teaching assistants,4,76,0.0034542314335060447
+Cote d'Ivoire,947,30681,670,22002,2014,"Social workers, all other",3,74,0.0033633306063085176
+Cote d'Ivoire,947,30681,670,22002,3421,Pharmacy technicians,4,72,0.00327242977911099
+Cote d'Ivoire,947,30681,670,22002,5860,"Office clerks, general",4,71,0.003226979365512226
+Cote d'Ivoire,947,30681,670,22002,2300,Preschool and kindergarten teachers,3,70,0.0031815289519134624
+Cote d'Ivoire,947,30681,670,22002,2350,Tutors,2,70,0.0031815289519134624
+Cote d'Ivoire,947,30681,670,22002,7330,Industrial and refractory machinery mechanics,1,70,0.0031815289519134624
+Cote d'Ivoire,947,30681,670,22002,4200,First-line supervisors of housekeeping and janitorial workers,1,68,0.003090628124715935
+Cote d'Ivoire,947,30681,670,22002,1106,Computer network architects,4,67,0.0030451777111171713
+Cote d'Ivoire,947,30681,670,22002,1650,Other life scientists,4,67,0.0030451777111171713
+Cote d'Ivoire,947,30681,670,22002,5400,Receptionists and information clerks,2,62,0.0028179256431233525
+Cote d'Ivoire,947,30681,670,22002,8300,Laundry and dry-cleaning workers,2,61,0.0027724752295245885
+Cote d'Ivoire,947,30681,670,22002,2011,"Child, family, and school social workers",2,60,0.002727024815925825
+Cote d'Ivoire,947,30681,670,22002,9825,Military enlisted tactical operations and air/weapons specialists and crew members,4,60,0.002727024815925825
+Cote d'Ivoire,947,30681,670,22002,0052,Sales managers,3,59,0.0026815744023270614
+Cote d'Ivoire,947,30681,670,22002,1360,Civil engineers,3,59,0.0026815744023270614
+Cote d'Ivoire,947,30681,670,22002,4710,First-line supervisors of non-retail sales workers,2,59,0.0026815744023270614
+Cote d'Ivoire,947,30681,670,22002,6835,"Explosives workers, ordnance handling experts, and blasters",1,59,0.0026815744023270614
+Cote d'Ivoire,947,30681,670,22002,0705,Project management specialists,3,57,0.0025906735751295338
+Cote d'Ivoire,947,30681,670,22002,1410,Electrical and electronics engineers,3,57,0.0025906735751295338
+Cote d'Ivoire,947,30681,670,22002,6410,Painters and paperhangers,2,54,0.0024543223343332426
+Cote d'Ivoire,947,30681,670,22002,9121,"Bus drivers, school",1,54,0.0024543223343332426
+Cote d'Ivoire,947,30681,670,22002,6040,"Graders and sorters, agricultural products",1,53,0.0024088719207344786
+Cote d'Ivoire,947,30681,670,22002,2632,Fashion designers,1,52,0.002363421507135715
+Cote d'Ivoire,947,30681,670,22002,4850,"Sales representatives, wholesale and manufacturing",2,52,0.002363421507135715
+Cote d'Ivoire,947,30681,670,22002,9610,Cleaners of vehicles and equipment,2,52,0.002363421507135715
+Cote d'Ivoire,947,30681,670,22002,0020,General and operations managers,4,50,0.0022725206799381874
+Cote d'Ivoire,947,30681,670,22002,1240,Other mathematical science occupations,2,50,0.0022725206799381874
+Cote d'Ivoire,947,30681,670,22002,9830,"Military, rank not specified",3,49,0.002227070266339424
+Cote d'Ivoire,947,30681,670,22002,3050,Pharmacists,2,48,0.00218161985274066
+Cote d'Ivoire,947,30681,670,22002,9640,"Packers and packagers, hand",2,48,0.00218161985274066
+Cote d'Ivoire,947,30681,670,22002,5550,Postal service mail carriers,2,47,0.0021361694391418963
+Cote d'Ivoire,947,30681,670,22002,3110,Physician assistants,1,46,0.0020907190255431323
+Cote d'Ivoire,947,30681,670,22002,9141,Shuttle drivers and chauffeurs,1,46,0.0020907190255431323
+Cote d'Ivoire,947,30681,670,22002,3160,Physical therapists,2,44,0.001999818198345605
+Cote d'Ivoire,947,30681,670,22002,8610,Stationary engineers and boiler operators,1,44,0.001999818198345605
+Cote d'Ivoire,947,30681,670,22002,2905,Other media and communication equipment workers,1,43,0.001954367784746841
+Cote d'Ivoire,947,30681,670,22002,5300,"Hotel, motel, and resort desk clerks",2,43,0.001954367784746841
+Cote d'Ivoire,947,30681,670,22002,4140,Dishwashers,2,42,0.0019089173711480775
+Cote d'Ivoire,947,30681,670,22002,5940,Other office and administrative support workers,3,42,0.0019089173711480775
+Cote d'Ivoire,947,30681,670,22002,3550,Other healthcare practitioners and technical occupations,1,41,0.0018634669575493137
+Cote d'Ivoire,947,30681,670,22002,7340,"Maintenance and repair workers, general",2,41,0.0018634669575493137
+Cote d'Ivoire,947,30681,670,22002,2145,Paralegals and legal assistants,1,40,0.00181801654395055
+Cote d'Ivoire,947,30681,670,22002,5840,Insurance claims and policy processing clerks,1,40,0.00181801654395055
+Cote d'Ivoire,947,30681,670,22002,0700,Logisticians,1,39,0.0017725661303517862
+Cote d'Ivoire,947,30681,670,22002,3802,Correctional officers and jailers,2,39,0.0017725661303517862
+Cote d'Ivoire,947,30681,670,22002,2920,"Television, video, and film camera operators and editors",2,38,0.0017271157167530224
+Cote d'Ivoire,947,30681,670,22002,5330,Loan interviewers and clerks,1,38,0.0017271157167530224
+Cote d'Ivoire,947,30681,670,22002,5710,Executive secretaries and executive administrative assistants,2,38,0.0017271157167530224
+Cote d'Ivoire,947,30681,670,22002,8800,Packaging and filling machine operators and tenders,2,38,0.0017271157167530224
+Cote d'Ivoire,947,30681,670,22002,8225,Other metal workers and plastic workers,1,37,0.0016816653031542588
+Cote d'Ivoire,947,30681,670,22002,2004,Mental health counselors,2,36,0.001636214889555495
+Cote d'Ivoire,947,30681,670,22002,2040,Clergy,2,36,0.001636214889555495
+Cote d'Ivoire,947,30681,670,22002,5260,File clerks,1,36,0.001636214889555495
+Cote d'Ivoire,947,30681,670,22002,0565,Compliance officers,2,35,0.0015907644759567312
+Cote d'Ivoire,947,30681,670,22002,3422,Psychiatric technicians,2,34,0.0015453140623579674
+Cote d'Ivoire,947,30681,670,22002,4525,Other personal appearance workers,1,34,0.0015453140623579674
+Cote d'Ivoire,947,30681,670,22002,7140,Aircraft mechanics and service technicians,1,34,0.0015453140623579674
+Cote d'Ivoire,947,30681,670,22002,6200,First-line supervisors of construction trades and extraction workers,2,33,0.0014998636487592036
+Cote d'Ivoire,947,30681,670,22002,2002,"Educational, guidance, and career counselors and advisors",2,32,0.00145441323516044
+Cote d'Ivoire,947,30681,670,22002,4040,Bartenders,1,32,0.00145441323516044
+Cote d'Ivoire,947,30681,670,22002,4240,Pest control workers,1,32,0.00145441323516044
+Cote d'Ivoire,947,30681,670,22002,7210,Bus and truck mechanics and diesel engine specialists,2,31,0.0014089628215616763
+Cote d'Ivoire,947,30681,670,22002,7240,Small engine mechanics,1,31,0.0014089628215616763
+Cote d'Ivoire,947,30681,670,22002,0750,"Business operations specialists, all other",2,30,0.0013635124079629125
+Cote d'Ivoire,947,30681,670,22002,8750,Jewelers and precious stone and metal workers,1,30,0.0013635124079629125
+Cote d'Ivoire,947,30681,670,22002,0300,Architectural and engineering managers,1,29,0.0013180619943641487
+Cote d'Ivoire,947,30681,670,22002,2752,Musicians and singers,2,29,0.0013180619943641487
+Cote d'Ivoire,947,30681,670,22002,3220,Respiratory therapists,1,29,0.0013180619943641487
+Cote d'Ivoire,947,30681,670,22002,4251,Landscaping and groundskeeping workers,2,29,0.0013180619943641487
+Cote d'Ivoire,947,30681,670,22002,1220,Operations research analysts,1,28,0.0012726115807653849
+Cote d'Ivoire,947,30681,670,22002,2012,Healthcare social workers,1,28,0.0012726115807653849
+Cote d'Ivoire,947,30681,670,22002,4640,Residential advisors,2,28,0.0012726115807653849
+Cote d'Ivoire,947,30681,670,22002,5920,Statistical assistants,1,28,0.0012726115807653849
+Cote d'Ivoire,947,30681,670,22002,2721,Athletes and sports competitors,1,27,0.0012271611671666213
+Cote d'Ivoire,947,30681,670,22002,3910,Private detectives and investigators,1,27,0.0012271611671666213
+Cote d'Ivoire,947,30681,670,22002,9122,"Bus drivers, transit and intercity",1,27,0.0012271611671666213
+Cote d'Ivoire,947,30681,670,22002,9265,Other rail transportation workers,1,27,0.0012271611671666213
+Cote d'Ivoire,947,30681,670,22002,9760,Other material moving workers,1,27,0.0012271611671666213
+Cote d'Ivoire,947,30681,670,22002,0160,"Transportation, storage, and distribution managers",2,26,0.0011817107535678575
+Cote d'Ivoire,947,30681,670,22002,4810,Insurance sales agents,1,26,0.0011817107535678575
+Cote d'Ivoire,947,30681,670,22002,9350,Parking attendants,1,23,0.0010453595127715661
+Cote d'Ivoire,947,30681,670,22002,1320,Aerospace engineers,1,22,9.999090991728026e-4
+Cote d'Ivoire,947,30681,670,22002,4750,Parts salespersons,1,22,9.999090991728026e-4
+Cote d'Ivoire,947,30681,670,22002,0410,"Property, real estate, and community association managers",2,21,9.544586855740388e-4
+Cote d'Ivoire,947,30681,670,22002,3645,Medical assistants,1,21,9.544586855740388e-4
+Cote d'Ivoire,947,30681,670,22002,5810,Data entry keyers,1,21,9.544586855740388e-4
+Cote d'Ivoire,947,30681,670,22002,6115,Fishing and hunting workers,1,21,9.544586855740388e-4
+Cote d'Ivoire,947,30681,670,22002,7800,Bakers,1,21,9.544586855740388e-4
+Cote d'Ivoire,947,30681,670,22002,8030,Machinists,2,21,9.544586855740388e-4
+Cote d'Ivoire,947,30681,670,22002,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,20,9.09008271975275e-4
+Cote d'Ivoire,947,30681,670,22002,2555,Other educational instruction and library workers,1,19,8.635578583765112e-4
+Cote d'Ivoire,947,30681,670,22002,9810,First-line enlisted military supervisors,1,19,8.635578583765112e-4
+Cote d'Ivoire,947,30681,670,22002,0735,Market research analysts and marketing specialists,1,18,8.181074447777475e-4
+Cote d'Ivoire,947,30681,670,22002,1105,Network and computer systems administrators,1,18,8.181074447777475e-4
+Cote d'Ivoire,947,30681,670,22002,3258,"Nurse practitioners, and nurse midwives",1,18,8.181074447777475e-4
+Cote d'Ivoire,947,30681,670,22002,4530,"Baggage porters, bellhops, and concierges",1,18,8.181074447777475e-4
+Cote d'Ivoire,947,30681,670,22002,0910,Credit counselors and loan officers,1,17,7.726570311789837e-4
+Cote d'Ivoire,947,30681,670,22002,0960,Other financial specialists,1,17,7.726570311789837e-4
+Cote d'Ivoire,947,30681,670,22002,5522,"Dispatchers, except police, fire, and ambulance",1,17,7.726570311789837e-4
+Cote d'Ivoire,947,30681,670,22002,0060,Public relations and fundraising managers,1,16,7.2720661758022e-4
+Cote d'Ivoire,947,30681,670,22002,1980,Occupational health and safety specialists and technicians,1,16,7.2720661758022e-4
+Cote d'Ivoire,947,30681,670,22002,2025,Other community and social service specialists,1,16,7.2720661758022e-4
+Cote d'Ivoire,947,30681,670,22002,2050,"Directors, religious activities and education",1,16,7.2720661758022e-4
+Cote d'Ivoire,947,30681,670,22002,6230,Carpenters,1,16,7.2720661758022e-4
+Cote d'Ivoire,947,30681,670,22002,6355,Electricians,1,16,7.2720661758022e-4
+Cote d'Ivoire,947,30681,670,22002,6442,"Plumbers, pipefitters, and steamfitters",1,16,7.2720661758022e-4
+Cote d'Ivoire,947,30681,670,22002,1610,Biological scientists,1,15,6.817562039814562e-4
+Cote d'Ivoire,947,30681,670,22002,2850,Writers and authors,1,15,6.817562039814562e-4
+Cote d'Ivoire,947,30681,670,22002,2862,Court reporters and simultaneous captioners,1,15,6.817562039814562e-4
+Cote d'Ivoire,947,30681,670,22002,3545,Miscellaneous health technologists and technicians,1,15,6.817562039814562e-4
+Cote d'Ivoire,947,30681,670,22002,7200,Automotive service technicians and mechanics,1,15,6.817562039814562e-4
+Cote d'Ivoire,947,30681,670,22002,8950,Helpers--production workers,1,15,6.817562039814562e-4
+Cote d'Ivoire,947,30681,670,22002,9365,Transportation service attendants,1,15,6.817562039814562e-4
+Cote d'Ivoire,947,30681,670,22002,9800,Military officer special and tactical operations leaders,1,15,6.817562039814562e-4
+Cote d'Ivoire,947,30681,670,22002,0150,Purchasing managers,1,14,6.363057903826924e-4
+Cote d'Ivoire,947,30681,670,22002,1400,Computer hardware engineers,1,14,6.363057903826924e-4
+Cote d'Ivoire,947,30681,670,22002,1745,"Environmental scientists and specialists, including health",1,14,6.363057903826924e-4
+Cote d'Ivoire,947,30681,670,22002,4965,"Sales and related workers, all other",1,14,6.363057903826924e-4
+Cote d'Ivoire,947,30681,670,22002,0220,Construction managers,1,13,5.908553767839288e-4
+Cote d'Ivoire,947,30681,670,22002,1970,"Other life, physical, and social science technicians",1,13,5.908553767839288e-4
+Cote d'Ivoire,947,30681,670,22002,7300,Control and valve installers and repairers,1,13,5.908553767839288e-4
+Cote d'Ivoire,947,30681,670,22002,7840,Food batchmakers,1,13,5.908553767839288e-4
+Cote d'Ivoire,947,30681,670,22002,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,13,5.908553767839288e-4
+Cote d'Ivoire,947,30681,670,22002,8350,"Tailors, dressmakers, and sewers",1,13,5.908553767839288e-4
+Cote d'Ivoire,947,30681,670,22002,8365,"Textile machine setters, operators, and tenders",1,13,5.908553767839288e-4
+Cote d'Ivoire,947,30681,670,22002,3090,Physicians,1,12,5.45404963185165e-4
+Cote d'Ivoire,947,30681,670,22002,4621,Exercise trainers and group fitness instructors,1,12,5.45404963185165e-4
+Cote d'Ivoire,947,30681,670,22002,7420,Telecommunications line installers and repairers,1,12,5.45404963185165e-4
+Cote d'Ivoire,947,30681,670,22002,1022,Software quality assurance analysts and testers,1,11,4.999545495864013e-4
+Cote d'Ivoire,947,30681,670,22002,8810,Painting workers,1,11,4.999545495864013e-4
+Cote d'Ivoire,947,30681,670,22002,0230,Education and childcare administrators,1,10,4.545041359876375e-4
+Cote d'Ivoire,947,30681,670,22002,3430,Dietetic technicians and ophthalmic medical technicians,1,10,4.545041359876375e-4
+Cote d'Ivoire,947,30681,670,22002,4820,"Securities, commodities, and financial services sales agents",1,10,4.545041359876375e-4
+Cote d'Ivoire,947,30681,670,22002,1065,Database administrators and architects,1,9,4.0905372238887375e-4
+Cote d'Ivoire,947,30681,670,22002,1720,Chemists and materials scientists,1,9,4.0905372238887375e-4
+Cote d'Ivoire,947,30681,670,22002,3655,Other healthcare support workers,1,9,4.0905372238887375e-4
+Cote d'Ivoire,947,30681,670,22002,0540,"Claims adjusters, appraisers, examiners, and investigators",1,8,3.6360330879011e-4
+Cote d'Ivoire,947,30681,670,22002,0140,Industrial production managers,1,7,3.181528951913462e-4
+Cote d'Ivoire,947,30681,670,22002,1350,Chemical engineers,1,6,2.727024815925825e-4
+Cote d'Ivoire,947,30681,670,22002,1200,Actuaries,1,4,1.81801654395055e-4

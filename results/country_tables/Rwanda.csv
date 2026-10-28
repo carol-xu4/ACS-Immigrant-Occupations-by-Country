@@ -1,137 +1,140 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Rwanda,679,21850,355,11774,3255,Registered nurses,15,795,0.06752165789026669
-Rwanda,679,21850,355,11774,9130,Driver/sales workers and truck drivers,17,775,0.06582299983013419
-Rwanda,679,21850,355,11774,3602,Personal care aides,14,638,0.054187192118226604
-Rwanda,679,21850,355,11774,3603,Nursing assistants,13,344,0.02921691863427892
-Rwanda,679,21850,355,11774,8740,"Inspectors, testers, sorters, samplers, and weighers",6,327,0.0277730592831663
-Rwanda,679,21850,355,11774,9640,"Packers and packagers, hand",9,310,0.02632919993205368
-Rwanda,679,21850,355,11774,4030,Food preparation workers,2,306,0.02598946832002718
-Rwanda,679,21850,355,11774,9142,Taxi drivers,5,279,0.02369627993884831
-Rwanda,679,21850,355,11774,7750,Other assemblers and fabricators,7,269,0.02284695090878206
-Rwanda,679,21850,355,11774,9645,Stockers and order fillers,6,266,0.022592152199762187
-Rwanda,679,21850,355,11774,9620,"Laborers and freight, stock, and material movers, hand",10,262,0.02225242058773569
-Rwanda,679,21850,355,11774,4230,Maids and housekeeping cleaners,7,257,0.021827756072702566
-Rwanda,679,21850,355,11774,2300,Preschool and kindergarten teachers,2,217,0.018430439952437573
-Rwanda,679,21850,355,11774,1460,Mechanical engineers,1,187,0.01588245286223883
-Rwanda,679,21850,355,11774,2360,Other teachers and instructors,6,185,0.015712587056225583
-Rwanda,679,21850,355,11774,1021,Software developers,6,175,0.014863258026159334
-Rwanda,679,21850,355,11774,5400,Receptionists and information clerks,4,167,0.014183794802106336
-Rwanda,679,21850,355,11774,4760,Retail salespersons,5,164,0.013928996093086461
-Rwanda,679,21850,355,11774,7810,"Butchers and other meat, poultry, and fish processing workers",1,162,0.013759130287073212
-Rwanda,679,21850,355,11774,0800,Accountants and auditors,3,141,0.011975539323934092
-Rwanda,679,21850,355,11774,6355,Electricians,2,132,0.01121114319687447
-Rwanda,679,21850,355,11774,5110,Billing and posting clerks,2,130,0.011041277390861219
-Rwanda,679,21850,355,11774,3930,Security guards and gaming surveillance officers,4,129,0.010956344487854595
-Rwanda,679,21850,355,11774,4140,Dishwashers,4,129,0.010956344487854595
-Rwanda,679,21850,355,11774,6260,Construction laborers,2,124,0.010531679972821471
-Rwanda,679,21850,355,11774,4010,First-line supervisors of food preparation and serving workers,2,122,0.010361814166808222
-Rwanda,679,21850,355,11774,2205,Postsecondary teachers,5,121,0.010276881263801597
-Rwanda,679,21850,355,11774,2100,"Lawyers, and judges, magistrates, and other judicial workers",2,114,0.009682350942755224
-Rwanda,679,21850,355,11774,3300,Clinical laboratory technologists and technicians,3,114,0.009682350942755224
-Rwanda,679,21850,355,11774,8990,"Miscellaneous production workers, including equipment operators and tenders",5,114,0.009682350942755224
-Rwanda,679,21850,355,11774,1530,Other engineers,4,110,0.009342619330728724
-Rwanda,679,21850,355,11774,2545,Teaching assistants,2,109,0.0092576864277221
-Rwanda,679,21850,355,11774,9150,"Motor vehicle operators, all other",2,105,0.0089179548156956
-Rwanda,679,21850,355,11774,7855,"Food processing workers, all other",3,104,0.008833021912688976
-Rwanda,679,21850,355,11774,1800,Economists,2,101,0.008578223203669102
-Rwanda,679,21850,355,11774,4252,Tree trimmers and pruners,1,96,0.008153558688635978
-Rwanda,679,21850,355,11774,0440,Other managers,11,95,0.008068625785629353
-Rwanda,679,21850,355,11774,4020,Cooks,5,90,0.007643961270596229
-Rwanda,679,21850,355,11774,2310,Elementary and middle school teachers,3,88,0.00747409546458298
-Rwanda,679,21850,355,11774,8225,Other metal workers and plastic workers,4,86,0.00730422965856973
-Rwanda,679,21850,355,11774,0230,Education and childcare administrators,3,84,0.007134363852556481
-Rwanda,679,21850,355,11774,0705,Project management specialists,2,79,0.006709699337523357
-Rwanda,679,21850,355,11774,5120,"Bookkeeping, accounting, and auditing clerks",4,79,0.006709699337523357
-Rwanda,679,21850,355,11774,5610,"Shipping, receiving, and inventory clerks",2,79,0.006709699337523357
-Rwanda,679,21850,355,11774,4622,Recreation workers,1,76,0.006454900628503482
-Rwanda,679,21850,355,11774,1108,"Computer occupations, all other",2,75,0.006369967725496858
-Rwanda,679,21850,355,11774,4055,Fast food and counter workers,5,75,0.006369967725496858
-Rwanda,679,21850,355,11774,8250,Prepress technicians and workers,1,74,0.006285034822490233
-Rwanda,679,21850,355,11774,1010,Computer programmers,1,68,0.005775437404450484
-Rwanda,679,21850,355,11774,0020,General and operations managers,2,65,0.005520638695430609
-Rwanda,679,21850,355,11774,5860,"Office clerks, general",2,64,0.005435705792423985
-Rwanda,679,21850,355,11774,0710,Management analysts,2,63,0.00535077288941736
-Rwanda,679,21850,355,11774,0205,"Farmers, ranchers, and other agricultural managers",1,62,0.005265839986410736
-Rwanda,679,21850,355,11774,9830,"Military, rank not specified",4,62,0.005265839986410736
-Rwanda,679,21850,355,11774,0630,Human resources workers,1,60,0.005095974180397486
-Rwanda,679,21850,355,11774,4110,Waiters and waitresses,3,59,0.005011041277390861
-Rwanda,679,21850,355,11774,8140,"Welding, soldering, and brazing workers",2,58,0.0049261083743842365
-Rwanda,679,21850,355,11774,1006,Computer systems analysts,2,56,0.0047562425683709865
-Rwanda,679,21850,355,11774,3655,Other healthcare support workers,2,55,0.004671309665364362
-Rwanda,679,21850,355,11774,0410,"Property, real estate, and community association managers",1,52,0.004416510956344488
-Rwanda,679,21850,355,11774,4720,Cashiers,2,52,0.004416510956344488
-Rwanda,679,21850,355,11774,9630,Machine feeders and offbearers,1,50,0.004246645150331238
-Rwanda,679,21850,355,11774,4000,Chefs and head cooks,1,49,0.004161712247324614
-Rwanda,679,21850,355,11774,7700,First-line supervisors of production and operating workers,1,49,0.004161712247324614
-Rwanda,679,21850,355,11774,0750,"Business operations specialists, all other",2,48,0.004076779344317989
-Rwanda,679,21850,355,11774,9760,Other material moving workers,1,48,0.004076779344317989
-Rwanda,679,21850,355,11774,2011,"Child, family, and school social workers",1,47,0.003991846441311364
-Rwanda,679,21850,355,11774,3330,Nuclear medicine technologists and medical dosimetrists,1,46,0.003906913538304739
-Rwanda,679,21850,355,11774,4600,Childcare workers,2,46,0.003906913538304739
-Rwanda,679,21850,355,11774,9600,Industrial truck and tractor operators,2,45,0.0038219806352981145
-Rwanda,679,21850,355,11774,3090,Physicians,2,42,0.0035671819262782403
-Rwanda,679,21850,355,11774,4965,"Sales and related workers, all other",2,42,0.0035671819262782403
-Rwanda,679,21850,355,11774,1760,"Physical scientists, all other",2,41,0.0034822490232716153
-Rwanda,679,21850,355,11774,3110,Physician assistants,1,41,0.0034822490232716153
-Rwanda,679,21850,355,11774,0051,Marketing managers,2,40,0.0033973161202649907
-Rwanda,679,21850,355,11774,2014,"Social workers, all other",3,39,0.0033123832172583657
-Rwanda,679,21850,355,11774,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",1,39,0.0033123832172583657
-Rwanda,679,21850,355,11774,8350,"Tailors, dressmakers, and sewers",1,39,0.0033123832172583657
-Rwanda,679,21850,355,11774,2350,Tutors,2,37,0.0031425174112451166
-Rwanda,679,21850,355,11774,7330,Industrial and refractory machinery mechanics,1,37,0.0031425174112451166
-Rwanda,679,21850,355,11774,0930,"Tax examiners and collectors, and revenue agents",1,36,0.0030575845082384916
-Rwanda,679,21850,355,11774,3500,Licensed practical and licensed vocational nurses,2,36,0.0030575845082384916
-Rwanda,679,21850,355,11774,4640,Residential advisors,4,36,0.0030575845082384916
-Rwanda,679,21850,355,11774,8800,Packaging and filling machine operators and tenders,1,36,0.0030575845082384916
-Rwanda,679,21850,355,11774,3421,Pharmacy technicians,4,35,0.002972651605231867
-Rwanda,679,21850,355,11774,8040,"Metal furnace operators, tenders, pourers, and casters",1,35,0.002972651605231867
-Rwanda,679,21850,355,11774,5850,"Mail clerks and mail machine operators, except postal service",3,34,0.002887718702225242
-Rwanda,679,21850,355,11774,9122,"Bus drivers, transit and intercity",1,34,0.002887718702225242
-Rwanda,679,21850,355,11774,0520,"Wholesale and retail buyers, except farm products",1,31,0.002632919993205368
-Rwanda,679,21850,355,11774,2320,Secondary school teachers,2,31,0.002632919993205368
-Rwanda,679,21850,355,11774,5000,First-line supervisors of office and administrative support workers,2,31,0.002632919993205368
-Rwanda,679,21850,355,11774,0420,Social and community service managers,1,30,0.002547987090198743
-Rwanda,679,21850,355,11774,3610,Occupational therapy assistants and aides,1,30,0.002547987090198743
-Rwanda,679,21850,355,11774,4220,Janitors and building cleaners,3,30,0.002547987090198743
-Rwanda,679,21850,355,11774,2636,Merchandise displayers and window trimmers,1,28,0.0023781212841854932
-Rwanda,679,21850,355,11774,2722,Coaches and scouts,1,28,0.0023781212841854932
-Rwanda,679,21850,355,11774,5510,Couriers and messengers,1,28,0.0023781212841854932
-Rwanda,679,21850,355,11774,0565,Compliance officers,1,27,0.0022931883811788687
-Rwanda,679,21850,355,11774,0960,Other financial specialists,1,26,0.002208255478172244
-Rwanda,679,21850,355,11774,9610,Cleaners of vehicles and equipment,1,26,0.002208255478172244
-Rwanda,679,21850,355,11774,2012,Healthcare social workers,1,25,0.002123322575165619
-Rwanda,679,21850,355,11774,3422,Psychiatric technicians,1,23,0.0019534567691523695
-Rwanda,679,21850,355,11774,7000,"First-line supervisors of mechanics, installers, and repairers",1,22,0.001868523866145745
-Rwanda,679,21850,355,11774,1050,Computer support specialists,1,21,0.0017835909631391202
-Rwanda,679,21850,355,11774,0120,Financial managers,2,20,0.0016986580601324954
-Rwanda,679,21850,355,11774,2640,Other designers,1,20,0.0016986580601324954
-Rwanda,679,21850,355,11774,0850,Personal financial advisors,1,19,0.0016137251571258706
-Rwanda,679,21850,355,11774,2435,Librarians and media collections specialists,1,19,0.0016137251571258706
-Rwanda,679,21850,355,11774,3515,Medical records specialists,1,18,0.0015287922541192458
-Rwanda,679,21850,355,11774,4540,Tour and travel guides,2,18,0.0015287922541192458
-Rwanda,679,21850,355,11774,0540,"Claims adjusters, appraisers, examiners, and investigators",1,17,0.001443859351112621
-Rwanda,679,21850,355,11774,1105,Network and computer systems administrators,2,16,0.0013589264481059962
-Rwanda,679,21850,355,11774,1240,Other mathematical science occupations,1,16,0.0013589264481059962
-Rwanda,679,21850,355,11774,1305,"Architects, except landscape and naval",1,16,0.0013589264481059962
-Rwanda,679,21850,355,11774,3000,Chiropractors,1,16,0.0013589264481059962
-Rwanda,679,21850,355,11774,0140,Industrial production managers,1,15,0.0012739935450993714
-Rwanda,679,21850,355,11774,3645,Medical assistants,2,15,0.0012739935450993714
-Rwanda,679,21850,355,11774,2861,Interpreters and translators,1,14,0.0011890606420927466
-Rwanda,679,21850,355,11774,3870,Police officers,1,14,0.0011890606420927466
-Rwanda,679,21850,355,11774,4710,First-line supervisors of non-retail sales workers,2,14,0.0011890606420927466
-Rwanda,679,21850,355,11774,0010,Chief executives and legislators,1,13,0.001104127739086122
-Rwanda,679,21850,355,11774,2016,Social and human service assistants,1,13,0.001104127739086122
-Rwanda,679,21850,355,11774,2040,Clergy,1,13,0.001104127739086122
-Rwanda,679,21850,355,11774,4655,"Personal care and service workers, all other",1,11,9.342619330728725e-4
-Rwanda,679,21850,355,11774,5740,"Secretaries and administrative assistants, except legal, medical, and executive",1,11,9.342619330728725e-4
-Rwanda,679,21850,355,11774,1970,"Other life, physical, and social science technicians",1,9,7.643961270596229e-4
-Rwanda,679,21850,355,11774,2015,Probation officers and correctional treatment specialists,1,9,7.643961270596229e-4
-Rwanda,679,21850,355,11774,2145,Paralegals and legal assistants,1,9,7.643961270596229e-4
-Rwanda,679,21850,355,11774,4130,Dining room and cafeteria attendants and bartender helpers,1,8,6.794632240529981e-4
-Rwanda,679,21850,355,11774,4920,Real estate brokers and sales agents,1,8,6.794632240529981e-4
-Rwanda,679,21850,355,11774,0650,Training and development specialists,1,7,5.945303210463733e-4
-Rwanda,679,21850,355,11774,7720,"Electrical, electronics, and electromechanical assemblers",1,6,5.095974180397486e-4
-Rwanda,679,21850,355,11774,5320,"Library assistants, clerical",1,4,3.3973161202649905e-4
-Rwanda,679,21850,355,11774,4510,"Hairdressers, hairstylists, and cosmetologists",1,2,1.6986580601324953e-4
-Rwanda,679,21850,355,11774,6050,Other agricultural workers,1,2,1.6986580601324953e-4
-Rwanda,679,21850,355,11774,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,2,1.6986580601324953e-4
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Rwanda,679,21850,369,12045,3255,Registered nurses,17,804,0.06674968866749689
+Rwanda,679,21850,369,12045,9130,Driver/sales workers and truck drivers,17,775,0.06434205064342051
+Rwanda,679,21850,369,12045,3602,Personal care aides,14,638,0.052968036529680365
+Rwanda,679,21850,369,12045,4030,Food preparation workers,3,353,0.029306766293067662
+Rwanda,679,21850,369,12045,3603,Nursing assistants,13,344,0.028559568285595683
+Rwanda,679,21850,369,12045,8740,"Inspectors, testers, sorters, samplers, and weighers",6,327,0.02714819427148194
+Rwanda,679,21850,369,12045,9640,"Packers and packagers, hand",9,310,0.025736820257368204
+Rwanda,679,21850,369,12045,4230,Maids and housekeeping cleaners,8,281,0.023329182233291824
+Rwanda,679,21850,369,12045,9142,Taxi drivers,5,279,0.023163138231631384
+Rwanda,679,21850,369,12045,7750,Other assemblers and fabricators,7,269,0.022332918223329182
+Rwanda,679,21850,369,12045,9645,Stockers and order fillers,6,266,0.022083852220838522
+Rwanda,679,21850,369,12045,9620,"Laborers and freight, stock, and material movers, hand",10,262,0.021751764217517643
+Rwanda,679,21850,369,12045,2300,Preschool and kindergarten teachers,2,217,0.01801577418015774
+Rwanda,679,21850,369,12045,1460,Mechanical engineers,1,187,0.015525114155251141
+Rwanda,679,21850,369,12045,2360,Other teachers and instructors,6,185,0.015359070153590702
+Rwanda,679,21850,369,12045,1021,Software developers,6,175,0.014528850145288501
+Rwanda,679,21850,369,12045,5400,Receptionists and information clerks,4,167,0.013864674138646742
+Rwanda,679,21850,369,12045,4760,Retail salespersons,5,164,0.01361560813615608
+Rwanda,679,21850,369,12045,7810,"Butchers and other meat, poultry, and fish processing workers",1,162,0.013449564134495641
+Rwanda,679,21850,369,12045,0800,Accountants and auditors,3,141,0.011706102117061022
+Rwanda,679,21850,369,12045,0440,Other managers,12,134,0.011124948111249481
+Rwanda,679,21850,369,12045,6355,Electricians,2,132,0.010958904109589041
+Rwanda,679,21850,369,12045,5110,Billing and posting clerks,2,130,0.010792860107928601
+Rwanda,679,21850,369,12045,3930,Security guards and gaming surveillance officers,4,129,0.010709838107098382
+Rwanda,679,21850,369,12045,4140,Dishwashers,4,129,0.010709838107098382
+Rwanda,679,21850,369,12045,6260,Construction laborers,2,124,0.01029472810294728
+Rwanda,679,21850,369,12045,4010,First-line supervisors of food preparation and serving workers,2,122,0.01012868410128684
+Rwanda,679,21850,369,12045,2205,Postsecondary teachers,5,121,0.01004566210045662
+Rwanda,679,21850,369,12045,2100,"Lawyers, and judges, magistrates, and other judicial workers",2,114,0.009464508094645082
+Rwanda,679,21850,369,12045,3300,Clinical laboratory technologists and technicians,3,114,0.009464508094645082
+Rwanda,679,21850,369,12045,4020,Cooks,6,114,0.009464508094645082
+Rwanda,679,21850,369,12045,8990,"Miscellaneous production workers, including equipment operators and tenders",5,114,0.009464508094645082
+Rwanda,679,21850,369,12045,1530,Other engineers,4,110,0.0091324200913242
+Rwanda,679,21850,369,12045,2545,Teaching assistants,2,109,0.00904939809049398
+Rwanda,679,21850,369,12045,9150,"Motor vehicle operators, all other",2,105,0.008717310087173101
+Rwanda,679,21850,369,12045,7855,"Food processing workers, all other",3,104,0.008634288086342881
+Rwanda,679,21850,369,12045,1800,Economists,2,101,0.008385222083852222
+Rwanda,679,21850,369,12045,4110,Waiters and waitresses,4,100,0.008302200083022002
+Rwanda,679,21850,369,12045,5610,"Shipping, receiving, and inventory clerks",3,97,0.00805313408053134
+Rwanda,679,21850,369,12045,4252,Tree trimmers and pruners,1,96,0.00797011207970112
+Rwanda,679,21850,369,12045,2310,Elementary and middle school teachers,3,88,0.0073059360730593605
+Rwanda,679,21850,369,12045,8225,Other metal workers and plastic workers,4,86,0.007139892071398921
+Rwanda,679,21850,369,12045,4055,Fast food and counter workers,6,85,0.007056870070568701
+Rwanda,679,21850,369,12045,0230,Education and childcare administrators,3,84,0.006973848069738481
+Rwanda,679,21850,369,12045,0705,Project management specialists,2,79,0.006558738065587381
+Rwanda,679,21850,369,12045,5120,"Bookkeeping, accounting, and auditing clerks",4,79,0.006558738065587381
+Rwanda,679,21850,369,12045,4622,Recreation workers,1,76,0.00630967206309672
+Rwanda,679,21850,369,12045,1108,"Computer occupations, all other",2,75,0.0062266500622665
+Rwanda,679,21850,369,12045,8250,Prepress technicians and workers,1,74,0.0061436280614362805
+Rwanda,679,21850,369,12045,1010,Computer programmers,1,68,0.00564549605645496
+Rwanda,679,21850,369,12045,0020,General and operations managers,2,65,0.005396430053964301
+Rwanda,679,21850,369,12045,5860,"Office clerks, general",2,64,0.005313408053134081
+Rwanda,679,21850,369,12045,0710,Management analysts,2,63,0.00523038605230386
+Rwanda,679,21850,369,12045,0205,"Farmers, ranchers, and other agricultural managers",1,62,0.00514736405147364
+Rwanda,679,21850,369,12045,9830,"Military, rank not specified",4,62,0.00514736405147364
+Rwanda,679,21850,369,12045,0630,Human resources workers,1,60,0.0049813200498132005
+Rwanda,679,21850,369,12045,8140,"Welding, soldering, and brazing workers",2,58,0.004815276048152761
+Rwanda,679,21850,369,12045,1006,Computer systems analysts,2,56,0.00464923204649232
+Rwanda,679,21850,369,12045,3655,Other healthcare support workers,2,55,0.0045662100456621
+Rwanda,679,21850,369,12045,0410,"Property, real estate, and community association managers",1,52,0.004317144043171441
+Rwanda,679,21850,369,12045,4720,Cashiers,2,52,0.004317144043171441
+Rwanda,679,21850,369,12045,9630,Machine feeders and offbearers,1,50,0.004151100041511001
+Rwanda,679,21850,369,12045,4000,Chefs and head cooks,1,49,0.00406807804068078
+Rwanda,679,21850,369,12045,7700,First-line supervisors of production and operating workers,1,49,0.00406807804068078
+Rwanda,679,21850,369,12045,0750,"Business operations specialists, all other",2,48,0.00398505603985056
+Rwanda,679,21850,369,12045,9760,Other material moving workers,1,48,0.00398505603985056
+Rwanda,679,21850,369,12045,2011,"Child, family, and school social workers",1,47,0.0039020340390203403
+Rwanda,679,21850,369,12045,3330,Nuclear medicine technologists and medical dosimetrists,1,46,0.0038190120381901204
+Rwanda,679,21850,369,12045,4600,Childcare workers,2,46,0.0038190120381901204
+Rwanda,679,21850,369,12045,9600,Industrial truck and tractor operators,2,45,0.0037359900373599006
+Rwanda,679,21850,369,12045,3090,Physicians,2,42,0.0034869240348692405
+Rwanda,679,21850,369,12045,4965,"Sales and related workers, all other",2,42,0.0034869240348692405
+Rwanda,679,21850,369,12045,1760,"Physical scientists, all other",2,41,0.00340390203403902
+Rwanda,679,21850,369,12045,3110,Physician assistants,1,41,0.00340390203403902
+Rwanda,679,21850,369,12045,0051,Marketing managers,2,40,0.0033208800332088003
+Rwanda,679,21850,369,12045,2320,Secondary school teachers,3,40,0.0033208800332088003
+Rwanda,679,21850,369,12045,2014,"Social workers, all other",3,39,0.0032378580323785804
+Rwanda,679,21850,369,12045,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",1,39,0.0032378580323785804
+Rwanda,679,21850,369,12045,8350,"Tailors, dressmakers, and sewers",1,39,0.0032378580323785804
+Rwanda,679,21850,369,12045,2350,Tutors,2,37,0.0030718140307181402
+Rwanda,679,21850,369,12045,7330,Industrial and refractory machinery mechanics,1,37,0.0030718140307181402
+Rwanda,679,21850,369,12045,0930,"Tax examiners and collectors, and revenue agents",1,36,0.0029887920298879204
+Rwanda,679,21850,369,12045,3500,Licensed practical and licensed vocational nurses,2,36,0.0029887920298879204
+Rwanda,679,21850,369,12045,4640,Residential advisors,4,36,0.0029887920298879204
+Rwanda,679,21850,369,12045,8800,Packaging and filling machine operators and tenders,1,36,0.0029887920298879204
+Rwanda,679,21850,369,12045,3421,Pharmacy technicians,4,35,0.0029057700290577005
+Rwanda,679,21850,369,12045,8040,"Metal furnace operators, tenders, pourers, and casters",1,35,0.0029057700290577005
+Rwanda,679,21850,369,12045,5850,"Mail clerks and mail machine operators, except postal service",3,34,0.00282274802822748
+Rwanda,679,21850,369,12045,9122,"Bus drivers, transit and intercity",1,34,0.00282274802822748
+Rwanda,679,21850,369,12045,0520,"Wholesale and retail buyers, except farm products",1,31,0.00257368202573682
+Rwanda,679,21850,369,12045,5000,First-line supervisors of office and administrative support workers,2,31,0.00257368202573682
+Rwanda,679,21850,369,12045,0420,Social and community service managers,1,30,0.0024906600249066002
+Rwanda,679,21850,369,12045,3610,Occupational therapy assistants and aides,1,30,0.0024906600249066002
+Rwanda,679,21850,369,12045,4220,Janitors and building cleaners,3,30,0.0024906600249066002
+Rwanda,679,21850,369,12045,2636,Merchandise displayers and window trimmers,1,28,0.00232461602324616
+Rwanda,679,21850,369,12045,2722,Coaches and scouts,1,28,0.00232461602324616
+Rwanda,679,21850,369,12045,5510,Couriers and messengers,1,28,0.00232461602324616
+Rwanda,679,21850,369,12045,0565,Compliance officers,1,27,0.00224159402241594
+Rwanda,679,21850,369,12045,0960,Other financial specialists,1,26,0.0021585720215857203
+Rwanda,679,21850,369,12045,2145,Paralegals and legal assistants,2,26,0.0021585720215857203
+Rwanda,679,21850,369,12045,9610,Cleaners of vehicles and equipment,1,26,0.0021585720215857203
+Rwanda,679,21850,369,12045,2012,Healthcare social workers,1,25,0.0020755500207555004
+Rwanda,679,21850,369,12045,3422,Psychiatric technicians,1,23,0.0019095060190950602
+Rwanda,679,21850,369,12045,7000,"First-line supervisors of mechanics, installers, and repairers",1,22,0.0018264840182648401
+Rwanda,679,21850,369,12045,1050,Computer support specialists,1,21,0.0017434620174346202
+Rwanda,679,21850,369,12045,0120,Financial managers,2,20,0.0016604400166044002
+Rwanda,679,21850,369,12045,2640,Other designers,1,20,0.0016604400166044002
+Rwanda,679,21850,369,12045,0850,Personal financial advisors,1,19,0.00157741801577418
+Rwanda,679,21850,369,12045,2435,Librarians and media collections specialists,1,19,0.00157741801577418
+Rwanda,679,21850,369,12045,3515,Medical records specialists,1,18,0.0014943960149439602
+Rwanda,679,21850,369,12045,4540,Tour and travel guides,2,18,0.0014943960149439602
+Rwanda,679,21850,369,12045,0540,"Claims adjusters, appraisers, examiners, and investigators",1,17,0.00141137401411374
+Rwanda,679,21850,369,12045,1105,Network and computer systems administrators,2,16,0.0013283520132835202
+Rwanda,679,21850,369,12045,1240,Other mathematical science occupations,1,16,0.0013283520132835202
+Rwanda,679,21850,369,12045,1305,"Architects, except landscape and naval",1,16,0.0013283520132835202
+Rwanda,679,21850,369,12045,3000,Chiropractors,1,16,0.0013283520132835202
+Rwanda,679,21850,369,12045,0140,Industrial production managers,1,15,0.0012453300124533001
+Rwanda,679,21850,369,12045,3645,Medical assistants,2,15,0.0012453300124533001
+Rwanda,679,21850,369,12045,4120,"Food servers, nonrestaurant",1,15,0.0012453300124533001
+Rwanda,679,21850,369,12045,2006,"Counselors, all other",1,14,0.00116230801162308
+Rwanda,679,21850,369,12045,2861,Interpreters and translators,1,14,0.00116230801162308
+Rwanda,679,21850,369,12045,3870,Police officers,1,14,0.00116230801162308
+Rwanda,679,21850,369,12045,4710,First-line supervisors of non-retail sales workers,2,14,0.00116230801162308
+Rwanda,679,21850,369,12045,0010,Chief executives and legislators,1,13,0.0010792860107928601
+Rwanda,679,21850,369,12045,2016,Social and human service assistants,1,13,0.0010792860107928601
+Rwanda,679,21850,369,12045,2040,Clergy,1,13,0.0010792860107928601
+Rwanda,679,21850,369,12045,4655,"Personal care and service workers, all other",1,11,9.132420091324201e-4
+Rwanda,679,21850,369,12045,5740,"Secretaries and administrative assistants, except legal, medical, and executive",1,11,9.132420091324201e-4
+Rwanda,679,21850,369,12045,1970,"Other life, physical, and social science technicians",1,9,7.471980074719801e-4
+Rwanda,679,21850,369,12045,2015,Probation officers and correctional treatment specialists,1,9,7.471980074719801e-4
+Rwanda,679,21850,369,12045,4130,Dining room and cafeteria attendants and bartender helpers,1,8,6.641760066417601e-4
+Rwanda,679,21850,369,12045,4920,Real estate brokers and sales agents,1,8,6.641760066417601e-4
+Rwanda,679,21850,369,12045,0650,Training and development specialists,1,7,5.8115400581154e-4
+Rwanda,679,21850,369,12045,7720,"Electrical, electronics, and electromechanical assemblers",1,6,4.9813200498132e-4
+Rwanda,679,21850,369,12045,4251,Landscaping and groundskeeping workers,1,4,3.3208800332088005e-4
+Rwanda,679,21850,369,12045,5320,"Library assistants, clerical",1,4,3.3208800332088005e-4
+Rwanda,679,21850,369,12045,4510,"Hairdressers, hairstylists, and cosmetologists",1,2,1.6604400166044003e-4
+Rwanda,679,21850,369,12045,6050,Other agricultural workers,1,2,1.6604400166044003e-4
+Rwanda,679,21850,369,12045,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,2,1.6604400166044003e-4

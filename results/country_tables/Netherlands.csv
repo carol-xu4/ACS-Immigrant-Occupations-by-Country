@@ -1,295 +1,319 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Netherlands,4647,80521,1732,33393,0440,Other managers,125,2435,0.07291947414128709
-Netherlands,4647,80521,1732,33393,1021,Software developers,62,1456,0.04360195250501602
-Netherlands,4647,80521,1732,33393,2205,Postsecondary teachers,75,1313,0.03931961788398766
-Netherlands,4647,80521,1732,33393,0010,Chief executives and legislators,56,1002,0.030006288743149763
-Netherlands,4647,80521,1732,33393,0120,Financial managers,37,986,0.029527146407929805
-Netherlands,4647,80521,1732,33393,4700,First-line supervisors of retail sales workers,26,575,0.01721917767196718
-Netherlands,4647,80521,1732,33393,4710,First-line supervisors of non-retail sales workers,22,532,0.015931482646063547
-Netherlands,4647,80521,1732,33393,1760,"Physical scientists, all other",24,528,0.015811697062258556
-Netherlands,4647,80521,1732,33393,0020,General and operations managers,26,511,0.015302608331087354
-Netherlands,4647,80521,1732,33393,3160,Physical therapists,29,505,0.01512292995537987
-Netherlands,4647,80521,1732,33393,0710,Management analysts,28,492,0.014733626808013656
-Netherlands,4647,80521,1732,33393,0052,Sales managers,17,453,0.013565717365915012
-Netherlands,4647,80521,1732,33393,4760,Retail salespersons,24,428,0.01281705746713383
-Netherlands,4647,80521,1732,33393,3255,Registered nurses,25,427,0.012787111071182583
-Netherlands,4647,80521,1732,33393,1530,Other engineers,18,421,0.0126074326954751
-Netherlands,4647,80521,1732,33393,0705,Project management specialists,17,415,0.012427754319767616
-Netherlands,4647,80521,1732,33393,9130,Driver/sales workers and truck drivers,16,397,0.011888719192645164
-Netherlands,4647,80521,1732,33393,5240,Customer service representatives,20,379,0.011349684065522714
-Netherlands,4647,80521,1732,33393,0800,Accountants and auditors,15,376,0.011259844877668972
-Netherlands,4647,80521,1732,33393,0205,"Farmers, ranchers, and other agricultural managers",22,366,0.0109603809181565
-Netherlands,4647,80521,1732,33393,2310,Elementary and middle school teachers,19,354,0.010601024166741533
-Netherlands,4647,80521,1732,33393,4850,"Sales representatives, wholesale and manufacturing",14,351,0.01051118497888779
-Netherlands,4647,80521,1732,33393,5740,"Secretaries and administrative assistants, except legal, medical, and executive",19,351,0.01051118497888779
-Netherlands,4647,80521,1732,33393,5000,First-line supervisors of office and administrative support workers,8,338,0.010121881831521577
-Netherlands,4647,80521,1732,33393,0110,Computer and information systems managers,20,334,0.010002096247716587
-Netherlands,4647,80521,1732,33393,2545,Teaching assistants,17,330,0.009882310663911598
-Netherlands,4647,80521,1732,33393,2360,Other teachers and instructors,16,328,0.009822417872009104
-Netherlands,4647,80521,1732,33393,5120,"Bookkeeping, accounting, and auditing clerks",16,325,0.009732578684155361
-Netherlands,4647,80521,1732,33393,2100,"Lawyers, and judges, magistrates, and other judicial workers",22,311,0.0093133291408379
-Netherlands,4647,80521,1732,33393,1108,"Computer occupations, all other",10,281,0.008414937262300482
-Netherlands,4647,80521,1732,33393,0051,Marketing managers,17,276,0.008265205282544246
-Netherlands,4647,80521,1732,33393,1006,Computer systems analysts,13,258,0.007726170155421795
-Netherlands,4647,80521,1732,33393,0420,Social and community service managers,11,252,0.007546491779714311
-Netherlands,4647,80521,1732,33393,4600,Childcare workers,9,244,0.007306920612104333
-Netherlands,4647,80521,1732,33393,2722,Coaches and scouts,8,235,0.007037403048543108
-Netherlands,4647,80521,1732,33393,1360,Civil engineers,12,228,0.006827778276884377
-Netherlands,4647,80521,1732,33393,0230,Education and childcare administrators,11,217,0.006498367921420657
-Netherlands,4647,80521,1732,33393,4920,Real estate brokers and sales agents,11,215,0.006438475129518163
-Netherlands,4647,80521,1732,33393,4110,Waiters and waitresses,11,213,0.006378582337615668
-Netherlands,4647,80521,1732,33393,2320,Secondary school teachers,10,206,0.006168957565956937
-Netherlands,4647,80521,1732,33393,0220,Construction managers,13,201,0.0060192255862007
-Netherlands,4647,80521,1732,33393,9030,Aircraft pilots and flight engineers,14,201,0.0060192255862007
-Netherlands,4647,80521,1732,33393,5710,Executive secretaries and executive administrative assistants,11,199,0.0059593327942982065
-Netherlands,4647,80521,1732,33393,1430,"Industrial engineers, including health and safety",7,193,0.005779654418590722
-Netherlands,4647,80521,1732,33393,3090,Physicians,12,191,0.005719761626688228
-Netherlands,4647,80521,1732,33393,0350,Medical and health services managers,11,183,0.00548019045907825
-Netherlands,4647,80521,1732,33393,1240,Other mathematical science occupations,9,183,0.00548019045907825
-Netherlands,4647,80521,1732,33393,0300,Architectural and engineering managers,12,180,0.005390351271224508
-Netherlands,4647,80521,1732,33393,2640,Other designers,6,179,0.005360404875273261
-Netherlands,4647,80521,1732,33393,1650,Other life scientists,8,178,0.005330458479322013
-Netherlands,4647,80521,1732,33393,1825,Other psychologists,6,167,0.0050010481238582935
-Netherlands,4647,80521,1732,33393,8740,"Inspectors, testers, sorters, samplers, and weighers",4,167,0.0050010481238582935
-Netherlands,4647,80521,1732,33393,0750,"Business operations specialists, all other",9,165,0.004941155331955799
-Netherlands,4647,80521,1732,33393,5860,"Office clerks, general",7,163,0.004881262540053305
-Netherlands,4647,80521,1732,33393,8320,Sewing machine operators,1,159,0.0047614769562483155
-Netherlands,4647,80521,1732,33393,0410,"Property, real estate, and community association managers",12,156,0.004671637768394574
-Netherlands,4647,80521,1732,33393,1050,Computer support specialists,13,156,0.004671637768394574
-Netherlands,4647,80521,1732,33393,2006,"Counselors, all other",5,143,0.0042823346210283594
-Netherlands,4647,80521,1732,33393,4720,Cashiers,7,141,0.004222441829125865
-Netherlands,4647,80521,1732,33393,0630,Human resources workers,9,139,0.00416254903722337
-Netherlands,4647,80521,1732,33393,5940,Other office and administrative support workers,7,138,0.004132602641272123
-Netherlands,4647,80521,1732,33393,1305,"Architects, except landscape and naval",8,137,0.004102656245320875
-Netherlands,4647,80521,1732,33393,3602,Personal care aides,9,136,0.004072709849369628
-Netherlands,4647,80521,1732,33393,1007,Information security analysts,6,135,0.004042763453418381
-Netherlands,4647,80521,1732,33393,2633,Floral designers,1,131,0.003922977869613392
-Netherlands,4647,80521,1732,33393,6260,Construction laborers,6,131,0.003922977869613392
-Netherlands,4647,80521,1732,33393,7750,Other assemblers and fabricators,3,127,0.003803192285808403
-Netherlands,4647,80521,1732,33393,0340,Lodging managers,7,126,0.0037732458898571556
-Netherlands,4647,80521,1732,33393,9620,"Laborers and freight, stock, and material movers, hand",6,123,0.003683406702003414
-Netherlands,4647,80521,1732,33393,0845,Financial and investment analysts,7,122,0.0036534603060521666
-Netherlands,4647,80521,1732,33393,2600,Artists and related workers,8,122,0.0036534603060521666
-Netherlands,4647,80521,1732,33393,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",9,122,0.0036534603060521666
-Netherlands,4647,80521,1732,33393,0910,Credit counselors and loan officers,7,121,0.003623513910100919
-Netherlands,4647,80521,1732,33393,4030,Food preparation workers,5,120,0.0035935675141496723
-Netherlands,4647,80521,1732,33393,1410,Electrical and electronics engineers,8,119,0.003563621118198425
-Netherlands,4647,80521,1732,33393,1031,Web developers,2,117,0.00350372832629593
-Netherlands,4647,80521,1732,33393,2300,Preschool and kindergarten teachers,6,117,0.00350372832629593
-Netherlands,4647,80521,1732,33393,1800,Economists,4,116,0.003473781930344683
-Netherlands,4647,80521,1732,33393,9830,"Military, rank not specified",3,115,0.003443835534393436
-Netherlands,4647,80521,1732,33393,1970,"Other life, physical, and social science technicians",4,113,0.003383942742490941
-Netherlands,4647,80521,1732,33393,3930,Security guards and gaming surveillance officers,6,104,0.0031144251789297158
-Netherlands,4647,80521,1732,33393,4220,Janitors and building cleaners,6,104,0.0031144251789297158
-Netherlands,4647,80521,1732,33393,7000,"First-line supervisors of mechanics, installers, and repairers",6,99,0.0029646931991734794
-Netherlands,4647,80521,1732,33393,2861,Interpreters and translators,8,98,0.002934746803222232
-Netherlands,4647,80521,1732,33393,7700,First-line supervisors of production and operating workers,6,98,0.002934746803222232
-Netherlands,4647,80521,1732,33393,6200,First-line supervisors of construction trades and extraction workers,5,97,0.002904800407270985
-Netherlands,4647,80521,1732,33393,1010,Computer programmers,5,96,0.0028748540113197377
-Netherlands,4647,80521,1732,33393,8990,"Miscellaneous production workers, including equipment operators and tenders",3,95,0.0028449076153684904
-Netherlands,4647,80521,1732,33393,0520,"Wholesale and retail buyers, except farm products",4,91,0.0027251220315635013
-Netherlands,4647,80521,1732,33393,2920,"Television, video, and film camera operators and editors",4,89,0.0026652292396610066
-Netherlands,4647,80521,1732,33393,7200,Automotive service technicians and mechanics,7,88,0.0026352828437097597
-Netherlands,4647,80521,1732,33393,0735,Market research analysts and marketing specialists,6,87,0.0026053364477585123
-Netherlands,4647,80521,1732,33393,5165,Other financial clerks,5,87,0.0026053364477585123
-Netherlands,4647,80521,1732,33393,6050,Other agricultural workers,6,87,0.0026053364477585123
-Netherlands,4647,80521,1732,33393,0136,Human resources managers,5,82,0.002455604468002276
-Netherlands,4647,80521,1732,33393,4810,Insurance sales agents,3,82,0.002455604468002276
-Netherlands,4647,80521,1732,33393,0530,"Purchasing agents, except wholesale, retail, and farm products",2,81,0.0024256580720510286
-Netherlands,4647,80521,1732,33393,1065,Database administrators and architects,5,81,0.0024256580720510286
-Netherlands,4647,80521,1732,33393,3870,Police officers,4,80,0.0023957116760997812
-Netherlands,4647,80521,1732,33393,6230,Carpenters,5,80,0.0023957116760997812
-Netherlands,4647,80521,1732,33393,3603,Nursing assistants,3,79,0.0023657652801485343
-Netherlands,4647,80521,1732,33393,1520,"Petroleum, mining and geological engineers, including mining safety engineers",2,76,0.002275926092294792
-Netherlands,4647,80521,1732,33393,4522,Skincare specialists,3,74,0.002216033300392298
-Netherlands,4647,80521,1732,33393,2830,Editors,4,73,0.0021860869044410505
-Netherlands,4647,80521,1732,33393,4965,"Sales and related workers, all other",5,73,0.0021860869044410505
-Netherlands,4647,80521,1732,33393,7020,Radio and telecommunications equipment installers and repairers,4,73,0.0021860869044410505
-Netherlands,4647,80521,1732,33393,7330,Industrial and refractory machinery mechanics,4,72,0.002156140508489803
-Netherlands,4647,80521,1732,33393,3630,Massage therapists,4,71,0.002126194112538556
-Netherlands,4647,80521,1732,33393,4820,"Securities, commodities, and financial services sales agents",6,71,0.002126194112538556
-Netherlands,4647,80521,1732,33393,1460,Mechanical engineers,5,70,0.002096247716587309
-Netherlands,4647,80521,1732,33393,4510,"Hairdressers, hairstylists, and cosmetologists",5,69,0.0020663013206360615
-Netherlands,4647,80521,1732,33393,2810,"News analysts, reporters, and journalists",3,68,0.002036354924684814
-Netherlands,4647,80521,1732,33393,3323,Radiologic technologists and technicians,1,68,0.002036354924684814
-Netherlands,4647,80521,1732,33393,2850,Writers and authors,1,66,0.0019764621327823194
-Netherlands,4647,80521,1732,33393,2910,Photographers,6,65,0.0019465157368310723
-Netherlands,4647,80521,1732,33393,4435,Other entertainment attendants and related workers,2,65,0.0019465157368310723
-Netherlands,4647,80521,1732,33393,5110,Billing and posting clerks,3,65,0.0019465157368310723
-Netherlands,4647,80521,1732,33393,0310,Food service managers,5,64,0.0019165693408798251
-Netherlands,4647,80521,1732,33393,3740,Firefighters,2,61,0.0018267301530260833
-Netherlands,4647,80521,1732,33393,2002,"Educational, guidance, and career counselors and advisors",5,60,0.0017967837570748361
-Netherlands,4647,80521,1732,33393,2004,Mental health counselors,2,60,0.0017967837570748361
-Netherlands,4647,80521,1732,33393,7240,Small engine mechanics,2,60,0.0017967837570748361
-Netherlands,4647,80521,1732,33393,9300,"Sailors and marine oilers, and ship engineers",5,60,0.0017967837570748361
-Netherlands,4647,80521,1732,33393,0140,Industrial production managers,5,59,0.0017668373611235888
-Netherlands,4647,80521,1732,33393,1860,Other social scientists,3,59,0.0017668373611235888
-Netherlands,4647,80521,1732,33393,2710,Producers and directors,5,58,0.0017368909651723414
-Netherlands,4647,80521,1732,33393,3402,Paramedics,3,57,0.0017069445692210943
-Netherlands,4647,80521,1732,33393,7340,"Maintenance and repair workers, general",4,57,0.0017069445692210943
-Netherlands,4647,80521,1732,33393,9415,Passenger attendants,1,57,0.0017069445692210943
-Netherlands,4647,80521,1732,33393,2040,Clergy,3,56,0.001676998173269847
-Netherlands,4647,80521,1732,33393,0160,"Transportation, storage, and distribution managers",4,55,0.0016470517773185997
-Netherlands,4647,80521,1732,33393,8255,Printing press operators,2,55,0.0016470517773185997
-Netherlands,4647,80521,1732,33393,9810,First-line enlisted military supervisors,1,55,0.0016470517773185997
-Netherlands,4647,80521,1732,33393,1350,Chemical engineers,4,54,0.0016171053813673524
-Netherlands,4647,80521,1732,33393,2400,"Archivists, curators, and museum technicians",2,54,0.0016171053813673524
-Netherlands,4647,80521,1732,33393,7315,"Heating, air conditioning, and refrigeration mechanics and installers",3,54,0.0016171053813673524
-Netherlands,4647,80521,1732,33393,0850,Personal financial advisors,3,53,0.0015871589854161052
-Netherlands,4647,80521,1732,33393,4010,First-line supervisors of food preparation and serving workers,4,53,0.0015871589854161052
-Netherlands,4647,80521,1732,33393,4621,Exercise trainers and group fitness instructors,2,53,0.0015871589854161052
-Netherlands,4647,80521,1732,33393,0150,Purchasing managers,3,52,0.0015572125894648579
-Netherlands,4647,80521,1732,33393,2001,Substance abuse and behavioral disorder counselors,3,52,0.0015572125894648579
-Netherlands,4647,80521,1732,33393,2350,Tutors,6,50,0.0014973197975623634
-Netherlands,4647,80521,1732,33393,3960,Other protective service workers,3,48,0.0014374270056598689
-Netherlands,4647,80521,1732,33393,0725,"Meeting, convention, and event planners",3,47,0.0014074806097086215
-Netherlands,4647,80521,1732,33393,0102,Facilities managers,3,46,0.0013775342137573744
-Netherlands,4647,80521,1732,33393,2636,Merchandise displayers and window trimmers,2,46,0.0013775342137573744
-Netherlands,4647,80521,1732,33393,8250,Prepress technicians and workers,1,46,0.0013775342137573744
-Netherlands,4647,80521,1732,33393,1220,Operations research analysts,3,45,0.001347587817806127
-Netherlands,4647,80521,1732,33393,2014,"Social workers, all other",3,45,0.001347587817806127
-Netherlands,4647,80521,1732,33393,2634,Graphic designers,4,45,0.001347587817806127
-Netherlands,4647,80521,1732,33393,5400,Receptionists and information clerks,2,45,0.001347587817806127
-Netherlands,4647,80521,1732,33393,7800,Bakers,2,45,0.001347587817806127
-Netherlands,4647,80521,1732,33393,9600,Industrial truck and tractor operators,3,45,0.001347587817806127
-Netherlands,4647,80521,1732,33393,0700,Logisticians,3,44,0.0013176414218548798
-Netherlands,4647,80521,1732,33393,1610,Biological scientists,3,44,0.0013176414218548798
-Netherlands,4647,80521,1732,33393,4900,"Models, demonstrators, and product promoters",2,44,0.0013176414218548798
-Netherlands,4647,80521,1732,33393,7925,"Forming machine setters, operators, and tenders, metal and plastic",1,43,0.0012876950259036325
-Netherlands,4647,80521,1732,33393,1320,Aerospace engineers,2,42,0.0012577486299523853
-Netherlands,4647,80521,1732,33393,1400,Computer hardware engineers,2,41,0.001227802234001138
-Netherlands,4647,80521,1732,33393,9365,Transportation service attendants,1,41,0.001227802234001138
-Netherlands,4647,80521,1732,33393,2180,"Legal support workers, all other",3,40,0.0011978558380498906
-Netherlands,4647,80521,1732,33393,4830,Travel agents,2,40,0.0011978558380498906
-Netherlands,4647,80521,1732,33393,8800,Packaging and filling machine operators and tenders,2,40,0.0011978558380498906
-Netherlands,4647,80521,1732,33393,8030,Machinists,2,39,0.0011679094420986435
-Netherlands,4647,80521,1732,33393,3640,Dental assistants,2,38,0.001137963046147396
-Netherlands,4647,80521,1732,33393,1022,Software quality assurance analysts and testers,2,37,0.001108016650196149
-Netherlands,4647,80521,1732,33393,1105,Network and computer systems administrators,2,37,0.001108016650196149
-Netherlands,4647,80521,1732,33393,7210,Bus and truck mechanics and diesel engine specialists,2,37,0.001108016650196149
-Netherlands,4647,80521,1732,33393,4930,Sales engineers,3,36,0.0010780702542449016
-Netherlands,4647,80521,1732,33393,1005,Computer and information research scientists,2,35,0.0010481238582936544
-Netherlands,4647,80521,1732,33393,1700,Astronomers and physicists,3,35,0.0010481238582936544
-Netherlands,4647,80521,1732,33393,5320,"Library assistants, clerical",2,35,0.0010481238582936544
-Netherlands,4647,80521,1732,33393,9121,"Bus drivers, school",2,35,0.0010481238582936544
-Netherlands,4647,80521,1732,33393,9645,Stockers and order fillers,4,35,0.0010481238582936544
-Netherlands,4647,80521,1732,33393,0650,Training and development specialists,2,34,0.001018177462342407
-Netherlands,4647,80521,1732,33393,7410,Electrical power-line installers and repairers,2,33,9.882310663911597e-4
-Netherlands,4647,80521,1732,33393,1555,"Other engineering technologists and technicians, except drafters",3,32,9.582846704399126e-4
-Netherlands,4647,80521,1732,33393,3110,Physician assistants,1,32,9.582846704399126e-4
-Netherlands,4647,80521,1732,33393,3645,Medical assistants,2,32,9.582846704399126e-4
-Netherlands,4647,80521,1732,33393,1032,Web and digital interface designers,2,31,9.283382744886653e-4
-Netherlands,4647,80521,1732,33393,4055,Fast food and counter workers,3,31,9.283382744886653e-4
-Netherlands,4647,80521,1732,33393,6355,Electricians,3,31,9.283382744886653e-4
-Netherlands,4647,80521,1732,33393,9350,Parking attendants,1,31,9.283382744886653e-4
-Netherlands,4647,80521,1732,33393,1745,"Environmental scientists and specialists, including health",2,30,8.983918785374181e-4
-Netherlands,4647,80521,1732,33393,5220,"Court, municipal, and license clerks",2,30,8.983918785374181e-4
-Netherlands,4647,80521,1732,33393,5310,"Interviewers, except eligibility and loan",1,30,8.983918785374181e-4
-Netherlands,4647,80521,1732,33393,7220,Heavy vehicle and mobile equipment service technicians and mechanics,2,30,8.983918785374181e-4
-Netherlands,4647,80521,1732,33393,1750,"Geoscientists and hydrologists, except geographers",1,29,8.684454825861707e-4
-Netherlands,4647,80521,1732,33393,3820,Detectives and criminal investigators,2,29,8.684454825861707e-4
-Netherlands,4647,80521,1732,33393,4540,Tour and travel guides,2,29,8.684454825861707e-4
-Netherlands,4647,80521,1732,33393,5160,Tellers,2,29,8.684454825861707e-4
-Netherlands,4647,80521,1732,33393,2050,"Directors, religious activities and education",1,28,8.384990866349234e-4
-Netherlands,4647,80521,1732,33393,2840,Technical writers,2,28,8.384990866349234e-4
-Netherlands,4647,80521,1732,33393,4120,"Food servers, nonrestaurant",2,28,8.384990866349234e-4
-Netherlands,4647,80521,1732,33393,2700,Actors,1,27,8.085526906836762e-4
-Netherlands,4647,80521,1732,33393,4020,Cooks,2,27,8.085526906836762e-4
-Netherlands,4647,80521,1732,33393,4230,Maids and housekeeping cleaners,3,27,8.085526906836762e-4
-Netherlands,4647,80521,1732,33393,6360,Glaziers,1,27,8.085526906836762e-4
-Netherlands,4647,80521,1732,33393,0500,"Agents and business managers of artists, performers, and athletes",2,25,7.486598987811817e-4
-Netherlands,4647,80521,1732,33393,4740,Counter and rental clerks,1,25,7.486598987811817e-4
-Netherlands,4647,80521,1732,33393,9142,Taxi drivers,1,25,7.486598987811817e-4
-Netherlands,4647,80521,1732,33393,1450,Materials engineers,2,24,7.187135028299344e-4
-Netherlands,4647,80521,1732,33393,4251,Landscaping and groundskeeping workers,1,24,7.187135028299344e-4
-Netherlands,4647,80521,1732,33393,5550,Postal service mail carriers,2,24,7.187135028299344e-4
-Netherlands,4647,80521,1732,33393,5600,"Production, planning, and expediting clerks",2,24,7.187135028299344e-4
-Netherlands,4647,80521,1732,33393,5840,Insurance claims and policy processing clerks,2,24,7.187135028299344e-4
-Netherlands,4647,80521,1732,33393,2025,Other community and social service specialists,1,23,6.887671068786872e-4
-Netherlands,4647,80521,1732,33393,3300,Clinical laboratory technologists and technicians,2,23,6.887671068786872e-4
-Netherlands,4647,80521,1732,33393,7010,"Computer, automated teller, and office machine repairers",2,23,6.887671068786872e-4
-Netherlands,4647,80521,1732,33393,9310,Ship and boat captains and operators,1,23,6.887671068786872e-4
-Netherlands,4647,80521,1732,33393,4400,Gambling services workers,1,22,6.588207109274399e-4
-Netherlands,4647,80521,1732,33393,4800,Advertising sales agents,1,22,6.588207109274399e-4
-Netherlands,4647,80521,1732,33393,8810,Painting workers,2,22,6.588207109274399e-4
-Netherlands,4647,80521,1732,33393,1310,"Surveyors, cartographers, and photogrammetrists",2,21,6.288743149761927e-4
-Netherlands,4647,80521,1732,33393,3545,Miscellaneous health technologists and technicians,2,21,6.288743149761927e-4
-Netherlands,4647,80521,1732,33393,2016,Social and human service assistants,1,20,5.989279190249453e-4
-Netherlands,4647,80521,1732,33393,2555,Other educational instruction and library workers,2,20,5.989279190249453e-4
-Netherlands,4647,80521,1732,33393,5522,"Dispatchers, except police, fire, and ambulance",1,20,5.989279190249453e-4
-Netherlands,4647,80521,1732,33393,0540,"Claims adjusters, appraisers, examiners, and investigators",1,19,5.68981523073698e-4
-Netherlands,4647,80521,1732,33393,1440,Marine engineers and naval architects,1,19,5.68981523073698e-4
-Netherlands,4647,80521,1732,33393,3010,Dentists,1,19,5.68981523073698e-4
-Netherlands,4647,80521,1732,33393,4130,Dining room and cafeteria attendants and bartender helpers,1,19,5.68981523073698e-4
-Netherlands,4647,80521,1732,33393,9430,Other transportation workers,1,19,5.68981523073698e-4
-Netherlands,4647,80521,1732,33393,3100,Surgeons,1,18,5.390351271224508e-4
-Netherlands,4647,80521,1732,33393,3423,Surgical technologists,2,18,5.390351271224508e-4
-Netherlands,4647,80521,1732,33393,3550,Other healthcare practitioners and technical occupations,1,18,5.390351271224508e-4
-Netherlands,4647,80521,1732,33393,3725,"Miscellaneous first-line supervisors, protective service workers",1,18,5.390351271224508e-4
-Netherlands,4647,80521,1732,33393,4530,"Baggage porters, bellhops, and concierges",1,18,5.390351271224508e-4
-Netherlands,4647,80521,1732,33393,8630,Miscellaneous plant and system operators,1,18,5.390351271224508e-4
-Netherlands,4647,80521,1732,33393,1106,Computer network architects,2,17,5.090887311712035e-4
-Netherlands,4647,80521,1732,33393,2770,"Entertainers and performers, sports and related workers, all other",1,17,5.090887311712035e-4
-Netherlands,4647,80521,1732,33393,3601,Home health aides,2,17,5.090887311712035e-4
-Netherlands,4647,80521,1732,33393,4040,Bartenders,2,17,5.090887311712035e-4
-Netherlands,4647,80521,1732,33393,9005,Supervisors of transportation and material moving workers,1,17,5.090887311712035e-4
-Netherlands,4647,80521,1732,33393,2752,Musicians and singers,2,16,4.791423352199563e-4
-Netherlands,4647,80521,1732,33393,3421,Pharmacy technicians,1,16,4.791423352199563e-4
-Netherlands,4647,80521,1732,33393,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,16,4.791423352199563e-4
-Netherlands,4647,80521,1732,33393,9825,Military enlisted tactical operations and air/weapons specialists and crew members,1,16,4.791423352199563e-4
-Netherlands,4647,80521,1732,33393,0940,Tax preparers,1,15,4.4919593926870903e-4
-Netherlands,4647,80521,1732,33393,1420,Environmental engineers,1,15,4.4919593926870903e-4
-Netherlands,4647,80521,1732,33393,2865,"Media and communication workers, all other",1,15,4.4919593926870903e-4
-Netherlands,4647,80521,1732,33393,3322,Diagnostic medical sonographers,1,15,4.4919593926870903e-4
-Netherlands,4647,80521,1732,33393,3422,Psychiatric technicians,1,15,4.4919593926870903e-4
-Netherlands,4647,80521,1732,33393,3802,Correctional officers and jailers,1,15,4.4919593926870903e-4
-Netherlands,4647,80521,1732,33393,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,15,4.4919593926870903e-4
-Netherlands,4647,80521,1732,33393,1200,Actuaries,1,14,4.192495433174617e-4
-Netherlands,4647,80521,1732,33393,1545,Other drafters,2,14,4.192495433174617e-4
-Netherlands,4647,80521,1732,33393,1560,Surveying and mapping technicians,1,14,4.192495433174617e-4
-Netherlands,4647,80521,1732,33393,2330,Special education teachers,1,14,4.192495433174617e-4
-Netherlands,4647,80521,1732,33393,3310,Dental hygienists,1,14,4.192495433174617e-4
-Netherlands,4647,80521,1732,33393,2012,Healthcare social workers,1,13,3.8930314736621447e-4
-Netherlands,4647,80521,1732,33393,3050,Pharmacists,1,13,3.8930314736621447e-4
-Netherlands,4647,80521,1732,33393,3230,Speech-language pathologists,1,13,3.8930314736621447e-4
-Netherlands,4647,80521,1732,33393,3655,Other healthcare support workers,1,13,3.8930314736621447e-4
-Netherlands,4647,80521,1732,33393,4350,Animal caretakers,1,13,3.8930314736621447e-4
-Netherlands,4647,80521,1732,33393,6520,Sheet metal workers,1,13,3.8930314736621447e-4
-Netherlands,4647,80521,1732,33393,8225,Other metal workers and plastic workers,1,13,3.8930314736621447e-4
-Netherlands,4647,80521,1732,33393,9040,Air traffic controllers and airfield operations specialists,1,13,3.8930314736621447e-4
-Netherlands,4647,80521,1732,33393,0060,Public relations and fundraising managers,1,12,3.593567514149672e-4
-Netherlands,4647,80521,1732,33393,0726,Fundraisers,2,12,3.593567514149672e-4
-Netherlands,4647,80521,1732,33393,1840,Urban and regional planners,2,12,3.593567514149672e-4
-Netherlands,4647,80521,1732,33393,5300,"Hotel, motel, and resort desk clerks",1,12,3.593567514149672e-4
-Netherlands,4647,80521,1732,33393,5410,Reservation and transportation ticket agents and travel clerks,1,12,3.593567514149672e-4
-Netherlands,4647,80521,1732,33393,9050,Flight attendants,1,12,3.593567514149672e-4
-Netherlands,4647,80521,1732,33393,0135,Compensation and benefits managers,1,11,3.2941035546371996e-4
-Netherlands,4647,80521,1732,33393,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,11,3.2941035546371996e-4
-Netherlands,4647,80521,1732,33393,5521,Public safety telecommunicators,1,11,3.2941035546371996e-4
-Netherlands,4647,80521,1732,33393,7040,"Electric motor, power tool, and related repairers",1,11,3.2941035546371996e-4
-Netherlands,4647,80521,1732,33393,1551,Electrical and electronic engineering technologists and technicians,1,10,2.9946395951247265e-4
-Netherlands,4647,80521,1732,33393,1640,Conservation scientists and foresters,1,10,2.9946395951247265e-4
-Netherlands,4647,80521,1732,33393,2751,Music directors and composers,1,10,2.9946395951247265e-4
-Netherlands,4647,80521,1732,33393,5140,Payroll and timekeeping clerks,1,10,2.9946395951247265e-4
-Netherlands,4647,80521,1732,33393,5230,"Credit authorizers, checkers, and clerks",1,10,2.9946395951247265e-4
-Netherlands,4647,80521,1732,33393,5150,Procurement clerks,1,9,2.695175635612254e-4
-Netherlands,4647,80521,1732,33393,5510,Couriers and messengers,2,9,2.695175635612254e-4
-Netherlands,4647,80521,1732,33393,7840,Food batchmakers,2,9,2.695175635612254e-4
-Netherlands,4647,80521,1732,33393,3258,"Nurse practitioners, and nurse midwives",1,8,2.3957116760997814e-4
-Netherlands,4647,80521,1732,33393,4521,Manicurists and pedicurists,1,8,2.3957116760997814e-4
-Netherlands,4647,80521,1732,33393,0137,Training and development managers,1,7,2.0962477165873086e-4
-Netherlands,4647,80521,1732,33393,5610,"Shipping, receiving, and inventory clerks",1,7,2.0962477165873086e-4
-Netherlands,4647,80521,1732,33393,0565,Compliance officers,1,6,1.796783757074836e-4
-Netherlands,4647,80521,1732,33393,3250,Veterinarians,1,6,1.796783757074836e-4
-Netherlands,4647,80521,1732,33393,7720,"Electrical, electronics, and electromechanical assemblers",1,6,1.796783757074836e-4
-Netherlands,4647,80521,1732,33393,8300,Laundry and dry-cleaning workers,1,6,1.796783757074836e-4
-Netherlands,4647,80521,1732,33393,3515,Medical records specialists,1,5,1.4973197975623633e-4
-Netherlands,4647,80521,1732,33393,6005,"First-line supervisors of farming, fishing, and forestry workers",1,5,1.4973197975623633e-4
-Netherlands,4647,80521,1732,33393,6410,Painters and paperhangers,1,5,1.4973197975623633e-4
-Netherlands,4647,80521,1732,33393,1900,Agricultural and food science technicians,1,4,1.1978558380498907e-4
-Netherlands,4647,80521,1732,33393,3430,Dietetic technicians and ophthalmic medical technicians,1,4,1.1978558380498907e-4
-Netherlands,4647,80521,1732,33393,8510,Furniture finishers,1,4,1.1978558380498907e-4
-Netherlands,4647,80521,1732,33393,2635,Interior designers,1,3,8.98391878537418e-5
-Netherlands,4647,80521,1732,33393,3261,Acupuncturists,1,2,5.9892791902494536e-5
-Netherlands,4647,80521,1732,33393,4200,First-line supervisors of housekeeping and janitorial workers,1,2,5.9892791902494536e-5
-Netherlands,4647,80521,1732,33393,5910,Proofreaders and copy markers,1,2,5.9892791902494536e-5
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Netherlands,4647,80521,2113,39360,0440,Other managers,135,2618,0.06651422764227642
+Netherlands,4647,80521,2113,39360,2205,Postsecondary teachers,95,1598,0.040599593495934956
+Netherlands,4647,80521,2113,39360,1021,Software developers,66,1578,0.04009146341463415
+Netherlands,4647,80521,2113,39360,0010,Chief executives and legislators,67,1138,0.02891260162601626
+Netherlands,4647,80521,2113,39360,0120,Financial managers,42,1089,0.02766768292682927
+Netherlands,4647,80521,2113,39360,4760,Retail salespersons,43,739,0.01877540650406504
+Netherlands,4647,80521,2113,39360,4700,First-line supervisors of retail sales workers,35,720,0.018292682926829267
+Netherlands,4647,80521,2113,39360,4710,First-line supervisors of non-retail sales workers,26,586,0.014888211382113822
+Netherlands,4647,80521,2113,39360,5740,"Secretaries and administrative assistants, except legal, medical, and executive",30,571,0.014507113821138212
+Netherlands,4647,80521,2113,39360,0710,Management analysts,34,568,0.01443089430894309
+Netherlands,4647,80521,2113,39360,1760,"Physical scientists, all other",27,565,0.014354674796747968
+Netherlands,4647,80521,2113,39360,3160,Physical therapists,31,534,0.013567073170731707
+Netherlands,4647,80521,2113,39360,1530,Other engineers,22,533,0.013541666666666667
+Netherlands,4647,80521,2113,39360,0020,General and operations managers,27,520,0.013211382113821139
+Netherlands,4647,80521,2113,39360,0052,Sales managers,21,493,0.01252540650406504
+Netherlands,4647,80521,2113,39360,9130,Driver/sales workers and truck drivers,23,488,0.012398373983739837
+Netherlands,4647,80521,2113,39360,0800,Accountants and auditors,20,460,0.011686991869918699
+Netherlands,4647,80521,2113,39360,4850,"Sales representatives, wholesale and manufacturing",23,444,0.011280487804878048
+Netherlands,4647,80521,2113,39360,0205,"Farmers, ranchers, and other agricultural managers",27,442,0.011229674796747968
+Netherlands,4647,80521,2113,39360,3255,Registered nurses,28,437,0.011102642276422764
+Netherlands,4647,80521,2113,39360,5240,Customer service representatives,24,431,0.01095020325203252
+Netherlands,4647,80521,2113,39360,5120,"Bookkeeping, accounting, and auditing clerks",22,427,0.010848577235772358
+Netherlands,4647,80521,2113,39360,0705,Project management specialists,17,415,0.01054369918699187
+Netherlands,4647,80521,2113,39360,2100,"Lawyers, and judges, magistrates, and other judicial workers",25,382,0.009705284552845528
+Netherlands,4647,80521,2113,39360,2310,Elementary and middle school teachers,20,364,0.009247967479674797
+Netherlands,4647,80521,2113,39360,2360,Other teachers and instructors,19,364,0.009247967479674797
+Netherlands,4647,80521,2113,39360,5000,First-line supervisors of office and administrative support workers,10,351,0.008917682926829268
+Netherlands,4647,80521,2113,39360,0110,Computer and information systems managers,21,342,0.008689024390243903
+Netherlands,4647,80521,2113,39360,2545,Teaching assistants,19,341,0.008663617886178861
+Netherlands,4647,80521,2113,39360,5940,Other office and administrative support workers,8,337,0.0085619918699187
+Netherlands,4647,80521,2113,39360,0220,Construction managers,18,311,0.007901422764227643
+Netherlands,4647,80521,2113,39360,0420,Social and community service managers,13,286,0.007266260162601626
+Netherlands,4647,80521,2113,39360,1108,"Computer occupations, all other",10,281,0.007139227642276423
+Netherlands,4647,80521,2113,39360,0051,Marketing managers,17,276,0.00701219512195122
+Netherlands,4647,80521,2113,39360,3602,Personal care aides,16,276,0.00701219512195122
+Netherlands,4647,80521,2113,39360,4220,Janitors and building cleaners,15,263,0.006681910569105691
+Netherlands,4647,80521,2113,39360,1006,Computer systems analysts,13,258,0.0065548780487804876
+Netherlands,4647,80521,2113,39360,5860,"Office clerks, general",11,256,0.0065040650406504065
+Netherlands,4647,80521,2113,39360,4600,Childcare workers,10,254,0.0064532520325203254
+Netherlands,4647,80521,2113,39360,1360,Civil engineers,13,252,0.0064024390243902435
+Netherlands,4647,80521,2113,39360,4920,Real estate brokers and sales agents,14,252,0.0064024390243902435
+Netherlands,4647,80521,2113,39360,1305,"Architects, except landscape and naval",10,246,0.00625
+Netherlands,4647,80521,2113,39360,2722,Coaches and scouts,9,240,0.006097560975609756
+Netherlands,4647,80521,2113,39360,2320,Secondary school teachers,13,234,0.005945121951219512
+Netherlands,4647,80521,2113,39360,3090,Physicians,14,233,0.005919715447154471
+Netherlands,4647,80521,2113,39360,0230,Education and childcare administrators,13,230,0.005843495934959349
+Netherlands,4647,80521,2113,39360,7330,Industrial and refractory machinery mechanics,6,228,0.005792682926829268
+Netherlands,4647,80521,2113,39360,4110,Waiters and waitresses,12,215,0.00546239837398374
+Netherlands,4647,80521,2113,39360,1240,Other mathematical science occupations,11,213,0.005411585365853658
+Netherlands,4647,80521,2113,39360,0300,Architectural and engineering managers,14,209,0.005309959349593496
+Netherlands,4647,80521,2113,39360,1650,Other life scientists,9,207,0.005259146341463415
+Netherlands,4647,80521,2113,39360,0350,Medical and health services managers,12,206,0.005233739837398374
+Netherlands,4647,80521,2113,39360,4720,Cashiers,13,206,0.005233739837398374
+Netherlands,4647,80521,2113,39360,9030,Aircraft pilots and flight engineers,14,201,0.005106707317073171
+Netherlands,4647,80521,2113,39360,5710,Executive secretaries and executive administrative assistants,11,199,0.005055894308943089
+Netherlands,4647,80521,2113,39360,1825,Other psychologists,8,198,0.005030487804878049
+Netherlands,4647,80521,2113,39360,2640,Other designers,7,196,0.004979674796747968
+Netherlands,4647,80521,2113,39360,1430,"Industrial engineers, including health and safety",7,193,0.004903455284552846
+Netherlands,4647,80521,2113,39360,1050,Computer support specialists,15,184,0.00467479674796748
+Netherlands,4647,80521,2113,39360,8740,"Inspectors, testers, sorters, samplers, and weighers",5,183,0.004649390243902439
+Netherlands,4647,80521,2113,39360,2600,Artists and related workers,12,182,0.004623983739837399
+Netherlands,4647,80521,2113,39360,9620,"Laborers and freight, stock, and material movers, hand",12,180,0.004573170731707317
+Netherlands,4647,80521,2113,39360,0750,"Business operations specialists, all other",10,174,0.004420731707317073
+Netherlands,4647,80521,2113,39360,7750,Other assemblers and fabricators,5,169,0.00429369918699187
+Netherlands,4647,80521,2113,39360,8320,Sewing machine operators,1,159,0.0040396341463414635
+Netherlands,4647,80521,2113,39360,0630,Human resources workers,10,158,0.004014227642276423
+Netherlands,4647,80521,2113,39360,0410,"Property, real estate, and community association managers",12,156,0.0039634146341463415
+Netherlands,4647,80521,2113,39360,2006,"Counselors, all other",7,156,0.0039634146341463415
+Netherlands,4647,80521,2113,39360,1007,Information security analysts,7,151,0.003836382113821138
+Netherlands,4647,80521,2113,39360,0910,Credit counselors and loan officers,10,149,0.003785569105691057
+Netherlands,4647,80521,2113,39360,6200,First-line supervisors of construction trades and extraction workers,8,148,0.0037601626016260164
+Netherlands,4647,80521,2113,39360,6260,Construction laborers,7,146,0.003709349593495935
+Netherlands,4647,80521,2113,39360,1800,Economists,5,140,0.003556910569105691
+Netherlands,4647,80521,2113,39360,4030,Food preparation workers,6,139,0.0035315040650406504
+Netherlands,4647,80521,2113,39360,1970,"Other life, physical, and social science technicians",6,136,0.0034552845528455283
+Netherlands,4647,80521,2113,39360,2633,Floral designers,1,131,0.0033282520325203253
+Netherlands,4647,80521,2113,39360,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",10,130,0.0033028455284552847
+Netherlands,4647,80521,2113,39360,0340,Lodging managers,7,126,0.0032012195121951218
+Netherlands,4647,80521,2113,39360,0845,Financial and investment analysts,7,122,0.003099593495934959
+Netherlands,4647,80521,2113,39360,1410,Electrical and electronics engineers,8,119,0.003023373983739837
+Netherlands,4647,80521,2113,39360,1031,Web developers,2,117,0.002972560975609756
+Netherlands,4647,80521,2113,39360,2300,Preschool and kindergarten teachers,6,117,0.002972560975609756
+Netherlands,4647,80521,2113,39360,9830,"Military, rank not specified",3,115,0.0029217479674796746
+Netherlands,4647,80521,2113,39360,8990,"Miscellaneous production workers, including equipment operators and tenders",5,114,0.002896341463414634
+Netherlands,4647,80521,2113,39360,0735,Market research analysts and marketing specialists,12,113,0.0028709349593495936
+Netherlands,4647,80521,2113,39360,2861,Interpreters and translators,9,112,0.002845528455284553
+Netherlands,4647,80521,2113,39360,1010,Computer programmers,6,110,0.0027947154471544716
+Netherlands,4647,80521,2113,39360,2014,"Social workers, all other",5,109,0.002769308943089431
+Netherlands,4647,80521,2113,39360,7200,Automotive service technicians and mechanics,9,109,0.002769308943089431
+Netherlands,4647,80521,2113,39360,2060,"Religious workers, all other",8,108,0.00274390243902439
+Netherlands,4647,80521,2113,39360,3603,Nursing assistants,5,108,0.00274390243902439
+Netherlands,4647,80521,2113,39360,4810,Insurance sales agents,6,106,0.002693089430894309
+Netherlands,4647,80521,2113,39360,6050,Other agricultural workers,7,106,0.002693089430894309
+Netherlands,4647,80521,2113,39360,3930,Security guards and gaming surveillance officers,6,104,0.0026422764227642275
+Netherlands,4647,80521,2113,39360,6230,Carpenters,6,101,0.0025660569105691055
+Netherlands,4647,80521,2113,39360,0520,"Wholesale and retail buyers, except farm products",5,100,0.002540650406504065
+Netherlands,4647,80521,2113,39360,7000,"First-line supervisors of mechanics, installers, and repairers",6,99,0.0025152439024390245
+Netherlands,4647,80521,2113,39360,7700,First-line supervisors of production and operating workers,6,98,0.002489837398373984
+Netherlands,4647,80521,2113,39360,3630,Massage therapists,6,97,0.002464430894308943
+Netherlands,4647,80521,2113,39360,7315,"Heating, air conditioning, and refrigeration mechanics and installers",4,90,0.0022865853658536584
+Netherlands,4647,80521,2113,39360,2920,"Television, video, and film camera operators and editors",4,89,0.002261178861788618
+Netherlands,4647,80521,2113,39360,1460,Mechanical engineers,7,88,0.0022357723577235773
+Netherlands,4647,80521,2113,39360,4820,"Securities, commodities, and financial services sales agents",7,88,0.0022357723577235773
+Netherlands,4647,80521,2113,39360,4965,"Sales and related workers, all other",6,88,0.0022357723577235773
+Netherlands,4647,80521,2113,39360,4510,"Hairdressers, hairstylists, and cosmetologists",7,87,0.0022103658536585364
+Netherlands,4647,80521,2113,39360,5165,Other financial clerks,5,87,0.0022103658536585364
+Netherlands,4647,80521,2113,39360,0850,Personal financial advisors,6,84,0.002134146341463415
+Netherlands,4647,80521,2113,39360,5110,Billing and posting clerks,4,84,0.002134146341463415
+Netherlands,4647,80521,2113,39360,5400,Receptionists and information clerks,4,83,0.002108739837398374
+Netherlands,4647,80521,2113,39360,0136,Human resources managers,5,82,0.0020833333333333333
+Netherlands,4647,80521,2113,39360,3323,Radiologic technologists and technicians,2,82,0.0020833333333333333
+Netherlands,4647,80521,2113,39360,0530,"Purchasing agents, except wholesale, retail, and farm products",2,81,0.0020579268292682928
+Netherlands,4647,80521,2113,39360,1065,Database administrators and architects,5,81,0.0020579268292682928
+Netherlands,4647,80521,2113,39360,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",4,81,0.0020579268292682928
+Netherlands,4647,80521,2113,39360,3870,Police officers,4,80,0.0020325203252032522
+Netherlands,4647,80521,2113,39360,2040,Clergy,5,79,0.0020071138211382113
+Netherlands,4647,80521,2113,39360,2850,Writers and authors,3,79,0.0020071138211382113
+Netherlands,4647,80521,2113,39360,0310,Food service managers,6,76,0.0019308943089430895
+Netherlands,4647,80521,2113,39360,1520,"Petroleum, mining and geological engineers, including mining safety engineers",2,76,0.0019308943089430895
+Netherlands,4647,80521,2113,39360,4522,Skincare specialists,3,74,0.0018800813008130082
+Netherlands,4647,80521,2113,39360,0810,Property appraisers and assessors,1,73,0.0018546747967479675
+Netherlands,4647,80521,2113,39360,2830,Editors,4,73,0.0018546747967479675
+Netherlands,4647,80521,2113,39360,7020,Radio and telecommunications equipment installers and repairers,4,73,0.0018546747967479675
+Netherlands,4647,80521,2113,39360,9121,"Bus drivers, school",5,72,0.001829268292682927
+Netherlands,4647,80521,2113,39360,2350,Tutors,7,70,0.0017784552845528454
+Netherlands,4647,80521,2113,39360,2810,"News analysts, reporters, and journalists",3,68,0.0017276422764227642
+Netherlands,4647,80521,2113,39360,4020,Cooks,5,68,0.0017276422764227642
+Netherlands,4647,80521,2113,39360,4621,Exercise trainers and group fitness instructors,3,68,0.0017276422764227642
+Netherlands,4647,80521,2113,39360,7340,"Maintenance and repair workers, general",5,67,0.0017022357723577236
+Netherlands,4647,80521,2113,39360,2910,Photographers,6,65,0.0016514227642276424
+Netherlands,4647,80521,2113,39360,4435,Other entertainment attendants and related workers,2,65,0.0016514227642276424
+Netherlands,4647,80521,2113,39360,3740,Firefighters,2,61,0.0015497967479674796
+Netherlands,4647,80521,2113,39360,2002,"Educational, guidance, and career counselors and advisors",5,60,0.001524390243902439
+Netherlands,4647,80521,2113,39360,2004,Mental health counselors,2,60,0.001524390243902439
+Netherlands,4647,80521,2113,39360,7240,Small engine mechanics,2,60,0.001524390243902439
+Netherlands,4647,80521,2113,39360,9300,"Sailors and marine oilers, and ship engineers",5,60,0.001524390243902439
+Netherlands,4647,80521,2113,39360,9415,Passenger attendants,2,60,0.001524390243902439
+Netherlands,4647,80521,2113,39360,0140,Industrial production managers,5,59,0.0014989837398373983
+Netherlands,4647,80521,2113,39360,0725,"Meeting, convention, and event planners",4,59,0.0014989837398373983
+Netherlands,4647,80521,2113,39360,1860,Other social scientists,3,59,0.0014989837398373983
+Netherlands,4647,80521,2113,39360,2710,Producers and directors,5,58,0.0014735772357723578
+Netherlands,4647,80521,2113,39360,2752,Musicians and singers,5,58,0.0014735772357723578
+Netherlands,4647,80521,2113,39360,3402,Paramedics,3,57,0.001448170731707317
+Netherlands,4647,80521,2113,39360,1610,Biological scientists,4,56,0.0014227642276422765
+Netherlands,4647,80521,2113,39360,0160,"Transportation, storage, and distribution managers",4,55,0.0013973577235772358
+Netherlands,4647,80521,2113,39360,1320,Aerospace engineers,3,55,0.0013973577235772358
+Netherlands,4647,80521,2113,39360,2634,Graphic designers,5,55,0.0013973577235772358
+Netherlands,4647,80521,2113,39360,8255,Printing press operators,2,55,0.0013973577235772358
+Netherlands,4647,80521,2113,39360,9810,First-line enlisted military supervisors,1,55,0.0013973577235772358
+Netherlands,4647,80521,2113,39360,1350,Chemical engineers,4,54,0.001371951219512195
+Netherlands,4647,80521,2113,39360,2400,"Archivists, curators, and museum technicians",2,54,0.001371951219512195
+Netherlands,4647,80521,2113,39360,2180,"Legal support workers, all other",4,53,0.0013465447154471545
+Netherlands,4647,80521,2113,39360,4010,First-line supervisors of food preparation and serving workers,4,53,0.0013465447154471545
+Netherlands,4647,80521,2113,39360,0150,Purchasing managers,3,52,0.0013211382113821138
+Netherlands,4647,80521,2113,39360,2001,Substance abuse and behavioral disorder counselors,3,52,0.0013211382113821138
+Netherlands,4647,80521,2113,39360,4740,Counter and rental clerks,2,51,0.0012957317073170732
+Netherlands,4647,80521,2113,39360,4830,Travel agents,3,49,0.001244918699186992
+Netherlands,4647,80521,2113,39360,3960,Other protective service workers,3,48,0.0012195121951219512
+Netherlands,4647,80521,2113,39360,0102,Facilities managers,3,46,0.00116869918699187
+Netherlands,4647,80521,2113,39360,2636,Merchandise displayers and window trimmers,2,46,0.00116869918699187
+Netherlands,4647,80521,2113,39360,8250,Prepress technicians and workers,1,46,0.00116869918699187
+Netherlands,4647,80521,2113,39360,1220,Operations research analysts,3,45,0.0011432926829268292
+Netherlands,4647,80521,2113,39360,7800,Bakers,2,45,0.0011432926829268292
+Netherlands,4647,80521,2113,39360,9600,Industrial truck and tractor operators,3,45,0.0011432926829268292
+Netherlands,4647,80521,2113,39360,0700,Logisticians,3,44,0.0011178861788617887
+Netherlands,4647,80521,2113,39360,1700,Astronomers and physicists,4,44,0.0011178861788617887
+Netherlands,4647,80521,2113,39360,4900,"Models, demonstrators, and product promoters",2,44,0.0011178861788617887
+Netherlands,4647,80521,2113,39360,7925,"Forming machine setters, operators, and tenders, metal and plastic",1,43,0.001092479674796748
+Netherlands,4647,80521,2113,39360,3550,Other healthcare practitioners and technical occupations,3,42,0.0010670731707317074
+Netherlands,4647,80521,2113,39360,6240,"Carpet, floor, and tile installers and finishers",1,42,0.0010670731707317074
+Netherlands,4647,80521,2113,39360,1400,Computer hardware engineers,2,41,0.0010416666666666667
+Netherlands,4647,80521,2113,39360,9365,Transportation service attendants,1,41,0.0010416666666666667
+Netherlands,4647,80521,2113,39360,8800,Packaging and filling machine operators and tenders,2,40,0.0010162601626016261
+Netherlands,4647,80521,2113,39360,4230,Maids and housekeeping cleaners,4,39,9.908536585365854e-4
+Netherlands,4647,80521,2113,39360,8030,Machinists,2,39,9.908536585365854e-4
+Netherlands,4647,80521,2113,39360,3640,Dental assistants,2,38,9.654471544715447e-4
+Netherlands,4647,80521,2113,39360,4251,Landscaping and groundskeeping workers,2,38,9.654471544715447e-4
+Netherlands,4647,80521,2113,39360,1022,Software quality assurance analysts and testers,2,37,9.400406504065041e-4
+Netherlands,4647,80521,2113,39360,1105,Network and computer systems administrators,2,37,9.400406504065041e-4
+Netherlands,4647,80521,2113,39360,4240,Pest control workers,2,37,9.400406504065041e-4
+Netherlands,4647,80521,2113,39360,7210,Bus and truck mechanics and diesel engine specialists,2,37,9.400406504065041e-4
+Netherlands,4647,80521,2113,39360,9005,Supervisors of transportation and material moving workers,2,37,9.400406504065041e-4
+Netherlands,4647,80521,2113,39360,3310,Dental hygienists,2,36,9.146341463414635e-4
+Netherlands,4647,80521,2113,39360,3601,Home health aides,3,36,9.146341463414635e-4
+Netherlands,4647,80521,2113,39360,4930,Sales engineers,3,36,9.146341463414635e-4
+Netherlands,4647,80521,2113,39360,1005,Computer and information research scientists,2,35,8.892276422764227e-4
+Netherlands,4647,80521,2113,39360,5320,"Library assistants, clerical",2,35,8.892276422764227e-4
+Netherlands,4647,80521,2113,39360,9645,Stockers and order fillers,4,35,8.892276422764227e-4
+Netherlands,4647,80521,2113,39360,0650,Training and development specialists,2,34,8.638211382113821e-4
+Netherlands,4647,80521,2113,39360,6355,Electricians,4,34,8.638211382113821e-4
+Netherlands,4647,80521,2113,39360,2050,"Directors, religious activities and education",2,33,8.384146341463414e-4
+Netherlands,4647,80521,2113,39360,7410,Electrical power-line installers and repairers,2,33,8.384146341463414e-4
+Netherlands,4647,80521,2113,39360,8810,Painting workers,3,33,8.384146341463414e-4
+Netherlands,4647,80521,2113,39360,1555,"Other engineering technologists and technicians, except drafters",3,32,8.130081300813008e-4
+Netherlands,4647,80521,2113,39360,3110,Physician assistants,1,32,8.130081300813008e-4
+Netherlands,4647,80521,2113,39360,3645,Medical assistants,2,32,8.130081300813008e-4
+Netherlands,4647,80521,2113,39360,4040,Bartenders,3,32,8.130081300813008e-4
+Netherlands,4647,80521,2113,39360,1032,Web and digital interface designers,2,31,7.876016260162602e-4
+Netherlands,4647,80521,2113,39360,4055,Fast food and counter workers,3,31,7.876016260162602e-4
+Netherlands,4647,80521,2113,39360,9350,Parking attendants,1,31,7.876016260162602e-4
+Netherlands,4647,80521,2113,39360,1745,"Environmental scientists and specialists, including health",2,30,7.621951219512195e-4
+Netherlands,4647,80521,2113,39360,5220,"Court, municipal, and license clerks",2,30,7.621951219512195e-4
+Netherlands,4647,80521,2113,39360,5310,"Interviewers, except eligibility and loan",1,30,7.621951219512195e-4
+Netherlands,4647,80521,2113,39360,7220,Heavy vehicle and mobile equipment service technicians and mechanics,2,30,7.621951219512195e-4
+Netherlands,4647,80521,2113,39360,1750,"Geoscientists and hydrologists, except geographers",1,29,7.367886178861789e-4
+Netherlands,4647,80521,2113,39360,3820,Detectives and criminal investigators,2,29,7.367886178861789e-4
+Netherlands,4647,80521,2113,39360,4540,Tour and travel guides,2,29,7.367886178861789e-4
+Netherlands,4647,80521,2113,39360,5160,Tellers,2,29,7.367886178861789e-4
+Netherlands,4647,80521,2113,39360,0500,"Agents and business managers of artists, performers, and athletes",3,28,7.113821138211383e-4
+Netherlands,4647,80521,2113,39360,0565,Compliance officers,3,28,7.113821138211383e-4
+Netherlands,4647,80521,2113,39360,2840,Technical writers,2,28,7.113821138211383e-4
+Netherlands,4647,80521,2113,39360,3421,Pharmacy technicians,2,28,7.113821138211383e-4
+Netherlands,4647,80521,2113,39360,3725,"Miscellaneous first-line supervisors, protective service workers",2,28,7.113821138211383e-4
+Netherlands,4647,80521,2113,39360,4120,"Food servers, nonrestaurant",2,28,7.113821138211383e-4
+Netherlands,4647,80521,2113,39360,2700,Actors,1,27,6.859756097560975e-4
+Netherlands,4647,80521,2113,39360,3050,Pharmacists,2,27,6.859756097560975e-4
+Netherlands,4647,80521,2113,39360,5140,Payroll and timekeeping clerks,2,27,6.859756097560975e-4
+Netherlands,4647,80521,2113,39360,6360,Glaziers,1,27,6.859756097560975e-4
+Netherlands,4647,80521,2113,39360,3258,"Nurse practitioners, and nurse midwives",3,25,6.351626016260162e-4
+Netherlands,4647,80521,2113,39360,9142,Taxi drivers,1,25,6.351626016260162e-4
+Netherlands,4647,80521,2113,39360,1450,Materials engineers,2,24,6.097560975609756e-4
+Netherlands,4647,80521,2113,39360,5550,Postal service mail carriers,2,24,6.097560975609756e-4
+Netherlands,4647,80521,2113,39360,5600,"Production, planning, and expediting clerks",2,24,6.097560975609756e-4
+Netherlands,4647,80521,2113,39360,5840,Insurance claims and policy processing clerks,2,24,6.097560975609756e-4
+Netherlands,4647,80521,2113,39360,2025,Other community and social service specialists,1,23,5.84349593495935e-4
+Netherlands,4647,80521,2113,39360,3300,Clinical laboratory technologists and technicians,2,23,5.84349593495935e-4
+Netherlands,4647,80521,2113,39360,7010,"Computer, automated teller, and office machine repairers",2,23,5.84349593495935e-4
+Netherlands,4647,80521,2113,39360,9310,Ship and boat captains and operators,1,23,5.84349593495935e-4
+Netherlands,4647,80521,2113,39360,4400,Gambling services workers,1,22,5.589430894308943e-4
+Netherlands,4647,80521,2113,39360,4800,Advertising sales agents,1,22,5.589430894308943e-4
+Netherlands,4647,80521,2113,39360,5410,Reservation and transportation ticket agents and travel clerks,2,22,5.589430894308943e-4
+Netherlands,4647,80521,2113,39360,1310,"Surveyors, cartographers, and photogrammetrists",2,21,5.335365853658537e-4
+Netherlands,4647,80521,2113,39360,3545,Miscellaneous health technologists and technicians,2,21,5.335365853658537e-4
+Netherlands,4647,80521,2113,39360,5510,Couriers and messengers,3,21,5.335365853658537e-4
+Netherlands,4647,80521,2113,39360,9122,"Bus drivers, transit and intercity",1,21,5.335365853658537e-4
+Netherlands,4647,80521,2113,39360,2016,Social and human service assistants,1,20,5.081300813008131e-4
+Netherlands,4647,80521,2113,39360,2555,Other educational instruction and library workers,2,20,5.081300813008131e-4
+Netherlands,4647,80521,2113,39360,5522,"Dispatchers, except police, fire, and ambulance",1,20,5.081300813008131e-4
+Netherlands,4647,80521,2113,39360,8750,Jewelers and precious stone and metal workers,2,20,5.081300813008131e-4
+Netherlands,4647,80521,2113,39360,0540,"Claims adjusters, appraisers, examiners, and investigators",1,19,4.8272357723577237e-4
+Netherlands,4647,80521,2113,39360,1440,Marine engineers and naval architects,1,19,4.8272357723577237e-4
+Netherlands,4647,80521,2113,39360,3010,Dentists,1,19,4.8272357723577237e-4
+Netherlands,4647,80521,2113,39360,4130,Dining room and cafeteria attendants and bartender helpers,1,19,4.8272357723577237e-4
+Netherlands,4647,80521,2113,39360,9430,Other transportation workers,1,19,4.8272357723577237e-4
+Netherlands,4647,80521,2113,39360,0600,Cost estimators,1,18,4.5731707317073173e-4
+Netherlands,4647,80521,2113,39360,3100,Surgeons,1,18,4.5731707317073173e-4
+Netherlands,4647,80521,2113,39360,3423,Surgical technologists,2,18,4.5731707317073173e-4
+Netherlands,4647,80521,2113,39360,4530,"Baggage porters, bellhops, and concierges",1,18,4.5731707317073173e-4
+Netherlands,4647,80521,2113,39360,8630,Miscellaneous plant and system operators,1,18,4.5731707317073173e-4
+Netherlands,4647,80521,2113,39360,1106,Computer network architects,2,17,4.3191056910569104e-4
+Netherlands,4647,80521,2113,39360,1821,Clinical and counseling psychologists,2,17,4.3191056910569104e-4
+Netherlands,4647,80521,2113,39360,2770,"Entertainers and performers, sports and related workers, all other",1,17,4.3191056910569104e-4
+Netherlands,4647,80521,2113,39360,1306,Landscape architects,1,16,4.065040650406504e-4
+Netherlands,4647,80521,2113,39360,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,16,4.065040650406504e-4
+Netherlands,4647,80521,2113,39360,9825,Military enlisted tactical operations and air/weapons specialists and crew members,1,16,4.065040650406504e-4
+Netherlands,4647,80521,2113,39360,0940,Tax preparers,1,15,3.8109756097560977e-4
+Netherlands,4647,80521,2113,39360,1420,Environmental engineers,1,15,3.8109756097560977e-4
+Netherlands,4647,80521,2113,39360,2012,Healthcare social workers,2,15,3.8109756097560977e-4
+Netherlands,4647,80521,2113,39360,2865,"Media and communication workers, all other",1,15,3.8109756097560977e-4
+Netherlands,4647,80521,2113,39360,3322,Diagnostic medical sonographers,1,15,3.8109756097560977e-4
+Netherlands,4647,80521,2113,39360,3422,Psychiatric technicians,1,15,3.8109756097560977e-4
+Netherlands,4647,80521,2113,39360,3802,Correctional officers and jailers,1,15,3.8109756097560977e-4
+Netherlands,4647,80521,2113,39360,5540,Postal service clerks,1,15,3.8109756097560977e-4
+Netherlands,4647,80521,2113,39360,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,15,3.8109756097560977e-4
+Netherlands,4647,80521,2113,39360,7810,"Butchers and other meat, poultry, and fish processing workers",1,15,3.8109756097560977e-4
+Netherlands,4647,80521,2113,39360,1200,Actuaries,1,14,3.5569105691056913e-4
+Netherlands,4647,80521,2113,39360,1545,Other drafters,2,14,3.5569105691056913e-4
+Netherlands,4647,80521,2113,39360,1560,Surveying and mapping technicians,1,14,3.5569105691056913e-4
+Netherlands,4647,80521,2113,39360,2330,Special education teachers,1,14,3.5569105691056913e-4
+Netherlands,4647,80521,2113,39360,9141,Shuttle drivers and chauffeurs,1,14,3.5569105691056913e-4
+Netherlands,4647,80521,2113,39360,1600,Agricultural and food scientists,1,13,3.3028455284552844e-4
+Netherlands,4647,80521,2113,39360,3230,Speech-language pathologists,1,13,3.3028455284552844e-4
+Netherlands,4647,80521,2113,39360,3655,Other healthcare support workers,1,13,3.3028455284552844e-4
+Netherlands,4647,80521,2113,39360,4350,Animal caretakers,1,13,3.3028455284552844e-4
+Netherlands,4647,80521,2113,39360,6520,Sheet metal workers,1,13,3.3028455284552844e-4
+Netherlands,4647,80521,2113,39360,8225,Other metal workers and plastic workers,1,13,3.3028455284552844e-4
+Netherlands,4647,80521,2113,39360,9040,Air traffic controllers and airfield operations specialists,1,13,3.3028455284552844e-4
+Netherlands,4647,80521,2113,39360,0060,Public relations and fundraising managers,1,12,3.048780487804878e-4
+Netherlands,4647,80521,2113,39360,0726,Fundraisers,2,12,3.048780487804878e-4
+Netherlands,4647,80521,2113,39360,1840,Urban and regional planners,2,12,3.048780487804878e-4
+Netherlands,4647,80521,2113,39360,2723,"Umpires, referees, and other sports officials",1,12,3.048780487804878e-4
+Netherlands,4647,80521,2113,39360,5300,"Hotel, motel, and resort desk clerks",1,12,3.048780487804878e-4
+Netherlands,4647,80521,2113,39360,9050,Flight attendants,1,12,3.048780487804878e-4
+Netherlands,4647,80521,2113,39360,0135,Compensation and benefits managers,1,11,2.7947154471544717e-4
+Netherlands,4647,80521,2113,39360,5521,Public safety telecommunicators,1,11,2.7947154471544717e-4
+Netherlands,4647,80521,2113,39360,7040,"Electric motor, power tool, and related repairers",1,11,2.7947154471544717e-4
+Netherlands,4647,80521,2113,39360,8465,"Other textile, apparel, and furnishings workers",1,11,2.7947154471544717e-4
+Netherlands,4647,80521,2113,39360,1551,Electrical and electronic engineering technologists and technicians,1,10,2.5406504065040653e-4
+Netherlands,4647,80521,2113,39360,1640,Conservation scientists and foresters,1,10,2.5406504065040653e-4
+Netherlands,4647,80521,2113,39360,2751,Music directors and composers,1,10,2.5406504065040653e-4
+Netherlands,4647,80521,2113,39360,3245,Other therapists,1,10,2.5406504065040653e-4
+Netherlands,4647,80521,2113,39360,5230,"Credit authorizers, checkers, and clerks",1,10,2.5406504065040653e-4
+Netherlands,4647,80521,2113,39360,5150,Procurement clerks,1,9,2.2865853658536587e-4
+Netherlands,4647,80521,2113,39360,7840,Food batchmakers,2,9,2.2865853658536587e-4
+Netherlands,4647,80521,2113,39360,9150,"Motor vehicle operators, all other",1,9,2.2865853658536587e-4
+Netherlands,4647,80521,2113,39360,4140,Dishwashers,1,8,2.032520325203252e-4
+Netherlands,4647,80521,2113,39360,4521,Manicurists and pedicurists,1,8,2.032520325203252e-4
+Netherlands,4647,80521,2113,39360,0137,Training and development managers,1,7,1.7784552845528457e-4
+Netherlands,4647,80521,2113,39360,0820,Budget analysts,1,7,1.7784552845528457e-4
+Netherlands,4647,80521,2113,39360,5610,"Shipping, receiving, and inventory clerks",1,7,1.7784552845528457e-4
+Netherlands,4647,80521,2113,39360,7905,Computer numerically controlled tool operators and programmers,1,7,1.7784552845528457e-4
+Netherlands,4647,80521,2113,39360,3250,Veterinarians,1,6,1.524390243902439e-4
+Netherlands,4647,80521,2113,39360,5810,Data entry keyers,1,6,1.524390243902439e-4
+Netherlands,4647,80521,2113,39360,7720,"Electrical, electronics, and electromechanical assemblers",1,6,1.524390243902439e-4
+Netherlands,4647,80521,2113,39360,8300,Laundry and dry-cleaning workers,1,6,1.524390243902439e-4
+Netherlands,4647,80521,2113,39360,3515,Medical records specialists,1,5,1.2703252032520327e-4
+Netherlands,4647,80521,2113,39360,6005,"First-line supervisors of farming, fishing, and forestry workers",1,5,1.2703252032520327e-4
+Netherlands,4647,80521,2113,39360,6410,Painters and paperhangers,1,5,1.2703252032520327e-4
+Netherlands,4647,80521,2113,39360,8350,"Tailors, dressmakers, and sewers",1,5,1.2703252032520327e-4
+Netherlands,4647,80521,2113,39360,1900,Agricultural and food science technicians,1,4,1.016260162601626e-4
+Netherlands,4647,80521,2113,39360,3430,Dietetic technicians and ophthalmic medical technicians,1,4,1.016260162601626e-4
+Netherlands,4647,80521,2113,39360,8130,Tool and die makers,1,4,1.016260162601626e-4
+Netherlands,4647,80521,2113,39360,8510,Furniture finishers,1,4,1.016260162601626e-4
+Netherlands,4647,80521,2113,39360,2635,Interior designers,1,3,7.621951219512195e-5
+Netherlands,4647,80521,2113,39360,3261,Acupuncturists,1,2,5.08130081300813e-5
+Netherlands,4647,80521,2113,39360,4200,First-line supervisors of housekeeping and janitorial workers,1,2,5.08130081300813e-5
+Netherlands,4647,80521,2113,39360,5910,Proofreaders and copy markers,1,2,5.08130081300813e-5
+Netherlands,4647,80521,2113,39360,0860,Insurance underwriters,1,1,2.540650406504065e-5

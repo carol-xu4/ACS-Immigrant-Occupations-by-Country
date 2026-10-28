@@ -1,378 +1,391 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-South Africa,6213,132876,3483,78601,0440,Other managers,184,4760,0.060559025966590754
-South Africa,6213,132876,3483,78601,0010,Chief executives and legislators,114,2313,0.029427106525362273
-South Africa,6213,132876,3483,78601,1021,Software developers,99,1987,0.025279576595717612
-South Africa,6213,132876,3483,78601,4600,Childcare workers,70,1769,0.02250607498632333
-South Africa,6213,132876,3483,78601,3090,Physicians,80,1632,0.02076309461711683
-South Africa,6213,132876,3483,78601,2205,Postsecondary teachers,64,1520,0.0193381763590794
-South Africa,6213,132876,3483,78601,0800,Accountants and auditors,68,1482,0.018854721950102415
-South Africa,6213,132876,3483,78601,0710,Management analysts,66,1360,0.01730257884759736
-South Africa,6213,132876,3483,78601,6050,Other agricultural workers,80,1278,0.016259335122962813
-South Africa,6213,132876,3483,78601,3255,Registered nurses,59,1275,0.016221167669622522
-South Africa,6213,132876,3483,78601,9130,Driver/sales workers and truck drivers,52,1189,0.015127034007200927
-South Africa,6213,132876,3483,78601,0020,General and operations managers,44,1143,0.014541799722649839
-South Africa,6213,132876,3483,78601,4700,First-line supervisors of retail sales workers,43,1140,0.014503632269309551
-South Africa,6213,132876,3483,78601,2100,"Lawyers, and judges, magistrates, and other judicial workers",47,1092,0.013892953015864937
-South Africa,6213,132876,3483,78601,0120,Financial managers,51,1066,0.013562168420249106
-South Africa,6213,132876,3483,78601,2310,Elementary and middle school teachers,54,1013,0.012887876744570679
-South Africa,6213,132876,3483,78601,0051,Marketing managers,44,1010,0.012849709291230391
-South Africa,6213,132876,3483,78601,5240,Customer service representatives,36,1000,0.012722484446762763
-South Africa,6213,132876,3483,78601,4110,Waiters and waitresses,55,927,0.011793743082149082
-South Africa,6213,132876,3483,78601,4760,Retail salespersons,35,887,0.011284843704278572
-South Africa,6213,132876,3483,78601,0110,Computer and information systems managers,39,880,0.011195786313151232
-South Africa,6213,132876,3483,78601,4920,Real estate brokers and sales agents,34,784,0.009974427806262006
-South Africa,6213,132876,3483,78601,0630,Human resources workers,31,764,0.009719978117326751
-South Africa,6213,132876,3483,78601,0750,"Business operations specialists, all other",26,743,0.009452805943944733
-South Africa,6213,132876,3483,78601,5740,"Secretaries and administrative assistants, except legal, medical, and executive",39,727,0.00924924619279653
-South Africa,6213,132876,3483,78601,1530,Other engineers,31,712,0.009058408926095088
-South Africa,6213,132876,3483,78601,1108,"Computer occupations, all other",26,674,0.008574954517118103
-South Africa,6213,132876,3483,78601,0735,Market research analysts and marketing specialists,27,656,0.008345949797076374
-South Africa,6213,132876,3483,78601,0850,Personal financial advisors,18,646,0.008218724952608746
-South Africa,6213,132876,3483,78601,5860,"Office clerks, general",24,639,0.008129667561481407
-South Africa,6213,132876,3483,78601,4850,"Sales representatives, wholesale and manufacturing",20,618,0.007862495388099388
-South Africa,6213,132876,3483,78601,1050,Computer support specialists,25,607,0.007722548059184997
-South Africa,6213,132876,3483,78601,9620,"Laborers and freight, stock, and material movers, hand",23,582,0.0074044859480159285
-South Africa,6213,132876,3483,78601,2040,Clergy,23,575,0.00731542855688859
-South Africa,6213,132876,3483,78601,5120,"Bookkeeping, accounting, and auditing clerks",21,574,0.007302706072441827
-South Africa,6213,132876,3483,78601,0230,Education and childcare administrators,29,565,0.007188203712420961
-South Africa,6213,132876,3483,78601,0705,Project management specialists,36,562,0.007150036259080673
-South Africa,6213,132876,3483,78601,4710,First-line supervisors of non-retail sales workers,21,556,0.007073701352400097
-South Africa,6213,132876,3483,78601,2545,Teaching assistants,25,538,0.006844696632358367
-South Africa,6213,132876,3483,78601,3603,Nursing assistants,15,502,0.006386687192274907
-South Africa,6213,132876,3483,78601,3050,Pharmacists,22,474,0.00603045762776555
-South Africa,6213,132876,3483,78601,1006,Computer systems analysts,23,463,0.00589051029885116
-South Africa,6213,132876,3483,78601,2320,Secondary school teachers,21,436,0.005547003218788565
-South Africa,6213,132876,3483,78601,3602,Personal care aides,14,436,0.005547003218788565
-South Africa,6213,132876,3483,78601,4000,Chefs and head cooks,10,433,0.005508835765448277
-South Africa,6213,132876,3483,78601,9030,Aircraft pilots and flight engineers,17,433,0.005508835765448277
-South Africa,6213,132876,3483,78601,1360,Civil engineers,16,416,0.00529255352985331
-South Africa,6213,132876,3483,78601,0410,"Property, real estate, and community association managers",12,412,0.005241663592066259
-South Africa,6213,132876,3483,78601,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",17,411,0.005228941107619496
-South Africa,6213,132876,3483,78601,1760,"Physical scientists, all other",19,399,0.005076271294258343
-South Africa,6213,132876,3483,78601,3010,Dentists,12,378,0.004809099120876324
-South Africa,6213,132876,3483,78601,4720,Cashiers,14,373,0.004745486698642511
-South Africa,6213,132876,3483,78601,0205,"Farmers, ranchers, and other agricultural managers",23,372,0.004732764214195748
-South Africa,6213,132876,3483,78601,5310,"Interviewers, except eligibility and loan",5,368,0.004681874276408697
-South Africa,6213,132876,3483,78601,5000,First-line supervisors of office and administrative support workers,16,360,0.004580094400834595
-South Africa,6213,132876,3483,78601,0310,Food service managers,14,358,0.00455464943194107
-South Africa,6213,132876,3483,78601,0220,Construction managers,19,352,0.004478314525260493
-South Africa,6213,132876,3483,78601,0565,Compliance officers,12,344,0.004376534649686391
-South Africa,6213,132876,3483,78601,4621,Exercise trainers and group fitness instructors,9,339,0.004312922227452577
-South Africa,6213,132876,3483,78601,4020,Cooks,14,333,0.004236587320772
-South Africa,6213,132876,3483,78601,0845,Financial and investment analysts,12,328,0.004172974898538187
-South Africa,6213,132876,3483,78601,2600,Artists and related workers,14,318,0.004045750054070559
-South Africa,6213,132876,3483,78601,0350,Medical and health services managers,15,310,0.003943970178496457
-South Africa,6213,132876,3483,78601,1410,Electrical and electronics engineers,13,300,0.003816745334028829
-South Africa,6213,132876,3483,78601,2910,Photographers,12,297,0.0037785778806885407
-South Africa,6213,132876,3483,78601,2360,Other teachers and instructors,20,296,0.003765855396241778
-South Africa,6213,132876,3483,78601,2722,Coaches and scouts,13,293,0.00372768794290149
-South Africa,6213,132876,3483,78601,4820,"Securities, commodities, and financial services sales agents",9,289,0.0036767980051144386
-South Africa,6213,132876,3483,78601,2710,Producers and directors,12,286,0.0036386305517741506
-South Africa,6213,132876,3483,78601,2300,Preschool and kindergarten teachers,14,283,0.003600463098433862
-South Africa,6213,132876,3483,78601,0136,Human resources managers,10,276,0.003511405707306523
-South Africa,6213,132876,3483,78601,5710,Executive secretaries and executive administrative assistants,13,273,0.0034732382539662343
-South Africa,6213,132876,3483,78601,4350,Animal caretakers,16,271,0.003447793285072709
-South Africa,6213,132876,3483,78601,5110,Billing and posting clerks,5,269,0.0034223483161791835
-South Africa,6213,132876,3483,78601,6260,Construction laborers,15,268,0.0034096258317324207
-South Africa,6213,132876,3483,78601,3150,Occupational therapists,14,263,0.003346013409498607
-South Africa,6213,132876,3483,78601,0150,Purchasing managers,8,255,0.003244233533924505
-South Africa,6213,132876,3483,78601,0540,"Claims adjusters, appraisers, examiners, and investigators",7,255,0.003244233533924505
-South Africa,6213,132876,3483,78601,2850,Writers and authors,10,250,0.0031806211116906908
-South Africa,6213,132876,3483,78601,9645,Stockers and order fillers,9,249,0.0031678986272439284
-South Africa,6213,132876,3483,78601,0725,"Meeting, convention, and event planners",7,245,0.003117008689456877
-South Africa,6213,132876,3483,78601,0052,Sales managers,12,244,0.0031042862050101143
-South Africa,6213,132876,3483,78601,1555,"Other engineering technologists and technicians, except drafters",12,243,0.0030915637205633515
-South Africa,6213,132876,3483,78601,2640,Other designers,9,240,0.0030533962672230634
-South Africa,6213,132876,3483,78601,4435,Other entertainment attendants and related workers,13,240,0.0030533962672230634
-South Africa,6213,132876,3483,78601,0140,Industrial production managers,11,236,0.003002506329436012
-South Africa,6213,132876,3483,78601,3160,Physical therapists,13,236,0.003002506329436012
-South Africa,6213,132876,3483,78601,0300,Architectural and engineering managers,18,224,0.002849836516074859
-South Africa,6213,132876,3483,78601,3258,"Nurse practitioners, and nurse midwives",4,221,0.0028116690627345707
-South Africa,6213,132876,3483,78601,7750,Other assemblers and fabricators,6,220,0.002798946578287808
-South Africa,6213,132876,3483,78601,8990,"Miscellaneous production workers, including equipment operators and tenders",14,217,0.00276077912494752
-South Africa,6213,132876,3483,78601,4510,"Hairdressers, hairstylists, and cosmetologists",12,210,0.0026717217338201806
-South Africa,6213,132876,3483,78601,1007,Information security analysts,9,209,0.0026589992493734177
-South Africa,6213,132876,3483,78601,2825,Public relations specialists,13,209,0.0026589992493734177
-South Africa,6213,132876,3483,78601,4810,Insurance sales agents,9,207,0.002633554280479892
-South Africa,6213,132876,3483,78601,0600,Cost estimators,6,200,0.002544496889352553
-South Africa,6213,132876,3483,78601,1350,Chemical engineers,4,194,0.0024681619826719763
-South Africa,6213,132876,3483,78601,3870,Police officers,8,194,0.0024681619826719763
-South Africa,6213,132876,3483,78601,1105,Network and computer systems administrators,6,192,0.0024427170137784507
-South Africa,6213,132876,3483,78601,4251,Landscaping and groundskeeping workers,7,191,0.002429994529331688
-South Africa,6213,132876,3483,78601,3930,Security guards and gaming surveillance officers,7,190,0.002417272044884925
-South Africa,6213,132876,3483,78601,2014,"Social workers, all other",12,188,0.0023918270759913994
-South Africa,6213,132876,3483,78601,1305,"Architects, except landscape and naval",10,187,0.002379104591544637
-South Africa,6213,132876,3483,78601,6410,Painters and paperhangers,4,186,0.002366382107097874
-South Africa,6213,132876,3483,78601,3250,Veterinarians,7,185,0.0023536596226511114
-South Africa,6213,132876,3483,78601,1240,Other mathematical science occupations,9,184,0.0023409371382043485
-South Africa,6213,132876,3483,78601,3245,Other therapists,10,184,0.0023409371382043485
-South Africa,6213,132876,3483,78601,3645,Medical assistants,6,184,0.0023409371382043485
-South Africa,6213,132876,3483,78601,0420,Social and community service managers,13,183,0.0023282146537575857
-South Africa,6213,132876,3483,78601,3500,Licensed practical and licensed vocational nurses,9,183,0.0023282146537575857
-South Africa,6213,132876,3483,78601,5940,Other office and administrative support workers,6,180,0.0022900472004172977
-South Africa,6213,132876,3483,78601,1065,Database administrators and architects,10,176,0.0022391572626302464
-South Africa,6213,132876,3483,78601,6355,Electricians,8,176,0.0022391572626302464
-South Africa,6213,132876,3483,78601,9005,Supervisors of transportation and material moving workers,6,174,0.0022137122937367208
-South Africa,6213,132876,3483,78601,4655,"Personal care and service workers, all other",2,173,0.002200989809289958
-South Africa,6213,132876,3483,78601,6230,Carpenters,11,171,0.0021755448403964327
-South Africa,6213,132876,3483,78601,1720,Chemists and materials scientists,5,168,0.0021373773870561443
-South Africa,6213,132876,3483,78601,0530,"Purchasing agents, except wholesale, retail, and farm products",3,167,0.0021246549026093815
-South Africa,6213,132876,3483,78601,4930,Sales engineers,6,167,0.0021246549026093815
-South Africa,6213,132876,3483,78601,7700,First-line supervisors of production and operating workers,8,167,0.0021246549026093815
-South Africa,6213,132876,3483,78601,2830,Editors,8,166,0.0021119324181626186
-South Africa,6213,132876,3483,78601,2635,Interior designers,6,165,0.002099209933715856
-South Africa,6213,132876,3483,78601,0060,Public relations and fundraising managers,5,162,0.002061042480375568
-South Africa,6213,132876,3483,78601,7200,Automotive service technicians and mechanics,8,161,0.002048319995928805
-South Africa,6213,132876,3483,78601,1650,Other life scientists,9,160,0.002035597511482042
-South Africa,6213,132876,3483,78601,4220,Janitors and building cleaners,9,157,0.001997430058141754
-South Africa,6213,132876,3483,78601,7140,Aircraft mechanics and service technicians,6,157,0.001997430058141754
-South Africa,6213,132876,3483,78601,1460,Mechanical engineers,8,155,0.0019719850892482285
-South Africa,6213,132876,3483,78601,0650,Training and development specialists,7,154,0.0019592626048014657
-South Africa,6213,132876,3483,78601,2721,Athletes and sports competitors,6,154,0.0019592626048014657
-South Africa,6213,132876,3483,78601,3515,Medical records specialists,7,154,0.0019592626048014657
-South Africa,6213,132876,3483,78601,1320,Aerospace engineers,9,153,0.0019465401203547028
-South Africa,6213,132876,3483,78601,4530,"Baggage porters, bellhops, and concierges",6,153,0.0019465401203547028
-South Africa,6213,132876,3483,78601,6200,First-line supervisors of construction trades and extraction workers,9,151,0.0019210951514611774
-South Africa,6213,132876,3483,78601,0101,Administrative services managers,6,150,0.0019083726670144146
-South Africa,6213,132876,3483,78601,7340,"Maintenance and repair workers, general",6,149,0.0018956501825676518
-South Africa,6213,132876,3483,78601,1825,Other psychologists,8,148,0.001882927698120889
-South Africa,6213,132876,3483,78601,9050,Flight attendants,3,146,0.0018574827292273635
-South Africa,6213,132876,3483,78601,9610,Cleaners of vehicles and equipment,5,146,0.0018574827292273635
-South Africa,6213,132876,3483,78601,0500,"Agents and business managers of artists, performers, and athletes",3,142,0.0018065927914403125
-South Africa,6213,132876,3483,78601,4640,Residential advisors,12,142,0.0018065927914403125
-South Africa,6213,132876,3483,78601,0160,"Transportation, storage, and distribution managers",7,140,0.001781147822546787
-South Africa,6213,132876,3483,78601,1010,Computer programmers,11,140,0.001781147822546787
-South Africa,6213,132876,3483,78601,1520,"Petroleum, mining and geological engineers, including mining safety engineers",1,134,0.0017048129158662103
-South Africa,6213,132876,3483,78601,4120,"Food servers, nonrestaurant",2,134,0.0017048129158662103
-South Africa,6213,132876,3483,78601,2435,Librarians and media collections specialists,6,132,0.001679367946972685
-South Africa,6213,132876,3483,78601,1970,"Other life, physical, and social science technicians",7,131,0.001666645462525922
-South Africa,6213,132876,3483,78601,4965,"Sales and related workers, all other",8,131,0.001666645462525922
-South Africa,6213,132876,3483,78601,7210,Bus and truck mechanics and diesel engine specialists,3,131,0.001666645462525922
-South Africa,6213,132876,3483,78601,5165,Other financial clerks,3,130,0.0016539229780791593
-South Africa,6213,132876,3483,78601,8740,"Inspectors, testers, sorters, samplers, and weighers",5,129,0.0016412004936323965
-South Africa,6213,132876,3483,78601,9142,Taxi drivers,7,128,0.0016284780091856339
-South Africa,6213,132876,3483,78601,0700,Logisticians,6,126,0.0016030330402921082
-South Africa,6213,132876,3483,78601,7800,Bakers,5,125,0.0015903105558453454
-South Africa,6213,132876,3483,78601,2002,"Educational, guidance, and career counselors and advisors",7,118,0.001501253164718006
-South Africa,6213,132876,3483,78601,2634,Graphic designers,6,118,0.001501253164718006
-South Africa,6213,132876,3483,78601,3424,Veterinary technologists and technicians,2,118,0.001501253164718006
-South Africa,6213,132876,3483,78601,2920,"Television, video, and film camera operators and editors",6,116,0.0014758081958244807
-South Africa,6213,132876,3483,78601,2350,Tutors,10,115,0.0014630857113777178
-South Africa,6213,132876,3483,78601,3323,Radiologic technologists and technicians,4,115,0.0014630857113777178
-South Africa,6213,132876,3483,78601,7315,"Heating, air conditioning, and refrigeration mechanics and installers",6,115,0.0014630857113777178
-South Africa,6213,132876,3483,78601,2004,Mental health counselors,6,114,0.001450363226930955
-South Africa,6213,132876,3483,78601,0960,Other financial specialists,6,113,0.0014376407424841924
-South Africa,6213,132876,3483,78601,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,5,111,0.0014121957735906668
-South Africa,6213,132876,3483,78601,4900,"Models, demonstrators, and product promoters",2,110,0.001399473289143904
-South Africa,6213,132876,3483,78601,5610,"Shipping, receiving, and inventory clerks",5,109,0.0013867508046971413
-South Africa,6213,132876,3483,78601,5400,Receptionists and information clerks,8,104,0.0013231383824633275
-South Africa,6213,132876,3483,78601,1106,Computer network architects,6,103,0.0013104158980165646
-South Africa,6213,132876,3483,78601,0340,Lodging managers,5,102,0.0012976934135698018
-South Africa,6213,132876,3483,78601,4055,Fast food and counter workers,6,101,0.0012849709291230392
-South Africa,6213,132876,3483,78601,4030,Food preparation workers,3,100,0.0012722484446762764
-South Africa,6213,132876,3483,78601,9640,"Packers and packagers, hand",3,100,0.0012722484446762764
-South Africa,6213,132876,3483,78601,1031,Web developers,3,96,0.0012213585068892253
-South Africa,6213,132876,3483,78601,0910,Credit counselors and loan officers,4,95,0.0012086360224424625
-South Africa,6213,132876,3483,78601,3300,Clinical laboratory technologists and technicians,5,92,0.0011704685691021743
-South Africa,6213,132876,3483,78601,0137,Training and development managers,4,90,0.0011450236002086488
-South Africa,6213,132876,3483,78601,8140,"Welding, soldering, and brazing workers",5,90,0.0011450236002086488
-South Africa,6213,132876,3483,78601,8350,"Tailors, dressmakers, and sewers",3,90,0.0011450236002086488
-South Africa,6213,132876,3483,78601,1022,Software quality assurance analysts and testers,4,87,0.0011068561468683604
-South Africa,6213,132876,3483,78601,4200,First-line supervisors of housekeeping and janitorial workers,5,86,0.0010941336624215978
-South Africa,6213,132876,3483,78601,7000,"First-line supervisors of mechanics, installers, and repairers",5,85,0.001081411177974835
-South Africa,6213,132876,3483,78601,0860,Insurance underwriters,2,84,0.0010686886935280721
-South Africa,6213,132876,3483,78601,1430,"Industrial engineers, including health and safety",4,83,0.0010559662090813093
-South Africa,6213,132876,3483,78601,3000,Chiropractors,2,82,0.0010432437246345467
-South Africa,6213,132876,3483,78601,3601,Home health aides,4,82,0.0010432437246345467
-South Africa,6213,132876,3483,78601,4010,First-line supervisors of food preparation and serving workers,2,80,0.001017798755741021
-South Africa,6213,132876,3483,78601,1600,Agricultural and food scientists,4,79,0.0010050762712942583
-South Africa,6213,132876,3483,78601,5510,Couriers and messengers,3,79,0.0010050762712942583
-South Africa,6213,132876,3483,78601,7840,Food batchmakers,2,79,0.0010050762712942583
-South Africa,6213,132876,3483,78601,3100,Surgeons,3,77,9.796313024007328e-4
-South Africa,6213,132876,3483,78601,2752,Musicians and singers,4,76,9.6690881795397e-4
-South Africa,6213,132876,3483,78601,3630,Massage therapists,5,75,9.541863335072073e-4
-South Africa,6213,132876,3483,78601,8830,Photographic process workers and processing machine operators,3,75,9.541863335072073e-4
-South Africa,6213,132876,3483,78601,0040,Advertising and promotions managers,4,74,9.414638490604445e-4
-South Africa,6213,132876,3483,78601,1340,Biomedical and agricultural engineers,2,72,9.16018880166919e-4
-South Africa,6213,132876,3483,78601,2555,Other educational instruction and library workers,5,72,9.16018880166919e-4
-South Africa,6213,132876,3483,78601,1745,"Environmental scientists and specialists, including health",3,71,9.032963957201562e-4
-South Africa,6213,132876,3483,78601,4040,Bartenders,3,69,8.778514268266307e-4
-South Africa,6213,132876,3483,78601,3256,Nurse anesthetists,2,68,8.65128942379868e-4
-South Africa,6213,132876,3483,78601,2905,Other media and communication equipment workers,4,67,8.524064579331052e-4
-South Africa,6213,132876,3483,78601,3110,Physician assistants,4,67,8.524064579331052e-4
-South Africa,6213,132876,3483,78601,5730,Medical secretaries and administrative assistants,2,67,8.524064579331052e-4
-South Africa,6213,132876,3483,78601,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",5,66,8.396839734863425e-4
-South Africa,6213,132876,3483,78601,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,64,8.142390045928169e-4
-South Africa,6213,132876,3483,78601,3740,Firefighters,3,63,8.015165201460541e-4
-South Africa,6213,132876,3483,78601,3605,Orderlies and psychiatric aides,2,62,7.887940356992914e-4
-South Africa,6213,132876,3483,78601,5330,Loan interviewers and clerks,2,62,7.887940356992914e-4
-South Africa,6213,132876,3483,78601,9350,Parking attendants,1,61,7.760715512525286e-4
-South Africa,6213,132876,3483,78601,5300,"Hotel, motel, and resort desk clerks",4,59,7.50626582359003e-4
-South Africa,6213,132876,3483,78601,0335,Entertainment and recreation managers,3,58,7.379040979122403e-4
-South Africa,6213,132876,3483,78601,0940,Tax preparers,3,58,7.379040979122403e-4
-South Africa,6213,132876,3483,78601,1750,"Geoscientists and hydrologists, except geographers",1,58,7.379040979122403e-4
-South Africa,6213,132876,3483,78601,7810,"Butchers and other meat, poultry, and fish processing workers",2,58,7.379040979122403e-4
-South Africa,6213,132876,3483,78601,8750,Jewelers and precious stone and metal workers,2,58,7.379040979122403e-4
-South Africa,6213,132876,3483,78601,6520,Sheet metal workers,1,57,7.251816134654775e-4
-South Africa,6213,132876,3483,78601,2060,"Religious workers, all other",3,56,7.124591290187148e-4
-South Africa,6213,132876,3483,78601,2840,Technical writers,4,56,7.124591290187148e-4
-South Africa,6213,132876,3483,78601,5410,Reservation and transportation ticket agents and travel clerks,2,56,7.124591290187148e-4
-South Africa,6213,132876,3483,78601,6442,"Plumbers, pipefitters, and steamfitters",5,56,7.124591290187148e-4
-South Africa,6213,132876,3483,78601,9310,Ship and boat captains and operators,2,56,7.124591290187148e-4
-South Africa,6213,132876,3483,78601,2006,"Counselors, all other",3,54,6.870141601251893e-4
-South Africa,6213,132876,3483,78601,3402,Paramedics,3,54,6.870141601251893e-4
-South Africa,6213,132876,3483,78601,3545,Miscellaneous health technologists and technicians,2,53,6.742916756784264e-4
-South Africa,6213,132876,3483,78601,7350,"Maintenance workers, machinery",1,53,6.742916756784264e-4
-South Africa,6213,132876,3483,78601,1822,School psychologists,4,52,6.615691912316637e-4
-South Africa,6213,132876,3483,78601,5100,Bill and account collectors,2,52,6.615691912316637e-4
-South Africa,6213,132876,3483,78601,6130,Logging workers,1,52,6.615691912316637e-4
-South Africa,6213,132876,3483,78601,3620,Physical therapist assistants and aides,2,51,6.488467067849009e-4
-South Africa,6213,132876,3483,78601,5360,"Human resources assistants, except payroll and timekeeping",2,51,6.488467067849009e-4
-South Africa,6213,132876,3483,78601,5840,Insurance claims and policy processing clerks,4,51,6.488467067849009e-4
-South Africa,6213,132876,3483,78601,1005,Computer and information research scientists,2,50,6.361242223381382e-4
-South Africa,6213,132876,3483,78601,2400,"Archivists, curators, and museum technicians",1,50,6.361242223381382e-4
-South Africa,6213,132876,3483,78601,2632,Fashion designers,3,50,6.361242223381382e-4
-South Africa,6213,132876,3483,78601,4340,Animal trainers,3,50,6.361242223381382e-4
-South Africa,6213,132876,3483,78601,2050,"Directors, religious activities and education",4,49,6.234017378913754e-4
-South Africa,6213,132876,3483,78601,2145,Paralegals and legal assistants,2,47,5.979567689978498e-4
-South Africa,6213,132876,3483,78601,3640,Dental assistants,3,47,5.979567689978498e-4
-South Africa,6213,132876,3483,78601,8365,"Textile machine setters, operators, and tenders",1,46,5.852342845510871e-4
-South Africa,6213,132876,3483,78601,9150,"Motor vehicle operators, all other",1,46,5.852342845510871e-4
-South Africa,6213,132876,3483,78601,1800,Economists,3,45,5.725118001043244e-4
-South Africa,6213,132876,3483,78601,7640,"Other installation, maintenance, and repair workers",5,45,5.725118001043244e-4
-South Africa,6213,132876,3483,78601,4540,Tour and travel guides,2,44,5.597893156575616e-4
-South Africa,6213,132876,3483,78601,0520,"Wholesale and retail buyers, except farm products",1,43,5.470668312107989e-4
-South Africa,6213,132876,3483,78601,1220,Operations research analysts,2,43,5.470668312107989e-4
-South Africa,6213,132876,3483,78601,8255,Printing press operators,1,43,5.470668312107989e-4
-South Africa,6213,132876,3483,78601,8620,Water and wastewater treatment plant and system operators,1,43,5.470668312107989e-4
-South Africa,6213,132876,3483,78601,3647,Pharmacy aides,2,42,5.343443467640361e-4
-South Africa,6213,132876,3483,78601,5320,"Library assistants, clerical",3,42,5.343443467640361e-4
-South Africa,6213,132876,3483,78601,6240,"Carpet, floor, and tile installers and finishers",1,41,5.216218623172734e-4
-South Africa,6213,132876,3483,78601,3422,Psychiatric technicians,2,40,5.088993778705105e-4
-South Africa,6213,132876,3483,78601,3520,"Opticians, dispensing",1,40,5.088993778705105e-4
-South Africa,6213,132876,3483,78601,4400,Gambling services workers,2,40,5.088993778705105e-4
-South Africa,6213,132876,3483,78601,0135,Compensation and benefits managers,2,39,4.961768934237478e-4
-South Africa,6213,132876,3483,78601,3030,Dietitians and nutritionists,2,39,4.961768934237478e-4
-South Africa,6213,132876,3483,78601,7010,"Computer, automated teller, and office machine repairers",2,39,4.961768934237478e-4
-South Africa,6213,132876,3483,78601,9600,Industrial truck and tractor operators,2,39,4.961768934237478e-4
-South Africa,6213,132876,3483,78601,3910,Private detectives and investigators,3,38,4.83454408976985e-4
-South Africa,6213,132876,3483,78601,0830,Credit analysts,2,37,4.7073192453022224e-4
-South Africa,6213,132876,3483,78601,3230,Speech-language pathologists,3,37,4.7073192453022224e-4
-South Africa,6213,132876,3483,78601,1400,Computer hardware engineers,3,36,4.580094400834595e-4
-South Africa,6213,132876,3483,78601,2016,Social and human service assistants,1,36,4.580094400834595e-4
-South Africa,6213,132876,3483,78601,3310,Dental hygienists,1,36,4.580094400834595e-4
-South Africa,6213,132876,3483,78601,9825,Military enlisted tactical operations and air/weapons specialists and crew members,3,36,4.580094400834595e-4
-South Africa,6213,132876,3483,78601,1640,Conservation scientists and foresters,2,35,4.4528695563669676e-4
-South Africa,6213,132876,3483,78601,9141,Shuttle drivers and chauffeurs,2,35,4.4528695563669676e-4
-South Africa,6213,132876,3483,78601,0640,"Compensation, benefits, and job analysis specialists",3,34,4.32564471189934e-4
-South Africa,6213,132876,3483,78601,8800,Packaging and filling machine operators and tenders,1,34,4.32564471189934e-4
-South Africa,6213,132876,3483,78601,1420,Environmental engineers,1,33,4.1984198674317123e-4
-South Africa,6213,132876,3483,78601,2003,Marriage and family therapists,2,33,4.1984198674317123e-4
-South Africa,6213,132876,3483,78601,5160,Tellers,1,33,4.1984198674317123e-4
-South Africa,6213,132876,3483,78601,7220,Heavy vehicle and mobile equipment service technicians and mechanics,3,33,4.1984198674317123e-4
-South Africa,6213,132876,3483,78601,9300,"Sailors and marine oilers, and ship engineers",2,33,4.1984198674317123e-4
-South Africa,6213,132876,3483,78601,1910,Biological technicians,1,31,3.943970178496457e-4
-South Africa,6213,132876,3483,78601,4525,Other personal appearance workers,1,31,3.943970178496457e-4
-South Africa,6213,132876,3483,78601,9122,"Bus drivers, transit and intercity",2,31,3.943970178496457e-4
-South Africa,6213,132876,3483,78601,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",2,30,3.8167453340288293e-4
-South Africa,6213,132876,3483,78601,9121,"Bus drivers, school",4,30,3.8167453340288293e-4
-South Africa,6213,132876,3483,78601,3220,Respiratory therapists,1,29,3.6895204895612016e-4
-South Africa,6213,132876,3483,78601,3261,Acupuncturists,1,29,3.6895204895612016e-4
-South Africa,6213,132876,3483,78601,6765,Other construction and related workers,4,29,3.6895204895612016e-4
-South Africa,6213,132876,3483,78601,9830,"Military, rank not specified",2,29,3.6895204895612016e-4
-South Africa,6213,132876,3483,78601,3700,First-line supervisors of correctional officers,1,28,3.562295645093574e-4
-South Africa,6213,132876,3483,78601,1551,Electrical and electronic engineering technologists and technicians,1,27,3.4350708006259463e-4
-South Africa,6213,132876,3483,78601,2011,"Child, family, and school social workers",2,27,3.4350708006259463e-4
-South Africa,6213,132876,3483,78601,0360,Natural sciences managers,2,26,3.3078459561583187e-4
-South Africa,6213,132876,3483,78601,0810,Property appraisers and assessors,2,26,3.3078459561583187e-4
-South Africa,6213,132876,3483,78601,3421,Pharmacy technicians,2,26,3.3078459561583187e-4
-South Africa,6213,132876,3483,78601,3550,Other healthcare practitioners and technical occupations,2,26,3.3078459561583187e-4
-South Africa,6213,132876,3483,78601,4230,Maids and housekeeping cleaners,2,25,3.180621111690691e-4
-South Africa,6213,132876,3483,78601,4830,Travel agents,2,25,3.180621111690691e-4
-South Africa,6213,132876,3483,78601,0102,Facilities managers,1,24,3.0533962672230633e-4
-South Africa,6213,132876,3483,78601,2330,Special education teachers,2,24,3.0533962672230633e-4
-South Africa,6213,132876,3483,78601,6730,Highway maintenance workers,2,24,3.0533962672230633e-4
-South Africa,6213,132876,3483,78601,7330,Industrial and refractory machinery mechanics,3,24,3.0533962672230633e-4
-South Africa,6213,132876,3483,78601,2005,Rehabilitation counselors,1,23,2.9261714227554357e-4
-South Africa,6213,132876,3483,78601,2810,"News analysts, reporters, and journalists",1,23,2.9261714227554357e-4
-South Africa,6213,132876,3483,78601,6305,Construction equipment operators,1,23,2.9261714227554357e-4
-South Africa,6213,132876,3483,78601,2631,Commercial and industrial designers,2,22,2.798946578287808e-4
-South Africa,6213,132876,3483,78601,3725,"Miscellaneous first-line supervisors, protective service workers",1,22,2.798946578287808e-4
-South Africa,6213,132876,3483,78601,5260,File clerks,1,22,2.798946578287808e-4
-South Africa,6213,132876,3483,78601,7720,"Electrical, electronics, and electromechanical assemblers",1,22,2.798946578287808e-4
-South Africa,6213,132876,3483,78601,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,22,2.798946578287808e-4
-South Africa,6213,132876,3483,78601,8320,Sewing machine operators,1,22,2.798946578287808e-4
-South Africa,6213,132876,3483,78601,8640,"Chemical processing machine setters, operators, and tenders",1,22,2.798946578287808e-4
-South Africa,6213,132876,3483,78601,2012,Healthcare social workers,2,21,2.6717217338201804e-4
-South Africa,6213,132876,3483,78601,2180,"Legal support workers, all other",1,21,2.6717217338201804e-4
-South Africa,6213,132876,3483,78601,4420,"Ushers, lobby attendants, and ticket takers",1,21,2.6717217338201804e-4
-South Africa,6213,132876,3483,78601,8950,Helpers--production workers,1,21,2.6717217338201804e-4
-South Africa,6213,132876,3483,78601,1980,Occupational health and safety specialists and technicians,2,20,2.5444968893525527e-4
-South Africa,6213,132876,3483,78601,4950,"Door-to-door sales workers, news and street vendors, and related workers",1,20,2.5444968893525527e-4
-South Africa,6213,132876,3483,78601,5920,Statistical assistants,1,20,2.5444968893525527e-4
-South Africa,6213,132876,3483,78601,2170,"Title examiners, abstractors, and searchers",1,19,2.417272044884925e-4
-South Africa,6213,132876,3483,78601,3960,Other protective service workers,2,19,2.417272044884925e-4
-South Africa,6213,132876,3483,78601,4140,Dishwashers,1,19,2.417272044884925e-4
-South Africa,6213,132876,3483,78601,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,19,2.417272044884925e-4
-South Africa,6213,132876,3483,78601,6330,"Drywall installers, ceiling tile installers, and tapers",1,19,2.417272044884925e-4
-South Africa,6213,132876,3483,78601,1032,Web and digital interface designers,1,18,2.2900472004172974e-4
-South Africa,6213,132876,3483,78601,1610,Biological scientists,1,18,2.2900472004172974e-4
-South Africa,6213,132876,3483,78601,2001,Substance abuse and behavioral disorder counselors,1,18,2.2900472004172974e-4
-South Africa,6213,132876,3483,78601,2440,Library technicians,1,18,2.2900472004172974e-4
-South Africa,6213,132876,3483,78601,3200,Radiation therapists,1,18,2.2900472004172974e-4
-South Africa,6213,132876,3483,78601,3401,Emergency medical technicians,1,18,2.2900472004172974e-4
-South Africa,6213,132876,3483,78601,3750,Fire inspectors,1,18,2.2900472004172974e-4
-South Africa,6213,132876,3483,78601,6660,Construction and building inspectors,2,18,2.2900472004172974e-4
-South Africa,6213,132876,3483,78601,7020,Radio and telecommunications equipment installers and repairers,1,18,2.2900472004172974e-4
-South Africa,6213,132876,3483,78601,3649,Phlebotomists,1,17,2.16282235594967e-4
-South Africa,6213,132876,3483,78601,4750,Parts salespersons,1,17,2.16282235594967e-4
-South Africa,6213,132876,3483,78601,5350,Correspondence clerks and order clerks,1,17,2.16282235594967e-4
-South Africa,6213,132876,3483,78601,8030,Machinists,2,17,2.16282235594967e-4
-South Africa,6213,132876,3483,78601,8600,"Power plant operators, distributors, and dispatchers",1,17,2.16282235594967e-4
-South Africa,6213,132876,3483,78601,9810,First-line enlisted military supervisors,1,17,2.16282235594967e-4
-South Africa,6213,132876,3483,78601,0726,Fundraisers,1,16,2.0355975114820423e-4
-South Africa,6213,132876,3483,78601,4130,Dining room and cafeteria attendants and bartender helpers,3,16,2.0355975114820423e-4
-South Africa,6213,132876,3483,78601,5140,Payroll and timekeeping clerks,1,16,2.0355975114820423e-4
-South Africa,6213,132876,3483,78601,5810,Data entry keyers,1,16,2.0355975114820423e-4
-South Africa,6213,132876,3483,78601,3040,Optometrists,1,15,1.9083726670144147e-4
-South Africa,6213,132876,3483,78601,3655,Other healthcare support workers,1,15,1.9083726670144147e-4
-South Africa,6213,132876,3483,78601,5150,Procurement clerks,1,15,1.9083726670144147e-4
-South Africa,6213,132876,3483,78601,1200,Actuaries,1,14,1.781147822546787e-4
-South Africa,6213,132876,3483,78601,3140,Audiologists,1,14,1.781147822546787e-4
-South Africa,6213,132876,3483,78601,5550,Postal service mail carriers,1,14,1.781147822546787e-4
-South Africa,6213,132876,3483,78601,7130,Security and fire alarm systems installers,1,14,1.781147822546787e-4
-South Africa,6213,132876,3483,78601,1306,Landscape architects,1,13,1.6539229780791593e-4
-South Africa,6213,132876,3483,78601,1440,Marine engineers and naval architects,1,13,1.6539229780791593e-4
-South Africa,6213,132876,3483,78601,3430,Dietetic technicians and ophthalmic medical technicians,1,13,1.6539229780791593e-4
-South Africa,6213,132876,3483,78601,5600,"Production, planning, and expediting clerks",1,13,1.6539229780791593e-4
-South Africa,6213,132876,3483,78601,9800,Military officer special and tactical operations leaders,1,13,1.6539229780791593e-4
-South Africa,6213,132876,3483,78601,1310,"Surveyors, cartographers, and photogrammetrists",1,12,1.5266981336115317e-4
-South Africa,6213,132876,3483,78601,1860,Other social scientists,1,12,1.5266981336115317e-4
-South Africa,6213,132876,3483,78601,4521,Manicurists and pedicurists,1,12,1.5266981336115317e-4
-South Africa,6213,132876,3483,78601,8500,Cabinetmakers and bench carpenters,1,12,1.5266981336115317e-4
-South Africa,6213,132876,3483,78601,1545,Other drafters,1,11,1.399473289143904e-4
-South Africa,6213,132876,3483,78601,1920,Chemical technicians,1,11,1.399473289143904e-4
-South Africa,6213,132876,3483,78601,2751,Music directors and composers,1,11,1.399473289143904e-4
-South Africa,6213,132876,3483,78601,6825,Surface mining machine operators and earth drillers,2,11,1.399473289143904e-4
-South Africa,6213,132876,3483,78601,3322,Diagnostic medical sonographers,1,10,1.2722484446762763e-4
-South Africa,6213,132876,3483,78601,3802,Correctional officers and jailers,1,10,1.2722484446762763e-4
-South Africa,6213,132876,3483,78601,8450,Upholsterers,1,10,1.2722484446762763e-4
-South Africa,6213,132876,3483,78601,6950,Other extraction workers,1,9,1.1450236002086487e-4
-South Africa,6213,132876,3483,78601,7030,Avionics technicians,1,9,1.1450236002086487e-4
-South Africa,6213,132876,3483,78601,5540,Postal service clerks,1,8,1.0177987557410212e-4
-South Africa,6213,132876,3483,78601,6250,"Cement masons, concrete finishers, and terrazzo workers",1,8,1.0177987557410212e-4
-South Africa,6213,132876,3483,78601,7240,Small engine mechanics,1,8,1.0177987557410212e-4
-South Africa,6213,132876,3483,78601,2862,Court reporters and simultaneous captioners,1,7,8.905739112733935e-5
-South Africa,6213,132876,3483,78601,3710,First-line supervisors of police and detectives,1,7,8.905739112733935e-5
-South Africa,6213,132876,3483,78601,6040,"Graders and sorters, agricultural products",1,7,8.905739112733935e-5
-South Africa,6213,132876,3483,78601,2013,Mental health and substance abuse social workers,1,6,7.633490668057658e-5
-South Africa,6213,132876,3483,78601,4622,Recreation workers,1,6,7.633490668057658e-5
-South Africa,6213,132876,3483,78601,7420,Telecommunications line installers and repairers,1,6,7.633490668057658e-5
-South Africa,6213,132876,3483,78601,8225,Other metal workers and plastic workers,1,6,7.633490668057658e-5
-South Africa,6213,132876,3483,78601,1821,Clinical and counseling psychologists,1,5,6.361242223381382e-5
-South Africa,6213,132876,3483,78601,5910,Proofreaders and copy markers,1,5,6.361242223381382e-5
-South Africa,6213,132876,3483,78601,9760,Other material moving workers,1,5,6.361242223381382e-5
-South Africa,6213,132876,3483,78601,6710,Fence erectors,1,4,5.088993778705106e-5
-South Africa,6213,132876,3483,78601,7410,Electrical power-line installers and repairers,1,4,5.088993778705106e-5
-South Africa,6213,132876,3483,78601,9430,Other transportation workers,2,4,5.088993778705106e-5
-South Africa,6213,132876,3483,78601,7905,Computer numerically controlled tool operators and programmers,1,2,2.544496889352553e-5
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+South Africa,6213,132876,3935,87273,0440,Other managers,197,5464,0.06260813768290308
+South Africa,6213,132876,3935,87273,0010,Chief executives and legislators,127,2627,0.03010094760120541
+South Africa,6213,132876,3935,87273,3090,Physicians,113,2319,0.026571791963150116
+South Africa,6213,132876,3935,87273,1021,Software developers,100,2002,0.022939511647359436
+South Africa,6213,132876,3935,87273,2205,Postsecondary teachers,85,1796,0.0205791023569718
+South Africa,6213,132876,3935,87273,4600,Childcare workers,71,1785,0.020453061084184113
+South Africa,6213,132876,3935,87273,0800,Accountants and auditors,76,1560,0.01787494414079956
+South Africa,6213,132876,3935,87273,0710,Management analysts,78,1531,0.017542653512541105
+South Africa,6213,132876,3935,87273,9130,Driver/sales workers and truck drivers,53,1396,0.015995783346510375
+South Africa,6213,132876,3935,87273,3255,Registered nurses,64,1342,0.015377035280098083
+South Africa,6213,132876,3935,87273,6050,Other agricultural workers,82,1304,0.014941619974104248
+South Africa,6213,132876,3935,87273,5240,Customer service representatives,39,1230,0.014093705957168884
+South Africa,6213,132876,3935,87273,0120,Financial managers,58,1211,0.013875998304171966
+South Africa,6213,132876,3935,87273,4700,First-line supervisors of retail sales workers,48,1193,0.013669748948701202
+South Africa,6213,132876,3935,87273,2310,Elementary and middle school teachers,66,1168,0.013383291510547363
+South Africa,6213,132876,3935,87273,0020,General and operations managers,45,1162,0.013314541725390441
+South Africa,6213,132876,3935,87273,4760,Retail salespersons,44,1158,0.013268708535285827
+South Africa,6213,132876,3935,87273,2100,"Lawyers, and judges, magistrates, and other judicial workers",52,1154,0.013222875345181214
+South Africa,6213,132876,3935,87273,0051,Marketing managers,46,1039,0.011905171129673552
+South Africa,6213,132876,3935,87273,4110,Waiters and waitresses,60,1038,0.0118937128321474
+South Africa,6213,132876,3935,87273,4920,Real estate brokers and sales agents,45,963,0.011034340517685882
+South Africa,6213,132876,3935,87273,0110,Computer and information systems managers,40,892,0.010220801393328979
+South Africa,6213,132876,3935,87273,5740,"Secretaries and administrative assistants, except legal, medical, and executive",46,855,0.009796844384861298
+South Africa,6213,132876,3935,87273,0630,Human resources workers,32,766,0.00877705590503363
+South Africa,6213,132876,3935,87273,0750,"Business operations specialists, all other",28,765,0.008765597607507477
+South Africa,6213,132876,3935,87273,0850,Personal financial advisors,21,713,0.008169766136147491
+South Africa,6213,132876,3935,87273,1530,Other engineers,31,712,0.008158307838621337
+South Africa,6213,132876,3935,87273,5860,"Office clerks, general",27,696,0.00797497507820288
+South Africa,6213,132876,3935,87273,4710,First-line supervisors of non-retail sales workers,26,690,0.007906225293045958
+South Africa,6213,132876,3935,87273,2040,Clergy,31,680,0.0077916423177844234
+South Africa,6213,132876,3935,87273,1108,"Computer occupations, all other",26,674,0.007722892532627502
+South Africa,6213,132876,3935,87273,4850,"Sales representatives, wholesale and manufacturing",24,664,0.0076083095573659665
+South Africa,6213,132876,3935,87273,0735,Market research analysts and marketing specialists,27,656,0.007516643177156738
+South Africa,6213,132876,3935,87273,1050,Computer support specialists,28,652,0.007470809987052124
+South Africa,6213,132876,3935,87273,5120,"Bookkeeping, accounting, and auditing clerks",26,631,0.007230185739002899
+South Africa,6213,132876,3935,87273,9620,"Laborers and freight, stock, and material movers, hand",25,595,0.00681768702806137
+South Africa,6213,132876,3935,87273,0230,Education and childcare administrators,31,583,0.006680187457747528
+South Africa,6213,132876,3935,87273,3602,Personal care aides,20,579,0.006634354267642913
+South Africa,6213,132876,3935,87273,0705,Project management specialists,37,578,0.00662289597011676
+South Africa,6213,132876,3935,87273,2545,Teaching assistants,28,551,0.006313521936910614
+South Africa,6213,132876,3935,87273,2320,Secondary school teachers,29,538,0.006164564069070617
+South Africa,6213,132876,3935,87273,5000,First-line supervisors of office and administrative support workers,23,508,0.005820815143286011
+South Africa,6213,132876,3935,87273,2850,Writers and authors,13,507,0.005809356845759857
+South Africa,6213,132876,3935,87273,3603,Nursing assistants,15,502,0.0057520653581290895
+South Africa,6213,132876,3935,87273,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",21,497,0.005694773870498321
+South Africa,6213,132876,3935,87273,3050,Pharmacists,23,490,0.005614565787815246
+South Africa,6213,132876,3935,87273,1006,Computer systems analysts,24,478,0.005477066217501403
+South Africa,6213,132876,3935,87273,1360,Civil engineers,18,475,0.005442691324922943
+South Africa,6213,132876,3935,87273,4720,Cashiers,21,469,0.005373941539766022
+South Africa,6213,132876,3935,87273,0410,"Property, real estate, and community association managers",15,456,0.005224983671926025
+South Africa,6213,132876,3935,87273,9030,Aircraft pilots and flight engineers,18,448,0.005133317291716797
+South Africa,6213,132876,3935,87273,0350,Medical and health services managers,18,439,0.0050301926139814145
+South Africa,6213,132876,3935,87273,4000,Chefs and head cooks,10,433,0.004961442828824493
+South Africa,6213,132876,3935,87273,1760,"Physical scientists, all other",21,418,0.00478956836593219
+South Africa,6213,132876,3935,87273,3010,Dentists,14,404,0.0046291522005660396
+South Africa,6213,132876,3935,87273,0310,Food service managers,19,397,0.004548944117882965
+South Africa,6213,132876,3935,87273,0220,Construction managers,21,384,0.004399986250042969
+South Africa,6213,132876,3935,87273,0205,"Farmers, ranchers, and other agricultural managers",23,372,0.004262486679729126
+South Africa,6213,132876,3935,87273,2360,Other teachers and instructors,23,372,0.004262486679729126
+South Africa,6213,132876,3935,87273,4621,Exercise trainers and group fitness instructors,12,368,0.004216653489624512
+South Africa,6213,132876,3935,87273,5310,"Interviewers, except eligibility and loan",5,368,0.004216653489624512
+South Africa,6213,132876,3935,87273,0565,Compliance officers,13,367,0.004205195192098358
+South Africa,6213,132876,3935,87273,1410,Electrical and electronics engineers,16,359,0.00411352881188913
+South Africa,6213,132876,3935,87273,4020,Cooks,15,354,0.004056237324258361
+South Africa,6213,132876,3935,87273,2300,Preschool and kindergarten teachers,17,353,0.0040447790267322085
+South Africa,6213,132876,3935,87273,2600,Artists and related workers,17,349,0.003998945836627594
+South Africa,6213,132876,3935,87273,0845,Financial and investment analysts,13,335,0.003838529671261444
+South Africa,6213,132876,3935,87273,3930,Security guards and gaming surveillance officers,11,322,0.003689571803421448
+South Africa,6213,132876,3935,87273,4820,"Securities, commodities, and financial services sales agents",11,310,0.0035520722331076047
+South Africa,6213,132876,3935,87273,0052,Sales managers,14,307,0.003517697340529144
+South Africa,6213,132876,3935,87273,2722,Coaches and scouts,14,303,0.00347186415042453
+South Africa,6213,132876,3935,87273,2910,Photographers,12,297,0.0034031143652676087
+South Africa,6213,132876,3935,87273,6260,Construction laborers,17,297,0.0034031143652676087
+South Africa,6213,132876,3935,87273,5710,Executive secretaries and executive administrative assistants,15,288,0.0032999896875322266
+South Africa,6213,132876,3935,87273,2710,Producers and directors,12,286,0.0032770730924799193
+South Africa,6213,132876,3935,87273,0540,"Claims adjusters, appraisers, examiners, and investigators",8,279,0.0031968650097968444
+South Africa,6213,132876,3935,87273,0136,Human resources managers,10,276,0.003162490117218384
+South Africa,6213,132876,3935,87273,4350,Animal caretakers,16,271,0.003105198629587616
+South Africa,6213,132876,3935,87273,5110,Billing and posting clerks,5,269,0.0030822820345353086
+South Africa,6213,132876,3935,87273,0150,Purchasing managers,9,267,0.0030593654394830017
+South Africa,6213,132876,3935,87273,2825,Public relations specialists,15,267,0.0030593654394830017
+South Africa,6213,132876,3935,87273,3150,Occupational therapists,14,263,0.0030135322493783875
+South Africa,6213,132876,3935,87273,9645,Stockers and order fillers,10,263,0.0030135322493783875
+South Africa,6213,132876,3935,87273,1305,"Architects, except landscape and naval",15,262,0.003002073951852234
+South Africa,6213,132876,3935,87273,7750,Other assemblers and fabricators,8,258,0.0029562407617476196
+South Africa,6213,132876,3935,87273,3160,Physical therapists,15,255,0.002921865869169159
+South Africa,6213,132876,3935,87273,1555,"Other engineering technologists and technicians, except drafters",13,254,0.0029104075716430053
+South Africa,6213,132876,3935,87273,2640,Other designers,10,252,0.002887490976590698
+South Africa,6213,132876,3935,87273,4435,Other entertainment attendants and related workers,14,248,0.0028416577864860838
+South Africa,6213,132876,3935,87273,0530,"Purchasing agents, except wholesale, retail, and farm products",5,247,0.0028301994889599305
+South Africa,6213,132876,3935,87273,0725,"Meeting, convention, and event planners",7,245,0.002807282893907623
+South Africa,6213,132876,3935,87273,2014,"Social workers, all other",13,242,0.0027729080013291626
+South Africa,6213,132876,3935,87273,0140,Industrial production managers,11,236,0.002704158216172241
+South Africa,6213,132876,3935,87273,6410,Painters and paperhangers,6,227,0.002601033538436859
+South Africa,6213,132876,3935,87273,2635,Interior designers,9,226,0.0025895752409107057
+South Africa,6213,132876,3935,87273,4510,"Hairdressers, hairstylists, and cosmetologists",13,226,0.0025895752409107057
+South Africa,6213,132876,3935,87273,9005,Supervisors of transportation and material moving workers,7,226,0.0025895752409107057
+South Africa,6213,132876,3935,87273,8990,"Miscellaneous production workers, including equipment operators and tenders",15,225,0.002578116943384552
+South Africa,6213,132876,3935,87273,0300,Architectural and engineering managers,18,224,0.0025666586458583983
+South Africa,6213,132876,3935,87273,3258,"Nurse practitioners, and nurse midwives",4,221,0.0025322837532799377
+South Africa,6213,132876,3935,87273,1350,Chemical engineers,6,219,0.0025093671582276304
+South Africa,6213,132876,3935,87273,1825,Other psychologists,13,216,0.00247499226564917
+South Africa,6213,132876,3935,87273,3250,Veterinarians,9,216,0.00247499226564917
+South Africa,6213,132876,3935,87273,4810,Insurance sales agents,11,215,0.002463533968123016
+South Africa,6213,132876,3935,87273,0600,Cost estimators,7,209,0.002394784182966095
+South Africa,6213,132876,3935,87273,1007,Information security analysts,9,209,0.002394784182966095
+South Africa,6213,132876,3935,87273,3245,Other therapists,11,194,0.0022229097200737913
+South Africa,6213,132876,3935,87273,3870,Police officers,8,194,0.0022229097200737913
+South Africa,6213,132876,3935,87273,7210,Bus and truck mechanics and diesel engine specialists,5,194,0.0022229097200737913
+South Africa,6213,132876,3935,87273,1105,Network and computer systems administrators,6,192,0.0021999931250214844
+South Africa,6213,132876,3935,87273,5940,Other office and administrative support workers,8,192,0.0021999931250214844
+South Africa,6213,132876,3935,87273,4251,Landscaping and groundskeeping workers,7,191,0.0021885348274953307
+South Africa,6213,132876,3935,87273,1240,Other mathematical science occupations,9,184,0.002108326744812256
+South Africa,6213,132876,3935,87273,3645,Medical assistants,6,184,0.002108326744812256
+South Africa,6213,132876,3935,87273,6230,Carpenters,13,184,0.002108326744812256
+South Africa,6213,132876,3935,87273,0420,Social and community service managers,13,183,0.0020968684472861022
+South Africa,6213,132876,3935,87273,3500,Licensed practical and licensed vocational nurses,9,183,0.0020968684472861022
+South Africa,6213,132876,3935,87273,2830,Editors,9,180,0.0020624935547076417
+South Africa,6213,132876,3935,87273,4655,"Personal care and service workers, all other",3,178,0.0020395769596553343
+South Africa,6213,132876,3935,87273,7200,Automotive service technicians and mechanics,9,178,0.0020395769596553343
+South Africa,6213,132876,3935,87273,1065,Database administrators and architects,10,176,0.0020166603646030274
+South Africa,6213,132876,3935,87273,6355,Electricians,8,176,0.0020166603646030274
+South Africa,6213,132876,3935,87273,7140,Aircraft mechanics and service technicians,7,176,0.0020166603646030274
+South Africa,6213,132876,3935,87273,1720,Chemists and materials scientists,6,171,0.0019593688769722595
+South Africa,6213,132876,3935,87273,5165,Other financial clerks,4,171,0.0019593688769722595
+South Africa,6213,132876,3935,87273,4120,"Food servers, nonrestaurant",3,170,0.0019479105794461059
+South Africa,6213,132876,3935,87273,1650,Other life scientists,10,169,0.0019364522819199524
+South Africa,6213,132876,3935,87273,1460,Mechanical engineers,9,168,0.0019249939843937987
+South Africa,6213,132876,3935,87273,4930,Sales engineers,6,167,0.0019135356868676453
+South Africa,6213,132876,3935,87273,7700,First-line supervisors of production and operating workers,8,167,0.0019135356868676453
+South Africa,6213,132876,3935,87273,4220,Janitors and building cleaners,10,164,0.0018791607942891845
+South Africa,6213,132876,3935,87273,0060,Public relations and fundraising managers,5,162,0.0018562441992368774
+South Africa,6213,132876,3935,87273,4530,"Baggage porters, bellhops, and concierges",7,162,0.0018562441992368774
+South Africa,6213,132876,3935,87273,1010,Computer programmers,13,157,0.0017989527116061095
+South Africa,6213,132876,3935,87273,0650,Training and development specialists,7,154,0.001764577819027649
+South Africa,6213,132876,3935,87273,2721,Athletes and sports competitors,6,154,0.001764577819027649
+South Africa,6213,132876,3935,87273,3515,Medical records specialists,7,154,0.001764577819027649
+South Africa,6213,132876,3935,87273,1320,Aerospace engineers,9,153,0.0017531195215014952
+South Africa,6213,132876,3935,87273,4965,"Sales and related workers, all other",9,152,0.0017416612239753418
+South Africa,6213,132876,3935,87273,6200,First-line supervisors of construction trades and extraction workers,9,151,0.0017302029264491881
+South Africa,6213,132876,3935,87273,0101,Administrative services managers,6,150,0.0017187446289230347
+South Africa,6213,132876,3935,87273,1970,"Other life, physical, and social science technicians",8,149,0.001707286331396881
+South Africa,6213,132876,3935,87273,7340,"Maintenance and repair workers, general",6,149,0.001707286331396881
+South Africa,6213,132876,3935,87273,1520,"Petroleum, mining and geological engineers, including mining safety engineers",2,148,0.0016958280338707275
+South Africa,6213,132876,3935,87273,9142,Taxi drivers,10,148,0.0016958280338707275
+South Africa,6213,132876,3935,87273,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,7,147,0.0016843697363445739
+South Africa,6213,132876,3935,87273,3300,Clinical laboratory technologists and technicians,7,146,0.0016729114388184204
+South Africa,6213,132876,3935,87273,5400,Receptionists and information clerks,11,146,0.0016729114388184204
+South Africa,6213,132876,3935,87273,9050,Flight attendants,3,146,0.0016729114388184204
+South Africa,6213,132876,3935,87273,9610,Cleaners of vehicles and equipment,5,146,0.0016729114388184204
+South Africa,6213,132876,3935,87273,2435,Librarians and media collections specialists,7,143,0.0016385365462399596
+South Africa,6213,132876,3935,87273,0500,"Agents and business managers of artists, performers, and athletes",3,142,0.0016270782487138062
+South Africa,6213,132876,3935,87273,4640,Residential advisors,12,142,0.0016270782487138062
+South Africa,6213,132876,3935,87273,0160,"Transportation, storage, and distribution managers",7,140,0.001604161653661499
+South Africa,6213,132876,3935,87273,8740,"Inspectors, testers, sorters, samplers, and weighers",6,138,0.001581245058609192
+South Africa,6213,132876,3935,87273,2002,"Educational, guidance, and career counselors and advisors",8,130,0.0014895786783999632
+South Africa,6213,132876,3935,87273,4030,Food preparation workers,5,130,0.0014895786783999632
+South Africa,6213,132876,3935,87273,2634,Graphic designers,7,129,0.0014781203808738098
+South Africa,6213,132876,3935,87273,0340,Lodging managers,7,128,0.0014666620833476561
+South Africa,6213,132876,3935,87273,4830,Travel agents,4,128,0.0014666620833476561
+South Africa,6213,132876,3935,87273,2004,Mental health counselors,8,127,0.0014552037858215027
+South Africa,6213,132876,3935,87273,0700,Logisticians,6,126,0.001443745488295349
+South Africa,6213,132876,3935,87273,7800,Bakers,5,125,0.0014322871907691955
+South Africa,6213,132876,3935,87273,2060,"Religious workers, all other",13,120,0.0013749957031384276
+South Africa,6213,132876,3935,87273,3424,Veterinary technologists and technicians,2,118,0.0013520791080861205
+South Africa,6213,132876,3935,87273,4055,Fast food and counter workers,7,117,0.001340620810559967
+South Africa,6213,132876,3935,87273,2920,"Television, video, and film camera operators and editors",6,116,0.0013291625130338134
+South Africa,6213,132876,3935,87273,2350,Tutors,10,115,0.00131770421550766
+South Africa,6213,132876,3935,87273,3323,Radiologic technologists and technicians,4,115,0.00131770421550766
+South Africa,6213,132876,3935,87273,7315,"Heating, air conditioning, and refrigeration mechanics and installers",6,115,0.00131770421550766
+South Africa,6213,132876,3935,87273,0960,Other financial specialists,6,113,0.0012947876204553528
+South Africa,6213,132876,3935,87273,8350,"Tailors, dressmakers, and sewers",5,112,0.0012833293229291992
+South Africa,6213,132876,3935,87273,3601,Home health aides,5,110,0.001260412727876892
+South Africa,6213,132876,3935,87273,4900,"Models, demonstrators, and product promoters",2,110,0.001260412727876892
+South Africa,6213,132876,3935,87273,4010,First-line supervisors of food preparation and serving workers,4,109,0.0012489544303507386
+South Africa,6213,132876,3935,87273,5610,"Shipping, receiving, and inventory clerks",5,109,0.0012489544303507386
+South Africa,6213,132876,3935,87273,3000,Chiropractors,4,108,0.001237496132824585
+South Africa,6213,132876,3935,87273,1106,Computer network architects,6,103,0.001180204645193817
+South Africa,6213,132876,3935,87273,1031,Web developers,4,102,0.0011687463476676636
+South Africa,6213,132876,3935,87273,3100,Surgeons,5,102,0.0011687463476676636
+South Africa,6213,132876,3935,87273,9640,"Packers and packagers, hand",3,100,0.0011458297526153564
+South Africa,6213,132876,3935,87273,3630,Massage therapists,6,98,0.0011229131575630493
+South Africa,6213,132876,3935,87273,0910,Credit counselors and loan officers,4,95,0.0010885382649845885
+South Africa,6213,132876,3935,87273,7000,"First-line supervisors of mechanics, installers, and repairers",6,94,0.001077079967458435
+South Africa,6213,132876,3935,87273,2752,Musicians and singers,5,93,0.0010656216699322814
+South Africa,6213,132876,3935,87273,0137,Training and development managers,4,90,0.0010312467773538208
+South Africa,6213,132876,3935,87273,8140,"Welding, soldering, and brazing workers",5,90,0.0010312467773538208
+South Africa,6213,132876,3935,87273,1022,Software quality assurance analysts and testers,4,87,9.9687188477536e-4
+South Africa,6213,132876,3935,87273,4200,First-line supervisors of housekeeping and janitorial workers,5,86,9.854135872492066e-4
+South Africa,6213,132876,3935,87273,0860,Insurance underwriters,2,84,9.624969921968994e-4
+South Africa,6213,132876,3935,87273,1430,"Industrial engineers, including health and safety",4,83,9.510386946707458e-4
+South Africa,6213,132876,3935,87273,6765,Other construction and related workers,5,80,9.166638020922851e-4
+South Africa,6213,132876,3935,87273,1600,Agricultural and food scientists,4,79,9.052055045661316e-4
+South Africa,6213,132876,3935,87273,5510,Couriers and messengers,3,79,9.052055045661316e-4
+South Africa,6213,132876,3935,87273,7840,Food batchmakers,2,79,9.052055045661316e-4
+South Africa,6213,132876,3935,87273,8830,Photographic process workers and processing machine operators,3,75,8.593723144615173e-4
+South Africa,6213,132876,3935,87273,0040,Advertising and promotions managers,4,74,8.479140169353638e-4
+South Africa,6213,132876,3935,87273,5330,Loan interviewers and clerks,3,73,8.364557194092102e-4
+South Africa,6213,132876,3935,87273,1340,Biomedical and agricultural engineers,2,72,8.249974218830566e-4
+South Africa,6213,132876,3935,87273,2555,Other educational instruction and library workers,5,72,8.249974218830566e-4
+South Africa,6213,132876,3935,87273,1745,"Environmental scientists and specialists, including health",3,71,8.135391243569031e-4
+South Africa,6213,132876,3935,87273,4040,Bartenders,3,69,7.90622529304596e-4
+South Africa,6213,132876,3935,87273,3256,Nurse anesthetists,2,68,7.791642317784424e-4
+South Africa,6213,132876,3935,87273,2905,Other media and communication equipment workers,4,67,7.677059342522888e-4
+South Africa,6213,132876,3935,87273,3110,Physician assistants,4,67,7.677059342522888e-4
+South Africa,6213,132876,3935,87273,5360,"Human resources assistants, except payroll and timekeeping",3,67,7.677059342522888e-4
+South Africa,6213,132876,3935,87273,5730,Medical secretaries and administrative assistants,2,67,7.677059342522888e-4
+South Africa,6213,132876,3935,87273,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",5,66,7.562476367261352e-4
+South Africa,6213,132876,3935,87273,3620,Physical therapist assistants and aides,3,64,7.333310416738281e-4
+South Africa,6213,132876,3935,87273,5410,Reservation and transportation ticket agents and travel clerks,3,64,7.333310416738281e-4
+South Africa,6213,132876,3935,87273,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,64,7.333310416738281e-4
+South Africa,6213,132876,3935,87273,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",2,64,7.333310416738281e-4
+South Africa,6213,132876,3935,87273,3740,Firefighters,3,63,7.218727441476745e-4
+South Africa,6213,132876,3935,87273,3605,Orderlies and psychiatric aides,2,62,7.104144466215209e-4
+South Africa,6213,132876,3935,87273,9350,Parking attendants,1,61,6.989561490953674e-4
+South Africa,6213,132876,3935,87273,0940,Tax preparers,4,60,6.874978515692138e-4
+South Africa,6213,132876,3935,87273,5300,"Hotel, motel, and resort desk clerks",4,59,6.760395540430603e-4
+South Africa,6213,132876,3935,87273,0335,Entertainment and recreation managers,3,58,6.645812565169067e-4
+South Africa,6213,132876,3935,87273,1750,"Geoscientists and hydrologists, except geographers",1,58,6.645812565169067e-4
+South Africa,6213,132876,3935,87273,4340,Animal trainers,4,58,6.645812565169067e-4
+South Africa,6213,132876,3935,87273,7810,"Butchers and other meat, poultry, and fish processing workers",2,58,6.645812565169067e-4
+South Africa,6213,132876,3935,87273,8750,Jewelers and precious stone and metal workers,2,58,6.645812565169067e-4
+South Africa,6213,132876,3935,87273,6520,Sheet metal workers,1,57,6.531229589907531e-4
+South Africa,6213,132876,3935,87273,2840,Technical writers,4,56,6.416646614645996e-4
+South Africa,6213,132876,3935,87273,6442,"Plumbers, pipefitters, and steamfitters",5,56,6.416646614645996e-4
+South Africa,6213,132876,3935,87273,9310,Ship and boat captains and operators,2,56,6.416646614645996e-4
+South Africa,6213,132876,3935,87273,2006,"Counselors, all other",3,54,6.187480664122925e-4
+South Africa,6213,132876,3935,87273,3402,Paramedics,3,54,6.187480664122925e-4
+South Africa,6213,132876,3935,87273,3545,Miscellaneous health technologists and technicians,2,53,6.072897688861389e-4
+South Africa,6213,132876,3935,87273,7350,"Maintenance workers, machinery",1,53,6.072897688861389e-4
+South Africa,6213,132876,3935,87273,1822,School psychologists,4,52,5.958314713599853e-4
+South Africa,6213,132876,3935,87273,5100,Bill and account collectors,2,52,5.958314713599853e-4
+South Africa,6213,132876,3935,87273,6130,Logging workers,1,52,5.958314713599853e-4
+South Africa,6213,132876,3935,87273,5840,Insurance claims and policy processing clerks,4,51,5.843731738338318e-4
+South Africa,6213,132876,3935,87273,1005,Computer and information research scientists,2,50,5.729148763076782e-4
+South Africa,6213,132876,3935,87273,2400,"Archivists, curators, and museum technicians",1,50,5.729148763076782e-4
+South Africa,6213,132876,3935,87273,2632,Fashion designers,3,50,5.729148763076782e-4
+South Africa,6213,132876,3935,87273,2050,"Directors, religious activities and education",4,49,5.614565787815247e-4
+South Africa,6213,132876,3935,87273,7855,"Food processing workers, all other",1,49,5.614565787815247e-4
+South Africa,6213,132876,3935,87273,0640,"Compensation, benefits, and job analysis specialists",4,48,5.499982812553711e-4
+South Africa,6213,132876,3935,87273,2145,Paralegals and legal assistants,2,47,5.385399837292175e-4
+South Africa,6213,132876,3935,87273,3640,Dental assistants,3,47,5.385399837292175e-4
+South Africa,6213,132876,3935,87273,4540,Tour and travel guides,3,47,5.385399837292175e-4
+South Africa,6213,132876,3935,87273,3430,Dietetic technicians and ophthalmic medical technicians,2,46,5.27081686203064e-4
+South Africa,6213,132876,3935,87273,8365,"Textile machine setters, operators, and tenders",1,46,5.27081686203064e-4
+South Africa,6213,132876,3935,87273,9150,"Motor vehicle operators, all other",1,46,5.27081686203064e-4
+South Africa,6213,132876,3935,87273,1800,Economists,3,45,5.156233886769104e-4
+South Africa,6213,132876,3935,87273,7640,"Other installation, maintenance, and repair workers",5,45,5.156233886769104e-4
+South Africa,6213,132876,3935,87273,0520,"Wholesale and retail buyers, except farm products",1,43,4.927067936246033e-4
+South Africa,6213,132876,3935,87273,1220,Operations research analysts,2,43,4.927067936246033e-4
+South Africa,6213,132876,3935,87273,8255,Printing press operators,1,43,4.927067936246033e-4
+South Africa,6213,132876,3935,87273,8620,Water and wastewater treatment plant and system operators,1,43,4.927067936246033e-4
+South Africa,6213,132876,3935,87273,2003,Marriage and family therapists,3,42,4.812484960984497e-4
+South Africa,6213,132876,3935,87273,3647,Pharmacy aides,2,42,4.812484960984497e-4
+South Africa,6213,132876,3935,87273,5320,"Library assistants, clerical",3,42,4.812484960984497e-4
+South Africa,6213,132876,3935,87273,6240,"Carpet, floor, and tile installers and finishers",1,41,4.697901985722961e-4
+South Africa,6213,132876,3935,87273,3422,Psychiatric technicians,2,40,4.5833190104614256e-4
+South Africa,6213,132876,3935,87273,3520,"Opticians, dispensing",1,40,4.5833190104614256e-4
+South Africa,6213,132876,3935,87273,4400,Gambling services workers,2,40,4.5833190104614256e-4
+South Africa,6213,132876,3935,87273,5810,Data entry keyers,3,40,4.5833190104614256e-4
+South Africa,6213,132876,3935,87273,0135,Compensation and benefits managers,2,39,4.46873603519989e-4
+South Africa,6213,132876,3935,87273,3030,Dietitians and nutritionists,2,39,4.46873603519989e-4
+South Africa,6213,132876,3935,87273,7010,"Computer, automated teller, and office machine repairers",2,39,4.46873603519989e-4
+South Africa,6213,132876,3935,87273,9600,Industrial truck and tractor operators,2,39,4.46873603519989e-4
+South Africa,6213,132876,3935,87273,3910,Private detectives and investigators,3,38,4.3541530599383544e-4
+South Africa,6213,132876,3935,87273,0830,Credit analysts,2,37,4.239570084676819e-4
+South Africa,6213,132876,3935,87273,3230,Speech-language pathologists,3,37,4.239570084676819e-4
+South Africa,6213,132876,3935,87273,1400,Computer hardware engineers,3,36,4.124987109415283e-4
+South Africa,6213,132876,3935,87273,1980,Occupational health and safety specialists and technicians,3,36,4.124987109415283e-4
+South Africa,6213,132876,3935,87273,2016,Social and human service assistants,1,36,4.124987109415283e-4
+South Africa,6213,132876,3935,87273,3310,Dental hygienists,1,36,4.124987109415283e-4
+South Africa,6213,132876,3935,87273,9825,Military enlisted tactical operations and air/weapons specialists and crew members,3,36,4.124987109415283e-4
+South Africa,6213,132876,3935,87273,1640,Conservation scientists and foresters,2,35,4.0104041341537476e-4
+South Africa,6213,132876,3935,87273,8500,Cabinetmakers and bench carpenters,2,35,4.0104041341537476e-4
+South Africa,6213,132876,3935,87273,9141,Shuttle drivers and chauffeurs,2,35,4.0104041341537476e-4
+South Africa,6213,132876,3935,87273,2170,"Title examiners, abstractors, and searchers",2,34,3.895821158892212e-4
+South Africa,6213,132876,3935,87273,8800,Packaging and filling machine operators and tenders,1,34,3.895821158892212e-4
+South Africa,6213,132876,3935,87273,1420,Environmental engineers,1,33,3.781238183630676e-4
+South Africa,6213,132876,3935,87273,1821,Clinical and counseling psychologists,3,33,3.781238183630676e-4
+South Africa,6213,132876,3935,87273,3725,"Miscellaneous first-line supervisors, protective service workers",2,33,3.781238183630676e-4
+South Africa,6213,132876,3935,87273,5160,Tellers,1,33,3.781238183630676e-4
+South Africa,6213,132876,3935,87273,7220,Heavy vehicle and mobile equipment service technicians and mechanics,3,33,3.781238183630676e-4
+South Africa,6213,132876,3935,87273,9300,"Sailors and marine oilers, and ship engineers",2,33,3.781238183630676e-4
+South Africa,6213,132876,3935,87273,1910,Biological technicians,1,31,3.5520722331076047e-4
+South Africa,6213,132876,3935,87273,3960,Other protective service workers,3,31,3.5520722331076047e-4
+South Africa,6213,132876,3935,87273,4525,Other personal appearance workers,1,31,3.5520722331076047e-4
+South Africa,6213,132876,3935,87273,6800,"Derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining",1,31,3.5520722331076047e-4
+South Africa,6213,132876,3935,87273,9122,"Bus drivers, transit and intercity",2,31,3.5520722331076047e-4
+South Africa,6213,132876,3935,87273,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",2,30,3.437489257846069e-4
+South Africa,6213,132876,3935,87273,8465,"Other textile, apparel, and furnishings workers",1,30,3.437489257846069e-4
+South Africa,6213,132876,3935,87273,9121,"Bus drivers, school",4,30,3.437489257846069e-4
+South Africa,6213,132876,3935,87273,3220,Respiratory therapists,1,29,3.3229062825845335e-4
+South Africa,6213,132876,3935,87273,3261,Acupuncturists,1,29,3.3229062825845335e-4
+South Africa,6213,132876,3935,87273,9830,"Military, rank not specified",2,29,3.3229062825845335e-4
+South Africa,6213,132876,3935,87273,3700,First-line supervisors of correctional officers,1,28,3.208323307322998e-4
+South Africa,6213,132876,3935,87273,1551,Electrical and electronic engineering technologists and technicians,1,27,3.0937403320614623e-4
+South Africa,6213,132876,3935,87273,2011,"Child, family, and school social workers",2,27,3.0937403320614623e-4
+South Africa,6213,132876,3935,87273,0360,Natural sciences managers,2,26,2.9791573567999267e-4
+South Africa,6213,132876,3935,87273,0810,Property appraisers and assessors,2,26,2.9791573567999267e-4
+South Africa,6213,132876,3935,87273,3421,Pharmacy technicians,2,26,2.9791573567999267e-4
+South Africa,6213,132876,3935,87273,3550,Other healthcare practitioners and technical occupations,2,26,2.9791573567999267e-4
+South Africa,6213,132876,3935,87273,4230,Maids and housekeeping cleaners,2,25,2.864574381538391e-4
+South Africa,6213,132876,3935,87273,7150,Automotive body and related repairers,1,25,2.864574381538391e-4
+South Africa,6213,132876,3935,87273,0102,Facilities managers,1,24,2.7499914062768555e-4
+South Africa,6213,132876,3935,87273,2330,Special education teachers,2,24,2.7499914062768555e-4
+South Africa,6213,132876,3935,87273,6730,Highway maintenance workers,2,24,2.7499914062768555e-4
+South Africa,6213,132876,3935,87273,7330,Industrial and refractory machinery mechanics,3,24,2.7499914062768555e-4
+South Africa,6213,132876,3935,87273,2005,Rehabilitation counselors,1,23,2.63540843101532e-4
+South Africa,6213,132876,3935,87273,2012,Healthcare social workers,3,23,2.63540843101532e-4
+South Africa,6213,132876,3935,87273,2810,"News analysts, reporters, and journalists",1,23,2.63540843101532e-4
+South Africa,6213,132876,3935,87273,6305,Construction equipment operators,1,23,2.63540843101532e-4
+South Africa,6213,132876,3935,87273,8300,Laundry and dry-cleaning workers,1,23,2.63540843101532e-4
+South Africa,6213,132876,3935,87273,2631,Commercial and industrial designers,2,22,2.5208254557537843e-4
+South Africa,6213,132876,3935,87273,5260,File clerks,1,22,2.5208254557537843e-4
+South Africa,6213,132876,3935,87273,7720,"Electrical, electronics, and electromechanical assemblers",1,22,2.5208254557537843e-4
+South Africa,6213,132876,3935,87273,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,22,2.5208254557537843e-4
+South Africa,6213,132876,3935,87273,8320,Sewing machine operators,1,22,2.5208254557537843e-4
+South Africa,6213,132876,3935,87273,8640,"Chemical processing machine setters, operators, and tenders",1,22,2.5208254557537843e-4
+South Africa,6213,132876,3935,87273,2180,"Legal support workers, all other",1,21,2.4062424804922484e-4
+South Africa,6213,132876,3935,87273,4420,"Ushers, lobby attendants, and ticket takers",1,21,2.4062424804922484e-4
+South Africa,6213,132876,3935,87273,8950,Helpers--production workers,1,21,2.4062424804922484e-4
+South Africa,6213,132876,3935,87273,4950,"Door-to-door sales workers, news and street vendors, and related workers",1,20,2.2916595052307128e-4
+South Africa,6213,132876,3935,87273,5720,Legal secretaries and administrative assistants,1,20,2.2916595052307128e-4
+South Africa,6213,132876,3935,87273,5920,Statistical assistants,1,20,2.2916595052307128e-4
+South Africa,6213,132876,3935,87273,4140,Dishwashers,1,19,2.1770765299691772e-4
+South Africa,6213,132876,3935,87273,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,19,2.1770765299691772e-4
+South Africa,6213,132876,3935,87273,6330,"Drywall installers, ceiling tile installers, and tapers",1,19,2.1770765299691772e-4
+South Africa,6213,132876,3935,87273,1032,Web and digital interface designers,1,18,2.0624935547076416e-4
+South Africa,6213,132876,3935,87273,1610,Biological scientists,1,18,2.0624935547076416e-4
+South Africa,6213,132876,3935,87273,2001,Substance abuse and behavioral disorder counselors,1,18,2.0624935547076416e-4
+South Africa,6213,132876,3935,87273,2440,Library technicians,1,18,2.0624935547076416e-4
+South Africa,6213,132876,3935,87273,3200,Radiation therapists,1,18,2.0624935547076416e-4
+South Africa,6213,132876,3935,87273,3401,Emergency medical technicians,1,18,2.0624935547076416e-4
+South Africa,6213,132876,3935,87273,3750,Fire inspectors,1,18,2.0624935547076416e-4
+South Africa,6213,132876,3935,87273,6660,Construction and building inspectors,2,18,2.0624935547076416e-4
+South Africa,6213,132876,3935,87273,7020,Radio and telecommunications equipment installers and repairers,1,18,2.0624935547076416e-4
+South Africa,6213,132876,3935,87273,7320,Home appliance repairers,1,18,2.0624935547076416e-4
+South Africa,6213,132876,3935,87273,3649,Phlebotomists,1,17,1.947910579446106e-4
+South Africa,6213,132876,3935,87273,4750,Parts salespersons,1,17,1.947910579446106e-4
+South Africa,6213,132876,3935,87273,5350,Correspondence clerks and order clerks,1,17,1.947910579446106e-4
+South Africa,6213,132876,3935,87273,8030,Machinists,2,17,1.947910579446106e-4
+South Africa,6213,132876,3935,87273,8600,"Power plant operators, distributors, and dispatchers",1,17,1.947910579446106e-4
+South Africa,6213,132876,3935,87273,9810,First-line enlisted military supervisors,1,17,1.947910579446106e-4
+South Africa,6213,132876,3935,87273,0726,Fundraisers,1,16,1.8333276041845702e-4
+South Africa,6213,132876,3935,87273,4130,Dining room and cafeteria attendants and bartender helpers,3,16,1.8333276041845702e-4
+South Africa,6213,132876,3935,87273,5140,Payroll and timekeeping clerks,1,16,1.8333276041845702e-4
+South Africa,6213,132876,3935,87273,3040,Optometrists,1,15,1.7187446289230346e-4
+South Africa,6213,132876,3935,87273,3655,Other healthcare support workers,1,15,1.7187446289230346e-4
+South Africa,6213,132876,3935,87273,5150,Procurement clerks,1,15,1.7187446289230346e-4
+South Africa,6213,132876,3935,87273,1200,Actuaries,1,14,1.604161653661499e-4
+South Africa,6213,132876,3935,87273,3140,Audiologists,1,14,1.604161653661499e-4
+South Africa,6213,132876,3935,87273,5550,Postal service mail carriers,1,14,1.604161653661499e-4
+South Africa,6213,132876,3935,87273,7130,Security and fire alarm systems installers,1,14,1.604161653661499e-4
+South Africa,6213,132876,3935,87273,9410,Transportation inspectors,1,14,1.604161653661499e-4
+South Africa,6213,132876,3935,87273,1306,Landscape architects,1,13,1.4895786783999633e-4
+South Africa,6213,132876,3935,87273,1440,Marine engineers and naval architects,1,13,1.4895786783999633e-4
+South Africa,6213,132876,3935,87273,4240,Pest control workers,1,13,1.4895786783999633e-4
+South Africa,6213,132876,3935,87273,5600,"Production, planning, and expediting clerks",1,13,1.4895786783999633e-4
+South Africa,6213,132876,3935,87273,9800,Military officer special and tactical operations leaders,1,13,1.4895786783999633e-4
+South Africa,6213,132876,3935,87273,1310,"Surveyors, cartographers, and photogrammetrists",1,12,1.3749957031384277e-4
+South Africa,6213,132876,3935,87273,1860,Other social scientists,1,12,1.3749957031384277e-4
+South Africa,6213,132876,3935,87273,4521,Manicurists and pedicurists,1,12,1.3749957031384277e-4
+South Africa,6213,132876,3935,87273,1545,Other drafters,1,11,1.2604127278768921e-4
+South Africa,6213,132876,3935,87273,1920,Chemical technicians,1,11,1.2604127278768921e-4
+South Africa,6213,132876,3935,87273,2751,Music directors and composers,1,11,1.2604127278768921e-4
+South Africa,6213,132876,3935,87273,6825,Surface mining machine operators and earth drillers,2,11,1.2604127278768921e-4
+South Africa,6213,132876,3935,87273,7120,Electronic home entertainment equipment installers and repairers,1,11,1.2604127278768921e-4
+South Africa,6213,132876,3935,87273,3322,Diagnostic medical sonographers,1,10,1.1458297526153564e-4
+South Africa,6213,132876,3935,87273,3802,Correctional officers and jailers,1,10,1.1458297526153564e-4
+South Africa,6213,132876,3935,87273,8450,Upholsterers,1,10,1.1458297526153564e-4
+South Africa,6213,132876,3935,87273,3330,Nuclear medicine technologists and medical dosimetrists,1,9,1.0312467773538208e-4
+South Africa,6213,132876,3935,87273,6950,Other extraction workers,1,9,1.0312467773538208e-4
+South Africa,6213,132876,3935,87273,7030,Avionics technicians,1,9,1.0312467773538208e-4
+South Africa,6213,132876,3935,87273,5540,Postal service clerks,1,8,9.166638020922851e-5
+South Africa,6213,132876,3935,87273,6250,"Cement masons, concrete finishers, and terrazzo workers",1,8,9.166638020922851e-5
+South Africa,6213,132876,3935,87273,7240,Small engine mechanics,1,8,9.166638020922851e-5
+South Africa,6213,132876,3935,87273,2862,Court reporters and simultaneous captioners,1,7,8.020808268307495e-5
+South Africa,6213,132876,3935,87273,3710,First-line supervisors of police and detectives,1,7,8.020808268307495e-5
+South Africa,6213,132876,3935,87273,6040,"Graders and sorters, agricultural products",1,7,8.020808268307495e-5
+South Africa,6213,132876,3935,87273,7925,"Forming machine setters, operators, and tenders, metal and plastic",1,7,8.020808268307495e-5
+South Africa,6213,132876,3935,87273,2013,Mental health and substance abuse social workers,1,6,6.874978515692139e-5
+South Africa,6213,132876,3935,87273,4622,Recreation workers,1,6,6.874978515692139e-5
+South Africa,6213,132876,3935,87273,7420,Telecommunications line installers and repairers,1,6,6.874978515692139e-5
+South Africa,6213,132876,3935,87273,8225,Other metal workers and plastic workers,1,6,6.874978515692139e-5
+South Africa,6213,132876,3935,87273,5910,Proofreaders and copy markers,1,5,5.729148763076782e-5
+South Africa,6213,132876,3935,87273,9760,Other material moving workers,1,5,5.729148763076782e-5
+South Africa,6213,132876,3935,87273,6710,Fence erectors,1,4,4.5833190104614254e-5
+South Africa,6213,132876,3935,87273,7410,Electrical power-line installers and repairers,1,4,4.5833190104614254e-5
+South Africa,6213,132876,3935,87273,9430,Other transportation workers,2,4,4.5833190104614254e-5
+South Africa,6213,132876,3935,87273,7905,Computer numerically controlled tool operators and programmers,1,2,2.2916595052307127e-5

@@ -1,342 +1,352 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Indonesia,5071,99304,2737,56956,1021,Software developers,104,2160,0.03792401151766276
-Indonesia,5071,99304,2737,56956,0800,Accountants and auditors,100,1999,0.03509726806657771
-Indonesia,5071,99304,2737,56956,0440,Other managers,86,1703,0.02990027389563874
-Indonesia,5071,99304,2737,56956,4110,Waiters and waitresses,66,1587,0.02786361401783833
-Indonesia,5071,99304,2737,56956,4000,Chefs and head cooks,55,1375,0.02414144251703069
-Indonesia,5071,99304,2737,56956,3255,Registered nurses,61,1335,0.023439146007444345
-Indonesia,5071,99304,2737,56956,2205,Postsecondary teachers,53,1087,0.01908490764800899
-Indonesia,5071,99304,2737,56956,4720,Cashiers,46,1062,0.01864597232951752
-Indonesia,5071,99304,2737,56956,5860,"Office clerks, general",32,967,0.016978018119249948
-Indonesia,5071,99304,2737,56956,0120,Financial managers,50,961,0.016872673642811996
-Indonesia,5071,99304,2737,56956,4020,Cooks,41,847,0.014871128590490905
-Indonesia,5071,99304,2737,56956,5120,"Bookkeeping, accounting, and auditing clerks",36,830,0.014572652573916708
-Indonesia,5071,99304,2737,56956,4700,First-line supervisors of retail sales workers,38,810,0.014221504319123534
-Indonesia,5071,99304,2737,56956,4760,Retail salespersons,39,801,0.014063487604466606
-Indonesia,5071,99304,2737,56956,4230,Maids and housekeeping cleaners,16,767,0.01346653557131821
-Indonesia,5071,99304,2737,56956,2545,Teaching assistants,41,714,0.012535992696116301
-Indonesia,5071,99304,2737,56956,1760,"Physical scientists, all other",33,676,0.01186881101200927
-Indonesia,5071,99304,2737,56956,5740,"Secretaries and administrative assistants, except legal, medical, and executive",26,641,0.011254301566121217
-Indonesia,5071,99304,2737,56956,4710,First-line supervisors of non-retail sales workers,24,633,0.011113842264203947
-Indonesia,5071,99304,2737,56956,0110,Computer and information systems managers,31,619,0.010868038485848726
-Indonesia,5071,99304,2737,56956,9130,Driver/sales workers and truck drivers,33,609,0.010692464358452138
-Indonesia,5071,99304,2737,56956,0310,Food service managers,31,596,0.010464217992836576
-Indonesia,5071,99304,2737,56956,9620,"Laborers and freight, stock, and material movers, hand",28,587,0.010306201278179647
-Indonesia,5071,99304,2737,56956,9142,Taxi drivers,23,585,0.01027108645270033
-Indonesia,5071,99304,2737,56956,8740,"Inspectors, testers, sorters, samplers, and weighers",19,555,0.00974436407051057
-Indonesia,5071,99304,2737,56956,1006,Computer systems analysts,28,531,0.00932298616475876
-Indonesia,5071,99304,2737,56956,5240,Customer service representatives,27,515,0.009042067560924223
-Indonesia,5071,99304,2737,56956,1050,Computer support specialists,29,507,0.008901608259006953
-Indonesia,5071,99304,2737,56956,3090,Physicians,24,507,0.008901608259006953
-Indonesia,5071,99304,2737,56956,4220,Janitors and building cleaners,23,488,0.008568017416953438
-Indonesia,5071,99304,2737,56956,8990,"Miscellaneous production workers, including equipment operators and tenders",30,488,0.008568017416953438
-Indonesia,5071,99304,2737,56956,4030,Food preparation workers,29,485,0.008515345178734462
-Indonesia,5071,99304,2737,56956,4600,Childcare workers,18,475,0.008339771051337874
-Indonesia,5071,99304,2737,56956,3602,Personal care aides,30,465,0.008164196923941288
-Indonesia,5071,99304,2737,56956,3603,Nursing assistants,20,451,0.007918393145586067
-Indonesia,5071,99304,2737,56956,9645,Stockers and order fillers,23,443,0.007777933843668797
-Indonesia,5071,99304,2737,56956,0010,Chief executives and legislators,23,438,0.007690146779970503
-Indonesia,5071,99304,2737,56956,0705,Project management specialists,25,432,0.007584802303532551
-Indonesia,5071,99304,2737,56956,0710,Management analysts,20,427,0.007497015239834258
-Indonesia,5071,99304,2737,56956,1240,Other mathematical science occupations,20,415,0.007286326286958354
-Indonesia,5071,99304,2737,56956,1360,Civil engineers,18,398,0.006987850270384156
-Indonesia,5071,99304,2737,56956,2640,Other designers,18,396,0.0069527354449048385
-Indonesia,5071,99304,2737,56956,2100,"Lawyers, and judges, magistrates, and other judicial workers",16,385,0.006759603904768594
-Indonesia,5071,99304,2737,56956,1530,Other engineers,24,379,0.006654259428330641
-Indonesia,5071,99304,2737,56956,4920,Real estate brokers and sales agents,17,379,0.006654259428330641
-Indonesia,5071,99304,2737,56956,0020,General and operations managers,17,377,0.006619144602851324
-Indonesia,5071,99304,2737,56956,0845,Financial and investment analysts,18,374,0.006566472364632348
-Indonesia,5071,99304,2737,56956,3930,Security guards and gaming surveillance officers,12,358,0.006285553760797809
-Indonesia,5071,99304,2737,56956,5000,First-line supervisors of office and administrative support workers,20,358,0.006285553760797809
-Indonesia,5071,99304,2737,56956,1010,Computer programmers,14,339,0.005951962918744294
-Indonesia,5071,99304,2737,56956,2360,Other teachers and instructors,17,325,0.0057061591403890725
-Indonesia,5071,99304,2737,56956,9640,"Packers and packagers, hand",15,325,0.0057061591403890725
-Indonesia,5071,99304,2737,56956,5510,Couriers and messengers,17,317,0.005565699838471803
-Indonesia,5071,99304,2737,56956,1108,"Computer occupations, all other",17,313,0.005495470187513168
-Indonesia,5071,99304,2737,56956,0910,Credit counselors and loan officers,9,303,0.005319896060116581
-Indonesia,5071,99304,2737,56956,0410,"Property, real estate, and community association managers",9,295,0.005179436758199311
-Indonesia,5071,99304,2737,56956,7750,Other assemblers and fabricators,15,292,0.0051267645199803355
-Indonesia,5071,99304,2737,56956,5610,"Shipping, receiving, and inventory clerks",7,289,0.00507409228176136
-Indonesia,5071,99304,2737,56956,0230,Education and childcare administrators,16,281,0.00493363297984409
-Indonesia,5071,99304,2737,56956,5110,Billing and posting clerks,14,280,0.004916075567104432
-Indonesia,5071,99304,2737,56956,4055,Fast food and counter workers,14,274,0.004810731090666479
-Indonesia,5071,99304,2737,56956,1970,"Other life, physical, and social science technicians",8,266,0.00467027178874921
-Indonesia,5071,99304,2737,56956,2310,Elementary and middle school teachers,12,262,0.004600042137790575
-Indonesia,5071,99304,2737,56956,4400,Gambling services workers,6,259,0.004547369899571599
-Indonesia,5071,99304,2737,56956,3430,Dietetic technicians and ophthalmic medical technicians,3,251,0.00440691059765433
-Indonesia,5071,99304,2737,56956,4510,"Hairdressers, hairstylists, and cosmetologists",11,238,0.004178664232038767
-Indonesia,5071,99304,2737,56956,2300,Preschool and kindergarten teachers,15,237,0.004161106819299108
-Indonesia,5071,99304,2737,56956,0140,Industrial production managers,8,236,0.004143549406559449
-Indonesia,5071,99304,2737,56956,0300,Architectural and engineering managers,10,236,0.004143549406559449
-Indonesia,5071,99304,2737,56956,0530,"Purchasing agents, except wholesale, retail, and farm products",13,229,0.004020647517381838
-Indonesia,5071,99304,2737,56956,4850,"Sales representatives, wholesale and manufacturing",14,224,0.003932860453683545
-Indonesia,5071,99304,2737,56956,4521,Manicurists and pedicurists,6,219,0.0038450733899852516
-Indonesia,5071,99304,2737,56956,1410,Electrical and electronics engineers,13,215,0.003774843739026617
-Indonesia,5071,99304,2737,56956,1305,"Architects, except landscape and naval",10,212,0.003722171500807641
-Indonesia,5071,99304,2737,56956,4965,"Sales and related workers, all other",8,211,0.0037046140880679823
-Indonesia,5071,99304,2737,56956,0750,"Business operations specialists, all other",13,207,0.0036343844371093475
-Indonesia,5071,99304,2737,56956,0420,Social and community service managers,5,199,0.003493925135192078
-Indonesia,5071,99304,2737,56956,3500,Licensed practical and licensed vocational nurses,10,198,0.0034763677224524192
-Indonesia,5071,99304,2737,56956,3050,Pharmacists,11,197,0.0034588103097127607
-Indonesia,5071,99304,2737,56956,4130,Dining room and cafeteria attendants and bartender helpers,7,195,0.0034236954842334433
-Indonesia,5071,99304,2737,56956,1650,Other life scientists,10,194,0.003406138071493785
-Indonesia,5071,99304,2737,56956,0700,Logisticians,5,193,0.003388580658754126
-Indonesia,5071,99304,2737,56956,1430,"Industrial engineers, including health and safety",10,185,0.0032481213568368566
-Indonesia,5071,99304,2737,56956,3645,Medical assistants,11,185,0.0032481213568368566
-Indonesia,5071,99304,2737,56956,5400,Receptionists and information clerks,10,185,0.0032481213568368566
-Indonesia,5071,99304,2737,56956,2752,Musicians and singers,5,181,0.0031778917058782217
-Indonesia,5071,99304,2737,56956,0735,Market research analysts and marketing specialists,11,178,0.003125219467659246
-Indonesia,5071,99304,2737,56956,0350,Medical and health services managers,10,176,0.0030901046421799284
-Indonesia,5071,99304,2737,56956,0220,Construction managers,8,171,0.003002317578481635
-Indonesia,5071,99304,2737,56956,0630,Human resources workers,12,170,0.002984760165741976
-Indonesia,5071,99304,2737,56956,5810,Data entry keyers,7,167,0.002932087927523
-Indonesia,5071,99304,2737,56956,2634,Graphic designers,9,159,0.002791628625605731
-Indonesia,5071,99304,2737,56956,1220,Operations research analysts,8,157,0.0027565138001264134
-Indonesia,5071,99304,2737,56956,2350,Tutors,8,156,0.0027389563873867545
-Indonesia,5071,99304,2737,56956,2600,Artists and related workers,8,145,0.0025458248472505093
-Indonesia,5071,99304,2737,56956,8800,Packaging and filling machine operators and tenders,4,144,0.0025282674345108503
-Indonesia,5071,99304,2737,56956,2040,Clergy,8,142,0.0024931526090315333
-Indonesia,5071,99304,2737,56956,0565,Compliance officers,5,141,0.0024755951962918744
-Indonesia,5071,99304,2737,56956,1460,Mechanical engineers,7,140,0.002458037783552216
-Indonesia,5071,99304,2737,56956,0051,Marketing managers,9,139,0.002440480370812557
-Indonesia,5071,99304,2737,56956,2016,Social and human service assistants,4,139,0.002440480370812557
-Indonesia,5071,99304,2737,56956,7700,First-line supervisors of production and operating workers,4,139,0.002440480370812557
-Indonesia,5071,99304,2737,56956,0150,Purchasing managers,6,137,0.0024053655453332395
-Indonesia,5071,99304,2737,56956,2060,"Religious workers, all other",2,136,0.002387808132593581
-Indonesia,5071,99304,2737,56956,5550,Postal service mail carriers,8,133,0.002335135894374605
-Indonesia,5071,99304,2737,56956,3422,Psychiatric technicians,4,132,0.002317578481634946
-Indonesia,5071,99304,2737,56956,8030,Machinists,3,131,0.0023000210688952877
-Indonesia,5071,99304,2737,56956,0820,Budget analysts,5,127,0.002229791417936653
-Indonesia,5071,99304,2737,56956,3310,Dental hygienists,6,121,0.002124446941498701
-Indonesia,5071,99304,2737,56956,3630,Massage therapists,5,121,0.002124446941498701
-Indonesia,5071,99304,2737,56956,0052,Sales managers,8,120,0.002106889528759042
-Indonesia,5071,99304,2737,56956,3740,Firefighters,3,119,0.0020893321160193835
-Indonesia,5071,99304,2737,56956,4622,Recreation workers,4,119,0.0020893321160193835
-Indonesia,5071,99304,2737,56956,0136,Human resources managers,6,113,0.001983987639581431
-Indonesia,5071,99304,2737,56956,1555,"Other engineering technologists and technicians, except drafters",6,113,0.001983987639581431
-Indonesia,5071,99304,2737,56956,3258,"Nurse practitioners, and nurse midwives",8,113,0.001983987639581431
-Indonesia,5071,99304,2737,56956,1031,Web developers,3,110,0.0019313154013624553
-Indonesia,5071,99304,2737,56956,6200,First-line supervisors of construction trades and extraction workers,3,108,0.0018962005758831378
-Indonesia,5071,99304,2737,56956,7340,"Maintenance and repair workers, general",7,107,0.0018786431631434791
-Indonesia,5071,99304,2737,56956,3515,Medical records specialists,7,104,0.0018259709249245032
-Indonesia,5071,99304,2737,56956,8255,Printing press operators,3,102,0.0017908560994451858
-Indonesia,5071,99304,2737,56956,1106,Computer network architects,6,101,0.001773298686705527
-Indonesia,5071,99304,2737,56956,2320,Secondary school teachers,8,101,0.001773298686705527
-Indonesia,5071,99304,2737,56956,5600,"Production, planning, and expediting clerks",4,101,0.001773298686705527
-Indonesia,5071,99304,2737,56956,3160,Physical therapists,4,97,0.0017030690357468924
-Indonesia,5071,99304,2737,56956,3640,Dental assistants,6,94,0.0016503967975279163
-Indonesia,5071,99304,2737,56956,0850,Personal financial advisors,6,93,0.0016328393847882575
-Indonesia,5071,99304,2737,56956,8610,Stationary engineers and boiler operators,2,93,0.0016328393847882575
-Indonesia,5071,99304,2737,56956,5522,"Dispatchers, except police, fire, and ambulance",2,92,0.0016152819720485988
-Indonesia,5071,99304,2737,56956,9610,Cleaners of vehicles and equipment,6,91,0.0015977245593089403
-Indonesia,5071,99304,2737,56956,3323,Radiologic technologists and technicians,3,90,0.0015801671465692816
-Indonesia,5071,99304,2737,56956,5160,Tellers,4,90,0.0015801671465692816
-Indonesia,5071,99304,2737,56956,9265,Other rail transportation workers,1,89,0.001562609733829623
-Indonesia,5071,99304,2737,56956,3545,Miscellaneous health technologists and technicians,2,88,0.0015450523210899642
-Indonesia,5071,99304,2737,56956,7800,Bakers,6,87,0.0015274949083503055
-Indonesia,5071,99304,2737,56956,7200,Automotive service technicians and mechanics,6,85,0.001492380082870988
-Indonesia,5071,99304,2737,56956,3870,Police officers,4,84,0.0014748226701313295
-Indonesia,5071,99304,2737,56956,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",6,84,0.0014748226701313295
-Indonesia,5071,99304,2737,56956,9121,"Bus drivers, school",1,83,0.0014572652573916708
-Indonesia,5071,99304,2737,56956,2710,Producers and directors,4,82,0.001439707844652012
-Indonesia,5071,99304,2737,56956,3520,"Opticians, dispensing",1,82,0.001439707844652012
-Indonesia,5071,99304,2737,56956,6410,Painters and paperhangers,2,82,0.001439707844652012
-Indonesia,5071,99304,2737,56956,0600,Cost estimators,3,81,0.0014221504319123534
-Indonesia,5071,99304,2737,56956,1825,Other psychologists,1,81,0.0014221504319123534
-Indonesia,5071,99304,2737,56956,1105,Network and computer systems administrators,6,78,0.0013694781936933772
-Indonesia,5071,99304,2737,56956,4810,Insurance sales agents,2,78,0.0013694781936933772
-Indonesia,5071,99304,2737,56956,1022,Software quality assurance analysts and testers,4,75,0.0013168059554744013
-Indonesia,5071,99304,2737,56956,5165,Other financial clerks,5,75,0.0013168059554744013
-Indonesia,5071,99304,2737,56956,3601,Home health aides,4,73,0.0012816911299950839
-Indonesia,5071,99304,2737,56956,5940,Other office and administrative support workers,7,73,0.0012816911299950839
-Indonesia,5071,99304,2737,56956,7720,"Electrical, electronics, and electromechanical assemblers",4,73,0.0012816911299950839
-Indonesia,5071,99304,2737,56956,1320,Aerospace engineers,4,72,0.0012641337172554252
-Indonesia,5071,99304,2737,56956,3300,Clinical laboratory technologists and technicians,6,72,0.0012641337172554252
-Indonesia,5071,99304,2737,56956,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",5,70,0.001229018891776108
-Indonesia,5071,99304,2737,56956,2105,Judicial law clerks,2,69,0.0012114614790364492
-Indonesia,5071,99304,2737,56956,3010,Dentists,5,69,0.0012114614790364492
-Indonesia,5071,99304,2737,56956,2180,"Legal support workers, all other",2,68,0.0011939040662967905
-Indonesia,5071,99304,2737,56956,9141,Shuttle drivers and chauffeurs,4,68,0.0011939040662967905
-Indonesia,5071,99304,2737,56956,4800,Advertising sales agents,2,66,0.001158789240817473
-Indonesia,5071,99304,2737,56956,6305,Construction equipment operators,1,66,0.001158789240817473
-Indonesia,5071,99304,2737,56956,8140,"Welding, soldering, and brazing workers",2,65,0.0011412318280778144
-Indonesia,5071,99304,2737,56956,2861,Interpreters and translators,3,63,0.0011061170025984971
-Indonesia,5071,99304,2737,56956,0830,Credit analysts,2,62,0.0010885595898588384
-Indonesia,5071,99304,2737,56956,4251,Landscaping and groundskeeping workers,6,62,0.0010885595898588384
-Indonesia,5071,99304,2737,56956,5140,Payroll and timekeeping clerks,5,62,0.0010885595898588384
-Indonesia,5071,99304,2737,56956,1032,Web and digital interface designers,4,61,0.0010710021771191797
-Indonesia,5071,99304,2737,56956,2910,Photographers,4,61,0.0010710021771191797
-Indonesia,5071,99304,2737,56956,5840,Insurance claims and policy processing clerks,1,58,0.0010183299389002036
-Indonesia,5071,99304,2737,56956,3421,Pharmacy technicians,5,57,0.001000772526160545
-Indonesia,5071,99304,2737,56956,4340,Animal trainers,2,57,0.001000772526160545
-Indonesia,5071,99304,2737,56956,5410,Reservation and transportation ticket agents and travel clerks,5,57,0.001000772526160545
-Indonesia,5071,99304,2737,56956,7010,"Computer, automated teller, and office machine repairers",4,57,0.001000772526160545
-Indonesia,5071,99304,2737,56956,1520,"Petroleum, mining and geological engineers, including mining safety engineers",4,56,9.832151134208864e-4
-Indonesia,5071,99304,2737,56956,4010,First-line supervisors of food preparation and serving workers,4,56,9.832151134208864e-4
-Indonesia,5071,99304,2737,56956,0040,Advertising and promotions managers,1,55,9.656577006812276e-4
-Indonesia,5071,99304,2737,56956,4820,"Securities, commodities, and financial services sales agents",3,55,9.656577006812276e-4
-Indonesia,5071,99304,2737,56956,7840,Food batchmakers,3,55,9.656577006812276e-4
-Indonesia,5071,99304,2737,56956,2400,"Archivists, curators, and museum technicians",2,54,9.481002879415689e-4
-Indonesia,5071,99304,2737,56956,2850,Writers and authors,3,54,9.481002879415689e-4
-Indonesia,5071,99304,2737,56956,0725,"Meeting, convention, and event planners",3,53,9.305428752019102e-4
-Indonesia,5071,99304,2737,56956,0940,Tax preparers,2,53,9.305428752019102e-4
-Indonesia,5071,99304,2737,56956,1350,Chemical engineers,4,53,9.305428752019102e-4
-Indonesia,5071,99304,2737,56956,3620,Physical therapist assistants and aides,1,53,9.305428752019102e-4
-Indonesia,5071,99304,2737,56956,3030,Dietitians and nutritionists,4,52,9.129854624622516e-4
-Indonesia,5071,99304,2737,56956,7855,"Food processing workers, all other",3,52,9.129854624622516e-4
-Indonesia,5071,99304,2737,56956,1840,Urban and regional planners,2,51,8.954280497225929e-4
-Indonesia,5071,99304,2737,56956,3820,Detectives and criminal investigators,2,51,8.954280497225929e-4
-Indonesia,5071,99304,2737,56956,3910,Private detectives and investigators,1,50,8.778706369829342e-4
-Indonesia,5071,99304,2737,56956,5320,"Library assistants, clerical",2,49,8.603132242432756e-4
-Indonesia,5071,99304,2737,56956,5230,"Credit authorizers, checkers, and clerks",3,48,8.427558115036168e-4
-Indonesia,5071,99304,2737,56956,5710,Executive secretaries and executive administrative assistants,2,47,8.251983987639581e-4
-Indonesia,5071,99304,2737,56956,1007,Information security analysts,4,46,8.076409860242994e-4
-Indonesia,5071,99304,2737,56956,1065,Database administrators and architects,3,46,8.076409860242994e-4
-Indonesia,5071,99304,2737,56956,1551,Electrical and electronic engineering technologists and technicians,3,46,8.076409860242994e-4
-Indonesia,5071,99304,2737,56956,2635,Interior designers,5,46,8.076409860242994e-4
-Indonesia,5071,99304,2737,56956,3402,Paramedics,2,46,8.076409860242994e-4
-Indonesia,5071,99304,2737,56956,6260,Construction laborers,5,46,8.076409860242994e-4
-Indonesia,5071,99304,2737,56956,3655,Other healthcare support workers,3,45,7.900835732846408e-4
-Indonesia,5071,99304,2737,56956,0930,"Tax examiners and collectors, and revenue agents",2,44,7.725261605449821e-4
-Indonesia,5071,99304,2737,56956,2840,Technical writers,2,44,7.725261605449821e-4
-Indonesia,5071,99304,2737,56956,5850,"Mail clerks and mail machine operators, except postal service",1,44,7.725261605449821e-4
-Indonesia,5071,99304,2737,56956,8300,Laundry and dry-cleaning workers,2,44,7.725261605449821e-4
-Indonesia,5071,99304,2737,56956,9600,Industrial truck and tractor operators,4,44,7.725261605449821e-4
-Indonesia,5071,99304,2737,56956,7000,"First-line supervisors of mechanics, installers, and repairers",2,43,7.549687478053234e-4
-Indonesia,5071,99304,2737,56956,7140,Aircraft mechanics and service technicians,3,43,7.549687478053234e-4
-Indonesia,5071,99304,2737,56956,0540,"Claims adjusters, appraisers, examiners, and investigators",3,42,7.374113350656648e-4
-Indonesia,5071,99304,2737,56956,2145,Paralegals and legal assistants,3,42,7.374113350656648e-4
-Indonesia,5071,99304,2737,56956,4530,"Baggage porters, bellhops, and concierges",4,42,7.374113350656648e-4
-Indonesia,5071,99304,2737,56956,5330,Loan interviewers and clerks,3,40,7.022965095863473e-4
-Indonesia,5071,99304,2737,56956,5540,Postal service clerks,3,40,7.022965095863473e-4
-Indonesia,5071,99304,2737,56956,7315,"Heating, air conditioning, and refrigeration mechanics and installers",2,40,7.022965095863473e-4
-Indonesia,5071,99304,2737,56956,9410,Transportation inspectors,1,40,7.022965095863473e-4
-Indonesia,5071,99304,2737,56956,1400,Computer hardware engineers,3,39,6.847390968466886e-4
-Indonesia,5071,99304,2737,56956,1545,Other drafters,2,39,6.847390968466886e-4
-Indonesia,5071,99304,2737,56956,4120,"Food servers, nonrestaurant",2,39,6.847390968466886e-4
-Indonesia,5071,99304,2737,56956,0960,Other financial specialists,2,38,6.6718168410703e-4
-Indonesia,5071,99304,2737,56956,4040,Bartenders,3,38,6.6718168410703e-4
-Indonesia,5071,99304,2737,56956,9005,Supervisors of transportation and material moving workers,2,38,6.6718168410703e-4
-Indonesia,5071,99304,2737,56956,9810,First-line enlisted military supervisors,2,38,6.6718168410703e-4
-Indonesia,5071,99304,2737,56956,1900,Agricultural and food science technicians,1,37,6.496242713673713e-4
-Indonesia,5071,99304,2737,56956,5250,"Eligibility interviewers, government programs",3,37,6.496242713673713e-4
-Indonesia,5071,99304,2737,56956,1720,Chemists and materials scientists,4,36,6.320668586277126e-4
-Indonesia,5071,99304,2737,56956,4640,Residential advisors,3,36,6.320668586277126e-4
-Indonesia,5071,99304,2737,56956,4950,"Door-to-door sales workers, news and street vendors, and related workers",2,36,6.320668586277126e-4
-Indonesia,5071,99304,2737,56956,5900,"Office machine operators, except computer",1,35,6.14509445888054e-4
-Indonesia,5071,99304,2737,56956,3649,Phlebotomists,2,34,5.969520331483953e-4
-Indonesia,5071,99304,2737,56956,0160,"Transportation, storage, and distribution managers",3,33,5.793946204087365e-4
-Indonesia,5071,99304,2737,56956,9365,Transportation service attendants,3,33,5.793946204087365e-4
-Indonesia,5071,99304,2737,56956,0340,Lodging managers,3,32,5.618372076690779e-4
-Indonesia,5071,99304,2737,56956,8640,"Chemical processing machine setters, operators, and tenders",1,32,5.618372076690779e-4
-Indonesia,5071,99304,2737,56956,1610,Biological scientists,1,31,5.442797949294192e-4
-Indonesia,5071,99304,2737,56956,2003,Marriage and family therapists,2,31,5.442797949294192e-4
-Indonesia,5071,99304,2737,56956,3110,Physician assistants,2,31,5.442797949294192e-4
-Indonesia,5071,99304,2737,56956,3150,Occupational therapists,2,31,5.442797949294192e-4
-Indonesia,5071,99304,2737,56956,2011,"Child, family, and school social workers",3,30,5.267223821897605e-4
-Indonesia,5071,99304,2737,56956,2014,"Social workers, all other",2,30,5.267223821897605e-4
-Indonesia,5071,99304,2737,56956,2751,Music directors and composers,1,30,5.267223821897605e-4
-Indonesia,5071,99304,2737,56956,2865,"Media and communication workers, all other",1,30,5.267223821897605e-4
-Indonesia,5071,99304,2737,56956,4522,Skincare specialists,3,30,5.267223821897605e-4
-Indonesia,5071,99304,2737,56956,9122,"Bus drivers, transit and intercity",1,30,5.267223821897605e-4
-Indonesia,5071,99304,2737,56956,5350,Correspondence clerks and order clerks,2,29,5.091649694501018e-4
-Indonesia,5071,99304,2737,56956,4540,Tour and travel guides,2,27,4.7405014397078446e-4
-Indonesia,5071,99304,2737,56956,2722,Coaches and scouts,2,26,4.564927312311258e-4
-Indonesia,5071,99304,2737,56956,4740,Counter and rental clerks,2,26,4.564927312311258e-4
-Indonesia,5071,99304,2737,56956,8830,Photographic process workers and processing machine operators,1,26,4.564927312311258e-4
-Indonesia,5071,99304,2737,56956,1450,Materials engineers,1,25,4.389353184914671e-4
-Indonesia,5071,99304,2737,56956,1822,School psychologists,1,25,4.389353184914671e-4
-Indonesia,5071,99304,2737,56956,2632,Fashion designers,2,25,4.389353184914671e-4
-Indonesia,5071,99304,2737,56956,4461,"Embalmers, crematory operators, and funeral attendants",1,25,4.389353184914671e-4
-Indonesia,5071,99304,2737,56956,5920,Statistical assistants,1,25,4.389353184914671e-4
-Indonesia,5071,99304,2737,56956,9830,"Military, rank not specified",1,25,4.389353184914671e-4
-Indonesia,5071,99304,2737,56956,2435,Librarians and media collections specialists,2,23,4.038204930121497e-4
-Indonesia,5071,99304,2737,56956,9150,"Motor vehicle operators, all other",2,23,4.038204930121497e-4
-Indonesia,5071,99304,2737,56956,1200,Actuaries,1,22,3.8626308027249104e-4
-Indonesia,5071,99304,2737,56956,1600,Agricultural and food scientists,1,22,3.8626308027249104e-4
-Indonesia,5071,99304,2737,56956,8350,"Tailors, dressmakers, and sewers",2,22,3.8626308027249104e-4
-Indonesia,5071,99304,2737,56956,9350,Parking attendants,1,22,3.8626308027249104e-4
-Indonesia,5071,99304,2737,56956,4160,"Food preparation and serving related workers, all other",1,21,3.687056675328324e-4
-Indonesia,5071,99304,2737,56956,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,21,3.687056675328324e-4
-Indonesia,5071,99304,2737,56956,0360,Natural sciences managers,1,20,3.5114825479317367e-4
-Indonesia,5071,99304,2737,56956,8040,"Metal furnace operators, tenders, pourers, and casters",1,20,3.5114825479317367e-4
-Indonesia,5071,99304,2737,56956,1860,Other social scientists,1,19,3.33590842053515e-4
-Indonesia,5071,99304,2737,56956,5260,File clerks,2,19,3.33590842053515e-4
-Indonesia,5071,99304,2737,56956,2002,"Educational, guidance, and career counselors and advisors",3,18,3.160334293138563e-4
-Indonesia,5071,99304,2737,56956,2770,"Entertainers and performers, sports and related workers, all other",1,18,3.160334293138563e-4
-Indonesia,5071,99304,2737,56956,3324,Magnetic resonance imaging technologists,1,18,3.160334293138563e-4
-Indonesia,5071,99304,2737,56956,4420,"Ushers, lobby attendants, and ticket takers",1,18,3.160334293138563e-4
-Indonesia,5071,99304,2737,56956,5220,"Court, municipal, and license clerks",2,18,3.160334293138563e-4
-Indonesia,5071,99304,2737,56956,5560,"Postal service mail sorters, processors, and processing machine operators",1,18,3.160334293138563e-4
-Indonesia,5071,99304,2737,56956,6355,Electricians,2,18,3.160334293138563e-4
-Indonesia,5071,99304,2737,56956,2905,Other media and communication equipment workers,1,17,2.9847601657419763e-4
-Indonesia,5071,99304,2737,56956,5300,"Hotel, motel, and resort desk clerks",2,17,2.9847601657419763e-4
-Indonesia,5071,99304,2737,56956,8750,Jewelers and precious stone and metal workers,1,17,2.9847601657419763e-4
-Indonesia,5071,99304,2737,56956,9030,Aircraft pilots and flight engineers,1,17,2.9847601657419763e-4
-Indonesia,5071,99304,2737,56956,1750,"Geoscientists and hydrologists, except geographers",1,16,2.8091860383453897e-4
-Indonesia,5071,99304,2737,56956,1980,Occupational health and safety specialists and technicians,2,16,2.8091860383453897e-4
-Indonesia,5071,99304,2737,56956,3940,Crossing guards and flaggers,1,16,2.8091860383453897e-4
-Indonesia,5071,99304,2737,56956,8365,"Textile machine setters, operators, and tenders",1,16,2.8091860383453897e-4
-Indonesia,5071,99304,2737,56956,1420,Environmental engineers,1,15,2.6336119109488025e-4
-Indonesia,5071,99304,2737,56956,2723,"Umpires, referees, and other sports officials",1,15,2.6336119109488025e-4
-Indonesia,5071,99304,2737,56956,5150,Procurement clerks,1,15,2.6336119109488025e-4
-Indonesia,5071,99304,2737,56956,7330,Industrial and refractory machinery mechanics,1,15,2.6336119109488025e-4
-Indonesia,5071,99304,2737,56956,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,15,2.6336119109488025e-4
-Indonesia,5071,99304,2737,56956,0640,"Compensation, benefits, and job analysis specialists",1,14,2.458037783552216e-4
-Indonesia,5071,99304,2737,56956,0810,Property appraisers and assessors,1,14,2.458037783552216e-4
-Indonesia,5071,99304,2737,56956,1800,Economists,1,14,2.458037783552216e-4
-Indonesia,5071,99304,2737,56956,2025,Other community and social service specialists,1,14,2.458037783552216e-4
-Indonesia,5071,99304,2737,56956,3245,Other therapists,1,14,2.458037783552216e-4
-Indonesia,5071,99304,2737,56956,9240,Railroad conductors and yardmasters,1,14,2.458037783552216e-4
-Indonesia,5071,99304,2737,56956,0500,"Agents and business managers of artists, performers, and athletes",1,13,2.282463656155629e-4
-Indonesia,5071,99304,2737,56956,1541,Architectural and civil drafters,1,13,2.282463656155629e-4
-Indonesia,5071,99304,2737,56956,4830,Travel agents,1,13,2.282463656155629e-4
-Indonesia,5071,99304,2737,56956,7905,Computer numerically controlled tool operators and programmers,1,13,2.282463656155629e-4
-Indonesia,5071,99304,2737,56956,0060,Public relations and fundraising managers,1,12,2.106889528759042e-4
-Indonesia,5071,99304,2737,56956,1920,Chemical technicians,1,12,2.106889528759042e-4
-Indonesia,5071,99304,2737,56956,2810,"News analysts, reporters, and journalists",1,12,2.106889528759042e-4
-Indonesia,5071,99304,2737,56956,3250,Veterinarians,1,12,2.106889528759042e-4
-Indonesia,5071,99304,2737,56956,4621,Exercise trainers and group fitness instructors,1,12,2.106889528759042e-4
-Indonesia,5071,99304,2737,56956,4655,"Personal care and service workers, all other",1,12,2.106889528759042e-4
-Indonesia,5071,99304,2737,56956,9110,"Ambulance drivers and attendants, except emergency medical technicians",1,12,2.106889528759042e-4
-Indonesia,5071,99304,2737,56956,0520,"Wholesale and retail buyers, except farm products",1,11,1.9313154013624552e-4
-Indonesia,5071,99304,2737,56956,2006,"Counselors, all other",1,11,1.9313154013624552e-4
-Indonesia,5071,99304,2737,56956,2825,Public relations specialists,1,11,1.9313154013624552e-4
-Indonesia,5071,99304,2737,56956,3322,Diagnostic medical sonographers,1,11,1.9313154013624552e-4
-Indonesia,5071,99304,2737,56956,3605,Orderlies and psychiatric aides,1,11,1.9313154013624552e-4
-Indonesia,5071,99304,2737,56956,5310,"Interviewers, except eligibility and loan",1,11,1.9313154013624552e-4
-Indonesia,5071,99304,2737,56956,6230,Carpenters,1,11,1.9313154013624552e-4
-Indonesia,5071,99304,2737,56956,7320,Home appliance repairers,1,11,1.9313154013624552e-4
-Indonesia,5071,99304,2737,56956,9760,Other material moving workers,1,11,1.9313154013624552e-4
-Indonesia,5071,99304,2737,56956,0135,Compensation and benefits managers,1,10,1.7557412739658683e-4
-Indonesia,5071,99304,2737,56956,2330,Special education teachers,1,10,1.7557412739658683e-4
-Indonesia,5071,99304,2737,56956,3200,Radiation therapists,1,10,1.7557412739658683e-4
-Indonesia,5071,99304,2737,56956,3945,Transportation security screeners,1,10,1.7557412739658683e-4
-Indonesia,5071,99304,2737,56956,4200,First-line supervisors of housekeeping and janitorial workers,1,10,1.7557412739658683e-4
-Indonesia,5071,99304,2737,56956,4350,Animal caretakers,1,10,1.7557412739658683e-4
-Indonesia,5071,99304,2737,56956,5100,Bill and account collectors,1,10,1.7557412739658683e-4
-Indonesia,5071,99304,2737,56956,7925,"Forming machine setters, operators, and tenders, metal and plastic",1,10,1.7557412739658683e-4
-Indonesia,5071,99304,2737,56956,2721,Athletes and sports competitors,1,9,1.5801671465692814e-4
-Indonesia,5071,99304,2737,56956,4140,Dishwashers,1,9,1.5801671465692814e-4
-Indonesia,5071,99304,2737,56956,5730,Medical secretaries and administrative assistants,1,9,1.5801671465692814e-4
-Indonesia,5071,99304,2737,56956,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,9,1.5801671465692814e-4
-Indonesia,5071,99304,2737,56956,0335,Entertainment and recreation managers,1,8,1.4045930191726948e-4
-Indonesia,5071,99304,2737,56956,5420,Other information and records clerks,1,8,1.4045930191726948e-4
-Indonesia,5071,99304,2737,56956,6040,"Graders and sorters, agricultural products",1,8,1.4045930191726948e-4
-Indonesia,5071,99304,2737,56956,2440,Library technicians,1,7,1.229018891776108e-4
-Indonesia,5071,99304,2737,56956,2633,Floral designers,1,7,1.229018891776108e-4
-Indonesia,5071,99304,2737,56956,2700,Actors,1,7,1.229018891776108e-4
-Indonesia,5071,99304,2737,56956,3725,"Miscellaneous first-line supervisors, protective service workers",1,7,1.229018891776108e-4
-Indonesia,5071,99304,2737,56956,7830,"Food and tobacco roasting, baking, and drying machine operators and tenders",1,7,1.229018891776108e-4
-Indonesia,5071,99304,2737,56956,0650,Training and development specialists,1,6,1.053444764379521e-4
-Indonesia,5071,99304,2737,56956,3550,Other healthcare practitioners and technical occupations,1,6,1.053444764379521e-4
-Indonesia,5071,99304,2737,56956,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",1,6,1.053444764379521e-4
-Indonesia,5071,99304,2737,56956,4330,Supervisors of personal care and service workers,1,6,1.053444764379521e-4
-Indonesia,5071,99304,2737,56956,0205,"Farmers, ranchers, and other agricultural managers",1,5,8.778706369829342e-5
-Indonesia,5071,99304,2737,56956,2555,Other educational instruction and library workers,1,5,8.778706369829342e-5
-Indonesia,5071,99304,2737,56956,2830,Editors,1,5,8.778706369829342e-5
-Indonesia,5071,99304,2737,56956,8310,"Pressers, textile, garment, and related materials",1,5,8.778706369829342e-5
-Indonesia,5071,99304,2737,56956,3647,Pharmacy aides,1,4,7.022965095863474e-5
-Indonesia,5071,99304,2737,56956,1935,"Environmental science and geoscience technicians, and nuclear technicians",1,3,5.267223821897605e-5
-Indonesia,5071,99304,2737,56956,4930,Sales engineers,1,3,5.267223821897605e-5
-Indonesia,5071,99304,2737,56956,2805,Broadcast announcers and radio disc jockeys,1,2,3.511482547931737e-5
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Indonesia,5071,99304,2960,60809,1021,Software developers,106,2183,0.03589929122333865
+Indonesia,5071,99304,2960,60809,0800,Accountants and auditors,109,2176,0.03578417668437238
+Indonesia,5071,99304,2960,60809,0440,Other managers,91,1785,0.029354207436399216
+Indonesia,5071,99304,2960,60809,4110,Waiters and waitresses,69,1630,0.026805242645003207
+Indonesia,5071,99304,2960,60809,3255,Registered nurses,66,1435,0.023598480488085646
+Indonesia,5071,99304,2960,60809,4000,Chefs and head cooks,57,1418,0.023318916607738986
+Indonesia,5071,99304,2960,60809,2205,Postsecondary teachers,56,1164,0.019141903336677136
+Indonesia,5071,99304,2960,60809,4720,Cashiers,49,1137,0.01869789011495009
+Indonesia,5071,99304,2960,60809,5860,"Office clerks, general",38,1047,0.0172178460425266
+Indonesia,5071,99304,2960,60809,0120,Financial managers,50,961,0.015803581706655266
+Indonesia,5071,99304,2960,60809,4020,Cooks,44,881,0.014487986975612162
+Indonesia,5071,99304,2960,60809,4760,Retail salespersons,43,873,0.014356427502507853
+Indonesia,5071,99304,2960,60809,2545,Teaching assistants,48,872,0.014339982568369814
+Indonesia,5071,99304,2960,60809,5120,"Bookkeeping, accounting, and auditing clerks",38,870,0.014307092700093737
+Indonesia,5071,99304,2960,60809,4700,First-line supervisors of retail sales workers,40,838,0.013780854807676495
+Indonesia,5071,99304,2960,60809,4230,Maids and housekeeping cleaners,19,801,0.013172392244569061
+Indonesia,5071,99304,2960,60809,5740,"Secretaries and administrative assistants, except legal, medical, and executive",33,785,0.01290927329836044
+Indonesia,5071,99304,2960,60809,1760,"Physical scientists, all other",33,676,0.011116775477314213
+Indonesia,5071,99304,2960,60809,5240,Customer service representatives,32,646,0.01062342745317305
+Indonesia,5071,99304,2960,60809,0110,Computer and information systems managers,32,641,0.010541202782482856
+Indonesia,5071,99304,2960,60809,4710,First-line supervisors of non-retail sales workers,24,633,0.010409643309378547
+Indonesia,5071,99304,2960,60809,9130,Driver/sales workers and truck drivers,34,614,0.01009718956075581
+Indonesia,5071,99304,2960,60809,0310,Food service managers,32,612,0.010064299692479732
+Indonesia,5071,99304,2960,60809,9620,"Laborers and freight, stock, and material movers, hand",30,604,0.009932740219375421
+Indonesia,5071,99304,2960,60809,9142,Taxi drivers,24,595,0.009784735812133072
+Indonesia,5071,99304,2960,60809,8740,"Inspectors, testers, sorters, samplers, and weighers",21,577,0.009488726997648375
+Indonesia,5071,99304,2960,60809,3602,Personal care aides,39,562,0.009242052985577794
+Indonesia,5071,99304,2960,60809,3090,Physicians,27,541,0.008896709368678979
+Indonesia,5071,99304,2960,60809,3603,Nursing assistants,24,540,0.00888026443454094
+Indonesia,5071,99304,2960,60809,1006,Computer systems analysts,28,531,0.00873226002729859
+Indonesia,5071,99304,2960,60809,4220,Janitors and building cleaners,26,528,0.008682925224884475
+Indonesia,5071,99304,2960,60809,4600,Childcare workers,21,526,0.008650035356608396
+Indonesia,5071,99304,2960,60809,4030,Food preparation workers,31,523,0.00860070055419428
+Indonesia,5071,99304,2960,60809,8990,"Miscellaneous production workers, including equipment operators and tenders",31,508,0.008354026542123699
+Indonesia,5071,99304,2960,60809,1050,Computer support specialists,29,507,0.00833758160798566
+Indonesia,5071,99304,2960,60809,0010,Chief executives and legislators,24,455,0.007482445032807644
+Indonesia,5071,99304,2960,60809,9645,Stockers and order fillers,24,455,0.007482445032807644
+Indonesia,5071,99304,2960,60809,0710,Management analysts,21,447,0.007350885559703334
+Indonesia,5071,99304,2960,60809,0705,Project management specialists,27,441,0.007252215954875101
+Indonesia,5071,99304,2960,60809,4920,Real estate brokers and sales agents,18,431,0.007087766613494713
+Indonesia,5071,99304,2960,60809,2640,Other designers,19,416,0.006841092601424131
+Indonesia,5071,99304,2960,60809,1240,Other mathematical science occupations,20,415,0.006824647667286092
+Indonesia,5071,99304,2960,60809,3930,Security guards and gaming surveillance officers,16,412,0.0067753128648719765
+Indonesia,5071,99304,2960,60809,1360,Civil engineers,19,411,0.006758867930733938
+Indonesia,5071,99304,2960,60809,1530,Other engineers,26,399,0.006561528721077472
+Indonesia,5071,99304,2960,60809,5000,First-line supervisors of office and administrative support workers,21,395,0.006495748984525317
+Indonesia,5071,99304,2960,60809,2100,"Lawyers, and judges, magistrates, and other judicial workers",16,385,0.006331299643144929
+Indonesia,5071,99304,2960,60809,0020,General and operations managers,17,377,0.006199740170040619
+Indonesia,5071,99304,2960,60809,0845,Financial and investment analysts,18,374,0.0061504053676265024
+Indonesia,5071,99304,2960,60809,1010,Computer programmers,15,348,0.005722837080037495
+Indonesia,5071,99304,2960,60809,2310,Elementary and middle school teachers,14,347,0.005706392145899456
+Indonesia,5071,99304,2960,60809,5510,Couriers and messengers,19,338,0.0055583877386571065
+Indonesia,5071,99304,2960,60809,2360,Other teachers and instructors,18,330,0.005426828265552797
+Indonesia,5071,99304,2960,60809,9640,"Packers and packagers, hand",15,325,0.005344603594862603
+Indonesia,5071,99304,2960,60809,1108,"Computer occupations, all other",17,313,0.005147264385206137
+Indonesia,5071,99304,2960,60809,4055,Fast food and counter workers,16,305,0.005015704912101827
+Indonesia,5071,99304,2960,60809,0910,Credit counselors and loan officers,9,303,0.004982815043825749
+Indonesia,5071,99304,2960,60809,5400,Receptionists and information clerks,12,302,0.004966370109687711
+Indonesia,5071,99304,2960,60809,0230,Education and childcare administrators,17,297,0.004884145438997517
+Indonesia,5071,99304,2960,60809,4510,"Hairdressers, hairstylists, and cosmetologists",14,296,0.004867700504859478
+Indonesia,5071,99304,2960,60809,0410,"Property, real estate, and community association managers",9,295,0.004851255570721439
+Indonesia,5071,99304,2960,60809,4400,Gambling services workers,7,294,0.004834810636583401
+Indonesia,5071,99304,2960,60809,7750,Other assemblers and fabricators,15,292,0.004801920768307323
+Indonesia,5071,99304,2960,60809,5610,"Shipping, receiving, and inventory clerks",7,289,0.004752585965893207
+Indonesia,5071,99304,2960,60809,5110,Billing and posting clerks,14,280,0.004604581558650857
+Indonesia,5071,99304,2960,60809,4850,"Sales representatives, wholesale and manufacturing",17,278,0.00457169169037478
+Indonesia,5071,99304,2960,60809,1970,"Other life, physical, and social science technicians",8,266,0.004374352480718315
+Indonesia,5071,99304,2960,60809,2040,Clergy,11,260,0.004275682875890082
+Indonesia,5071,99304,2960,60809,1650,Other life scientists,12,252,0.004144123402785772
+Indonesia,5071,99304,2960,60809,3430,Dietetic technicians and ophthalmic medical technicians,3,251,0.004127678468647733
+Indonesia,5071,99304,2960,60809,2300,Preschool and kindergarten teachers,16,247,0.004061898732095578
+Indonesia,5071,99304,2960,60809,0530,"Purchasing agents, except wholesale, retail, and farm products",14,241,0.0039632291272673455
+Indonesia,5071,99304,2960,60809,0140,Industrial production managers,8,236,0.0038810044565771515
+Indonesia,5071,99304,2960,60809,0300,Architectural and engineering managers,10,236,0.0038810044565771515
+Indonesia,5071,99304,2960,60809,1305,"Architects, except landscape and naval",11,233,0.003831669654163035
+Indonesia,5071,99304,2960,60809,3500,Licensed practical and licensed vocational nurses,12,230,0.003782334851748919
+Indonesia,5071,99304,2960,60809,0420,Social and community service managers,7,229,0.0037658899176108798
+Indonesia,5071,99304,2960,60809,1410,Electrical and electronics engineers,14,224,0.003683665246920686
+Indonesia,5071,99304,2960,60809,1430,"Industrial engineers, including health and safety",11,223,0.003667220312782647
+Indonesia,5071,99304,2960,60809,0750,"Business operations specialists, all other",14,221,0.00363433044450657
+Indonesia,5071,99304,2960,60809,4521,Manicurists and pedicurists,6,219,0.003601440576230492
+Indonesia,5071,99304,2960,60809,4965,"Sales and related workers, all other",8,211,0.003469881103126182
+Indonesia,5071,99304,2960,60809,5810,Data entry keyers,9,209,0.0034369912348501046
+Indonesia,5071,99304,2960,60809,2752,Musicians and singers,6,198,0.003256096959331678
+Indonesia,5071,99304,2960,60809,3050,Pharmacists,11,197,0.0032396520251936393
+Indonesia,5071,99304,2960,60809,4130,Dining room and cafeteria attendants and bartender helpers,7,195,0.0032067621569175616
+Indonesia,5071,99304,2960,60809,0700,Logisticians,5,193,0.003173872288641484
+Indonesia,5071,99304,2960,60809,0350,Medical and health services managers,11,186,0.0030587577496752126
+Indonesia,5071,99304,2960,60809,3645,Medical assistants,11,185,0.003042312815537174
+Indonesia,5071,99304,2960,60809,0735,Market research analysts and marketing specialists,11,178,0.0029271982765709022
+Indonesia,5071,99304,2960,60809,0220,Construction managers,8,171,0.002812083737604631
+Indonesia,5071,99304,2960,60809,0630,Human resources workers,12,170,0.0027956388034665923
+Indonesia,5071,99304,2960,60809,1460,Mechanical engineers,8,159,0.0026147445279481657
+Indonesia,5071,99304,2960,60809,2634,Graphic designers,9,159,0.0026147445279481657
+Indonesia,5071,99304,2960,60809,1220,Operations research analysts,8,157,0.002581854659672088
+Indonesia,5071,99304,2960,60809,2350,Tutors,8,156,0.0025654097255340493
+Indonesia,5071,99304,2960,60809,3422,Psychiatric technicians,5,153,0.002516074923119933
+Indonesia,5071,99304,2960,60809,2016,Social and human service assistants,5,150,0.0024667401207058167
+Indonesia,5071,99304,2960,60809,2600,Artists and related workers,8,145,0.0023845154500156227
+Indonesia,5071,99304,2960,60809,8800,Packaging and filling machine operators and tenders,4,144,0.002368070515877584
+Indonesia,5071,99304,2960,60809,3640,Dental assistants,8,142,0.0023351806476015063
+Indonesia,5071,99304,2960,60809,0565,Compliance officers,5,141,0.0023187357134634677
+Indonesia,5071,99304,2960,60809,0051,Marketing managers,9,139,0.00228584584518739
+Indonesia,5071,99304,2960,60809,7700,First-line supervisors of production and operating workers,4,139,0.00228584584518739
+Indonesia,5071,99304,2960,60809,8255,Printing press operators,5,138,0.0022694009110493514
+Indonesia,5071,99304,2960,60809,0150,Purchasing managers,6,137,0.0022529559769113123
+Indonesia,5071,99304,2960,60809,2060,"Religious workers, all other",2,136,0.0022365110427732737
+Indonesia,5071,99304,2960,60809,1555,"Other engineering technologists and technicians, except drafters",7,135,0.002220066108635235
+Indonesia,5071,99304,2960,60809,5550,Postal service mail carriers,8,133,0.0021871762403591574
+Indonesia,5071,99304,2960,60809,7340,"Maintenance and repair workers, general",9,131,0.0021542863720830797
+Indonesia,5071,99304,2960,60809,8030,Machinists,3,131,0.0021542863720830797
+Indonesia,5071,99304,2960,60809,7720,"Electrical, electronics, and electromechanical assemblers",6,130,0.002137841437945041
+Indonesia,5071,99304,2960,60809,0052,Sales managers,9,129,0.0021213965038070024
+Indonesia,5071,99304,2960,60809,0820,Budget analysts,5,127,0.0020885066355309247
+Indonesia,5071,99304,2960,60809,3515,Medical records specialists,9,125,0.002055616767254847
+Indonesia,5071,99304,2960,60809,3310,Dental hygienists,6,121,0.001989837030702692
+Indonesia,5071,99304,2960,60809,3630,Massage therapists,5,121,0.001989837030702692
+Indonesia,5071,99304,2960,60809,3010,Dentists,9,119,0.0019569471624266144
+Indonesia,5071,99304,2960,60809,3740,Firefighters,3,119,0.0019569471624266144
+Indonesia,5071,99304,2960,60809,4622,Recreation workers,4,119,0.0019569471624266144
+Indonesia,5071,99304,2960,60809,0136,Human resources managers,6,113,0.0018582775575983817
+Indonesia,5071,99304,2960,60809,3258,"Nurse practitioners, and nurse midwives",8,113,0.0018582775575983817
+Indonesia,5071,99304,2960,60809,1031,Web developers,3,110,0.0018089427551842654
+Indonesia,5071,99304,2960,60809,5522,"Dispatchers, except police, fire, and ambulance",3,110,0.0018089427551842654
+Indonesia,5071,99304,2960,60809,6200,First-line supervisors of construction trades and extraction workers,3,108,0.001776052886908188
+Indonesia,5071,99304,2960,60809,8610,Stationary engineers and boiler operators,3,105,0.0017267180844940716
+Indonesia,5071,99304,2960,60809,1106,Computer network architects,6,101,0.0016609383479419164
+Indonesia,5071,99304,2960,60809,2320,Secondary school teachers,8,101,0.0016609383479419164
+Indonesia,5071,99304,2960,60809,4810,Insurance sales agents,3,101,0.0016609383479419164
+Indonesia,5071,99304,2960,60809,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",7,101,0.0016609383479419164
+Indonesia,5071,99304,2960,60809,5600,"Production, planning, and expediting clerks",4,101,0.0016609383479419164
+Indonesia,5071,99304,2960,60809,1320,Aerospace engineers,6,99,0.001628048479665839
+Indonesia,5071,99304,2960,60809,3160,Physical therapists,4,97,0.0015951586113897615
+Indonesia,5071,99304,2960,60809,7200,Automotive service technicians and mechanics,7,96,0.0015787136772517226
+Indonesia,5071,99304,2960,60809,9141,Shuttle drivers and chauffeurs,6,96,0.0015787136772517226
+Indonesia,5071,99304,2960,60809,0850,Personal financial advisors,6,93,0.0015293788748376063
+Indonesia,5071,99304,2960,60809,9610,Cleaners of vehicles and equipment,6,91,0.0014964890065615288
+Indonesia,5071,99304,2960,60809,3323,Radiologic technologists and technicians,3,90,0.00148004407242349
+Indonesia,5071,99304,2960,60809,5160,Tellers,4,90,0.00148004407242349
+Indonesia,5071,99304,2960,60809,9121,"Bus drivers, school",2,89,0.0014635991382854511
+Indonesia,5071,99304,2960,60809,9265,Other rail transportation workers,1,89,0.0014635991382854511
+Indonesia,5071,99304,2960,60809,3545,Miscellaneous health technologists and technicians,2,88,0.0014471542041474125
+Indonesia,5071,99304,2960,60809,7800,Bakers,6,87,0.0014307092700093736
+Indonesia,5071,99304,2960,60809,3870,Police officers,4,84,0.0013813744675952573
+Indonesia,5071,99304,2960,60809,2710,Producers and directors,4,82,0.0013484845993191796
+Indonesia,5071,99304,2960,60809,3520,"Opticians, dispensing",1,82,0.0013484845993191796
+Indonesia,5071,99304,2960,60809,3601,Home health aides,5,82,0.0013484845993191796
+Indonesia,5071,99304,2960,60809,6410,Painters and paperhangers,2,82,0.0013484845993191796
+Indonesia,5071,99304,2960,60809,0600,Cost estimators,3,81,0.001332039665181141
+Indonesia,5071,99304,2960,60809,1825,Other psychologists,1,81,0.001332039665181141
+Indonesia,5071,99304,2960,60809,7140,Aircraft mechanics and service technicians,4,81,0.001332039665181141
+Indonesia,5071,99304,2960,60809,1105,Network and computer systems administrators,6,78,0.0012827048627670247
+Indonesia,5071,99304,2960,60809,1022,Software quality assurance analysts and testers,4,75,0.0012333700603529083
+Indonesia,5071,99304,2960,60809,5165,Other financial clerks,5,75,0.0012333700603529083
+Indonesia,5071,99304,2960,60809,2861,Interpreters and translators,4,74,0.0012169251262148695
+Indonesia,5071,99304,2960,60809,5940,Other office and administrative support workers,7,73,0.0012004801920768306
+Indonesia,5071,99304,2960,60809,3300,Clinical laboratory technologists and technicians,6,72,0.001184035257938792
+Indonesia,5071,99304,2960,60809,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",5,70,0.0011511453896627143
+Indonesia,5071,99304,2960,60809,5840,Insurance claims and policy processing clerks,2,70,0.0011511453896627143
+Indonesia,5071,99304,2960,60809,2105,Judicial law clerks,2,69,0.0011347004555246757
+Indonesia,5071,99304,2960,60809,2180,"Legal support workers, all other",2,68,0.0011182555213866368
+Indonesia,5071,99304,2960,60809,2011,"Child, family, and school social workers",8,67,0.001101810587248598
+Indonesia,5071,99304,2960,60809,4800,Advertising sales agents,2,66,0.0010853656531105594
+Indonesia,5071,99304,2960,60809,6305,Construction equipment operators,1,66,0.0010853656531105594
+Indonesia,5071,99304,2960,60809,4010,First-line supervisors of food preparation and serving workers,5,65,0.0010689207189725205
+Indonesia,5071,99304,2960,60809,8140,"Welding, soldering, and brazing workers",2,65,0.0010689207189725205
+Indonesia,5071,99304,2960,60809,0830,Credit analysts,2,62,0.0010195859165584042
+Indonesia,5071,99304,2960,60809,4251,Landscaping and groundskeeping workers,6,62,0.0010195859165584042
+Indonesia,5071,99304,2960,60809,5140,Payroll and timekeeping clerks,5,62,0.0010195859165584042
+Indonesia,5071,99304,2960,60809,1032,Web and digital interface designers,4,61,0.0010031409824203653
+Indonesia,5071,99304,2960,60809,2910,Photographers,4,61,0.0010031409824203653
+Indonesia,5071,99304,2960,60809,3421,Pharmacy technicians,5,57,9.373612458682103e-4
+Indonesia,5071,99304,2960,60809,4340,Animal trainers,2,57,9.373612458682103e-4
+Indonesia,5071,99304,2960,60809,5410,Reservation and transportation ticket agents and travel clerks,5,57,9.373612458682103e-4
+Indonesia,5071,99304,2960,60809,7010,"Computer, automated teller, and office machine repairers",4,57,9.373612458682103e-4
+Indonesia,5071,99304,2960,60809,1520,"Petroleum, mining and geological engineers, including mining safety engineers",4,56,9.209163117301715e-4
+Indonesia,5071,99304,2960,60809,3030,Dietitians and nutritionists,5,56,9.209163117301715e-4
+Indonesia,5071,99304,2960,60809,4530,"Baggage porters, bellhops, and concierges",5,56,9.209163117301715e-4
+Indonesia,5071,99304,2960,60809,5350,Correspondence clerks and order clerks,3,56,9.209163117301715e-4
+Indonesia,5071,99304,2960,60809,0040,Advertising and promotions managers,1,55,9.044713775921327e-4
+Indonesia,5071,99304,2960,60809,4820,"Securities, commodities, and financial services sales agents",3,55,9.044713775921327e-4
+Indonesia,5071,99304,2960,60809,7840,Food batchmakers,3,55,9.044713775921327e-4
+Indonesia,5071,99304,2960,60809,2400,"Archivists, curators, and museum technicians",2,54,8.88026443454094e-4
+Indonesia,5071,99304,2960,60809,2850,Writers and authors,3,54,8.88026443454094e-4
+Indonesia,5071,99304,2960,60809,8750,Jewelers and precious stone and metal workers,3,54,8.88026443454094e-4
+Indonesia,5071,99304,2960,60809,0725,"Meeting, convention, and event planners",3,53,8.715815093160552e-4
+Indonesia,5071,99304,2960,60809,0940,Tax preparers,2,53,8.715815093160552e-4
+Indonesia,5071,99304,2960,60809,1350,Chemical engineers,4,53,8.715815093160552e-4
+Indonesia,5071,99304,2960,60809,2050,"Directors, religious activities and education",1,53,8.715815093160552e-4
+Indonesia,5071,99304,2960,60809,3620,Physical therapist assistants and aides,1,53,8.715815093160552e-4
+Indonesia,5071,99304,2960,60809,7855,"Food processing workers, all other",3,52,8.551365751780164e-4
+Indonesia,5071,99304,2960,60809,1840,Urban and regional planners,2,51,8.386916410399776e-4
+Indonesia,5071,99304,2960,60809,3820,Detectives and criminal investigators,2,51,8.386916410399776e-4
+Indonesia,5071,99304,2960,60809,3910,Private detectives and investigators,1,50,8.222467069019389e-4
+Indonesia,5071,99304,2960,60809,5320,"Library assistants, clerical",2,49,8.058017727639e-4
+Indonesia,5071,99304,2960,60809,5230,"Credit authorizers, checkers, and clerks",3,48,7.893568386258613e-4
+Indonesia,5071,99304,2960,60809,8300,Laundry and dry-cleaning workers,3,48,7.893568386258613e-4
+Indonesia,5071,99304,2960,60809,5710,Executive secretaries and executive administrative assistants,2,47,7.729119044878226e-4
+Indonesia,5071,99304,2960,60809,1007,Information security analysts,4,46,7.564669703497837e-4
+Indonesia,5071,99304,2960,60809,1065,Database administrators and architects,3,46,7.564669703497837e-4
+Indonesia,5071,99304,2960,60809,1551,Electrical and electronic engineering technologists and technicians,3,46,7.564669703497837e-4
+Indonesia,5071,99304,2960,60809,2635,Interior designers,5,46,7.564669703497837e-4
+Indonesia,5071,99304,2960,60809,3402,Paramedics,2,46,7.564669703497837e-4
+Indonesia,5071,99304,2960,60809,4350,Animal caretakers,2,46,7.564669703497837e-4
+Indonesia,5071,99304,2960,60809,6260,Construction laborers,5,46,7.564669703497837e-4
+Indonesia,5071,99304,2960,60809,3655,Other healthcare support workers,3,45,7.40022036211745e-4
+Indonesia,5071,99304,2960,60809,0930,"Tax examiners and collectors, and revenue agents",2,44,7.235771020737062e-4
+Indonesia,5071,99304,2960,60809,2840,Technical writers,2,44,7.235771020737062e-4
+Indonesia,5071,99304,2960,60809,5850,"Mail clerks and mail machine operators, except postal service",1,44,7.235771020737062e-4
+Indonesia,5071,99304,2960,60809,9600,Industrial truck and tractor operators,4,44,7.235771020737062e-4
+Indonesia,5071,99304,2960,60809,7000,"First-line supervisors of mechanics, installers, and repairers",2,43,7.071321679356674e-4
+Indonesia,5071,99304,2960,60809,0540,"Claims adjusters, appraisers, examiners, and investigators",3,42,6.906872337976287e-4
+Indonesia,5071,99304,2960,60809,2145,Paralegals and legal assistants,3,42,6.906872337976287e-4
+Indonesia,5071,99304,2960,60809,5330,Loan interviewers and clerks,3,40,6.577973655215511e-4
+Indonesia,5071,99304,2960,60809,5540,Postal service clerks,3,40,6.577973655215511e-4
+Indonesia,5071,99304,2960,60809,7315,"Heating, air conditioning, and refrigeration mechanics and installers",2,40,6.577973655215511e-4
+Indonesia,5071,99304,2960,60809,9410,Transportation inspectors,1,40,6.577973655215511e-4
+Indonesia,5071,99304,2960,60809,1400,Computer hardware engineers,3,39,6.413524313835123e-4
+Indonesia,5071,99304,2960,60809,1545,Other drafters,2,39,6.413524313835123e-4
+Indonesia,5071,99304,2960,60809,4120,"Food servers, nonrestaurant",2,39,6.413524313835123e-4
+Indonesia,5071,99304,2960,60809,0960,Other financial specialists,2,38,6.249074972454735e-4
+Indonesia,5071,99304,2960,60809,4040,Bartenders,3,38,6.249074972454735e-4
+Indonesia,5071,99304,2960,60809,9005,Supervisors of transportation and material moving workers,2,38,6.249074972454735e-4
+Indonesia,5071,99304,2960,60809,9810,First-line enlisted military supervisors,2,38,6.249074972454735e-4
+Indonesia,5071,99304,2960,60809,1900,Agricultural and food science technicians,1,37,6.084625631074347e-4
+Indonesia,5071,99304,2960,60809,5250,"Eligibility interviewers, government programs",3,37,6.084625631074347e-4
+Indonesia,5071,99304,2960,60809,9350,Parking attendants,2,37,6.084625631074347e-4
+Indonesia,5071,99304,2960,60809,1720,Chemists and materials scientists,4,36,5.92017628969396e-4
+Indonesia,5071,99304,2960,60809,4640,Residential advisors,3,36,5.92017628969396e-4
+Indonesia,5071,99304,2960,60809,4950,"Door-to-door sales workers, news and street vendors, and related workers",2,36,5.92017628969396e-4
+Indonesia,5071,99304,2960,60809,5900,"Office machine operators, except computer",1,35,5.755726948313572e-4
+Indonesia,5071,99304,2960,60809,3649,Phlebotomists,2,34,5.591277606933184e-4
+Indonesia,5071,99304,2960,60809,0160,"Transportation, storage, and distribution managers",3,33,5.426828265552797e-4
+Indonesia,5071,99304,2960,60809,9365,Transportation service attendants,3,33,5.426828265552797e-4
+Indonesia,5071,99304,2960,60809,0340,Lodging managers,3,32,5.262378924172408e-4
+Indonesia,5071,99304,2960,60809,8640,"Chemical processing machine setters, operators, and tenders",1,32,5.262378924172408e-4
+Indonesia,5071,99304,2960,60809,1610,Biological scientists,1,31,5.097929582792021e-4
+Indonesia,5071,99304,2960,60809,2003,Marriage and family therapists,2,31,5.097929582792021e-4
+Indonesia,5071,99304,2960,60809,3110,Physician assistants,2,31,5.097929582792021e-4
+Indonesia,5071,99304,2960,60809,3150,Occupational therapists,2,31,5.097929582792021e-4
+Indonesia,5071,99304,2960,60809,6355,Electricians,3,31,5.097929582792021e-4
+Indonesia,5071,99304,2960,60809,2014,"Social workers, all other",2,30,4.933480241411634e-4
+Indonesia,5071,99304,2960,60809,2751,Music directors and composers,1,30,4.933480241411634e-4
+Indonesia,5071,99304,2960,60809,2865,"Media and communication workers, all other",1,30,4.933480241411634e-4
+Indonesia,5071,99304,2960,60809,4522,Skincare specialists,3,30,4.933480241411634e-4
+Indonesia,5071,99304,2960,60809,9122,"Bus drivers, transit and intercity",1,30,4.933480241411634e-4
+Indonesia,5071,99304,2960,60809,4830,Travel agents,2,29,4.769030900031245e-4
+Indonesia,5071,99304,2960,60809,2002,"Educational, guidance, and career counselors and advisors",4,28,4.604581558650858e-4
+Indonesia,5071,99304,2960,60809,7330,Industrial and refractory machinery mechanics,2,28,4.604581558650858e-4
+Indonesia,5071,99304,2960,60809,4540,Tour and travel guides,2,27,4.44013221727047e-4
+Indonesia,5071,99304,2960,60809,2722,Coaches and scouts,2,26,4.275682875890082e-4
+Indonesia,5071,99304,2960,60809,4740,Counter and rental clerks,2,26,4.275682875890082e-4
+Indonesia,5071,99304,2960,60809,8350,"Tailors, dressmakers, and sewers",3,26,4.275682875890082e-4
+Indonesia,5071,99304,2960,60809,8830,Photographic process workers and processing machine operators,1,26,4.275682875890082e-4
+Indonesia,5071,99304,2960,60809,1450,Materials engineers,1,25,4.1112335345096945e-4
+Indonesia,5071,99304,2960,60809,1822,School psychologists,1,25,4.1112335345096945e-4
+Indonesia,5071,99304,2960,60809,2632,Fashion designers,2,25,4.1112335345096945e-4
+Indonesia,5071,99304,2960,60809,4461,"Embalmers, crematory operators, and funeral attendants",1,25,4.1112335345096945e-4
+Indonesia,5071,99304,2960,60809,5920,Statistical assistants,1,25,4.1112335345096945e-4
+Indonesia,5071,99304,2960,60809,9830,"Military, rank not specified",1,25,4.1112335345096945e-4
+Indonesia,5071,99304,2960,60809,2435,Librarians and media collections specialists,2,23,3.7823348517489186e-4
+Indonesia,5071,99304,2960,60809,9150,"Motor vehicle operators, all other",2,23,3.7823348517489186e-4
+Indonesia,5071,99304,2960,60809,1200,Actuaries,1,22,3.617885510368531e-4
+Indonesia,5071,99304,2960,60809,1600,Agricultural and food scientists,1,22,3.617885510368531e-4
+Indonesia,5071,99304,2960,60809,4160,"Food preparation and serving related workers, all other",1,21,3.4534361689881433e-4
+Indonesia,5071,99304,2960,60809,4200,First-line supervisors of housekeeping and janitorial workers,2,21,3.4534361689881433e-4
+Indonesia,5071,99304,2960,60809,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,21,3.4534361689881433e-4
+Indonesia,5071,99304,2960,60809,0360,Natural sciences managers,1,20,3.2889868276077554e-4
+Indonesia,5071,99304,2960,60809,0520,"Wholesale and retail buyers, except farm products",2,20,3.2889868276077554e-4
+Indonesia,5071,99304,2960,60809,8040,"Metal furnace operators, tenders, pourers, and casters",1,20,3.2889868276077554e-4
+Indonesia,5071,99304,2960,60809,1860,Other social scientists,1,19,3.1245374862273674e-4
+Indonesia,5071,99304,2960,60809,5260,File clerks,2,19,3.1245374862273674e-4
+Indonesia,5071,99304,2960,60809,5420,Other information and records clerks,2,19,3.1245374862273674e-4
+Indonesia,5071,99304,2960,60809,2770,"Entertainers and performers, sports and related workers, all other",1,18,2.96008814484698e-4
+Indonesia,5071,99304,2960,60809,3324,Magnetic resonance imaging technologists,1,18,2.96008814484698e-4
+Indonesia,5071,99304,2960,60809,4420,"Ushers, lobby attendants, and ticket takers",1,18,2.96008814484698e-4
+Indonesia,5071,99304,2960,60809,5220,"Court, municipal, and license clerks",2,18,2.96008814484698e-4
+Indonesia,5071,99304,2960,60809,5560,"Postal service mail sorters, processors, and processing machine operators",1,18,2.96008814484698e-4
+Indonesia,5071,99304,2960,60809,2905,Other media and communication equipment workers,1,17,2.795638803466592e-4
+Indonesia,5071,99304,2960,60809,3725,"Miscellaneous first-line supervisors, protective service workers",2,17,2.795638803466592e-4
+Indonesia,5071,99304,2960,60809,5300,"Hotel, motel, and resort desk clerks",2,17,2.795638803466592e-4
+Indonesia,5071,99304,2960,60809,9030,Aircraft pilots and flight engineers,1,17,2.795638803466592e-4
+Indonesia,5071,99304,2960,60809,1750,"Geoscientists and hydrologists, except geographers",1,16,2.631189462086204e-4
+Indonesia,5071,99304,2960,60809,1980,Occupational health and safety specialists and technicians,2,16,2.631189462086204e-4
+Indonesia,5071,99304,2960,60809,3940,Crossing guards and flaggers,1,16,2.631189462086204e-4
+Indonesia,5071,99304,2960,60809,8365,"Textile machine setters, operators, and tenders",1,16,2.631189462086204e-4
+Indonesia,5071,99304,2960,60809,1420,Environmental engineers,1,15,2.466740120705817e-4
+Indonesia,5071,99304,2960,60809,2723,"Umpires, referees, and other sports officials",1,15,2.466740120705817e-4
+Indonesia,5071,99304,2960,60809,4240,Pest control workers,1,15,2.466740120705817e-4
+Indonesia,5071,99304,2960,60809,5150,Procurement clerks,1,15,2.466740120705817e-4
+Indonesia,5071,99304,2960,60809,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,15,2.466740120705817e-4
+Indonesia,5071,99304,2960,60809,0640,"Compensation, benefits, and job analysis specialists",1,14,2.302290779325429e-4
+Indonesia,5071,99304,2960,60809,0810,Property appraisers and assessors,1,14,2.302290779325429e-4
+Indonesia,5071,99304,2960,60809,1800,Economists,1,14,2.302290779325429e-4
+Indonesia,5071,99304,2960,60809,2025,Other community and social service specialists,1,14,2.302290779325429e-4
+Indonesia,5071,99304,2960,60809,3245,Other therapists,1,14,2.302290779325429e-4
+Indonesia,5071,99304,2960,60809,9240,Railroad conductors and yardmasters,1,14,2.302290779325429e-4
+Indonesia,5071,99304,2960,60809,0500,"Agents and business managers of artists, performers, and athletes",1,13,2.137841437945041e-4
+Indonesia,5071,99304,2960,60809,1541,Architectural and civil drafters,1,13,2.137841437945041e-4
+Indonesia,5071,99304,2960,60809,3646,Medical transcriptionists,1,13,2.137841437945041e-4
+Indonesia,5071,99304,2960,60809,7430,Precision instrument and equipment repairers,1,13,2.137841437945041e-4
+Indonesia,5071,99304,2960,60809,7905,Computer numerically controlled tool operators and programmers,1,13,2.137841437945041e-4
+Indonesia,5071,99304,2960,60809,0060,Public relations and fundraising managers,1,12,1.9733920965646533e-4
+Indonesia,5071,99304,2960,60809,1920,Chemical technicians,1,12,1.9733920965646533e-4
+Indonesia,5071,99304,2960,60809,2810,"News analysts, reporters, and journalists",1,12,1.9733920965646533e-4
+Indonesia,5071,99304,2960,60809,3120,Podiatrists,1,12,1.9733920965646533e-4
+Indonesia,5071,99304,2960,60809,3250,Veterinarians,1,12,1.9733920965646533e-4
+Indonesia,5071,99304,2960,60809,4621,Exercise trainers and group fitness instructors,1,12,1.9733920965646533e-4
+Indonesia,5071,99304,2960,60809,4655,"Personal care and service workers, all other",1,12,1.9733920965646533e-4
+Indonesia,5071,99304,2960,60809,9050,Flight attendants,1,12,1.9733920965646533e-4
+Indonesia,5071,99304,2960,60809,9110,"Ambulance drivers and attendants, except emergency medical technicians",1,12,1.9733920965646533e-4
+Indonesia,5071,99304,2960,60809,2006,"Counselors, all other",1,11,1.8089427551842656e-4
+Indonesia,5071,99304,2960,60809,2825,Public relations specialists,1,11,1.8089427551842656e-4
+Indonesia,5071,99304,2960,60809,3322,Diagnostic medical sonographers,1,11,1.8089427551842656e-4
+Indonesia,5071,99304,2960,60809,3605,Orderlies and psychiatric aides,1,11,1.8089427551842656e-4
+Indonesia,5071,99304,2960,60809,5310,"Interviewers, except eligibility and loan",1,11,1.8089427551842656e-4
+Indonesia,5071,99304,2960,60809,6230,Carpenters,1,11,1.8089427551842656e-4
+Indonesia,5071,99304,2960,60809,7320,Home appliance repairers,1,11,1.8089427551842656e-4
+Indonesia,5071,99304,2960,60809,9760,Other material moving workers,1,11,1.8089427551842656e-4
+Indonesia,5071,99304,2960,60809,0135,Compensation and benefits managers,1,10,1.6444934138038777e-4
+Indonesia,5071,99304,2960,60809,2330,Special education teachers,1,10,1.6444934138038777e-4
+Indonesia,5071,99304,2960,60809,3200,Radiation therapists,1,10,1.6444934138038777e-4
+Indonesia,5071,99304,2960,60809,3945,Transportation security screeners,1,10,1.6444934138038777e-4
+Indonesia,5071,99304,2960,60809,4900,"Models, demonstrators, and product promoters",2,10,1.6444934138038777e-4
+Indonesia,5071,99304,2960,60809,5100,Bill and account collectors,1,10,1.6444934138038777e-4
+Indonesia,5071,99304,2960,60809,7925,"Forming machine setters, operators, and tenders, metal and plastic",1,10,1.6444934138038777e-4
+Indonesia,5071,99304,2960,60809,2721,Athletes and sports competitors,1,9,1.48004407242349e-4
+Indonesia,5071,99304,2960,60809,4140,Dishwashers,1,9,1.48004407242349e-4
+Indonesia,5071,99304,2960,60809,5730,Medical secretaries and administrative assistants,1,9,1.48004407242349e-4
+Indonesia,5071,99304,2960,60809,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,9,1.48004407242349e-4
+Indonesia,5071,99304,2960,60809,0335,Entertainment and recreation managers,1,8,1.315594731043102e-4
+Indonesia,5071,99304,2960,60809,6040,"Graders and sorters, agricultural products",1,8,1.315594731043102e-4
+Indonesia,5071,99304,2960,60809,2440,Library technicians,1,7,1.1511453896627144e-4
+Indonesia,5071,99304,2960,60809,2633,Floral designers,1,7,1.1511453896627144e-4
+Indonesia,5071,99304,2960,60809,2700,Actors,1,7,1.1511453896627144e-4
+Indonesia,5071,99304,2960,60809,7830,"Food and tobacco roasting, baking, and drying machine operators and tenders",1,7,1.1511453896627144e-4
+Indonesia,5071,99304,2960,60809,0650,Training and development specialists,1,6,9.866960482823266e-5
+Indonesia,5071,99304,2960,60809,3550,Other healthcare practitioners and technical occupations,1,6,9.866960482823266e-5
+Indonesia,5071,99304,2960,60809,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",1,6,9.866960482823266e-5
+Indonesia,5071,99304,2960,60809,4330,Supervisors of personal care and service workers,1,6,9.866960482823266e-5
+Indonesia,5071,99304,2960,60809,7210,Bus and truck mechanics and diesel engine specialists,1,6,9.866960482823266e-5
+Indonesia,5071,99304,2960,60809,8600,"Power plant operators, distributors, and dispatchers",1,6,9.866960482823266e-5
+Indonesia,5071,99304,2960,60809,0205,"Farmers, ranchers, and other agricultural managers",1,5,8.222467069019388e-5
+Indonesia,5071,99304,2960,60809,2555,Other educational instruction and library workers,1,5,8.222467069019388e-5
+Indonesia,5071,99304,2960,60809,2830,Editors,1,5,8.222467069019388e-5
+Indonesia,5071,99304,2960,60809,7540,Locksmiths and safe repairers,1,5,8.222467069019388e-5
+Indonesia,5071,99304,2960,60809,8310,"Pressers, textile, garment, and related materials",1,5,8.222467069019388e-5
+Indonesia,5071,99304,2960,60809,3647,Pharmacy aides,1,4,6.57797365521551e-5
+Indonesia,5071,99304,2960,60809,1935,"Environmental science and geoscience technicians, and nuclear technicians",1,3,4.933480241411633e-5
+Indonesia,5071,99304,2960,60809,4930,Sales engineers,1,3,4.933480241411633e-5
+Indonesia,5071,99304,2960,60809,2805,Broadcast announcers and radio disc jockeys,1,2,3.288986827607755e-5

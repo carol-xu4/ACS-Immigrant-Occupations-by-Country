@@ -1,180 +1,183 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Kosovo,792,19288,486,12118,6260,Construction laborers,18,651,0.05372173626010893
-Kosovo,792,19288,486,12118,9130,Driver/sales workers and truck drivers,21,613,0.050585905264895197
-Kosovo,792,19288,486,12118,0440,Other managers,14,456,0.03762997194256478
-Kosovo,792,19288,486,12118,4110,Waiters and waitresses,14,414,0.034164053474170654
-Kosovo,792,19288,486,12118,4760,Retail salespersons,14,365,0.030120481927710843
-Kosovo,792,19288,486,12118,5400,Receptionists and information clerks,7,338,0.02789239148374319
-Kosovo,792,19288,486,12118,4700,First-line supervisors of retail sales workers,7,274,0.02261099191285691
-Kosovo,792,19288,486,12118,0120,Financial managers,8,260,0.02145568575672553
-Kosovo,792,19288,486,12118,1021,Software developers,9,254,0.020960554546954942
-Kosovo,792,19288,486,12118,0410,"Property, real estate, and community association managers",7,252,0.020795510810364747
-Kosovo,792,19288,486,12118,0310,Food service managers,9,229,0.01889750783957749
-Kosovo,792,19288,486,12118,9645,Stockers and order fillers,12,208,0.017164548605380425
-Kosovo,792,19288,486,12118,3640,Dental assistants,3,202,0.016669417395609835
-Kosovo,792,19288,486,12118,4720,Cashiers,10,195,0.01609176431754415
-Kosovo,792,19288,486,12118,4020,Cooks,7,191,0.015761676844363755
-Kosovo,792,19288,486,12118,7200,Automotive service technicians and mechanics,2,183,0.01510150189800297
-Kosovo,792,19288,486,12118,4220,Janitors and building cleaners,13,182,0.015018980029707873
-Kosovo,792,19288,486,12118,7750,Other assemblers and fabricators,5,177,0.014606370688232381
-Kosovo,792,19288,486,12118,8990,"Miscellaneous production workers, including equipment operators and tenders",5,164,0.013533586400396105
-Kosovo,792,19288,486,12118,3255,Registered nurses,10,163,0.013451064532101006
-Kosovo,792,19288,486,12118,7700,First-line supervisors of production and operating workers,6,155,0.012790889585740222
-Kosovo,792,19288,486,12118,0735,Market research analysts and marketing specialists,4,139,0.01147053969301865
-Kosovo,792,19288,486,12118,4230,Maids and housekeeping cleaners,8,135,0.011140452219838257
-Kosovo,792,19288,486,12118,5240,Customer service representatives,3,135,0.011140452219838257
-Kosovo,792,19288,486,12118,8225,Other metal workers and plastic workers,2,132,0.010892886614952963
-Kosovo,792,19288,486,12118,4510,"Hairdressers, hairstylists, and cosmetologists",5,129,0.010645321010067668
-Kosovo,792,19288,486,12118,0845,Financial and investment analysts,4,126,0.010397755405182374
-Kosovo,792,19288,486,12118,9620,"Laborers and freight, stock, and material movers, hand",7,120,0.009902624195411784
-Kosovo,792,19288,486,12118,0710,Management analysts,1,119,0.009820102327116685
-Kosovo,792,19288,486,12118,0800,Accountants and auditors,4,115,0.009490014853936293
-Kosovo,792,19288,486,12118,3870,Police officers,5,99,0.008169664961214722
-Kosovo,792,19288,486,12118,2555,Other educational instruction and library workers,3,89,0.00734444627826374
-Kosovo,792,19288,486,12118,2360,Other teachers and instructors,3,87,0.007179402541673543
-Kosovo,792,19288,486,12118,0010,Chief executives and legislators,2,86,0.007096880673378445
-Kosovo,792,19288,486,12118,9005,Supervisors of transportation and material moving workers,1,85,0.007014358805083347
-Kosovo,792,19288,486,12118,2145,Paralegals and legal assistants,1,83,0.00684931506849315
-Kosovo,792,19288,486,12118,3930,Security guards and gaming surveillance officers,3,83,0.00684931506849315
-Kosovo,792,19288,486,12118,0052,Sales managers,2,82,0.006766793200198053
-Kosovo,792,19288,486,12118,4530,"Baggage porters, bellhops, and concierges",4,82,0.006766793200198053
-Kosovo,792,19288,486,12118,6442,"Plumbers, pipefitters, and steamfitters",5,81,0.006684271331902954
-Kosovo,792,19288,486,12118,1050,Computer support specialists,3,75,0.006189140122132365
-Kosovo,792,19288,486,12118,6520,Sheet metal workers,1,75,0.006189140122132365
-Kosovo,792,19288,486,12118,0060,Public relations and fundraising managers,2,72,0.0059415745172470705
-Kosovo,792,19288,486,12118,4030,Food preparation workers,2,70,0.005776530780656874
-Kosovo,792,19288,486,12118,2910,Photographers,1,69,0.005694008912361776
-Kosovo,792,19288,486,12118,3603,Nursing assistants,4,69,0.005694008912361776
-Kosovo,792,19288,486,12118,0110,Computer and information systems managers,4,67,0.00552896517577158
-Kosovo,792,19288,486,12118,2320,Secondary school teachers,1,66,0.005446443307476481
-Kosovo,792,19288,486,12118,5120,"Bookkeeping, accounting, and auditing clerks",3,64,0.005281399570886285
-Kosovo,792,19288,486,12118,2300,Preschool and kindergarten teachers,3,63,0.005198877702591187
-Kosovo,792,19288,486,12118,8810,Painting workers,1,63,0.005198877702591187
-Kosovo,792,19288,486,12118,5860,"Office clerks, general",4,61,0.00503383396600099
-Kosovo,792,19288,486,12118,0705,Project management specialists,2,60,0.004951312097705892
-Kosovo,792,19288,486,12118,3601,Home health aides,3,58,0.004786268361115695
-Kosovo,792,19288,486,12118,4200,First-line supervisors of housekeeping and janitorial workers,3,55,0.004538702756230401
-Kosovo,792,19288,486,12118,4810,Insurance sales agents,2,55,0.004538702756230401
-Kosovo,792,19288,486,12118,2752,Musicians and singers,2,53,0.004373659019640205
-Kosovo,792,19288,486,12118,2205,Postsecondary teachers,4,52,0.004291137151345106
-Kosovo,792,19288,486,12118,4010,First-line supervisors of food preparation and serving workers,2,52,0.004291137151345106
-Kosovo,792,19288,486,12118,9720,Refuse and recyclable material collectors,2,52,0.004291137151345106
-Kosovo,792,19288,486,12118,0220,Construction managers,4,51,0.0042086152830500085
-Kosovo,792,19288,486,12118,6230,Carpenters,5,51,0.0042086152830500085
-Kosovo,792,19288,486,12118,0530,"Purchasing agents, except wholesale, retail, and farm products",3,50,0.00412609341475491
-Kosovo,792,19288,486,12118,0020,General and operations managers,2,49,0.004043571546459812
-Kosovo,792,19288,486,12118,3010,Dentists,1,49,0.004043571546459812
-Kosovo,792,19288,486,12118,8335,Shoe and leather workers,1,49,0.004043571546459812
-Kosovo,792,19288,486,12118,0750,"Business operations specialists, all other",2,48,0.003961049678164714
-Kosovo,792,19288,486,12118,1410,Electrical and electronics engineers,2,46,0.0037960059415745174
-Kosovo,792,19288,486,12118,4251,Landscaping and groundskeeping workers,2,46,0.0037960059415745174
-Kosovo,792,19288,486,12118,8740,"Inspectors, testers, sorters, samplers, and weighers",3,46,0.0037960059415745174
-Kosovo,792,19288,486,12118,2014,"Social workers, all other",1,44,0.003630962204984321
-Kosovo,792,19288,486,12118,5940,Other office and administrative support workers,2,44,0.003630962204984321
-Kosovo,792,19288,486,12118,8030,Machinists,2,43,0.0035484403366892224
-Kosovo,792,19288,486,12118,6330,"Drywall installers, ceiling tile installers, and tapers",1,42,0.0034659184683941244
-Kosovo,792,19288,486,12118,8350,"Tailors, dressmakers, and sewers",2,42,0.0034659184683941244
-Kosovo,792,19288,486,12118,2545,Teaching assistants,3,41,0.0033833966000990263
-Kosovo,792,19288,486,12118,4000,Chefs and head cooks,3,41,0.0033833966000990263
-Kosovo,792,19288,486,12118,4920,Real estate brokers and sales agents,3,41,0.0033833966000990263
-Kosovo,792,19288,486,12118,5510,Couriers and messengers,1,41,0.0033833966000990263
-Kosovo,792,19288,486,12118,7810,"Butchers and other meat, poultry, and fish processing workers",1,41,0.0033833966000990263
-Kosovo,792,19288,486,12118,1108,"Computer occupations, all other",3,40,0.003300874731803928
-Kosovo,792,19288,486,12118,3245,Other therapists,1,40,0.003300874731803928
-Kosovo,792,19288,486,12118,9610,Cleaners of vehicles and equipment,1,40,0.003300874731803928
-Kosovo,792,19288,486,12118,3602,Personal care aides,2,39,0.00321835286350883
-Kosovo,792,19288,486,12118,4055,Fast food and counter workers,4,39,0.00321835286350883
-Kosovo,792,19288,486,12118,2920,"Television, video, and film camera operators and editors",1,38,0.0031358309952137318
-Kosovo,792,19288,486,12118,0300,Architectural and engineering managers,2,36,0.0029707872586235353
-Kosovo,792,19288,486,12118,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",3,36,0.0029707872586235353
-Kosovo,792,19288,486,12118,7330,Industrial and refractory machinery mechanics,3,36,0.0029707872586235353
-Kosovo,792,19288,486,12118,0650,Training and development specialists,1,35,0.002888265390328437
-Kosovo,792,19288,486,12118,1006,Computer systems analysts,2,35,0.002888265390328437
-Kosovo,792,19288,486,12118,4330,Supervisors of personal care and service workers,1,35,0.002888265390328437
-Kosovo,792,19288,486,12118,3110,Physician assistants,2,34,0.0028057435220333387
-Kosovo,792,19288,486,12118,4522,Skincare specialists,1,34,0.0028057435220333387
-Kosovo,792,19288,486,12118,6515,Roofers,2,34,0.0028057435220333387
-Kosovo,792,19288,486,12118,1350,Chemical engineers,1,33,0.0027232216537382407
-Kosovo,792,19288,486,12118,6410,Painters and paperhangers,2,33,0.0027232216537382407
-Kosovo,792,19288,486,12118,2700,Actors,1,32,0.0026406997854431426
-Kosovo,792,19288,486,12118,5740,"Secretaries and administrative assistants, except legal, medical, and executive",3,32,0.0026406997854431426
-Kosovo,792,19288,486,12118,8320,Sewing machine operators,1,32,0.0026406997854431426
-Kosovo,792,19288,486,12118,1530,Other engineers,1,31,0.002558177917148044
-Kosovo,792,19288,486,12118,4130,Dining room and cafeteria attendants and bartender helpers,3,31,0.002558177917148044
-Kosovo,792,19288,486,12118,8140,"Welding, soldering, and brazing workers",1,31,0.002558177917148044
-Kosovo,792,19288,486,12118,3090,Physicians,1,30,0.002475656048852946
-Kosovo,792,19288,486,12118,3300,Clinical laboratory technologists and technicians,1,30,0.002475656048852946
-Kosovo,792,19288,486,12118,1800,Economists,2,28,0.0023106123122627496
-Kosovo,792,19288,486,12118,3910,Private detectives and investigators,1,28,0.0023106123122627496
-Kosovo,792,19288,486,12118,4850,"Sales representatives, wholesale and manufacturing",2,28,0.0023106123122627496
-Kosovo,792,19288,486,12118,7905,Computer numerically controlled tool operators and programmers,2,28,0.0023106123122627496
-Kosovo,792,19288,486,12118,9142,Taxi drivers,1,26,0.002145568575672553
-Kosovo,792,19288,486,12118,4710,First-line supervisors of non-retail sales workers,2,25,0.002063046707377455
-Kosovo,792,19288,486,12118,5710,Executive secretaries and executive administrative assistants,1,25,0.002063046707377455
-Kosovo,792,19288,486,12118,9640,"Packers and packagers, hand",2,25,0.002063046707377455
-Kosovo,792,19288,486,12118,0136,Human resources managers,1,24,0.001980524839082357
-Kosovo,792,19288,486,12118,6355,Electricians,1,24,0.001980524839082357
-Kosovo,792,19288,486,12118,2600,Artists and related workers,1,23,0.0018980029707872587
-Kosovo,792,19288,486,12118,4040,Bartenders,1,23,0.0018980029707872587
-Kosovo,792,19288,486,12118,4120,"Food servers, nonrestaurant",1,23,0.0018980029707872587
-Kosovo,792,19288,486,12118,6710,Fence erectors,1,23,0.0018980029707872587
-Kosovo,792,19288,486,12118,7720,"Electrical, electronics, and electromechanical assemblers",1,23,0.0018980029707872587
-Kosovo,792,19288,486,12118,9650,Pumping station operators,1,23,0.0018980029707872587
-Kosovo,792,19288,486,12118,3421,Pharmacy technicians,1,22,0.0018154811024921605
-Kosovo,792,19288,486,12118,7340,"Maintenance and repair workers, general",1,22,0.0018154811024921605
-Kosovo,792,19288,486,12118,3655,Other healthcare support workers,1,21,0.0017329592341970622
-Kosovo,792,19288,486,12118,8640,"Chemical processing machine setters, operators, and tenders",1,21,0.0017329592341970622
-Kosovo,792,19288,486,12118,0102,Facilities managers,1,19,0.0015679154976068659
-Kosovo,792,19288,486,12118,2040,Clergy,2,17,0.0014028717610166694
-Kosovo,792,19288,486,12118,2634,Graphic designers,1,17,0.0014028717610166694
-Kosovo,792,19288,486,12118,3310,Dental hygienists,1,17,0.0014028717610166694
-Kosovo,792,19288,486,12118,3645,Medical assistants,1,17,0.0014028717610166694
-Kosovo,792,19288,486,12118,8300,Laundry and dry-cleaning workers,1,17,0.0014028717610166694
-Kosovo,792,19288,486,12118,3500,Licensed practical and licensed vocational nurses,1,16,0.0013203498927215713
-Kosovo,792,19288,486,12118,3646,Medical transcriptionists,1,16,0.0013203498927215713
-Kosovo,792,19288,486,12118,4140,Dishwashers,1,16,0.0013203498927215713
-Kosovo,792,19288,486,12118,4622,Recreation workers,1,16,0.0013203498927215713
-Kosovo,792,19288,486,12118,0340,Lodging managers,1,15,0.001237828024426473
-Kosovo,792,19288,486,12118,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",1,15,0.001237828024426473
-Kosovo,792,19288,486,12118,7420,Telecommunications line installers and repairers,1,15,0.001237828024426473
-Kosovo,792,19288,486,12118,9310,Ship and boat captains and operators,1,15,0.001237828024426473
-Kosovo,792,19288,486,12118,0150,Purchasing managers,1,14,0.0011553061561313748
-Kosovo,792,19288,486,12118,0510,"Buyers and purchasing agents, farm products",1,14,0.0011553061561313748
-Kosovo,792,19288,486,12118,2310,Elementary and middle school teachers,1,14,0.0011553061561313748
-Kosovo,792,19288,486,12118,2640,Other designers,1,14,0.0011553061561313748
-Kosovo,792,19288,486,12118,3820,Detectives and criminal investigators,1,14,0.0011553061561313748
-Kosovo,792,19288,486,12118,5250,"Eligibility interviewers, government programs",1,14,0.0011553061561313748
-Kosovo,792,19288,486,12118,7640,"Other installation, maintenance, and repair workers",1,14,0.0011553061561313748
-Kosovo,792,19288,486,12118,0160,"Transportation, storage, and distribution managers",1,13,0.0010727842878362765
-Kosovo,792,19288,486,12118,0230,Education and childcare administrators,1,13,0.0010727842878362765
-Kosovo,792,19288,486,12118,1520,"Petroleum, mining and geological engineers, including mining safety engineers",1,13,0.0010727842878362765
-Kosovo,792,19288,486,12118,3423,Surgical technologists,1,13,0.0010727842878362765
-Kosovo,792,19288,486,12118,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,13,0.0010727842878362765
-Kosovo,792,19288,486,12118,4830,Travel agents,1,13,0.0010727842878362765
-Kosovo,792,19288,486,12118,5000,First-line supervisors of office and administrative support workers,1,13,0.0010727842878362765
-Kosovo,792,19288,486,12118,5310,"Interviewers, except eligibility and loan",1,13,0.0010727842878362765
-Kosovo,792,19288,486,12118,7800,Bakers,1,13,0.0010727842878362765
-Kosovo,792,19288,486,12118,1720,Chemists and materials scientists,1,12,9.902624195411785e-4
-Kosovo,792,19288,486,12118,3649,Phlebotomists,1,12,9.902624195411785e-4
-Kosovo,792,19288,486,12118,5610,"Shipping, receiving, and inventory clerks",1,12,9.902624195411785e-4
-Kosovo,792,19288,486,12118,9410,Transportation inspectors,1,12,9.902624195411785e-4
-Kosovo,792,19288,486,12118,1360,Civil engineers,1,11,9.077405512460802e-4
-Kosovo,792,19288,486,12118,2100,"Lawyers, and judges, magistrates, and other judicial workers",1,11,9.077405512460802e-4
-Kosovo,792,19288,486,12118,4521,Manicurists and pedicurists,1,11,9.077405512460802e-4
-Kosovo,792,19288,486,12118,5560,"Postal service mail sorters, processors, and processing machine operators",1,11,9.077405512460802e-4
-Kosovo,792,19288,486,12118,5810,Data entry keyers,1,11,9.077405512460802e-4
-Kosovo,792,19288,486,12118,8610,Stationary engineers and boiler operators,1,11,9.077405512460802e-4
-Kosovo,792,19288,486,12118,1400,Computer hardware engineers,2,10,8.25218682950982e-4
-Kosovo,792,19288,486,12118,2435,Librarians and media collections specialists,1,10,8.25218682950982e-4
-Kosovo,792,19288,486,12118,2840,Technical writers,1,10,8.25218682950982e-4
-Kosovo,792,19288,486,12118,4420,"Ushers, lobby attendants, and ticket takers",1,10,8.25218682950982e-4
-Kosovo,792,19288,486,12118,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,10,8.25218682950982e-4
-Kosovo,792,19288,486,12118,4965,"Sales and related workers, all other",1,9,7.426968146558838e-4
-Kosovo,792,19288,486,12118,5350,Correspondence clerks and order clerks,1,9,7.426968146558838e-4
-Kosovo,792,19288,486,12118,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,9,7.426968146558838e-4
-Kosovo,792,19288,486,12118,9122,"Bus drivers, transit and intercity",1,9,7.426968146558838e-4
-Kosovo,792,19288,486,12118,0140,Industrial production managers,1,8,6.601749463607857e-4
-Kosovo,792,19288,486,12118,1555,"Other engineering technologists and technicians, except drafters",1,8,6.601749463607857e-4
-Kosovo,792,19288,486,12118,8500,Cabinetmakers and bench carpenters,1,8,6.601749463607857e-4
-Kosovo,792,19288,486,12118,0420,Social and community service managers,1,7,5.776530780656874e-4
-Kosovo,792,19288,486,12118,5110,Billing and posting clerks,1,4,3.3008747318039283e-4
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Kosovo,792,19288,505,12438,6260,Construction laborers,18,651,0.05233960443801254
+Kosovo,792,19288,505,12438,9130,Driver/sales workers and truck drivers,21,613,0.049284450876346676
+Kosovo,792,19288,505,12438,0440,Other managers,15,473,0.038028621964946135
+Kosovo,792,19288,505,12438,4110,Waiters and waitresses,15,421,0.03384788551214021
+Kosovo,792,19288,505,12438,4760,Retail salespersons,14,365,0.029345553947579997
+Kosovo,792,19288,505,12438,5400,Receptionists and information clerks,7,338,0.027174786943238462
+Kosovo,792,19288,505,12438,4700,First-line supervisors of retail sales workers,7,274,0.02202926515516964
+Kosovo,792,19288,505,12438,1021,Software developers,10,261,0.020984081041968163
+Kosovo,792,19288,505,12438,0120,Financial managers,8,260,0.020903682264029586
+Kosovo,792,19288,505,12438,0410,"Property, real estate, and community association managers",7,252,0.020260492040520984
+Kosovo,792,19288,505,12438,4220,Janitors and building cleaners,17,230,0.018491718925872327
+Kosovo,792,19288,505,12438,0310,Food service managers,9,229,0.01841132014793375
+Kosovo,792,19288,505,12438,4720,Cashiers,11,214,0.017205338478855123
+Kosovo,792,19288,505,12438,0735,Market research analysts and marketing specialists,5,209,0.016803344589162245
+Kosovo,792,19288,505,12438,9645,Stockers and order fillers,12,208,0.01672294581122367
+Kosovo,792,19288,505,12438,3640,Dental assistants,3,202,0.016240553143592216
+Kosovo,792,19288,505,12438,4020,Cooks,7,191,0.01535616658626789
+Kosovo,792,19288,505,12438,7200,Automotive service technicians and mechanics,2,183,0.014712976362759285
+Kosovo,792,19288,505,12438,7750,Other assemblers and fabricators,5,177,0.014230583695127834
+Kosovo,792,19288,505,12438,8990,"Miscellaneous production workers, including equipment operators and tenders",5,164,0.013185399581926355
+Kosovo,792,19288,505,12438,3255,Registered nurses,10,163,0.01310500080398778
+Kosovo,792,19288,505,12438,7700,First-line supervisors of production and operating workers,6,155,0.012461810580479177
+Kosovo,792,19288,505,12438,0800,Accountants and auditors,5,146,0.011738221579032
+Kosovo,792,19288,505,12438,4230,Maids and housekeeping cleaners,8,135,0.01085383502170767
+Kosovo,792,19288,505,12438,5240,Customer service representatives,3,135,0.01085383502170767
+Kosovo,792,19288,505,12438,8225,Other metal workers and plastic workers,2,132,0.010612638687891944
+Kosovo,792,19288,505,12438,4510,"Hairdressers, hairstylists, and cosmetologists",5,129,0.010371442354076218
+Kosovo,792,19288,505,12438,0845,Financial and investment analysts,4,126,0.010130246020260492
+Kosovo,792,19288,505,12438,9620,"Laborers and freight, stock, and material movers, hand",7,120,0.00964785335262904
+Kosovo,792,19288,505,12438,0710,Management analysts,1,119,0.009567454574690465
+Kosovo,792,19288,505,12438,3870,Police officers,5,99,0.007959479015918957
+Kosovo,792,19288,505,12438,2555,Other educational instruction and library workers,3,89,0.007155491236533204
+Kosovo,792,19288,505,12438,2360,Other teachers and instructors,3,87,0.006994693680656054
+Kosovo,792,19288,505,12438,0010,Chief executives and legislators,2,86,0.0069142949027174785
+Kosovo,792,19288,505,12438,9005,Supervisors of transportation and material moving workers,1,85,0.006833896124778903
+Kosovo,792,19288,505,12438,2145,Paralegals and legal assistants,1,83,0.006673098568901753
+Kosovo,792,19288,505,12438,3930,Security guards and gaming surveillance officers,3,83,0.006673098568901753
+Kosovo,792,19288,505,12438,0052,Sales managers,2,82,0.006592699790963177
+Kosovo,792,19288,505,12438,4530,"Baggage porters, bellhops, and concierges",4,82,0.006592699790963177
+Kosovo,792,19288,505,12438,6442,"Plumbers, pipefitters, and steamfitters",5,81,0.006512301013024602
+Kosovo,792,19288,505,12438,1050,Computer support specialists,3,75,0.00602990834539315
+Kosovo,792,19288,505,12438,6520,Sheet metal workers,1,75,0.00602990834539315
+Kosovo,792,19288,505,12438,0060,Public relations and fundraising managers,2,72,0.005788712011577424
+Kosovo,792,19288,505,12438,3601,Home health aides,4,71,0.005708313233638848
+Kosovo,792,19288,505,12438,4030,Food preparation workers,2,70,0.005627914455700273
+Kosovo,792,19288,505,12438,2910,Photographers,1,69,0.005547515677761698
+Kosovo,792,19288,505,12438,3603,Nursing assistants,4,69,0.005547515677761698
+Kosovo,792,19288,505,12438,0110,Computer and information systems managers,4,67,0.005386718121884547
+Kosovo,792,19288,505,12438,2205,Postsecondary teachers,5,67,0.005386718121884547
+Kosovo,792,19288,505,12438,2320,Secondary school teachers,1,66,0.005306319343945972
+Kosovo,792,19288,505,12438,5120,"Bookkeeping, accounting, and auditing clerks",3,64,0.005145521788068821
+Kosovo,792,19288,505,12438,2300,Preschool and kindergarten teachers,3,63,0.005065123010130246
+Kosovo,792,19288,505,12438,3602,Personal care aides,3,63,0.005065123010130246
+Kosovo,792,19288,505,12438,8810,Painting workers,1,63,0.005065123010130246
+Kosovo,792,19288,505,12438,5860,"Office clerks, general",4,61,0.004904325454253095
+Kosovo,792,19288,505,12438,0705,Project management specialists,2,60,0.00482392667631452
+Kosovo,792,19288,505,12438,8740,"Inspectors, testers, sorters, samplers, and weighers",4,59,0.004743527898375945
+Kosovo,792,19288,505,12438,4200,First-line supervisors of housekeeping and janitorial workers,3,55,0.004421932786621644
+Kosovo,792,19288,505,12438,4810,Insurance sales agents,2,55,0.004421932786621644
+Kosovo,792,19288,505,12438,2752,Musicians and singers,2,53,0.004261135230744493
+Kosovo,792,19288,505,12438,4010,First-line supervisors of food preparation and serving workers,2,52,0.004180736452805918
+Kosovo,792,19288,505,12438,9720,Refuse and recyclable material collectors,2,52,0.004180736452805918
+Kosovo,792,19288,505,12438,0220,Construction managers,4,51,0.004100337674867342
+Kosovo,792,19288,505,12438,6230,Carpenters,5,51,0.004100337674867342
+Kosovo,792,19288,505,12438,0530,"Purchasing agents, except wholesale, retail, and farm products",3,50,0.004019938896928766
+Kosovo,792,19288,505,12438,0020,General and operations managers,2,49,0.003939540118990191
+Kosovo,792,19288,505,12438,3010,Dentists,1,49,0.003939540118990191
+Kosovo,792,19288,505,12438,8335,Shoe and leather workers,1,49,0.003939540118990191
+Kosovo,792,19288,505,12438,0750,"Business operations specialists, all other",2,48,0.003859141341051616
+Kosovo,792,19288,505,12438,1410,Electrical and electronics engineers,2,46,0.003698343785174465
+Kosovo,792,19288,505,12438,4251,Landscaping and groundskeeping workers,2,46,0.003698343785174465
+Kosovo,792,19288,505,12438,2014,"Social workers, all other",1,44,0.0035375462292973146
+Kosovo,792,19288,505,12438,5940,Other office and administrative support workers,2,44,0.0035375462292973146
+Kosovo,792,19288,505,12438,8030,Machinists,2,43,0.0034571474513587393
+Kosovo,792,19288,505,12438,6330,"Drywall installers, ceiling tile installers, and tapers",1,42,0.003376748673420164
+Kosovo,792,19288,505,12438,8350,"Tailors, dressmakers, and sewers",2,42,0.003376748673420164
+Kosovo,792,19288,505,12438,2545,Teaching assistants,3,41,0.0032963498954815887
+Kosovo,792,19288,505,12438,4000,Chefs and head cooks,3,41,0.0032963498954815887
+Kosovo,792,19288,505,12438,4920,Real estate brokers and sales agents,3,41,0.0032963498954815887
+Kosovo,792,19288,505,12438,5510,Couriers and messengers,1,41,0.0032963498954815887
+Kosovo,792,19288,505,12438,7810,"Butchers and other meat, poultry, and fish processing workers",1,41,0.0032963498954815887
+Kosovo,792,19288,505,12438,1108,"Computer occupations, all other",3,40,0.0032159511175430134
+Kosovo,792,19288,505,12438,3245,Other therapists,1,40,0.0032159511175430134
+Kosovo,792,19288,505,12438,9610,Cleaners of vehicles and equipment,1,40,0.0032159511175430134
+Kosovo,792,19288,505,12438,4055,Fast food and counter workers,4,39,0.003135552339604438
+Kosovo,792,19288,505,12438,2920,"Television, video, and film camera operators and editors",1,38,0.003055153561665863
+Kosovo,792,19288,505,12438,1530,Other engineers,2,37,0.0029747547837272875
+Kosovo,792,19288,505,12438,0300,Architectural and engineering managers,2,36,0.002894356005788712
+Kosovo,792,19288,505,12438,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",3,36,0.002894356005788712
+Kosovo,792,19288,505,12438,7330,Industrial and refractory machinery mechanics,3,36,0.002894356005788712
+Kosovo,792,19288,505,12438,0650,Training and development specialists,1,35,0.0028139572278501365
+Kosovo,792,19288,505,12438,1006,Computer systems analysts,2,35,0.0028139572278501365
+Kosovo,792,19288,505,12438,4330,Supervisors of personal care and service workers,1,35,0.0028139572278501365
+Kosovo,792,19288,505,12438,3110,Physician assistants,2,34,0.002733558449911561
+Kosovo,792,19288,505,12438,4522,Skincare specialists,1,34,0.002733558449911561
+Kosovo,792,19288,505,12438,6515,Roofers,2,34,0.002733558449911561
+Kosovo,792,19288,505,12438,1350,Chemical engineers,1,33,0.002653159671972986
+Kosovo,792,19288,505,12438,6410,Painters and paperhangers,2,33,0.002653159671972986
+Kosovo,792,19288,505,12438,2700,Actors,1,32,0.0025727608940344106
+Kosovo,792,19288,505,12438,5740,"Secretaries and administrative assistants, except legal, medical, and executive",3,32,0.0025727608940344106
+Kosovo,792,19288,505,12438,8320,Sewing machine operators,1,32,0.0025727608940344106
+Kosovo,792,19288,505,12438,4130,Dining room and cafeteria attendants and bartender helpers,3,31,0.0024923621160958353
+Kosovo,792,19288,505,12438,8140,"Welding, soldering, and brazing workers",1,31,0.0024923621160958353
+Kosovo,792,19288,505,12438,3090,Physicians,1,30,0.00241196333815726
+Kosovo,792,19288,505,12438,3300,Clinical laboratory technologists and technicians,1,30,0.00241196333815726
+Kosovo,792,19288,505,12438,1800,Economists,2,28,0.0022511657822801095
+Kosovo,792,19288,505,12438,3910,Private detectives and investigators,1,28,0.0022511657822801095
+Kosovo,792,19288,505,12438,4850,"Sales representatives, wholesale and manufacturing",2,28,0.0022511657822801095
+Kosovo,792,19288,505,12438,7905,Computer numerically controlled tool operators and programmers,2,28,0.0022511657822801095
+Kosovo,792,19288,505,12438,8610,Stationary engineers and boiler operators,2,28,0.0022511657822801095
+Kosovo,792,19288,505,12438,9142,Taxi drivers,1,26,0.002090368226402959
+Kosovo,792,19288,505,12438,4710,First-line supervisors of non-retail sales workers,2,25,0.002009969448464383
+Kosovo,792,19288,505,12438,5710,Executive secretaries and executive administrative assistants,1,25,0.002009969448464383
+Kosovo,792,19288,505,12438,9640,"Packers and packagers, hand",2,25,0.002009969448464383
+Kosovo,792,19288,505,12438,0136,Human resources managers,1,24,0.001929570670525808
+Kosovo,792,19288,505,12438,6355,Electricians,1,24,0.001929570670525808
+Kosovo,792,19288,505,12438,2600,Artists and related workers,1,23,0.0018491718925872326
+Kosovo,792,19288,505,12438,4040,Bartenders,1,23,0.0018491718925872326
+Kosovo,792,19288,505,12438,4120,"Food servers, nonrestaurant",1,23,0.0018491718925872326
+Kosovo,792,19288,505,12438,6710,Fence erectors,1,23,0.0018491718925872326
+Kosovo,792,19288,505,12438,7720,"Electrical, electronics, and electromechanical assemblers",1,23,0.0018491718925872326
+Kosovo,792,19288,505,12438,9650,Pumping station operators,1,23,0.0018491718925872326
+Kosovo,792,19288,505,12438,3421,Pharmacy technicians,1,22,0.0017687731146486573
+Kosovo,792,19288,505,12438,7340,"Maintenance and repair workers, general",1,22,0.0017687731146486573
+Kosovo,792,19288,505,12438,3655,Other healthcare support workers,1,21,0.001688374336710082
+Kosovo,792,19288,505,12438,8640,"Chemical processing machine setters, operators, and tenders",1,21,0.001688374336710082
+Kosovo,792,19288,505,12438,0102,Facilities managers,1,19,0.0015275767808329314
+Kosovo,792,19288,505,12438,2040,Clergy,2,17,0.0013667792249557806
+Kosovo,792,19288,505,12438,2634,Graphic designers,1,17,0.0013667792249557806
+Kosovo,792,19288,505,12438,3310,Dental hygienists,1,17,0.0013667792249557806
+Kosovo,792,19288,505,12438,3645,Medical assistants,1,17,0.0013667792249557806
+Kosovo,792,19288,505,12438,8300,Laundry and dry-cleaning workers,1,17,0.0013667792249557806
+Kosovo,792,19288,505,12438,3500,Licensed practical and licensed vocational nurses,1,16,0.0012863804470172053
+Kosovo,792,19288,505,12438,3646,Medical transcriptionists,1,16,0.0012863804470172053
+Kosovo,792,19288,505,12438,4140,Dishwashers,1,16,0.0012863804470172053
+Kosovo,792,19288,505,12438,4622,Recreation workers,1,16,0.0012863804470172053
+Kosovo,792,19288,505,12438,0340,Lodging managers,1,15,0.00120598166907863
+Kosovo,792,19288,505,12438,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",1,15,0.00120598166907863
+Kosovo,792,19288,505,12438,7420,Telecommunications line installers and repairers,1,15,0.00120598166907863
+Kosovo,792,19288,505,12438,9121,"Bus drivers, school",1,15,0.00120598166907863
+Kosovo,792,19288,505,12438,9310,Ship and boat captains and operators,1,15,0.00120598166907863
+Kosovo,792,19288,505,12438,0150,Purchasing managers,1,14,0.0011255828911400547
+Kosovo,792,19288,505,12438,0510,"Buyers and purchasing agents, farm products",1,14,0.0011255828911400547
+Kosovo,792,19288,505,12438,2310,Elementary and middle school teachers,1,14,0.0011255828911400547
+Kosovo,792,19288,505,12438,2640,Other designers,1,14,0.0011255828911400547
+Kosovo,792,19288,505,12438,3820,Detectives and criminal investigators,1,14,0.0011255828911400547
+Kosovo,792,19288,505,12438,5250,"Eligibility interviewers, government programs",1,14,0.0011255828911400547
+Kosovo,792,19288,505,12438,7640,"Other installation, maintenance, and repair workers",1,14,0.0011255828911400547
+Kosovo,792,19288,505,12438,0160,"Transportation, storage, and distribution managers",1,13,0.0010451841132014794
+Kosovo,792,19288,505,12438,0230,Education and childcare administrators,1,13,0.0010451841132014794
+Kosovo,792,19288,505,12438,1520,"Petroleum, mining and geological engineers, including mining safety engineers",1,13,0.0010451841132014794
+Kosovo,792,19288,505,12438,3423,Surgical technologists,1,13,0.0010451841132014794
+Kosovo,792,19288,505,12438,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,13,0.0010451841132014794
+Kosovo,792,19288,505,12438,4830,Travel agents,1,13,0.0010451841132014794
+Kosovo,792,19288,505,12438,5000,First-line supervisors of office and administrative support workers,1,13,0.0010451841132014794
+Kosovo,792,19288,505,12438,5310,"Interviewers, except eligibility and loan",1,13,0.0010451841132014794
+Kosovo,792,19288,505,12438,7800,Bakers,1,13,0.0010451841132014794
+Kosovo,792,19288,505,12438,1720,Chemists and materials scientists,1,12,9.64785335262904e-4
+Kosovo,792,19288,505,12438,3649,Phlebotomists,1,12,9.64785335262904e-4
+Kosovo,792,19288,505,12438,5610,"Shipping, receiving, and inventory clerks",1,12,9.64785335262904e-4
+Kosovo,792,19288,505,12438,9410,Transportation inspectors,1,12,9.64785335262904e-4
+Kosovo,792,19288,505,12438,1360,Civil engineers,1,11,8.843865573243286e-4
+Kosovo,792,19288,505,12438,2100,"Lawyers, and judges, magistrates, and other judicial workers",1,11,8.843865573243286e-4
+Kosovo,792,19288,505,12438,4435,Other entertainment attendants and related workers,1,11,8.843865573243286e-4
+Kosovo,792,19288,505,12438,4521,Manicurists and pedicurists,1,11,8.843865573243286e-4
+Kosovo,792,19288,505,12438,5560,"Postal service mail sorters, processors, and processing machine operators",1,11,8.843865573243286e-4
+Kosovo,792,19288,505,12438,5810,Data entry keyers,1,11,8.843865573243286e-4
+Kosovo,792,19288,505,12438,1400,Computer hardware engineers,2,10,8.039877793857533e-4
+Kosovo,792,19288,505,12438,2435,Librarians and media collections specialists,1,10,8.039877793857533e-4
+Kosovo,792,19288,505,12438,2840,Technical writers,1,10,8.039877793857533e-4
+Kosovo,792,19288,505,12438,4420,"Ushers, lobby attendants, and ticket takers",1,10,8.039877793857533e-4
+Kosovo,792,19288,505,12438,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,10,8.039877793857533e-4
+Kosovo,792,19288,505,12438,4965,"Sales and related workers, all other",1,9,7.23589001447178e-4
+Kosovo,792,19288,505,12438,5350,Correspondence clerks and order clerks,1,9,7.23589001447178e-4
+Kosovo,792,19288,505,12438,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,9,7.23589001447178e-4
+Kosovo,792,19288,505,12438,9122,"Bus drivers, transit and intercity",1,9,7.23589001447178e-4
+Kosovo,792,19288,505,12438,0140,Industrial production managers,1,8,6.431902235086027e-4
+Kosovo,792,19288,505,12438,1555,"Other engineering technologists and technicians, except drafters",1,8,6.431902235086027e-4
+Kosovo,792,19288,505,12438,8500,Cabinetmakers and bench carpenters,1,8,6.431902235086027e-4
+Kosovo,792,19288,505,12438,0420,Social and community service managers,1,7,5.627914455700274e-4
+Kosovo,792,19288,505,12438,7315,"Heating, air conditioning, and refrigeration mechanics and installers",1,7,5.627914455700274e-4
+Kosovo,792,19288,505,12438,5110,Billing and posting clerks,1,4,3.2159511175430133e-4

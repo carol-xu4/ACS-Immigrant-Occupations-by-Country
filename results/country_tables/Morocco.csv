@@ -1,320 +1,326 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Morocco,3771,97982,2193,59105,9130,Driver/sales workers and truck drivers,95,2851,0.04823618983165553
-Morocco,3771,97982,2193,59105,9142,Taxi drivers,77,2368,0.04006429236105236
-Morocco,3771,97982,2193,59105,4760,Retail salespersons,61,1866,0.03157093308518738
-Morocco,3771,97982,2193,59105,4720,Cashiers,54,1381,0.023365197529819814
-Morocco,3771,97982,2193,59105,4700,First-line supervisors of retail sales workers,53,1364,0.02307757380932239
-Morocco,3771,97982,2193,59105,0440,Other managers,53,1132,0.01915235597665172
-Morocco,3771,97982,2193,59105,9620,"Laborers and freight, stock, and material movers, hand",36,1012,0.017122070890787582
-Morocco,3771,97982,2193,59105,4220,Janitors and building cleaners,39,1009,0.017071313763640978
-Morocco,3771,97982,2193,59105,2205,Postsecondary teachers,37,982,0.016614499619321547
-Morocco,3771,97982,2193,59105,1021,Software developers,43,932,0.015768547500211488
-Morocco,3771,97982,2193,59105,2310,Elementary and middle school teachers,46,925,0.01565011420353608
-Morocco,3771,97982,2193,59105,4020,Cooks,33,908,0.01536249048303866
-Morocco,3771,97982,2193,59105,5240,Customer service representatives,39,854,0.014448862194399796
-Morocco,3771,97982,2193,59105,9645,Stockers and order fillers,31,812,0.013738262414347347
-Morocco,3771,97982,2193,59105,4110,Waiters and waitresses,32,797,0.01348447677861433
-Morocco,3771,97982,2193,59105,5510,Couriers and messengers,23,758,0.012824634125708485
-Morocco,3771,97982,2193,59105,3255,Registered nurses,24,751,0.012706200829033077
-Morocco,3771,97982,2193,59105,2545,Teaching assistants,29,703,0.01189408679468742
-Morocco,3771,97982,2193,59105,0310,Food service managers,23,700,0.011843329667540817
-Morocco,3771,97982,2193,59105,0020,General and operations managers,25,692,0.011707977328483207
-Morocco,3771,97982,2193,59105,1530,Other engineers,21,672,0.011369596480839185
-Morocco,3771,97982,2193,59105,4030,Food preparation workers,23,656,0.011098891802723965
-Morocco,3771,97982,2193,59105,4230,Maids and housekeeping cleaners,23,640,0.010828187124608746
-Morocco,3771,97982,2193,59105,4600,Childcare workers,17,623,0.010540563404111327
-Morocco,3771,97982,2193,59105,9122,"Bus drivers, transit and intercity",16,607,0.010269858725996108
-Morocco,3771,97982,2193,59105,4710,First-line supervisors of non-retail sales workers,14,605,0.010236020641231707
-Morocco,3771,97982,2193,59105,0220,Construction managers,7,562,0.009508501818797055
-Morocco,3771,97982,2193,59105,3603,Nursing assistants,15,554,0.009373149479739447
-Morocco,3771,97982,2193,59105,4000,Chefs and head cooks,17,551,0.009322392352592843
-Morocco,3771,97982,2193,59105,3601,Home health aides,12,518,0.008764063953980205
-Morocco,3771,97982,2193,59105,4010,First-line supervisors of food preparation and serving workers,16,517,0.008747144911598004
-Morocco,3771,97982,2193,59105,0120,Financial managers,21,513,0.008679468742069199
-Morocco,3771,97982,2193,59105,3930,Security guards and gaming surveillance officers,19,458,0.0077489214110481345
-Morocco,3771,97982,2193,59105,0010,Chief executives and legislators,23,427,0.007224431097199898
-Morocco,3771,97982,2193,59105,4120,"Food servers, nonrestaurant",10,419,0.007089078758142289
-Morocco,3771,97982,2193,59105,9640,"Packers and packagers, hand",11,412,0.006970645461466881
-Morocco,3771,97982,2193,59105,2300,Preschool and kindergarten teachers,11,400,0.006767616952880467
-Morocco,3771,97982,2193,59105,8740,"Inspectors, testers, sorters, samplers, and weighers",13,400,0.006767616952880467
-Morocco,3771,97982,2193,59105,4130,Dining room and cafeteria attendants and bartender helpers,11,396,0.006699940783351662
-Morocco,3771,97982,2193,59105,5740,"Secretaries and administrative assistants, except legal, medical, and executive",17,381,0.006446155147618645
-Morocco,3771,97982,2193,59105,5120,"Bookkeeping, accounting, and auditing clerks",10,376,0.006361559935707639
-Morocco,3771,97982,2193,59105,0051,Marketing managers,13,369,0.006243126639032231
-Morocco,3771,97982,2193,59105,7340,"Maintenance and repair workers, general",15,354,0.005989341003299213
-Morocco,3771,97982,2193,59105,2320,Secondary school teachers,16,351,0.0059385838761526095
-Morocco,3771,97982,2193,59105,0110,Computer and information systems managers,13,328,0.0055494459013619825
-Morocco,3771,97982,2193,59105,9141,Shuttle drivers and chauffeurs,13,323,0.0054648506894509775
-Morocco,3771,97982,2193,59105,6260,Construction laborers,12,319,0.005397174519922172
-Morocco,3771,97982,2193,59105,6355,Electricians,9,315,0.005329498350393367
-Morocco,3771,97982,2193,59105,3090,Physicians,13,312,0.005278741223246764
-Morocco,3771,97982,2193,59105,0800,Accountants and auditors,12,300,0.0050757127146603504
-Morocco,3771,97982,2193,59105,3602,Personal care aides,13,293,0.004957279417984942
-Morocco,3771,97982,2193,59105,9121,"Bus drivers, school",5,290,0.004906522290838339
-Morocco,3771,97982,2193,59105,3645,Medical assistants,8,289,0.004889603248456138
-Morocco,3771,97982,2193,59105,7200,Automotive service technicians and mechanics,10,285,0.004821927078927333
-Morocco,3771,97982,2193,59105,1700,Astronomers and physicists,1,282,0.004771169951780729
-Morocco,3771,97982,2193,59105,7000,"First-line supervisors of mechanics, installers, and repairers",7,282,0.004771169951780729
-Morocco,3771,97982,2193,59105,1010,Computer programmers,11,281,0.004754250909398528
-Morocco,3771,97982,2193,59105,0705,Project management specialists,12,278,0.004703493782251924
-Morocco,3771,97982,2193,59105,0710,Management analysts,11,278,0.004703493782251924
-Morocco,3771,97982,2193,59105,2360,Other teachers and instructors,11,278,0.004703493782251924
-Morocco,3771,97982,2193,59105,8225,Other metal workers and plastic workers,11,276,0.004669655697487523
-Morocco,3771,97982,2193,59105,1108,"Computer occupations, all other",9,270,0.004568141443194315
-Morocco,3771,97982,2193,59105,3300,Clinical laboratory technologists and technicians,3,263,0.004449708146518907
-Morocco,3771,97982,2193,59105,8800,Packaging and filling machine operators and tenders,2,263,0.004449708146518907
-Morocco,3771,97982,2193,59105,6230,Carpenters,7,260,0.004398951019372303
-Morocco,3771,97982,2193,59105,0052,Sales managers,9,250,0.004229760595550292
-Morocco,3771,97982,2193,59105,5860,"Office clerks, general",10,250,0.004229760595550292
-Morocco,3771,97982,2193,59105,8990,"Miscellaneous production workers, including equipment operators and tenders",10,237,0.004009813044581677
-Morocco,3771,97982,2193,59105,0750,"Business operations specialists, all other",9,232,0.003925217832670671
-Morocco,3771,97982,2193,59105,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",10,232,0.003925217832670671
-Morocco,3771,97982,2193,59105,4850,"Sales representatives, wholesale and manufacturing",12,228,0.003857541663141866
-Morocco,3771,97982,2193,59105,7810,"Butchers and other meat, poultry, and fish processing workers",8,226,0.003823703578377464
-Morocco,3771,97982,2193,59105,0230,Education and childcare administrators,6,223,0.0037729464512308605
-Morocco,3771,97982,2193,59105,7800,Bakers,8,219,0.003705270281702056
-Morocco,3771,97982,2193,59105,2830,Editors,2,214,0.00362067506979105
-Morocco,3771,97982,2193,59105,3323,Radiologic technologists and technicians,7,214,0.00362067506979105
-Morocco,3771,97982,2193,59105,7020,Radio and telecommunications equipment installers and repairers,5,213,0.0036037560274088487
-Morocco,3771,97982,2193,59105,9600,Industrial truck and tractor operators,6,211,0.003569917942644446
-Morocco,3771,97982,2193,59105,0630,Human resources workers,9,210,0.0035529989002622453
-Morocco,3771,97982,2193,59105,9150,"Motor vehicle operators, all other",9,204,0.003451484645969038
-Morocco,3771,97982,2193,59105,3870,Police officers,8,198,0.003349970391675831
-Morocco,3771,97982,2193,59105,1240,Other mathematical science occupations,7,194,0.0032822942221470263
-Morocco,3771,97982,2193,59105,4920,Real estate brokers and sales agents,6,193,0.0032653751797648255
-Morocco,3771,97982,2193,59105,4510,"Hairdressers, hairstylists, and cosmetologists",8,189,0.003197699010236021
-Morocco,3771,97982,2193,59105,7700,First-line supervisors of production and operating workers,11,189,0.003197699010236021
-Morocco,3771,97982,2193,59105,2861,Interpreters and translators,7,178,0.0030115895440318077
-Morocco,3771,97982,2193,59105,5550,Postal service mail carriers,12,177,0.0029946705016496065
-Morocco,3771,97982,2193,59105,4040,Bartenders,7,175,0.0029608324168852044
-Morocco,3771,97982,2193,59105,7315,"Heating, air conditioning, and refrigeration mechanics and installers",6,175,0.0029608324168852044
-Morocco,3771,97982,2193,59105,4251,Landscaping and groundskeeping workers,5,174,0.002943913374503003
-Morocco,3771,97982,2193,59105,1760,"Physical scientists, all other",7,172,0.002910075289738601
-Morocco,3771,97982,2193,59105,4820,"Securities, commodities, and financial services sales agents",6,168,0.0028423991202097963
-Morocco,3771,97982,2193,59105,4200,First-line supervisors of housekeeping and janitorial workers,6,166,0.002808561035445394
-Morocco,3771,97982,2193,59105,5410,Reservation and transportation ticket agents and travel clerks,6,161,0.002723965823534388
-Morocco,3771,97982,2193,59105,5300,"Hotel, motel, and resort desk clerks",5,156,0.002639370611623382
-Morocco,3771,97982,2193,59105,1555,"Other engineering technologists and technicians, except drafters",5,155,0.002622451569241181
-Morocco,3771,97982,2193,59105,6442,"Plumbers, pipefitters, and steamfitters",5,155,0.002622451569241181
-Morocco,3771,97982,2193,59105,0150,Purchasing managers,2,154,0.00260553252685898
-Morocco,3771,97982,2193,59105,1050,Computer support specialists,9,152,0.0025716944420945773
-Morocco,3771,97982,2193,59105,2014,"Social workers, all other",4,152,0.0025716944420945773
-Morocco,3771,97982,2193,59105,1006,Computer systems analysts,7,151,0.0025547753997123765
-Morocco,3771,97982,2193,59105,2100,"Lawyers, and judges, magistrates, and other judicial workers",5,147,0.0024870992301835714
-Morocco,3771,97982,2193,59105,5000,First-line supervisors of office and administrative support workers,10,147,0.0024870992301835714
-Morocco,3771,97982,2193,59105,4055,Fast food and counter workers,8,145,0.0024532611454191693
-Morocco,3771,97982,2193,59105,0700,Logisticians,4,143,0.0024194230606547668
-Morocco,3771,97982,2193,59105,5140,Payroll and timekeeping clerks,4,142,0.002402504018272566
-Morocco,3771,97982,2193,59105,2640,Other designers,7,140,0.0023686659335081634
-Morocco,3771,97982,2193,59105,4500,Barbers,6,139,0.002351746891125962
-Morocco,3771,97982,2193,59105,0350,Medical and health services managers,7,138,0.0023348278487437613
-Morocco,3771,97982,2193,59105,0520,"Wholesale and retail buyers, except farm products",2,133,0.0022502326368327554
-Morocco,3771,97982,2193,59105,1460,Mechanical engineers,4,131,0.002216394552068353
-Morocco,3771,97982,2193,59105,9630,Machine feeders and offbearers,2,131,0.002216394552068353
-Morocco,3771,97982,2193,59105,2634,Graphic designers,2,128,0.0021656374249217495
-Morocco,3771,97982,2193,59105,1007,Information security analysts,6,127,0.002148718382539548
-Morocco,3771,97982,2193,59105,5940,Other office and administrative support workers,10,127,0.002148718382539548
-Morocco,3771,97982,2193,59105,5400,Receptionists and information clerks,8,126,0.002131799340157347
-Morocco,3771,97982,2193,59105,9050,Flight attendants,4,125,0.002114880297775146
-Morocco,3771,97982,2193,59105,0140,Industrial production managers,3,124,0.002097961255392945
-Morocco,3771,97982,2193,59105,6200,First-line supervisors of construction trades and extraction workers,5,124,0.002097961255392945
-Morocco,3771,97982,2193,59105,3655,Other healthcare support workers,4,118,0.0019964470010997376
-Morocco,3771,97982,2193,59105,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",5,117,0.0019795279587175364
-Morocco,3771,97982,2193,59105,0160,"Transportation, storage, and distribution managers",6,113,0.001911851789188732
-Morocco,3771,97982,2193,59105,1970,"Other life, physical, and social science technicians",6,113,0.001911851789188732
-Morocco,3771,97982,2193,59105,8610,Stationary engineers and boiler operators,3,112,0.0018949327468065307
-Morocco,3771,97982,2193,59105,1022,Software quality assurance analysts and testers,2,109,0.0018441756196599273
-Morocco,3771,97982,2193,59105,0410,"Property, real estate, and community association managers",4,108,0.001827256577277726
-Morocco,3771,97982,2193,59105,4640,Residential advisors,4,108,0.001827256577277726
-Morocco,3771,97982,2193,59105,3421,Pharmacy technicians,5,107,0.001810337534895525
-Morocco,3771,97982,2193,59105,0850,Personal financial advisors,5,106,0.0017934184925133237
-Morocco,3771,97982,2193,59105,0420,Social and community service managers,6,105,0.0017764994501311227
-Morocco,3771,97982,2193,59105,6305,Construction equipment operators,3,99,0.0016749851958379155
-Morocco,3771,97982,2193,59105,9350,Parking attendants,6,98,0.0016580661534557144
-Morocco,3771,97982,2193,59105,1360,Civil engineers,5,97,0.0016411471110735132
-Morocco,3771,97982,2193,59105,1551,Electrical and electronic engineering technologists and technicians,5,97,0.0016411471110735132
-Morocco,3771,97982,2193,59105,7640,"Other installation, maintenance, and repair workers",3,97,0.0016411471110735132
-Morocco,3771,97982,2193,59105,9005,Supervisors of transportation and material moving workers,4,97,0.0016411471110735132
-Morocco,3771,97982,2193,59105,3500,Licensed practical and licensed vocational nurses,2,96,0.001624228068691312
-Morocco,3771,97982,2193,59105,1106,Computer network architects,5,95,0.0016073090263091108
-Morocco,3771,97982,2193,59105,2435,Librarians and media collections specialists,1,95,0.0016073090263091108
-Morocco,3771,97982,2193,59105,1650,Other life scientists,3,94,0.0015903899839269098
-Morocco,3771,97982,2193,59105,7430,Precision instrument and equipment repairers,1,93,0.0015734709415447085
-Morocco,3771,97982,2193,59105,7855,"Food processing workers, all other",3,93,0.0015734709415447085
-Morocco,3771,97982,2193,59105,0940,Tax preparers,3,92,0.0015565518991625075
-Morocco,3771,97982,2193,59105,4621,Exercise trainers and group fitness instructors,3,92,0.0015565518991625075
-Morocco,3771,97982,2193,59105,5522,"Dispatchers, except police, fire, and ambulance",6,92,0.0015565518991625075
-Morocco,3771,97982,2193,59105,6410,Painters and paperhangers,4,91,0.0015396328567803062
-Morocco,3771,97982,2193,59105,4655,"Personal care and service workers, all other",3,89,0.0015057947720159039
-Morocco,3771,97982,2193,59105,4435,Other entertainment attendants and related workers,2,87,0.0014719566872515015
-Morocco,3771,97982,2193,59105,5810,Data entry keyers,1,86,0.0014550376448693005
-Morocco,3771,97982,2193,59105,0136,Human resources managers,2,85,0.0014381186024870992
-Morocco,3771,97982,2193,59105,0540,"Claims adjusters, appraisers, examiners, and investigators",4,85,0.0014381186024870992
-Morocco,3771,97982,2193,59105,5610,"Shipping, receiving, and inventory clerks",3,85,0.0014381186024870992
-Morocco,3771,97982,2193,59105,8300,Laundry and dry-cleaning workers,4,83,0.001404280517722697
-Morocco,3771,97982,2193,59105,4965,"Sales and related workers, all other",5,81,0.0013704424329582946
-Morocco,3771,97982,2193,59105,5330,Loan interviewers and clerks,2,81,0.0013704424329582946
-Morocco,3771,97982,2193,59105,2600,Artists and related workers,3,80,0.0013535233905760933
-Morocco,3771,97982,2193,59105,5310,"Interviewers, except eligibility and loan",2,80,0.0013535233905760933
-Morocco,3771,97982,2193,59105,5521,Public safety telecommunicators,2,80,0.0013535233905760933
-Morocco,3771,97982,2193,59105,7750,Other assemblers and fabricators,5,80,0.0013535233905760933
-Morocco,3771,97982,2193,59105,2722,Coaches and scouts,3,79,0.0013366043481938923
-Morocco,3771,97982,2193,59105,0340,Lodging managers,4,78,0.001319685305811691
-Morocco,3771,97982,2193,59105,1400,Computer hardware engineers,4,78,0.001319685305811691
-Morocco,3771,97982,2193,59105,1430,"Industrial engineers, including health and safety",4,78,0.001319685305811691
-Morocco,3771,97982,2193,59105,9610,Cleaners of vehicles and equipment,3,78,0.001319685305811691
-Morocco,3771,97982,2193,59105,3649,Phlebotomists,4,77,0.00130276626342949
-Morocco,3771,97982,2193,59105,1305,"Architects, except landscape and naval",5,76,0.0012858472210472887
-Morocco,3771,97982,2193,59105,3050,Pharmacists,3,75,0.0012689281786650876
-Morocco,3771,97982,2193,59105,9830,"Military, rank not specified",4,73,0.0012350900939006853
-Morocco,3771,97982,2193,59105,1105,Network and computer systems administrators,4,69,0.0011674139243718806
-Morocco,3771,97982,2193,59105,4350,Animal caretakers,4,69,0.0011674139243718806
-Morocco,3771,97982,2193,59105,4530,"Baggage porters, bellhops, and concierges",2,69,0.0011674139243718806
-Morocco,3771,97982,2193,59105,4830,Travel agents,3,68,0.0011504948819896794
-Morocco,3771,97982,2193,59105,0565,Compliance officers,2,67,0.0011335758396074783
-Morocco,3771,97982,2193,59105,3422,Psychiatric technicians,1,67,0.0011335758396074783
-Morocco,3771,97982,2193,59105,3330,Nuclear medicine technologists and medical dosimetrists,1,65,0.0010997377548430758
-Morocco,3771,97982,2193,59105,0300,Architectural and engineering managers,3,63,0.0010658996700786735
-Morocco,3771,97982,2193,59105,1220,Operations research analysts,3,63,0.0010658996700786735
-Morocco,3771,97982,2193,59105,2025,Other community and social service specialists,4,62,0.0010489806276964724
-Morocco,3771,97982,2193,59105,0725,"Meeting, convention, and event planners",3,61,0.0010320615853142711
-Morocco,3771,97982,2193,59105,0500,"Agents and business managers of artists, performers, and athletes",3,60,0.00101514254293207
-Morocco,3771,97982,2193,59105,5730,Medical secretaries and administrative assistants,2,60,0.00101514254293207
-Morocco,3771,97982,2193,59105,7320,Home appliance repairers,3,58,9.813044581676678e-4
-Morocco,3771,97982,2193,59105,3646,Medical transcriptionists,2,57,9.643854157854665e-4
-Morocco,3771,97982,2193,59105,0910,Credit counselors and loan officers,2,56,9.474663734032653e-4
-Morocco,3771,97982,2193,59105,5560,"Postal service mail sorters, processors, and processing machine operators",1,56,9.474663734032653e-4
-Morocco,3771,97982,2193,59105,9410,Transportation inspectors,1,55,9.305473310210642e-4
-Morocco,3771,97982,2193,59105,5110,Billing and posting clerks,3,54,9.13628288638863e-4
-Morocco,3771,97982,2193,59105,5150,Procurement clerks,2,54,9.13628288638863e-4
-Morocco,3771,97982,2193,59105,8710,Cutting workers,1,54,9.13628288638863e-4
-Morocco,3771,97982,2193,59105,1410,Electrical and electronics engineers,4,53,8.967092462566619e-4
-Morocco,3771,97982,2193,59105,4140,Dishwashers,1,53,8.967092462566619e-4
-Morocco,3771,97982,2193,59105,2710,Producers and directors,3,51,8.628711614922595e-4
-Morocco,3771,97982,2193,59105,5720,Legal secretaries and administrative assistants,1,51,8.628711614922595e-4
-Morocco,3771,97982,2193,59105,7120,Electronic home entertainment equipment installers and repairers,1,51,8.628711614922595e-4
-Morocco,3771,97982,2193,59105,7840,Food batchmakers,1,51,8.628711614922595e-4
-Morocco,3771,97982,2193,59105,8140,"Welding, soldering, and brazing workers",4,51,8.628711614922595e-4
-Morocco,3771,97982,2193,59105,2770,"Entertainers and performers, sports and related workers, all other",1,49,8.290330767278572e-4
-Morocco,3771,97982,2193,59105,3150,Occupational therapists,3,49,8.290330767278572e-4
-Morocco,3771,97982,2193,59105,3160,Physical therapists,2,48,8.12114034345656e-4
-Morocco,3771,97982,2193,59105,7210,Bus and truck mechanics and diesel engine specialists,2,46,7.782759495812537e-4
-Morocco,3771,97982,2193,59105,7330,Industrial and refractory machinery mechanics,3,46,7.782759495812537e-4
-Morocco,3771,97982,2193,59105,1600,Agricultural and food scientists,1,45,7.613569071990526e-4
-Morocco,3771,97982,2193,59105,7360,Millwrights,1,45,7.613569071990526e-4
-Morocco,3771,97982,2193,59105,9415,Passenger attendants,2,45,7.613569071990526e-4
-Morocco,3771,97982,2193,59105,2002,"Educational, guidance, and career counselors and advisors",3,44,7.444378648168514e-4
-Morocco,3771,97982,2193,59105,4950,"Door-to-door sales workers, news and street vendors, and related workers",3,44,7.444378648168514e-4
-Morocco,3771,97982,2193,59105,0530,"Purchasing agents, except wholesale, retail, and farm products",3,43,7.275188224346502e-4
-Morocco,3771,97982,2193,59105,3110,Physician assistants,2,43,7.275188224346502e-4
-Morocco,3771,97982,2193,59105,4522,Skincare specialists,3,43,7.275188224346502e-4
-Morocco,3771,97982,2193,59105,8320,Sewing machine operators,3,43,7.275188224346502e-4
-Morocco,3771,97982,2193,59105,4810,Insurance sales agents,2,42,7.105997800524491e-4
-Morocco,3771,97982,2193,59105,2016,Social and human service assistants,2,41,6.936807376702478e-4
-Morocco,3771,97982,2193,59105,4930,Sales engineers,1,41,6.936807376702478e-4
-Morocco,3771,97982,2193,59105,8350,"Tailors, dressmakers, and sewers",1,41,6.936807376702478e-4
-Morocco,3771,97982,2193,59105,0735,Market research analysts and marketing specialists,1,38,6.429236105236443e-4
-Morocco,3771,97982,2193,59105,8950,Helpers--production workers,2,38,6.429236105236443e-4
-Morocco,3771,97982,2193,59105,0102,Facilities managers,3,37,6.260045681414432e-4
-Morocco,3771,97982,2193,59105,3401,Emergency medical technicians,1,37,6.260045681414432e-4
-Morocco,3771,97982,2193,59105,3820,Detectives and criminal investigators,2,37,6.260045681414432e-4
-Morocco,3771,97982,2193,59105,4750,Parts salespersons,2,36,6.09085525759242e-4
-Morocco,3771,97982,2193,59105,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,2,36,6.09085525759242e-4
-Morocco,3771,97982,2193,59105,2330,Special education teachers,2,33,5.583283986126385e-4
-Morocco,3771,97982,2193,59105,3010,Dentists,3,33,5.583283986126385e-4
-Morocco,3771,97982,2193,59105,9365,Transportation service attendants,2,33,5.583283986126385e-4
-Morocco,3771,97982,2193,59105,9825,Military enlisted tactical operations and air/weapons specialists and crew members,2,32,5.414093562304374e-4
-Morocco,3771,97982,2193,59105,0335,Entertainment and recreation managers,1,31,5.244903138482362e-4
-Morocco,3771,97982,2193,59105,0810,Property appraisers and assessors,2,31,5.244903138482362e-4
-Morocco,3771,97982,2193,59105,2040,Clergy,1,31,5.244903138482362e-4
-Morocco,3771,97982,2193,59105,3230,Speech-language pathologists,1,31,5.244903138482362e-4
-Morocco,3771,97982,2193,59105,5850,"Mail clerks and mail machine operators, except postal service",3,31,5.244903138482362e-4
-Morocco,3771,97982,2193,59105,2170,"Title examiners, abstractors, and searchers",2,30,5.07571271466035e-4
-Morocco,3771,97982,2193,59105,3910,Private detectives and investigators,1,30,5.07571271466035e-4
-Morocco,3771,97982,2193,59105,4622,Recreation workers,3,30,5.07571271466035e-4
-Morocco,3771,97982,2193,59105,5165,Other financial clerks,2,30,5.07571271466035e-4
-Morocco,3771,97982,2193,59105,2006,"Counselors, all other",1,29,4.906522290838339e-4
-Morocco,3771,97982,2193,59105,3220,Respiratory therapists,2,29,4.906522290838339e-4
-Morocco,3771,97982,2193,59105,4521,Manicurists and pedicurists,1,29,4.906522290838339e-4
-Morocco,3771,97982,2193,59105,7905,Computer numerically controlled tool operators and programmers,2,29,4.906522290838339e-4
-Morocco,3771,97982,2193,59105,1310,"Surveyors, cartographers, and photogrammetrists",2,28,4.7373318670163267e-4
-Morocco,3771,97982,2193,59105,2350,Tutors,2,28,4.7373318670163267e-4
-Morocco,3771,97982,2193,59105,3258,"Nurse practitioners, and nurse midwives",2,28,4.7373318670163267e-4
-Morocco,3771,97982,2193,59105,3640,Dental assistants,2,28,4.7373318670163267e-4
-Morocco,3771,97982,2193,59105,5420,Other information and records clerks,1,28,4.7373318670163267e-4
-Morocco,3771,97982,2193,59105,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,28,4.7373318670163267e-4
-Morocco,3771,97982,2193,59105,8250,Prepress technicians and workers,1,28,4.7373318670163267e-4
-Morocco,3771,97982,2193,59105,9720,Refuse and recyclable material collectors,1,28,4.7373318670163267e-4
-Morocco,3771,97982,2193,59105,0205,"Farmers, ranchers, and other agricultural managers",2,26,4.3989510193723035e-4
-Morocco,3771,97982,2193,59105,2440,Library technicians,1,26,4.3989510193723035e-4
-Morocco,3771,97982,2193,59105,0600,Cost estimators,1,25,4.229760595550292e-4
-Morocco,3771,97982,2193,59105,1320,Aerospace engineers,2,25,4.229760595550292e-4
-Morocco,3771,97982,2193,59105,2145,Paralegals and legal assistants,2,25,4.229760595550292e-4
-Morocco,3771,97982,2193,59105,3245,Other therapists,1,25,4.229760595550292e-4
-Morocco,3771,97982,2193,59105,5540,Postal service clerks,2,24,4.06057017172828e-4
-Morocco,3771,97982,2193,59105,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,24,4.06057017172828e-4
-Morocco,3771,97982,2193,59105,3710,First-line supervisors of police and detectives,1,22,3.722189324084257e-4
-Morocco,3771,97982,2193,59105,6720,Hazardous materials removal workers,1,22,3.722189324084257e-4
-Morocco,3771,97982,2193,59105,8920,"Molders, shapers, and casters, except metal and plastic",1,22,3.722189324084257e-4
-Morocco,3771,97982,2193,59105,1032,Web and digital interface designers,1,21,3.5529989002622454e-4
-Morocco,3771,97982,2193,59105,2752,Musicians and singers,1,21,3.5529989002622454e-4
-Morocco,3771,97982,2193,59105,3945,Transportation security screeners,1,21,3.5529989002622454e-4
-Morocco,3771,97982,2193,59105,5360,"Human resources assistants, except payroll and timekeeping",1,21,3.5529989002622454e-4
-Morocco,3771,97982,2193,59105,0960,Other financial specialists,1,20,0.00033838084764402333
-Morocco,3771,97982,2193,59105,1545,Other drafters,1,20,0.00033838084764402333
-Morocco,3771,97982,2193,59105,1825,Other psychologists,1,20,0.00033838084764402333
-Morocco,3771,97982,2193,59105,0640,"Compensation, benefits, and job analysis specialists",1,19,3.2146180526182217e-4
-Morocco,3771,97982,2193,59105,4740,Counter and rental clerks,1,19,3.2146180526182217e-4
-Morocco,3771,97982,2193,59105,5350,Correspondence clerks and order clerks,2,19,3.2146180526182217e-4
-Morocco,3771,97982,2193,59105,5600,"Production, planning, and expediting clerks",2,18,3.04542762879621e-4
-Morocco,3771,97982,2193,59105,6050,Other agricultural workers,2,18,3.04542762879621e-4
-Morocco,3771,97982,2193,59105,7150,Automotive body and related repairers,1,18,3.04542762879621e-4
-Morocco,3771,97982,2193,59105,8030,Machinists,1,18,3.04542762879621e-4
-Morocco,3771,97982,2193,59105,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,18,3.04542762879621e-4
-Morocco,3771,97982,2193,59105,0930,"Tax examiners and collectors, and revenue agents",1,17,2.8762372049741984e-4
-Morocco,3771,97982,2193,59105,2850,Writers and authors,1,17,2.8762372049741984e-4
-Morocco,3771,97982,2193,59105,3550,Other healthcare practitioners and technical occupations,1,17,2.8762372049741984e-4
-Morocco,3771,97982,2193,59105,6700,Elevator installers and repairers,1,17,2.8762372049741984e-4
-Morocco,3771,97982,2193,59105,7010,"Computer, automated teller, and office machine repairers",2,17,2.8762372049741984e-4
-Morocco,3771,97982,2193,59105,8310,"Pressers, textile, garment, and related materials",2,17,2.8762372049741984e-4
-Morocco,3771,97982,2193,59105,0360,Natural sciences managers,1,16,2.707046781152187e-4
-Morocco,3771,97982,2193,59105,1750,"Geoscientists and hydrologists, except geographers",1,16,2.707046781152187e-4
-Morocco,3771,97982,2193,59105,2635,Interior designers,1,16,2.707046781152187e-4
-Morocco,3771,97982,2193,59105,1745,"Environmental scientists and specialists, including health",1,15,2.537856357330175e-4
-Morocco,3771,97982,2193,59105,2015,Probation officers and correctional treatment specialists,1,15,2.537856357330175e-4
-Morocco,3771,97982,2193,59105,2400,"Archivists, curators, and museum technicians",1,15,2.537856357330175e-4
-Morocco,3771,97982,2193,59105,4160,"Food preparation and serving related workers, all other",1,15,2.537856357330175e-4
-Morocco,3771,97982,2193,59105,5100,Bill and account collectors,1,15,2.537856357330175e-4
-Morocco,3771,97982,2193,59105,7130,Security and fire alarm systems installers,1,15,2.537856357330175e-4
-Morocco,3771,97982,2193,59105,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,15,2.537856357330175e-4
-Morocco,3771,97982,2193,59105,7540,Locksmiths and safe repairers,1,15,2.537856357330175e-4
-Morocco,3771,97982,2193,59105,8650,"Crushing, grinding, polishing, mixing, and blending workers",1,15,2.537856357330175e-4
-Morocco,3771,97982,2193,59105,1920,Chemical technicians,1,14,2.3686659335081633e-4
-Morocco,3771,97982,2193,59105,2005,Rehabilitation counselors,1,14,2.3686659335081633e-4
-Morocco,3771,97982,2193,59105,3802,Correctional officers and jailers,1,14,2.3686659335081633e-4
-Morocco,3771,97982,2193,59105,5230,"Credit authorizers, checkers, and clerks",1,14,2.3686659335081633e-4
-Morocco,3771,97982,2193,59105,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,14,2.3686659335081633e-4
-Morocco,3771,97982,2193,59105,8255,Printing press operators,1,14,2.3686659335081633e-4
-Morocco,3771,97982,2193,59105,9265,Other rail transportation workers,1,14,2.3686659335081633e-4
-Morocco,3771,97982,2193,59105,2001,Substance abuse and behavioral disorder counselors,1,13,2.1994755096861517e-4
-Morocco,3771,97982,2193,59105,3960,Other protective service workers,1,13,2.1994755096861517e-4
-Morocco,3771,97982,2193,59105,4800,Advertising sales agents,1,13,2.1994755096861517e-4
-Morocco,3771,97982,2193,59105,7610,"Helpers--installation, maintenance, and repair workers",1,13,2.1994755096861517e-4
-Morocco,3771,97982,2193,59105,0845,Financial and investment analysts,1,12,2.03028508586414e-4
-Morocco,3771,97982,2193,59105,2555,Other educational instruction and library workers,1,12,2.03028508586414e-4
-Morocco,3771,97982,2193,59105,2755,"Disc jockeys, except radio",1,12,2.03028508586414e-4
-Morocco,3771,97982,2193,59105,7510,"Coin, vending, and amusement machine servicers and repairers",1,12,2.03028508586414e-4
-Morocco,3771,97982,2193,59105,5250,"Eligibility interviewers, government programs",1,11,1.8610946620421285e-4
-Morocco,3771,97982,2193,59105,6600,"Helpers, construction trades",1,11,1.8610946620421285e-4
-Morocco,3771,97982,2193,59105,7420,Telecommunications line installers and repairers,1,10,1.6919042382201166e-4
-Morocco,3771,97982,2193,59105,9430,Other transportation workers,1,10,1.6919042382201166e-4
-Morocco,3771,97982,2193,59105,1860,Other social scientists,1,9,1.522713814398105e-4
-Morocco,3771,97982,2193,59105,4540,Tour and travel guides,1,9,1.522713814398105e-4
-Morocco,3771,97982,2193,59105,8810,Painting workers,1,9,1.522713814398105e-4
-Morocco,3771,97982,2193,59105,1720,Chemists and materials scientists,1,8,1.3535233905760934e-4
-Morocco,3771,97982,2193,59105,5710,Executive secretaries and executive administrative assistants,1,8,1.3535233905760934e-4
-Morocco,3771,97982,2193,59105,2004,Mental health counselors,1,7,1.1843329667540817e-4
-Morocco,3771,97982,2193,59105,3515,Medical records specialists,1,7,1.1843329667540817e-4
-Morocco,3771,97982,2193,59105,6360,Glaziers,1,7,1.1843329667540817e-4
-Morocco,3771,97982,2193,59105,6515,Roofers,1,7,1.1843329667540817e-4
-Morocco,3771,97982,2193,59105,9760,Other material moving workers,1,6,1.01514254293207e-4
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Morocco,3771,97982,2319,61564,9130,Driver/sales workers and truck drivers,97,2881,0.04679682931583393
+Morocco,3771,97982,2319,61564,9142,Taxi drivers,82,2484,0.0403482554739783
+Morocco,3771,97982,2319,61564,4760,Retail salespersons,64,1914,0.031089597816905984
+Morocco,3771,97982,2319,61564,4720,Cashiers,60,1465,0.023796374504580598
+Morocco,3771,97982,2319,61564,4700,First-line supervisors of retail sales workers,55,1459,0.02369891495029563
+Morocco,3771,97982,2319,61564,4220,Janitors and building cleaners,46,1326,0.021538561496978754
+Morocco,3771,97982,2319,61564,0440,Other managers,55,1163,0.01889091027223702
+Morocco,3771,97982,2319,61564,2205,Postsecondary teachers,44,1082,0.017575206289389904
+Morocco,3771,97982,2319,61564,9620,"Laborers and freight, stock, and material movers, hand",37,1029,0.016714313559872653
+Morocco,3771,97982,2319,61564,2310,Elementary and middle school teachers,49,977,0.015869664089402897
+Morocco,3771,97982,2319,61564,1021,Software developers,45,954,0.015496069131310505
+Morocco,3771,97982,2319,61564,4020,Cooks,35,936,0.015203690468455591
+Morocco,3771,97982,2319,61564,5240,Customer service representatives,40,876,0.014229094925605874
+Morocco,3771,97982,2319,61564,4110,Waiters and waitresses,33,851,0.01382301344941849
+Morocco,3771,97982,2319,61564,9645,Stockers and order fillers,32,822,0.013351958937041128
+Morocco,3771,97982,2319,61564,3255,Registered nurses,26,783,0.012718471834188812
+Morocco,3771,97982,2319,61564,5510,Couriers and messengers,24,774,0.012572282502761354
+Morocco,3771,97982,2319,61564,2545,Teaching assistants,31,764,0.012409849912286402
+Morocco,3771,97982,2319,61564,0020,General and operations managers,26,740,0.012020011695146514
+Morocco,3771,97982,2319,61564,0310,Food service managers,23,700,0.011370281333246702
+Morocco,3771,97982,2319,61564,4030,Food preparation workers,24,681,0.011061659411344292
+Morocco,3771,97982,2319,61564,1530,Other engineers,21,672,0.010915470079916835
+Morocco,3771,97982,2319,61564,4230,Maids and housekeeping cleaners,24,657,0.010671821194204406
+Morocco,3771,97982,2319,61564,4600,Childcare workers,19,647,0.010509388603729452
+Morocco,3771,97982,2319,61564,4710,First-line supervisors of non-retail sales workers,15,611,0.009924631278019623
+Morocco,3771,97982,2319,61564,9122,"Bus drivers, transit and intercity",16,607,0.00985965824182964
+Morocco,3771,97982,2319,61564,0220,Construction managers,8,580,0.009421090247547267
+Morocco,3771,97982,2319,61564,3603,Nursing assistants,17,580,0.009421090247547267
+Morocco,3771,97982,2319,61564,4000,Chefs and head cooks,17,551,0.008950035735169904
+Morocco,3771,97982,2319,61564,4010,First-line supervisors of food preparation and serving workers,17,526,0.008543954258982522
+Morocco,3771,97982,2319,61564,3601,Home health aides,12,518,0.00841400818660256
+Morocco,3771,97982,2319,61564,0120,Financial managers,21,513,0.008332791891365083
+Morocco,3771,97982,2319,61564,0010,Chief executives and legislators,25,463,0.007520628938990319
+Morocco,3771,97982,2319,61564,3930,Security guards and gaming surveillance officers,19,458,0.007439412643752843
+Morocco,3771,97982,2319,61564,5120,"Bookkeeping, accounting, and auditing clerks",13,443,0.007195763758040413
+Morocco,3771,97982,2319,61564,2300,Preschool and kindergarten teachers,12,424,0.006887141836138003
+Morocco,3771,97982,2319,61564,4120,"Food servers, nonrestaurant",10,419,0.006805925540900527
+Morocco,3771,97982,2319,61564,9640,"Packers and packagers, hand",11,412,0.006692222727568059
+Morocco,3771,97982,2319,61564,5740,"Secretaries and administrative assistants, except legal, medical, and executive",21,408,0.006627249691378078
+Morocco,3771,97982,2319,61564,8740,"Inspectors, testers, sorters, samplers, and weighers",13,400,0.006497303618998116
+Morocco,3771,97982,2319,61564,4130,Dining room and cafeteria attendants and bartender helpers,11,396,0.006432330582808134
+Morocco,3771,97982,2319,61564,2320,Secondary school teachers,17,370,0.006010005847573257
+Morocco,3771,97982,2319,61564,0051,Marketing managers,13,369,0.005993762588525762
+Morocco,3771,97982,2319,61564,9141,Shuttle drivers and chauffeurs,14,362,0.005880059775193295
+Morocco,3771,97982,2319,61564,7340,"Maintenance and repair workers, general",15,354,0.005750113702813332
+Morocco,3771,97982,2319,61564,3090,Physicians,15,336,0.005457735039958418
+Morocco,3771,97982,2319,61564,0110,Computer and information systems managers,13,328,0.005327788967578455
+Morocco,3771,97982,2319,61564,6260,Construction laborers,12,319,0.005181599636150998
+Morocco,3771,97982,2319,61564,6355,Electricians,9,315,0.005116626599961016
+Morocco,3771,97982,2319,61564,3602,Personal care aides,14,309,0.005019167045676044
+Morocco,3771,97982,2319,61564,0800,Accountants and auditors,12,300,0.004872977714248587
+Morocco,3771,97982,2319,61564,8990,"Miscellaneous production workers, including equipment operators and tenders",12,300,0.004872977714248587
+Morocco,3771,97982,2319,61564,1010,Computer programmers,12,291,0.004726788382821129
+Morocco,3771,97982,2319,61564,0710,Management analysts,13,290,0.004710545123773634
+Morocco,3771,97982,2319,61564,9121,"Bus drivers, school",5,290,0.004710545123773634
+Morocco,3771,97982,2319,61564,2360,Other teachers and instructors,12,289,0.0046943018647261385
+Morocco,3771,97982,2319,61564,3645,Medical assistants,8,289,0.0046943018647261385
+Morocco,3771,97982,2319,61564,7200,Automotive service technicians and mechanics,10,285,0.0046293288285361575
+Morocco,3771,97982,2319,61564,8225,Other metal workers and plastic workers,12,284,0.004613085569488662
+Morocco,3771,97982,2319,61564,1108,"Computer occupations, all other",10,283,0.004596842310441167
+Morocco,3771,97982,2319,61564,1700,Astronomers and physicists,1,282,0.004580599051393672
+Morocco,3771,97982,2319,61564,7000,"First-line supervisors of mechanics, installers, and repairers",7,282,0.004580599051393672
+Morocco,3771,97982,2319,61564,0705,Project management specialists,12,278,0.004515626015203691
+Morocco,3771,97982,2319,61564,3300,Clinical laboratory technologists and technicians,3,263,0.004271977129491261
+Morocco,3771,97982,2319,61564,8800,Packaging and filling machine operators and tenders,2,263,0.004271977129491261
+Morocco,3771,97982,2319,61564,6230,Carpenters,7,260,0.0042232473523487754
+Morocco,3771,97982,2319,61564,0052,Sales managers,9,250,0.004060814761873822
+Morocco,3771,97982,2319,61564,5860,"Office clerks, general",10,250,0.004060814761873822
+Morocco,3771,97982,2319,61564,4850,"Sales representatives, wholesale and manufacturing",13,240,0.0038983821713988696
+Morocco,3771,97982,2319,61564,0750,"Business operations specialists, all other",9,232,0.0037684360990189072
+Morocco,3771,97982,2319,61564,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",10,232,0.0037684360990189072
+Morocco,3771,97982,2319,61564,7810,"Butchers and other meat, poultry, and fish processing workers",8,226,0.0036709765447339353
+Morocco,3771,97982,2319,61564,0230,Education and childcare administrators,6,223,0.0036222467675914496
+Morocco,3771,97982,2319,61564,1760,"Physical scientists, all other",9,219,0.0035572737314014686
+Morocco,3771,97982,2319,61564,7800,Bakers,8,219,0.0035572737314014686
+Morocco,3771,97982,2319,61564,4920,Real estate brokers and sales agents,8,216,0.0035085439542589824
+Morocco,3771,97982,2319,61564,2830,Editors,2,214,0.003476057436163992
+Morocco,3771,97982,2319,61564,3323,Radiologic technologists and technicians,7,214,0.003476057436163992
+Morocco,3771,97982,2319,61564,7020,Radio and telecommunications equipment installers and repairers,5,213,0.0034598141771164967
+Morocco,3771,97982,2319,61564,9600,Industrial truck and tractor operators,6,211,0.003427327659021506
+Morocco,3771,97982,2319,61564,0630,Human resources workers,9,210,0.003411084399974011
+Morocco,3771,97982,2319,61564,9150,"Motor vehicle operators, all other",9,204,0.003313624845689039
+Morocco,3771,97982,2319,61564,3870,Police officers,8,198,0.003216165291404067
+Morocco,3771,97982,2319,61564,1240,Other mathematical science occupations,7,194,0.003151192255214086
+Morocco,3771,97982,2319,61564,4510,"Hairdressers, hairstylists, and cosmetologists",8,189,0.00306997595997661
+Morocco,3771,97982,2319,61564,7700,First-line supervisors of production and operating workers,11,189,0.00306997595997661
+Morocco,3771,97982,2319,61564,4251,Landscaping and groundskeeping workers,6,181,0.0029400298875966475
+Morocco,3771,97982,2319,61564,5000,First-line supervisors of office and administrative support workers,11,179,0.002907543369501657
+Morocco,3771,97982,2319,61564,2861,Interpreters and translators,7,178,0.0028913001104541617
+Morocco,3771,97982,2319,61564,4055,Fast food and counter workers,9,177,0.002875056851406666
+Morocco,3771,97982,2319,61564,5550,Postal service mail carriers,12,177,0.002875056851406666
+Morocco,3771,97982,2319,61564,4040,Bartenders,7,175,0.0028425703333116756
+Morocco,3771,97982,2319,61564,4820,"Securities, commodities, and financial services sales agents",7,175,0.0028425703333116756
+Morocco,3771,97982,2319,61564,7315,"Heating, air conditioning, and refrigeration mechanics and installers",6,175,0.0028425703333116756
+Morocco,3771,97982,2319,61564,1006,Computer systems analysts,8,174,0.0028263270742641803
+Morocco,3771,97982,2319,61564,1555,"Other engineering technologists and technicians, except drafters",6,166,0.002696381001884218
+Morocco,3771,97982,2319,61564,4200,First-line supervisors of housekeeping and janitorial workers,6,166,0.002696381001884218
+Morocco,3771,97982,2319,61564,5940,Other office and administrative support workers,12,166,0.002696381001884218
+Morocco,3771,97982,2319,61564,6200,First-line supervisors of construction trades and extraction workers,6,162,0.002631407965694237
+Morocco,3771,97982,2319,61564,5410,Reservation and transportation ticket agents and travel clerks,6,161,0.0026151647066467417
+Morocco,3771,97982,2319,61564,5300,"Hotel, motel, and resort desk clerks",5,156,0.002533948411409265
+Morocco,3771,97982,2319,61564,6442,"Plumbers, pipefitters, and steamfitters",5,155,0.0025177051523617698
+Morocco,3771,97982,2319,61564,0150,Purchasing managers,2,154,0.0025014618933142745
+Morocco,3771,97982,2319,61564,1050,Computer support specialists,9,152,0.002468975375219284
+Morocco,3771,97982,2319,61564,2014,"Social workers, all other",4,152,0.002468975375219284
+Morocco,3771,97982,2319,61564,2100,"Lawyers, and judges, magistrates, and other judicial workers",5,147,0.0023877590799818074
+Morocco,3771,97982,2319,61564,0700,Logisticians,4,143,0.0023227860437918264
+Morocco,3771,97982,2319,61564,1460,Mechanical engineers,5,142,0.002306542784744331
+Morocco,3771,97982,2319,61564,5140,Payroll and timekeeping clerks,4,142,0.002306542784744331
+Morocco,3771,97982,2319,61564,2640,Other designers,7,140,0.0022740562666493406
+Morocco,3771,97982,2319,61564,4500,Barbers,6,139,0.0022578130076018454
+Morocco,3771,97982,2319,61564,0350,Medical and health services managers,7,138,0.00224156974855435
+Morocco,3771,97982,2319,61564,3655,Other healthcare support workers,5,138,0.00224156974855435
+Morocco,3771,97982,2319,61564,0520,"Wholesale and retail buyers, except farm products",2,133,0.0021603534533168735
+Morocco,3771,97982,2319,61564,7640,"Other installation, maintenance, and repair workers",4,132,0.002144110194269378
+Morocco,3771,97982,2319,61564,3050,Pharmacists,4,131,0.002127866935221883
+Morocco,3771,97982,2319,61564,9630,Machine feeders and offbearers,2,131,0.002127866935221883
+Morocco,3771,97982,2319,61564,2634,Graphic designers,2,128,0.0020791371580793972
+Morocco,3771,97982,2319,61564,1007,Information security analysts,6,127,0.0020628938990319015
+Morocco,3771,97982,2319,61564,5400,Receptionists and information clerks,8,126,0.0020466506399844063
+Morocco,3771,97982,2319,61564,9050,Flight attendants,4,125,0.002030407380936911
+Morocco,3771,97982,2319,61564,0140,Industrial production managers,3,124,0.002014164121889416
+Morocco,3771,97982,2319,61564,2600,Artists and related workers,5,117,0.0019004613085569489
+Morocco,3771,97982,2319,61564,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",5,117,0.0019004613085569489
+Morocco,3771,97982,2319,61564,2722,Coaches and scouts,5,115,0.0018679747904619584
+Morocco,3771,97982,2319,61564,0160,"Transportation, storage, and distribution managers",6,113,0.0018354882723669677
+Morocco,3771,97982,2319,61564,1970,"Other life, physical, and social science technicians",6,113,0.0018354882723669677
+Morocco,3771,97982,2319,61564,8610,Stationary engineers and boiler operators,3,112,0.0018192450133194724
+Morocco,3771,97982,2319,61564,9005,Supervisors of transportation and material moving workers,5,110,0.001786758495224482
+Morocco,3771,97982,2319,61564,1022,Software quality assurance analysts and testers,2,109,0.0017705152361769865
+Morocco,3771,97982,2319,61564,0410,"Property, real estate, and community association managers",4,108,0.0017542719771294912
+Morocco,3771,97982,2319,61564,4640,Residential advisors,4,108,0.0017542719771294912
+Morocco,3771,97982,2319,61564,3421,Pharmacy technicians,5,107,0.001738028718081996
+Morocco,3771,97982,2319,61564,0850,Personal financial advisors,5,106,0.0017217854590345007
+Morocco,3771,97982,2319,61564,6410,Painters and paperhangers,5,106,0.0017217854590345007
+Morocco,3771,97982,2319,61564,0420,Social and community service managers,6,105,0.0017055421999870055
+Morocco,3771,97982,2319,61564,5810,Data entry keyers,2,105,0.0017055421999870055
+Morocco,3771,97982,2319,61564,6305,Construction equipment operators,3,99,0.0016080826457020336
+Morocco,3771,97982,2319,61564,9350,Parking attendants,6,98,0.0015918393866545383
+Morocco,3771,97982,2319,61564,1360,Civil engineers,5,97,0.001575596127607043
+Morocco,3771,97982,2319,61564,1551,Electrical and electronic engineering technologists and technicians,5,97,0.001575596127607043
+Morocco,3771,97982,2319,61564,4965,"Sales and related workers, all other",6,97,0.001575596127607043
+Morocco,3771,97982,2319,61564,7855,"Food processing workers, all other",4,97,0.001575596127607043
+Morocco,3771,97982,2319,61564,3500,Licensed practical and licensed vocational nurses,2,96,0.0015593528685595478
+Morocco,3771,97982,2319,61564,1106,Computer network architects,5,95,0.0015431096095120526
+Morocco,3771,97982,2319,61564,2435,Librarians and media collections specialists,1,95,0.0015431096095120526
+Morocco,3771,97982,2319,61564,1650,Other life scientists,3,94,0.001526866350464557
+Morocco,3771,97982,2319,61564,7430,Precision instrument and equipment repairers,1,93,0.0015106230914170619
+Morocco,3771,97982,2319,61564,0940,Tax preparers,3,92,0.0014943798323695666
+Morocco,3771,97982,2319,61564,4621,Exercise trainers and group fitness instructors,3,92,0.0014943798323695666
+Morocco,3771,97982,2319,61564,5522,"Dispatchers, except police, fire, and ambulance",6,92,0.0014943798323695666
+Morocco,3771,97982,2319,61564,5330,Loan interviewers and clerks,3,90,0.0014618933142745761
+Morocco,3771,97982,2319,61564,4655,"Personal care and service workers, all other",3,89,0.0014456500552270809
+Morocco,3771,97982,2319,61564,4435,Other entertainment attendants and related workers,2,87,0.0014131635371320902
+Morocco,3771,97982,2319,61564,0136,Human resources managers,2,85,0.0013806770190370997
+Morocco,3771,97982,2319,61564,0540,"Claims adjusters, appraisers, examiners, and investigators",4,85,0.0013806770190370997
+Morocco,3771,97982,2319,61564,5610,"Shipping, receiving, and inventory clerks",3,85,0.0013806770190370997
+Morocco,3771,97982,2319,61564,8300,Laundry and dry-cleaning workers,4,83,0.001348190500942109
+Morocco,3771,97982,2319,61564,5310,"Interviewers, except eligibility and loan",2,80,0.0012994607237996232
+Morocco,3771,97982,2319,61564,5521,Public safety telecommunicators,2,80,0.0012994607237996232
+Morocco,3771,97982,2319,61564,7750,Other assemblers and fabricators,5,80,0.0012994607237996232
+Morocco,3771,97982,2319,61564,0340,Lodging managers,4,78,0.0012669742057046325
+Morocco,3771,97982,2319,61564,1400,Computer hardware engineers,4,78,0.0012669742057046325
+Morocco,3771,97982,2319,61564,1430,"Industrial engineers, including health and safety",4,78,0.0012669742057046325
+Morocco,3771,97982,2319,61564,9610,Cleaners of vehicles and equipment,3,78,0.0012669742057046325
+Morocco,3771,97982,2319,61564,3649,Phlebotomists,4,77,0.0012507309466571373
+Morocco,3771,97982,2319,61564,1305,"Architects, except landscape and naval",5,76,0.001234487687609642
+Morocco,3771,97982,2319,61564,9830,"Military, rank not specified",4,73,0.001185757910467156
+Morocco,3771,97982,2319,61564,1105,Network and computer systems administrators,4,69,0.001120784874277175
+Morocco,3771,97982,2319,61564,4350,Animal caretakers,4,69,0.001120784874277175
+Morocco,3771,97982,2319,61564,4530,"Baggage porters, bellhops, and concierges",2,69,0.001120784874277175
+Morocco,3771,97982,2319,61564,4830,Travel agents,3,68,0.0011045416152296796
+Morocco,3771,97982,2319,61564,0565,Compliance officers,2,67,0.0010882983561821844
+Morocco,3771,97982,2319,61564,3422,Psychiatric technicians,1,67,0.0010882983561821844
+Morocco,3771,97982,2319,61564,3330,Nuclear medicine technologists and medical dosimetrists,1,65,0.0010558118380871939
+Morocco,3771,97982,2319,61564,0300,Architectural and engineering managers,3,63,0.0010233253199922032
+Morocco,3771,97982,2319,61564,1220,Operations research analysts,3,63,0.0010233253199922032
+Morocco,3771,97982,2319,61564,2025,Other community and social service specialists,4,62,0.001007082060944708
+Morocco,3771,97982,2319,61564,0725,"Meeting, convention, and event planners",3,61,9.908388018972127e-4
+Morocco,3771,97982,2319,61564,0500,"Agents and business managers of artists, performers, and athletes",3,60,9.745955428497174e-4
+Morocco,3771,97982,2319,61564,4140,Dishwashers,2,60,9.745955428497174e-4
+Morocco,3771,97982,2319,61564,5730,Medical secretaries and administrative assistants,2,60,9.745955428497174e-4
+Morocco,3771,97982,2319,61564,4810,Insurance sales agents,3,58,9.421090247547268e-4
+Morocco,3771,97982,2319,61564,7320,Home appliance repairers,3,58,9.421090247547268e-4
+Morocco,3771,97982,2319,61564,3646,Medical transcriptionists,2,57,9.258657657072315e-4
+Morocco,3771,97982,2319,61564,7330,Industrial and refractory machinery mechanics,4,57,9.258657657072315e-4
+Morocco,3771,97982,2319,61564,0910,Credit counselors and loan officers,2,56,9.096225066597362e-4
+Morocco,3771,97982,2319,61564,5560,"Postal service mail sorters, processors, and processing machine operators",1,56,9.096225066597362e-4
+Morocco,3771,97982,2319,61564,9410,Transportation inspectors,1,55,8.93379247612241e-4
+Morocco,3771,97982,2319,61564,5110,Billing and posting clerks,3,54,8.771359885647456e-4
+Morocco,3771,97982,2319,61564,5150,Procurement clerks,2,54,8.771359885647456e-4
+Morocco,3771,97982,2319,61564,8710,Cutting workers,1,54,8.771359885647456e-4
+Morocco,3771,97982,2319,61564,0735,Market research analysts and marketing specialists,2,53,8.608927295172504e-4
+Morocco,3771,97982,2319,61564,1410,Electrical and electronics engineers,4,53,8.608927295172504e-4
+Morocco,3771,97982,2319,61564,2710,Producers and directors,3,51,8.284062114222598e-4
+Morocco,3771,97982,2319,61564,5720,Legal secretaries and administrative assistants,1,51,8.284062114222598e-4
+Morocco,3771,97982,2319,61564,7120,Electronic home entertainment equipment installers and repairers,1,51,8.284062114222598e-4
+Morocco,3771,97982,2319,61564,7840,Food batchmakers,1,51,8.284062114222598e-4
+Morocco,3771,97982,2319,61564,8140,"Welding, soldering, and brazing workers",4,51,8.284062114222598e-4
+Morocco,3771,97982,2319,61564,2770,"Entertainers and performers, sports and related workers, all other",1,49,7.959196933272692e-4
+Morocco,3771,97982,2319,61564,3150,Occupational therapists,3,49,7.959196933272692e-4
+Morocco,3771,97982,2319,61564,3160,Physical therapists,2,48,7.796764342797739e-4
+Morocco,3771,97982,2319,61564,7210,Bus and truck mechanics and diesel engine specialists,2,46,7.471899161847833e-4
+Morocco,3771,97982,2319,61564,1600,Agricultural and food scientists,1,45,7.309466571372881e-4
+Morocco,3771,97982,2319,61564,7360,Millwrights,1,45,7.309466571372881e-4
+Morocco,3771,97982,2319,61564,9415,Passenger attendants,2,45,7.309466571372881e-4
+Morocco,3771,97982,2319,61564,2002,"Educational, guidance, and career counselors and advisors",3,44,7.147033980897927e-4
+Morocco,3771,97982,2319,61564,4950,"Door-to-door sales workers, news and street vendors, and related workers",3,44,7.147033980897927e-4
+Morocco,3771,97982,2319,61564,7540,Locksmiths and safe repairers,2,44,7.147033980897927e-4
+Morocco,3771,97982,2319,61564,0530,"Purchasing agents, except wholesale, retail, and farm products",3,43,6.984601390422975e-4
+Morocco,3771,97982,2319,61564,3110,Physician assistants,2,43,6.984601390422975e-4
+Morocco,3771,97982,2319,61564,4522,Skincare specialists,3,43,6.984601390422975e-4
+Morocco,3771,97982,2319,61564,8320,Sewing machine operators,3,43,6.984601390422975e-4
+Morocco,3771,97982,2319,61564,2016,Social and human service assistants,2,41,6.659736209473069e-4
+Morocco,3771,97982,2319,61564,4930,Sales engineers,1,41,6.659736209473069e-4
+Morocco,3771,97982,2319,61564,8350,"Tailors, dressmakers, and sewers",1,41,6.659736209473069e-4
+Morocco,3771,97982,2319,61564,0040,Advertising and promotions managers,1,38,6.17243843804821e-4
+Morocco,3771,97982,2319,61564,8950,Helpers--production workers,2,38,6.17243843804821e-4
+Morocco,3771,97982,2319,61564,0102,Facilities managers,3,37,6.010005847573258e-4
+Morocco,3771,97982,2319,61564,3401,Emergency medical technicians,1,37,6.010005847573258e-4
+Morocco,3771,97982,2319,61564,3820,Detectives and criminal investigators,2,37,6.010005847573258e-4
+Morocco,3771,97982,2319,61564,4750,Parts salespersons,2,36,5.847573257098304e-4
+Morocco,3771,97982,2319,61564,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,2,36,5.847573257098304e-4
+Morocco,3771,97982,2319,61564,2810,"News analysts, reporters, and journalists",1,35,5.685140666623352e-4
+Morocco,3771,97982,2319,61564,2330,Special education teachers,2,33,5.360275485673446e-4
+Morocco,3771,97982,2319,61564,3010,Dentists,3,33,5.360275485673446e-4
+Morocco,3771,97982,2319,61564,9365,Transportation service attendants,2,33,5.360275485673446e-4
+Morocco,3771,97982,2319,61564,9825,Military enlisted tactical operations and air/weapons specialists and crew members,2,32,5.197842895198493e-4
+Morocco,3771,97982,2319,61564,0335,Entertainment and recreation managers,1,31,5.03541030472354e-4
+Morocco,3771,97982,2319,61564,0810,Property appraisers and assessors,2,31,5.03541030472354e-4
+Morocco,3771,97982,2319,61564,2040,Clergy,1,31,5.03541030472354e-4
+Morocco,3771,97982,2319,61564,3230,Speech-language pathologists,1,31,5.03541030472354e-4
+Morocco,3771,97982,2319,61564,5850,"Mail clerks and mail machine operators, except postal service",3,31,5.03541030472354e-4
+Morocco,3771,97982,2319,61564,2170,"Title examiners, abstractors, and searchers",2,30,4.872977714248587e-4
+Morocco,3771,97982,2319,61564,3910,Private detectives and investigators,1,30,4.872977714248587e-4
+Morocco,3771,97982,2319,61564,4622,Recreation workers,3,30,4.872977714248587e-4
+Morocco,3771,97982,2319,61564,5165,Other financial clerks,2,30,4.872977714248587e-4
+Morocco,3771,97982,2319,61564,2006,"Counselors, all other",1,29,4.710545123773634e-4
+Morocco,3771,97982,2319,61564,3220,Respiratory therapists,2,29,4.710545123773634e-4
+Morocco,3771,97982,2319,61564,4521,Manicurists and pedicurists,1,29,4.710545123773634e-4
+Morocco,3771,97982,2319,61564,7905,Computer numerically controlled tool operators and programmers,2,29,4.710545123773634e-4
+Morocco,3771,97982,2319,61564,1310,"Surveyors, cartographers, and photogrammetrists",2,28,4.548112533298681e-4
+Morocco,3771,97982,2319,61564,2350,Tutors,2,28,4.548112533298681e-4
+Morocco,3771,97982,2319,61564,3258,"Nurse practitioners, and nurse midwives",2,28,4.548112533298681e-4
+Morocco,3771,97982,2319,61564,3640,Dental assistants,2,28,4.548112533298681e-4
+Morocco,3771,97982,2319,61564,5420,Other information and records clerks,1,28,4.548112533298681e-4
+Morocco,3771,97982,2319,61564,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,28,4.548112533298681e-4
+Morocco,3771,97982,2319,61564,8250,Prepress technicians and workers,1,28,4.548112533298681e-4
+Morocco,3771,97982,2319,61564,9720,Refuse and recyclable material collectors,1,28,4.548112533298681e-4
+Morocco,3771,97982,2319,61564,7150,Automotive body and related repairers,2,27,4.385679942823728e-4
+Morocco,3771,97982,2319,61564,0205,"Farmers, ranchers, and other agricultural managers",2,26,4.223247352348775e-4
+Morocco,3771,97982,2319,61564,2440,Library technicians,1,26,4.223247352348775e-4
+Morocco,3771,97982,2319,61564,2555,Other educational instruction and library workers,2,26,4.223247352348775e-4
+Morocco,3771,97982,2319,61564,0600,Cost estimators,1,25,4.0608147618738225e-4
+Morocco,3771,97982,2319,61564,1320,Aerospace engineers,2,25,4.0608147618738225e-4
+Morocco,3771,97982,2319,61564,2145,Paralegals and legal assistants,2,25,4.0608147618738225e-4
+Morocco,3771,97982,2319,61564,3245,Other therapists,1,25,4.0608147618738225e-4
+Morocco,3771,97982,2319,61564,5540,Postal service clerks,2,24,3.8983821713988695e-4
+Morocco,3771,97982,2319,61564,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,24,3.8983821713988695e-4
+Morocco,3771,97982,2319,61564,3710,First-line supervisors of police and detectives,1,22,3.5735169904489635e-4
+Morocco,3771,97982,2319,61564,6720,Hazardous materials removal workers,1,22,3.5735169904489635e-4
+Morocco,3771,97982,2319,61564,8920,"Molders, shapers, and casters, except metal and plastic",1,22,3.5735169904489635e-4
+Morocco,3771,97982,2319,61564,1032,Web and digital interface designers,1,21,3.411084399974011e-4
+Morocco,3771,97982,2319,61564,2752,Musicians and singers,1,21,3.411084399974011e-4
+Morocco,3771,97982,2319,61564,3945,Transportation security screeners,1,21,3.411084399974011e-4
+Morocco,3771,97982,2319,61564,5360,"Human resources assistants, except payroll and timekeeping",1,21,3.411084399974011e-4
+Morocco,3771,97982,2319,61564,7420,Telecommunications line installers and repairers,2,21,3.411084399974011e-4
+Morocco,3771,97982,2319,61564,0960,Other financial specialists,1,20,3.248651809499058e-4
+Morocco,3771,97982,2319,61564,1545,Other drafters,1,20,3.248651809499058e-4
+Morocco,3771,97982,2319,61564,1825,Other psychologists,1,20,3.248651809499058e-4
+Morocco,3771,97982,2319,61564,0640,"Compensation, benefits, and job analysis specialists",1,19,3.086219219024105e-4
+Morocco,3771,97982,2319,61564,4740,Counter and rental clerks,1,19,3.086219219024105e-4
+Morocco,3771,97982,2319,61564,5350,Correspondence clerks and order clerks,2,19,3.086219219024105e-4
+Morocco,3771,97982,2319,61564,5710,Executive secretaries and executive administrative assistants,2,19,3.086219219024105e-4
+Morocco,3771,97982,2319,61564,5600,"Production, planning, and expediting clerks",2,18,2.923786628549152e-4
+Morocco,3771,97982,2319,61564,6050,Other agricultural workers,2,18,2.923786628549152e-4
+Morocco,3771,97982,2319,61564,8030,Machinists,1,18,2.923786628549152e-4
+Morocco,3771,97982,2319,61564,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,18,2.923786628549152e-4
+Morocco,3771,97982,2319,61564,0930,"Tax examiners and collectors, and revenue agents",1,17,2.761354038074199e-4
+Morocco,3771,97982,2319,61564,2850,Writers and authors,1,17,2.761354038074199e-4
+Morocco,3771,97982,2319,61564,3550,Other healthcare practitioners and technical occupations,1,17,2.761354038074199e-4
+Morocco,3771,97982,2319,61564,6700,Elevator installers and repairers,1,17,2.761354038074199e-4
+Morocco,3771,97982,2319,61564,7010,"Computer, automated teller, and office machine repairers",2,17,2.761354038074199e-4
+Morocco,3771,97982,2319,61564,8310,"Pressers, textile, garment, and related materials",2,17,2.761354038074199e-4
+Morocco,3771,97982,2319,61564,0360,Natural sciences managers,1,16,2.5989214475992465e-4
+Morocco,3771,97982,2319,61564,1750,"Geoscientists and hydrologists, except geographers",1,16,2.5989214475992465e-4
+Morocco,3771,97982,2319,61564,2635,Interior designers,1,16,2.5989214475992465e-4
+Morocco,3771,97982,2319,61564,3402,Paramedics,1,16,2.5989214475992465e-4
+Morocco,3771,97982,2319,61564,1745,"Environmental scientists and specialists, including health",1,15,2.4364888571242935e-4
+Morocco,3771,97982,2319,61564,2015,Probation officers and correctional treatment specialists,1,15,2.4364888571242935e-4
+Morocco,3771,97982,2319,61564,2400,"Archivists, curators, and museum technicians",1,15,2.4364888571242935e-4
+Morocco,3771,97982,2319,61564,4160,"Food preparation and serving related workers, all other",1,15,2.4364888571242935e-4
+Morocco,3771,97982,2319,61564,5100,Bill and account collectors,1,15,2.4364888571242935e-4
+Morocco,3771,97982,2319,61564,7130,Security and fire alarm systems installers,1,15,2.4364888571242935e-4
+Morocco,3771,97982,2319,61564,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,15,2.4364888571242935e-4
+Morocco,3771,97982,2319,61564,8650,"Crushing, grinding, polishing, mixing, and blending workers",1,15,2.4364888571242935e-4
+Morocco,3771,97982,2319,61564,1920,Chemical technicians,1,14,2.2740562666493405e-4
+Morocco,3771,97982,2319,61564,2005,Rehabilitation counselors,1,14,2.2740562666493405e-4
+Morocco,3771,97982,2319,61564,3802,Correctional officers and jailers,1,14,2.2740562666493405e-4
+Morocco,3771,97982,2319,61564,5230,"Credit authorizers, checkers, and clerks",1,14,2.2740562666493405e-4
+Morocco,3771,97982,2319,61564,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,14,2.2740562666493405e-4
+Morocco,3771,97982,2319,61564,8255,Printing press operators,1,14,2.2740562666493405e-4
+Morocco,3771,97982,2319,61564,9265,Other rail transportation workers,1,14,2.2740562666493405e-4
+Morocco,3771,97982,2319,61564,2001,Substance abuse and behavioral disorder counselors,1,13,2.1116236761743875e-4
+Morocco,3771,97982,2319,61564,3960,Other protective service workers,1,13,2.1116236761743875e-4
+Morocco,3771,97982,2319,61564,4800,Advertising sales agents,1,13,2.1116236761743875e-4
+Morocco,3771,97982,2319,61564,7610,"Helpers--installation, maintenance, and repair workers",1,13,2.1116236761743875e-4
+Morocco,3771,97982,2319,61564,0845,Financial and investment analysts,1,12,1.9491910856994348e-4
+Morocco,3771,97982,2319,61564,2755,"Disc jockeys, except radio",1,12,1.9491910856994348e-4
+Morocco,3771,97982,2319,61564,7510,"Coin, vending, and amusement machine servicers and repairers",1,12,1.9491910856994348e-4
+Morocco,3771,97982,2319,61564,2825,Public relations specialists,1,11,1.7867584952244818e-4
+Morocco,3771,97982,2319,61564,5250,"Eligibility interviewers, government programs",1,11,1.7867584952244818e-4
+Morocco,3771,97982,2319,61564,6600,"Helpers, construction trades",1,11,1.7867584952244818e-4
+Morocco,3771,97982,2319,61564,9430,Other transportation workers,1,10,1.624325904749529e-4
+Morocco,3771,97982,2319,61564,1860,Other social scientists,1,9,1.461893314274576e-4
+Morocco,3771,97982,2319,61564,4540,Tour and travel guides,1,9,1.461893314274576e-4
+Morocco,3771,97982,2319,61564,8750,Jewelers and precious stone and metal workers,1,9,1.461893314274576e-4
+Morocco,3771,97982,2319,61564,8810,Painting workers,1,9,1.461893314274576e-4
+Morocco,3771,97982,2319,61564,0650,Training and development specialists,1,8,1.2994607237996233e-4
+Morocco,3771,97982,2319,61564,1720,Chemists and materials scientists,1,8,1.2994607237996233e-4
+Morocco,3771,97982,2319,61564,2004,Mental health counselors,1,7,1.1370281333246703e-4
+Morocco,3771,97982,2319,61564,3515,Medical records specialists,1,7,1.1370281333246703e-4
+Morocco,3771,97982,2319,61564,6360,Glaziers,1,7,1.1370281333246703e-4
+Morocco,3771,97982,2319,61564,6515,Roofers,1,7,1.1370281333246703e-4
+Morocco,3771,97982,2319,61564,9760,Other material moving workers,1,6,9.745955428497174e-5

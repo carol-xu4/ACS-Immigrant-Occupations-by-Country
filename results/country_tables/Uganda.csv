@@ -1,210 +1,218 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Uganda,1531,41163,787,21836,3602,Personal care aides,49,1684,0.0771203517127679
-Uganda,1531,41163,787,21836,3255,Registered nurses,46,1431,0.06553398058252427
-Uganda,1531,41163,787,21836,3603,Nursing assistants,46,1275,0.05838981498442938
-Uganda,1531,41163,787,21836,9142,Taxi drivers,13,686,0.031416010258289065
-Uganda,1531,41163,787,21836,2040,Clergy,39,631,0.028897233925627406
-Uganda,1531,41163,787,21836,3500,Licensed practical and licensed vocational nurses,14,570,0.02610368199303902
-Uganda,1531,41163,787,21836,0800,Accountants and auditors,16,495,0.022668986993954938
-Uganda,1531,41163,787,21836,4760,Retail salespersons,12,443,0.02028759846125664
-Uganda,1531,41163,787,21836,5740,"Secretaries and administrative assistants, except legal, medical, and executive",11,391,0.017906209928558344
-Uganda,1531,41163,787,21836,9130,Driver/sales workers and truck drivers,12,390,0.017860413995237225
-Uganda,1531,41163,787,21836,3930,Security guards and gaming surveillance officers,10,374,0.017127679062099284
-Uganda,1531,41163,787,21836,3601,Home health aides,9,370,0.016944495328814802
-Uganda,1531,41163,787,21836,8740,"Inspectors, testers, sorters, samplers, and weighers",4,335,0.015341637662575564
-Uganda,1531,41163,787,21836,3421,Pharmacy technicians,4,317,0.014517310862795384
-Uganda,1531,41163,787,21836,4720,Cashiers,8,305,0.01396775966294193
-Uganda,1531,41163,787,21836,9620,"Laborers and freight, stock, and material movers, hand",9,303,0.01387616779629969
-Uganda,1531,41163,787,21836,0340,Lodging managers,7,301,0.013784575929657447
-Uganda,1531,41163,787,21836,5240,Customer service representatives,11,291,0.013326616596446236
-Uganda,1531,41163,787,21836,1530,Other engineers,5,287,0.01314343286316175
-Uganda,1531,41163,787,21836,2205,Postsecondary teachers,15,274,0.012548085729987177
-Uganda,1531,41163,787,21836,7750,Other assemblers and fabricators,8,266,0.012181718263418208
-Uganda,1531,41163,787,21836,0440,Other managers,12,227,0.010395676863894487
-Uganda,1531,41163,787,21836,4700,First-line supervisors of retail sales workers,11,227,0.010395676863894487
-Uganda,1531,41163,787,21836,1021,Software developers,8,210,0.009617145997435428
-Uganda,1531,41163,787,21836,1007,Information security analysts,5,208,0.009525554130793186
-Uganda,1531,41163,787,21836,3655,Other healthcare support workers,4,208,0.009525554130793186
-Uganda,1531,41163,787,21836,9640,"Packers and packagers, hand",4,186,0.008518043597728522
-Uganda,1531,41163,787,21836,4020,Cooks,9,176,0.008060084264517311
-Uganda,1531,41163,787,21836,8990,"Miscellaneous production workers, including equipment operators and tenders",6,164,0.007510533064663858
-Uganda,1531,41163,787,21836,0010,Chief executives and legislators,9,163,0.007464737131342737
-Uganda,1531,41163,787,21836,0120,Financial managers,8,163,0.007464737131342737
-Uganda,1531,41163,787,21836,7700,First-line supervisors of production and operating workers,3,163,0.007464737131342737
-Uganda,1531,41163,787,21836,2006,"Counselors, all other",2,162,0.007418941198021616
-Uganda,1531,41163,787,21836,2001,Substance abuse and behavioral disorder counselors,4,154,0.007052573731452647
-Uganda,1531,41163,787,21836,1760,"Physical scientists, all other",5,153,0.007006777798131526
-Uganda,1531,41163,787,21836,2310,Elementary and middle school teachers,5,150,0.006869389998168163
-Uganda,1531,41163,787,21836,5120,"Bookkeeping, accounting, and auditing clerks",7,149,0.0068235940648470415
-Uganda,1531,41163,787,21836,0420,Social and community service managers,5,143,0.0065488184649203154
-Uganda,1531,41163,787,21836,0051,Marketing managers,2,141,0.006457226598278073
-Uganda,1531,41163,787,21836,1350,Chemical engineers,1,138,0.00631983879831471
-Uganda,1531,41163,787,21836,3090,Physicians,8,138,0.00631983879831471
-Uganda,1531,41163,787,21836,0630,Human resources workers,5,136,0.006228246931672467
-Uganda,1531,41163,787,21836,4220,Janitors and building cleaners,6,129,0.00590767539842462
-Uganda,1531,41163,787,21836,2014,"Social workers, all other",5,126,0.005770287598461257
-Uganda,1531,41163,787,21836,4710,First-line supervisors of non-retail sales workers,3,123,0.005632899798497893
-Uganda,1531,41163,787,21836,0110,Computer and information systems managers,3,117,0.005358124198571167
-Uganda,1531,41163,787,21836,9150,"Motor vehicle operators, all other",5,110,0.00503755266532332
-Uganda,1531,41163,787,21836,0845,Financial and investment analysts,3,107,0.004900164865359956
-Uganda,1531,41163,787,21836,5610,"Shipping, receiving, and inventory clerks",2,107,0.004900164865359956
-Uganda,1531,41163,787,21836,4120,"Food servers, nonrestaurant",2,106,0.0048543689320388345
-Uganda,1531,41163,787,21836,5860,"Office clerks, general",6,105,0.004808572998717714
-Uganda,1531,41163,787,21836,2545,Teaching assistants,4,102,0.00467118519875435
-Uganda,1531,41163,787,21836,4640,Residential advisors,5,101,0.00462538926543323
-Uganda,1531,41163,787,21836,5400,Receptionists and information clerks,4,99,0.004533797398790987
-Uganda,1531,41163,787,21836,7340,"Maintenance and repair workers, general",3,96,0.004396409598827624
-Uganda,1531,41163,787,21836,0230,Education and childcare administrators,5,94,0.004304817732185382
-Uganda,1531,41163,787,21836,1360,Civil engineers,3,93,0.004259021798864261
-Uganda,1531,41163,787,21836,1108,"Computer occupations, all other",9,90,0.004121633998900897
-Uganda,1531,41163,787,21836,5940,Other office and administrative support workers,2,90,0.004121633998900897
-Uganda,1531,41163,787,21836,8830,Photographic process workers and processing machine operators,1,90,0.004121633998900897
-Uganda,1531,41163,787,21836,2004,Mental health counselors,5,89,0.004075838065579777
-Uganda,1531,41163,787,21836,4850,"Sales representatives, wholesale and manufacturing",3,85,0.003892654332295292
-Uganda,1531,41163,787,21836,0710,Management analysts,5,83,0.00380106246565305
-Uganda,1531,41163,787,21836,6520,Sheet metal workers,1,80,0.0036636746656896865
-Uganda,1531,41163,787,21836,1006,Computer systems analysts,2,78,0.0035720827990474444
-Uganda,1531,41163,787,21836,2016,Social and human service assistants,11,76,0.0034804909324052022
-Uganda,1531,41163,787,21836,2905,Other media and communication equipment workers,3,76,0.0034804909324052022
-Uganda,1531,41163,787,21836,3258,"Nurse practitioners, and nurse midwives",2,76,0.0034804909324052022
-Uganda,1531,41163,787,21836,2632,Fashion designers,1,73,0.0033431031324418392
-Uganda,1531,41163,787,21836,2752,Musicians and singers,2,73,0.0033431031324418392
-Uganda,1531,41163,787,21836,2825,Public relations specialists,2,73,0.0033431031324418392
-Uganda,1531,41163,787,21836,5410,Reservation and transportation ticket agents and travel clerks,2,72,0.003297307199120718
-Uganda,1531,41163,787,21836,3050,Pharmacists,5,70,0.0032057153324784758
-Uganda,1531,41163,787,21836,3110,Physician assistants,2,70,0.0032057153324784758
-Uganda,1531,41163,787,21836,3422,Psychiatric technicians,1,70,0.0032057153324784758
-Uganda,1531,41163,787,21836,6260,Construction laborers,2,69,0.003159919399157355
-Uganda,1531,41163,787,21836,3245,Other therapists,2,68,0.0031141234658362336
-Uganda,1531,41163,787,21836,2710,Producers and directors,1,67,0.0030683275325151128
-Uganda,1531,41163,787,21836,5510,Couriers and messengers,2,66,0.0030225315991939915
-Uganda,1531,41163,787,21836,6050,Other agricultural workers,2,66,0.0030225315991939915
-Uganda,1531,41163,787,21836,8910,Etchers and engravers,1,64,0.0029309397325517493
-Uganda,1531,41163,787,21836,1240,Other mathematical science occupations,2,60,0.002747755999267265
-Uganda,1531,41163,787,21836,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",4,60,0.002747755999267265
-Uganda,1531,41163,787,21836,2360,Other teachers and instructors,4,56,0.0025645722659827807
-Uganda,1531,41163,787,21836,0310,Food service managers,1,53,0.0024271844660194173
-Uganda,1531,41163,787,21836,4510,"Hairdressers, hairstylists, and cosmetologists",2,53,0.0024271844660194173
-Uganda,1531,41163,787,21836,0150,Purchasing managers,1,52,0.0023813885326982964
-Uganda,1531,41163,787,21836,4230,Maids and housekeeping cleaners,1,52,0.0023813885326982964
-Uganda,1531,41163,787,21836,0220,Construction managers,2,51,0.002335592599377175
-Uganda,1531,41163,787,21836,2145,Paralegals and legal assistants,2,51,0.002335592599377175
-Uganda,1531,41163,787,21836,4055,Fast food and counter workers,2,51,0.002335592599377175
-Uganda,1531,41163,787,21836,7020,Radio and telecommunications equipment installers and repairers,1,51,0.002335592599377175
-Uganda,1531,41163,787,21836,1900,Agricultural and food science technicians,1,50,0.0022897966660560543
-Uganda,1531,41163,787,21836,0750,"Business operations specialists, all other",4,49,0.002244000732734933
-Uganda,1531,41163,787,21836,5550,Postal service mail carriers,2,49,0.002244000732734933
-Uganda,1531,41163,787,21836,4930,Sales engineers,1,48,0.002198204799413812
-Uganda,1531,41163,787,21836,0425,Emergency management directors,1,45,0.0020608169994504487
-Uganda,1531,41163,787,21836,3645,Medical assistants,2,45,0.0020608169994504487
-Uganda,1531,41163,787,21836,5810,Data entry keyers,2,45,0.0020608169994504487
-Uganda,1531,41163,787,21836,7010,"Computer, automated teller, and office machine repairers",1,45,0.0020608169994504487
-Uganda,1531,41163,787,21836,9825,Military enlisted tactical operations and air/weapons specialists and crew members,3,45,0.0020608169994504487
-Uganda,1531,41163,787,21836,0020,General and operations managers,2,44,0.002015021066129328
-Uganda,1531,41163,787,21836,4965,"Sales and related workers, all other",3,44,0.002015021066129328
-Uganda,1531,41163,787,21836,1825,Other psychologists,1,43,0.0019692251328082065
-Uganda,1531,41163,787,21836,1970,"Other life, physical, and social science technicians",2,43,0.0019692251328082065
-Uganda,1531,41163,787,21836,7315,"Heating, air conditioning, and refrigeration mechanics and installers",1,43,0.0019692251328082065
-Uganda,1531,41163,787,21836,8320,Sewing machine operators,1,43,0.0019692251328082065
-Uganda,1531,41163,787,21836,3323,Radiologic technologists and technicians,1,42,0.0019234291994870856
-Uganda,1531,41163,787,21836,3402,Paramedics,1,42,0.0019234291994870856
-Uganda,1531,41163,787,21836,4110,Waiters and waitresses,3,42,0.0019234291994870856
-Uganda,1531,41163,787,21836,1050,Computer support specialists,2,41,0.0018776332661659646
-Uganda,1531,41163,787,21836,1220,Operations research analysts,2,41,0.0018776332661659646
-Uganda,1531,41163,787,21836,4655,"Personal care and service workers, all other",1,41,0.0018776332661659646
-Uganda,1531,41163,787,21836,2330,Special education teachers,1,39,0.0017860413995237222
-Uganda,1531,41163,787,21836,5310,"Interviewers, except eligibility and loan",2,39,0.0017860413995237222
-Uganda,1531,41163,787,21836,1430,"Industrial engineers, including health and safety",1,38,0.0017402454662026011
-Uganda,1531,41163,787,21836,1720,Chemists and materials scientists,1,38,0.0017402454662026011
-Uganda,1531,41163,787,21836,2810,"News analysts, reporters, and journalists",2,38,0.0017402454662026011
-Uganda,1531,41163,787,21836,5000,First-line supervisors of office and administrative support workers,3,37,0.00169444953288148
-Uganda,1531,41163,787,21836,0350,Medical and health services managers,2,36,0.001648653599560359
-Uganda,1531,41163,787,21836,1450,Materials engineers,1,36,0.001648653599560359
-Uganda,1531,41163,787,21836,8720,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",1,36,0.001648653599560359
-Uganda,1531,41163,787,21836,1010,Computer programmers,2,35,0.0016028576662392379
-Uganda,1531,41163,787,21836,1065,Database administrators and architects,1,35,0.0016028576662392379
-Uganda,1531,41163,787,21836,7200,Automotive service technicians and mechanics,2,34,0.0015570617329181168
-Uganda,1531,41163,787,21836,0410,"Property, real estate, and community association managers",2,33,0.0015112657995969957
-Uganda,1531,41163,787,21836,0830,Credit analysts,2,31,0.0014196739329547536
-Uganda,1531,41163,787,21836,3261,Acupuncturists,1,31,0.0014196739329547536
-Uganda,1531,41163,787,21836,4540,Tour and travel guides,1,31,0.0014196739329547536
-Uganda,1531,41163,787,21836,5420,Other information and records clerks,2,31,0.0014196739329547536
-Uganda,1531,41163,787,21836,2840,Technical writers,2,30,0.0013738779996336325
-Uganda,1531,41163,787,21836,4820,"Securities, commodities, and financial services sales agents",2,30,0.0013738779996336325
-Uganda,1531,41163,787,21836,4920,Real estate brokers and sales agents,3,30,0.0013738779996336325
-Uganda,1531,41163,787,21836,2555,Other educational instruction and library workers,2,29,0.0013280820663125114
-Uganda,1531,41163,787,21836,3640,Dental assistants,1,29,0.0013280820663125114
-Uganda,1531,41163,787,21836,4740,Counter and rental clerks,1,29,0.0013280820663125114
-Uganda,1531,41163,787,21836,4600,Childcare workers,2,28,0.0012822861329913904
-Uganda,1531,41163,787,21836,5250,"Eligibility interviewers, government programs",1,28,0.0012822861329913904
-Uganda,1531,41163,787,21836,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,28,0.0012822861329913904
-Uganda,1531,41163,787,21836,1460,Mechanical engineers,2,26,0.0011906942663491482
-Uganda,1531,41163,787,21836,5165,Other financial clerks,1,26,0.0011906942663491482
-Uganda,1531,41163,787,21836,1650,Other life scientists,1,25,0.0011448983330280271
-Uganda,1531,41163,787,21836,0735,Market research analysts and marketing specialists,1,24,0.001099102399706906
-Uganda,1531,41163,787,21836,1105,Network and computer systems administrators,2,24,0.001099102399706906
-Uganda,1531,41163,787,21836,2011,"Child, family, and school social workers",1,24,0.001099102399706906
-Uganda,1531,41163,787,21836,9645,Stockers and order fillers,2,24,0.001099102399706906
-Uganda,1531,41163,787,21836,2060,"Religious workers, all other",5,23,0.001053306466385785
-Uganda,1531,41163,787,21836,1106,Computer network architects,1,22,0.001007510533064664
-Uganda,1531,41163,787,21836,1305,"Architects, except landscape and naval",1,22,0.001007510533064664
-Uganda,1531,41163,787,21836,8225,Other metal workers and plastic workers,2,22,0.001007510533064664
-Uganda,1531,41163,787,21836,0060,Public relations and fundraising managers,1,21,9.617145997435428e-4
-Uganda,1531,41163,787,21836,1840,Urban and regional planners,1,21,9.617145997435428e-4
-Uganda,1531,41163,787,21836,3515,Medical records specialists,1,21,9.617145997435428e-4
-Uganda,1531,41163,787,21836,3910,Private detectives and investigators,2,21,9.617145997435428e-4
-Uganda,1531,41163,787,21836,5730,Medical secretaries and administrative assistants,1,21,9.617145997435428e-4
-Uganda,1531,41163,787,21836,0705,Project management specialists,2,20,9.159186664224216e-4
-Uganda,1531,41163,787,21836,5900,"Office machine operators, except computer",1,20,9.159186664224216e-4
-Uganda,1531,41163,787,21836,8140,"Welding, soldering, and brazing workers",1,20,9.159186664224216e-4
-Uganda,1531,41163,787,21836,9122,"Bus drivers, transit and intercity",2,20,9.159186664224216e-4
-Uganda,1531,41163,787,21836,3300,Clinical laboratory technologists and technicians,1,19,8.701227331013006e-4
-Uganda,1531,41163,787,21836,0540,"Claims adjusters, appraisers, examiners, and investigators",1,18,8.243267997801795e-4
-Uganda,1531,41163,787,21836,3545,Miscellaneous health technologists and technicians,1,18,8.243267997801795e-4
-Uganda,1531,41163,787,21836,4030,Food preparation workers,1,18,8.243267997801795e-4
-Uganda,1531,41163,787,21836,5160,Tellers,1,18,8.243267997801795e-4
-Uganda,1531,41163,787,21836,0500,"Agents and business managers of artists, performers, and athletes",1,17,7.785308664590584e-4
-Uganda,1531,41163,787,21836,4330,Supervisors of personal care and service workers,1,17,7.785308664590584e-4
-Uganda,1531,41163,787,21836,2100,"Lawyers, and judges, magistrates, and other judicial workers",2,16,7.327349331379373e-4
-Uganda,1531,41163,787,21836,2740,Dancers and choreographers,2,16,7.327349331379373e-4
-Uganda,1531,41163,787,21836,4622,Recreation workers,2,16,7.327349331379373e-4
-Uganda,1531,41163,787,21836,6200,First-line supervisors of construction trades and extraction workers,1,16,7.327349331379373e-4
-Uganda,1531,41163,787,21836,0205,"Farmers, ranchers, and other agricultural managers",1,15,6.869389998168163e-4
-Uganda,1531,41163,787,21836,0300,Architectural and engineering managers,1,15,6.869389998168163e-4
-Uganda,1531,41163,787,21836,1745,"Environmental scientists and specialists, including health",1,15,6.869389998168163e-4
-Uganda,1531,41163,787,21836,4140,Dishwashers,1,15,6.869389998168163e-4
-Uganda,1531,41163,787,21836,4621,Exercise trainers and group fitness instructors,1,15,6.869389998168163e-4
-Uganda,1531,41163,787,21836,5110,Billing and posting clerks,1,15,6.869389998168163e-4
-Uganda,1531,41163,787,21836,0052,Sales managers,2,14,6.411430664956952e-4
-Uganda,1531,41163,787,21836,0726,Fundraisers,1,14,6.411430664956952e-4
-Uganda,1531,41163,787,21836,1800,Economists,1,14,6.411430664956952e-4
-Uganda,1531,41163,787,21836,3010,Dentists,2,14,6.411430664956952e-4
-Uganda,1531,41163,787,21836,7210,Bus and truck mechanics and diesel engine specialists,2,14,6.411430664956952e-4
-Uganda,1531,41163,787,21836,9430,Other transportation workers,1,14,6.411430664956952e-4
-Uganda,1531,41163,787,21836,0640,"Compensation, benefits, and job analysis specialists",1,13,5.953471331745741e-4
-Uganda,1531,41163,787,21836,3430,Dietetic technicians and ophthalmic medical technicians,1,13,5.953471331745741e-4
-Uganda,1531,41163,787,21836,5300,"Hotel, motel, and resort desk clerks",1,13,5.953471331745741e-4
-Uganda,1531,41163,787,21836,1320,Aerospace engineers,1,12,5.49551199853453e-4
-Uganda,1531,41163,787,21836,2012,Healthcare social workers,1,12,5.49551199853453e-4
-Uganda,1531,41163,787,21836,0137,Training and development managers,1,11,5.03755266532332e-4
-Uganda,1531,41163,787,21836,0910,Credit counselors and loan officers,1,11,5.03755266532332e-4
-Uganda,1531,41163,787,21836,1310,"Surveyors, cartographers, and photogrammetrists",1,11,5.03755266532332e-4
-Uganda,1531,41163,787,21836,5100,Bill and account collectors,1,11,5.03755266532332e-4
-Uganda,1531,41163,787,21836,8335,Shoe and leather workers,1,11,5.03755266532332e-4
-Uganda,1531,41163,787,21836,4130,Dining room and cafeteria attendants and bartender helpers,1,10,4.579593332112108e-4
-Uganda,1531,41163,787,21836,9830,"Military, rank not specified",1,10,4.579593332112108e-4
-Uganda,1531,41163,787,21836,5710,Executive secretaries and executive administrative assistants,1,9,4.1216339989008974e-4
-Uganda,1531,41163,787,21836,9760,Other material moving workers,1,9,4.1216339989008974e-4
-Uganda,1531,41163,787,21836,1022,Software quality assurance analysts and testers,1,8,3.6636746656896867e-4
-Uganda,1531,41163,787,21836,1031,Web developers,1,8,3.6636746656896867e-4
-Uganda,1531,41163,787,21836,1910,Biological technicians,1,8,3.6636746656896867e-4
-Uganda,1531,41163,787,21836,2002,"Educational, guidance, and career counselors and advisors",1,8,3.6636746656896867e-4
-Uganda,1531,41163,787,21836,3630,Massage therapists,1,8,3.6636746656896867e-4
-Uganda,1531,41163,787,21836,9810,First-line enlisted military supervisors,1,8,3.6636746656896867e-4
-Uganda,1531,41163,787,21836,2300,Preschool and kindergarten teachers,1,7,3.205715332478476e-4
-Uganda,1531,41163,787,21836,3945,Transportation security screeners,1,7,3.205715332478476e-4
-Uganda,1531,41163,787,21836,3100,Surgeons,1,6,2.747755999267265e-4
-Uganda,1531,41163,787,21836,3220,Respiratory therapists,1,6,2.747755999267265e-4
-Uganda,1531,41163,787,21836,1555,"Other engineering technologists and technicians, except drafters",1,4,1.8318373328448433e-4
-Uganda,1531,41163,787,21836,2723,"Umpires, referees, and other sports officials",1,4,1.8318373328448433e-4
-Uganda,1531,41163,787,21836,1410,Electrical and electronics engineers,1,2,9.159186664224217e-5
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Uganda,1531,41163,881,23591,3602,Personal care aides,53,1739,0.07371455215972193
+Uganda,1531,41163,881,23591,3255,Registered nurses,47,1445,0.06125217243864185
+Uganda,1531,41163,881,23591,3603,Nursing assistants,50,1303,0.055232927811453524
+Uganda,1531,41163,881,23591,9142,Taxi drivers,14,696,0.02950277648255691
+Uganda,1531,41163,881,23591,2040,Clergy,40,676,0.0286549955491501
+Uganda,1531,41163,881,23591,0800,Accountants and auditors,19,577,0.0244584799287864
+Uganda,1531,41163,881,23591,3500,Licensed practical and licensed vocational nurses,14,570,0.02416175660209402
+Uganda,1531,41163,881,23591,4760,Retail salespersons,15,493,0.02089780000847781
+Uganda,1531,41163,881,23591,5740,"Secretaries and administrative assistants, except legal, medical, and executive",12,432,0.018312068161587047
+Uganda,1531,41163,881,23591,4720,Cashiers,11,426,0.018057733881565004
+Uganda,1531,41163,881,23591,9130,Driver/sales workers and truck drivers,13,402,0.017040396761476836
+Uganda,1531,41163,881,23591,3601,Home health aides,11,393,0.016658895341443773
+Uganda,1531,41163,881,23591,3930,Security guards and gaming surveillance officers,11,385,0.016319782968081047
+Uganda,1531,41163,881,23591,8740,"Inspectors, testers, sorters, samplers, and weighers",4,335,0.014200330634564029
+Uganda,1531,41163,881,23591,3421,Pharmacy technicians,4,317,0.013437327794497902
+Uganda,1531,41163,881,23591,9620,"Laborers and freight, stock, and material movers, hand",10,311,0.01318299351447586
+Uganda,1531,41163,881,23591,5240,Customer service representatives,12,310,0.013140604467805518
+Uganda,1531,41163,881,23591,0340,Lodging managers,7,301,0.012759103047772455
+Uganda,1531,41163,881,23591,1530,Other engineers,6,299,0.012674324954431776
+Uganda,1531,41163,881,23591,2205,Postsecondary teachers,17,289,0.01225043448772837
+Uganda,1531,41163,881,23591,7750,Other assemblers and fabricators,8,266,0.011275486414310542
+Uganda,1531,41163,881,23591,0440,Other managers,14,249,0.010554872620914755
+Uganda,1531,41163,881,23591,4700,First-line supervisors of retail sales workers,11,227,0.009622313594167268
+Uganda,1531,41163,881,23591,0010,Chief executives and legislators,11,223,0.009452757407485905
+Uganda,1531,41163,881,23591,1007,Information security analysts,6,217,0.009198423127463863
+Uganda,1531,41163,881,23591,9640,"Packers and packagers, hand",5,212,0.00898647789411216
+Uganda,1531,41163,881,23591,1021,Software developers,8,210,0.008901699800771481
+Uganda,1531,41163,881,23591,3655,Other healthcare support workers,4,208,0.0088169217074308
+Uganda,1531,41163,881,23591,0420,Social and community service managers,6,201,0.008520198380738418
+Uganda,1531,41163,881,23591,4020,Cooks,10,189,0.008011529820694332
+Uganda,1531,41163,881,23591,1350,Chemical engineers,2,176,0.007460472213979908
+Uganda,1531,41163,881,23591,3090,Physicians,10,173,0.007333305073968887
+Uganda,1531,41163,881,23591,4220,Janitors and building cleaners,7,173,0.007333305073968887
+Uganda,1531,41163,881,23591,4920,Real estate brokers and sales agents,8,170,0.0072061379339578655
+Uganda,1531,41163,881,23591,2310,Elementary and middle school teachers,6,166,0.007036581747276504
+Uganda,1531,41163,881,23591,5120,"Bookkeeping, accounting, and auditing clerks",8,165,0.006994192700606163
+Uganda,1531,41163,881,23591,8990,"Miscellaneous production workers, including equipment operators and tenders",6,164,0.006951803653935823
+Uganda,1531,41163,881,23591,0120,Financial managers,8,163,0.006909414607265483
+Uganda,1531,41163,881,23591,7700,First-line supervisors of production and operating workers,3,163,0.006909414607265483
+Uganda,1531,41163,881,23591,2006,"Counselors, all other",2,162,0.006867025560595142
+Uganda,1531,41163,881,23591,2014,"Social workers, all other",7,157,0.0066550803272434405
+Uganda,1531,41163,881,23591,2001,Substance abuse and behavioral disorder counselors,4,154,0.0065279131872324194
+Uganda,1531,41163,881,23591,1760,"Physical scientists, all other",5,153,0.006485524140562079
+Uganda,1531,41163,881,23591,0051,Marketing managers,2,141,0.0059768555805179945
+Uganda,1531,41163,881,23591,0630,Human resources workers,5,136,0.005764910347166292
+Uganda,1531,41163,881,23591,4710,First-line supervisors of non-retail sales workers,3,123,0.005213852740451867
+Uganda,1531,41163,881,23591,2545,Teaching assistants,6,119,0.005044296553770505
+Uganda,1531,41163,881,23591,0110,Computer and information systems managers,3,117,0.004959518460429825
+Uganda,1531,41163,881,23591,7340,"Maintenance and repair workers, general",4,115,0.0048747403670891445
+Uganda,1531,41163,881,23591,1360,Civil engineers,5,111,0.004705184180407783
+Uganda,1531,41163,881,23591,9150,"Motor vehicle operators, all other",5,110,0.004662795133737442
+Uganda,1531,41163,881,23591,0230,Education and childcare administrators,7,107,0.004535627993726421
+Uganda,1531,41163,881,23591,0845,Financial and investment analysts,3,107,0.004535627993726421
+Uganda,1531,41163,881,23591,5610,"Shipping, receiving, and inventory clerks",2,107,0.004535627993726421
+Uganda,1531,41163,881,23591,4120,"Food servers, nonrestaurant",2,106,0.00449323894705608
+Uganda,1531,41163,881,23591,5860,"Office clerks, general",6,105,0.004450849900385741
+Uganda,1531,41163,881,23591,4640,Residential advisors,5,101,0.004281293713704379
+Uganda,1531,41163,881,23591,5400,Receptionists and information clerks,4,99,0.004196515620363698
+Uganda,1531,41163,881,23591,2360,Other teachers and instructors,6,92,0.003899792293671315
+Uganda,1531,41163,881,23591,1006,Computer systems analysts,3,91,0.003857403247000975
+Uganda,1531,41163,881,23591,0710,Management analysts,6,90,0.0038150142003306347
+Uganda,1531,41163,881,23591,1108,"Computer occupations, all other",9,90,0.0038150142003306347
+Uganda,1531,41163,881,23591,5940,Other office and administrative support workers,2,90,0.0038150142003306347
+Uganda,1531,41163,881,23591,8830,Photographic process workers and processing machine operators,1,90,0.0038150142003306347
+Uganda,1531,41163,881,23591,2004,Mental health counselors,5,89,0.003772625153660294
+Uganda,1531,41163,881,23591,4055,Fast food and counter workers,5,89,0.003772625153660294
+Uganda,1531,41163,881,23591,4850,"Sales representatives, wholesale and manufacturing",3,85,0.0036030689669789328
+Uganda,1531,41163,881,23591,9645,Stockers and order fillers,3,83,0.003518290873638252
+Uganda,1531,41163,881,23591,6520,Sheet metal workers,1,80,0.003391123733627231
+Uganda,1531,41163,881,23591,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",5,79,0.00334873468695689
+Uganda,1531,41163,881,23591,2016,Social and human service assistants,11,76,0.003221567546945869
+Uganda,1531,41163,881,23591,2905,Other media and communication equipment workers,3,76,0.003221567546945869
+Uganda,1531,41163,881,23591,3258,"Nurse practitioners, and nurse midwives",2,76,0.003221567546945869
+Uganda,1531,41163,881,23591,2632,Fashion designers,1,73,0.003094400406934848
+Uganda,1531,41163,881,23591,2752,Musicians and singers,2,73,0.003094400406934848
+Uganda,1531,41163,881,23591,2825,Public relations specialists,2,73,0.003094400406934848
+Uganda,1531,41163,881,23591,5410,Reservation and transportation ticket agents and travel clerks,2,72,0.0030520113602645078
+Uganda,1531,41163,881,23591,0750,"Business operations specialists, all other",6,71,0.003009622313594167
+Uganda,1531,41163,881,23591,3050,Pharmacists,5,70,0.002967233266923827
+Uganda,1531,41163,881,23591,3110,Physician assistants,2,70,0.002967233266923827
+Uganda,1531,41163,881,23591,3422,Psychiatric technicians,1,70,0.002967233266923827
+Uganda,1531,41163,881,23591,6260,Construction laborers,2,69,0.0029248442202534867
+Uganda,1531,41163,881,23591,3245,Other therapists,2,68,0.002882455173583146
+Uganda,1531,41163,881,23591,1800,Economists,2,67,0.002840066126912806
+Uganda,1531,41163,881,23591,2710,Producers and directors,1,67,0.002840066126912806
+Uganda,1531,41163,881,23591,5510,Couriers and messengers,2,66,0.002797677080242465
+Uganda,1531,41163,881,23591,6050,Other agricultural workers,2,66,0.002797677080242465
+Uganda,1531,41163,881,23591,4230,Maids and housekeeping cleaners,3,64,0.0027128989869017847
+Uganda,1531,41163,881,23591,8910,Etchers and engravers,1,64,0.0027128989869017847
+Uganda,1531,41163,881,23591,1240,Other mathematical science occupations,2,60,0.002543342800220423
+Uganda,1531,41163,881,23591,4810,Insurance sales agents,2,59,0.0025009537535500828
+Uganda,1531,41163,881,23591,0350,Medical and health services managers,3,57,0.002416175660209402
+Uganda,1531,41163,881,23591,7720,"Electrical, electronics, and electromechanical assemblers",1,57,0.002416175660209402
+Uganda,1531,41163,881,23591,0300,Architectural and engineering managers,3,55,0.002331397566868721
+Uganda,1531,41163,881,23591,4030,Food preparation workers,3,54,0.002289008520198381
+Uganda,1531,41163,881,23591,0310,Food service managers,1,53,0.00224661947352804
+Uganda,1531,41163,881,23591,4510,"Hairdressers, hairstylists, and cosmetologists",2,53,0.00224661947352804
+Uganda,1531,41163,881,23591,0150,Purchasing managers,1,52,0.0022042304268577
+Uganda,1531,41163,881,23591,0220,Construction managers,2,51,0.0021618413801873597
+Uganda,1531,41163,881,23591,2145,Paralegals and legal assistants,2,51,0.0021618413801873597
+Uganda,1531,41163,881,23591,7020,Radio and telecommunications equipment installers and repairers,1,51,0.0021618413801873597
+Uganda,1531,41163,881,23591,1900,Agricultural and food science technicians,1,50,0.002119452333517019
+Uganda,1531,41163,881,23591,5550,Postal service mail carriers,2,49,0.002077063286846679
+Uganda,1531,41163,881,23591,4930,Sales engineers,1,48,0.0020346742401763382
+Uganda,1531,41163,881,23591,1720,Chemists and materials scientists,2,47,0.001992285193505998
+Uganda,1531,41163,881,23591,0425,Emergency management directors,1,45,0.0019075071001653174
+Uganda,1531,41163,881,23591,1460,Mechanical engineers,3,45,0.0019075071001653174
+Uganda,1531,41163,881,23591,3645,Medical assistants,2,45,0.0019075071001653174
+Uganda,1531,41163,881,23591,5810,Data entry keyers,2,45,0.0019075071001653174
+Uganda,1531,41163,881,23591,7010,"Computer, automated teller, and office machine repairers",1,45,0.0019075071001653174
+Uganda,1531,41163,881,23591,7200,Automotive service technicians and mechanics,3,45,0.0019075071001653174
+Uganda,1531,41163,881,23591,9825,Military enlisted tactical operations and air/weapons specialists and crew members,3,45,0.0019075071001653174
+Uganda,1531,41163,881,23591,0020,General and operations managers,2,44,0.001865118053494977
+Uganda,1531,41163,881,23591,4965,"Sales and related workers, all other",3,44,0.001865118053494977
+Uganda,1531,41163,881,23591,1825,Other psychologists,1,43,0.0018227290068246365
+Uganda,1531,41163,881,23591,1970,"Other life, physical, and social science technicians",2,43,0.0018227290068246365
+Uganda,1531,41163,881,23591,7315,"Heating, air conditioning, and refrigeration mechanics and installers",1,43,0.0018227290068246365
+Uganda,1531,41163,881,23591,8320,Sewing machine operators,1,43,0.0018227290068246365
+Uganda,1531,41163,881,23591,3323,Radiologic technologists and technicians,1,42,0.001780339960154296
+Uganda,1531,41163,881,23591,3402,Paramedics,1,42,0.001780339960154296
+Uganda,1531,41163,881,23591,4110,Waiters and waitresses,3,42,0.001780339960154296
+Uganda,1531,41163,881,23591,1050,Computer support specialists,2,41,0.0017379509134839558
+Uganda,1531,41163,881,23591,1220,Operations research analysts,2,41,0.0017379509134839558
+Uganda,1531,41163,881,23591,4655,"Personal care and service workers, all other",1,41,0.0017379509134839558
+Uganda,1531,41163,881,23591,2330,Special education teachers,1,39,0.001653172820143275
+Uganda,1531,41163,881,23591,5310,"Interviewers, except eligibility and loan",2,39,0.001653172820143275
+Uganda,1531,41163,881,23591,1430,"Industrial engineers, including health and safety",1,38,0.0016107837734729345
+Uganda,1531,41163,881,23591,2810,"News analysts, reporters, and journalists",2,38,0.0016107837734729345
+Uganda,1531,41163,881,23591,5000,First-line supervisors of office and administrative support workers,3,37,0.001568394726802594
+Uganda,1531,41163,881,23591,1450,Materials engineers,1,36,0.0015260056801322539
+Uganda,1531,41163,881,23591,8720,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",1,36,0.0015260056801322539
+Uganda,1531,41163,881,23591,1010,Computer programmers,2,35,0.0014836166334619135
+Uganda,1531,41163,881,23591,1065,Database administrators and architects,1,35,0.0014836166334619135
+Uganda,1531,41163,881,23591,2100,"Lawyers, and judges, magistrates, and other judicial workers",3,34,0.001441227586791573
+Uganda,1531,41163,881,23591,0410,"Property, real estate, and community association managers",2,33,0.0013988385401212326
+Uganda,1531,41163,881,23591,0830,Credit analysts,2,31,0.001314060446780552
+Uganda,1531,41163,881,23591,3261,Acupuncturists,1,31,0.001314060446780552
+Uganda,1531,41163,881,23591,4540,Tour and travel guides,1,31,0.001314060446780552
+Uganda,1531,41163,881,23591,5420,Other information and records clerks,2,31,0.001314060446780552
+Uganda,1531,41163,881,23591,2840,Technical writers,2,30,0.0012716714001102115
+Uganda,1531,41163,881,23591,3300,Clinical laboratory technologists and technicians,2,30,0.0012716714001102115
+Uganda,1531,41163,881,23591,4820,"Securities, commodities, and financial services sales agents",2,30,0.0012716714001102115
+Uganda,1531,41163,881,23591,2555,Other educational instruction and library workers,2,29,0.001229282353439871
+Uganda,1531,41163,881,23591,3640,Dental assistants,1,29,0.001229282353439871
+Uganda,1531,41163,881,23591,4740,Counter and rental clerks,1,29,0.001229282353439871
+Uganda,1531,41163,881,23591,4600,Childcare workers,2,28,0.0011868933067695308
+Uganda,1531,41163,881,23591,5250,"Eligibility interviewers, government programs",1,28,0.0011868933067695308
+Uganda,1531,41163,881,23591,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,28,0.0011868933067695308
+Uganda,1531,41163,881,23591,2060,"Religious workers, all other",6,27,0.0011445042600991904
+Uganda,1531,41163,881,23591,5165,Other financial clerks,1,26,0.00110211521342885
+Uganda,1531,41163,881,23591,1650,Other life scientists,1,25,0.0010597261667585095
+Uganda,1531,41163,881,23591,0735,Market research analysts and marketing specialists,1,24,0.0010173371200881691
+Uganda,1531,41163,881,23591,1105,Network and computer systems administrators,2,24,0.0010173371200881691
+Uganda,1531,41163,881,23591,2011,"Child, family, and school social workers",1,24,0.0010173371200881691
+Uganda,1531,41163,881,23591,1106,Computer network architects,1,22,9.325590267474885e-4
+Uganda,1531,41163,881,23591,1305,"Architects, except landscape and naval",1,22,9.325590267474885e-4
+Uganda,1531,41163,881,23591,8225,Other metal workers and plastic workers,2,22,9.325590267474885e-4
+Uganda,1531,41163,881,23591,0060,Public relations and fundraising managers,1,21,8.90169980077148e-4
+Uganda,1531,41163,881,23591,1840,Urban and regional planners,1,21,8.90169980077148e-4
+Uganda,1531,41163,881,23591,3515,Medical records specialists,1,21,8.90169980077148e-4
+Uganda,1531,41163,881,23591,3910,Private detectives and investigators,2,21,8.90169980077148e-4
+Uganda,1531,41163,881,23591,5110,Billing and posting clerks,2,21,8.90169980077148e-4
+Uganda,1531,41163,881,23591,5730,Medical secretaries and administrative assistants,1,21,8.90169980077148e-4
+Uganda,1531,41163,881,23591,0705,Project management specialists,2,20,8.477809334068077e-4
+Uganda,1531,41163,881,23591,5900,"Office machine operators, except computer",1,20,8.477809334068077e-4
+Uganda,1531,41163,881,23591,8140,"Welding, soldering, and brazing workers",1,20,8.477809334068077e-4
+Uganda,1531,41163,881,23591,9122,"Bus drivers, transit and intercity",2,20,8.477809334068077e-4
+Uganda,1531,41163,881,23591,0540,"Claims adjusters, appraisers, examiners, and investigators",1,18,7.630028400661269e-4
+Uganda,1531,41163,881,23591,3100,Surgeons,2,18,7.630028400661269e-4
+Uganda,1531,41163,881,23591,3545,Miscellaneous health technologists and technicians,1,18,7.630028400661269e-4
+Uganda,1531,41163,881,23591,5160,Tellers,1,18,7.630028400661269e-4
+Uganda,1531,41163,881,23591,0500,"Agents and business managers of artists, performers, and athletes",1,17,7.206137933957865e-4
+Uganda,1531,41163,881,23591,4330,Supervisors of personal care and service workers,1,17,7.206137933957865e-4
+Uganda,1531,41163,881,23591,2740,Dancers and choreographers,2,16,6.782247467254462e-4
+Uganda,1531,41163,881,23591,4622,Recreation workers,2,16,6.782247467254462e-4
+Uganda,1531,41163,881,23591,6200,First-line supervisors of construction trades and extraction workers,1,16,6.782247467254462e-4
+Uganda,1531,41163,881,23591,0205,"Farmers, ranchers, and other agricultural managers",1,15,6.358357000551057e-4
+Uganda,1531,41163,881,23591,1745,"Environmental scientists and specialists, including health",1,15,6.358357000551057e-4
+Uganda,1531,41163,881,23591,4140,Dishwashers,1,15,6.358357000551057e-4
+Uganda,1531,41163,881,23591,4621,Exercise trainers and group fitness instructors,1,15,6.358357000551057e-4
+Uganda,1531,41163,881,23591,0052,Sales managers,2,14,5.934466533847654e-4
+Uganda,1531,41163,881,23591,0726,Fundraisers,1,14,5.934466533847654e-4
+Uganda,1531,41163,881,23591,3010,Dentists,2,14,5.934466533847654e-4
+Uganda,1531,41163,881,23591,4251,Landscaping and groundskeeping workers,1,14,5.934466533847654e-4
+Uganda,1531,41163,881,23591,5330,Loan interviewers and clerks,1,14,5.934466533847654e-4
+Uganda,1531,41163,881,23591,7210,Bus and truck mechanics and diesel engine specialists,2,14,5.934466533847654e-4
+Uganda,1531,41163,881,23591,9430,Other transportation workers,1,14,5.934466533847654e-4
+Uganda,1531,41163,881,23591,0640,"Compensation, benefits, and job analysis specialists",1,13,5.51057606714425e-4
+Uganda,1531,41163,881,23591,3430,Dietetic technicians and ophthalmic medical technicians,1,13,5.51057606714425e-4
+Uganda,1531,41163,881,23591,5300,"Hotel, motel, and resort desk clerks",1,13,5.51057606714425e-4
+Uganda,1531,41163,881,23591,1320,Aerospace engineers,1,12,5.086685600440846e-4
+Uganda,1531,41163,881,23591,2012,Healthcare social workers,1,12,5.086685600440846e-4
+Uganda,1531,41163,881,23591,9030,Aircraft pilots and flight engineers,1,12,5.086685600440846e-4
+Uganda,1531,41163,881,23591,0137,Training and development managers,1,11,4.6627951337374423e-4
+Uganda,1531,41163,881,23591,0910,Credit counselors and loan officers,1,11,4.6627951337374423e-4
+Uganda,1531,41163,881,23591,1310,"Surveyors, cartographers, and photogrammetrists",1,11,4.6627951337374423e-4
+Uganda,1531,41163,881,23591,5100,Bill and account collectors,1,11,4.6627951337374423e-4
+Uganda,1531,41163,881,23591,7000,"First-line supervisors of mechanics, installers, and repairers",1,11,4.6627951337374423e-4
+Uganda,1531,41163,881,23591,7640,"Other installation, maintenance, and repair workers",1,11,4.6627951337374423e-4
+Uganda,1531,41163,881,23591,8335,Shoe and leather workers,1,11,4.6627951337374423e-4
+Uganda,1531,41163,881,23591,1541,Architectural and civil drafters,1,10,4.2389046670340385e-4
+Uganda,1531,41163,881,23591,4130,Dining room and cafeteria attendants and bartender helpers,1,10,4.2389046670340385e-4
+Uganda,1531,41163,881,23591,9830,"Military, rank not specified",1,10,4.2389046670340385e-4
+Uganda,1531,41163,881,23591,5710,Executive secretaries and executive administrative assistants,1,9,3.8150142003306347e-4
+Uganda,1531,41163,881,23591,9760,Other material moving workers,1,9,3.8150142003306347e-4
+Uganda,1531,41163,881,23591,1022,Software quality assurance analysts and testers,1,8,3.391123733627231e-4
+Uganda,1531,41163,881,23591,1031,Web developers,1,8,3.391123733627231e-4
+Uganda,1531,41163,881,23591,1910,Biological technicians,1,8,3.391123733627231e-4
+Uganda,1531,41163,881,23591,2002,"Educational, guidance, and career counselors and advisors",1,8,3.391123733627231e-4
+Uganda,1531,41163,881,23591,3630,Massage therapists,1,8,3.391123733627231e-4
+Uganda,1531,41163,881,23591,9810,First-line enlisted military supervisors,1,8,3.391123733627231e-4
+Uganda,1531,41163,881,23591,2300,Preschool and kindergarten teachers,1,7,2.967233266923827e-4
+Uganda,1531,41163,881,23591,3945,Transportation security screeners,1,7,2.967233266923827e-4
+Uganda,1531,41163,881,23591,3220,Respiratory therapists,1,6,2.543342800220423e-4
+Uganda,1531,41163,881,23591,1555,"Other engineering technologists and technicians, except drafters",1,4,1.6955618668136155e-4
+Uganda,1531,41163,881,23591,2723,"Umpires, referees, and other sports officials",1,4,1.6955618668136155e-4
+Uganda,1531,41163,881,23591,1410,Electrical and electronics engineers,1,2,8.477809334068077e-5

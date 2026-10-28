@@ -1,243 +1,246 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Lithuania,1541,34942,862,20605,9130,Driver/sales workers and truck drivers,46,1365,0.06624605678233439
-Lithuania,1541,34942,862,20605,0440,Other managers,32,928,0.045037612230041255
-Lithuania,1541,34942,862,20605,0800,Accountants and auditors,25,733,0.03557388983256491
-Lithuania,1541,34942,862,20605,3255,Registered nurses,26,541,0.026255763164280514
-Lithuania,1541,34942,862,20605,0010,Chief executives and legislators,15,524,0.0254307206988595
-Lithuania,1541,34942,862,20605,1021,Software developers,20,480,0.023295316670710994
-Lithuania,1541,34942,862,20605,4230,Maids and housekeeping cleaners,13,462,0.022421742295559332
-Lithuania,1541,34942,862,20605,0020,General and operations managers,16,385,0.01868478524629944
-Lithuania,1541,34942,862,20605,4010,First-line supervisors of food preparation and serving workers,4,369,0.017908274690609075
-Lithuania,1541,34942,862,20605,0120,Financial managers,12,367,0.01781121087114778
-Lithuania,1541,34942,862,20605,4760,Retail salespersons,16,367,0.01781121087114778
-Lithuania,1541,34942,862,20605,5522,"Dispatchers, except police, fire, and ambulance",5,339,0.016452317398689638
-Lithuania,1541,34942,862,20605,3090,Physicians,18,322,0.015627274933268626
-Lithuania,1541,34942,862,20605,3601,Home health aides,6,291,0.014122785731618539
-Lithuania,1541,34942,862,20605,2205,Postsecondary teachers,15,283,0.013734530453773356
-Lithuania,1541,34942,862,20605,0705,Project management specialists,6,266,0.012909487988352342
-Lithuania,1541,34942,862,20605,5120,"Bookkeeping, accounting, and auditing clerks",8,235,0.011404998786702257
-Lithuania,1541,34942,862,20605,4220,Janitors and building cleaners,8,227,0.011016743508857074
-Lithuania,1541,34942,862,20605,5000,First-line supervisors of office and administrative support workers,9,221,0.010725552050473186
-Lithuania,1541,34942,862,20605,1050,Computer support specialists,6,220,0.010677020140742538
-Lithuania,1541,34942,862,20605,5740,"Secretaries and administrative assistants, except legal, medical, and executive",5,214,0.01038582868235865
-Lithuania,1541,34942,862,20605,0410,"Property, real estate, and community association managers",5,194,0.009415190487745693
-Lithuania,1541,34942,862,20605,0110,Computer and information systems managers,7,192,0.009318126668284398
-Lithuania,1541,34942,862,20605,1240,Other mathematical science occupations,7,189,0.009172530939092453
-Lithuania,1541,34942,862,20605,0220,Construction managers,10,187,0.009075467119631158
-Lithuania,1541,34942,862,20605,4110,Waiters and waitresses,6,187,0.009075467119631158
-Lithuania,1541,34942,862,20605,2600,Artists and related workers,3,183,0.008881339480708565
-Lithuania,1541,34942,862,20605,0630,Human resources workers,9,181,0.00878427566124727
-Lithuania,1541,34942,862,20605,5860,"Office clerks, general",8,179,0.008687211841785974
-Lithuania,1541,34942,862,20605,7200,Automotive service technicians and mechanics,5,170,0.008250424654210144
-Lithuania,1541,34942,862,20605,4710,First-line supervisors of non-retail sales workers,10,168,0.008153360834748847
-Lithuania,1541,34942,862,20605,6260,Construction laborers,8,167,0.008104828925018199
-Lithuania,1541,34942,862,20605,5940,Other office and administrative support workers,5,154,0.0074739140985197764
-Lithuania,1541,34942,862,20605,4600,Childcare workers,6,152,0.007376850279058481
-Lithuania,1541,34942,862,20605,4700,First-line supervisors of retail sales workers,8,152,0.007376850279058481
-Lithuania,1541,34942,862,20605,6230,Carpenters,7,150,0.007279786459597185
-Lithuania,1541,34942,862,20605,1530,Other engineers,10,149,0.007231254549866537
-Lithuania,1541,34942,862,20605,2360,Other teachers and instructors,9,149,0.007231254549866537
-Lithuania,1541,34942,862,20605,4040,Bartenders,5,146,0.007085658820674593
-Lithuania,1541,34942,862,20605,3602,Personal care aides,8,143,0.00694006309148265
-Lithuania,1541,34942,862,20605,2640,Other designers,4,142,0.006891531181752002
-Lithuania,1541,34942,862,20605,0750,"Business operations specialists, all other",5,138,0.00669740354282941
-Lithuania,1541,34942,862,20605,0845,Financial and investment analysts,7,135,0.006551807813637467
-Lithuania,1541,34942,862,20605,4920,Real estate brokers and sales agents,4,132,0.006406212084445523
-Lithuania,1541,34942,862,20605,7700,First-line supervisors of production and operating workers,3,132,0.006406212084445523
-Lithuania,1541,34942,862,20605,4850,"Sales representatives, wholesale and manufacturing",3,128,0.006212084445522932
-Lithuania,1541,34942,862,20605,2310,Elementary and middle school teachers,6,127,0.006163552535792283
-Lithuania,1541,34942,862,20605,4522,Skincare specialists,7,127,0.006163552535792283
-Lithuania,1541,34942,862,20605,0052,Sales managers,2,119,0.0057752972579471
-Lithuania,1541,34942,862,20605,1108,"Computer occupations, all other",3,113,0.005484105799563213
-Lithuania,1541,34942,862,20605,3050,Pharmacists,4,111,0.005387041980101917
-Lithuania,1541,34942,862,20605,7330,Industrial and refractory machinery mechanics,2,111,0.005387041980101917
-Lithuania,1541,34942,862,20605,3930,Security guards and gaming surveillance officers,3,110,0.005338510070371269
-Lithuania,1541,34942,862,20605,1760,"Physical scientists, all other",6,108,0.005241446250909974
-Lithuania,1541,34942,862,20605,4030,Food preparation workers,3,105,0.00509585052171803
-Lithuania,1541,34942,862,20605,5510,Couriers and messengers,4,98,0.004756127153603494
-Lithuania,1541,34942,862,20605,2400,"Archivists, curators, and museum technicians",1,96,0.004659063334142199
-Lithuania,1541,34942,862,20605,5240,Customer service representatives,5,96,0.004659063334142199
-Lithuania,1541,34942,862,20605,1551,Electrical and electronic engineering technologists and technicians,2,94,0.004561999514680903
-Lithuania,1541,34942,862,20605,6355,Electricians,5,93,0.004513467604950255
-Lithuania,1541,34942,862,20605,8990,"Miscellaneous production workers, including equipment operators and tenders",2,93,0.004513467604950255
-Lithuania,1541,34942,862,20605,0350,Medical and health services managers,6,90,0.004367871875758311
-Lithuania,1541,34942,862,20605,3421,Pharmacy technicians,3,90,0.004367871875758311
-Lithuania,1541,34942,862,20605,0140,Industrial production managers,2,89,0.004319339966027663
-Lithuania,1541,34942,862,20605,0230,Education and childcare administrators,8,89,0.004319339966027663
-Lithuania,1541,34942,862,20605,0710,Management analysts,4,89,0.004319339966027663
-Lithuania,1541,34942,862,20605,4810,Insurance sales agents,4,88,0.004270808056297015
-Lithuania,1541,34942,862,20605,3630,Massage therapists,4,83,0.004028148507643776
-Lithuania,1541,34942,862,20605,3010,Dentists,3,80,0.003882552778451832
-Lithuania,1541,34942,862,20605,4020,Cooks,3,78,0.0037854889589905363
-Lithuania,1541,34942,862,20605,0735,Market research analysts and marketing specialists,4,76,0.0036884251395292405
-Lithuania,1541,34942,862,20605,3645,Medical assistants,4,76,0.0036884251395292405
-Lithuania,1541,34942,862,20605,4055,Fast food and counter workers,3,76,0.0036884251395292405
-Lithuania,1541,34942,862,20605,3870,Police officers,2,74,0.0035913613200679447
-Lithuania,1541,34942,862,20605,2910,Photographers,3,70,0.003397233681145353
-Lithuania,1541,34942,862,20605,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,70,0.003397233681145353
-Lithuania,1541,34942,862,20605,0420,Social and community service managers,3,68,0.0033001698616840574
-Lithuania,1541,34942,862,20605,1555,"Other engineering technologists and technicians, except drafters",3,68,0.0033001698616840574
-Lithuania,1541,34942,862,20605,7130,Security and fire alarm systems installers,1,68,0.0033001698616840574
-Lithuania,1541,34942,862,20605,0565,Compliance officers,2,67,0.0032516379519534093
-Lithuania,1541,34942,862,20605,4510,"Hairdressers, hairstylists, and cosmetologists",5,66,0.0032031060422227616
-Lithuania,1541,34942,862,20605,0051,Marketing managers,2,65,0.0031545741324921135
-Lithuania,1541,34942,862,20605,8750,Jewelers and precious stone and metal workers,8,63,0.0030575103130308177
-Lithuania,1541,34942,862,20605,9620,"Laborers and freight, stock, and material movers, hand",5,63,0.0030575103130308177
-Lithuania,1541,34942,862,20605,7150,Automotive body and related repairers,3,62,0.00300897840330017
-Lithuania,1541,34942,862,20605,0310,Food service managers,4,61,0.002960446493569522
-Lithuania,1541,34942,862,20605,1105,Network and computer systems administrators,3,61,0.002960446493569522
-Lithuania,1541,34942,862,20605,4750,Parts salespersons,2,60,0.002911914583838874
-Lithuania,1541,34942,862,20605,6410,Painters and paperhangers,3,59,0.002863382674108226
-Lithuania,1541,34942,862,20605,0910,Credit counselors and loan officers,2,58,0.0028148507643775784
-Lithuania,1541,34942,862,20605,2320,Secondary school teachers,4,57,0.0027663188546469303
-Lithuania,1541,34942,862,20605,1106,Computer network architects,4,56,0.0027177869449162826
-Lithuania,1541,34942,862,20605,3245,Other therapists,4,56,0.0027177869449162826
-Lithuania,1541,34942,862,20605,4622,Recreation workers,6,54,0.002620723125454987
-Lithuania,1541,34942,862,20605,7800,Bakers,1,53,0.0025721912157243387
-Lithuania,1541,34942,862,20605,4000,Chefs and head cooks,3,52,0.002523659305993691
-Lithuania,1541,34942,862,20605,4720,Cashiers,3,51,0.002475127396263043
-Lithuania,1541,34942,862,20605,3603,Nursing assistants,4,50,0.0024265954865323952
-Lithuania,1541,34942,862,20605,1010,Computer programmers,3,49,0.002378063576801747
-Lithuania,1541,34942,862,20605,2100,"Lawyers, and judges, magistrates, and other judicial workers",3,48,0.0023295316670710994
-Lithuania,1541,34942,862,20605,1410,Electrical and electronics engineers,3,47,0.0022809997573404513
-Lithuania,1541,34942,862,20605,3160,Physical therapists,3,47,0.0022809997573404513
-Lithuania,1541,34942,862,20605,3150,Occupational therapists,2,46,0.0022324678476098037
-Lithuania,1541,34942,862,20605,9645,Stockers and order fillers,3,46,0.0022324678476098037
-Lithuania,1541,34942,862,20605,7340,"Maintenance and repair workers, general",3,45,0.0021839359378791555
-Lithuania,1541,34942,862,20605,3940,Crossing guards and flaggers,1,44,0.0021354040281485074
-Lithuania,1541,34942,862,20605,1700,Astronomers and physicists,1,43,0.0020868721184178598
-Lithuania,1541,34942,862,20605,2002,"Educational, guidance, and career counselors and advisors",1,43,0.0020868721184178598
-Lithuania,1541,34942,862,20605,6050,Other agricultural workers,2,43,0.0020868721184178598
-Lithuania,1541,34942,862,20605,7120,Electronic home entertainment equipment installers and repairers,2,43,0.0020868721184178598
-Lithuania,1541,34942,862,20605,1460,Mechanical engineers,2,42,0.0020383402086872116
-Lithuania,1541,34942,862,20605,2060,"Religious workers, all other",1,42,0.0020383402086872116
-Lithuania,1541,34942,862,20605,4621,Exercise trainers and group fitness instructors,3,42,0.0020383402086872116
-Lithuania,1541,34942,862,20605,9610,Cleaners of vehicles and equipment,3,42,0.0020383402086872116
-Lithuania,1541,34942,862,20605,2636,Merchandise displayers and window trimmers,1,40,0.001941276389225916
-Lithuania,1541,34942,862,20605,2905,Other media and communication equipment workers,1,39,0.0018927444794952682
-Lithuania,1541,34942,862,20605,1340,Biomedical and agricultural engineers,2,38,0.0018442125697646203
-Lithuania,1541,34942,862,20605,3720,First-line supervisors of firefighting and prevention workers,1,38,0.0018442125697646203
-Lithuania,1541,34942,862,20605,5110,Billing and posting clerks,1,37,0.0017956806600339724
-Lithuania,1541,34942,862,20605,7430,Precision instrument and equipment repairers,1,37,0.0017956806600339724
-Lithuania,1541,34942,862,20605,9141,Shuttle drivers and chauffeurs,2,37,0.0017956806600339724
-Lithuania,1541,34942,862,20605,1320,Aerospace engineers,2,36,0.0017471487503033245
-Lithuania,1541,34942,862,20605,0340,Lodging managers,3,35,0.0016986168405726766
-Lithuania,1541,34942,862,20605,3620,Physical therapist assistants and aides,3,35,0.0016986168405726766
-Lithuania,1541,34942,862,20605,3220,Respiratory therapists,1,33,0.0016015530211113808
-Lithuania,1541,34942,862,20605,3323,Radiologic technologists and technicians,1,33,0.0016015530211113808
-Lithuania,1541,34942,862,20605,3640,Dental assistants,3,33,0.0016015530211113808
-Lithuania,1541,34942,862,20605,5710,Executive secretaries and executive administrative assistants,2,33,0.0016015530211113808
-Lithuania,1541,34942,862,20605,1360,Civil engineers,2,32,0.001553021111380733
-Lithuania,1541,34942,862,20605,1720,Chemists and materials scientists,2,32,0.001553021111380733
-Lithuania,1541,34942,862,20605,4200,First-line supervisors of housekeeping and janitorial workers,3,32,0.001553021111380733
-Lithuania,1541,34942,862,20605,5160,Tellers,1,32,0.001553021111380733
-Lithuania,1541,34942,862,20605,5400,Receptionists and information clerks,2,32,0.001553021111380733
-Lithuania,1541,34942,862,20605,7905,Computer numerically controlled tool operators and programmers,2,32,0.001553021111380733
-Lithuania,1541,34942,862,20605,1430,"Industrial engineers, including health and safety",2,31,0.001504489201650085
-Lithuania,1541,34942,862,20605,2635,Interior designers,2,31,0.001504489201650085
-Lithuania,1541,34942,862,20605,1650,Other life scientists,2,30,0.001455957291919437
-Lithuania,1541,34942,862,20605,2300,Preschool and kindergarten teachers,2,30,0.001455957291919437
-Lithuania,1541,34942,862,20605,4530,"Baggage porters, bellhops, and concierges",1,30,0.001455957291919437
-Lithuania,1541,34942,862,20605,2040,Clergy,2,29,0.0014074253821887892
-Lithuania,1541,34942,862,20605,3330,Nuclear medicine technologists and medical dosimetrists,1,29,0.0014074253821887892
-Lithuania,1541,34942,862,20605,1980,Occupational health and safety specialists and technicians,2,28,0.0013588934724581413
-Lithuania,1541,34942,862,20605,2840,Technical writers,1,28,0.0013588934724581413
-Lithuania,1541,34942,862,20605,4525,Other personal appearance workers,1,28,0.0013588934724581413
-Lithuania,1541,34942,862,20605,4540,Tour and travel guides,1,28,0.0013588934724581413
-Lithuania,1541,34942,862,20605,4930,Sales engineers,2,28,0.0013588934724581413
-Lithuania,1541,34942,862,20605,6240,"Carpet, floor, and tile installers and finishers",1,28,0.0013588934724581413
-Lithuania,1541,34942,862,20605,7315,"Heating, air conditioning, and refrigeration mechanics and installers",1,28,0.0013588934724581413
-Lithuania,1541,34942,862,20605,0940,Tax preparers,1,27,0.0013103615627274934
-Lithuania,1541,34942,862,20605,1007,Information security analysts,2,27,0.0013103615627274934
-Lithuania,1541,34942,862,20605,1065,Database administrators and architects,2,27,0.0013103615627274934
-Lithuania,1541,34942,862,20605,1305,"Architects, except landscape and naval",2,27,0.0013103615627274934
-Lithuania,1541,34942,862,20605,1825,Other psychologists,2,27,0.0013103615627274934
-Lithuania,1541,34942,862,20605,6200,First-line supervisors of construction trades and extraction workers,2,27,0.0013103615627274934
-Lithuania,1541,34942,862,20605,2545,Teaching assistants,2,26,0.0012618296529968455
-Lithuania,1541,34942,862,20605,7140,Aircraft mechanics and service technicians,1,26,0.0012618296529968455
-Lithuania,1541,34942,862,20605,3258,"Nurse practitioners, and nurse midwives",3,25,0.0012132977432661976
-Lithuania,1541,34942,862,20605,6530,Structural iron and steel workers,1,25,0.0012132977432661976
-Lithuania,1541,34942,862,20605,8225,Other metal workers and plastic workers,2,25,0.0012132977432661976
-Lithuania,1541,34942,862,20605,8320,Sewing machine operators,1,25,0.0012132977432661976
-Lithuania,1541,34942,862,20605,2920,"Television, video, and film camera operators and editors",1,24,0.0011647658335355497
-Lithuania,1541,34942,862,20605,4130,Dining room and cafeteria attendants and bartender helpers,1,24,0.0011647658335355497
-Lithuania,1541,34942,862,20605,8950,Helpers--production workers,2,24,0.0011647658335355497
-Lithuania,1541,34942,862,20605,0205,"Farmers, ranchers, and other agricultural managers",1,23,0.0011162339238049018
-Lithuania,1541,34942,862,20605,3648,Veterinary assistants and laboratory animal caretakers,1,23,0.0011162339238049018
-Lithuania,1541,34942,862,20605,4655,"Personal care and service workers, all other",1,23,0.0011162339238049018
-Lithuania,1541,34942,862,20605,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,23,0.0011162339238049018
-Lithuania,1541,34942,862,20605,8740,"Inspectors, testers, sorters, samplers, and weighers",1,23,0.0011162339238049018
-Lithuania,1541,34942,862,20605,0850,Personal financial advisors,1,22,0.0010677020140742537
-Lithuania,1541,34942,862,20605,3550,Other healthcare practitioners and technical occupations,1,22,0.0010677020140742537
-Lithuania,1541,34942,862,20605,5165,Other financial clerks,1,22,0.0010677020140742537
-Lithuania,1541,34942,862,20605,5560,"Postal service mail sorters, processors, and processing machine operators",2,22,0.0010677020140742537
-Lithuania,1541,34942,862,20605,0530,"Purchasing agents, except wholesale, retail, and farm products",1,21,0.0010191701043436058
-Lithuania,1541,34942,862,20605,0700,Logisticians,2,21,0.0010191701043436058
-Lithuania,1541,34942,862,20605,1420,Environmental engineers,1,21,0.0010191701043436058
-Lithuania,1541,34942,862,20605,2850,Writers and authors,1,21,0.0010191701043436058
-Lithuania,1541,34942,862,20605,3000,Chiropractors,1,21,0.0010191701043436058
-Lithuania,1541,34942,862,20605,7750,Other assemblers and fabricators,2,21,0.0010191701043436058
-Lithuania,1541,34942,862,20605,8255,Printing press operators,1,21,0.0010191701043436058
-Lithuania,1541,34942,862,20605,0960,Other financial specialists,1,20,9.70638194612958e-4
-Lithuania,1541,34942,862,20605,2145,Paralegals and legal assistants,2,20,9.70638194612958e-4
-Lithuania,1541,34942,862,20605,9150,"Motor vehicle operators, all other",1,20,9.70638194612958e-4
-Lithuania,1541,34942,862,20605,0520,"Wholesale and retail buyers, except farm products",1,19,9.221062848823101e-4
-Lithuania,1541,34942,862,20605,3310,Dental hygienists,2,19,9.221062848823101e-4
-Lithuania,1541,34942,862,20605,3322,Diagnostic medical sonographers,1,19,9.221062848823101e-4
-Lithuania,1541,34942,862,20605,0300,Architectural and engineering managers,2,18,8.735743751516622e-4
-Lithuania,1541,34942,862,20605,3500,Licensed practical and licensed vocational nurses,2,17,8.250424654210143e-4
-Lithuania,1541,34942,862,20605,3520,"Opticians, dispensing",1,17,8.250424654210143e-4
-Lithuania,1541,34942,862,20605,4820,"Securities, commodities, and financial services sales agents",1,17,8.250424654210143e-4
-Lithuania,1541,34942,862,20605,5810,Data entry keyers,2,17,8.250424654210143e-4
-Lithuania,1541,34942,862,20605,1860,Other social scientists,1,16,7.765105556903664e-4
-Lithuania,1541,34942,862,20605,2006,"Counselors, all other",1,16,7.765105556903664e-4
-Lithuania,1541,34942,862,20605,2015,Probation officers and correctional treatment specialists,1,16,7.765105556903664e-4
-Lithuania,1541,34942,862,20605,5550,Postal service mail carriers,1,16,7.765105556903664e-4
-Lithuania,1541,34942,862,20605,9830,"Military, rank not specified",1,16,7.765105556903664e-4
-Lithuania,1541,34942,862,20605,0160,"Transportation, storage, and distribution managers",1,15,7.279786459597186e-4
-Lithuania,1541,34942,862,20605,3960,Other protective service workers,1,15,7.279786459597186e-4
-Lithuania,1541,34942,862,20605,5150,Procurement clerks,1,15,7.279786459597186e-4
-Lithuania,1541,34942,862,20605,7010,"Computer, automated teller, and office machine repairers",1,15,7.279786459597186e-4
-Lithuania,1541,34942,862,20605,7210,Bus and truck mechanics and diesel engine specialists,1,15,7.279786459597186e-4
-Lithuania,1541,34942,862,20605,3655,Other healthcare support workers,1,14,6.794467362290707e-4
-Lithuania,1541,34942,862,20605,5230,"Credit authorizers, checkers, and clerks",1,14,6.794467362290707e-4
-Lithuania,1541,34942,862,20605,5540,Postal service clerks,1,14,6.794467362290707e-4
-Lithuania,1541,34942,862,20605,9005,Supervisors of transportation and material moving workers,1,14,6.794467362290707e-4
-Lithuania,1541,34942,862,20605,9640,"Packers and packagers, hand",1,14,6.794467362290707e-4
-Lithuania,1541,34942,862,20605,0102,Facilities managers,1,13,6.309148264984228e-4
-Lithuania,1541,34942,862,20605,0725,"Meeting, convention, and event planners",1,13,6.309148264984228e-4
-Lithuania,1541,34942,862,20605,0726,Fundraisers,1,13,6.309148264984228e-4
-Lithuania,1541,34942,862,20605,1450,Materials engineers,1,13,6.309148264984228e-4
-Lithuania,1541,34942,862,20605,9121,"Bus drivers, school",1,13,6.309148264984228e-4
-Lithuania,1541,34942,862,20605,2001,Substance abuse and behavioral disorder counselors,1,12,5.823829167677749e-4
-Lithuania,1541,34942,862,20605,3423,Surgical technologists,1,12,5.823829167677749e-4
-Lithuania,1541,34942,862,20605,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",1,12,5.823829167677749e-4
-Lithuania,1541,34942,862,20605,9030,Aircraft pilots and flight engineers,1,12,5.823829167677749e-4
-Lithuania,1541,34942,862,20605,0600,Cost estimators,1,11,5.338510070371269e-4
-Lithuania,1541,34942,862,20605,1545,Other drafters,1,11,5.338510070371269e-4
-Lithuania,1541,34942,862,20605,2012,Healthcare social workers,1,11,5.338510070371269e-4
-Lithuania,1541,34942,862,20605,2170,"Title examiners, abstractors, and searchers",1,11,5.338510070371269e-4
-Lithuania,1541,34942,862,20605,2752,Musicians and singers,1,11,5.338510070371269e-4
-Lithuania,1541,34942,862,20605,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,11,5.338510070371269e-4
-Lithuania,1541,34942,862,20605,9410,Transportation inspectors,1,11,5.338510070371269e-4
-Lithuania,1541,34942,862,20605,2330,Special education teachers,1,10,4.85319097306479e-4
-Lithuania,1541,34942,862,20605,2350,Tutors,1,10,4.85319097306479e-4
-Lithuania,1541,34942,862,20605,6250,"Cement masons, concrete finishers, and terrazzo workers",1,10,4.85319097306479e-4
-Lithuania,1541,34942,862,20605,6305,Construction equipment operators,1,10,4.85319097306479e-4
-Lithuania,1541,34942,862,20605,6442,"Plumbers, pipefitters, and steamfitters",1,10,4.85319097306479e-4
-Lithuania,1541,34942,862,20605,8800,Packaging and filling machine operators and tenders,1,10,4.85319097306479e-4
-Lithuania,1541,34942,862,20605,1220,Operations research analysts,1,9,4.367871875758311e-4
-Lithuania,1541,34942,862,20605,3261,Acupuncturists,1,9,4.367871875758311e-4
-Lithuania,1541,34942,862,20605,3270,"Healthcare diagnosing or treating practitioners, all other",1,9,4.367871875758311e-4
-Lithuania,1541,34942,862,20605,3725,"Miscellaneous first-line supervisors, protective service workers",1,9,4.367871875758311e-4
-Lithuania,1541,34942,862,20605,0136,Human resources managers,1,8,3.882552778451832e-4
-Lithuania,1541,34942,862,20605,3300,Clinical laboratory technologists and technicians,1,8,3.882552778451832e-4
-Lithuania,1541,34942,862,20605,4251,Landscaping and groundskeeping workers,1,8,3.882552778451832e-4
-Lithuania,1541,34942,862,20605,7410,Electrical power-line installers and repairers,1,8,3.882552778451832e-4
-Lithuania,1541,34942,862,20605,2014,"Social workers, all other",1,7,3.3972336811453533e-4
-Lithuania,1541,34942,862,20605,5100,Bill and account collectors,1,7,3.3972336811453533e-4
-Lithuania,1541,34942,862,20605,2770,"Entertainers and performers, sports and related workers, all other",1,6,2.9119145838388743e-4
-Lithuania,1541,34942,862,20605,3801,Bailiffs,1,6,2.9119145838388743e-4
-Lithuania,1541,34942,862,20605,5350,Correspondence clerks and order clerks,1,4,1.941276389225916e-4
-Lithuania,1541,34942,862,20605,1970,"Other life, physical, and social science technicians",1,2,9.70638194612958e-5
-Lithuania,1541,34942,862,20605,2722,Coaches and scouts,1,2,9.70638194612958e-5
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Lithuania,1541,34942,929,21999,9130,Driver/sales workers and truck drivers,47,1370,0.06227555797990818
+Lithuania,1541,34942,929,21999,0440,Other managers,34,967,0.04395654347924906
+Lithuania,1541,34942,929,21999,0800,Accountants and auditors,25,733,0.03331969634983408
+Lithuania,1541,34942,929,21999,3255,Registered nurses,27,555,0.025228419473612436
+Lithuania,1541,34942,929,21999,0010,Chief executives and legislators,15,524,0.023819264512023274
+Lithuania,1541,34942,929,21999,1021,Software developers,20,480,0.021819173598799944
+Lithuania,1541,34942,929,21999,4230,Maids and housekeeping cleaners,13,462,0.021000954588844947
+Lithuania,1541,34942,929,21999,0020,General and operations managers,16,385,0.017500795490704123
+Lithuania,1541,34942,929,21999,3090,Physicians,22,370,0.016818946315741625
+Lithuania,1541,34942,929,21999,4010,First-line supervisors of food preparation and serving workers,4,369,0.01677348970407746
+Lithuania,1541,34942,929,21999,0120,Financial managers,12,367,0.016682576480749126
+Lithuania,1541,34942,929,21999,4760,Retail salespersons,16,367,0.016682576480749126
+Lithuania,1541,34942,929,21999,5522,"Dispatchers, except police, fire, and ambulance",5,339,0.015409791354152462
+Lithuania,1541,34942,929,21999,3602,Personal care aides,18,319,0.01450065912086913
+Lithuania,1541,34942,929,21999,3601,Home health aides,8,310,0.014091549615891631
+Lithuania,1541,34942,929,21999,2205,Postsecondary teachers,15,283,0.012864221100959134
+Lithuania,1541,34942,929,21999,0705,Project management specialists,6,266,0.012091458702668303
+Lithuania,1541,34942,929,21999,4220,Janitors and building cleaners,11,266,0.012091458702668303
+Lithuania,1541,34942,929,21999,6260,Construction laborers,9,254,0.011545979362698305
+Lithuania,1541,34942,929,21999,1108,"Computer occupations, all other",5,243,0.011045956634392472
+Lithuania,1541,34942,929,21999,5120,"Bookkeeping, accounting, and auditing clerks",9,241,0.010955043411064139
+Lithuania,1541,34942,929,21999,5740,"Secretaries and administrative assistants, except legal, medical, and executive",6,236,0.010727760352743306
+Lithuania,1541,34942,929,21999,5000,First-line supervisors of office and administrative support workers,10,226,0.010273194236101641
+Lithuania,1541,34942,929,21999,5240,Customer service representatives,8,223,0.010136824401109142
+Lithuania,1541,34942,929,21999,1050,Computer support specialists,6,220,0.010000454566116642
+Lithuania,1541,34942,929,21999,2600,Artists and related workers,4,197,0.00895495249784081
+Lithuania,1541,34942,929,21999,0410,"Property, real estate, and community association managers",5,194,0.008818582662848311
+Lithuania,1541,34942,929,21999,5860,"Office clerks, general",9,194,0.008818582662848311
+Lithuania,1541,34942,929,21999,0110,Computer and information systems managers,7,192,0.008727669439519978
+Lithuania,1541,34942,929,21999,1240,Other mathematical science occupations,7,189,0.008591299604527479
+Lithuania,1541,34942,929,21999,0220,Construction managers,10,187,0.008500386381199146
+Lithuania,1541,34942,929,21999,4110,Waiters and waitresses,6,187,0.008500386381199146
+Lithuania,1541,34942,929,21999,0630,Human resources workers,9,181,0.008227646711214147
+Lithuania,1541,34942,929,21999,6230,Carpenters,8,179,0.008136733487885814
+Lithuania,1541,34942,929,21999,5940,Other office and administrative support workers,6,171,0.007773080594572481
+Lithuania,1541,34942,929,21999,4700,First-line supervisors of retail sales workers,9,170,0.007727623982908314
+Lithuania,1541,34942,929,21999,7200,Automotive service technicians and mechanics,5,170,0.007727623982908314
+Lithuania,1541,34942,929,21999,4710,First-line supervisors of non-retail sales workers,10,168,0.007636710759579981
+Lithuania,1541,34942,929,21999,4600,Childcare workers,7,160,0.007273057866266648
+Lithuania,1541,34942,929,21999,1530,Other engineers,11,158,0.007182144642938315
+Lithuania,1541,34942,929,21999,2360,Other teachers and instructors,9,149,0.0067730351379608165
+Lithuania,1541,34942,929,21999,4040,Bartenders,5,146,0.006636665302968317
+Lithuania,1541,34942,929,21999,2640,Other designers,4,142,0.00645483885631165
+Lithuania,1541,34942,929,21999,3930,Security guards and gaming surveillance officers,4,142,0.00645483885631165
+Lithuania,1541,34942,929,21999,4920,Real estate brokers and sales agents,5,140,0.006363925632983317
+Lithuania,1541,34942,929,21999,0750,"Business operations specialists, all other",5,138,0.006273012409654984
+Lithuania,1541,34942,929,21999,6355,Electricians,7,138,0.006273012409654984
+Lithuania,1541,34942,929,21999,0845,Financial and investment analysts,7,135,0.006136642574662485
+Lithuania,1541,34942,929,21999,7700,First-line supervisors of production and operating workers,3,132,0.006000272739669985
+Lithuania,1541,34942,929,21999,4850,"Sales representatives, wholesale and manufacturing",3,128,0.005818446293013319
+Lithuania,1541,34942,929,21999,2310,Elementary and middle school teachers,6,127,0.0057729896813491525
+Lithuania,1541,34942,929,21999,4522,Skincare specialists,7,127,0.0057729896813491525
+Lithuania,1541,34942,929,21999,0052,Sales managers,2,119,0.00540933678803582
+Lithuania,1541,34942,929,21999,8990,"Miscellaneous production workers, including equipment operators and tenders",3,115,0.0052275103413791536
+Lithuania,1541,34942,929,21999,1010,Computer programmers,4,111,0.0050456838947224875
+Lithuania,1541,34942,929,21999,3050,Pharmacists,4,111,0.0050456838947224875
+Lithuania,1541,34942,929,21999,7330,Industrial and refractory machinery mechanics,2,111,0.0050456838947224875
+Lithuania,1541,34942,929,21999,1760,"Physical scientists, all other",6,108,0.004909314059729988
+Lithuania,1541,34942,929,21999,3010,Dentists,5,107,0.0048638574480658215
+Lithuania,1541,34942,929,21999,4030,Food preparation workers,3,105,0.0047729442247374885
+Lithuania,1541,34942,929,21999,5510,Couriers and messengers,4,98,0.004454747943088322
+Lithuania,1541,34942,929,21999,2400,"Archivists, curators, and museum technicians",1,96,0.004363834719759989
+Lithuania,1541,34942,929,21999,1551,Electrical and electronic engineering technologists and technicians,2,94,0.004272921496431656
+Lithuania,1541,34942,929,21999,0350,Medical and health services managers,6,90,0.00409109504977499
+Lithuania,1541,34942,929,21999,3421,Pharmacy technicians,3,90,0.00409109504977499
+Lithuania,1541,34942,929,21999,0140,Industrial production managers,2,89,0.0040456384381108235
+Lithuania,1541,34942,929,21999,0230,Education and childcare administrators,8,89,0.0040456384381108235
+Lithuania,1541,34942,929,21999,0710,Management analysts,4,89,0.0040456384381108235
+Lithuania,1541,34942,929,21999,4055,Fast food and counter workers,4,89,0.0040456384381108235
+Lithuania,1541,34942,929,21999,4810,Insurance sales agents,4,88,0.004000181826446657
+Lithuania,1541,34942,929,21999,3630,Massage therapists,4,83,0.003772898768125824
+Lithuania,1541,34942,929,21999,4020,Cooks,3,78,0.003545615709804991
+Lithuania,1541,34942,929,21999,0735,Market research analysts and marketing specialists,4,76,0.003454702486476658
+Lithuania,1541,34942,929,21999,3645,Medical assistants,4,76,0.003454702486476658
+Lithuania,1541,34942,929,21999,9620,"Laborers and freight, stock, and material movers, hand",6,75,0.0034092458748124915
+Lithuania,1541,34942,929,21999,3870,Police officers,2,74,0.003363789263148325
+Lithuania,1541,34942,929,21999,7315,"Heating, air conditioning, and refrigeration mechanics and installers",2,73,0.0033183326514841585
+Lithuania,1541,34942,929,21999,2910,Photographers,3,70,0.0031819628164916586
+Lithuania,1541,34942,929,21999,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,70,0.0031819628164916586
+Lithuania,1541,34942,929,21999,0420,Social and community service managers,3,68,0.0030910495931633255
+Lithuania,1541,34942,929,21999,1555,"Other engineering technologists and technicians, except drafters",3,68,0.0030910495931633255
+Lithuania,1541,34942,929,21999,2320,Secondary school teachers,5,68,0.0030910495931633255
+Lithuania,1541,34942,929,21999,7130,Security and fire alarm systems installers,1,68,0.0030910495931633255
+Lithuania,1541,34942,929,21999,0565,Compliance officers,2,67,0.003045592981499159
+Lithuania,1541,34942,929,21999,2100,"Lawyers, and judges, magistrates, and other judicial workers",4,67,0.003045592981499159
+Lithuania,1541,34942,929,21999,7800,Bakers,2,67,0.003045592981499159
+Lithuania,1541,34942,929,21999,4510,"Hairdressers, hairstylists, and cosmetologists",5,66,0.0030001363698349925
+Lithuania,1541,34942,929,21999,0051,Marketing managers,2,65,0.002954679758170826
+Lithuania,1541,34942,929,21999,8750,Jewelers and precious stone and metal workers,8,63,0.002863766534842493
+Lithuania,1541,34942,929,21999,7150,Automotive body and related repairers,3,62,0.0028183099231783265
+Lithuania,1541,34942,929,21999,0310,Food service managers,4,61,0.0027728533115141596
+Lithuania,1541,34942,929,21999,1105,Network and computer systems administrators,3,61,0.0027728533115141596
+Lithuania,1541,34942,929,21999,1305,"Architects, except landscape and naval",3,61,0.0027728533115141596
+Lithuania,1541,34942,929,21999,4750,Parts salespersons,2,60,0.002727396699849993
+Lithuania,1541,34942,929,21999,6410,Painters and paperhangers,3,59,0.0026819400881858265
+Lithuania,1541,34942,929,21999,0910,Credit counselors and loan officers,2,58,0.00263648347652166
+Lithuania,1541,34942,929,21999,1106,Computer network architects,4,56,0.002545570253193327
+Lithuania,1541,34942,929,21999,3245,Other therapists,4,56,0.002545570253193327
+Lithuania,1541,34942,929,21999,2752,Musicians and singers,3,55,0.0025001136415291605
+Lithuania,1541,34942,929,21999,4622,Recreation workers,6,54,0.002454657029864994
+Lithuania,1541,34942,929,21999,1825,Other psychologists,3,53,0.0024092004182008275
+Lithuania,1541,34942,929,21999,4000,Chefs and head cooks,3,52,0.0023637438065366606
+Lithuania,1541,34942,929,21999,4720,Cashiers,3,51,0.002318287194872494
+Lithuania,1541,34942,929,21999,3603,Nursing assistants,4,50,0.0022728305832083275
+Lithuania,1541,34942,929,21999,8320,Sewing machine operators,2,50,0.0022728305832083275
+Lithuania,1541,34942,929,21999,1410,Electrical and electronics engineers,3,47,0.002136460748215828
+Lithuania,1541,34942,929,21999,3160,Physical therapists,3,47,0.002136460748215828
+Lithuania,1541,34942,929,21999,2545,Teaching assistants,3,46,0.0020910041365516615
+Lithuania,1541,34942,929,21999,3150,Occupational therapists,2,46,0.0020910041365516615
+Lithuania,1541,34942,929,21999,9645,Stockers and order fillers,3,46,0.0020910041365516615
+Lithuania,1541,34942,929,21999,7340,"Maintenance and repair workers, general",3,45,0.002045547524887495
+Lithuania,1541,34942,929,21999,3940,Crossing guards and flaggers,1,44,0.0020000909132233285
+Lithuania,1541,34942,929,21999,1700,Astronomers and physicists,1,43,0.001954634301559162
+Lithuania,1541,34942,929,21999,2002,"Educational, guidance, and career counselors and advisors",1,43,0.001954634301559162
+Lithuania,1541,34942,929,21999,3258,"Nurse practitioners, and nurse midwives",4,43,0.001954634301559162
+Lithuania,1541,34942,929,21999,6050,Other agricultural workers,2,43,0.001954634301559162
+Lithuania,1541,34942,929,21999,7120,Electronic home entertainment equipment installers and repairers,2,43,0.001954634301559162
+Lithuania,1541,34942,929,21999,1460,Mechanical engineers,2,42,0.0019091776898949953
+Lithuania,1541,34942,929,21999,2060,"Religious workers, all other",1,42,0.0019091776898949953
+Lithuania,1541,34942,929,21999,4621,Exercise trainers and group fitness instructors,3,42,0.0019091776898949953
+Lithuania,1541,34942,929,21999,9610,Cleaners of vehicles and equipment,3,42,0.0019091776898949953
+Lithuania,1541,34942,929,21999,2300,Preschool and kindergarten teachers,3,40,0.001818264466566662
+Lithuania,1541,34942,929,21999,2636,Merchandise displayers and window trimmers,1,40,0.001818264466566662
+Lithuania,1541,34942,929,21999,5400,Receptionists and information clerks,3,40,0.001818264466566662
+Lithuania,1541,34942,929,21999,2905,Other media and communication equipment workers,1,39,0.0017728078549024955
+Lithuania,1541,34942,929,21999,1340,Biomedical and agricultural engineers,2,38,0.001727351243238329
+Lithuania,1541,34942,929,21999,3720,First-line supervisors of firefighting and prevention workers,1,38,0.001727351243238329
+Lithuania,1541,34942,929,21999,5110,Billing and posting clerks,1,37,0.0016818946315741625
+Lithuania,1541,34942,929,21999,7430,Precision instrument and equipment repairers,1,37,0.0016818946315741625
+Lithuania,1541,34942,929,21999,9141,Shuttle drivers and chauffeurs,2,37,0.0016818946315741625
+Lithuania,1541,34942,929,21999,1320,Aerospace engineers,2,36,0.001636438019909996
+Lithuania,1541,34942,929,21999,0340,Lodging managers,3,35,0.0015909814082458293
+Lithuania,1541,34942,929,21999,3620,Physical therapist assistants and aides,3,35,0.0015909814082458293
+Lithuania,1541,34942,929,21999,2350,Tutors,2,33,0.0015000681849174963
+Lithuania,1541,34942,929,21999,3220,Respiratory therapists,1,33,0.0015000681849174963
+Lithuania,1541,34942,929,21999,3323,Radiologic technologists and technicians,1,33,0.0015000681849174963
+Lithuania,1541,34942,929,21999,3640,Dental assistants,3,33,0.0015000681849174963
+Lithuania,1541,34942,929,21999,5710,Executive secretaries and executive administrative assistants,2,33,0.0015000681849174963
+Lithuania,1541,34942,929,21999,1360,Civil engineers,2,32,0.0014546115732533298
+Lithuania,1541,34942,929,21999,1720,Chemists and materials scientists,2,32,0.0014546115732533298
+Lithuania,1541,34942,929,21999,4200,First-line supervisors of housekeeping and janitorial workers,3,32,0.0014546115732533298
+Lithuania,1541,34942,929,21999,5160,Tellers,1,32,0.0014546115732533298
+Lithuania,1541,34942,929,21999,7905,Computer numerically controlled tool operators and programmers,2,32,0.0014546115732533298
+Lithuania,1541,34942,929,21999,1430,"Industrial engineers, including health and safety",2,31,0.0014091549615891632
+Lithuania,1541,34942,929,21999,2635,Interior designers,2,31,0.0014091549615891632
+Lithuania,1541,34942,929,21999,1650,Other life scientists,2,30,0.0013636983499249965
+Lithuania,1541,34942,929,21999,4530,"Baggage porters, bellhops, and concierges",1,30,0.0013636983499249965
+Lithuania,1541,34942,929,21999,2040,Clergy,2,29,0.00131824173826083
+Lithuania,1541,34942,929,21999,3330,Nuclear medicine technologists and medical dosimetrists,1,29,0.00131824173826083
+Lithuania,1541,34942,929,21999,8350,"Tailors, dressmakers, and sewers",2,29,0.00131824173826083
+Lithuania,1541,34942,929,21999,1980,Occupational health and safety specialists and technicians,2,28,0.0012727851265966635
+Lithuania,1541,34942,929,21999,2840,Technical writers,1,28,0.0012727851265966635
+Lithuania,1541,34942,929,21999,4525,Other personal appearance workers,1,28,0.0012727851265966635
+Lithuania,1541,34942,929,21999,4540,Tour and travel guides,1,28,0.0012727851265966635
+Lithuania,1541,34942,929,21999,4930,Sales engineers,2,28,0.0012727851265966635
+Lithuania,1541,34942,929,21999,6240,"Carpet, floor, and tile installers and finishers",1,28,0.0012727851265966635
+Lithuania,1541,34942,929,21999,0940,Tax preparers,1,27,0.001227328514932497
+Lithuania,1541,34942,929,21999,1007,Information security analysts,2,27,0.001227328514932497
+Lithuania,1541,34942,929,21999,1065,Database administrators and architects,2,27,0.001227328514932497
+Lithuania,1541,34942,929,21999,6200,First-line supervisors of construction trades and extraction workers,2,27,0.001227328514932497
+Lithuania,1541,34942,929,21999,7140,Aircraft mechanics and service technicians,1,26,0.0011818719032683303
+Lithuania,1541,34942,929,21999,6530,Structural iron and steel workers,1,25,0.0011364152916041638
+Lithuania,1541,34942,929,21999,8225,Other metal workers and plastic workers,2,25,0.0011364152916041638
+Lithuania,1541,34942,929,21999,2920,"Television, video, and film camera operators and editors",1,24,0.0010909586799399973
+Lithuania,1541,34942,929,21999,4130,Dining room and cafeteria attendants and bartender helpers,1,24,0.0010909586799399973
+Lithuania,1541,34942,929,21999,8950,Helpers--production workers,2,24,0.0010909586799399973
+Lithuania,1541,34942,929,21999,0205,"Farmers, ranchers, and other agricultural managers",1,23,0.0010455020682758308
+Lithuania,1541,34942,929,21999,3648,Veterinary assistants and laboratory animal caretakers,1,23,0.0010455020682758308
+Lithuania,1541,34942,929,21999,4655,"Personal care and service workers, all other",1,23,0.0010455020682758308
+Lithuania,1541,34942,929,21999,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,23,0.0010455020682758308
+Lithuania,1541,34942,929,21999,8740,"Inspectors, testers, sorters, samplers, and weighers",1,23,0.0010455020682758308
+Lithuania,1541,34942,929,21999,0850,Personal financial advisors,1,22,0.0010000454566116642
+Lithuania,1541,34942,929,21999,3550,Other healthcare practitioners and technical occupations,1,22,0.0010000454566116642
+Lithuania,1541,34942,929,21999,5165,Other financial clerks,1,22,0.0010000454566116642
+Lithuania,1541,34942,929,21999,5560,"Postal service mail sorters, processors, and processing machine operators",2,22,0.0010000454566116642
+Lithuania,1541,34942,929,21999,0530,"Purchasing agents, except wholesale, retail, and farm products",1,21,9.545888449474976e-4
+Lithuania,1541,34942,929,21999,0700,Logisticians,2,21,9.545888449474976e-4
+Lithuania,1541,34942,929,21999,1420,Environmental engineers,1,21,9.545888449474976e-4
+Lithuania,1541,34942,929,21999,2850,Writers and authors,1,21,9.545888449474976e-4
+Lithuania,1541,34942,929,21999,3000,Chiropractors,1,21,9.545888449474976e-4
+Lithuania,1541,34942,929,21999,7750,Other assemblers and fabricators,2,21,9.545888449474976e-4
+Lithuania,1541,34942,929,21999,8255,Printing press operators,1,21,9.545888449474976e-4
+Lithuania,1541,34942,929,21999,0960,Other financial specialists,1,20,9.09132233283331e-4
+Lithuania,1541,34942,929,21999,2145,Paralegals and legal assistants,2,20,9.09132233283331e-4
+Lithuania,1541,34942,929,21999,9150,"Motor vehicle operators, all other",1,20,9.09132233283331e-4
+Lithuania,1541,34942,929,21999,0520,"Wholesale and retail buyers, except farm products",1,19,8.636756216191645e-4
+Lithuania,1541,34942,929,21999,3310,Dental hygienists,2,19,8.636756216191645e-4
+Lithuania,1541,34942,929,21999,3322,Diagnostic medical sonographers,1,19,8.636756216191645e-4
+Lithuania,1541,34942,929,21999,0300,Architectural and engineering managers,2,18,8.18219009954998e-4
+Lithuania,1541,34942,929,21999,3500,Licensed practical and licensed vocational nurses,2,17,7.727623982908314e-4
+Lithuania,1541,34942,929,21999,3520,"Opticians, dispensing",1,17,7.727623982908314e-4
+Lithuania,1541,34942,929,21999,4820,"Securities, commodities, and financial services sales agents",1,17,7.727623982908314e-4
+Lithuania,1541,34942,929,21999,5810,Data entry keyers,2,17,7.727623982908314e-4
+Lithuania,1541,34942,929,21999,1860,Other social scientists,1,16,7.273057866266649e-4
+Lithuania,1541,34942,929,21999,2006,"Counselors, all other",1,16,7.273057866266649e-4
+Lithuania,1541,34942,929,21999,2015,Probation officers and correctional treatment specialists,1,16,7.273057866266649e-4
+Lithuania,1541,34942,929,21999,5550,Postal service mail carriers,1,16,7.273057866266649e-4
+Lithuania,1541,34942,929,21999,9830,"Military, rank not specified",1,16,7.273057866266649e-4
+Lithuania,1541,34942,929,21999,0160,"Transportation, storage, and distribution managers",1,15,6.818491749624983e-4
+Lithuania,1541,34942,929,21999,3960,Other protective service workers,1,15,6.818491749624983e-4
+Lithuania,1541,34942,929,21999,5150,Procurement clerks,1,15,6.818491749624983e-4
+Lithuania,1541,34942,929,21999,7010,"Computer, automated teller, and office machine repairers",1,15,6.818491749624983e-4
+Lithuania,1541,34942,929,21999,7210,Bus and truck mechanics and diesel engine specialists,1,15,6.818491749624983e-4
+Lithuania,1541,34942,929,21999,3655,Other healthcare support workers,1,14,6.363925632983318e-4
+Lithuania,1541,34942,929,21999,5230,"Credit authorizers, checkers, and clerks",1,14,6.363925632983318e-4
+Lithuania,1541,34942,929,21999,5540,Postal service clerks,1,14,6.363925632983318e-4
+Lithuania,1541,34942,929,21999,9005,Supervisors of transportation and material moving workers,1,14,6.363925632983318e-4
+Lithuania,1541,34942,929,21999,9640,"Packers and packagers, hand",1,14,6.363925632983318e-4
+Lithuania,1541,34942,929,21999,0102,Facilities managers,1,13,5.909359516341651e-4
+Lithuania,1541,34942,929,21999,0725,"Meeting, convention, and event planners",1,13,5.909359516341651e-4
+Lithuania,1541,34942,929,21999,0726,Fundraisers,1,13,5.909359516341651e-4
+Lithuania,1541,34942,929,21999,1450,Materials engineers,1,13,5.909359516341651e-4
+Lithuania,1541,34942,929,21999,9050,Flight attendants,1,13,5.909359516341651e-4
+Lithuania,1541,34942,929,21999,9121,"Bus drivers, school",1,13,5.909359516341651e-4
+Lithuania,1541,34942,929,21999,2001,Substance abuse and behavioral disorder counselors,1,12,5.454793399699986e-4
+Lithuania,1541,34942,929,21999,3423,Surgical technologists,1,12,5.454793399699986e-4
+Lithuania,1541,34942,929,21999,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",1,12,5.454793399699986e-4
+Lithuania,1541,34942,929,21999,9030,Aircraft pilots and flight engineers,1,12,5.454793399699986e-4
+Lithuania,1541,34942,929,21999,0600,Cost estimators,1,11,5.000227283058321e-4
+Lithuania,1541,34942,929,21999,1545,Other drafters,1,11,5.000227283058321e-4
+Lithuania,1541,34942,929,21999,2012,Healthcare social workers,1,11,5.000227283058321e-4
+Lithuania,1541,34942,929,21999,2170,"Title examiners, abstractors, and searchers",1,11,5.000227283058321e-4
+Lithuania,1541,34942,929,21999,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,11,5.000227283058321e-4
+Lithuania,1541,34942,929,21999,9410,Transportation inspectors,1,11,5.000227283058321e-4
+Lithuania,1541,34942,929,21999,2330,Special education teachers,1,10,4.545661166416655e-4
+Lithuania,1541,34942,929,21999,6250,"Cement masons, concrete finishers, and terrazzo workers",1,10,4.545661166416655e-4
+Lithuania,1541,34942,929,21999,6305,Construction equipment operators,1,10,4.545661166416655e-4
+Lithuania,1541,34942,929,21999,6442,"Plumbers, pipefitters, and steamfitters",1,10,4.545661166416655e-4
+Lithuania,1541,34942,929,21999,8800,Packaging and filling machine operators and tenders,1,10,4.545661166416655e-4
+Lithuania,1541,34942,929,21999,1220,Operations research analysts,1,9,4.09109504977499e-4
+Lithuania,1541,34942,929,21999,3261,Acupuncturists,1,9,4.09109504977499e-4
+Lithuania,1541,34942,929,21999,3270,"Healthcare diagnosing or treating practitioners, all other",1,9,4.09109504977499e-4
+Lithuania,1541,34942,929,21999,3725,"Miscellaneous first-line supervisors, protective service workers",1,9,4.09109504977499e-4
+Lithuania,1541,34942,929,21999,0136,Human resources managers,1,8,3.6365289331333244e-4
+Lithuania,1541,34942,929,21999,3300,Clinical laboratory technologists and technicians,1,8,3.6365289331333244e-4
+Lithuania,1541,34942,929,21999,4251,Landscaping and groundskeeping workers,1,8,3.6365289331333244e-4
+Lithuania,1541,34942,929,21999,7410,Electrical power-line installers and repairers,1,8,3.6365289331333244e-4
+Lithuania,1541,34942,929,21999,2014,"Social workers, all other",1,7,3.181962816491659e-4
+Lithuania,1541,34942,929,21999,5100,Bill and account collectors,1,7,3.181962816491659e-4
+Lithuania,1541,34942,929,21999,5330,Loan interviewers and clerks,1,7,3.181962816491659e-4
+Lithuania,1541,34942,929,21999,2770,"Entertainers and performers, sports and related workers, all other",1,6,2.727396699849993e-4
+Lithuania,1541,34942,929,21999,3801,Bailiffs,1,6,2.727396699849993e-4
+Lithuania,1541,34942,929,21999,5350,Correspondence clerks and order clerks,1,4,1.8182644665666622e-4
+Lithuania,1541,34942,929,21999,1970,"Other life, physical, and social science technicians",1,2,9.091322332833311e-5
+Lithuania,1541,34942,929,21999,2722,Coaches and scouts,1,2,9.091322332833311e-5

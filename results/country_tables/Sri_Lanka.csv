@@ -1,264 +1,277 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Sri Lanka,2918,58715,1680,34949,2205,Postsecondary teachers,103,2156,0.06168989098400526
-Sri Lanka,2918,58715,1680,34949,1021,Software developers,93,2026,0.05797018512689919
-Sri Lanka,2918,58715,1680,34949,2545,Teaching assistants,61,1264,0.03616698617986208
-Sri Lanka,2918,58715,1680,34949,0440,Other managers,57,1135,0.032475893444733755
-Sri Lanka,2918,58715,1680,34949,4720,Cashiers,41,1118,0.03198947037111219
-Sri Lanka,2918,58715,1680,34949,4700,First-line supervisors of retail sales workers,39,947,0.027096626512918824
-Sri Lanka,2918,58715,1680,34949,0800,Accountants and auditors,39,850,0.024321153681078143
-Sri Lanka,2918,58715,1680,34949,1760,"Physical scientists, all other",39,806,0.023062176314057627
-Sri Lanka,2918,58715,1680,34949,3090,Physicians,50,739,0.021145097141549114
-Sri Lanka,2918,58715,1680,34949,9130,Driver/sales workers and truck drivers,19,637,0.018226558699819737
-Sri Lanka,2918,58715,1680,34949,3255,Registered nurses,21,594,0.016996194454776962
-Sri Lanka,2918,58715,1680,34949,0120,Financial managers,31,560,0.016023348307533835
-Sri Lanka,2918,58715,1680,34949,0010,Chief executives and legislators,27,503,0.014392400354802713
-Sri Lanka,2918,58715,1680,34949,0110,Computer and information systems managers,18,463,0.013247875475693153
-Sri Lanka,2918,58715,1680,34949,2300,Preschool and kindergarten teachers,18,463,0.013247875475693153
-Sri Lanka,2918,58715,1680,34949,4020,Cooks,16,452,0.012933131133938024
-Sri Lanka,2918,58715,1680,34949,9142,Taxi drivers,19,452,0.012933131133938024
-Sri Lanka,2918,58715,1680,34949,2310,Elementary and middle school teachers,18,425,0.012160576840539072
-Sri Lanka,2918,58715,1680,34949,1530,Other engineers,25,423,0.012103350596583594
-Sri Lanka,2918,58715,1680,34949,4230,Maids and housekeeping cleaners,11,418,0.011960284986694898
-Sri Lanka,2918,58715,1680,34949,5240,Customer service representatives,18,383,0.010958825717474033
-Sri Lanka,2918,58715,1680,34949,1240,Other mathematical science occupations,18,336,0.0096140089845203
-Sri Lanka,2918,58715,1680,34949,8740,"Inspectors, testers, sorters, samplers, and weighers",11,333,0.009528169618587084
-Sri Lanka,2918,58715,1680,34949,1050,Computer support specialists,14,324,0.009270651520787434
-Sri Lanka,2918,58715,1680,34949,0705,Project management specialists,18,312,0.008927294057054565
-Sri Lanka,2918,58715,1680,34949,1650,Other life scientists,18,295,0.008440870983433003
-Sri Lanka,2918,58715,1680,34949,4710,First-line supervisors of non-retail sales workers,8,280,0.008011674153766917
-Sri Lanka,2918,58715,1680,34949,1010,Computer programmers,9,275,0.007868608543878223
-Sri Lanka,2918,58715,1680,34949,0710,Management analysts,14,274,0.007839995421900484
-Sri Lanka,2918,58715,1680,34949,4600,Childcare workers,10,272,0.007782769177945005
-Sri Lanka,2918,58715,1680,34949,4220,Janitors and building cleaners,16,266,0.007611090446078572
-Sri Lanka,2918,58715,1680,34949,1006,Computer systems analysts,15,265,0.007582477324100833
-Sri Lanka,2918,58715,1680,34949,5400,Receptionists and information clerks,7,246,0.0070388280065237915
-Sri Lanka,2918,58715,1680,34949,5000,First-line supervisors of office and administrative support workers,13,241,0.006895762396635097
-Sri Lanka,2918,58715,1680,34949,1460,Mechanical engineers,9,231,0.006609631176857707
-Sri Lanka,2918,58715,1680,34949,4030,Food preparation workers,8,225,0.006437952444991273
-Sri Lanka,2918,58715,1680,34949,0310,Food service managers,12,220,0.006294886835102578
-Sri Lanka,2918,58715,1680,34949,4760,Retail salespersons,15,219,0.006266273713124839
-Sri Lanka,2918,58715,1680,34949,2100,"Lawyers, and judges, magistrates, and other judicial workers",12,217,0.006209047469169361
-Sri Lanka,2918,58715,1680,34949,5120,"Bookkeeping, accounting, and auditing clerks",10,216,0.006180434347191622
-Sri Lanka,2918,58715,1680,34949,0845,Financial and investment analysts,12,213,0.006094594981258405
-Sri Lanka,2918,58715,1680,34949,4000,Chefs and head cooks,9,212,0.006065981859280666
-Sri Lanka,2918,58715,1680,34949,3602,Personal care aides,11,211,0.0060373687373029275
-Sri Lanka,2918,58715,1680,34949,0020,General and operations managers,8,204,0.005837076883458754
-Sri Lanka,2918,58715,1680,34949,0350,Medical and health services managers,10,202,0.005779850639503276
-Sri Lanka,2918,58715,1680,34949,9645,Stockers and order fillers,12,189,0.005407880053792669
-Sri Lanka,2918,58715,1680,34949,1360,Civil engineers,14,187,0.005350653809837192
-Sri Lanka,2918,58715,1680,34949,5710,Executive secretaries and executive administrative assistants,7,187,0.005350653809837192
-Sri Lanka,2918,58715,1680,34949,0051,Marketing managers,7,184,0.005264814443903974
-Sri Lanka,2918,58715,1680,34949,1410,Electrical and electronics engineers,10,183,0.005236201321926235
-Sri Lanka,2918,58715,1680,34949,8990,"Miscellaneous production workers, including equipment operators and tenders",8,178,0.00509313571203754
-Sri Lanka,2918,58715,1680,34949,2320,Secondary school teachers,11,177,0.0050645225900598015
-Sri Lanka,2918,58715,1680,34949,0850,Personal financial advisors,5,175,0.005007296346104324
-Sri Lanka,2918,58715,1680,34949,1305,"Architects, except landscape and naval",8,175,0.005007296346104324
-Sri Lanka,2918,58715,1680,34949,0140,Industrial production managers,4,173,0.004950070102148846
-Sri Lanka,2918,58715,1680,34949,3645,Medical assistants,8,171,0.004892843858193367
-Sri Lanka,2918,58715,1680,34949,1108,"Computer occupations, all other",11,169,0.004835617614237889
-Sri Lanka,2918,58715,1680,34949,2360,Other teachers and instructors,10,167,0.004778391370282411
-Sri Lanka,2918,58715,1680,34949,0230,Education and childcare administrators,11,164,0.004692552004349195
-Sri Lanka,2918,58715,1680,34949,4920,Real estate brokers and sales agents,7,162,0.004635325760393717
-Sri Lanka,2918,58715,1680,34949,3300,Clinical laboratory technologists and technicians,7,161,0.004606712638415978
-Sri Lanka,2918,58715,1680,34949,2640,Other designers,8,157,0.004492260150505021
-Sri Lanka,2918,58715,1680,34949,4110,Waiters and waitresses,6,149,0.00426335517468311
-Sri Lanka,2918,58715,1680,34949,3100,Surgeons,3,145,0.004148902686772153
-Sri Lanka,2918,58715,1680,34949,1430,"Industrial engineers, including health and safety",7,144,0.0041202895647944144
-Sri Lanka,2918,58715,1680,34949,0735,Market research analysts and marketing specialists,3,142,0.004063063320838937
-Sri Lanka,2918,58715,1680,34949,1970,"Other life, physical, and social science technicians",8,136,0.0038913845889725026
-Sri Lanka,2918,58715,1680,34949,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",5,132,0.003776932101061547
-Sri Lanka,2918,58715,1680,34949,5600,"Production, planning, and expediting clerks",4,130,0.0037197058571060686
-Sri Lanka,2918,58715,1680,34949,3601,Home health aides,6,128,0.003662479613150591
-Sri Lanka,2918,58715,1680,34949,9640,"Packers and packagers, hand",4,127,0.003633866491172852
-Sri Lanka,2918,58715,1680,34949,5740,"Secretaries and administrative assistants, except legal, medical, and executive",8,118,0.003376348393373201
-Sri Lanka,2918,58715,1680,34949,0630,Human resources workers,4,106,0.003032990929640333
-Sri Lanka,2918,58715,1680,34949,3160,Physical therapists,6,106,0.003032990929640333
-Sri Lanka,2918,58715,1680,34949,3322,Diagnostic medical sonographers,4,105,0.0030043778076625943
-Sri Lanka,2918,58715,1680,34949,5330,Loan interviewers and clerks,4,104,0.002975764685684855
-Sri Lanka,2918,58715,1680,34949,1106,Computer network architects,3,102,0.002918538441729377
-Sri Lanka,2918,58715,1680,34949,4521,Manicurists and pedicurists,3,101,0.002889925319751638
-Sri Lanka,2918,58715,1680,34949,1555,"Other engineering technologists and technicians, except drafters",3,100,0.0028613121977738992
-Sri Lanka,2918,58715,1680,34949,3930,Security guards and gaming surveillance officers,6,100,0.0028613121977738992
-Sri Lanka,2918,58715,1680,34949,0540,"Claims adjusters, appraisers, examiners, and investigators",2,99,0.0028326990757961603
-Sri Lanka,2918,58715,1680,34949,3245,Other therapists,1,99,0.0028326990757961603
-Sri Lanka,2918,58715,1680,34949,0300,Architectural and engineering managers,7,97,0.002775472831840682
-Sri Lanka,2918,58715,1680,34949,3421,Pharmacy technicians,5,97,0.002775472831840682
-Sri Lanka,2918,58715,1680,34949,5810,Data entry keyers,3,92,0.002632407221951987
-Sri Lanka,2918,58715,1680,34949,5510,Couriers and messengers,2,89,0.00254656785601877
-Sri Lanka,2918,58715,1680,34949,7200,Automotive service technicians and mechanics,5,89,0.00254656785601877
-Sri Lanka,2918,58715,1680,34949,3110,Physician assistants,4,88,0.0025179547340410313
-Sri Lanka,2918,58715,1680,34949,0136,Human resources managers,3,87,0.0024893416120632924
-Sri Lanka,2918,58715,1680,34949,1320,Aerospace engineers,7,87,0.0024893416120632924
-Sri Lanka,2918,58715,1680,34949,1350,Chemical engineers,3,87,0.0024893416120632924
-Sri Lanka,2918,58715,1680,34949,1720,Chemists and materials scientists,6,82,0.0023462760021745973
-Sri Lanka,2918,58715,1680,34949,2040,Clergy,20,79,0.00226043663624138
-Sri Lanka,2918,58715,1680,34949,8800,Packaging and filling machine operators and tenders,3,79,0.00226043663624138
-Sri Lanka,2918,58715,1680,34949,0220,Construction managers,6,77,0.0022032103922859023
-Sri Lanka,2918,58715,1680,34949,0410,"Property, real estate, and community association managers",5,77,0.0022032103922859023
-Sri Lanka,2918,58715,1680,34949,4820,"Securities, commodities, and financial services sales agents",4,77,0.0022032103922859023
-Sri Lanka,2918,58715,1680,34949,9005,Supervisors of transportation and material moving workers,5,77,0.0022032103922859023
-Sri Lanka,2918,58715,1680,34949,0860,Insurance underwriters,1,76,0.0021745972703081633
-Sri Lanka,2918,58715,1680,34949,3603,Nursing assistants,4,76,0.0021745972703081633
-Sri Lanka,2918,58715,1680,34949,4510,"Hairdressers, hairstylists, and cosmetologists",2,76,0.0021745972703081633
-Sri Lanka,2918,58715,1680,34949,0750,"Business operations specialists, all other",5,75,0.0021459841483304244
-Sri Lanka,2918,58715,1680,34949,1065,Database administrators and architects,4,74,0.0021173710263526855
-Sri Lanka,2918,58715,1680,34949,4130,Dining room and cafeteria attendants and bartender helpers,1,73,0.002088757904374946
-Sri Lanka,2918,58715,1680,34949,0360,Natural sciences managers,4,72,0.0020601447823972072
-Sri Lanka,2918,58715,1680,34949,3220,Respiratory therapists,3,72,0.0020601447823972072
-Sri Lanka,2918,58715,1680,34949,7700,First-line supervisors of production and operating workers,3,72,0.0020601447823972072
-Sri Lanka,2918,58715,1680,34949,5560,"Postal service mail sorters, processors, and processing machine operators",2,70,0.0020029185384417294
-Sri Lanka,2918,58715,1680,34949,9620,"Laborers and freight, stock, and material movers, hand",5,70,0.0020029185384417294
-Sri Lanka,2918,58715,1680,34949,3030,Dietitians and nutritionists,1,68,0.0019456922944862513
-Sri Lanka,2918,58715,1680,34949,3050,Pharmacists,2,67,0.0019170791725085124
-Sri Lanka,2918,58715,1680,34949,9410,Transportation inspectors,1,66,0.0018884660505307735
-Sri Lanka,2918,58715,1680,34949,1400,Computer hardware engineers,2,65,0.0018598529285530343
-Sri Lanka,2918,58715,1680,34949,8225,Other metal workers and plastic workers,3,65,0.0018598529285530343
-Sri Lanka,2918,58715,1680,34949,3200,Radiation therapists,1,64,0.0018312398065752954
-Sri Lanka,2918,58715,1680,34949,3402,Paramedics,1,63,0.0018026266845975565
-Sri Lanka,2918,58715,1680,34949,9040,Air traffic controllers and airfield operations specialists,2,63,0.0018026266845975565
-Sri Lanka,2918,58715,1680,34949,0640,"Compensation, benefits, and job analysis specialists",1,62,0.0017740135626198176
-Sri Lanka,2918,58715,1680,34949,4120,"Food servers, nonrestaurant",4,61,0.0017454004406420784
-Sri Lanka,2918,58715,1680,34949,2330,Special education teachers,2,59,0.0016881741966866006
-Sri Lanka,2918,58715,1680,34949,9430,Other transportation workers,3,57,0.0016309479527311225
-Sri Lanka,2918,58715,1680,34949,3330,Nuclear medicine technologists and medical dosimetrists,1,56,0.0016023348307533836
-Sri Lanka,2918,58715,1680,34949,5550,Postal service mail carriers,1,55,0.0015737217087756444
-Sri Lanka,2918,58715,1680,34949,0530,"Purchasing agents, except wholesale, retail, and farm products",3,54,0.0015451085867979055
-Sri Lanka,2918,58715,1680,34949,1007,Information security analysts,3,54,0.0015451085867979055
-Sri Lanka,2918,58715,1680,34949,7000,"First-line supervisors of mechanics, installers, and repairers",3,54,0.0015451085867979055
-Sri Lanka,2918,58715,1680,34949,8610,Stationary engineers and boiler operators,3,54,0.0015451085867979055
-Sri Lanka,2918,58715,1680,34949,9121,"Bus drivers, school",4,54,0.0015451085867979055
-Sri Lanka,2918,58715,1680,34949,1105,Network and computer systems administrators,3,53,0.0015164954648201666
-Sri Lanka,2918,58715,1680,34949,1900,Agricultural and food science technicians,1,53,0.0015164954648201666
-Sri Lanka,2918,58715,1680,34949,7840,Food batchmakers,2,53,0.0015164954648201666
-Sri Lanka,2918,58715,1680,34949,9830,"Military, rank not specified",3,52,0.0014878823428424275
-Sri Lanka,2918,58715,1680,34949,6200,First-line supervisors of construction trades and extraction workers,3,51,0.0014592692208646885
-Sri Lanka,2918,58715,1680,34949,0052,Sales managers,4,50,0.0014306560988869496
-Sri Lanka,2918,58715,1680,34949,0420,Social and community service managers,4,50,0.0014306560988869496
-Sri Lanka,2918,58715,1680,34949,1545,Other drafters,1,50,0.0014306560988869496
-Sri Lanka,2918,58715,1680,34949,7340,"Maintenance and repair workers, general",3,49,0.0014020429769092105
-Sri Lanka,2918,58715,1680,34949,7750,Other assemblers and fabricators,2,49,0.0014020429769092105
-Sri Lanka,2918,58715,1680,34949,1220,Operations research analysts,5,48,0.0013734298549314715
-Sri Lanka,2918,58715,1680,34949,1920,Chemical technicians,3,48,0.0013734298549314715
-Sri Lanka,2918,58715,1680,34949,5940,Other office and administrative support workers,4,48,0.0013734298549314715
-Sri Lanka,2918,58715,1680,34949,9415,Passenger attendants,1,48,0.0013734298549314715
-Sri Lanka,2918,58715,1680,34949,0340,Lodging managers,3,46,0.0013162036109759935
-Sri Lanka,2918,58715,1680,34949,0600,Cost estimators,2,46,0.0013162036109759935
-Sri Lanka,2918,58715,1680,34949,0940,Tax preparers,3,46,0.0013162036109759935
-Sri Lanka,2918,58715,1680,34949,1022,Software quality assurance analysts and testers,3,46,0.0013162036109759935
-Sri Lanka,2918,58715,1680,34949,5540,Postal service clerks,2,46,0.0013162036109759935
-Sri Lanka,2918,58715,1680,34949,5100,Bill and account collectors,1,45,0.0012875904889982546
-Sri Lanka,2918,58715,1680,34949,3515,Medical records specialists,2,44,0.0012589773670205156
-Sri Lanka,2918,58715,1680,34949,4055,Fast food and counter workers,2,44,0.0012589773670205156
-Sri Lanka,2918,58715,1680,34949,5320,"Library assistants, clerical",5,44,0.0012589773670205156
-Sri Lanka,2918,58715,1680,34949,5860,"Office clerks, general",3,43,0.0012303642450427767
-Sri Lanka,2918,58715,1680,34949,0160,"Transportation, storage, and distribution managers",3,42,0.0012017511230650376
-Sri Lanka,2918,58715,1680,34949,2635,Interior designers,1,41,0.0011731380010872987
-Sri Lanka,2918,58715,1680,34949,8320,Sewing machine operators,1,41,0.0011731380010872987
-Sri Lanka,2918,58715,1680,34949,4965,"Sales and related workers, all other",3,39,0.0011159117571318206
-Sri Lanka,2918,58715,1680,34949,1420,Environmental engineers,1,38,0.0010872986351540817
-Sri Lanka,2918,58715,1680,34949,2145,Paralegals and legal assistants,3,38,0.0010872986351540817
-Sri Lanka,2918,58715,1680,34949,5165,Other financial clerks,2,38,0.0010872986351540817
-Sri Lanka,2918,58715,1680,34949,8300,Laundry and dry-cleaning workers,2,38,0.0010872986351540817
-Sri Lanka,2918,58715,1680,34949,3430,Dietetic technicians and ophthalmic medical technicians,3,37,0.0010586855131763427
-Sri Lanka,2918,58715,1680,34949,1825,Other psychologists,3,36,0.0010300723911986036
-Sri Lanka,2918,58715,1680,34949,4800,Advertising sales agents,1,36,0.0010300723911986036
-Sri Lanka,2918,58715,1680,34949,4850,"Sales representatives, wholesale and manufacturing",4,36,0.0010300723911986036
-Sri Lanka,2918,58715,1680,34949,5300,"Hotel, motel, and resort desk clerks",1,36,0.0010300723911986036
-Sri Lanka,2918,58715,1680,34949,3323,Radiologic technologists and technicians,2,35,0.0010014592692208647
-Sri Lanka,2918,58715,1680,34949,2170,"Title examiners, abstractors, and searchers",2,34,9.728461472431257e-4
-Sri Lanka,2918,58715,1680,34949,4251,Landscaping and groundskeeping workers,1,34,9.728461472431257e-4
-Sri Lanka,2918,58715,1680,34949,3258,"Nurse practitioners, and nurse midwives",3,33,9.442330252653867e-4
-Sri Lanka,2918,58715,1680,34949,2710,Producers and directors,2,32,9.156199032876477e-4
-Sri Lanka,2918,58715,1680,34949,3870,Police officers,4,32,9.156199032876477e-4
-Sri Lanka,2918,58715,1680,34949,5840,Insurance claims and policy processing clerks,3,32,9.156199032876477e-4
-Sri Lanka,2918,58715,1680,34949,5410,Reservation and transportation ticket agents and travel clerks,2,31,8.870067813099088e-4
-Sri Lanka,2918,58715,1680,34949,0150,Purchasing managers,2,30,8.583936593321697e-4
-Sri Lanka,2918,58715,1680,34949,2004,Mental health counselors,2,30,8.583936593321697e-4
-Sri Lanka,2918,58715,1680,34949,4400,Gambling services workers,2,30,8.583936593321697e-4
-Sri Lanka,2918,58715,1680,34949,1600,Agricultural and food scientists,2,29,8.297805373544307e-4
-Sri Lanka,2918,58715,1680,34949,1610,Biological scientists,2,29,8.297805373544307e-4
-Sri Lanka,2918,58715,1680,34949,2002,"Educational, guidance, and career counselors and advisors",2,29,8.297805373544307e-4
-Sri Lanka,2918,58715,1680,34949,4010,First-line supervisors of food preparation and serving workers,3,29,8.297805373544307e-4
-Sri Lanka,2918,58715,1680,34949,6355,Electricians,1,29,8.297805373544307e-4
-Sri Lanka,2918,58715,1680,34949,2013,Mental health and substance abuse social workers,2,28,8.011674153766918e-4
-Sri Lanka,2918,58715,1680,34949,2910,Photographers,2,28,8.011674153766918e-4
-Sri Lanka,2918,58715,1680,34949,3500,Licensed practical and licensed vocational nurses,2,28,8.011674153766918e-4
-Sri Lanka,2918,58715,1680,34949,5160,Tellers,1,28,8.011674153766918e-4
-Sri Lanka,2918,58715,1680,34949,0830,Credit analysts,1,27,7.725542933989528e-4
-Sri Lanka,2918,58715,1680,34949,2060,"Religious workers, all other",3,27,7.725542933989528e-4
-Sri Lanka,2918,58715,1680,34949,7315,"Heating, air conditioning, and refrigeration mechanics and installers",2,27,7.725542933989528e-4
-Sri Lanka,2918,58715,1680,34949,3630,Massage therapists,2,26,7.439411714212137e-4
-Sri Lanka,2918,58715,1680,34949,4040,Bartenders,1,26,7.439411714212137e-4
-Sri Lanka,2918,58715,1680,34949,6260,Construction laborers,1,26,7.439411714212137e-4
-Sri Lanka,2918,58715,1680,34949,5730,Medical secretaries and administrative assistants,1,25,7.153280494434748e-4
-Sri Lanka,2918,58715,1680,34949,2014,"Social workers, all other",2,24,6.867149274657358e-4
-Sri Lanka,2918,58715,1680,34949,2600,Artists and related workers,2,24,6.867149274657358e-4
-Sri Lanka,2918,58715,1680,34949,4140,Dishwashers,1,24,6.867149274657358e-4
-Sri Lanka,2918,58715,1680,34949,0135,Compensation and benefits managers,1,23,6.581018054879967e-4
-Sri Lanka,2918,58715,1680,34949,1032,Web and digital interface designers,1,22,6.294886835102578e-4
-Sri Lanka,2918,58715,1680,34949,5260,File clerks,2,22,6.294886835102578e-4
-Sri Lanka,2918,58715,1680,34949,9810,First-line enlisted military supervisors,1,22,6.294886835102578e-4
-Sri Lanka,2918,58715,1680,34949,0650,Training and development specialists,1,21,6.008755615325188e-4
-Sri Lanka,2918,58715,1680,34949,3424,Veterinary technologists and technicians,1,21,6.008755615325188e-4
-Sri Lanka,2918,58715,1680,34949,2012,Healthcare social workers,1,20,5.722624395547799e-4
-Sri Lanka,2918,58715,1680,34949,2752,Musicians and singers,1,20,5.722624395547799e-4
-Sri Lanka,2918,58715,1680,34949,8255,Printing press operators,1,20,5.722624395547799e-4
-Sri Lanka,2918,58715,1680,34949,0820,Budget analysts,1,19,5.436493175770408e-4
-Sri Lanka,2918,58715,1680,34949,1840,Urban and regional planners,2,19,5.436493175770408e-4
-Sri Lanka,2918,58715,1680,34949,2025,Other community and social service specialists,6,19,5.436493175770408e-4
-Sri Lanka,2918,58715,1680,34949,2810,"News analysts, reporters, and journalists",1,19,5.436493175770408e-4
-Sri Lanka,2918,58715,1680,34949,7810,"Butchers and other meat, poultry, and fish processing workers",1,19,5.436493175770408e-4
-Sri Lanka,2918,58715,1680,34949,9600,Industrial truck and tractor operators,1,19,5.436493175770408e-4
-Sri Lanka,2918,58715,1680,34949,2634,Graphic designers,1,18,5.150361955993018e-4
-Sri Lanka,2918,58715,1680,34949,9122,"Bus drivers, transit and intercity",2,18,5.150361955993018e-4
-Sri Lanka,2918,58715,1680,34949,1745,"Environmental scientists and specialists, including health",1,17,4.864230736215628e-4
-Sri Lanka,2918,58715,1680,34949,4640,Residential advisors,1,17,4.864230736215628e-4
-Sri Lanka,2918,58715,1680,34949,5110,Billing and posting clerks,1,17,4.864230736215628e-4
-Sri Lanka,2918,58715,1680,34949,5140,Payroll and timekeeping clerks,1,17,4.864230736215628e-4
-Sri Lanka,2918,58715,1680,34949,7020,Radio and telecommunications equipment installers and repairers,1,17,4.864230736215628e-4
-Sri Lanka,2918,58715,1680,34949,5350,Correspondence clerks and order clerks,1,16,4.5780995164382385e-4
-Sri Lanka,2918,58715,1680,34949,8620,Water and wastewater treatment plant and system operators,2,16,4.5780995164382385e-4
-Sri Lanka,2918,58715,1680,34949,0960,Other financial specialists,1,15,4.2919682966608487e-4
-Sri Lanka,2918,58715,1680,34949,3250,Veterinarians,1,15,4.2919682966608487e-4
-Sri Lanka,2918,58715,1680,34949,8140,"Welding, soldering, and brazing workers",1,15,4.2919682966608487e-4
-Sri Lanka,2918,58715,1680,34949,0101,Administrative services managers,2,14,4.005837076883459e-4
-Sri Lanka,2918,58715,1680,34949,5310,"Interviewers, except eligibility and loan",1,14,4.005837076883459e-4
-Sri Lanka,2918,58715,1680,34949,7210,Bus and truck mechanics and diesel engine specialists,1,14,4.005837076883459e-4
-Sri Lanka,2918,58715,1680,34949,9141,Shuttle drivers and chauffeurs,1,14,4.005837076883459e-4
-Sri Lanka,2918,58715,1680,34949,9150,"Motor vehicle operators, all other",1,14,4.005837076883459e-4
-Sri Lanka,2918,58715,1680,34949,1821,Clinical and counseling psychologists,1,13,3.7197058571060686e-4
-Sri Lanka,2918,58715,1680,34949,3545,Miscellaneous health technologists and technicians,1,13,3.7197058571060686e-4
-Sri Lanka,2918,58715,1680,34949,4950,"Door-to-door sales workers, news and street vendors, and related workers",1,13,3.7197058571060686e-4
-Sri Lanka,2918,58715,1680,34949,7420,Telecommunications line installers and repairers,1,13,3.7197058571060686e-4
-Sri Lanka,2918,58715,1680,34949,7430,Precision instrument and equipment repairers,1,13,3.7197058571060686e-4
-Sri Lanka,2918,58715,1680,34949,2722,Coaches and scouts,1,12,3.433574637328679e-4
-Sri Lanka,2918,58715,1680,34949,6410,Painters and paperhangers,1,12,3.433574637328679e-4
-Sri Lanka,2918,58715,1680,34949,7010,"Computer, automated teller, and office machine repairers",1,12,3.433574637328679e-4
-Sri Lanka,2918,58715,1680,34949,0565,Compliance officers,1,11,3.147443417551289e-4
-Sri Lanka,2918,58715,1680,34949,2006,"Counselors, all other",1,11,3.147443417551289e-4
-Sri Lanka,2918,58715,1680,34949,3261,Acupuncturists,1,11,3.147443417551289e-4
-Sri Lanka,2918,58715,1680,34949,3910,Private detectives and investigators,1,11,3.147443417551289e-4
-Sri Lanka,2918,58715,1680,34949,4500,Barbers,1,11,3.147443417551289e-4
-Sri Lanka,2918,58715,1680,34949,5500,Cargo and freight agents,1,11,3.147443417551289e-4
-Sri Lanka,2918,58715,1680,34949,0910,Credit counselors and loan officers,1,10,2.8613121977738993e-4
-Sri Lanka,2918,58715,1680,34949,1031,Web developers,1,10,2.8613121977738993e-4
-Sri Lanka,2918,58715,1680,34949,0725,"Meeting, convention, and event planners",1,9,2.575180977996509e-4
-Sri Lanka,2918,58715,1680,34949,1800,Economists,1,9,2.575180977996509e-4
-Sri Lanka,2918,58715,1680,34949,2001,Substance abuse and behavioral disorder counselors,1,9,2.575180977996509e-4
-Sri Lanka,2918,58715,1680,34949,3310,Dental hygienists,1,9,2.575180977996509e-4
-Sri Lanka,2918,58715,1680,34949,3647,Pharmacy aides,1,9,2.575180977996509e-4
-Sri Lanka,2918,58715,1680,34949,5150,Procurement clerks,1,9,2.575180977996509e-4
-Sri Lanka,2918,58715,1680,34949,7140,Aircraft mechanics and service technicians,1,9,2.575180977996509e-4
-Sri Lanka,2918,58715,1680,34949,2350,Tutors,1,8,2.2890497582191192e-4
-Sri Lanka,2918,58715,1680,34949,3655,Other healthcare support workers,1,8,2.2890497582191192e-4
-Sri Lanka,2918,58715,1680,34949,4810,Insurance sales agents,1,8,2.2890497582191192e-4
-Sri Lanka,2918,58715,1680,34949,5610,"Shipping, receiving, and inventory clerks",1,8,2.2890497582191192e-4
-Sri Lanka,2918,58715,1680,34949,1541,Architectural and civil drafters,1,7,2.0029185384417295e-4
-Sri Lanka,2918,58715,1680,34949,3649,Phlebotomists,1,7,2.0029185384417295e-4
-Sri Lanka,2918,58715,1680,34949,1310,"Surveyors, cartographers, and photogrammetrists",1,6,1.7167873186643394e-4
-Sri Lanka,2918,58715,1680,34949,5220,"Court, municipal, and license clerks",1,6,1.7167873186643394e-4
-Sri Lanka,2918,58715,1680,34949,1700,Astronomers and physicists,1,3,8.583936593321697e-5
-Sri Lanka,2918,58715,1680,34949,1980,Occupational health and safety specialists and technicians,1,3,8.583936593321697e-5
-Sri Lanka,2918,58715,1680,34949,2825,Public relations specialists,1,2,5.722624395547798e-5
-Sri Lanka,2918,58715,1680,34949,6520,Sheet metal workers,1,2,5.722624395547798e-5
-Sri Lanka,2918,58715,1680,34949,9030,Aircraft pilots and flight engineers,1,1,2.861312197773899e-5
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Sri Lanka,2918,58715,1865,38357,2205,Postsecondary teachers,112,2269,0.05915478269937691
+Sri Lanka,2918,58715,1865,38357,1021,Software developers,97,2089,0.0544620277915374
+Sri Lanka,2918,58715,1865,38357,0440,Other managers,65,1312,0.03420496910603019
+Sri Lanka,2918,58715,1865,38357,2545,Teaching assistants,62,1265,0.032979638657872096
+Sri Lanka,2918,58715,1865,38357,4720,Cashiers,44,1172,0.030555048622155016
+Sri Lanka,2918,58715,1865,38357,0800,Accountants and auditors,45,1000,0.026070860599108375
+Sri Lanka,2918,58715,1865,38357,4700,First-line supervisors of retail sales workers,41,966,0.025184451338738693
+Sri Lanka,2918,58715,1865,38357,3090,Physicians,62,924,0.02408947519357614
+Sri Lanka,2918,58715,1865,38357,1760,"Physical scientists, all other",45,887,0.023124853351409132
+Sri Lanka,2918,58715,1865,38357,9130,Driver/sales workers and truck drivers,20,668,0.017415334880204397
+Sri Lanka,2918,58715,1865,38357,0120,Financial managers,34,606,0.015798941523059676
+Sri Lanka,2918,58715,1865,38357,3255,Registered nurses,22,603,0.015720728941262353
+Sri Lanka,2918,58715,1865,38357,2300,Preschool and kindergarten teachers,22,580,0.015121099147482858
+Sri Lanka,2918,58715,1865,38357,2310,Elementary and middle school teachers,23,546,0.014234689887113173
+Sri Lanka,2918,58715,1865,38357,4600,Childcare workers,15,519,0.013530776650937248
+Sri Lanka,2918,58715,1865,38357,0010,Chief executives and legislators,29,518,0.01350470579033814
+Sri Lanka,2918,58715,1865,38357,4020,Cooks,18,506,0.01319185546314884
+Sri Lanka,2918,58715,1865,38357,0110,Computer and information systems managers,18,463,0.012070808457387179
+Sri Lanka,2918,58715,1865,38357,1530,Other engineers,28,460,0.011992595875589854
+Sri Lanka,2918,58715,1865,38357,9142,Taxi drivers,19,452,0.011784028990796986
+Sri Lanka,2918,58715,1865,38357,5240,Customer service representatives,21,445,0.011601532966603227
+Sri Lanka,2918,58715,1865,38357,4230,Maids and housekeeping cleaners,12,431,0.01123654091821571
+Sri Lanka,2918,58715,1865,38357,1240,Other mathematical science occupations,21,381,0.00993299788826029
+Sri Lanka,2918,58715,1865,38357,8740,"Inspectors, testers, sorters, samplers, and weighers",12,344,0.008968376046093282
+Sri Lanka,2918,58715,1865,38357,4220,Janitors and building cleaners,21,337,0.008785880021899523
+Sri Lanka,2918,58715,1865,38357,1050,Computer support specialists,15,334,0.008707667440102198
+Sri Lanka,2918,58715,1865,38357,0705,Project management specialists,18,312,0.008134108506921813
+Sri Lanka,2918,58715,1865,38357,0710,Management analysts,16,308,0.00802982506452538
+Sri Lanka,2918,58715,1865,38357,5120,"Bookkeeping, accounting, and auditing clerks",17,300,0.007821258179732513
+Sri Lanka,2918,58715,1865,38357,0230,Education and childcare administrators,19,296,0.007716974737336079
+Sri Lanka,2918,58715,1865,38357,1650,Other life scientists,18,295,0.007690903876736971
+Sri Lanka,2918,58715,1865,38357,1010,Computer programmers,10,287,0.007482336991944104
+Sri Lanka,2918,58715,1865,38357,4710,First-line supervisors of non-retail sales workers,8,280,0.007299840967750345
+Sri Lanka,2918,58715,1865,38357,5400,Receptionists and information clerks,8,271,0.00706520322235837
+Sri Lanka,2918,58715,1865,38357,4030,Food preparation workers,11,266,0.0069348489193628285
+Sri Lanka,2918,58715,1865,38357,1006,Computer systems analysts,15,265,0.0069087780587637196
+Sri Lanka,2918,58715,1865,38357,3602,Personal care aides,15,263,0.006856636337565503
+Sri Lanka,2918,58715,1865,38357,4000,Chefs and head cooks,11,263,0.006856636337565503
+Sri Lanka,2918,58715,1865,38357,4760,Retail salespersons,17,247,0.006439502567979769
+Sri Lanka,2918,58715,1865,38357,9645,Stockers and order fillers,14,245,0.006387360846781552
+Sri Lanka,2918,58715,1865,38357,5000,First-line supervisors of office and administrative support workers,13,241,0.006283077404385119
+Sri Lanka,2918,58715,1865,38357,4920,Real estate brokers and sales agents,10,235,0.006126652240790468
+Sri Lanka,2918,58715,1865,38357,1460,Mechanical engineers,9,231,0.006022368798394035
+Sri Lanka,2918,58715,1865,38357,0310,Food service managers,13,229,0.005970227077195818
+Sri Lanka,2918,58715,1865,38357,1360,Civil engineers,17,226,0.005892014495398493
+Sri Lanka,2918,58715,1865,38357,0020,General and operations managers,9,218,0.005683447610605626
+Sri Lanka,2918,58715,1865,38357,2100,"Lawyers, and judges, magistrates, and other judicial workers",12,217,0.005657376750006517
+Sri Lanka,2918,58715,1865,38357,0845,Financial and investment analysts,12,213,0.005553093307610084
+Sri Lanka,2918,58715,1865,38357,0350,Medical and health services managers,10,202,0.005266313841019892
+Sri Lanka,2918,58715,1865,38357,4521,Manicurists and pedicurists,4,194,0.005057746956227025
+Sri Lanka,2918,58715,1865,38357,8990,"Miscellaneous production workers, including equipment operators and tenders",9,192,0.005005605235028809
+Sri Lanka,2918,58715,1865,38357,5710,Executive secretaries and executive administrative assistants,7,187,0.004875250932033267
+Sri Lanka,2918,58715,1865,38357,0051,Marketing managers,7,184,0.004797038350235941
+Sri Lanka,2918,58715,1865,38357,1410,Electrical and electronics engineers,10,183,0.004770967489636833
+Sri Lanka,2918,58715,1865,38357,3645,Medical assistants,9,181,0.004718825768438616
+Sri Lanka,2918,58715,1865,38357,3300,Clinical laboratory technologists and technicians,9,180,0.004692754907839508
+Sri Lanka,2918,58715,1865,38357,2320,Secondary school teachers,11,177,0.004614542326042183
+Sri Lanka,2918,58715,1865,38357,2640,Other designers,9,176,0.004588471465443074
+Sri Lanka,2918,58715,1865,38357,0850,Personal financial advisors,5,175,0.004562400604843966
+Sri Lanka,2918,58715,1865,38357,1305,"Architects, except landscape and naval",8,175,0.004562400604843966
+Sri Lanka,2918,58715,1865,38357,4110,Waiters and waitresses,8,174,0.004536329744244857
+Sri Lanka,2918,58715,1865,38357,0140,Industrial production managers,4,173,0.004510258883645749
+Sri Lanka,2918,58715,1865,38357,5740,"Secretaries and administrative assistants, except legal, medical, and executive",9,172,0.004484188023046641
+Sri Lanka,2918,58715,1865,38357,3601,Home health aides,7,170,0.004432046301848424
+Sri Lanka,2918,58715,1865,38357,1108,"Computer occupations, all other",11,169,0.004405975441249315
+Sri Lanka,2918,58715,1865,38357,2360,Other teachers and instructors,10,167,0.004353833720051099
+Sri Lanka,2918,58715,1865,38357,3100,Surgeons,3,145,0.0037802747868707146
+Sri Lanka,2918,58715,1865,38357,1430,"Industrial engineers, including health and safety",7,144,0.003754203926271606
+Sri Lanka,2918,58715,1865,38357,0735,Market research analysts and marketing specialists,3,142,0.0037020622050733896
+Sri Lanka,2918,58715,1865,38357,5600,"Production, planning, and expediting clerks",5,142,0.0037020622050733896
+Sri Lanka,2918,58715,1865,38357,5810,Data entry keyers,4,137,0.0035717079020778477
+Sri Lanka,2918,58715,1865,38357,1970,"Other life, physical, and social science technicians",8,136,0.003545637041478739
+Sri Lanka,2918,58715,1865,38357,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",5,132,0.0034413535990823058
+Sri Lanka,2918,58715,1865,38357,9640,"Packers and packagers, hand",4,127,0.003310999296086764
+Sri Lanka,2918,58715,1865,38357,1106,Computer network architects,5,124,0.003232786714289439
+Sri Lanka,2918,58715,1865,38357,3160,Physical therapists,7,124,0.003232786714289439
+Sri Lanka,2918,58715,1865,38357,3930,Security guards and gaming surveillance officers,8,123,0.0032067158536903304
+Sri Lanka,2918,58715,1865,38357,1720,Chemists and materials scientists,8,117,0.00305029069009568
+Sri Lanka,2918,58715,1865,38357,1555,"Other engineering technologists and technicians, except drafters",4,112,0.002919936387100138
+Sri Lanka,2918,58715,1865,38357,0540,"Claims adjusters, appraisers, examiners, and investigators",3,108,0.0028156529447037047
+Sri Lanka,2918,58715,1865,38357,4965,"Sales and related workers, all other",4,108,0.0028156529447037047
+Sri Lanka,2918,58715,1865,38357,0630,Human resources workers,4,106,0.0027635112235054877
+Sri Lanka,2918,58715,1865,38357,3322,Diagnostic medical sonographers,4,105,0.0027374403629063797
+Sri Lanka,2918,58715,1865,38357,5330,Loan interviewers and clerks,4,104,0.0027113695023072712
+Sri Lanka,2918,58715,1865,38357,3245,Other therapists,1,99,0.0025810151993117293
+Sri Lanka,2918,58715,1865,38357,0300,Architectural and engineering managers,7,97,0.0025288734781135124
+Sri Lanka,2918,58715,1865,38357,3421,Pharmacy technicians,5,97,0.0025288734781135124
+Sri Lanka,2918,58715,1865,38357,5510,Couriers and messengers,2,89,0.0023203065933206455
+Sri Lanka,2918,58715,1865,38357,7200,Automotive service technicians and mechanics,5,89,0.0023203065933206455
+Sri Lanka,2918,58715,1865,38357,3110,Physician assistants,4,88,0.002294235732721537
+Sri Lanka,2918,58715,1865,38357,0136,Human resources managers,3,87,0.0022681648721224286
+Sri Lanka,2918,58715,1865,38357,1320,Aerospace engineers,7,87,0.0022681648721224286
+Sri Lanka,2918,58715,1865,38357,1350,Chemical engineers,3,87,0.0022681648721224286
+Sri Lanka,2918,58715,1865,38357,5560,"Postal service mail sorters, processors, and processing machine operators",3,84,0.0021899522903251036
+Sri Lanka,2918,58715,1865,38357,8225,Other metal workers and plastic workers,4,80,0.00208566884792867
+Sri Lanka,2918,58715,1865,38357,2040,Clergy,20,79,0.0020595979873295617
+Sri Lanka,2918,58715,1865,38357,8800,Packaging and filling machine operators and tenders,3,79,0.0020595979873295617
+Sri Lanka,2918,58715,1865,38357,0220,Construction managers,6,77,0.002007456266131345
+Sri Lanka,2918,58715,1865,38357,0410,"Property, real estate, and community association managers",5,77,0.002007456266131345
+Sri Lanka,2918,58715,1865,38357,4820,"Securities, commodities, and financial services sales agents",4,77,0.002007456266131345
+Sri Lanka,2918,58715,1865,38357,9005,Supervisors of transportation and material moving workers,5,77,0.002007456266131345
+Sri Lanka,2918,58715,1865,38357,0860,Insurance underwriters,1,76,0.0019813854055322367
+Sri Lanka,2918,58715,1865,38357,3603,Nursing assistants,4,76,0.0019813854055322367
+Sri Lanka,2918,58715,1865,38357,4510,"Hairdressers, hairstylists, and cosmetologists",2,76,0.0019813854055322367
+Sri Lanka,2918,58715,1865,38357,0750,"Business operations specialists, all other",5,75,0.0019553145449331282
+Sri Lanka,2918,58715,1865,38357,9415,Passenger attendants,2,75,0.0019553145449331282
+Sri Lanka,2918,58715,1865,38357,1065,Database administrators and architects,4,74,0.0019292436843340198
+Sri Lanka,2918,58715,1865,38357,9430,Other transportation workers,4,74,0.0019292436843340198
+Sri Lanka,2918,58715,1865,38357,4130,Dining room and cafeteria attendants and bartender helpers,1,73,0.0019031728237349115
+Sri Lanka,2918,58715,1865,38357,0360,Natural sciences managers,4,72,0.001877101963135803
+Sri Lanka,2918,58715,1865,38357,3220,Respiratory therapists,3,72,0.001877101963135803
+Sri Lanka,2918,58715,1865,38357,7700,First-line supervisors of production and operating workers,3,72,0.001877101963135803
+Sri Lanka,2918,58715,1865,38357,9620,"Laborers and freight, stock, and material movers, hand",5,70,0.0018249602419375863
+Sri Lanka,2918,58715,1865,38357,5540,Postal service clerks,3,69,0.001798889381338478
+Sri Lanka,2918,58715,1865,38357,3030,Dietitians and nutritionists,1,68,0.0017728185207393696
+Sri Lanka,2918,58715,1865,38357,1920,Chemical technicians,4,67,0.0017467476601402611
+Sri Lanka,2918,58715,1865,38357,3050,Pharmacists,2,67,0.0017467476601402611
+Sri Lanka,2918,58715,1865,38357,9410,Transportation inspectors,1,66,0.0017206767995411529
+Sri Lanka,2918,58715,1865,38357,1400,Computer hardware engineers,2,65,0.0016946059389420444
+Sri Lanka,2918,58715,1865,38357,3200,Radiation therapists,1,64,0.0016685350783429362
+Sri Lanka,2918,58715,1865,38357,3402,Paramedics,1,63,0.0016424642177438277
+Sri Lanka,2918,58715,1865,38357,9040,Air traffic controllers and airfield operations specialists,2,63,0.0016424642177438277
+Sri Lanka,2918,58715,1865,38357,0640,"Compensation, benefits, and job analysis specialists",1,62,0.0016163933571447194
+Sri Lanka,2918,58715,1865,38357,4120,"Food servers, nonrestaurant",4,61,0.001590322496545611
+Sri Lanka,2918,58715,1865,38357,6200,First-line supervisors of construction trades and extraction workers,4,61,0.001590322496545611
+Sri Lanka,2918,58715,1865,38357,2330,Special education teachers,2,59,0.0015381807753473942
+Sri Lanka,2918,58715,1865,38357,1420,Environmental engineers,2,57,0.0014860390541491775
+Sri Lanka,2918,58715,1865,38357,9210,Locomotive engineers and operators,1,57,0.0014860390541491775
+Sri Lanka,2918,58715,1865,38357,3330,Nuclear medicine technologists and medical dosimetrists,1,56,0.001459968193550069
+Sri Lanka,2918,58715,1865,38357,5550,Postal service mail carriers,1,55,0.0014338973329509608
+Sri Lanka,2918,58715,1865,38357,0530,"Purchasing agents, except wholesale, retail, and farm products",3,54,0.0014078264723518523
+Sri Lanka,2918,58715,1865,38357,1007,Information security analysts,3,54,0.0014078264723518523
+Sri Lanka,2918,58715,1865,38357,7000,"First-line supervisors of mechanics, installers, and repairers",3,54,0.0014078264723518523
+Sri Lanka,2918,58715,1865,38357,8610,Stationary engineers and boiler operators,3,54,0.0014078264723518523
+Sri Lanka,2918,58715,1865,38357,9121,"Bus drivers, school",4,54,0.0014078264723518523
+Sri Lanka,2918,58715,1865,38357,1105,Network and computer systems administrators,3,53,0.0013817556117527439
+Sri Lanka,2918,58715,1865,38357,1900,Agricultural and food science technicians,1,53,0.0013817556117527439
+Sri Lanka,2918,58715,1865,38357,5860,"Office clerks, general",4,53,0.0013817556117527439
+Sri Lanka,2918,58715,1865,38357,7840,Food batchmakers,2,53,0.0013817556117527439
+Sri Lanka,2918,58715,1865,38357,8256,Print binding and finishing workers,1,53,0.0013817556117527439
+Sri Lanka,2918,58715,1865,38357,9830,"Military, rank not specified",3,52,0.0013556847511536356
+Sri Lanka,2918,58715,1865,38357,0052,Sales managers,4,50,0.001303543029955419
+Sri Lanka,2918,58715,1865,38357,0420,Social and community service managers,4,50,0.001303543029955419
+Sri Lanka,2918,58715,1865,38357,1545,Other drafters,1,50,0.001303543029955419
+Sri Lanka,2918,58715,1865,38357,4055,Fast food and counter workers,3,49,0.0012774721693563104
+Sri Lanka,2918,58715,1865,38357,7340,"Maintenance and repair workers, general",3,49,0.0012774721693563104
+Sri Lanka,2918,58715,1865,38357,7750,Other assemblers and fabricators,2,49,0.0012774721693563104
+Sri Lanka,2918,58715,1865,38357,1220,Operations research analysts,5,48,0.0012514013087572022
+Sri Lanka,2918,58715,1865,38357,5940,Other office and administrative support workers,4,48,0.0012514013087572022
+Sri Lanka,2918,58715,1865,38357,0340,Lodging managers,3,46,0.0011992595875589852
+Sri Lanka,2918,58715,1865,38357,0600,Cost estimators,2,46,0.0011992595875589852
+Sri Lanka,2918,58715,1865,38357,0940,Tax preparers,3,46,0.0011992595875589852
+Sri Lanka,2918,58715,1865,38357,1022,Software quality assurance analysts and testers,3,46,0.0011992595875589852
+Sri Lanka,2918,58715,1865,38357,5100,Bill and account collectors,1,45,0.001173188726959877
+Sri Lanka,2918,58715,1865,38357,3515,Medical records specialists,2,44,0.0011471178663607685
+Sri Lanka,2918,58715,1865,38357,5320,"Library assistants, clerical",5,44,0.0011471178663607685
+Sri Lanka,2918,58715,1865,38357,0160,"Transportation, storage, and distribution managers",3,42,0.0010949761451625518
+Sri Lanka,2918,58715,1865,38357,2002,"Educational, guidance, and career counselors and advisors",4,42,0.0010949761451625518
+Sri Lanka,2918,58715,1865,38357,2635,Interior designers,1,41,0.0010689052845634435
+Sri Lanka,2918,58715,1865,38357,8320,Sewing machine operators,1,41,0.0010689052845634435
+Sri Lanka,2918,58715,1865,38357,2145,Paralegals and legal assistants,3,38,9.906927027661184e-4
+Sri Lanka,2918,58715,1865,38357,5165,Other financial clerks,2,38,9.906927027661184e-4
+Sri Lanka,2918,58715,1865,38357,8300,Laundry and dry-cleaning workers,2,38,9.906927027661184e-4
+Sri Lanka,2918,58715,1865,38357,3430,Dietetic technicians and ophthalmic medical technicians,3,37,9.646218421670099e-4
+Sri Lanka,2918,58715,1865,38357,1825,Other psychologists,3,36,9.385509815679015e-4
+Sri Lanka,2918,58715,1865,38357,4800,Advertising sales agents,1,36,9.385509815679015e-4
+Sri Lanka,2918,58715,1865,38357,4850,"Sales representatives, wholesale and manufacturing",4,36,9.385509815679015e-4
+Sri Lanka,2918,58715,1865,38357,5300,"Hotel, motel, and resort desk clerks",1,36,9.385509815679015e-4
+Sri Lanka,2918,58715,1865,38357,3323,Radiologic technologists and technicians,2,35,9.124801209687932e-4
+Sri Lanka,2918,58715,1865,38357,2170,"Title examiners, abstractors, and searchers",2,34,8.864092603696848e-4
+Sri Lanka,2918,58715,1865,38357,4251,Landscaping and groundskeeping workers,1,34,8.864092603696848e-4
+Sri Lanka,2918,58715,1865,38357,3258,"Nurse practitioners, and nurse midwives",3,33,8.603383997705764e-4
+Sri Lanka,2918,58715,1865,38357,2710,Producers and directors,2,32,8.342675391714681e-4
+Sri Lanka,2918,58715,1865,38357,3870,Police officers,4,32,8.342675391714681e-4
+Sri Lanka,2918,58715,1865,38357,5840,Insurance claims and policy processing clerks,3,32,8.342675391714681e-4
+Sri Lanka,2918,58715,1865,38357,0150,Purchasing managers,3,31,8.081966785723597e-4
+Sri Lanka,2918,58715,1865,38357,3910,Private detectives and investigators,2,31,8.081966785723597e-4
+Sri Lanka,2918,58715,1865,38357,4640,Residential advisors,3,31,8.081966785723597e-4
+Sri Lanka,2918,58715,1865,38357,5410,Reservation and transportation ticket agents and travel clerks,2,31,8.081966785723597e-4
+Sri Lanka,2918,58715,1865,38357,2004,Mental health counselors,2,30,7.821258179732512e-4
+Sri Lanka,2918,58715,1865,38357,4400,Gambling services workers,2,30,7.821258179732512e-4
+Sri Lanka,2918,58715,1865,38357,1600,Agricultural and food scientists,2,29,7.560549573741429e-4
+Sri Lanka,2918,58715,1865,38357,1610,Biological scientists,2,29,7.560549573741429e-4
+Sri Lanka,2918,58715,1865,38357,2350,Tutors,3,29,7.560549573741429e-4
+Sri Lanka,2918,58715,1865,38357,4010,First-line supervisors of food preparation and serving workers,3,29,7.560549573741429e-4
+Sri Lanka,2918,58715,1865,38357,6355,Electricians,1,29,7.560549573741429e-4
+Sri Lanka,2918,58715,1865,38357,2013,Mental health and substance abuse social workers,2,28,7.299840967750345e-4
+Sri Lanka,2918,58715,1865,38357,2910,Photographers,2,28,7.299840967750345e-4
+Sri Lanka,2918,58715,1865,38357,3500,Licensed practical and licensed vocational nurses,2,28,7.299840967750345e-4
+Sri Lanka,2918,58715,1865,38357,5160,Tellers,1,28,7.299840967750345e-4
+Sri Lanka,2918,58715,1865,38357,0830,Credit analysts,1,27,7.039132361759262e-4
+Sri Lanka,2918,58715,1865,38357,2060,"Religious workers, all other",3,27,7.039132361759262e-4
+Sri Lanka,2918,58715,1865,38357,7315,"Heating, air conditioning, and refrigeration mechanics and installers",2,27,7.039132361759262e-4
+Sri Lanka,2918,58715,1865,38357,3630,Massage therapists,2,26,6.778423755768178e-4
+Sri Lanka,2918,58715,1865,38357,4040,Bartenders,1,26,6.778423755768178e-4
+Sri Lanka,2918,58715,1865,38357,6260,Construction laborers,1,26,6.778423755768178e-4
+Sri Lanka,2918,58715,1865,38357,8730,"Furnace, kiln, oven, drier, and kettle operators and tenders",1,26,6.778423755768178e-4
+Sri Lanka,2918,58715,1865,38357,5730,Medical secretaries and administrative assistants,1,25,6.517715149777094e-4
+Sri Lanka,2918,58715,1865,38357,0101,Administrative services managers,3,24,6.257006543786011e-4
+Sri Lanka,2918,58715,1865,38357,2014,"Social workers, all other",2,24,6.257006543786011e-4
+Sri Lanka,2918,58715,1865,38357,2600,Artists and related workers,2,24,6.257006543786011e-4
+Sri Lanka,2918,58715,1865,38357,2850,Writers and authors,1,24,6.257006543786011e-4
+Sri Lanka,2918,58715,1865,38357,4140,Dishwashers,1,24,6.257006543786011e-4
+Sri Lanka,2918,58715,1865,38357,0135,Compensation and benefits managers,1,23,5.996297937794926e-4
+Sri Lanka,2918,58715,1865,38357,1032,Web and digital interface designers,1,22,5.735589331803843e-4
+Sri Lanka,2918,58715,1865,38357,5260,File clerks,2,22,5.735589331803843e-4
+Sri Lanka,2918,58715,1865,38357,9810,First-line enlisted military supervisors,1,22,5.735589331803843e-4
+Sri Lanka,2918,58715,1865,38357,0650,Training and development specialists,1,21,5.474880725812759e-4
+Sri Lanka,2918,58715,1865,38357,3424,Veterinary technologists and technicians,1,21,5.474880725812759e-4
+Sri Lanka,2918,58715,1865,38357,2012,Healthcare social workers,1,20,5.214172119821675e-4
+Sri Lanka,2918,58715,1865,38357,2752,Musicians and singers,1,20,5.214172119821675e-4
+Sri Lanka,2918,58715,1865,38357,8255,Printing press operators,1,20,5.214172119821675e-4
+Sri Lanka,2918,58715,1865,38357,0820,Budget analysts,1,19,4.953463513830592e-4
+Sri Lanka,2918,58715,1865,38357,1840,Urban and regional planners,2,19,4.953463513830592e-4
+Sri Lanka,2918,58715,1865,38357,2025,Other community and social service specialists,6,19,4.953463513830592e-4
+Sri Lanka,2918,58715,1865,38357,2810,"News analysts, reporters, and journalists",1,19,4.953463513830592e-4
+Sri Lanka,2918,58715,1865,38357,7810,"Butchers and other meat, poultry, and fish processing workers",1,19,4.953463513830592e-4
+Sri Lanka,2918,58715,1865,38357,9600,Industrial truck and tractor operators,1,19,4.953463513830592e-4
+Sri Lanka,2918,58715,1865,38357,2634,Graphic designers,1,18,4.6927549078395076e-4
+Sri Lanka,2918,58715,1865,38357,4240,Pest control workers,1,18,4.6927549078395076e-4
+Sri Lanka,2918,58715,1865,38357,9122,"Bus drivers, transit and intercity",2,18,4.6927549078395076e-4
+Sri Lanka,2918,58715,1865,38357,1745,"Environmental scientists and specialists, including health",1,17,4.432046301848424e-4
+Sri Lanka,2918,58715,1865,38357,5110,Billing and posting clerks,1,17,4.432046301848424e-4
+Sri Lanka,2918,58715,1865,38357,5140,Payroll and timekeeping clerks,1,17,4.432046301848424e-4
+Sri Lanka,2918,58715,1865,38357,7020,Radio and telecommunications equipment installers and repairers,1,17,4.432046301848424e-4
+Sri Lanka,2918,58715,1865,38357,2015,Probation officers and correctional treatment specialists,1,16,4.1713376958573404e-4
+Sri Lanka,2918,58715,1865,38357,5350,Correspondence clerks and order clerks,1,16,4.1713376958573404e-4
+Sri Lanka,2918,58715,1865,38357,8620,Water and wastewater treatment plant and system operators,2,16,4.1713376958573404e-4
+Sri Lanka,2918,58715,1865,38357,0900,Financial examiners,1,15,3.910629089866256e-4
+Sri Lanka,2918,58715,1865,38357,0960,Other financial specialists,1,15,3.910629089866256e-4
+Sri Lanka,2918,58715,1865,38357,2440,Library technicians,1,15,3.910629089866256e-4
+Sri Lanka,2918,58715,1865,38357,3250,Veterinarians,1,15,3.910629089866256e-4
+Sri Lanka,2918,58715,1865,38357,8140,"Welding, soldering, and brazing workers",1,15,3.910629089866256e-4
+Sri Lanka,2918,58715,1865,38357,5310,"Interviewers, except eligibility and loan",1,14,3.6499204838751726e-4
+Sri Lanka,2918,58715,1865,38357,7210,Bus and truck mechanics and diesel engine specialists,1,14,3.6499204838751726e-4
+Sri Lanka,2918,58715,1865,38357,9141,Shuttle drivers and chauffeurs,1,14,3.6499204838751726e-4
+Sri Lanka,2918,58715,1865,38357,9150,"Motor vehicle operators, all other",1,14,3.6499204838751726e-4
+Sri Lanka,2918,58715,1865,38357,1821,Clinical and counseling psychologists,1,13,3.389211877884089e-4
+Sri Lanka,2918,58715,1865,38357,3545,Miscellaneous health technologists and technicians,1,13,3.389211877884089e-4
+Sri Lanka,2918,58715,1865,38357,4950,"Door-to-door sales workers, news and street vendors, and related workers",1,13,3.389211877884089e-4
+Sri Lanka,2918,58715,1865,38357,7420,Telecommunications line installers and repairers,1,13,3.389211877884089e-4
+Sri Lanka,2918,58715,1865,38357,7430,Precision instrument and equipment repairers,1,13,3.389211877884089e-4
+Sri Lanka,2918,58715,1865,38357,2722,Coaches and scouts,1,12,3.1285032718930054e-4
+Sri Lanka,2918,58715,1865,38357,3010,Dentists,1,12,3.1285032718930054e-4
+Sri Lanka,2918,58715,1865,38357,6410,Painters and paperhangers,1,12,3.1285032718930054e-4
+Sri Lanka,2918,58715,1865,38357,7010,"Computer, automated teller, and office machine repairers",1,12,3.1285032718930054e-4
+Sri Lanka,2918,58715,1865,38357,8350,"Tailors, dressmakers, and sewers",1,12,3.1285032718930054e-4
+Sri Lanka,2918,58715,1865,38357,0565,Compliance officers,1,11,2.8677946659019213e-4
+Sri Lanka,2918,58715,1865,38357,2006,"Counselors, all other",1,11,2.8677946659019213e-4
+Sri Lanka,2918,58715,1865,38357,3261,Acupuncturists,1,11,2.8677946659019213e-4
+Sri Lanka,2918,58715,1865,38357,4500,Barbers,1,11,2.8677946659019213e-4
+Sri Lanka,2918,58715,1865,38357,5500,Cargo and freight agents,1,11,2.8677946659019213e-4
+Sri Lanka,2918,58715,1865,38357,0910,Credit counselors and loan officers,1,10,2.6070860599108377e-4
+Sri Lanka,2918,58715,1865,38357,1031,Web developers,1,10,2.6070860599108377e-4
+Sri Lanka,2918,58715,1865,38357,0725,"Meeting, convention, and event planners",1,9,2.3463774539197538e-4
+Sri Lanka,2918,58715,1865,38357,1800,Economists,1,9,2.3463774539197538e-4
+Sri Lanka,2918,58715,1865,38357,2001,Substance abuse and behavioral disorder counselors,1,9,2.3463774539197538e-4
+Sri Lanka,2918,58715,1865,38357,3310,Dental hygienists,1,9,2.3463774539197538e-4
+Sri Lanka,2918,58715,1865,38357,3647,Pharmacy aides,1,9,2.3463774539197538e-4
+Sri Lanka,2918,58715,1865,38357,5150,Procurement clerks,1,9,2.3463774539197538e-4
+Sri Lanka,2918,58715,1865,38357,7140,Aircraft mechanics and service technicians,1,9,2.3463774539197538e-4
+Sri Lanka,2918,58715,1865,38357,3655,Other healthcare support workers,1,8,2.0856688479286702e-4
+Sri Lanka,2918,58715,1865,38357,4530,"Baggage porters, bellhops, and concierges",1,8,2.0856688479286702e-4
+Sri Lanka,2918,58715,1865,38357,4810,Insurance sales agents,1,8,2.0856688479286702e-4
+Sri Lanka,2918,58715,1865,38357,5610,"Shipping, receiving, and inventory clerks",1,8,2.0856688479286702e-4
+Sri Lanka,2918,58715,1865,38357,1541,Architectural and civil drafters,1,7,1.8249602419375863e-4
+Sri Lanka,2918,58715,1865,38357,3649,Phlebotomists,1,7,1.8249602419375863e-4
+Sri Lanka,2918,58715,1865,38357,4522,Skincare specialists,1,7,1.8249602419375863e-4
+Sri Lanka,2918,58715,1865,38357,1310,"Surveyors, cartographers, and photogrammetrists",1,6,1.5642516359465027e-4
+Sri Lanka,2918,58715,1865,38357,5220,"Court, municipal, and license clerks",1,6,1.5642516359465027e-4
+Sri Lanka,2918,58715,1865,38357,8950,Helpers--production workers,1,4,1.0428344239643351e-4
+Sri Lanka,2918,58715,1865,38357,1700,Astronomers and physicists,1,3,7.821258179732514e-5
+Sri Lanka,2918,58715,1865,38357,1980,Occupational health and safety specialists and technicians,1,3,7.821258179732514e-5
+Sri Lanka,2918,58715,1865,38357,2825,Public relations specialists,1,2,5.2141721198216755e-5
+Sri Lanka,2918,58715,1865,38357,6520,Sheet metal workers,1,2,5.2141721198216755e-5
+Sri Lanka,2918,58715,1865,38357,9030,Aircraft pilots and flight engineers,1,1,2.6070860599108377e-5

@@ -1,163 +1,172 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Finland,1027,18210,450,9002,0440,Other managers,25,622,0.06909575649855587
-Finland,1027,18210,450,9002,2205,Postsecondary teachers,21,453,0.050322150633192626
-Finland,1027,18210,450,9002,0010,Chief executives and legislators,18,363,0.0403243723616974
-Finland,1027,18210,450,9002,1021,Software developers,21,339,0.03765829815596534
-Finland,1027,18210,450,9002,0705,Project management specialists,13,268,0.029771161964008
-Finland,1027,18210,450,9002,3255,Registered nurses,13,230,0.025549877804932238
-Finland,1027,18210,450,9002,2100,"Lawyers, and judges, magistrates, and other judicial workers",7,192,0.021328593645856476
-Finland,1027,18210,450,9002,0300,Architectural and engineering managers,7,183,0.020328815818706953
-Finland,1027,18210,450,9002,0750,"Business operations specialists, all other",6,182,0.02021772939346812
-Finland,1027,18210,450,9002,5240,Customer service representatives,5,175,0.019440124416796267
-Finland,1027,18210,450,9002,9030,Aircraft pilots and flight engineers,5,173,0.019217951566318597
-Finland,1027,18210,450,9002,0800,Accountants and auditors,9,150,0.016662963785825373
-Finland,1027,18210,450,9002,1530,Other engineers,9,150,0.016662963785825373
-Finland,1027,18210,450,9002,5740,"Secretaries and administrative assistants, except legal, medical, and executive",9,150,0.016662963785825373
-Finland,1027,18210,450,9002,0150,Purchasing managers,1,149,0.016551877360586536
-Finland,1027,18210,450,9002,1010,Computer programmers,2,135,0.014996667407242835
-Finland,1027,18210,450,9002,0710,Management analysts,9,122,0.01355254387913797
-Finland,1027,18210,450,9002,1760,"Physical scientists, all other",5,122,0.01355254387913797
-Finland,1027,18210,450,9002,4710,First-line supervisors of non-retail sales workers,6,112,0.012441679626749611
-Finland,1027,18210,450,9002,4850,"Sales representatives, wholesale and manufacturing",5,107,0.011886247500555431
-Finland,1027,18210,450,9002,0051,Marketing managers,3,106,0.011775161075316596
-Finland,1027,18210,450,9002,3090,Physicians,9,105,0.01166407465007776
-Finland,1027,18210,450,9002,3424,Veterinary technologists and technicians,3,98,0.01088646967340591
-Finland,1027,18210,450,9002,0120,Financial managers,4,95,0.010553210397689403
-Finland,1027,18210,450,9002,2861,Interpreters and translators,2,94,0.010442123972450567
-Finland,1027,18210,450,9002,0845,Financial and investment analysts,5,92,0.010219951121972895
-Finland,1027,18210,450,9002,0052,Sales managers,5,91,0.01010886469673406
-Finland,1027,18210,450,9002,1410,Electrical and electronics engineers,4,87,0.009664518995778715
-Finland,1027,18210,450,9002,8030,Machinists,2,82,0.009109086869584537
-Finland,1027,18210,450,9002,2634,Graphic designers,2,77,0.008553654743390357
-Finland,1027,18210,450,9002,4760,Retail salespersons,6,77,0.008553654743390357
-Finland,1027,18210,450,9002,5000,First-line supervisors of office and administrative support workers,3,77,0.008553654743390357
-Finland,1027,18210,450,9002,4700,First-line supervisors of retail sales workers,5,75,0.008331481892912686
-Finland,1027,18210,450,9002,2145,Paralegals and legal assistants,3,74,0.00822039546767385
-Finland,1027,18210,450,9002,1430,"Industrial engineers, including health and safety",4,73,0.008109309042435014
-Finland,1027,18210,450,9002,2545,Teaching assistants,4,70,0.007776049766718507
-Finland,1027,18210,450,9002,4621,Exercise trainers and group fitness instructors,3,70,0.007776049766718507
-Finland,1027,18210,450,9002,1825,Other psychologists,4,68,0.007553876916240835
-Finland,1027,18210,450,9002,4435,Other entertainment attendants and related workers,2,68,0.007553876916240835
-Finland,1027,18210,450,9002,9050,Flight attendants,2,64,0.007109531215285492
-Finland,1027,18210,450,9002,2640,Other designers,4,62,0.006887358364807821
-Finland,1027,18210,450,9002,1050,Computer support specialists,2,61,0.006776271939568985
-Finland,1027,18210,450,9002,4920,Real estate brokers and sales agents,4,60,0.0066651855143301485
-Finland,1027,18210,450,9002,1860,Other social scientists,2,58,0.006443012663852477
-Finland,1027,18210,450,9002,0850,Personal financial advisors,3,54,0.005998666962897134
-Finland,1027,18210,450,9002,3630,Massage therapists,2,51,0.0056654076871806265
-Finland,1027,18210,450,9002,5120,"Bookkeeping, accounting, and auditing clerks",3,51,0.0056654076871806265
-Finland,1027,18210,450,9002,0230,Education and childcare administrators,4,50,0.00555432126194179
-Finland,1027,18210,450,9002,4350,Animal caretakers,4,48,0.005332148411464119
-Finland,1027,18210,450,9002,9130,Driver/sales workers and truck drivers,2,47,0.005221061986225284
-Finland,1027,18210,450,9002,7330,Industrial and refractory machinery mechanics,1,46,0.0051099755609864475
-Finland,1027,18210,450,9002,3515,Medical records specialists,1,45,0.004998889135747611
-Finland,1027,18210,450,9002,0020,General and operations managers,3,44,0.004887802710508776
-Finland,1027,18210,450,9002,1105,Network and computer systems administrators,2,43,0.00477671628526994
-Finland,1027,18210,450,9002,0136,Human resources managers,2,41,0.0045545434347922685
-Finland,1027,18210,450,9002,0735,Market research analysts and marketing specialists,2,41,0.0045545434347922685
-Finland,1027,18210,450,9002,3160,Physical therapists,2,40,0.004443457009553432
-Finland,1027,18210,450,9002,4000,Chefs and head cooks,2,40,0.004443457009553432
-Finland,1027,18210,450,9002,0410,"Property, real estate, and community association managers",1,39,0.004332370584314597
-Finland,1027,18210,450,9002,5400,Receptionists and information clerks,2,39,0.004332370584314597
-Finland,1027,18210,450,9002,1108,"Computer occupations, all other",2,38,0.004221284159075761
-Finland,1027,18210,450,9002,8740,"Inspectors, testers, sorters, samplers, and weighers",2,38,0.004221284159075761
-Finland,1027,18210,450,9002,7200,Automotive service technicians and mechanics,2,37,0.004110197733836925
-Finland,1027,18210,450,9002,0110,Computer and information systems managers,4,36,0.003999111308598089
-Finland,1027,18210,450,9002,0220,Construction managers,2,36,0.003999111308598089
-Finland,1027,18210,450,9002,0500,"Agents and business managers of artists, performers, and athletes",1,36,0.003999111308598089
-Finland,1027,18210,450,9002,3602,Personal care aides,2,35,0.0038880248833592537
-Finland,1027,18210,450,9002,4622,Recreation workers,2,35,0.0038880248833592537
-Finland,1027,18210,450,9002,4810,Insurance sales agents,1,35,0.0038880248833592537
-Finland,1027,18210,450,9002,4525,Other personal appearance workers,1,34,0.0037769384581204176
-Finland,1027,18210,450,9002,0350,Medical and health services managers,1,33,0.003665852032881582
-Finland,1027,18210,450,9002,3930,Security guards and gaming surveillance officers,2,33,0.003665852032881582
-Finland,1027,18210,450,9002,4010,First-line supervisors of food preparation and serving workers,2,33,0.003665852032881582
-Finland,1027,18210,450,9002,4720,Cashiers,2,33,0.003665852032881582
-Finland,1027,18210,450,9002,0360,Natural sciences managers,1,32,0.003554765607642746
-Finland,1027,18210,450,9002,0565,Compliance officers,3,32,0.003554765607642746
-Finland,1027,18210,450,9002,2360,Other teachers and instructors,3,32,0.003554765607642746
-Finland,1027,18210,450,9002,5140,Payroll and timekeeping clerks,1,32,0.003554765607642746
-Finland,1027,18210,450,9002,1006,Computer systems analysts,2,31,0.0034436791824039104
-Finland,1027,18210,450,9002,1700,Astronomers and physicists,2,31,0.0034436791824039104
-Finland,1027,18210,450,9002,2635,Interior designers,1,31,0.0034436791824039104
-Finland,1027,18210,450,9002,3010,Dentists,3,31,0.0034436791824039104
-Finland,1027,18210,450,9002,7800,Bakers,1,31,0.0034436791824039104
-Finland,1027,18210,450,9002,3245,Other therapists,1,30,0.0033325927571650742
-Finland,1027,18210,450,9002,3258,"Nurse practitioners, and nurse midwives",2,29,0.0032215063319262385
-Finland,1027,18210,450,9002,0860,Insurance underwriters,1,27,0.002999333481448567
-Finland,1027,18210,450,9002,4220,Janitors and building cleaners,2,27,0.002999333481448567
-Finland,1027,18210,450,9002,8620,Water and wastewater treatment plant and system operators,1,27,0.002999333481448567
-Finland,1027,18210,450,9002,1360,Civil engineers,2,26,0.0028882470562097314
-Finland,1027,18210,450,9002,2310,Elementary and middle school teachers,2,26,0.0028882470562097314
-Finland,1027,18210,450,9002,4340,Animal trainers,2,26,0.0028882470562097314
-Finland,1027,18210,450,9002,8600,"Power plant operators, distributors, and dispatchers",1,25,0.002777160630970895
-Finland,1027,18210,450,9002,8640,"Chemical processing machine setters, operators, and tenders",1,25,0.002777160630970895
-Finland,1027,18210,450,9002,2710,Producers and directors,1,24,0.0026660742057320595
-Finland,1027,18210,450,9002,1460,Mechanical engineers,1,23,0.0025549877804932238
-Finland,1027,18210,450,9002,2600,Artists and related workers,2,23,0.0025549877804932238
-Finland,1027,18210,450,9002,4110,Waiters and waitresses,1,23,0.0025549877804932238
-Finland,1027,18210,450,9002,7420,Telecommunications line installers and repairers,1,23,0.0025549877804932238
-Finland,1027,18210,450,9002,4510,"Hairdressers, hairstylists, and cosmetologists",1,22,0.002443901355254388
-Finland,1027,18210,450,9002,4820,"Securities, commodities, and financial services sales agents",1,22,0.002443901355254388
-Finland,1027,18210,450,9002,7210,Bus and truck mechanics and diesel engine specialists,1,22,0.002443901355254388
-Finland,1027,18210,450,9002,9645,Stockers and order fillers,1,22,0.002443901355254388
-Finland,1027,18210,450,9002,7700,First-line supervisors of production and operating workers,2,21,0.0023328149300155523
-Finland,1027,18210,450,9002,9830,"Military, rank not specified",1,21,0.0023328149300155523
-Finland,1027,18210,450,9002,0101,Administrative services managers,1,20,0.002221728504776716
-Finland,1027,18210,450,9002,3500,Licensed practical and licensed vocational nurses,1,20,0.002221728504776716
-Finland,1027,18210,450,9002,5110,Billing and posting clerks,1,20,0.002221728504776716
-Finland,1027,18210,450,9002,7130,Security and fire alarm systems installers,1,20,0.002221728504776716
-Finland,1027,18210,450,9002,7640,"Other installation, maintenance, and repair workers",1,20,0.002221728504776716
-Finland,1027,18210,450,9002,9620,"Laborers and freight, stock, and material movers, hand",2,20,0.002221728504776716
-Finland,1027,18210,450,9002,2040,Clergy,1,19,0.0021106420795378804
-Finland,1027,18210,450,9002,2330,Special education teachers,1,19,0.0021106420795378804
-Finland,1027,18210,450,9002,3640,Dental assistants,1,19,0.0021106420795378804
-Finland,1027,18210,450,9002,4600,Childcare workers,1,19,0.0021106420795378804
-Finland,1027,18210,450,9002,5510,Couriers and messengers,1,18,0.0019995556542990447
-Finland,1027,18210,450,9002,1910,Biological technicians,1,17,0.0018884692290602088
-Finland,1027,18210,450,9002,2700,Actors,1,17,0.0018884692290602088
-Finland,1027,18210,450,9002,2752,Musicians and singers,1,16,0.001777382803821373
-Finland,1027,18210,450,9002,2001,Substance abuse and behavioral disorder counselors,1,15,0.0016662963785825371
-Finland,1027,18210,450,9002,5940,Other office and administrative support workers,1,15,0.0016662963785825371
-Finland,1027,18210,450,9002,2004,Mental health counselors,1,14,0.0015552099533437014
-Finland,1027,18210,450,9002,2300,Preschool and kindergarten teachers,2,14,0.0015552099533437014
-Finland,1027,18210,450,9002,3910,Private detectives and investigators,1,14,0.0015552099533437014
-Finland,1027,18210,450,9002,4200,First-line supervisors of housekeeping and janitorial workers,1,14,0.0015552099533437014
-Finland,1027,18210,450,9002,4522,Skincare specialists,1,14,0.0015552099533437014
-Finland,1027,18210,450,9002,6240,"Carpet, floor, and tile installers and finishers",1,14,0.0015552099533437014
-Finland,1027,18210,450,9002,6355,Electricians,1,14,0.0015552099533437014
-Finland,1027,18210,450,9002,0630,Human resources workers,1,13,0.0014441235281048657
-Finland,1027,18210,450,9002,2014,"Social workers, all other",1,13,0.0014441235281048657
-Finland,1027,18210,450,9002,3230,Speech-language pathologists,1,13,0.0014441235281048657
-Finland,1027,18210,450,9002,4230,Maids and housekeeping cleaners,1,13,0.0014441235281048657
-Finland,1027,18210,450,9002,5220,"Court, municipal, and license clerks",1,13,0.0014441235281048657
-Finland,1027,18210,450,9002,8255,Printing press operators,1,13,0.0014441235281048657
-Finland,1027,18210,450,9002,2631,Commercial and industrial designers,1,12,0.0013330371028660297
-Finland,1027,18210,450,9002,3150,Occupational therapists,1,12,0.0013330371028660297
-Finland,1027,18210,450,9002,7020,Radio and telecommunications equipment installers and repairers,1,12,0.0013330371028660297
-Finland,1027,18210,450,9002,7610,"Helpers--installation, maintenance, and repair workers",1,12,0.0013330371028660297
-Finland,1027,18210,450,9002,0725,"Meeting, convention, and event planners",1,11,0.001221950677627194
-Finland,1027,18210,450,9002,2722,Coaches and scouts,1,11,0.001221950677627194
-Finland,1027,18210,450,9002,0726,Fundraisers,1,10,0.001110864252388358
-Finland,1027,18210,450,9002,2002,"Educational, guidance, and career counselors and advisors",1,10,0.001110864252388358
-Finland,1027,18210,450,9002,2350,Tutors,1,10,0.001110864252388358
-Finland,1027,18210,450,9002,2840,Technical writers,1,10,0.001110864252388358
-Finland,1027,18210,450,9002,3323,Radiologic technologists and technicians,1,10,0.001110864252388358
-Finland,1027,18210,450,9002,3620,Physical therapist assistants and aides,1,10,0.001110864252388358
-Finland,1027,18210,450,9002,6260,Construction laborers,1,10,0.001110864252388358
-Finland,1027,18210,450,9002,7315,"Heating, air conditioning, and refrigeration mechanics and installers",1,10,0.001110864252388358
-Finland,1027,18210,450,9002,8320,Sewing machine operators,1,10,0.001110864252388358
-Finland,1027,18210,450,9002,1305,"Architects, except landscape and naval",1,9,9.997778271495224e-4
-Finland,1027,18210,450,9002,4030,Food preparation workers,1,9,9.997778271495224e-4
-Finland,1027,18210,450,9002,4930,Sales engineers,1,9,9.997778271495224e-4
-Finland,1027,18210,450,9002,8990,"Miscellaneous production workers, including equipment operators and tenders",1,9,9.997778271495224e-4
-Finland,1027,18210,450,9002,3605,Orderlies and psychiatric aides,1,8,8.886914019106865e-4
-Finland,1027,18210,450,9002,1007,Information security analysts,1,7,7.776049766718507e-4
-Finland,1027,18210,450,9002,1541,Architectural and civil drafters,1,7,7.776049766718507e-4
-Finland,1027,18210,450,9002,1840,Urban and regional planners,1,7,7.776049766718507e-4
-Finland,1027,18210,450,9002,2850,Writers and authors,1,7,7.776049766718507e-4
-Finland,1027,18210,450,9002,4465,"Morticians, undertakers, and funeral arrangers",1,7,7.776049766718507e-4
-Finland,1027,18210,450,9002,5100,Bill and account collectors,1,7,7.776049766718507e-4
-Finland,1027,18210,450,9002,0520,"Wholesale and retail buyers, except farm products",1,6,6.665185514330149e-4
-Finland,1027,18210,450,9002,2060,"Religious workers, all other",1,6,6.665185514330149e-4
-Finland,1027,18210,450,9002,8140,"Welding, soldering, and brazing workers",1,5,5.55432126194179e-4
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Finland,1027,18210,508,9799,0440,Other managers,30,685,0.0699050923563629
+Finland,1027,18210,508,9799,2205,Postsecondary teachers,25,495,0.050515358710072455
+Finland,1027,18210,508,9799,0010,Chief executives and legislators,24,474,0.048372282886008776
+Finland,1027,18210,508,9799,1021,Software developers,21,339,0.034595366874170835
+Finland,1027,18210,508,9799,0705,Project management specialists,14,277,0.028268190631697113
+Finland,1027,18210,508,9799,3255,Registered nurses,13,230,0.023471782834983163
+Finland,1027,18210,508,9799,2100,"Lawyers, and judges, magistrates, and other judicial workers",7,192,0.019593836105725074
+Finland,1027,18210,508,9799,5240,Customer service representatives,6,192,0.019593836105725074
+Finland,1027,18210,508,9799,0300,Architectural and engineering managers,7,183,0.01867537503826921
+Finland,1027,18210,508,9799,0750,"Business operations specialists, all other",6,182,0.01857332380855189
+Finland,1027,18210,508,9799,9030,Aircraft pilots and flight engineers,5,173,0.01765486274109603
+Finland,1027,18210,508,9799,0800,Accountants and auditors,9,150,0.015307684457597713
+Finland,1027,18210,508,9799,1530,Other engineers,9,150,0.015307684457597713
+Finland,1027,18210,508,9799,5740,"Secretaries and administrative assistants, except legal, medical, and executive",9,150,0.015307684457597713
+Finland,1027,18210,508,9799,0150,Purchasing managers,1,149,0.015205633227880396
+Finland,1027,18210,508,9799,1010,Computer programmers,2,135,0.013776916011837942
+Finland,1027,18210,508,9799,0710,Management analysts,9,122,0.012450250025512807
+Finland,1027,18210,508,9799,1760,"Physical scientists, all other",5,122,0.012450250025512807
+Finland,1027,18210,508,9799,0120,Financial managers,5,121,0.01234819879579549
+Finland,1027,18210,508,9799,9050,Flight attendants,4,119,0.012144096336360852
+Finland,1027,18210,508,9799,2861,Interpreters and translators,4,118,0.012042045106643536
+Finland,1027,18210,508,9799,4760,Retail salespersons,9,115,0.011735891417491581
+Finland,1027,18210,508,9799,4710,First-line supervisors of non-retail sales workers,6,112,0.011429737728339627
+Finland,1027,18210,508,9799,4850,"Sales representatives, wholesale and manufacturing",5,107,0.010919481579753035
+Finland,1027,18210,508,9799,0051,Marketing managers,3,106,0.010817430350035719
+Finland,1027,18210,508,9799,3090,Physicians,9,105,0.0107153791203184
+Finland,1027,18210,508,9799,3424,Veterinary technologists and technicians,3,98,0.010001020512297173
+Finland,1027,18210,508,9799,5000,First-line supervisors of office and administrative support workers,4,93,0.009490764363710583
+Finland,1027,18210,508,9799,0845,Financial and investment analysts,5,92,0.009388713133993264
+Finland,1027,18210,508,9799,0052,Sales managers,5,91,0.009286661904275946
+Finland,1027,18210,508,9799,1410,Electrical and electronics engineers,4,87,0.008878456985406675
+Finland,1027,18210,508,9799,8030,Machinists,2,82,0.008368200836820083
+Finland,1027,18210,508,9799,2360,Other teachers and instructors,4,81,0.008266149607102766
+Finland,1027,18210,508,9799,2634,Graphic designers,3,79,0.008062047147668129
+Finland,1027,18210,508,9799,4621,Exercise trainers and group fitness instructors,4,79,0.008062047147668129
+Finland,1027,18210,508,9799,4920,Real estate brokers and sales agents,5,76,0.007755893458516175
+Finland,1027,18210,508,9799,0850,Personal financial advisors,5,75,0.007653842228798857
+Finland,1027,18210,508,9799,4700,First-line supervisors of retail sales workers,5,75,0.007653842228798857
+Finland,1027,18210,508,9799,2145,Paralegals and legal assistants,3,74,0.007551790999081539
+Finland,1027,18210,508,9799,1430,"Industrial engineers, including health and safety",4,73,0.007449739769364221
+Finland,1027,18210,508,9799,4720,Cashiers,4,72,0.0073476885396469025
+Finland,1027,18210,508,9799,9130,Driver/sales workers and truck drivers,3,71,0.007245637309929585
+Finland,1027,18210,508,9799,2545,Teaching assistants,4,70,0.007143586080212267
+Finland,1027,18210,508,9799,3630,Massage therapists,3,69,0.007041534850494948
+Finland,1027,18210,508,9799,1825,Other psychologists,4,68,0.0069394836207776305
+Finland,1027,18210,508,9799,4435,Other entertainment attendants and related workers,2,68,0.0069394836207776305
+Finland,1027,18210,508,9799,0020,General and operations managers,4,63,0.00642922747219104
+Finland,1027,18210,508,9799,2640,Other designers,4,62,0.006327176242473722
+Finland,1027,18210,508,9799,1050,Computer support specialists,2,61,0.006225125012756403
+Finland,1027,18210,508,9799,1860,Other social scientists,2,58,0.005918971323604449
+Finland,1027,18210,508,9799,5120,"Bookkeeping, accounting, and auditing clerks",3,51,0.005204612715583223
+Finland,1027,18210,508,9799,0230,Education and childcare administrators,4,50,0.005102561485865905
+Finland,1027,18210,508,9799,4350,Animal caretakers,4,48,0.004898459026431269
+Finland,1027,18210,508,9799,7330,Industrial and refractory machinery mechanics,1,46,0.004694356566996632
+Finland,1027,18210,508,9799,3515,Medical records specialists,1,45,0.004592305337279314
+Finland,1027,18210,508,9799,0220,Construction managers,3,44,0.004490254107561996
+Finland,1027,18210,508,9799,1105,Network and computer systems administrators,2,43,0.004388202877844678
+Finland,1027,18210,508,9799,0136,Human resources managers,2,41,0.0041841004184100415
+Finland,1027,18210,508,9799,0735,Market research analysts and marketing specialists,2,41,0.0041841004184100415
+Finland,1027,18210,508,9799,3160,Physical therapists,2,40,0.004082049188692724
+Finland,1027,18210,508,9799,4000,Chefs and head cooks,2,40,0.004082049188692724
+Finland,1027,18210,508,9799,4110,Waiters and waitresses,2,40,0.004082049188692724
+Finland,1027,18210,508,9799,0410,"Property, real estate, and community association managers",1,39,0.003979997958975406
+Finland,1027,18210,508,9799,5400,Receptionists and information clerks,2,39,0.003979997958975406
+Finland,1027,18210,508,9799,1108,"Computer occupations, all other",2,38,0.0038779467292580877
+Finland,1027,18210,508,9799,5510,Couriers and messengers,2,38,0.0038779467292580877
+Finland,1027,18210,508,9799,8740,"Inspectors, testers, sorters, samplers, and weighers",2,38,0.0038779467292580877
+Finland,1027,18210,508,9799,7200,Automotive service technicians and mechanics,2,37,0.0037758954995407695
+Finland,1027,18210,508,9799,0110,Computer and information systems managers,4,36,0.0036738442698234512
+Finland,1027,18210,508,9799,0500,"Agents and business managers of artists, performers, and athletes",1,36,0.0036738442698234512
+Finland,1027,18210,508,9799,3602,Personal care aides,2,35,0.0035717930401061334
+Finland,1027,18210,508,9799,4622,Recreation workers,2,35,0.0035717930401061334
+Finland,1027,18210,508,9799,4810,Insurance sales agents,1,35,0.0035717930401061334
+Finland,1027,18210,508,9799,4525,Other personal appearance workers,1,34,0.0034697418103888152
+Finland,1027,18210,508,9799,0350,Medical and health services managers,1,33,0.003367690580671497
+Finland,1027,18210,508,9799,3930,Security guards and gaming surveillance officers,2,33,0.003367690580671497
+Finland,1027,18210,508,9799,4010,First-line supervisors of food preparation and serving workers,2,33,0.003367690580671497
+Finland,1027,18210,508,9799,0360,Natural sciences managers,1,32,0.003265639350954179
+Finland,1027,18210,508,9799,0565,Compliance officers,3,32,0.003265639350954179
+Finland,1027,18210,508,9799,5140,Payroll and timekeeping clerks,1,32,0.003265639350954179
+Finland,1027,18210,508,9799,1006,Computer systems analysts,2,31,0.003163588121236861
+Finland,1027,18210,508,9799,1700,Astronomers and physicists,2,31,0.003163588121236861
+Finland,1027,18210,508,9799,2635,Interior designers,1,31,0.003163588121236861
+Finland,1027,18210,508,9799,3010,Dentists,3,31,0.003163588121236861
+Finland,1027,18210,508,9799,7800,Bakers,1,31,0.003163588121236861
+Finland,1027,18210,508,9799,3245,Other therapists,1,30,0.0030615368915195428
+Finland,1027,18210,508,9799,4030,Food preparation workers,3,30,0.0030615368915195428
+Finland,1027,18210,508,9799,2600,Artists and related workers,3,29,0.0029594856618022245
+Finland,1027,18210,508,9799,3258,"Nurse practitioners, and nurse midwives",2,29,0.0029594856618022245
+Finland,1027,18210,508,9799,0860,Insurance underwriters,1,27,0.0027553832023675885
+Finland,1027,18210,508,9799,4220,Janitors and building cleaners,2,27,0.0027553832023675885
+Finland,1027,18210,508,9799,8620,Water and wastewater treatment plant and system operators,1,27,0.0027553832023675885
+Finland,1027,18210,508,9799,1360,Civil engineers,2,26,0.0026533319726502703
+Finland,1027,18210,508,9799,2310,Elementary and middle school teachers,2,26,0.0026533319726502703
+Finland,1027,18210,508,9799,4340,Animal trainers,2,26,0.0026533319726502703
+Finland,1027,18210,508,9799,6355,Electricians,2,25,0.0025512807429329525
+Finland,1027,18210,508,9799,8600,"Power plant operators, distributors, and dispatchers",1,25,0.0025512807429329525
+Finland,1027,18210,508,9799,8640,"Chemical processing machine setters, operators, and tenders",1,25,0.0025512807429329525
+Finland,1027,18210,508,9799,2710,Producers and directors,1,24,0.0024492295132156343
+Finland,1027,18210,508,9799,1460,Mechanical engineers,1,23,0.002347178283498316
+Finland,1027,18210,508,9799,7420,Telecommunications line installers and repairers,1,23,0.002347178283498316
+Finland,1027,18210,508,9799,4510,"Hairdressers, hairstylists, and cosmetologists",1,22,0.002245127053780998
+Finland,1027,18210,508,9799,4820,"Securities, commodities, and financial services sales agents",1,22,0.002245127053780998
+Finland,1027,18210,508,9799,7210,Bus and truck mechanics and diesel engine specialists,1,22,0.002245127053780998
+Finland,1027,18210,508,9799,9645,Stockers and order fillers,1,22,0.002245127053780998
+Finland,1027,18210,508,9799,6260,Construction laborers,2,21,0.00214307582406368
+Finland,1027,18210,508,9799,7700,First-line supervisors of production and operating workers,2,21,0.00214307582406368
+Finland,1027,18210,508,9799,9830,"Military, rank not specified",1,21,0.00214307582406368
+Finland,1027,18210,508,9799,0101,Administrative services managers,1,20,0.002041024594346362
+Finland,1027,18210,508,9799,3500,Licensed practical and licensed vocational nurses,1,20,0.002041024594346362
+Finland,1027,18210,508,9799,5110,Billing and posting clerks,1,20,0.002041024594346362
+Finland,1027,18210,508,9799,7130,Security and fire alarm systems installers,1,20,0.002041024594346362
+Finland,1027,18210,508,9799,7640,"Other installation, maintenance, and repair workers",1,20,0.002041024594346362
+Finland,1027,18210,508,9799,9620,"Laborers and freight, stock, and material movers, hand",2,20,0.002041024594346362
+Finland,1027,18210,508,9799,2040,Clergy,1,19,0.0019389733646290438
+Finland,1027,18210,508,9799,2330,Special education teachers,1,19,0.0019389733646290438
+Finland,1027,18210,508,9799,3640,Dental assistants,1,19,0.0019389733646290438
+Finland,1027,18210,508,9799,4600,Childcare workers,1,19,0.0019389733646290438
+Finland,1027,18210,508,9799,3603,Nursing assistants,2,18,0.0018369221349117256
+Finland,1027,18210,508,9799,1910,Biological technicians,1,17,0.0017348709051944076
+Finland,1027,18210,508,9799,2700,Actors,1,17,0.0017348709051944076
+Finland,1027,18210,508,9799,2752,Musicians and singers,1,16,0.0016328196754770896
+Finland,1027,18210,508,9799,5320,"Library assistants, clerical",1,16,0.0016328196754770896
+Finland,1027,18210,508,9799,2001,Substance abuse and behavioral disorder counselors,1,15,0.0015307684457597714
+Finland,1027,18210,508,9799,5940,Other office and administrative support workers,1,15,0.0015307684457597714
+Finland,1027,18210,508,9799,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,15,0.0015307684457597714
+Finland,1027,18210,508,9799,2004,Mental health counselors,1,14,0.0014287172160424534
+Finland,1027,18210,508,9799,2300,Preschool and kindergarten teachers,2,14,0.0014287172160424534
+Finland,1027,18210,508,9799,3910,Private detectives and investigators,1,14,0.0014287172160424534
+Finland,1027,18210,508,9799,4200,First-line supervisors of housekeeping and janitorial workers,1,14,0.0014287172160424534
+Finland,1027,18210,508,9799,4522,Skincare specialists,1,14,0.0014287172160424534
+Finland,1027,18210,508,9799,6240,"Carpet, floor, and tile installers and finishers",1,14,0.0014287172160424534
+Finland,1027,18210,508,9799,9141,Shuttle drivers and chauffeurs,1,14,0.0014287172160424534
+Finland,1027,18210,508,9799,0630,Human resources workers,1,13,0.0013266659863251352
+Finland,1027,18210,508,9799,2014,"Social workers, all other",1,13,0.0013266659863251352
+Finland,1027,18210,508,9799,3230,Speech-language pathologists,1,13,0.0013266659863251352
+Finland,1027,18210,508,9799,4230,Maids and housekeeping cleaners,1,13,0.0013266659863251352
+Finland,1027,18210,508,9799,5220,"Court, municipal, and license clerks",1,13,0.0013266659863251352
+Finland,1027,18210,508,9799,8255,Printing press operators,1,13,0.0013266659863251352
+Finland,1027,18210,508,9799,0205,"Farmers, ranchers, and other agricultural managers",1,12,0.0012246147566078172
+Finland,1027,18210,508,9799,2631,Commercial and industrial designers,1,12,0.0012246147566078172
+Finland,1027,18210,508,9799,3150,Occupational therapists,1,12,0.0012246147566078172
+Finland,1027,18210,508,9799,7020,Radio and telecommunications equipment installers and repairers,1,12,0.0012246147566078172
+Finland,1027,18210,508,9799,7610,"Helpers--installation, maintenance, and repair workers",1,12,0.0012246147566078172
+Finland,1027,18210,508,9799,0725,"Meeting, convention, and event planners",1,11,0.001122563526890499
+Finland,1027,18210,508,9799,1305,"Architects, except landscape and naval",3,11,0.001122563526890499
+Finland,1027,18210,508,9799,2722,Coaches and scouts,1,11,0.001122563526890499
+Finland,1027,18210,508,9799,6230,Carpenters,2,11,0.001122563526890499
+Finland,1027,18210,508,9799,0726,Fundraisers,1,10,0.001020512297173181
+Finland,1027,18210,508,9799,2002,"Educational, guidance, and career counselors and advisors",1,10,0.001020512297173181
+Finland,1027,18210,508,9799,2350,Tutors,1,10,0.001020512297173181
+Finland,1027,18210,508,9799,2840,Technical writers,1,10,0.001020512297173181
+Finland,1027,18210,508,9799,3323,Radiologic technologists and technicians,1,10,0.001020512297173181
+Finland,1027,18210,508,9799,3620,Physical therapist assistants and aides,1,10,0.001020512297173181
+Finland,1027,18210,508,9799,7315,"Heating, air conditioning, and refrigeration mechanics and installers",1,10,0.001020512297173181
+Finland,1027,18210,508,9799,8320,Sewing machine operators,1,10,0.001020512297173181
+Finland,1027,18210,508,9799,4930,Sales engineers,1,9,9.184610674558628e-4
+Finland,1027,18210,508,9799,6720,Hazardous materials removal workers,1,9,9.184610674558628e-4
+Finland,1027,18210,508,9799,8990,"Miscellaneous production workers, including equipment operators and tenders",1,9,9.184610674558628e-4
+Finland,1027,18210,508,9799,3605,Orderlies and psychiatric aides,1,8,8.164098377385448e-4
+Finland,1027,18210,508,9799,1007,Information security analysts,1,7,7.143586080212267e-4
+Finland,1027,18210,508,9799,1541,Architectural and civil drafters,1,7,7.143586080212267e-4
+Finland,1027,18210,508,9799,1840,Urban and regional planners,1,7,7.143586080212267e-4
+Finland,1027,18210,508,9799,2850,Writers and authors,1,7,7.143586080212267e-4
+Finland,1027,18210,508,9799,4465,"Morticians, undertakers, and funeral arrangers",1,7,7.143586080212267e-4
+Finland,1027,18210,508,9799,5100,Bill and account collectors,1,7,7.143586080212267e-4
+Finland,1027,18210,508,9799,0520,"Wholesale and retail buyers, except farm products",1,6,6.123073783039086e-4
+Finland,1027,18210,508,9799,2060,"Religious workers, all other",1,6,6.123073783039086e-4
+Finland,1027,18210,508,9799,2825,Public relations specialists,1,6,6.123073783039086e-4
+Finland,1027,18210,508,9799,8140,"Welding, soldering, and brazing workers",1,5,5.102561485865905e-4
+Finland,1027,18210,508,9799,4020,Cooks,1,2,2.041024594346362e-4

@@ -1,358 +1,367 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Australia,5298,102893,2941,61104,0440,Other managers,190,3766,0.06163262634197434
-Australia,5298,102893,2941,61104,1021,Software developers,130,2935,0.04803286200576067
-Australia,5298,102893,2941,61104,0010,Chief executives and legislators,137,2500,0.04091385179366326
-Australia,5298,102893,2941,61104,2205,Postsecondary teachers,90,1477,0.024171903639696256
-Australia,5298,102893,2941,61104,0051,Marketing managers,41,1052,0.017216548834773502
-Australia,5298,102893,2941,61104,0630,Human resources workers,33,970,0.015874574495941346
-Australia,5298,102893,2941,61104,2100,"Lawyers, and judges, magistrates, and other judicial workers",43,959,0.015694553548049228
-Australia,5298,102893,2941,61104,0120,Financial managers,44,958,0.015678188007331763
-Australia,5298,102893,2941,61104,0052,Sales managers,29,924,0.015121759622937941
-Australia,5298,102893,2941,61104,0735,Market research analysts and marketing specialists,23,918,0.01502356637863315
-Australia,5298,102893,2941,61104,3255,Registered nurses,40,900,0.014728986645718775
-Australia,5298,102893,2941,61104,0710,Management analysts,55,888,0.014532600157109192
-Australia,5298,102893,2941,61104,4700,First-line supervisors of retail sales workers,38,846,0.013845247446975647
-Australia,5298,102893,2941,61104,1760,"Physical scientists, all other",43,843,0.013796150824823251
-Australia,5298,102893,2941,61104,2310,Elementary and middle school teachers,38,818,0.013387012306886619
-Australia,5298,102893,2941,61104,0020,General and operations managers,41,787,0.012879680544645195
-Australia,5298,102893,2941,61104,4760,Retail salespersons,30,686,0.011226760932181199
-Australia,5298,102893,2941,61104,4920,Real estate brokers and sales agents,24,675,0.01104673998428908
-Australia,5298,102893,2941,61104,0850,Personal financial advisors,12,629,0.010293925111285677
-Australia,5298,102893,2941,61104,0800,Accountants and auditors,35,602,0.009852055511914114
-Australia,5298,102893,2941,61104,0705,Project management specialists,29,594,0.009721131186174391
-Australia,5298,102893,2941,61104,0110,Computer and information systems managers,33,577,0.009442916993977481
-Australia,5298,102893,2941,61104,5240,Customer service representatives,30,570,0.009328358208955223
-Australia,5298,102893,2941,61104,0230,Education and childcare administrators,27,556,0.009099240638910709
-Australia,5298,102893,2941,61104,2710,Producers and directors,25,553,0.009050144016758313
-Australia,5298,102893,2941,61104,2640,Other designers,21,552,0.009033778476040848
-Australia,5298,102893,2941,61104,0220,Construction managers,23,497,0.008133673736580256
-Australia,5298,102893,2941,61104,2721,Athletes and sports competitors,8,496,0.008117308195862791
-Australia,5298,102893,2941,61104,1006,Computer systems analysts,20,486,0.007953652788688138
-Australia,5298,102893,2941,61104,4110,Waiters and waitresses,21,477,0.00780636292223095
-Australia,5298,102893,2941,61104,4850,"Sales representatives, wholesale and manufacturing",20,473,0.007740900759361089
-Australia,5298,102893,2941,61104,4600,Childcare workers,12,468,0.007659073055773763
-Australia,5298,102893,2941,61104,5740,"Secretaries and administrative assistants, except legal, medical, and executive",27,467,0.007642707515056297
-Australia,5298,102893,2941,61104,9030,Aircraft pilots and flight engineers,22,463,0.007577245352186436
-Australia,5298,102893,2941,61104,2545,Teaching assistants,18,455,0.007446321026446713
-Australia,5298,102893,2941,61104,1240,Other mathematical science occupations,27,440,0.0072008379156847345
-Australia,5298,102893,2941,61104,2600,Artists and related workers,23,439,0.007184472374967269
-Australia,5298,102893,2941,61104,5120,"Bookkeeping, accounting, and auditing clerks",18,409,0.006693506153443309
-Australia,5298,102893,2941,61104,1108,"Computer occupations, all other",17,408,0.006677140612725845
-Australia,5298,102893,2941,61104,6230,Carpenters,16,383,0.006268002094789212
-Australia,5298,102893,2941,61104,4710,First-line supervisors of non-retail sales workers,22,370,0.0060552500654621625
-Australia,5298,102893,2941,61104,1360,Civil engineers,12,363,0.005940691280439905
-Australia,5298,102893,2941,61104,2360,Other teachers and instructors,21,356,0.005826132495417648
-Australia,5298,102893,2941,61104,2752,Musicians and singers,14,355,0.0058097669547001836
-Australia,5298,102893,2941,61104,1650,Other life scientists,16,350,0.005727939251112857
-Australia,5298,102893,2941,61104,1050,Computer support specialists,15,341,0.005580649384655669
-Australia,5298,102893,2941,61104,4965,"Sales and related workers, all other",12,335,0.005482456140350877
-Australia,5298,102893,2941,61104,9130,Driver/sales workers and truck drivers,14,328,0.00536789735532862
-Australia,5298,102893,2941,61104,7340,"Maintenance and repair workers, general",9,324,0.0053024351924587584
-Australia,5298,102893,2941,61104,0350,Medical and health services managers,19,318,0.005204241948153967
-Australia,5298,102893,2941,61104,0410,"Property, real estate, and community association managers",17,312,0.005106048703849175
-Australia,5298,102893,2941,61104,5860,"Office clerks, general",15,307,0.005024221000261848
-Australia,5298,102893,2941,61104,9645,Stockers and order fillers,16,305,0.004991489918826918
-Australia,5298,102893,2941,61104,1530,Other engineers,18,301,0.004926027755957057
-Australia,5298,102893,2941,61104,2850,Writers and authors,16,299,0.004893296674522127
-Australia,5298,102893,2941,61104,2722,Coaches and scouts,15,291,0.004762372348782404
-Australia,5298,102893,2941,61104,5600,"Production, planning, and expediting clerks",3,291,0.004762372348782404
-Australia,5298,102893,2941,61104,2320,Secondary school teachers,13,287,0.004696910185912543
-Australia,5298,102893,2941,61104,3160,Physical therapists,13,286,0.004680544645195077
-Australia,5298,102893,2941,61104,9620,"Laborers and freight, stock, and material movers, hand",14,284,0.004647813563760147
-Australia,5298,102893,2941,61104,1305,"Architects, except landscape and naval",15,283,0.004631448023042681
-Australia,5298,102893,2941,61104,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",13,277,0.00453325477873789
-Australia,5298,102893,2941,61104,3090,Physicians,20,270,0.004418695993715633
-Australia,5298,102893,2941,61104,0300,Architectural and engineering managers,12,263,0.0043041372086933755
-Australia,5298,102893,2941,61104,2910,Photographers,8,262,0.00428777166797591
-Australia,5298,102893,2941,61104,0420,Social and community service managers,20,254,0.004156847342236187
-Australia,5298,102893,2941,61104,2920,"Television, video, and film camera operators and editors",13,253,0.004140481801518723
-Australia,5298,102893,2941,61104,1430,"Industrial engineers, including health and safety",12,251,0.0041077507200837915
-Australia,5298,102893,2941,61104,5940,Other office and administrative support workers,11,249,0.004075019638648861
-Australia,5298,102893,2941,61104,2002,"Educational, guidance, and career counselors and advisors",5,247,0.00404228855721393
-Australia,5298,102893,2941,61104,4621,Exercise trainers and group fitness instructors,13,244,0.003993191935061534
-Australia,5298,102893,2941,61104,1410,Electrical and electronics engineers,15,240,0.003927729772191673
-Australia,5298,102893,2941,61104,0136,Human resources managers,12,235,0.0038459020686043466
-Australia,5298,102893,2941,61104,3250,Veterinarians,14,235,0.0038459020686043466
-Australia,5298,102893,2941,61104,1105,Network and computer systems administrators,12,231,0.0037804399057344853
-Australia,5298,102893,2941,61104,5000,First-line supervisors of office and administrative support workers,15,230,0.00376407436501702
-Australia,5298,102893,2941,61104,6260,Construction laborers,9,230,0.00376407436501702
-Australia,5298,102893,2941,61104,4720,Cashiers,14,227,0.0037149777428646244
-Australia,5298,102893,2941,61104,5510,Couriers and messengers,8,219,0.0035840534171249017
-Australia,5298,102893,2941,61104,4040,Bartenders,8,218,0.0035676878764074366
-Australia,5298,102893,2941,61104,4251,Landscaping and groundskeeping workers,10,215,0.003518591254255041
-Australia,5298,102893,2941,61104,2634,Graphic designers,14,213,0.00348586017282011
-Australia,5298,102893,2941,61104,5400,Receptionists and information clerks,9,211,0.0034531290913851795
-Australia,5298,102893,2941,61104,8740,"Inspectors, testers, sorters, samplers, and weighers",11,211,0.0034531290913851795
-Australia,5298,102893,2941,61104,9005,Supervisors of transportation and material moving workers,5,211,0.0034531290913851795
-Australia,5298,102893,2941,61104,8990,"Miscellaneous production workers, including equipment operators and tenders",9,210,0.003436763550667714
-Australia,5298,102893,2941,61104,1750,"Geoscientists and hydrologists, except geographers",8,201,0.003289473684210526
-Australia,5298,102893,2941,61104,0750,"Business operations specialists, all other",13,199,0.003256742602775596
-Australia,5298,102893,2941,61104,2040,Clergy,11,199,0.003256742602775596
-Australia,5298,102893,2941,61104,0960,Other financial specialists,7,196,0.0032076459806231997
-Australia,5298,102893,2941,61104,4820,"Securities, commodities, and financial services sales agents",10,184,0.003011259492013616
-Australia,5298,102893,2941,61104,0310,Food service managers,11,183,0.002994893951296151
-Australia,5298,102893,2941,61104,1555,"Other engineering technologists and technicians, except drafters",7,175,0.0028639696255564283
-Australia,5298,102893,2941,61104,0040,Advertising and promotions managers,9,166,0.0027166797590992406
-Australia,5298,102893,2941,61104,6200,First-line supervisors of construction trades and extraction workers,7,166,0.0027166797590992406
-Australia,5298,102893,2941,61104,0060,Public relations and fundraising managers,10,164,0.00268394867766431
-Australia,5298,102893,2941,61104,2632,Fashion designers,8,163,0.0026675831369468448
-Australia,5298,102893,2941,61104,1032,Web and digital interface designers,6,160,0.002618486514794449
-Australia,5298,102893,2941,61104,4000,Chefs and head cooks,7,153,0.002503927729772192
-Australia,5298,102893,2941,61104,2300,Preschool and kindergarten teachers,7,151,0.002471196648337261
-Australia,5298,102893,2941,61104,0845,Financial and investment analysts,9,149,0.0024384655669023305
-Australia,5298,102893,2941,61104,2145,Paralegals and legal assistants,6,147,0.0024057344854674
-Australia,5298,102893,2941,61104,7200,Automotive service technicians and mechanics,7,147,0.0024057344854674
-Australia,5298,102893,2941,61104,4055,Fast food and counter workers,8,146,0.0023893689447499343
-Australia,5298,102893,2941,61104,0725,"Meeting, convention, and event planners",4,144,0.002356637863315004
-Australia,5298,102893,2941,61104,2635,Interior designers,5,144,0.002356637863315004
-Australia,5298,102893,2941,61104,4020,Cooks,4,140,0.0022911757004451428
-Australia,5298,102893,2941,61104,0540,"Claims adjusters, appraisers, examiners, and investigators",4,135,0.0022093479968578163
-Australia,5298,102893,2941,61104,1320,Aerospace engineers,9,134,0.0021929824561403508
-Australia,5298,102893,2941,61104,5710,Executive secretaries and executive administrative assistants,9,134,0.0021929824561403508
-Australia,5298,102893,2941,61104,6442,"Plumbers, pipefitters, and steamfitters",5,134,0.0021929824561403508
-Australia,5298,102893,2941,61104,0650,Training and development specialists,4,131,0.002143885833987955
-Australia,5298,102893,2941,61104,4435,Other entertainment attendants and related workers,5,126,0.0020620581304006285
-Australia,5298,102893,2941,61104,0205,"Farmers, ranchers, and other agricultural managers",10,124,0.002029327048965698
-Australia,5298,102893,2941,61104,5110,Billing and posting clerks,6,123,0.0020129615082482323
-Australia,5298,102893,2941,61104,2014,"Social workers, all other",8,121,0.001980230426813302
-Australia,5298,102893,2941,61104,4510,"Hairdressers, hairstylists, and cosmetologists",7,121,0.001980230426813302
-Australia,5298,102893,2941,61104,7210,Bus and truck mechanics and diesel engine specialists,3,121,0.001980230426813302
-Australia,5298,102893,2941,61104,1106,Computer network architects,6,120,0.0019638648860958365
-Australia,5298,102893,2941,61104,2330,Special education teachers,5,120,0.0019638648860958365
-Australia,5298,102893,2941,61104,4350,Animal caretakers,6,119,0.0019474993453783714
-Australia,5298,102893,2941,61104,1010,Computer programmers,5,117,0.0019147682639434407
-Australia,5298,102893,2941,61104,3870,Police officers,5,117,0.0019147682639434407
-Australia,5298,102893,2941,61104,1007,Information security analysts,7,116,0.0018984027232259754
-Australia,5298,102893,2941,61104,7010,"Computer, automated teller, and office machine repairers",3,116,0.0018984027232259754
-Australia,5298,102893,2941,61104,0137,Training and development managers,5,111,0.001816575019638649
-Australia,5298,102893,2941,61104,0140,Industrial production managers,6,111,0.001816575019638649
-Australia,5298,102893,2941,61104,2770,"Entertainers and performers, sports and related workers, all other",6,111,0.001816575019638649
-Australia,5298,102893,2941,61104,1460,Mechanical engineers,8,109,0.0017838439382037183
-Australia,5298,102893,2941,61104,2435,Librarians and media collections specialists,5,106,0.0017347473160513223
-Australia,5298,102893,2941,61104,6410,Painters and paperhangers,4,103,0.0016856506938989265
-Australia,5298,102893,2941,61104,3150,Occupational therapists,5,101,0.0016529196124639958
-Australia,5298,102893,2941,61104,4800,Advertising sales agents,6,99,0.0016201885310290652
-Australia,5298,102893,2941,61104,3230,Speech-language pathologists,4,93,0.0015219952867242734
-Australia,5298,102893,2941,61104,3910,Private detectives and investigators,4,93,0.0015219952867242734
-Australia,5298,102893,2941,61104,1970,"Other life, physical, and social science technicians",5,92,0.001505629746006808
-Australia,5298,102893,2941,61104,0910,Credit counselors and loan officers,5,89,0.001456533123854412
-Australia,5298,102893,2941,61104,1900,Agricultural and food science technicians,4,89,0.001456533123854412
-Australia,5298,102893,2941,61104,7840,Food batchmakers,2,89,0.001456533123854412
-Australia,5298,102893,2941,61104,9050,Flight attendants,5,89,0.001456533123854412
-Australia,5298,102893,2941,61104,1065,Database administrators and architects,4,87,0.0014238020424194816
-Australia,5298,102893,2941,61104,3602,Personal care aides,7,86,0.0014074365017020163
-Australia,5298,102893,2941,61104,7700,First-line supervisors of production and operating workers,5,86,0.0014074365017020163
-Australia,5298,102893,2941,61104,9141,Shuttle drivers and chauffeurs,2,85,0.001391070960984551
-Australia,5298,102893,2941,61104,2825,Public relations specialists,7,81,0.0013256087981146896
-Australia,5298,102893,2941,61104,8030,Machinists,3,80,0.0013092432573972245
-Australia,5298,102893,2941,61104,0335,Entertainment and recreation managers,3,79,0.0012928777166797592
-Australia,5298,102893,2941,61104,1400,Computer hardware engineers,4,79,0.0012928777166797592
-Australia,5298,102893,2941,61104,6040,"Graders and sorters, agricultural products",1,78,0.0012765121759622938
-Australia,5298,102893,2941,61104,4230,Maids and housekeeping cleaners,5,77,0.0012601466352448285
-Australia,5298,102893,2941,61104,4950,"Door-to-door sales workers, news and street vendors, and related workers",3,76,0.0012437810945273632
-Australia,5298,102893,2941,61104,2810,"News analysts, reporters, and journalists",6,75,0.0012274155538098978
-Australia,5298,102893,2941,61104,8555,Other woodworkers,2,75,0.0012274155538098978
-Australia,5298,102893,2941,61104,1350,Chemical engineers,3,73,0.0011946844723749672
-Australia,5298,102893,2941,61104,0160,"Transportation, storage, and distribution managers",4,72,0.001178318931657502
-Australia,5298,102893,2941,61104,0565,Compliance officers,3,72,0.001178318931657502
-Australia,5298,102893,2941,61104,3500,Licensed practical and licensed vocational nurses,4,71,0.0011619533909400367
-Australia,5298,102893,2941,61104,3930,Security guards and gaming surveillance officers,7,71,0.0011619533909400367
-Australia,5298,102893,2941,61104,7330,Industrial and refractory machinery mechanics,2,71,0.0011619533909400367
-Australia,5298,102893,2941,61104,0830,Credit analysts,2,69,0.001129222309505106
-Australia,5298,102893,2941,61104,7000,"First-line supervisors of mechanics, installers, and repairers",5,69,0.001129222309505106
-Australia,5298,102893,2941,61104,1825,Other psychologists,4,68,0.0011128567687876407
-Australia,5298,102893,2941,61104,3603,Nursing assistants,5,68,0.0011128567687876407
-Australia,5298,102893,2941,61104,4530,"Baggage porters, bellhops, and concierges",3,67,0.0010964912280701754
-Australia,5298,102893,2941,61104,5420,Other information and records clerks,4,66,0.00108012568735271
-Australia,5298,102893,2941,61104,3321,Cardiovascular technologists and technicians,2,65,0.001063760146635245
-Australia,5298,102893,2941,61104,7750,Other assemblers and fabricators,4,65,0.001063760146635245
-Australia,5298,102893,2941,61104,3945,Transportation security screeners,1,64,0.0010473946059177796
-Australia,5298,102893,2941,61104,6240,"Carpet, floor, and tile installers and finishers",2,64,0.0010473946059177796
-Australia,5298,102893,2941,61104,2555,Other educational instruction and library workers,3,61,9.982979837653836e-4
-Australia,5298,102893,2941,61104,4340,Animal trainers,6,61,9.982979837653836e-4
-Australia,5298,102893,2941,61104,5522,"Dispatchers, except police, fire, and ambulance",2,61,9.982979837653836e-4
-Australia,5298,102893,2941,61104,8750,Jewelers and precious stone and metal workers,3,61,9.982979837653836e-4
-Australia,5298,102893,2941,61104,2700,Actors,2,60,9.819324430479183e-4
-Australia,5298,102893,2941,61104,3421,Pharmacy technicians,4,60,9.819324430479183e-4
-Australia,5298,102893,2941,61104,5165,Other financial clerks,4,60,9.819324430479183e-4
-Australia,5298,102893,2941,61104,1720,Chemists and materials scientists,4,59,9.65566902330453e-4
-Australia,5298,102893,2941,61104,4220,Janitors and building cleaners,5,59,9.65566902330453e-4
-Australia,5298,102893,2941,61104,0150,Purchasing managers,4,58,9.492013616129877e-4
-Australia,5298,102893,2941,61104,3010,Dentists,4,58,9.492013616129877e-4
-Australia,5298,102893,2941,61104,3424,Veterinary technologists and technicians,2,57,9.328358208955224e-4
-Australia,5298,102893,2941,61104,4130,Dining room and cafeteria attendants and bartender helpers,2,56,9.16470280178057e-4
-Australia,5298,102893,2941,61104,2016,Social and human service assistants,3,55,9.001047394605918e-4
-Australia,5298,102893,2941,61104,2830,Editors,4,55,9.001047394605918e-4
-Australia,5298,102893,2941,61104,4540,Tour and travel guides,3,55,9.001047394605918e-4
-Australia,5298,102893,2941,61104,3322,Diagnostic medical sonographers,3,54,8.837391987431265e-4
-Australia,5298,102893,2941,61104,3740,Firefighters,5,54,8.837391987431265e-4
-Australia,5298,102893,2941,61104,4810,Insurance sales agents,3,54,8.837391987431265e-4
-Australia,5298,102893,2941,61104,1860,Other social scientists,3,53,8.673736580256611e-4
-Australia,5298,102893,2941,61104,4830,Travel agents,4,53,8.673736580256611e-4
-Australia,5298,102893,2941,61104,7430,Precision instrument and equipment repairers,1,53,8.673736580256611e-4
-Australia,5298,102893,2941,61104,9365,Transportation service attendants,1,53,8.673736580256611e-4
-Australia,5298,102893,2941,61104,0520,"Wholesale and retail buyers, except farm products",3,51,8.346425765907306e-4
-Australia,5298,102893,2941,61104,1306,Landscape architects,4,51,8.346425765907306e-4
-Australia,5298,102893,2941,61104,0700,Logisticians,4,50,8.182770358732653e-4
-Australia,5298,102893,2941,61104,2740,Dancers and choreographers,2,50,8.182770358732653e-4
-Australia,5298,102893,2941,61104,3050,Pharmacists,2,50,8.182770358732653e-4
-Australia,5298,102893,2941,61104,3620,Physical therapist assistants and aides,3,49,8.019114951557999e-4
-Australia,5298,102893,2941,61104,5160,Tellers,3,49,8.019114951557999e-4
-Australia,5298,102893,2941,61104,5330,Loan interviewers and clerks,1,49,8.019114951557999e-4
-Australia,5298,102893,2941,61104,2805,Broadcast announcers and radio disc jockeys,1,48,7.855459544383347e-4
-Australia,5298,102893,2941,61104,2865,"Media and communication workers, all other",3,48,7.855459544383347e-4
-Australia,5298,102893,2941,61104,7220,Heavy vehicle and mobile equipment service technicians and mechanics,3,48,7.855459544383347e-4
-Australia,5298,102893,2941,61104,8225,Other metal workers and plastic workers,2,48,7.855459544383347e-4
-Australia,5298,102893,2941,61104,3245,Other therapists,2,46,7.52814873003404e-4
-Australia,5298,102893,2941,61104,7810,"Butchers and other meat, poultry, and fish processing workers",2,46,7.52814873003404e-4
-Australia,5298,102893,2941,61104,1200,Actuaries,2,45,7.364493322859387e-4
-Australia,5298,102893,2941,61104,2400,"Archivists, curators, and museum technicians",3,45,7.364493322859387e-4
-Australia,5298,102893,2941,61104,3323,Radiologic technologists and technicians,2,45,7.364493322859387e-4
-Australia,5298,102893,2941,61104,2004,Mental health counselors,3,44,7.200837915684735e-4
-Australia,5298,102893,2941,61104,4010,First-line supervisors of food preparation and serving workers,3,44,7.200837915684735e-4
-Australia,5298,102893,2941,61104,5220,"Court, municipal, and license clerks",2,44,7.200837915684735e-4
-Australia,5298,102893,2941,61104,1935,"Environmental science and geoscience technicians, and nuclear technicians",2,41,6.709871694160775e-4
-Australia,5298,102893,2941,61104,9800,Military officer special and tactical operations leaders,2,41,6.709871694160775e-4
-Australia,5298,102893,2941,61104,2001,Substance abuse and behavioral disorder counselors,2,40,6.546216286986122e-4
-Australia,5298,102893,2941,61104,3645,Medical assistants,4,40,6.546216286986122e-4
-Australia,5298,102893,2941,61104,8500,Cabinetmakers and bench carpenters,2,40,6.546216286986122e-4
-Australia,5298,102893,2941,61104,3630,Massage therapists,2,39,6.382560879811469e-4
-Australia,5298,102893,2941,61104,3960,Other protective service workers,3,39,6.382560879811469e-4
-Australia,5298,102893,2941,61104,0930,"Tax examiners and collectors, and revenue agents",1,38,6.218905472636816e-4
-Australia,5298,102893,2941,61104,0940,Tax preparers,1,38,6.218905472636816e-4
-Australia,5298,102893,2941,61104,3655,Other healthcare support workers,2,38,6.218905472636816e-4
-Australia,5298,102893,2941,61104,0600,Cost estimators,3,37,6.055250065462162e-4
-Australia,5298,102893,2941,61104,1822,School psychologists,2,37,6.055250065462162e-4
-Australia,5298,102893,2941,61104,1310,"Surveyors, cartographers, and photogrammetrists",2,36,5.89159465828751e-4
-Australia,5298,102893,2941,61104,4030,Food preparation workers,2,36,5.89159465828751e-4
-Australia,5298,102893,2941,61104,1800,Economists,3,35,5.727939251112857e-4
-Australia,5298,102893,2941,61104,9310,Ship and boat captains and operators,3,35,5.727939251112857e-4
-Australia,5298,102893,2941,61104,1031,Web developers,1,34,5.564283843938204e-4
-Australia,5298,102893,2941,61104,3649,Phlebotomists,2,34,5.564283843938204e-4
-Australia,5298,102893,2941,61104,7020,Radio and telecommunications equipment installers and repairers,1,34,5.564283843938204e-4
-Australia,5298,102893,2941,61104,0340,Lodging managers,3,33,5.40062843676355e-4
-Australia,5298,102893,2941,61104,0530,"Purchasing agents, except wholesale, retail, and farm products",1,33,5.40062843676355e-4
-Australia,5298,102893,2941,61104,4500,Barbers,2,32,5.236973029588898e-4
-Australia,5298,102893,2941,61104,9830,"Military, rank not specified",2,32,5.236973029588898e-4
-Australia,5298,102893,2941,61104,2636,Merchandise displayers and window trimmers,3,31,5.073317622414245e-4
-Australia,5298,102893,2941,61104,3220,Respiratory therapists,1,31,5.073317622414245e-4
-Australia,5298,102893,2941,61104,9142,Taxi drivers,3,31,5.073317622414245e-4
-Australia,5298,102893,2941,61104,1220,Operations research analysts,2,30,4.909662215239591e-4
-Australia,5298,102893,2941,61104,1520,"Petroleum, mining and geological engineers, including mining safety engineers",3,30,4.909662215239591e-4
-Australia,5298,102893,2941,61104,1541,Architectural and civil drafters,3,30,4.909662215239591e-4
-Australia,5298,102893,2941,61104,1610,Biological scientists,2,30,4.909662215239591e-4
-Australia,5298,102893,2941,61104,3100,Surgeons,2,30,4.909662215239591e-4
-Australia,5298,102893,2941,61104,2350,Tutors,4,29,4.7460068080649385e-4
-Australia,5298,102893,2941,61104,3820,Detectives and criminal investigators,2,29,4.7460068080649385e-4
-Australia,5298,102893,2941,61104,4900,"Models, demonstrators, and product promoters",2,29,4.7460068080649385e-4
-Australia,5298,102893,2941,61104,6520,Sheet metal workers,1,29,4.7460068080649385e-4
-Australia,5298,102893,2941,61104,9510,Crane and tower operators,1,29,4.7460068080649385e-4
-Australia,5298,102893,2941,61104,0820,Budget analysts,2,27,4.4186959937156324e-4
-Australia,5298,102893,2941,61104,1022,Software quality assurance analysts and testers,2,27,4.4186959937156324e-4
-Australia,5298,102893,2941,61104,1545,Other drafters,2,27,4.4186959937156324e-4
-Australia,5298,102893,2941,61104,1821,Clinical and counseling psychologists,1,27,4.4186959937156324e-4
-Australia,5298,102893,2941,61104,3601,Home health aides,2,27,4.4186959937156324e-4
-Australia,5298,102893,2941,61104,5810,Data entry keyers,1,27,4.4186959937156324e-4
-Australia,5298,102893,2941,61104,1700,Astronomers and physicists,2,26,4.255040586540979e-4
-Australia,5298,102893,2941,61104,2006,"Counselors, all other",3,26,4.255040586540979e-4
-Australia,5298,102893,2941,61104,2751,Music directors and composers,2,26,4.255040586540979e-4
-Australia,5298,102893,2941,61104,4461,"Embalmers, crematory operators, and funeral attendants",1,26,4.255040586540979e-4
-Australia,5298,102893,2941,61104,8950,Helpers--production workers,1,26,4.255040586540979e-4
-Australia,5298,102893,2941,61104,2180,"Legal support workers, all other",1,25,0.00040913851793663263
-Australia,5298,102893,2941,61104,6355,Electricians,3,25,0.00040913851793663263
-Australia,5298,102893,2941,61104,9650,Pumping station operators,1,25,0.00040913851793663263
-Australia,5298,102893,2941,61104,2013,Mental health and substance abuse social workers,1,24,3.9277297721916735e-4
-Australia,5298,102893,2941,61104,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",2,24,3.9277297721916735e-4
-Australia,5298,102893,2941,61104,4525,Other personal appearance workers,1,24,3.9277297721916735e-4
-Australia,5298,102893,2941,61104,5140,Payroll and timekeeping clerks,2,24,3.9277297721916735e-4
-Australia,5298,102893,2941,61104,5920,Statistical assistants,1,24,3.9277297721916735e-4
-Australia,5298,102893,2941,61104,3802,Correctional officers and jailers,2,23,3.76407436501702e-4
-Australia,5298,102893,2941,61104,7560,Riggers,1,23,3.76407436501702e-4
-Australia,5298,102893,2941,61104,8255,Printing press operators,1,23,3.76407436501702e-4
-Australia,5298,102893,2941,61104,9600,Industrial truck and tractor operators,1,23,3.76407436501702e-4
-Australia,5298,102893,2941,61104,3110,Physician assistants,2,22,3.6004189578423674e-4
-Australia,5298,102893,2941,61104,3120,Podiatrists,1,22,3.6004189578423674e-4
-Australia,5298,102893,2941,61104,7140,Aircraft mechanics and service technicians,1,22,3.6004189578423674e-4
-Australia,5298,102893,2941,61104,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",2,22,3.6004189578423674e-4
-Australia,5298,102893,2941,61104,9240,Railroad conductors and yardmasters,1,22,3.6004189578423674e-4
-Australia,5298,102893,2941,61104,9415,Passenger attendants,1,22,3.6004189578423674e-4
-Australia,5298,102893,2941,61104,0500,"Agents and business managers of artists, performers, and athletes",1,21,3.436763550667714e-4
-Australia,5298,102893,2941,61104,3422,Psychiatric technicians,1,21,3.436763550667714e-4
-Australia,5298,102893,2941,61104,7240,Small engine mechanics,1,21,3.436763550667714e-4
-Australia,5298,102893,2941,61104,0810,Property appraisers and assessors,1,20,3.273108143493061e-4
-Australia,5298,102893,2941,61104,5260,File clerks,1,20,3.273108143493061e-4
-Australia,5298,102893,2941,61104,7800,Bakers,1,20,3.273108143493061e-4
-Australia,5298,102893,2941,61104,1560,Surveying and mapping technicians,1,19,3.109452736318408e-4
-Australia,5298,102893,2941,61104,1640,Conservation scientists and foresters,1,19,3.109452736318408e-4
-Australia,5298,102893,2941,61104,4522,Skincare specialists,1,19,3.109452736318408e-4
-Australia,5298,102893,2941,61104,4622,Recreation workers,1,19,3.109452736318408e-4
-Australia,5298,102893,2941,61104,6305,Construction equipment operators,2,19,3.109452736318408e-4
-Australia,5298,102893,2941,61104,6835,"Explosives workers, ordnance handling experts, and blasters",1,19,3.109452736318408e-4
-Australia,5298,102893,2941,61104,7120,Electronic home entertainment equipment installers and repairers,1,19,3.109452736318408e-4
-Australia,5298,102893,2941,61104,7640,"Other installation, maintenance, and repair workers",2,19,3.109452736318408e-4
-Australia,5298,102893,2941,61104,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,19,3.109452736318408e-4
-Australia,5298,102893,2941,61104,0640,"Compensation, benefits, and job analysis specialists",1,18,2.945797329143755e-4
-Australia,5298,102893,2941,61104,3648,Veterinary assistants and laboratory animal caretakers,2,18,2.945797329143755e-4
-Australia,5298,102893,2941,61104,4330,Supervisors of personal care and service workers,1,18,2.945797329143755e-4
-Australia,5298,102893,2941,61104,4465,"Morticians, undertakers, and funeral arrangers",1,18,2.945797329143755e-4
-Australia,5298,102893,2941,61104,5300,"Hotel, motel, and resort desk clerks",1,18,2.945797329143755e-4
-Australia,5298,102893,2941,61104,5900,"Office machine operators, except computer",1,18,2.945797329143755e-4
-Australia,5298,102893,2941,61104,5910,Proofreaders and copy markers,1,18,2.945797329143755e-4
-Australia,5298,102893,2941,61104,2170,"Title examiners, abstractors, and searchers",1,17,2.782141921969102e-4
-Australia,5298,102893,2941,61104,2840,Technical writers,2,17,2.782141921969102e-4
-Australia,5298,102893,2941,61104,3550,Other healthcare practitioners and technical occupations,1,17,2.782141921969102e-4
-Australia,5298,102893,2941,61104,7320,Home appliance repairers,1,17,2.782141921969102e-4
-Australia,5298,102893,2941,61104,8510,Furniture finishers,1,17,2.782141921969102e-4
-Australia,5298,102893,2941,61104,9825,Military enlisted tactical operations and air/weapons specialists and crew members,2,17,2.782141921969102e-4
-Australia,5298,102893,2941,61104,3270,"Healthcare diagnosing or treating practitioners, all other",1,16,2.618486514794449e-4
-Australia,5298,102893,2941,61104,3605,Orderlies and psychiatric aides,2,16,2.618486514794449e-4
-Australia,5298,102893,2941,61104,5720,Legal secretaries and administrative assistants,1,16,2.618486514794449e-4
-Australia,5298,102893,2941,61104,7410,Electrical power-line installers and repairers,1,16,2.618486514794449e-4
-Australia,5298,102893,2941,61104,8710,Cutting workers,1,16,2.618486514794449e-4
-Australia,5298,102893,2941,61104,1745,"Environmental scientists and specialists, including health",1,15,2.4548311076197957e-4
-Australia,5298,102893,2941,61104,4521,Manicurists and pedicurists,1,15,2.4548311076197957e-4
-Australia,5298,102893,2941,61104,5410,Reservation and transportation ticket agents and travel clerks,1,15,2.4548311076197957e-4
-Australia,5298,102893,2941,61104,5521,Public safety telecommunicators,2,15,2.4548311076197957e-4
-Australia,5298,102893,2941,61104,8040,"Metal furnace operators, tenders, pourers, and casters",1,15,2.4548311076197957e-4
-Australia,5298,102893,2941,61104,8140,"Welding, soldering, and brazing workers",1,15,2.4548311076197957e-4
-Australia,5298,102893,2941,61104,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,15,2.4548311076197957e-4
-Australia,5298,102893,2941,61104,0860,Insurance underwriters,1,14,2.2911757004451426e-4
-Australia,5298,102893,2941,61104,2005,Rehabilitation counselors,1,14,2.2911757004451426e-4
-Australia,5298,102893,2941,61104,2905,Other media and communication equipment workers,1,14,2.2911757004451426e-4
-Australia,5298,102893,2941,61104,3200,Radiation therapists,1,14,2.2911757004451426e-4
-Australia,5298,102893,2941,61104,3520,"Opticians, dispensing",2,14,2.2911757004451426e-4
-Australia,5298,102893,2941,61104,5310,"Interviewers, except eligibility and loan",1,14,2.2911757004451426e-4
-Australia,5298,102893,2941,61104,4200,First-line supervisors of housekeeping and janitorial workers,1,13,2.1275202932704895e-4
-Australia,5298,102893,2941,61104,4400,Gambling services workers,1,13,2.1275202932704895e-4
-Australia,5298,102893,2941,61104,5040,"Communications equipment operators, all other",1,13,2.1275202932704895e-4
-Australia,5298,102893,2941,61104,8610,Stationary engineers and boiler operators,1,13,2.1275202932704895e-4
-Australia,5298,102893,2941,61104,4930,Sales engineers,1,12,1.9638648860958367e-4
-Australia,5298,102893,2941,61104,5500,Cargo and freight agents,1,12,1.9638648860958367e-4
-Australia,5298,102893,2941,61104,6850,Underground mining machine operators,1,12,1.9638648860958367e-4
-Australia,5298,102893,2941,61104,7150,Automotive body and related repairers,1,12,1.9638648860958367e-4
-Australia,5298,102893,2941,61104,9610,Cleaners of vehicles and equipment,1,12,1.9638648860958367e-4
-Australia,5298,102893,2941,61104,0101,Administrative services managers,1,11,1.8002094789211837e-4
-Australia,5298,102893,2941,61104,3545,Miscellaneous health technologists and technicians,1,11,1.8002094789211837e-4
-Australia,5298,102893,2941,61104,3710,First-line supervisors of police and detectives,1,11,1.8002094789211837e-4
-Australia,5298,102893,2941,61104,4255,Other grounds maintenance workers,1,11,1.8002094789211837e-4
-Australia,5298,102893,2941,61104,5320,"Library assistants, clerical",1,11,1.8002094789211837e-4
-Australia,5298,102893,2941,61104,6540,Solar photovoltaic installers,1,11,1.8002094789211837e-4
-Australia,5298,102893,2941,61104,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,11,1.8002094789211837e-4
-Australia,5298,102893,2941,61104,9040,Air traffic controllers and airfield operations specialists,1,11,1.8002094789211837e-4
-Australia,5298,102893,2941,61104,1980,Occupational health and safety specialists and technicians,1,10,1.6365540717465306e-4
-Australia,5298,102893,2941,61104,5250,"Eligibility interviewers, government programs",1,10,1.6365540717465306e-4
-Australia,5298,102893,2941,61104,3940,Crossing guards and flaggers,1,8,1.3092432573972245e-4
-Australia,5298,102893,2941,61104,4655,"Personal care and service workers, all other",1,8,1.3092432573972245e-4
-Australia,5298,102893,2941,61104,4750,Parts salespersons,1,8,1.3092432573972245e-4
-Australia,5298,102893,2941,61104,9410,Transportation inspectors,1,8,1.3092432573972245e-4
-Australia,5298,102893,2941,61104,6825,Surface mining machine operators and earth drillers,1,7,1.1455878502225713e-4
-Australia,5298,102893,2941,61104,8640,"Chemical processing machine setters, operators, and tenders",2,6,9.819324430479184e-5
-Australia,5298,102893,2941,61104,1910,Biological technicians,1,5,8.182770358732653e-5
-Australia,5298,102893,2941,61104,8650,"Crushing, grinding, polishing, mixing, and blending workers",1,5,8.182770358732653e-5
-Australia,5298,102893,2941,61104,3000,Chiropractors,1,4,6.546216286986122e-5
-Australia,5298,102893,2941,61104,3646,Medical transcriptionists,1,3,4.909662215239592e-5
-Australia,5298,102893,2941,61104,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",1,3,4.909662215239592e-5
-Australia,5298,102893,2941,61104,5730,Medical secretaries and administrative assistants,1,3,4.909662215239592e-5
-Australia,5298,102893,2941,61104,6050,Other agricultural workers,1,3,4.909662215239592e-5
-Australia,5298,102893,2941,61104,4640,Residential advisors,1,2,3.273108143493061e-5
-Australia,5298,102893,2941,61104,8800,Packaging and filling machine operators and tenders,1,1,1.6365540717465306e-5
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Australia,5298,102893,3194,65730,0440,Other managers,207,4114,0.06258938080024341
+Australia,5298,102893,3194,65730,1021,Software developers,133,3008,0.045762969724631064
+Australia,5298,102893,3194,65730,0010,Chief executives and legislators,144,2586,0.03934276586033775
+Australia,5298,102893,3194,65730,2205,Postsecondary teachers,104,1732,0.026350220599421877
+Australia,5298,102893,3194,65730,2100,"Lawyers, and judges, magistrates, and other judicial workers",45,1083,0.016476494751255136
+Australia,5298,102893,3194,65730,0120,Financial managers,48,1079,0.016415639738323443
+Australia,5298,102893,3194,65730,0051,Marketing managers,42,1071,0.016293929712460065
+Australia,5298,102893,3194,65730,0710,Management analysts,63,1030,0.015670165829910238
+Australia,5298,102893,3194,65730,0735,Market research analysts and marketing specialists,26,1001,0.015228966986155484
+Australia,5298,102893,3194,65730,0052,Sales managers,31,976,0.01484862315533242
+Australia,5298,102893,3194,65730,0630,Human resources workers,33,970,0.014757340635934885
+Australia,5298,102893,3194,65730,3255,Registered nurses,41,910,0.013844515441959531
+Australia,5298,102893,3194,65730,4700,First-line supervisors of retail sales workers,42,908,0.013814087935493687
+Australia,5298,102893,3194,65730,4920,Real estate brokers and sales agents,29,885,0.013464171611136467
+Australia,5298,102893,3194,65730,1760,"Physical scientists, all other",45,879,0.013372889091738931
+Australia,5298,102893,3194,65730,0020,General and operations managers,44,843,0.01282519397535372
+Australia,5298,102893,3194,65730,2310,Elementary and middle school teachers,40,837,0.012733911455956185
+Australia,5298,102893,3194,65730,4760,Retail salespersons,35,809,0.012307926365434353
+Australia,5298,102893,3194,65730,0850,Personal financial advisors,14,683,0.01039099345808611
+Australia,5298,102893,3194,65730,0800,Accountants and auditors,37,609,0.00926517571884984
+Australia,5298,102893,3194,65730,5240,Customer service representatives,33,603,0.009173893199452304
+Australia,5298,102893,3194,65730,0705,Project management specialists,29,594,0.009036969420356002
+Australia,5298,102893,3194,65730,2640,Other designers,23,590,0.008976114407424312
+Australia,5298,102893,3194,65730,0110,Computer and information systems managers,34,587,0.008930473147725543
+Australia,5298,102893,3194,65730,0230,Education and childcare administrators,28,562,0.00855012931690248
+Australia,5298,102893,3194,65730,5740,"Secretaries and administrative assistants, except legal, medical, and executive",31,560,0.008519701810436636
+Australia,5298,102893,3194,65730,2710,Producers and directors,25,553,0.008413205537806176
+Australia,5298,102893,3194,65730,4850,"Sales representatives, wholesale and manufacturing",23,510,0.007759014148790507
+Australia,5298,102893,3194,65730,0220,Construction managers,24,507,0.007713372889091739
+Australia,5298,102893,3194,65730,5120,"Bookkeeping, accounting, and auditing clerks",23,500,0.007606876616461281
+Australia,5298,102893,3194,65730,2721,Athletes and sports competitors,8,496,0.007546021603529591
+Australia,5298,102893,3194,65730,4110,Waiters and waitresses,22,493,0.007500380343830823
+Australia,5298,102893,3194,65730,1006,Computer systems analysts,20,486,0.007393884071200365
+Australia,5298,102893,3194,65730,1360,Civil engineers,15,476,0.00724174653887114
+Australia,5298,102893,3194,65730,2545,Teaching assistants,19,474,0.0072113190324052945
+Australia,5298,102893,3194,65730,4600,Childcare workers,12,468,0.007120036513007759
+Australia,5298,102893,3194,65730,9030,Aircraft pilots and flight engineers,22,463,0.007043967746843146
+Australia,5298,102893,3194,65730,1240,Other mathematical science occupations,27,440,0.006694051422485928
+Australia,5298,102893,3194,65730,2600,Artists and related workers,23,439,0.0066788376692530045
+Australia,5298,102893,3194,65730,1108,"Computer occupations, all other",17,408,0.006207211319032405
+Australia,5298,102893,3194,65730,5860,"Office clerks, general",18,407,0.006191997565799483
+Australia,5298,102893,3194,65730,0410,"Property, real estate, and community association managers",23,405,0.006161570059333638
+Australia,5298,102893,3194,65730,6230,Carpenters,17,404,0.0061463563061007155
+Australia,5298,102893,3194,65730,4710,First-line supervisors of non-retail sales workers,25,399,0.0060702875399361025
+Australia,5298,102893,3194,65730,2360,Other teachers and instructors,23,383,0.005826867488209341
+Australia,5298,102893,3194,65730,2850,Writers and authors,19,375,0.005705157462345961
+Australia,5298,102893,3194,65730,1650,Other life scientists,17,368,0.005598661189715502
+Australia,5298,102893,3194,65730,1050,Computer support specialists,16,358,0.005446523657386277
+Australia,5298,102893,3194,65730,2752,Musicians and singers,14,355,0.00540088239768751
+Australia,5298,102893,3194,65730,3090,Physicians,26,352,0.005355241137988742
+Australia,5298,102893,3194,65730,9130,Driver/sales workers and truck drivers,16,351,0.005340027384755819
+Australia,5298,102893,3194,65730,9620,"Laborers and freight, stock, and material movers, hand",16,339,0.005157462345960749
+Australia,5298,102893,3194,65730,9645,Stockers and order fillers,18,337,0.005127034839494903
+Australia,5298,102893,3194,65730,4965,"Sales and related workers, all other",12,335,0.005096607333029058
+Australia,5298,102893,3194,65730,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",15,331,0.005035752320097368
+Australia,5298,102893,3194,65730,7340,"Maintenance and repair workers, general",10,331,0.005035752320097368
+Australia,5298,102893,3194,65730,0350,Medical and health services managers,20,330,0.005020538566864446
+Australia,5298,102893,3194,65730,3160,Physical therapists,14,314,0.004777118515137685
+Australia,5298,102893,3194,65730,0750,"Business operations specialists, all other",14,307,0.004670622242507226
+Australia,5298,102893,3194,65730,1305,"Architects, except landscape and naval",16,306,0.004655408489274304
+Australia,5298,102893,3194,65730,1530,Other engineers,18,301,0.004579339723109691
+Australia,5298,102893,3194,65730,2320,Secondary school teachers,14,298,0.004533698463410923
+Australia,5298,102893,3194,65730,2040,Clergy,18,294,0.0044728434504792336
+Australia,5298,102893,3194,65730,2722,Coaches and scouts,15,291,0.004427202190780466
+Australia,5298,102893,3194,65730,5600,"Production, planning, and expediting clerks",3,291,0.004427202190780466
+Australia,5298,102893,3194,65730,2910,Photographers,11,287,0.004366347177848775
+Australia,5298,102893,3194,65730,0420,Social and community service managers,21,271,0.004122927126122014
+Australia,5298,102893,3194,65730,5000,First-line supervisors of office and administrative support workers,17,266,0.004046858359957401
+Australia,5298,102893,3194,65730,4621,Exercise trainers and group fitness instructors,15,264,0.004016430853491557
+Australia,5298,102893,3194,65730,0300,Architectural and engineering managers,12,263,0.0040012171002586335
+Australia,5298,102893,3194,65730,6260,Construction laborers,11,261,0.003970789593792789
+Australia,5298,102893,3194,65730,4720,Cashiers,16,258,0.003925148334094021
+Australia,5298,102893,3194,65730,2920,"Television, video, and film camera operators and editors",13,253,0.003849079567929408
+Australia,5298,102893,3194,65730,1430,"Industrial engineers, including health and safety",12,251,0.003818652061463563
+Australia,5298,102893,3194,65730,1410,Electrical and electronics engineers,16,249,0.003788224554997718
+Australia,5298,102893,3194,65730,5940,Other office and administrative support workers,11,249,0.003788224554997718
+Australia,5298,102893,3194,65730,2002,"Educational, guidance, and career counselors and advisors",5,247,0.0037577970485318728
+Australia,5298,102893,3194,65730,8740,"Inspectors, testers, sorters, samplers, and weighers",14,247,0.0037577970485318728
+Australia,5298,102893,3194,65730,5400,Receptionists and information clerks,10,238,0.00362087326943557
+Australia,5298,102893,3194,65730,0136,Human resources managers,12,235,0.003575232009736802
+Australia,5298,102893,3194,65730,3250,Veterinarians,14,235,0.003575232009736802
+Australia,5298,102893,3194,65730,1105,Network and computer systems administrators,12,231,0.003514376996805112
+Australia,5298,102893,3194,65730,1750,"Geoscientists and hydrologists, except geographers",11,223,0.0033926669709417314
+Australia,5298,102893,3194,65730,2300,Preschool and kindergarten teachers,10,220,0.003347025711242964
+Australia,5298,102893,3194,65730,5510,Couriers and messengers,8,219,0.003331811958010041
+Australia,5298,102893,3194,65730,4040,Bartenders,8,218,0.0033165982047771185
+Australia,5298,102893,3194,65730,4251,Landscaping and groundskeeping workers,10,215,0.003270956945078351
+Australia,5298,102893,3194,65730,2634,Graphic designers,14,213,0.0032405294386125055
+Australia,5298,102893,3194,65730,9005,Supervisors of transportation and material moving workers,5,211,0.0032101019321466606
+Australia,5298,102893,3194,65730,8990,"Miscellaneous production workers, including equipment operators and tenders",9,210,0.003194888178913738
+Australia,5298,102893,3194,65730,0960,Other financial specialists,7,196,0.002981895633652822
+Australia,5298,102893,3194,65730,4820,"Securities, commodities, and financial services sales agents",10,184,0.002799330594857751
+Australia,5298,102893,3194,65730,0310,Food service managers,11,183,0.002784116841624829
+Australia,5298,102893,3194,65730,0725,"Meeting, convention, and event planners",5,177,0.0026928343222272933
+Australia,5298,102893,3194,65730,5710,Executive secretaries and executive administrative assistants,12,177,0.0026928343222272933
+Australia,5298,102893,3194,65730,1555,"Other engineering technologists and technicians, except drafters",7,175,0.0026624068157614484
+Australia,5298,102893,3194,65730,0040,Advertising and promotions managers,9,166,0.002525483036665145
+Australia,5298,102893,3194,65730,6200,First-line supervisors of construction trades and extraction workers,7,166,0.002525483036665145
+Australia,5298,102893,3194,65730,0060,Public relations and fundraising managers,10,164,0.0024950555301993
+Australia,5298,102893,3194,65730,2145,Paralegals and legal assistants,7,164,0.0024950555301993
+Australia,5298,102893,3194,65730,2632,Fashion designers,8,163,0.0024798417769663775
+Australia,5298,102893,3194,65730,4020,Cooks,7,163,0.0024798417769663775
+Australia,5298,102893,3194,65730,1032,Web and digital interface designers,6,160,0.00243420051726761
+Australia,5298,102893,3194,65730,4055,Fast food and counter workers,9,160,0.00243420051726761
+Australia,5298,102893,3194,65730,0845,Financial and investment analysts,10,158,0.002403773010801765
+Australia,5298,102893,3194,65730,4000,Chefs and head cooks,7,153,0.002327704244637152
+Australia,5298,102893,3194,65730,7200,Automotive service technicians and mechanics,7,147,0.0022364217252396168
+Australia,5298,102893,3194,65730,4510,"Hairdressers, hairstylists, and cosmetologists",8,145,0.0022059942187737714
+Australia,5298,102893,3194,65730,2635,Interior designers,5,144,0.0021907804655408487
+Australia,5298,102893,3194,65730,2014,"Social workers, all other",9,141,0.002145139205842081
+Australia,5298,102893,3194,65730,4435,Other entertainment attendants and related workers,6,137,0.002084284192910391
+Australia,5298,102893,3194,65730,0540,"Claims adjusters, appraisers, examiners, and investigators",4,135,0.002053856686444546
+Australia,5298,102893,3194,65730,1320,Aerospace engineers,9,134,0.0020386429332116232
+Australia,5298,102893,3194,65730,6442,"Plumbers, pipefitters, and steamfitters",5,134,0.0020386429332116232
+Australia,5298,102893,3194,65730,0650,Training and development specialists,4,131,0.0019930016735128556
+Australia,5298,102893,3194,65730,4350,Animal caretakers,7,129,0.0019625741670470107
+Australia,5298,102893,3194,65730,0205,"Farmers, ranchers, and other agricultural managers",11,127,0.0019321466605811653
+Australia,5298,102893,3194,65730,5110,Billing and posting clerks,6,123,0.001871291647649475
+Australia,5298,102893,3194,65730,7210,Bus and truck mechanics and diesel engine specialists,3,121,0.00184086414118363
+Australia,5298,102893,3194,65730,1010,Computer programmers,6,120,0.0018256503879507074
+Australia,5298,102893,3194,65730,1106,Computer network architects,6,120,0.0018256503879507074
+Australia,5298,102893,3194,65730,2330,Special education teachers,5,120,0.0018256503879507074
+Australia,5298,102893,3194,65730,3870,Police officers,5,117,0.0017800091282519398
+Australia,5298,102893,3194,65730,1007,Information security analysts,7,116,0.0017647953750190171
+Australia,5298,102893,3194,65730,7010,"Computer, automated teller, and office machine repairers",3,116,0.0017647953750190171
+Australia,5298,102893,3194,65730,0140,Industrial production managers,7,114,0.001734367868553172
+Australia,5298,102893,3194,65730,7700,First-line supervisors of production and operating workers,6,114,0.001734367868553172
+Australia,5298,102893,3194,65730,0137,Training and development managers,5,111,0.0016887266088544044
+Australia,5298,102893,3194,65730,2770,"Entertainers and performers, sports and related workers, all other",6,111,0.0016887266088544044
+Australia,5298,102893,3194,65730,1460,Mechanical engineers,8,109,0.0016582991023885592
+Australia,5298,102893,3194,65730,2435,Librarians and media collections specialists,5,106,0.0016126578426897916
+Australia,5298,102893,3194,65730,6410,Painters and paperhangers,4,103,0.0015670165829910238
+Australia,5298,102893,3194,65730,1970,"Other life, physical, and social science technicians",6,101,0.0015365890765251789
+Australia,5298,102893,3194,65730,3150,Occupational therapists,5,101,0.0015365890765251789
+Australia,5298,102893,3194,65730,0910,Credit counselors and loan officers,6,99,0.0015061615700593337
+Australia,5298,102893,3194,65730,4800,Advertising sales agents,6,99,0.0015061615700593337
+Australia,5298,102893,3194,65730,9050,Flight attendants,6,98,0.001490947816826411
+Australia,5298,102893,3194,65730,2810,"News analysts, reporters, and journalists",7,96,0.001460520310360566
+Australia,5298,102893,3194,65730,4830,Travel agents,7,96,0.001460520310360566
+Australia,5298,102893,3194,65730,8555,Other woodworkers,3,94,0.0014300928038947208
+Australia,5298,102893,3194,65730,3230,Speech-language pathologists,4,93,0.0014148790506617983
+Australia,5298,102893,3194,65730,3910,Private detectives and investigators,4,93,0.0014148790506617983
+Australia,5298,102893,3194,65730,8030,Machinists,4,91,0.0013844515441959531
+Australia,5298,102893,3194,65730,1900,Agricultural and food science technicians,4,89,0.001354024037730108
+Australia,5298,102893,3194,65730,7840,Food batchmakers,2,89,0.001354024037730108
+Australia,5298,102893,3194,65730,4230,Maids and housekeeping cleaners,6,88,0.0013388102844971855
+Australia,5298,102893,3194,65730,1065,Database administrators and architects,4,87,0.0013235965312642629
+Australia,5298,102893,3194,65730,3602,Personal care aides,7,86,0.0013083827780313404
+Australia,5298,102893,3194,65730,9141,Shuttle drivers and chauffeurs,2,85,0.0012931690247984177
+Australia,5298,102893,3194,65730,2825,Public relations specialists,7,81,0.0012323140118667274
+Australia,5298,102893,3194,65730,3500,Licensed practical and licensed vocational nurses,5,81,0.0012323140118667274
+Australia,5298,102893,3194,65730,4220,Janitors and building cleaners,6,80,0.001217100258633805
+Australia,5298,102893,3194,65730,7000,"First-line supervisors of mechanics, installers, and repairers",6,80,0.001217100258633805
+Australia,5298,102893,3194,65730,0335,Entertainment and recreation managers,3,79,0.0012018865054008825
+Australia,5298,102893,3194,65730,1400,Computer hardware engineers,4,79,0.0012018865054008825
+Australia,5298,102893,3194,65730,6040,"Graders and sorters, agricultural products",1,78,0.0011866727521679598
+Australia,5298,102893,3194,65730,1825,Other psychologists,6,77,0.0011714589989350373
+Australia,5298,102893,3194,65730,4950,"Door-to-door sales workers, news and street vendors, and related workers",3,76,0.0011562452457021147
+Australia,5298,102893,3194,65730,3960,Other protective service workers,4,75,0.0011410314924691922
+Australia,5298,102893,3194,65730,2700,Actors,4,74,0.0011258177392362695
+Australia,5298,102893,3194,65730,3050,Pharmacists,3,74,0.0011258177392362695
+Australia,5298,102893,3194,65730,1350,Chemical engineers,3,73,0.001110603986003347
+Australia,5298,102893,3194,65730,0160,"Transportation, storage, and distribution managers",4,72,0.0010953902327704244
+Australia,5298,102893,3194,65730,0565,Compliance officers,3,72,0.0010953902327704244
+Australia,5298,102893,3194,65730,3930,Security guards and gaming surveillance officers,7,71,0.001080176479537502
+Australia,5298,102893,3194,65730,7330,Industrial and refractory machinery mechanics,2,71,0.001080176479537502
+Australia,5298,102893,3194,65730,0830,Credit analysts,2,69,0.0010497489730716568
+Australia,5298,102893,3194,65730,8300,Laundry and dry-cleaning workers,1,69,0.0010497489730716568
+Australia,5298,102893,3194,65730,3603,Nursing assistants,5,68,0.0010345352198387343
+Australia,5298,102893,3194,65730,4530,"Baggage porters, bellhops, and concierges",3,67,0.0010193214666058116
+Australia,5298,102893,3194,65730,4540,Tour and travel guides,4,67,0.0010193214666058116
+Australia,5298,102893,3194,65730,4810,Insurance sales agents,4,66,0.0010041077133728891
+Australia,5298,102893,3194,65730,5420,Other information and records clerks,4,66,0.0010041077133728891
+Australia,5298,102893,3194,65730,3321,Cardiovascular technologists and technicians,2,65,9.888939601399665e-4
+Australia,5298,102893,3194,65730,7750,Other assemblers and fabricators,4,65,9.888939601399665e-4
+Australia,5298,102893,3194,65730,3945,Transportation security screeners,1,64,9.73680206907044e-4
+Australia,5298,102893,3194,65730,6240,"Carpet, floor, and tile installers and finishers",2,64,9.73680206907044e-4
+Australia,5298,102893,3194,65730,7220,Heavy vehicle and mobile equipment service technicians and mechanics,4,62,9.432527004411989e-4
+Australia,5298,102893,3194,65730,2555,Other educational instruction and library workers,3,61,9.280389472082763e-4
+Australia,5298,102893,3194,65730,4340,Animal trainers,6,61,9.280389472082763e-4
+Australia,5298,102893,3194,65730,5522,"Dispatchers, except police, fire, and ambulance",2,61,9.280389472082763e-4
+Australia,5298,102893,3194,65730,8750,Jewelers and precious stone and metal workers,3,61,9.280389472082763e-4
+Australia,5298,102893,3194,65730,3421,Pharmacy technicians,4,60,9.128251939753537e-4
+Australia,5298,102893,3194,65730,4030,Food preparation workers,3,60,9.128251939753537e-4
+Australia,5298,102893,3194,65730,5165,Other financial clerks,4,60,9.128251939753537e-4
+Australia,5298,102893,3194,65730,1700,Astronomers and physicists,4,59,8.976114407424311e-4
+Australia,5298,102893,3194,65730,1720,Chemists and materials scientists,4,59,8.976114407424311e-4
+Australia,5298,102893,3194,65730,3323,Radiologic technologists and technicians,3,59,8.976114407424311e-4
+Australia,5298,102893,3194,65730,4010,First-line supervisors of food preparation and serving workers,4,59,8.976114407424311e-4
+Australia,5298,102893,3194,65730,0150,Purchasing managers,4,58,8.823976875095086e-4
+Australia,5298,102893,3194,65730,3010,Dentists,4,58,8.823976875095086e-4
+Australia,5298,102893,3194,65730,7810,"Butchers and other meat, poultry, and fish processing workers",3,58,8.823976875095086e-4
+Australia,5298,102893,3194,65730,3424,Veterinary technologists and technicians,2,57,8.67183934276586e-4
+Australia,5298,102893,3194,65730,4130,Dining room and cafeteria attendants and bartender helpers,2,56,8.519701810436634e-4
+Australia,5298,102893,3194,65730,2016,Social and human service assistants,3,55,8.36756427810741e-4
+Australia,5298,102893,3194,65730,2830,Editors,4,55,8.36756427810741e-4
+Australia,5298,102893,3194,65730,3322,Diagnostic medical sonographers,3,54,8.215426745778184e-4
+Australia,5298,102893,3194,65730,3740,Firefighters,5,54,8.215426745778184e-4
+Australia,5298,102893,3194,65730,8500,Cabinetmakers and bench carpenters,3,54,8.215426745778184e-4
+Australia,5298,102893,3194,65730,1860,Other social scientists,3,53,8.063289213448958e-4
+Australia,5298,102893,3194,65730,7430,Precision instrument and equipment repairers,1,53,8.063289213448958e-4
+Australia,5298,102893,3194,65730,9365,Transportation service attendants,1,53,8.063289213448958e-4
+Australia,5298,102893,3194,65730,7640,"Other installation, maintenance, and repair workers",3,52,7.911151681119732e-4
+Australia,5298,102893,3194,65730,7800,Bakers,2,52,7.911151681119732e-4
+Australia,5298,102893,3194,65730,0520,"Wholesale and retail buyers, except farm products",3,51,7.759014148790507e-4
+Australia,5298,102893,3194,65730,1306,Landscape architects,4,51,7.759014148790507e-4
+Australia,5298,102893,3194,65730,0700,Logisticians,4,50,7.606876616461281e-4
+Australia,5298,102893,3194,65730,2740,Dancers and choreographers,2,50,7.606876616461281e-4
+Australia,5298,102893,3194,65730,3620,Physical therapist assistants and aides,3,49,7.454739084132055e-4
+Australia,5298,102893,3194,65730,5160,Tellers,3,49,7.454739084132055e-4
+Australia,5298,102893,3194,65730,5330,Loan interviewers and clerks,1,49,7.454739084132055e-4
+Australia,5298,102893,3194,65730,2805,Broadcast announcers and radio disc jockeys,1,48,7.30260155180283e-4
+Australia,5298,102893,3194,65730,2865,"Media and communication workers, all other",3,48,7.30260155180283e-4
+Australia,5298,102893,3194,65730,8225,Other metal workers and plastic workers,2,48,7.30260155180283e-4
+Australia,5298,102893,3194,65730,3245,Other therapists,2,46,6.998326487144378e-4
+Australia,5298,102893,3194,65730,1200,Actuaries,2,45,6.846188954815153e-4
+Australia,5298,102893,3194,65730,2400,"Archivists, curators, and museum technicians",3,45,6.846188954815153e-4
+Australia,5298,102893,3194,65730,2004,Mental health counselors,3,44,6.694051422485928e-4
+Australia,5298,102893,3194,65730,3120,Podiatrists,2,44,6.694051422485928e-4
+Australia,5298,102893,3194,65730,5220,"Court, municipal, and license clerks",2,44,6.694051422485928e-4
+Australia,5298,102893,3194,65730,1935,"Environmental science and geoscience technicians, and nuclear technicians",2,41,6.23763882549825e-4
+Australia,5298,102893,3194,65730,4500,Barbers,3,41,6.23763882549825e-4
+Australia,5298,102893,3194,65730,8255,Printing press operators,2,41,6.23763882549825e-4
+Australia,5298,102893,3194,65730,9800,Military officer special and tactical operations leaders,2,41,6.23763882549825e-4
+Australia,5298,102893,3194,65730,2001,Substance abuse and behavioral disorder counselors,2,40,6.085501293169025e-4
+Australia,5298,102893,3194,65730,3645,Medical assistants,4,40,6.085501293169025e-4
+Australia,5298,102893,3194,65730,3630,Massage therapists,2,39,5.933363760839799e-4
+Australia,5298,102893,3194,65730,0930,"Tax examiners and collectors, and revenue agents",1,38,5.781226228510573e-4
+Australia,5298,102893,3194,65730,0940,Tax preparers,1,38,5.781226228510573e-4
+Australia,5298,102893,3194,65730,3655,Other healthcare support workers,2,38,5.781226228510573e-4
+Australia,5298,102893,3194,65730,0600,Cost estimators,3,37,5.629088696181348e-4
+Australia,5298,102893,3194,65730,1822,School psychologists,2,37,5.629088696181348e-4
+Australia,5298,102893,3194,65730,3601,Home health aides,3,37,5.629088696181348e-4
+Australia,5298,102893,3194,65730,1310,"Surveyors, cartographers, and photogrammetrists",2,36,5.476951163852122e-4
+Australia,5298,102893,3194,65730,1545,Other drafters,3,35,5.324813631522897e-4
+Australia,5298,102893,3194,65730,1800,Economists,3,35,5.324813631522897e-4
+Australia,5298,102893,3194,65730,9310,Ship and boat captains and operators,3,35,5.324813631522897e-4
+Australia,5298,102893,3194,65730,1031,Web developers,1,34,5.172676099193671e-4
+Australia,5298,102893,3194,65730,3649,Phlebotomists,2,34,5.172676099193671e-4
+Australia,5298,102893,3194,65730,7020,Radio and telecommunications equipment installers and repairers,1,34,5.172676099193671e-4
+Australia,5298,102893,3194,65730,0340,Lodging managers,3,33,5.020538566864446e-4
+Australia,5298,102893,3194,65730,0530,"Purchasing agents, except wholesale, retail, and farm products",1,33,5.020538566864446e-4
+Australia,5298,102893,3194,65730,9830,"Military, rank not specified",2,32,4.86840103453522e-4
+Australia,5298,102893,3194,65730,2636,Merchandise displayers and window trimmers,3,31,4.7162635022059943e-4
+Australia,5298,102893,3194,65730,3220,Respiratory therapists,1,31,4.7162635022059943e-4
+Australia,5298,102893,3194,65730,6355,Electricians,4,31,4.7162635022059943e-4
+Australia,5298,102893,3194,65730,9142,Taxi drivers,3,31,4.7162635022059943e-4
+Australia,5298,102893,3194,65730,1220,Operations research analysts,2,30,4.5641259698767686e-4
+Australia,5298,102893,3194,65730,1520,"Petroleum, mining and geological engineers, including mining safety engineers",3,30,4.5641259698767686e-4
+Australia,5298,102893,3194,65730,1541,Architectural and civil drafters,3,30,4.5641259698767686e-4
+Australia,5298,102893,3194,65730,1610,Biological scientists,2,30,4.5641259698767686e-4
+Australia,5298,102893,3194,65730,3100,Surgeons,2,30,4.5641259698767686e-4
+Australia,5298,102893,3194,65730,2350,Tutors,4,29,4.411988437547543e-4
+Australia,5298,102893,3194,65730,3820,Detectives and criminal investigators,2,29,4.411988437547543e-4
+Australia,5298,102893,3194,65730,4900,"Models, demonstrators, and product promoters",2,29,4.411988437547543e-4
+Australia,5298,102893,3194,65730,6520,Sheet metal workers,1,29,4.411988437547543e-4
+Australia,5298,102893,3194,65730,9122,"Bus drivers, transit and intercity",2,29,4.411988437547543e-4
+Australia,5298,102893,3194,65730,9510,Crane and tower operators,1,29,4.411988437547543e-4
+Australia,5298,102893,3194,65730,2060,"Religious workers, all other",2,28,4.259850905218317e-4
+Australia,5298,102893,3194,65730,3300,Clinical laboratory technologists and technicians,2,28,4.259850905218317e-4
+Australia,5298,102893,3194,65730,0820,Budget analysts,2,27,4.107713372889092e-4
+Australia,5298,102893,3194,65730,1022,Software quality assurance analysts and testers,2,27,4.107713372889092e-4
+Australia,5298,102893,3194,65730,1821,Clinical and counseling psychologists,1,27,4.107713372889092e-4
+Australia,5298,102893,3194,65730,5810,Data entry keyers,1,27,4.107713372889092e-4
+Australia,5298,102893,3194,65730,2006,"Counselors, all other",3,26,3.955575840559866e-4
+Australia,5298,102893,3194,65730,2751,Music directors and composers,2,26,3.955575840559866e-4
+Australia,5298,102893,3194,65730,4461,"Embalmers, crematory operators, and funeral attendants",1,26,3.955575840559866e-4
+Australia,5298,102893,3194,65730,8950,Helpers--production workers,1,26,3.955575840559866e-4
+Australia,5298,102893,3194,65730,2180,"Legal support workers, all other",1,25,3.8034383082306405e-4
+Australia,5298,102893,3194,65730,9650,Pumping station operators,1,25,3.8034383082306405e-4
+Australia,5298,102893,3194,65730,2013,Mental health and substance abuse social workers,1,24,3.651300775901415e-4
+Australia,5298,102893,3194,65730,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",2,24,3.651300775901415e-4
+Australia,5298,102893,3194,65730,4525,Other personal appearance workers,1,24,3.651300775901415e-4
+Australia,5298,102893,3194,65730,5140,Payroll and timekeeping clerks,2,24,3.651300775901415e-4
+Australia,5298,102893,3194,65730,5920,Statistical assistants,1,24,3.651300775901415e-4
+Australia,5298,102893,3194,65730,3802,Correctional officers and jailers,2,23,3.499163243572189e-4
+Australia,5298,102893,3194,65730,7560,Riggers,1,23,3.499163243572189e-4
+Australia,5298,102893,3194,65730,9600,Industrial truck and tractor operators,1,23,3.499163243572189e-4
+Australia,5298,102893,3194,65730,3110,Physician assistants,2,22,3.347025711242964e-4
+Australia,5298,102893,3194,65730,7140,Aircraft mechanics and service technicians,1,22,3.347025711242964e-4
+Australia,5298,102893,3194,65730,7240,Small engine mechanics,2,22,3.347025711242964e-4
+Australia,5298,102893,3194,65730,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",2,22,3.347025711242964e-4
+Australia,5298,102893,3194,65730,9240,Railroad conductors and yardmasters,1,22,3.347025711242964e-4
+Australia,5298,102893,3194,65730,9415,Passenger attendants,1,22,3.347025711242964e-4
+Australia,5298,102893,3194,65730,0500,"Agents and business managers of artists, performers, and athletes",1,21,3.194888178913738e-4
+Australia,5298,102893,3194,65730,3422,Psychiatric technicians,1,21,3.194888178913738e-4
+Australia,5298,102893,3194,65730,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",2,21,3.194888178913738e-4
+Australia,5298,102893,3194,65730,0810,Property appraisers and assessors,1,20,3.0427506465845124e-4
+Australia,5298,102893,3194,65730,5260,File clerks,1,20,3.0427506465845124e-4
+Australia,5298,102893,3194,65730,1560,Surveying and mapping technicians,1,19,2.8906131142552866e-4
+Australia,5298,102893,3194,65730,1640,Conservation scientists and foresters,1,19,2.8906131142552866e-4
+Australia,5298,102893,3194,65730,4522,Skincare specialists,1,19,2.8906131142552866e-4
+Australia,5298,102893,3194,65730,4622,Recreation workers,1,19,2.8906131142552866e-4
+Australia,5298,102893,3194,65730,6305,Construction equipment operators,2,19,2.8906131142552866e-4
+Australia,5298,102893,3194,65730,6835,"Explosives workers, ordnance handling experts, and blasters",1,19,2.8906131142552866e-4
+Australia,5298,102893,3194,65730,7120,Electronic home entertainment equipment installers and repairers,1,19,2.8906131142552866e-4
+Australia,5298,102893,3194,65730,7130,Security and fire alarm systems installers,1,19,2.8906131142552866e-4
+Australia,5298,102893,3194,65730,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,19,2.8906131142552866e-4
+Australia,5298,102893,3194,65730,0640,"Compensation, benefits, and job analysis specialists",1,18,2.738475581926061e-4
+Australia,5298,102893,3194,65730,3648,Veterinary assistants and laboratory animal caretakers,2,18,2.738475581926061e-4
+Australia,5298,102893,3194,65730,4330,Supervisors of personal care and service workers,1,18,2.738475581926061e-4
+Australia,5298,102893,3194,65730,4465,"Morticians, undertakers, and funeral arrangers",1,18,2.738475581926061e-4
+Australia,5298,102893,3194,65730,5300,"Hotel, motel, and resort desk clerks",1,18,2.738475581926061e-4
+Australia,5298,102893,3194,65730,5900,"Office machine operators, except computer",1,18,2.738475581926061e-4
+Australia,5298,102893,3194,65730,5910,Proofreaders and copy markers,1,18,2.738475581926061e-4
+Australia,5298,102893,3194,65730,8910,Etchers and engravers,1,18,2.738475581926061e-4
+Australia,5298,102893,3194,65730,9350,Parking attendants,1,18,2.738475581926061e-4
+Australia,5298,102893,3194,65730,2170,"Title examiners, abstractors, and searchers",1,17,2.586338049596836e-4
+Australia,5298,102893,3194,65730,2840,Technical writers,2,17,2.586338049596836e-4
+Australia,5298,102893,3194,65730,3550,Other healthcare practitioners and technical occupations,1,17,2.586338049596836e-4
+Australia,5298,102893,3194,65730,7320,Home appliance repairers,1,17,2.586338049596836e-4
+Australia,5298,102893,3194,65730,8510,Furniture finishers,1,17,2.586338049596836e-4
+Australia,5298,102893,3194,65730,9825,Military enlisted tactical operations and air/weapons specialists and crew members,2,17,2.586338049596836e-4
+Australia,5298,102893,3194,65730,3270,"Healthcare diagnosing or treating practitioners, all other",1,16,2.43420051726761e-4
+Australia,5298,102893,3194,65730,3605,Orderlies and psychiatric aides,2,16,2.43420051726761e-4
+Australia,5298,102893,3194,65730,5720,Legal secretaries and administrative assistants,1,16,2.43420051726761e-4
+Australia,5298,102893,3194,65730,7150,Automotive body and related repairers,2,16,2.43420051726761e-4
+Australia,5298,102893,3194,65730,7410,Electrical power-line installers and repairers,1,16,2.43420051726761e-4
+Australia,5298,102893,3194,65730,8710,Cutting workers,1,16,2.43420051726761e-4
+Australia,5298,102893,3194,65730,1745,"Environmental scientists and specialists, including health",1,15,2.2820629849383843e-4
+Australia,5298,102893,3194,65730,4521,Manicurists and pedicurists,1,15,2.2820629849383843e-4
+Australia,5298,102893,3194,65730,5410,Reservation and transportation ticket agents and travel clerks,1,15,2.2820629849383843e-4
+Australia,5298,102893,3194,65730,5521,Public safety telecommunicators,2,15,2.2820629849383843e-4
+Australia,5298,102893,3194,65730,8040,"Metal furnace operators, tenders, pourers, and casters",1,15,2.2820629849383843e-4
+Australia,5298,102893,3194,65730,8140,"Welding, soldering, and brazing workers",1,15,2.2820629849383843e-4
+Australia,5298,102893,3194,65730,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,15,2.2820629849383843e-4
+Australia,5298,102893,3194,65730,0860,Insurance underwriters,1,14,2.1299254526091586e-4
+Australia,5298,102893,3194,65730,2005,Rehabilitation counselors,1,14,2.1299254526091586e-4
+Australia,5298,102893,3194,65730,2440,Library technicians,1,14,2.1299254526091586e-4
+Australia,5298,102893,3194,65730,2905,Other media and communication equipment workers,1,14,2.1299254526091586e-4
+Australia,5298,102893,3194,65730,3200,Radiation therapists,1,14,2.1299254526091586e-4
+Australia,5298,102893,3194,65730,3520,"Opticians, dispensing",2,14,2.1299254526091586e-4
+Australia,5298,102893,3194,65730,5310,"Interviewers, except eligibility and loan",1,14,2.1299254526091586e-4
+Australia,5298,102893,3194,65730,4200,First-line supervisors of housekeeping and janitorial workers,1,13,1.977787920279933e-4
+Australia,5298,102893,3194,65730,4400,Gambling services workers,1,13,1.977787920279933e-4
+Australia,5298,102893,3194,65730,5040,"Communications equipment operators, all other",1,13,1.977787920279933e-4
+Australia,5298,102893,3194,65730,8610,Stationary engineers and boiler operators,1,13,1.977787920279933e-4
+Australia,5298,102893,3194,65730,3940,Crossing guards and flaggers,2,12,1.8256503879507074e-4
+Australia,5298,102893,3194,65730,4930,Sales engineers,1,12,1.8256503879507074e-4
+Australia,5298,102893,3194,65730,5500,Cargo and freight agents,1,12,1.8256503879507074e-4
+Australia,5298,102893,3194,65730,6850,Underground mining machine operators,1,12,1.8256503879507074e-4
+Australia,5298,102893,3194,65730,9610,Cleaners of vehicles and equipment,1,12,1.8256503879507074e-4
+Australia,5298,102893,3194,65730,0101,Administrative services managers,1,11,1.673512855621482e-4
+Australia,5298,102893,3194,65730,3545,Miscellaneous health technologists and technicians,1,11,1.673512855621482e-4
+Australia,5298,102893,3194,65730,3710,First-line supervisors of police and detectives,1,11,1.673512855621482e-4
+Australia,5298,102893,3194,65730,4255,Other grounds maintenance workers,1,11,1.673512855621482e-4
+Australia,5298,102893,3194,65730,5320,"Library assistants, clerical",1,11,1.673512855621482e-4
+Australia,5298,102893,3194,65730,6540,Solar photovoltaic installers,1,11,1.673512855621482e-4
+Australia,5298,102893,3194,65730,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,11,1.673512855621482e-4
+Australia,5298,102893,3194,65730,9040,Air traffic controllers and airfield operations specialists,1,11,1.673512855621482e-4
+Australia,5298,102893,3194,65730,1980,Occupational health and safety specialists and technicians,1,10,1.5213753232922562e-4
+Australia,5298,102893,3194,65730,5250,"Eligibility interviewers, government programs",1,10,1.5213753232922562e-4
+Australia,5298,102893,3194,65730,0360,Natural sciences managers,1,9,1.3692377909630305e-4
+Australia,5298,102893,3194,65730,4655,"Personal care and service workers, all other",1,8,1.217100258633805e-4
+Australia,5298,102893,3194,65730,4750,Parts salespersons,1,8,1.217100258633805e-4
+Australia,5298,102893,3194,65730,9410,Transportation inspectors,1,8,1.217100258633805e-4
+Australia,5298,102893,3194,65730,6825,Surface mining machine operators and earth drillers,1,7,1.0649627263045793e-4
+Australia,5298,102893,3194,65730,8640,"Chemical processing machine setters, operators, and tenders",2,6,9.128251939753537e-5
+Australia,5298,102893,3194,65730,1910,Biological technicians,1,5,7.606876616461281e-5
+Australia,5298,102893,3194,65730,8650,"Crushing, grinding, polishing, mixing, and blending workers",1,5,7.606876616461281e-5
+Australia,5298,102893,3194,65730,3000,Chiropractors,1,4,6.085501293169025e-5
+Australia,5298,102893,3194,65730,3646,Medical transcriptionists,1,3,4.5641259698767684e-5
+Australia,5298,102893,3194,65730,5730,Medical secretaries and administrative assistants,1,3,4.5641259698767684e-5
+Australia,5298,102893,3194,65730,6050,Other agricultural workers,1,3,4.5641259698767684e-5
+Australia,5298,102893,3194,65730,4640,Residential advisors,1,2,3.0427506465845125e-5
+Australia,5298,102893,3194,65730,8800,Packaging and filling machine operators and tenders,1,1,1.5213753232922563e-5

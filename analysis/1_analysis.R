@@ -1,4 +1,4 @@
-## Preliminaries---
+## Preliminaries
 if (!require("pacman")) install.packages("pacman")
 pacman::p_load(matrixStats, tidyverse, ggthemes, readxl, data.table, gdata, ipumsr, rvest)
 
@@ -62,10 +62,9 @@ print(bpl_work_table, n = Inf)
 
 write_csv(bpl_work_table, "results/birthplace_workers_immigrants.csv")
 
-# restricted to ages 18-64
-bpl_table_18_64 = acs %>%
-  filter(country != "United States", citizen %in% c(2, 3),
-         age >= 18, age <= 64) %>%
+# workers by country, all ages
+bpl_table_workers = acs %>%
+  filter(country != "United States", citizen %in% c(2, 3)) %>%
   mutate(employed = empstat == 1) %>%
   group_by(country) %>%
   summarise(n           = n(),
@@ -76,14 +75,13 @@ bpl_table_18_64 = acs %>%
   mutate(pct_workers = workers / pop) %>%
   arrange(desc(pop))
 
-View(bpl_table_18_64)
+View(bpl_table_workers)
 
 # occupations by US Standard Occupational Classification (SOC) system -- 23 major groups
 top_n_occ = 3
 
 top_occ = acs %>%
-  filter(country != "United States", citizen %in% c(2, 3),
-         age >= 18, age <= 64, empstat == 1) %>%
+  filter(country != "United States", citizen %in% c(2, 3), empstat == 1) %>%
   mutate(occ = as.integer(zap_labels(occ))) %>%
   group_by(country, occ) %>%
   summarise(n = n(), pop = sum(perwt), .groups = "drop_last") %>%
@@ -100,7 +98,7 @@ top_occ_wide = top_occ %>%
   select(country, all_of(as.vector(rbind(paste0("occ_", 1:top_n_occ),
                                          paste0("workers_", 1:top_n_occ)))))
 
-bpl_jobs = bpl_table_18_64 %>%
+bpl_jobs = bpl_table_workers %>%
   left_join(top_occ_wide, by = "country") %>%
   arrange(desc(pop))
 
@@ -242,13 +240,13 @@ region_table = acs %>%
     group_by(bpl_region) %>%
     summarise(n = n(),
         pop = sum(perwt),
-        n_workers_18_64 = sum(empstat == 1 & age >= 18 & age <= 64),
-        workers_18_64 = sum(perwt[empstat == 1 & age >= 18 & age <= 64]),
+        n_workers = sum(empstat == 1),
+        workers = sum(perwt[empstat == 1]),
         .groups = "drop")
 
 region_occ = acs %>%
     filter(country != "United States", citizen %in% c(2, 3),
-        empstat == 1, age >= 18, age <= 64) %>%
+        empstat == 1) %>%
     mutate(occ = sprintf("%04d", as.integer(zap_labels(occ)))) %>%
     group_by(bpl_region, occ) %>%
     summarise(occ_n = n(),
@@ -279,7 +277,7 @@ for (r in unique(region_table$bpl_region)) {
 
 # total immigrants in each job
 occ_totals = acs %>%
-    filter(empstat == 1, age >= 18, age <= 64) %>%
+    filter(empstat == 1) %>%
     mutate(occ = sprintf("%04d", as.integer(zap_labels(occ))),
         immig = country != "United States" & citizen %in% c(2, 3)) %>%
     group_by(occ) %>%
@@ -301,9 +299,41 @@ occ_by_immig_share = occ_totals %>% arrange(desc(immig_share_of_occ))
 
 write_csv(occ_by_immig_share, "results/occ_immigrant_totals_by_share.csv")
 
+occ_group_fn = function(occ) {
+    case_when(
+        occ >= 10   & occ <= 960  ~ "Management, business & financial",
+        occ >= 1005 & occ <= 1980 ~ "Computer, engineering & science",
+        occ >= 2001 & occ <= 2920 ~ "Education, legal, community service, arts & media",
+        occ >= 3000 & occ <= 3550 ~ "Healthcare practitioners & technical",  # doctors, nurses, technicians
+        occ >= 3601 & occ <= 3655 ~ "Healthcare support",                    # home health & personal care aides, nursing assistants
+        occ >= 3700 & occ <= 3960 ~ "Protective service",                   # police, correctional officers, firefighters,security guards, animal control
+        occ >= 4000 & occ <= 4160 ~ "Food preparation & serving",
+        occ >= 4200 & occ <= 4255 ~ "Building & grounds cleaning",           # janitors, maids, landscapers
+        occ >= 4330 & occ <= 4655 ~ "Personal care & service",              # childcare, hairdressers, manicurists
+        occ >= 4700 & occ <= 4965 ~ "Sales",
+        occ >= 5000 & occ <= 5940 ~ "Office & administrative support",
+        occ >= 6005 & occ <= 6130 ~ "Farming, fishing & forestry",
+        occ >= 6200 & occ <= 6950 ~ "Construction & extraction",        # construction, electricians, painters, highway maintenance, mining
+        occ >= 7000 & occ <= 7640 ~ "Installation, maintenance & repair", # mechanics, fire alarm systems installers, HVAC mechanics, locksmiths
+        occ >= 7800 & occ <= 7855 ~ "Food processing",                       # bakers, butchers, meat/poultry processing, batchmakers
+        occ >= 7700 & occ <= 8990 ~ "Production",                       # electronics assemblers, machinsts, metal furnace operators, laundry and dry-cleaning workers,
+        occ >= 9005 & occ <= 9760 ~ "Transportation & material moving",   # pilots, flight attendants, bus drivers, taxi drivers
+        occ >= 9800 & occ <= 9830 ~ "Military",
+        TRUE ~ NA_character_)}
 
+occ_totals = occ_totals %>%
+    mutate(occ_group = occ_group_fn(as.integer(occ))) %>%
+    relocate(occ_group, .after = occ_title)
 
+# Totals by group
+occ_group_totals = occ_totals %>%
+    group_by(occ_group) %>%
+    summarise(n_immig = sum(n_immig),
+        immig_workers = sum(immig_workers),
+        all_workers = sum(all_workers),
+        .groups = "drop") %>%
+    mutate(immig_share_of_occ = immig_workers / all_workers,
+        share_of_immig_workers = immig_workers / sum(immig_workers)) %>%
+    arrange(desc(immig_workers))
 
-
-
-
+print(occ_group_totals, n = Inf)

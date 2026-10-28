@@ -1,218 +1,226 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Czech Republic,1337,27884,743,16556,0440,Other managers,33,662,0.03998550374486591
-Czech Republic,1337,27884,743,16556,1021,Software developers,24,453,0.027361681565595555
-Czech Republic,1337,27884,743,16556,4220,Janitors and building cleaners,15,423,0.02554964967383426
-Czech Republic,1337,27884,743,16556,4110,Waiters and waitresses,7,404,0.024402029475718772
-Czech Republic,1337,27884,743,16556,0800,Accountants and auditors,19,388,0.023435612466779415
-Czech Republic,1337,27884,743,16556,3255,Registered nurses,18,387,0.023375211403720706
-Czech Republic,1337,27884,743,16556,4600,Childcare workers,10,363,0.02192558589031167
-Czech Republic,1337,27884,743,16556,2310,Elementary and middle school teachers,12,339,0.020475960376902632
-Czech Republic,1337,27884,743,16556,4700,First-line supervisors of retail sales workers,15,312,0.018845131674317468
-Czech Republic,1337,27884,743,16556,2205,Postsecondary teachers,14,296,0.01787871466537811
-Czech Republic,1337,27884,743,16556,4230,Maids and housekeeping cleaners,12,292,0.01763711041314327
-Czech Republic,1337,27884,743,16556,0120,Financial managers,9,278,0.016791495530321332
-Czech Republic,1337,27884,743,16556,5810,Data entry keyers,2,248,0.014979463638560038
-Czech Republic,1337,27884,743,16556,2100,"Lawyers, and judges, magistrates, and other judicial workers",6,245,0.01479826044938391
-Czech Republic,1337,27884,743,16556,5740,"Secretaries and administrative assistants, except legal, medical, and executive",11,238,0.01437545300797294
-Czech Republic,1337,27884,743,16556,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",4,225,0.013590239188209712
-Czech Republic,1337,27884,743,16556,4920,Real estate brokers and sales agents,8,217,0.013107030683740034
-Czech Republic,1337,27884,743,16556,0220,Construction managers,5,214,0.012925827494563905
-Czech Republic,1337,27884,743,16556,0705,Project management specialists,9,209,0.012623822179270355
-Czech Republic,1337,27884,743,16556,1760,"Physical scientists, all other",13,196,0.011838608359507128
-Czech Republic,1337,27884,743,16556,3740,Firefighters,3,189,0.011415800918096158
-Czech Republic,1337,27884,743,16556,0735,Market research analysts and marketing specialists,9,179,0.01081179028750906
-Czech Republic,1337,27884,743,16556,0230,Education and childcare administrators,8,178,0.01075138922445035
-Czech Republic,1337,27884,743,16556,0350,Medical and health services managers,5,177,0.01069098816139164
-Czech Republic,1337,27884,743,16556,6260,Construction laborers,5,176,0.01063058709833293
-Czech Republic,1337,27884,743,16556,5240,Customer service representatives,9,164,0.009905774341628412
-Czech Republic,1337,27884,743,16556,4200,First-line supervisors of housekeeping and janitorial workers,7,157,0.009482966900217445
-Czech Republic,1337,27884,743,16556,3090,Physicians,11,156,0.009422565837158734
-Czech Republic,1337,27884,743,16556,4020,Cooks,5,153,0.009241362647982605
-Czech Republic,1337,27884,743,16556,9130,Driver/sales workers and truck drivers,10,147,0.008878956269630346
-Czech Republic,1337,27884,743,16556,2910,Photographers,5,144,0.008697753080454215
-Czech Republic,1337,27884,743,16556,4510,"Hairdressers, hairstylists, and cosmetologists",5,140,0.008456148828219377
-Czech Republic,1337,27884,743,16556,0410,"Property, real estate, and community association managers",5,139,0.008395747765160666
-Czech Republic,1337,27884,743,16556,0845,Financial and investment analysts,2,137,0.008274945639043248
-Czech Republic,1337,27884,743,16556,2600,Artists and related workers,7,136,0.008214544575984537
-Czech Republic,1337,27884,743,16556,1530,Other engineers,7,125,0.007550132882338729
-Czech Republic,1337,27884,743,16556,1050,Computer support specialists,7,123,0.007429330756221309
-Czech Republic,1337,27884,743,16556,4720,Cashiers,3,122,0.0073689296931626
-Czech Republic,1337,27884,743,16556,6355,Electricians,3,121,0.00730852863010389
-Czech Republic,1337,27884,743,16556,7750,Other assemblers and fabricators,2,121,0.00730852863010389
-Czech Republic,1337,27884,743,16556,0710,Management analysts,7,119,0.00718772650398647
-Czech Republic,1337,27884,743,16556,0960,Other financial specialists,3,116,0.007006523314810341
-Czech Republic,1337,27884,743,16556,2722,Coaches and scouts,4,111,0.0067045179995167915
-Czech Republic,1337,27884,743,16556,5860,"Office clerks, general",3,111,0.0067045179995167915
-Czech Republic,1337,27884,743,16556,0051,Marketing managers,6,108,0.006523314810340662
-Czech Republic,1337,27884,743,16556,0310,Food service managers,6,108,0.006523314810340662
-Czech Republic,1337,27884,743,16556,0110,Computer and information systems managers,6,105,0.006342111621164532
-Czech Republic,1337,27884,743,16556,0850,Personal financial advisors,2,105,0.006342111621164532
-Czech Republic,1337,27884,743,16556,5000,First-line supervisors of office and administrative support workers,5,105,0.006342111621164532
-Czech Republic,1337,27884,743,16556,7315,"Heating, air conditioning, and refrigeration mechanics and installers",3,104,0.006281710558105823
-Czech Republic,1337,27884,743,16556,1825,Other psychologists,4,101,0.006100507368929693
-Czech Republic,1337,27884,743,16556,7700,First-line supervisors of production and operating workers,4,100,0.006040106305870983
-Czech Republic,1337,27884,743,16556,2360,Other teachers and instructors,5,99,0.005979705242812274
-Czech Republic,1337,27884,743,16556,3630,Massage therapists,6,98,0.005919304179753564
-Czech Republic,1337,27884,743,16556,4760,Retail salespersons,5,97,0.005858903116694854
-Czech Republic,1337,27884,743,16556,0010,Chief executives and legislators,6,96,0.005798502053636144
-Czech Republic,1337,27884,743,16556,6230,Carpenters,5,93,0.005617298864460015
-Czech Republic,1337,27884,743,16556,2320,Secondary school teachers,3,90,0.005436095675283885
-Czech Republic,1337,27884,743,16556,4621,Exercise trainers and group fitness instructors,4,87,0.005254892486107755
-Czech Republic,1337,27884,743,16556,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",2,87,0.005254892486107755
-Czech Republic,1337,27884,743,16556,5610,"Shipping, receiving, and inventory clerks",4,87,0.005254892486107755
-Czech Republic,1337,27884,743,16556,5710,Executive secretaries and executive administrative assistants,2,87,0.005254892486107755
-Czech Republic,1337,27884,743,16556,5510,Couriers and messengers,4,84,0.005073689296931626
-Czech Republic,1337,27884,743,16556,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,84,0.005073689296931626
-Czech Republic,1337,27884,743,16556,6200,First-line supervisors of construction trades and extraction workers,5,82,0.004952887170814206
-Czech Republic,1337,27884,743,16556,1032,Web and digital interface designers,3,77,0.004650881855520657
-Czech Republic,1337,27884,743,16556,5550,Postal service mail carriers,5,76,0.004590480792461948
-Czech Republic,1337,27884,743,16556,3602,Personal care aides,4,74,0.004469678666344528
-Czech Republic,1337,27884,743,16556,0520,"Wholesale and retail buyers, except farm products",1,73,0.004409277603285818
-Czech Republic,1337,27884,743,16556,8740,"Inspectors, testers, sorters, samplers, and weighers",2,73,0.004409277603285818
-Czech Republic,1337,27884,743,16556,0140,Industrial production managers,4,72,0.004348876540227108
-Czech Republic,1337,27884,743,16556,1360,Civil engineers,2,71,0.0042884754771683985
-Czech Republic,1337,27884,743,16556,4710,First-line supervisors of non-retail sales workers,5,70,0.0042280744141096884
-Czech Republic,1337,27884,743,16556,0420,Social and community service managers,3,69,0.004167673351050978
-Czech Republic,1337,27884,743,16556,1006,Computer systems analysts,6,68,0.004107272287992268
-Czech Republic,1337,27884,743,16556,2632,Fashion designers,3,68,0.004107272287992268
-Czech Republic,1337,27884,743,16556,9050,Flight attendants,3,68,0.004107272287992268
-Czech Republic,1337,27884,743,16556,6410,Painters and paperhangers,5,67,0.004046871224933559
-Czech Republic,1337,27884,743,16556,9620,"Laborers and freight, stock, and material movers, hand",5,67,0.004046871224933559
-Czech Republic,1337,27884,743,16556,2545,Teaching assistants,7,65,0.003926069098816139
-Czech Republic,1337,27884,743,16556,6515,Roofers,1,65,0.003926069098816139
-Czech Republic,1337,27884,743,16556,0020,General and operations managers,5,64,0.003865668035757429
-Czech Republic,1337,27884,743,16556,0565,Compliance officers,1,62,0.0037448659096400096
-Czech Republic,1337,27884,743,16556,4040,Bartenders,2,62,0.0037448659096400096
-Czech Republic,1337,27884,743,16556,5400,Receptionists and information clerks,4,62,0.0037448659096400096
-Czech Republic,1337,27884,743,16556,1410,Electrical and electronics engineers,3,61,0.0036844648465813
-Czech Republic,1337,27884,743,16556,5521,Public safety telecommunicators,1,61,0.0036844648465813
-Czech Republic,1337,27884,743,16556,0340,Lodging managers,2,58,0.0035032616574051704
-Czech Republic,1337,27884,743,16556,5110,Billing and posting clerks,4,58,0.0035032616574051704
-Czech Republic,1337,27884,743,16556,9645,Stockers and order fillers,2,58,0.0035032616574051704
-Czech Republic,1337,27884,743,16556,0300,Architectural and engineering managers,3,57,0.0034428605943464603
-Czech Republic,1337,27884,743,16556,0136,Human resources managers,3,55,0.0033220584682290407
-Czech Republic,1337,27884,743,16556,3550,Other healthcare practitioners and technical occupations,3,53,0.003201256342111621
-Czech Republic,1337,27884,743,16556,5165,Other financial clerks,2,53,0.003201256342111621
-Czech Republic,1337,27884,743,16556,0205,"Farmers, ranchers, and other agricultural managers",2,52,0.0031408552790529115
-Czech Republic,1337,27884,743,16556,0540,"Claims adjusters, appraisers, examiners, and investigators",4,51,0.0030804542159942015
-Czech Republic,1337,27884,743,16556,2721,Athletes and sports competitors,2,50,0.0030200531529354915
-Czech Republic,1337,27884,743,16556,6240,"Carpet, floor, and tile installers and finishers",2,49,0.002959652089876782
-Czech Republic,1337,27884,743,16556,7200,Automotive service technicians and mechanics,2,49,0.002959652089876782
-Czech Republic,1337,27884,743,16556,3545,Miscellaneous health technologists and technicians,2,48,0.002899251026818072
-Czech Republic,1337,27884,743,16556,7300,Control and valve installers and repairers,1,48,0.002899251026818072
-Czech Republic,1337,27884,743,16556,1108,"Computer occupations, all other",4,47,0.0028388499637593623
-Czech Republic,1337,27884,743,16556,7800,Bakers,2,47,0.0028388499637593623
-Czech Republic,1337,27884,743,16556,3245,Other therapists,1,46,0.0027784489007006523
-Czech Republic,1337,27884,743,16556,3960,Other protective service workers,3,46,0.0027784489007006523
-Czech Republic,1337,27884,743,16556,4525,Other personal appearance workers,2,46,0.0027784489007006523
-Czech Republic,1337,27884,743,16556,7210,Bus and truck mechanics and diesel engine specialists,3,46,0.0027784489007006523
-Czech Republic,1337,27884,743,16556,9142,Taxi drivers,3,46,0.0027784489007006523
-Czech Republic,1337,27884,743,16556,1460,Mechanical engineers,2,45,0.0027180478376419427
-Czech Republic,1337,27884,743,16556,4965,"Sales and related workers, all other",3,44,0.0026576467745832327
-Czech Republic,1337,27884,743,16556,5140,Payroll and timekeeping clerks,2,44,0.0026576467745832327
-Czech Republic,1337,27884,743,16556,6530,Structural iron and steel workers,1,44,0.0026576467745832327
-Czech Republic,1337,27884,743,16556,9005,Supervisors of transportation and material moving workers,2,44,0.0026576467745832327
-Czech Republic,1337,27884,743,16556,3110,Physician assistants,3,42,0.002536844648465813
-Czech Republic,1337,27884,743,16556,5120,"Bookkeeping, accounting, and auditing clerks",3,41,0.002476443585407103
-Czech Republic,1337,27884,743,16556,0630,Human resources workers,3,40,0.0024160425223483935
-Czech Republic,1337,27884,743,16556,2850,Writers and authors,2,38,0.002295240396230974
-Czech Republic,1337,27884,743,16556,4640,Residential advisors,1,38,0.002295240396230974
-Czech Republic,1337,27884,743,16556,1970,"Other life, physical, and social science technicians",3,37,0.002234839333172264
-Czech Republic,1337,27884,743,16556,4522,Skincare specialists,1,37,0.002234839333172264
-Czech Republic,1337,27884,743,16556,4900,"Models, demonstrators, and product promoters",1,37,0.002234839333172264
-Czech Republic,1337,27884,743,16556,2145,Paralegals and legal assistants,1,36,0.002174438270113554
-Czech Republic,1337,27884,743,16556,5250,"Eligibility interviewers, government programs",1,36,0.002174438270113554
-Czech Republic,1337,27884,743,16556,2640,Other designers,2,35,0.0021140372070548442
-Czech Republic,1337,27884,743,16556,2634,Graphic designers,3,34,0.002053636143996134
-Czech Republic,1337,27884,743,16556,4251,Landscaping and groundskeeping workers,1,34,0.002053636143996134
-Czech Republic,1337,27884,743,16556,3030,Dietitians and nutritionists,2,33,0.0019932350809374246
-Czech Republic,1337,27884,743,16556,3300,Clinical laboratory technologists and technicians,1,32,0.0019328340178787146
-Czech Republic,1337,27884,743,16556,1240,Other mathematical science occupations,2,30,0.001812031891761295
-Czech Republic,1337,27884,743,16556,4350,Animal caretakers,4,30,0.001812031891761295
-Czech Republic,1337,27884,743,16556,4820,"Securities, commodities, and financial services sales agents",2,29,0.0017516308287025852
-Czech Republic,1337,27884,743,16556,7120,Electronic home entertainment equipment installers and repairers,1,27,0.0016308287025851656
-Czech Republic,1337,27884,743,16556,1305,"Architects, except landscape and naval",2,26,0.0015704276395264558
-Czech Republic,1337,27884,743,16556,4850,"Sales representatives, wholesale and manufacturing",2,26,0.0015704276395264558
-Czech Republic,1337,27884,743,16556,0102,Facilities managers,2,25,0.0015100265764677458
-Czech Republic,1337,27884,743,16556,7320,Home appliance repairers,1,25,0.0015100265764677458
-Czech Republic,1337,27884,743,16556,9600,Industrial truck and tractor operators,1,25,0.0015100265764677458
-Czech Republic,1337,27884,743,16556,2825,Public relations specialists,1,24,0.001449625513409036
-Czech Republic,1337,27884,743,16556,5300,"Hotel, motel, and resort desk clerks",2,24,0.001449625513409036
-Czech Republic,1337,27884,743,16556,3620,Physical therapist assistants and aides,2,23,0.0013892244503503261
-Czech Republic,1337,27884,743,16556,3603,Nursing assistants,2,22,0.0013288233872916163
-Czech Republic,1337,27884,743,16556,7430,Precision instrument and equipment repairers,2,22,0.0013288233872916163
-Czech Republic,1337,27884,743,16556,1031,Web developers,1,21,0.0012684223242329065
-Czech Republic,1337,27884,743,16556,3645,Medical assistants,2,21,0.0012684223242329065
-Czech Republic,1337,27884,743,16556,5330,Loan interviewers and clerks,1,21,0.0012684223242329065
-Czech Republic,1337,27884,743,16556,5420,Other information and records clerks,2,21,0.0012684223242329065
-Czech Republic,1337,27884,743,16556,9830,"Military, rank not specified",1,21,0.0012684223242329065
-Czech Republic,1337,27884,743,16556,1610,Biological scientists,2,20,0.0012080212611741967
-Czech Republic,1337,27884,743,16556,2300,Preschool and kindergarten teachers,2,20,0.0012080212611741967
-Czech Republic,1337,27884,743,16556,2740,Dancers and choreographers,1,20,0.0012080212611741967
-Czech Republic,1337,27884,743,16556,2861,Interpreters and translators,1,20,0.0012080212611741967
-Czech Republic,1337,27884,743,16556,6442,"Plumbers, pipefitters, and steamfitters",1,20,0.0012080212611741967
-Czech Republic,1337,27884,743,16556,1010,Computer programmers,1,19,0.001147620198115487
-Czech Republic,1337,27884,743,16556,1600,Agricultural and food scientists,1,19,0.001147620198115487
-Czech Republic,1337,27884,743,16556,4655,"Personal care and service workers, all other",1,19,0.001147620198115487
-Czech Republic,1337,27884,743,16556,5320,"Library assistants, clerical",1,19,0.001147620198115487
-Czech Republic,1337,27884,743,16556,8140,"Welding, soldering, and brazing workers",1,19,0.001147620198115487
-Czech Republic,1337,27884,743,16556,8500,Cabinetmakers and bench carpenters,2,19,0.001147620198115487
-Czech Republic,1337,27884,743,16556,2710,Producers and directors,2,18,0.001087219135056777
-Czech Republic,1337,27884,743,16556,2830,Editors,1,18,0.001087219135056777
-Czech Republic,1337,27884,743,16556,7010,"Computer, automated teller, and office machine repairers",1,18,0.001087219135056777
-Czech Republic,1337,27884,743,16556,9210,Locomotive engineers and operators,1,18,0.001087219135056777
-Czech Republic,1337,27884,743,16556,2015,Probation officers and correctional treatment specialists,1,17,0.001026818071998067
-Czech Republic,1337,27884,743,16556,2350,Tutors,1,17,0.001026818071998067
-Czech Republic,1337,27884,743,16556,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",1,17,0.001026818071998067
-Czech Republic,1337,27884,743,16556,6005,"First-line supervisors of farming, fishing, and forestry workers",1,17,0.001026818071998067
-Czech Republic,1337,27884,743,16556,9030,Aircraft pilots and flight engineers,2,17,0.001026818071998067
-Czech Republic,1337,27884,743,16556,3010,Dentists,1,16,9.664170089393573e-4
-Czech Republic,1337,27884,743,16556,3270,"Healthcare diagnosing or treating practitioners, all other",1,16,9.664170089393573e-4
-Czech Republic,1337,27884,743,16556,5500,Cargo and freight agents,1,16,9.664170089393573e-4
-Czech Republic,1337,27884,743,16556,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,16,9.664170089393573e-4
-Czech Republic,1337,27884,743,16556,7840,Food batchmakers,1,16,9.664170089393573e-4
-Czech Republic,1337,27884,743,16556,8990,"Miscellaneous production workers, including equipment operators and tenders",1,16,9.664170089393573e-4
-Czech Republic,1337,27884,743,16556,4622,Recreation workers,1,15,9.060159458806475e-4
-Czech Republic,1337,27884,743,16556,6720,Hazardous materials removal workers,1,15,9.060159458806475e-4
-Czech Republic,1337,27884,743,16556,1007,Information security analysts,1,14,8.456148828219377e-4
-Czech Republic,1337,27884,743,16556,1650,Other life scientists,1,14,8.456148828219377e-4
-Czech Republic,1337,27884,743,16556,2435,Librarians and media collections specialists,1,14,8.456148828219377e-4
-Czech Republic,1337,27884,743,16556,2635,Interior designers,1,14,8.456148828219377e-4
-Czech Republic,1337,27884,743,16556,7020,Radio and telecommunications equipment installers and repairers,1,14,8.456148828219377e-4
-Czech Republic,1337,27884,743,16556,1700,Astronomers and physicists,1,13,7.852138197632279e-4
-Czech Republic,1337,27884,743,16556,3322,Diagnostic medical sonographers,1,13,7.852138197632279e-4
-Czech Republic,1337,27884,743,16556,3640,Dental assistants,1,13,7.852138197632279e-4
-Czech Republic,1337,27884,743,16556,3910,Private detectives and investigators,1,13,7.852138197632279e-4
-Czech Republic,1337,27884,743,16556,3945,Transportation security screeners,1,13,7.852138197632279e-4
-Czech Republic,1337,27884,743,16556,4000,Chefs and head cooks,1,13,7.852138197632279e-4
-Czech Republic,1337,27884,743,16556,5560,"Postal service mail sorters, processors, and processing machine operators",1,13,7.852138197632279e-4
-Czech Republic,1337,27884,743,16556,9610,Cleaners of vehicles and equipment,1,13,7.852138197632279e-4
-Czech Republic,1337,27884,743,16556,2014,"Social workers, all other",1,12,7.24812756704518e-4
-Czech Republic,1337,27884,743,16556,3323,Radiologic technologists and technicians,1,12,7.24812756704518e-4
-Czech Republic,1337,27884,743,16556,3515,Medical records specialists,1,12,7.24812756704518e-4
-Czech Republic,1337,27884,743,16556,7240,Small engine mechanics,1,12,7.24812756704518e-4
-Czech Republic,1337,27884,743,16556,1105,Network and computer systems administrators,1,11,6.644116936458082e-4
-Czech Republic,1337,27884,743,16556,1200,Actuaries,1,11,6.644116936458082e-4
-Czech Republic,1337,27884,743,16556,2002,"Educational, guidance, and career counselors and advisors",1,11,6.644116936458082e-4
-Czech Republic,1337,27884,743,16556,3601,Home health aides,1,11,6.644116936458082e-4
-Czech Republic,1337,27884,743,16556,7330,Industrial and refractory machinery mechanics,1,11,6.644116936458082e-4
-Czech Republic,1337,27884,743,16556,8610,Stationary engineers and boiler operators,1,11,6.644116936458082e-4
-Czech Republic,1337,27884,743,16556,3040,Optometrists,1,10,6.040106305870984e-4
-Czech Republic,1337,27884,743,16556,3050,Pharmacists,2,10,6.040106305870984e-4
-Czech Republic,1337,27884,743,16556,7340,"Maintenance and repair workers, general",1,10,6.040106305870984e-4
-Czech Republic,1337,27884,743,16556,0940,Tax preparers,1,9,5.436095675283885e-4
-Czech Republic,1337,27884,743,16556,1065,Database administrators and architects,1,9,5.436095675283885e-4
-Czech Republic,1337,27884,743,16556,2810,"News analysts, reporters, and journalists",1,9,5.436095675283885e-4
-Czech Republic,1337,27884,743,16556,5350,Correspondence clerks and order clerks,1,9,5.436095675283885e-4
-Czech Republic,1337,27884,743,16556,0150,Purchasing managers,1,8,4.8320850446967865e-4
-Czech Republic,1337,27884,743,16556,3100,Surgeons,1,8,4.8320850446967865e-4
-Czech Republic,1337,27884,743,16556,3402,Paramedics,1,8,4.8320850446967865e-4
-Czech Republic,1337,27884,743,16556,4055,Fast food and counter workers,1,8,4.8320850446967865e-4
-Czech Republic,1337,27884,743,16556,5600,"Production, planning, and expediting clerks",1,8,4.8320850446967865e-4
-Czech Republic,1337,27884,743,16556,7140,Aircraft mechanics and service technicians,1,8,4.8320850446967865e-4
-Czech Republic,1337,27884,743,16556,1022,Software quality assurance analysts and testers,1,7,4.2280744141096884e-4
-Czech Republic,1337,27884,743,16556,1350,Chemical engineers,1,5,3.020053152935492e-4
-Czech Republic,1337,27884,743,16556,4830,Travel agents,1,5,3.020053152935492e-4
-Czech Republic,1337,27884,743,16556,3160,Physical therapists,1,4,2.4160425223483932e-4
-Czech Republic,1337,27884,743,16556,3250,Veterinarians,1,4,2.4160425223483932e-4
-Czech Republic,1337,27884,743,16556,6710,Fence erectors,1,3,1.812031891761295e-4
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Czech Republic,1337,27884,806,17691,0440,Other managers,35,674,0.0380984681476457
+Czech Republic,1337,27884,806,17691,4220,Janitors and building cleaners,16,480,0.027132440223842633
+Czech Republic,1337,27884,806,17691,1021,Software developers,25,462,0.026114973715448533
+Czech Republic,1337,27884,806,17691,3255,Registered nurses,20,422,0.023853937030128315
+Czech Republic,1337,27884,806,17691,0800,Accountants and auditors,20,413,0.023345203775931266
+Czech Republic,1337,27884,806,17691,4110,Waiters and waitresses,7,404,0.022836470521734216
+Czech Republic,1337,27884,806,17691,4600,Childcare workers,10,363,0.02051890791928099
+Czech Republic,1337,27884,806,17691,2310,Elementary and middle school teachers,13,343,0.019388389576620882
+Czech Republic,1337,27884,806,17691,2205,Postsecondary teachers,16,332,0.01876660448815782
+Czech Republic,1337,27884,806,17691,4700,First-line supervisors of retail sales workers,15,312,0.01763608614549771
+Czech Republic,1337,27884,806,17691,4230,Maids and housekeeping cleaners,14,308,0.01740998247696569
+Czech Republic,1337,27884,806,17691,0120,Financial managers,10,291,0.016449041885704594
+Czech Republic,1337,27884,806,17691,4920,Real estate brokers and sales agents,10,267,0.015092419874512463
+Czech Republic,1337,27884,806,17691,5740,"Secretaries and administrative assistants, except legal, medical, and executive",12,252,0.014244531117517382
+Czech Republic,1337,27884,806,17691,5810,Data entry keyers,2,248,0.01401842744898536
+Czech Republic,1337,27884,806,17691,2100,"Lawyers, and judges, magistrates, and other judicial workers",6,245,0.013848849697586343
+Czech Republic,1337,27884,806,17691,0710,Management analysts,9,229,0.012944435023458255
+Czech Republic,1337,27884,806,17691,1760,"Physical scientists, all other",15,229,0.012944435023458255
+Czech Republic,1337,27884,806,17691,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",4,225,0.012718331354926234
+Czech Republic,1337,27884,806,17691,0705,Project management specialists,10,220,0.012435701769261205
+Czech Republic,1337,27884,806,17691,0220,Construction managers,5,214,0.012096546266463174
+Czech Republic,1337,27884,806,17691,3740,Firefighters,3,189,0.010683398338138037
+Czech Republic,1337,27884,806,17691,0735,Market research analysts and marketing specialists,9,179,0.010118139166807982
+Czech Republic,1337,27884,806,17691,0230,Education and childcare administrators,8,178,0.010061613249674976
+Czech Republic,1337,27884,806,17691,0350,Medical and health services managers,6,178,0.010061613249674976
+Czech Republic,1337,27884,806,17691,6260,Construction laborers,5,176,0.009948561415408966
+Czech Republic,1337,27884,806,17691,3090,Physicians,13,173,0.00977898366400995
+Czech Republic,1337,27884,806,17691,4720,Cashiers,4,165,0.009326776326945905
+Czech Republic,1337,27884,806,17691,5240,Customer service representatives,9,164,0.0092702504098129
+Czech Republic,1337,27884,806,17691,4200,First-line supervisors of housekeeping and janitorial workers,7,157,0.008874568989881862
+Czech Republic,1337,27884,806,17691,0845,Financial and investment analysts,3,155,0.00876151715561585
+Czech Republic,1337,27884,806,17691,2600,Artists and related workers,9,153,0.008648465321349838
+Czech Republic,1337,27884,806,17691,4020,Cooks,5,153,0.008648465321349838
+Czech Republic,1337,27884,806,17691,9130,Driver/sales workers and truck drivers,10,147,0.008309309818551805
+Czech Republic,1337,27884,806,17691,2910,Photographers,5,144,0.008139732067152789
+Czech Republic,1337,27884,806,17691,3010,Dentists,4,142,0.008026680232886779
+Czech Republic,1337,27884,806,17691,6200,First-line supervisors of construction trades and extraction workers,6,142,0.008026680232886779
+Czech Republic,1337,27884,806,17691,4510,"Hairdressers, hairstylists, and cosmetologists",5,140,0.007913628398620767
+Czech Republic,1337,27884,806,17691,0410,"Property, real estate, and community association managers",5,139,0.007857102481487762
+Czech Republic,1337,27884,806,17691,4760,Retail salespersons,8,138,0.0078005765643547565
+Czech Republic,1337,27884,806,17691,6355,Electricians,4,136,0.007687524730088746
+Czech Republic,1337,27884,806,17691,1050,Computer support specialists,8,134,0.007574472895822735
+Czech Republic,1337,27884,806,17691,1530,Other engineers,7,125,0.0070657396416256854
+Czech Republic,1337,27884,806,17691,7750,Other assemblers and fabricators,2,121,0.006839635973093663
+Czech Republic,1337,27884,806,17691,1825,Other psychologists,6,119,0.006726584138827652
+Czech Republic,1337,27884,806,17691,0010,Chief executives and legislators,7,117,0.006613532304561642
+Czech Republic,1337,27884,806,17691,0960,Other financial specialists,3,116,0.006557006387428636
+Czech Republic,1337,27884,806,17691,2722,Coaches and scouts,4,111,0.0062743768017636085
+Czech Republic,1337,27884,806,17691,5860,"Office clerks, general",3,111,0.0062743768017636085
+Czech Republic,1337,27884,806,17691,5000,First-line supervisors of office and administrative support workers,6,110,0.006217850884630603
+Czech Republic,1337,27884,806,17691,0051,Marketing managers,6,108,0.006104799050364592
+Czech Republic,1337,27884,806,17691,0310,Food service managers,6,108,0.006104799050364592
+Czech Republic,1337,27884,806,17691,0110,Computer and information systems managers,6,105,0.0059352212989655755
+Czech Republic,1337,27884,806,17691,0850,Personal financial advisors,2,105,0.0059352212989655755
+Czech Republic,1337,27884,806,17691,7315,"Heating, air conditioning, and refrigeration mechanics and installers",3,104,0.0058786953818325705
+Czech Republic,1337,27884,806,17691,7700,First-line supervisors of production and operating workers,4,100,0.005652591713300548
+Czech Republic,1337,27884,806,17691,2360,Other teachers and instructors,5,99,0.005596065796167543
+Czech Republic,1337,27884,806,17691,3630,Massage therapists,6,98,0.0055395398790345374
+Czech Republic,1337,27884,806,17691,6230,Carpenters,5,93,0.00525691029336951
+Czech Republic,1337,27884,806,17691,2320,Secondary school teachers,3,90,0.005087332541970494
+Czech Republic,1337,27884,806,17691,4621,Exercise trainers and group fitness instructors,4,87,0.004917754790571477
+Czech Republic,1337,27884,806,17691,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",2,87,0.004917754790571477
+Czech Republic,1337,27884,806,17691,5610,"Shipping, receiving, and inventory clerks",4,87,0.004917754790571477
+Czech Republic,1337,27884,806,17691,5710,Executive secretaries and executive administrative assistants,2,87,0.004917754790571477
+Czech Republic,1337,27884,806,17691,0520,"Wholesale and retail buyers, except farm products",2,84,0.0047481770391724605
+Czech Republic,1337,27884,806,17691,5510,Couriers and messengers,4,84,0.0047481770391724605
+Czech Republic,1337,27884,806,17691,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,84,0.0047481770391724605
+Czech Republic,1337,27884,806,17691,3602,Personal care aides,5,83,0.004691651122039455
+Czech Republic,1337,27884,806,17691,1032,Web and digital interface designers,3,77,0.0043524956192414225
+Czech Republic,1337,27884,806,17691,4710,First-line supervisors of non-retail sales workers,6,77,0.0043524956192414225
+Czech Republic,1337,27884,806,17691,5550,Postal service mail carriers,5,76,0.004295969702108417
+Czech Republic,1337,27884,806,17691,7200,Automotive service technicians and mechanics,4,73,0.0041263919507094
+Czech Republic,1337,27884,806,17691,8740,"Inspectors, testers, sorters, samplers, and weighers",2,73,0.0041263919507094
+Czech Republic,1337,27884,806,17691,0140,Industrial production managers,4,72,0.004069866033576394
+Czech Republic,1337,27884,806,17691,1410,Electrical and electronics engineers,4,72,0.004069866033576394
+Czech Republic,1337,27884,806,17691,1360,Civil engineers,2,71,0.0040133401164433894
+Czech Republic,1337,27884,806,17691,0420,Social and community service managers,3,69,0.0039002882821773783
+Czech Republic,1337,27884,806,17691,1006,Computer systems analysts,6,68,0.003843762365044373
+Czech Republic,1337,27884,806,17691,2632,Fashion designers,3,68,0.003843762365044373
+Czech Republic,1337,27884,806,17691,9050,Flight attendants,3,68,0.003843762365044373
+Czech Republic,1337,27884,806,17691,2640,Other designers,3,67,0.0037872364479113675
+Czech Republic,1337,27884,806,17691,6410,Painters and paperhangers,5,67,0.0037872364479113675
+Czech Republic,1337,27884,806,17691,9620,"Laborers and freight, stock, and material movers, hand",5,67,0.0037872364479113675
+Czech Republic,1337,27884,806,17691,2545,Teaching assistants,7,65,0.0036741846136453564
+Czech Republic,1337,27884,806,17691,6515,Roofers,1,65,0.0036741846136453564
+Czech Republic,1337,27884,806,17691,0020,General and operations managers,5,64,0.003617658696512351
+Czech Republic,1337,27884,806,17691,0565,Compliance officers,1,62,0.00350460686224634
+Czech Republic,1337,27884,806,17691,4040,Bartenders,2,62,0.00350460686224634
+Czech Republic,1337,27884,806,17691,4820,"Securities, commodities, and financial services sales agents",3,62,0.00350460686224634
+Czech Republic,1337,27884,806,17691,5400,Receptionists and information clerks,4,62,0.00350460686224634
+Czech Republic,1337,27884,806,17691,5521,Public safety telecommunicators,1,61,0.0034480809451133345
+Czech Republic,1337,27884,806,17691,0340,Lodging managers,2,58,0.003278503193714318
+Czech Republic,1337,27884,806,17691,5110,Billing and posting clerks,4,58,0.003278503193714318
+Czech Republic,1337,27884,806,17691,5120,"Bookkeeping, accounting, and auditing clerks",4,58,0.003278503193714318
+Czech Republic,1337,27884,806,17691,9645,Stockers and order fillers,2,58,0.003278503193714318
+Czech Republic,1337,27884,806,17691,0300,Architectural and engineering managers,3,57,0.0032219772765813125
+Czech Republic,1337,27884,806,17691,3960,Other protective service workers,4,56,0.003165451359448307
+Czech Republic,1337,27884,806,17691,0136,Human resources managers,3,55,0.0031089254423153014
+Czech Republic,1337,27884,806,17691,3550,Other healthcare practitioners and technical occupations,3,53,0.0029958736080492906
+Czech Republic,1337,27884,806,17691,5165,Other financial clerks,2,53,0.0029958736080492906
+Czech Republic,1337,27884,806,17691,0205,"Farmers, ranchers, and other agricultural managers",2,52,0.0029393476909162853
+Czech Republic,1337,27884,806,17691,0540,"Claims adjusters, appraisers, examiners, and investigators",4,51,0.0028828217737832795
+Czech Republic,1337,27884,806,17691,4900,"Models, demonstrators, and product promoters",2,51,0.0028828217737832795
+Czech Republic,1337,27884,806,17691,2721,Athletes and sports competitors,2,50,0.002826295856650274
+Czech Republic,1337,27884,806,17691,4522,Skincare specialists,2,49,0.0027697699395172687
+Czech Republic,1337,27884,806,17691,6240,"Carpet, floor, and tile installers and finishers",2,49,0.0027697699395172687
+Czech Republic,1337,27884,806,17691,3545,Miscellaneous health technologists and technicians,2,48,0.0027132440223842634
+Czech Republic,1337,27884,806,17691,7300,Control and valve installers and repairers,1,48,0.0027132440223842634
+Czech Republic,1337,27884,806,17691,1108,"Computer occupations, all other",4,47,0.0026567181052512575
+Czech Republic,1337,27884,806,17691,7800,Bakers,2,47,0.0026567181052512575
+Czech Republic,1337,27884,806,17691,3245,Other therapists,1,46,0.002600192188118252
+Czech Republic,1337,27884,806,17691,4525,Other personal appearance workers,2,46,0.002600192188118252
+Czech Republic,1337,27884,806,17691,7210,Bus and truck mechanics and diesel engine specialists,3,46,0.002600192188118252
+Czech Republic,1337,27884,806,17691,9142,Taxi drivers,3,46,0.002600192188118252
+Czech Republic,1337,27884,806,17691,1460,Mechanical engineers,2,45,0.002543666270985247
+Czech Republic,1337,27884,806,17691,4965,"Sales and related workers, all other",3,44,0.0024871403538522414
+Czech Republic,1337,27884,806,17691,5140,Payroll and timekeeping clerks,2,44,0.0024871403538522414
+Czech Republic,1337,27884,806,17691,6530,Structural iron and steel workers,1,44,0.0024871403538522414
+Czech Republic,1337,27884,806,17691,9005,Supervisors of transportation and material moving workers,2,44,0.0024871403538522414
+Czech Republic,1337,27884,806,17691,3110,Physician assistants,3,42,0.0023740885195862303
+Czech Republic,1337,27884,806,17691,0630,Human resources workers,3,40,0.0022610366853202195
+Czech Republic,1337,27884,806,17691,2850,Writers and authors,2,38,0.0021479848510542084
+Czech Republic,1337,27884,806,17691,4640,Residential advisors,1,38,0.0021479848510542084
+Czech Republic,1337,27884,806,17691,1970,"Other life, physical, and social science technicians",3,37,0.002091458933921203
+Czech Republic,1337,27884,806,17691,3300,Clinical laboratory technologists and technicians,2,37,0.002091458933921203
+Czech Republic,1337,27884,806,17691,2145,Paralegals and legal assistants,1,36,0.002034933016788197
+Czech Republic,1337,27884,806,17691,5250,"Eligibility interviewers, government programs",1,36,0.002034933016788197
+Czech Republic,1337,27884,806,17691,2634,Graphic designers,3,34,0.0019218811825221865
+Czech Republic,1337,27884,806,17691,4251,Landscaping and groundskeeping workers,1,34,0.0019218811825221865
+Czech Republic,1337,27884,806,17691,3030,Dietitians and nutritionists,2,33,0.0018653552653891809
+Czech Republic,1337,27884,806,17691,3321,Cardiovascular technologists and technicians,1,32,0.0018088293482561755
+Czech Republic,1337,27884,806,17691,1240,Other mathematical science occupations,2,30,0.0016957775139901645
+Czech Republic,1337,27884,806,17691,4350,Animal caretakers,4,30,0.0016957775139901645
+Czech Republic,1337,27884,806,17691,9310,Ship and boat captains and operators,1,30,0.0016957775139901645
+Czech Republic,1337,27884,806,17691,7120,Electronic home entertainment equipment installers and repairers,1,27,0.001526199762591148
+Czech Republic,1337,27884,806,17691,1305,"Architects, except landscape and naval",2,26,0.0014696738454581426
+Czech Republic,1337,27884,806,17691,4850,"Sales representatives, wholesale and manufacturing",2,26,0.0014696738454581426
+Czech Republic,1337,27884,806,17691,0102,Facilities managers,2,25,0.001413147928325137
+Czech Republic,1337,27884,806,17691,7320,Home appliance repairers,1,25,0.001413147928325137
+Czech Republic,1337,27884,806,17691,9600,Industrial truck and tractor operators,1,25,0.001413147928325137
+Czech Republic,1337,27884,806,17691,2825,Public relations specialists,1,24,0.0013566220111921317
+Czech Republic,1337,27884,806,17691,5300,"Hotel, motel, and resort desk clerks",2,24,0.0013566220111921317
+Czech Republic,1337,27884,806,17691,3620,Physical therapist assistants and aides,2,23,0.001300096094059126
+Czech Republic,1337,27884,806,17691,3603,Nursing assistants,2,22,0.0012435701769261207
+Czech Republic,1337,27884,806,17691,7430,Precision instrument and equipment repairers,2,22,0.0012435701769261207
+Czech Republic,1337,27884,806,17691,1031,Web developers,1,21,0.0011870442597931151
+Czech Republic,1337,27884,806,17691,3645,Medical assistants,2,21,0.0011870442597931151
+Czech Republic,1337,27884,806,17691,5330,Loan interviewers and clerks,1,21,0.0011870442597931151
+Czech Republic,1337,27884,806,17691,5420,Other information and records clerks,2,21,0.0011870442597931151
+Czech Republic,1337,27884,806,17691,9830,"Military, rank not specified",1,21,0.0011870442597931151
+Czech Republic,1337,27884,806,17691,1610,Biological scientists,2,20,0.0011305183426601098
+Czech Republic,1337,27884,806,17691,2300,Preschool and kindergarten teachers,2,20,0.0011305183426601098
+Czech Republic,1337,27884,806,17691,2740,Dancers and choreographers,1,20,0.0011305183426601098
+Czech Republic,1337,27884,806,17691,2861,Interpreters and translators,1,20,0.0011305183426601098
+Czech Republic,1337,27884,806,17691,6442,"Plumbers, pipefitters, and steamfitters",1,20,0.0011305183426601098
+Czech Republic,1337,27884,806,17691,1010,Computer programmers,1,19,0.0010739924255271042
+Czech Republic,1337,27884,806,17691,1600,Agricultural and food scientists,1,19,0.0010739924255271042
+Czech Republic,1337,27884,806,17691,4655,"Personal care and service workers, all other",1,19,0.0010739924255271042
+Czech Republic,1337,27884,806,17691,5320,"Library assistants, clerical",1,19,0.0010739924255271042
+Czech Republic,1337,27884,806,17691,8140,"Welding, soldering, and brazing workers",1,19,0.0010739924255271042
+Czech Republic,1337,27884,806,17691,8500,Cabinetmakers and bench carpenters,2,19,0.0010739924255271042
+Czech Republic,1337,27884,806,17691,2710,Producers and directors,2,18,0.0010174665083940986
+Czech Republic,1337,27884,806,17691,2830,Editors,1,18,0.0010174665083940986
+Czech Republic,1337,27884,806,17691,4435,Other entertainment attendants and related workers,1,18,0.0010174665083940986
+Czech Republic,1337,27884,806,17691,7010,"Computer, automated teller, and office machine repairers",1,18,0.0010174665083940986
+Czech Republic,1337,27884,806,17691,9210,Locomotive engineers and operators,1,18,0.0010174665083940986
+Czech Republic,1337,27884,806,17691,2015,Probation officers and correctional treatment specialists,1,17,9.609405912610932e-4
+Czech Republic,1337,27884,806,17691,2350,Tutors,1,17,9.609405912610932e-4
+Czech Republic,1337,27884,806,17691,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",1,17,9.609405912610932e-4
+Czech Republic,1337,27884,806,17691,6005,"First-line supervisors of farming, fishing, and forestry workers",1,17,9.609405912610932e-4
+Czech Republic,1337,27884,806,17691,9030,Aircraft pilots and flight engineers,2,17,9.609405912610932e-4
+Czech Republic,1337,27884,806,17691,3270,"Healthcare diagnosing or treating practitioners, all other",1,16,9.044146741280877e-4
+Czech Republic,1337,27884,806,17691,5500,Cargo and freight agents,1,16,9.044146741280877e-4
+Czech Republic,1337,27884,806,17691,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,16,9.044146741280877e-4
+Czech Republic,1337,27884,806,17691,7840,Food batchmakers,1,16,9.044146741280877e-4
+Czech Republic,1337,27884,806,17691,8990,"Miscellaneous production workers, including equipment operators and tenders",1,16,9.044146741280877e-4
+Czech Republic,1337,27884,806,17691,4622,Recreation workers,1,15,8.478887569950823e-4
+Czech Republic,1337,27884,806,17691,6720,Hazardous materials removal workers,1,15,8.478887569950823e-4
+Czech Republic,1337,27884,806,17691,1007,Information security analysts,1,14,7.913628398620768e-4
+Czech Republic,1337,27884,806,17691,1650,Other life scientists,1,14,7.913628398620768e-4
+Czech Republic,1337,27884,806,17691,2435,Librarians and media collections specialists,1,14,7.913628398620768e-4
+Czech Republic,1337,27884,806,17691,2635,Interior designers,1,14,7.913628398620768e-4
+Czech Republic,1337,27884,806,17691,7020,Radio and telecommunications equipment installers and repairers,1,14,7.913628398620768e-4
+Czech Republic,1337,27884,806,17691,7640,"Other installation, maintenance, and repair workers",2,14,7.913628398620768e-4
+Czech Republic,1337,27884,806,17691,1700,Astronomers and physicists,1,13,7.348369227290713e-4
+Czech Republic,1337,27884,806,17691,3322,Diagnostic medical sonographers,1,13,7.348369227290713e-4
+Czech Republic,1337,27884,806,17691,3640,Dental assistants,1,13,7.348369227290713e-4
+Czech Republic,1337,27884,806,17691,3910,Private detectives and investigators,1,13,7.348369227290713e-4
+Czech Republic,1337,27884,806,17691,3945,Transportation security screeners,1,13,7.348369227290713e-4
+Czech Republic,1337,27884,806,17691,4000,Chefs and head cooks,1,13,7.348369227290713e-4
+Czech Republic,1337,27884,806,17691,5560,"Postal service mail sorters, processors, and processing machine operators",1,13,7.348369227290713e-4
+Czech Republic,1337,27884,806,17691,9610,Cleaners of vehicles and equipment,1,13,7.348369227290713e-4
+Czech Republic,1337,27884,806,17691,2014,"Social workers, all other",1,12,6.783110055960658e-4
+Czech Republic,1337,27884,806,17691,3323,Radiologic technologists and technicians,1,12,6.783110055960658e-4
+Czech Republic,1337,27884,806,17691,3515,Medical records specialists,1,12,6.783110055960658e-4
+Czech Republic,1337,27884,806,17691,7240,Small engine mechanics,1,12,6.783110055960658e-4
+Czech Republic,1337,27884,806,17691,1105,Network and computer systems administrators,1,11,6.217850884630604e-4
+Czech Republic,1337,27884,806,17691,1200,Actuaries,1,11,6.217850884630604e-4
+Czech Republic,1337,27884,806,17691,2002,"Educational, guidance, and career counselors and advisors",1,11,6.217850884630604e-4
+Czech Republic,1337,27884,806,17691,3601,Home health aides,1,11,6.217850884630604e-4
+Czech Republic,1337,27884,806,17691,4120,"Food servers, nonrestaurant",1,11,6.217850884630604e-4
+Czech Republic,1337,27884,806,17691,7330,Industrial and refractory machinery mechanics,1,11,6.217850884630604e-4
+Czech Republic,1337,27884,806,17691,8610,Stationary engineers and boiler operators,1,11,6.217850884630604e-4
+Czech Republic,1337,27884,806,17691,3040,Optometrists,1,10,5.652591713300549e-4
+Czech Republic,1337,27884,806,17691,3050,Pharmacists,2,10,5.652591713300549e-4
+Czech Republic,1337,27884,806,17691,5940,Other office and administrative support workers,1,10,5.652591713300549e-4
+Czech Republic,1337,27884,806,17691,7340,"Maintenance and repair workers, general",1,10,5.652591713300549e-4
+Czech Republic,1337,27884,806,17691,8555,Other woodworkers,1,10,5.652591713300549e-4
+Czech Republic,1337,27884,806,17691,0940,Tax preparers,1,9,5.087332541970493e-4
+Czech Republic,1337,27884,806,17691,1065,Database administrators and architects,1,9,5.087332541970493e-4
+Czech Republic,1337,27884,806,17691,2810,"News analysts, reporters, and journalists",1,9,5.087332541970493e-4
+Czech Republic,1337,27884,806,17691,5350,Correspondence clerks and order clerks,1,9,5.087332541970493e-4
+Czech Republic,1337,27884,806,17691,0150,Purchasing managers,1,8,4.522073370640439e-4
+Czech Republic,1337,27884,806,17691,3100,Surgeons,1,8,4.522073370640439e-4
+Czech Republic,1337,27884,806,17691,3402,Paramedics,1,8,4.522073370640439e-4
+Czech Republic,1337,27884,806,17691,4055,Fast food and counter workers,1,8,4.522073370640439e-4
+Czech Republic,1337,27884,806,17691,5600,"Production, planning, and expediting clerks",1,8,4.522073370640439e-4
+Czech Republic,1337,27884,806,17691,7140,Aircraft mechanics and service technicians,1,8,4.522073370640439e-4
+Czech Republic,1337,27884,806,17691,1022,Software quality assurance analysts and testers,1,7,3.956814199310384e-4
+Czech Republic,1337,27884,806,17691,8300,Laundry and dry-cleaning workers,1,7,3.956814199310384e-4
+Czech Republic,1337,27884,806,17691,1350,Chemical engineers,1,5,2.8262958566502744e-4
+Czech Republic,1337,27884,806,17691,4830,Travel agents,1,5,2.8262958566502744e-4
+Czech Republic,1337,27884,806,17691,3160,Physical therapists,1,4,2.2610366853202194e-4
+Czech Republic,1337,27884,806,17691,3250,Veterinarians,1,4,2.2610366853202194e-4
+Czech Republic,1337,27884,806,17691,6710,Fence erectors,1,3,1.6957775139901646e-4

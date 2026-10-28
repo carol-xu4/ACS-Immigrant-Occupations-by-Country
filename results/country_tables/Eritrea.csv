@@ -1,220 +1,231 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Eritrea,1648,49866,887,28258,9130,Driver/sales workers and truck drivers,65,2070,0.07325359190317786
-Eritrea,1648,49866,887,28258,9142,Taxi drivers,45,1647,0.058284379644702386
-Eritrea,1648,49866,887,28258,3255,Registered nurses,31,972,0.0343973388067096
-Eritrea,1648,49866,887,28258,4720,Cashiers,31,844,0.029867648099653196
-Eritrea,1648,49866,887,28258,4230,Maids and housekeeping cleaners,25,804,0.028452119753698067
-Eritrea,1648,49866,887,28258,3603,Nursing assistants,25,766,0.027107367825040696
-Eritrea,1648,49866,887,28258,9620,"Laborers and freight, stock, and material movers, hand",19,717,0.025373345601245666
-Eritrea,1648,49866,887,28258,0440,Other managers,22,617,0.021834524736357847
-Eritrea,1648,49866,887,28258,3602,Personal care aides,23,613,0.021692971901762333
-Eritrea,1648,49866,887,28258,5240,Customer service representatives,19,572,0.020242055347158328
-Eritrea,1648,49866,887,28258,7810,"Butchers and other meat, poultry, and fish processing workers",8,556,0.019675844008776276
-Eritrea,1648,49866,887,28258,4030,Food preparation workers,9,457,0.016172411352537334
-Eritrea,1648,49866,887,28258,1021,Software developers,16,416,0.014721494797933329
-Eritrea,1648,49866,887,28258,9640,"Packers and packagers, hand",13,386,0.013659848538466983
-Eritrea,1648,49866,887,28258,4220,Janitors and building cleaners,14,383,0.013553683912520348
-Eritrea,1648,49866,887,28258,8800,Packaging and filling machine operators and tenders,7,381,0.013482907495222593
-Eritrea,1648,49866,887,28258,1460,Mechanical engineers,4,324,0.011465779602236536
-Eritrea,1648,49866,887,28258,4700,First-line supervisors of retail sales workers,12,313,0.011076509307098874
-Eritrea,1648,49866,887,28258,1530,Other engineers,8,292,0.010333356925472433
-Eritrea,1648,49866,887,28258,0120,Financial managers,6,288,0.01019180409087692
-Eritrea,1648,49866,887,28258,3601,Home health aides,6,275,0.009731757378441503
-Eritrea,1648,49866,887,28258,9141,Shuttle drivers and chauffeurs,4,271,0.00959020454384599
-Eritrea,1648,49866,887,28258,3930,Security guards and gaming surveillance officers,7,268,0.009484039917899355
-Eritrea,1648,49866,887,28258,2545,Teaching assistants,10,265,0.009377875291952721
-Eritrea,1648,49866,887,28258,0800,Accountants and auditors,7,263,0.009307098874654965
-Eritrea,1648,49866,887,28258,3500,Licensed practical and licensed vocational nurses,6,254,0.008988604996815062
-Eritrea,1648,49866,887,28258,5000,First-line supervisors of office and administrative support workers,6,249,0.00881166395357067
-Eritrea,1648,49866,887,28258,5120,"Bookkeeping, accounting, and auditing clerks",8,248,0.008776275744921793
-Eritrea,1648,49866,887,28258,0310,Food service managers,4,247,0.008740887536272914
-Eritrea,1648,49866,887,28258,9645,Stockers and order fillers,7,246,0.008705499327624036
-Eritrea,1648,49866,887,28258,9122,"Bus drivers, transit and intercity",5,219,0.007750017694104324
-Eritrea,1648,49866,887,28258,4510,"Hairdressers, hairstylists, and cosmetologists",5,212,0.007502300233562177
-Eritrea,1648,49866,887,28258,4400,Gambling services workers,5,197,0.006971477103829004
-Eritrea,1648,49866,887,28258,4110,Waiters and waitresses,5,196,0.006936088895180126
-Eritrea,1648,49866,887,28258,8990,"Miscellaneous production workers, including equipment operators and tenders",4,186,0.006582206808691344
-Eritrea,1648,49866,887,28258,4020,Cooks,7,184,0.006511430391393588
-Eritrea,1648,49866,887,28258,1410,Electrical and electronics engineers,7,183,0.0064760421827447096
-Eritrea,1648,49866,887,28258,5510,Couriers and messengers,6,183,0.0064760421827447096
-Eritrea,1648,49866,887,28258,7200,Automotive service technicians and mechanics,5,183,0.0064760421827447096
-Eritrea,1648,49866,887,28258,3050,Pharmacists,5,180,0.006369877556798075
-Eritrea,1648,49866,887,28258,4600,Childcare workers,10,172,0.006086771887607049
-Eritrea,1648,49866,887,28258,1108,"Computer occupations, all other",5,170,0.006015995470309293
-Eritrea,1648,49866,887,28258,9350,Parking attendants,4,169,0.0059806072616604145
-Eritrea,1648,49866,887,28258,5610,"Shipping, receiving, and inventory clerks",7,166,0.00587444263571378
-Eritrea,1648,49866,887,28258,6050,Other agricultural workers,1,165,0.005839054427064902
-Eritrea,1648,49866,887,28258,4760,Retail salespersons,10,161,0.005697501592469389
-Eritrea,1648,49866,887,28258,8740,"Inspectors, testers, sorters, samplers, and weighers",4,158,0.005591336966522755
-Eritrea,1648,49866,887,28258,7420,Telecommunications line installers and repairers,2,150,0.005308231297331729
-Eritrea,1648,49866,887,28258,3655,Other healthcare support workers,3,146,0.005166678462736217
-Eritrea,1648,49866,887,28258,4120,"Food servers, nonrestaurant",6,144,0.00509590204543846
-Eritrea,1648,49866,887,28258,5550,Postal service mail carriers,4,144,0.00509590204543846
-Eritrea,1648,49866,887,28258,3300,Clinical laboratory technologists and technicians,5,133,0.0047066317503008
-Eritrea,1648,49866,887,28258,9005,Supervisors of transportation and material moving workers,4,133,0.0047066317503008
-Eritrea,1648,49866,887,28258,2722,Coaches and scouts,3,125,0.004423526081109774
-Eritrea,1648,49866,887,28258,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",2,124,0.004388137872460896
-Eritrea,1648,49866,887,28258,5522,"Dispatchers, except police, fire, and ambulance",5,123,0.004352749663812018
-Eritrea,1648,49866,887,28258,9121,"Bus drivers, school",4,121,0.004281973246514262
-Eritrea,1648,49866,887,28258,0230,Education and childcare administrators,5,119,0.004211196829216505
-Eritrea,1648,49866,887,28258,5940,Other office and administrative support workers,3,119,0.004211196829216505
-Eritrea,1648,49866,887,28258,4710,First-line supervisors of non-retail sales workers,3,117,0.004140420411918749
-Eritrea,1648,49866,887,28258,5740,"Secretaries and administrative assistants, except legal, medical, and executive",6,115,0.004069643994620992
-Eritrea,1648,49866,887,28258,7700,First-line supervisors of production and operating workers,5,114,0.004034255785972114
-Eritrea,1648,49866,887,28258,9150,"Motor vehicle operators, all other",4,111,0.00392809116002548
-Eritrea,1648,49866,887,28258,1305,"Architects, except landscape and naval",4,110,0.0038927029513766013
-Eritrea,1648,49866,887,28258,7210,Bus and truck mechanics and diesel engine specialists,1,109,0.0038573147427277232
-Eritrea,1648,49866,887,28258,7750,Other assemblers and fabricators,5,108,0.0038219265340788447
-Eritrea,1648,49866,887,28258,0750,"Business operations specialists, all other",3,105,0.00371576190813221
-Eritrea,1648,49866,887,28258,1400,Computer hardware engineers,2,103,0.003644985490834454
-Eritrea,1648,49866,887,28258,4055,Fast food and counter workers,4,103,0.003644985490834454
-Eritrea,1648,49866,887,28258,5860,"Office clerks, general",7,102,0.0036095972821855757
-Eritrea,1648,49866,887,28258,0051,Marketing managers,2,101,0.0035742090735366976
-Eritrea,1648,49866,887,28258,3323,Radiologic technologists and technicians,4,99,0.003503432656238941
-Eritrea,1648,49866,887,28258,0820,Budget analysts,1,97,0.0034326562389411846
-Eritrea,1648,49866,887,28258,7340,"Maintenance and repair workers, general",4,97,0.0034326562389411846
-Eritrea,1648,49866,887,28258,4000,Chefs and head cooks,2,96,0.0033972680302923066
-Eritrea,1648,49866,887,28258,2040,Clergy,2,95,0.0033618798216434286
-Eritrea,1648,49866,887,28258,0710,Management analysts,4,93,0.003291103404345672
-Eritrea,1648,49866,887,28258,7330,Industrial and refractory machinery mechanics,1,93,0.003291103404345672
-Eritrea,1648,49866,887,28258,1006,Computer systems analysts,2,91,0.0032203269870479155
-Eritrea,1648,49866,887,28258,1007,Information security analysts,2,90,0.0031849387783990375
-Eritrea,1648,49866,887,28258,3421,Pharmacy technicians,3,90,0.0031849387783990375
-Eritrea,1648,49866,887,28258,7840,Food batchmakers,1,86,0.0030433859438035245
-Eritrea,1648,49866,887,28258,1450,Materials engineers,2,85,0.0030079977351546465
-Eritrea,1648,49866,887,28258,3330,Nuclear medicine technologists and medical dosimetrists,1,85,0.0030079977351546465
-Eritrea,1648,49866,887,28258,1360,Civil engineers,2,84,0.0029726095265057684
-Eritrea,1648,49866,887,28258,7360,Millwrights,1,78,0.002760280274612499
-Eritrea,1648,49866,887,28258,0010,Chief executives and legislators,4,77,0.002724892065963621
-Eritrea,1648,49866,887,28258,2770,"Entertainers and performers, sports and related workers, all other",1,77,0.002724892065963621
-Eritrea,1648,49866,887,28258,2300,Preschool and kindergarten teachers,3,76,0.002689503857314743
-Eritrea,1648,49866,887,28258,4810,Insurance sales agents,3,75,0.0026541156486658644
-Eritrea,1648,49866,887,28258,1050,Computer support specialists,2,74,0.0026187274400169863
-Eritrea,1648,49866,887,28258,4850,"Sales representatives, wholesale and manufacturing",2,74,0.0026187274400169863
-Eritrea,1648,49866,887,28258,6010,Agricultural inspectors,1,74,0.0026187274400169863
-Eritrea,1648,49866,887,28258,3090,Physicians,5,73,0.0025833392313681083
-Eritrea,1648,49866,887,28258,3802,Correctional officers and jailers,2,73,0.0025833392313681083
-Eritrea,1648,49866,887,28258,8140,"Welding, soldering, and brazing workers",1,72,0.00254795102271923
-Eritrea,1648,49866,887,28258,5410,Reservation and transportation ticket agents and travel clerks,2,71,0.002512562814070352
-Eritrea,1648,49866,887,28258,1900,Agricultural and food science technicians,1,70,0.0024771746054214738
-Eritrea,1648,49866,887,28258,4040,Bartenders,2,70,0.0024771746054214738
-Eritrea,1648,49866,887,28258,0220,Construction managers,3,69,0.0024417863967725953
-Eritrea,1648,49866,887,28258,1970,"Other life, physical, and social science technicians",1,69,0.0024417863967725953
-Eritrea,1648,49866,887,28258,4251,Landscaping and groundskeeping workers,1,69,0.0024417863967725953
-Eritrea,1648,49866,887,28258,9600,Industrial truck and tractor operators,2,69,0.0024417863967725953
-Eritrea,1648,49866,887,28258,9610,Cleaners of vehicles and equipment,3,69,0.0024417863967725953
-Eritrea,1648,49866,887,28258,1860,Other social scientists,2,68,0.0024063981881237173
-Eritrea,1648,49866,887,28258,4420,"Ushers, lobby attendants, and ticket takers",1,67,0.002371009979474839
-Eritrea,1648,49866,887,28258,5540,Postal service clerks,1,66,0.0023356217708259608
-Eritrea,1648,49866,887,28258,2310,Elementary and middle school teachers,3,65,0.0023002335621770827
-Eritrea,1648,49866,887,28258,3545,Miscellaneous health technologists and technicians,3,65,0.0023002335621770827
-Eritrea,1648,49866,887,28258,5400,Receptionists and information clerks,3,65,0.0023002335621770827
-Eritrea,1648,49866,887,28258,2905,Other media and communication equipment workers,1,58,0.002052516101634935
-Eritrea,1648,49866,887,28258,8225,Other metal workers and plastic workers,2,58,0.002052516101634935
-Eritrea,1648,49866,887,28258,0410,"Property, real estate, and community association managers",3,56,0.0019817396843371787
-Eritrea,1648,49866,887,28258,6442,"Plumbers, pipefitters, and steamfitters",1,56,0.0019817396843371787
-Eritrea,1648,49866,887,28258,0705,Project management specialists,2,54,0.0019109632670394224
-Eritrea,1648,49866,887,28258,6355,Electricians,2,54,0.0019109632670394224
-Eritrea,1648,49866,887,28258,5140,Payroll and timekeeping clerks,1,53,0.0018755750583905443
-Eritrea,1648,49866,887,28258,2205,Postsecondary teachers,4,51,0.0018047986410927878
-Eritrea,1648,49866,887,28258,4010,First-line supervisors of food preparation and serving workers,2,51,0.0018047986410927878
-Eritrea,1648,49866,887,28258,5900,"Office machine operators, except computer",1,51,0.0018047986410927878
-Eritrea,1648,49866,887,28258,7130,Security and fire alarm systems installers,1,51,0.0018047986410927878
-Eritrea,1648,49866,887,28258,7320,Home appliance repairers,2,51,0.0018047986410927878
-Eritrea,1648,49866,887,28258,7720,"Electrical, electronics, and electromechanical assemblers",1,51,0.0018047986410927878
-Eritrea,1648,49866,887,28258,0110,Computer and information systems managers,3,50,0.0017694104324439096
-Eritrea,1648,49866,887,28258,0940,Tax preparers,3,49,0.0017340222237950315
-Eritrea,1648,49866,887,28258,6720,Hazardous materials removal workers,1,49,0.0017340222237950315
-Eritrea,1648,49866,887,28258,8300,Laundry and dry-cleaning workers,2,49,0.0017340222237950315
-Eritrea,1648,49866,887,28258,0540,"Claims adjusters, appraisers, examiners, and investigators",3,48,0.0016986340151461533
-Eritrea,1648,49866,887,28258,0630,Human resources workers,2,48,0.0016986340151461533
-Eritrea,1648,49866,887,28258,1720,Chemists and materials scientists,2,47,0.001663245806497275
-Eritrea,1648,49866,887,28258,8930,"Paper goods machine setters, operators, and tenders",1,47,0.001663245806497275
-Eritrea,1648,49866,887,28258,9110,"Ambulance drivers and attendants, except emergency medical technicians",1,46,0.001627857597848397
-Eritrea,1648,49866,887,28258,0850,Personal financial advisors,1,45,0.0015924693891995188
-Eritrea,1648,49866,887,28258,3645,Medical assistants,2,45,0.0015924693891995188
-Eritrea,1648,49866,887,28258,2360,Other teachers and instructors,2,44,0.0015570811805506405
-Eritrea,1648,49866,887,28258,0052,Sales managers,1,43,0.0015216929719017622
-Eritrea,1648,49866,887,28258,1350,Chemical engineers,1,43,0.0015216929719017622
-Eritrea,1648,49866,887,28258,8720,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",2,43,0.0015216929719017622
-Eritrea,1648,49866,887,28258,3220,Respiratory therapists,2,42,0.0014863047632528842
-Eritrea,1648,49866,887,28258,6260,Construction laborers,2,42,0.0014863047632528842
-Eritrea,1648,49866,887,28258,1022,Software quality assurance analysts and testers,2,41,0.001450916554604006
-Eritrea,1648,49866,887,28258,0150,Purchasing managers,1,40,0.0014155283459551277
-Eritrea,1648,49866,887,28258,1240,Other mathematical science occupations,3,40,0.0014155283459551277
-Eritrea,1648,49866,887,28258,3725,"Miscellaneous first-line supervisors, protective service workers",1,40,0.0014155283459551277
-Eritrea,1648,49866,887,28258,5300,"Hotel, motel, and resort desk clerks",1,40,0.0014155283459551277
-Eritrea,1648,49866,887,28258,2861,Interpreters and translators,1,38,0.0013447519286573714
-Eritrea,1648,49866,887,28258,0930,"Tax examiners and collectors, and revenue agents",2,37,0.0013093637200084932
-Eritrea,1648,49866,887,28258,4140,Dishwashers,1,37,0.0013093637200084932
-Eritrea,1648,49866,887,28258,9365,Transportation service attendants,2,36,0.001273975511359615
-Eritrea,1648,49866,887,28258,0350,Medical and health services managers,3,35,0.0012385873027107369
-Eritrea,1648,49866,887,28258,0700,Logisticians,2,35,0.0012385873027107369
-Eritrea,1648,49866,887,28258,3423,Surgical technologists,1,34,0.0012031990940618586
-Eritrea,1648,49866,887,28258,3649,Phlebotomists,2,33,0.0011678108854129804
-Eritrea,1648,49866,887,28258,5310,"Interviewers, except eligibility and loan",1,33,0.0011678108854129804
-Eritrea,1648,49866,887,28258,2016,Social and human service assistants,2,32,0.0011324226767641021
-Eritrea,1648,49866,887,28258,3515,Medical records specialists,2,32,0.0011324226767641021
-Eritrea,1648,49866,887,28258,1555,"Other engineering technologists and technicians, except drafters",2,29,0.0010262580508174676
-Eritrea,1648,49866,887,28258,2755,"Disc jockeys, except radio",1,29,0.0010262580508174676
-Eritrea,1648,49866,887,28258,0420,Social and community service managers,2,28,9.908698421685893e-4
-Eritrea,1648,49866,887,28258,1010,Computer programmers,2,28,9.908698421685893e-4
-Eritrea,1648,49866,887,28258,2721,Athletes and sports competitors,1,28,9.908698421685893e-4
-Eritrea,1648,49866,887,28258,3310,Dental hygienists,1,28,9.908698421685893e-4
-Eritrea,1648,49866,887,28258,4200,First-line supervisors of housekeeping and janitorial workers,2,28,9.908698421685893e-4
-Eritrea,1648,49866,887,28258,4350,Animal caretakers,1,28,9.908698421685893e-4
-Eritrea,1648,49866,887,28258,6200,First-line supervisors of construction trades and extraction workers,1,27,9.554816335197112e-4
-Eritrea,1648,49866,887,28258,9720,Refuse and recyclable material collectors,1,27,9.554816335197112e-4
-Eritrea,1648,49866,887,28258,9760,Other material moving workers,1,27,9.554816335197112e-4
-Eritrea,1648,49866,887,28258,4530,"Baggage porters, bellhops, and concierges",1,26,9.20093424870833e-4
-Eritrea,1648,49866,887,28258,5110,Billing and posting clerks,2,26,9.20093424870833e-4
-Eritrea,1648,49866,887,28258,1106,Computer network architects,1,25,8.847052162219548e-4
-Eritrea,1648,49866,887,28258,3030,Dietitians and nutritionists,1,25,8.847052162219548e-4
-Eritrea,1648,49866,887,28258,4820,"Securities, commodities, and financial services sales agents",1,25,8.847052162219548e-4
-Eritrea,1648,49866,887,28258,0335,Entertainment and recreation managers,1,24,8.493170075730766e-4
-Eritrea,1648,49866,887,28258,2350,Tutors,1,24,8.493170075730766e-4
-Eritrea,1648,49866,887,28258,0520,"Wholesale and retail buyers, except farm products",1,23,8.139287989241985e-4
-Eritrea,1648,49866,887,28258,1800,Economists,1,23,8.139287989241985e-4
-Eritrea,1648,49866,887,28258,3960,Other protective service workers,1,23,8.139287989241985e-4
-Eritrea,1648,49866,887,28258,1760,"Physical scientists, all other",1,22,7.785405902753203e-4
-Eritrea,1648,49866,887,28258,2320,Secondary school teachers,1,21,7.431523816264421e-4
-Eritrea,1648,49866,887,28258,3324,Magnetic resonance imaging technologists,1,21,7.431523816264421e-4
-Eritrea,1648,49866,887,28258,0725,"Meeting, convention, and event planners",1,20,7.077641729775639e-4
-Eritrea,1648,49866,887,28258,2100,"Lawyers, and judges, magistrates, and other judicial workers",1,20,7.077641729775639e-4
-Eritrea,1648,49866,887,28258,3322,Diagnostic medical sonographers,1,20,7.077641729775639e-4
-Eritrea,1648,49866,887,28258,4130,Dining room and cafeteria attendants and bartender helpers,1,20,7.077641729775639e-4
-Eritrea,1648,49866,887,28258,5710,Executive secretaries and executive administrative assistants,1,20,7.077641729775639e-4
-Eritrea,1648,49866,887,28258,0136,Human resources managers,1,19,6.723759643286857e-4
-Eritrea,1648,49866,887,28258,2002,"Educational, guidance, and career counselors and advisors",1,19,6.723759643286857e-4
-Eritrea,1648,49866,887,28258,3910,Private detectives and investigators,1,19,6.723759643286857e-4
-Eritrea,1648,49866,887,28258,4740,Counter and rental clerks,1,19,6.723759643286857e-4
-Eritrea,1648,49866,887,28258,8710,Cutting workers,1,19,6.723759643286857e-4
-Eritrea,1648,49866,887,28258,2600,Artists and related workers,1,18,6.369877556798075e-4
-Eritrea,1648,49866,887,28258,3605,Orderlies and psychiatric aides,1,18,6.369877556798075e-4
-Eritrea,1648,49866,887,28258,0860,Insurance underwriters,1,17,6.015995470309293e-4
-Eritrea,1648,49866,887,28258,6765,Other construction and related workers,1,17,6.015995470309293e-4
-Eritrea,1648,49866,887,28258,8810,Painting workers,1,17,6.015995470309293e-4
-Eritrea,1648,49866,887,28258,1065,Database administrators and architects,1,16,5.662113383820511e-4
-Eritrea,1648,49866,887,28258,2015,Probation officers and correctional treatment specialists,1,16,5.662113383820511e-4
-Eritrea,1648,49866,887,28258,2330,Special education teachers,1,16,5.662113383820511e-4
-Eritrea,1648,49866,887,28258,3430,Dietetic technicians and ophthalmic medical technicians,1,16,5.662113383820511e-4
-Eritrea,1648,49866,887,28258,4621,Exercise trainers and group fitness instructors,1,16,5.662113383820511e-4
-Eritrea,1648,49866,887,28258,3160,Physical therapists,1,15,5.308231297331729e-4
-Eritrea,1648,49866,887,28258,7855,"Food processing workers, all other",1,15,5.308231297331729e-4
-Eritrea,1648,49866,887,28258,0845,Financial and investment analysts,1,14,4.954349210842947e-4
-Eritrea,1648,49866,887,28258,1920,Chemical technicians,1,14,4.954349210842947e-4
-Eritrea,1648,49866,887,28258,9050,Flight attendants,1,14,4.954349210842947e-4
-Eritrea,1648,49866,887,28258,5320,"Library assistants, clerical",1,13,4.600467124354165e-4
-Eritrea,1648,49866,887,28258,6410,Painters and paperhangers,1,12,4.246585037865383e-4
-Eritrea,1648,49866,887,28258,9030,Aircraft pilots and flight engineers,1,12,4.246585037865383e-4
-Eritrea,1648,49866,887,28258,2634,Graphic designers,1,11,3.892702951376601e-4
-Eritrea,1648,49866,887,28258,1541,Architectural and civil drafters,1,10,0.00035388208648878193
-Eritrea,1648,49866,887,28258,5330,Loan interviewers and clerks,1,10,0.00035388208648878193
-Eritrea,1648,49866,887,28258,0160,"Transportation, storage, and distribution managers",1,9,3.1849387783990373e-4
-Eritrea,1648,49866,887,28258,1650,Other life scientists,1,9,3.1849387783990373e-4
-Eritrea,1648,49866,887,28258,3946,School bus monitors,1,9,3.1849387783990373e-4
-Eritrea,1648,49866,887,28258,2145,Paralegals and legal assistants,1,8,2.8310566919102553e-4
-Eritrea,1648,49866,887,28258,4435,Other entertainment attendants and related workers,1,8,2.8310566919102553e-4
-Eritrea,1648,49866,887,28258,0530,"Purchasing agents, except wholesale, retail, and farm products",1,6,2.1232925189326916e-4
-Eritrea,1648,49866,887,28258,3820,Detectives and criminal investigators,1,6,2.1232925189326916e-4
-Eritrea,1648,49866,887,28258,7510,"Coin, vending, and amusement machine servicers and repairers",1,5,1.7694104324439096e-4
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Eritrea,1648,49866,974,30332,9130,Driver/sales workers and truck drivers,67,2126,0.07009099301068179
+Eritrea,1648,49866,974,30332,9142,Taxi drivers,55,1904,0.06277198997758143
+Eritrea,1648,49866,974,30332,3255,Registered nurses,33,1000,0.03296848213108269
+Eritrea,1648,49866,974,30332,4720,Cashiers,34,908,0.029935381775023077
+Eritrea,1648,49866,974,30332,9620,"Laborers and freight, stock, and material movers, hand",23,890,0.02934194909666359
+Eritrea,1648,49866,974,30332,4230,Maids and housekeeping cleaners,26,819,0.02700118686535672
+Eritrea,1648,49866,974,30332,3603,Nursing assistants,25,766,0.025253857312409336
+Eritrea,1648,49866,974,30332,3602,Personal care aides,25,667,0.02198997758143215
+Eritrea,1648,49866,974,30332,0440,Other managers,23,633,0.02086904918897534
+Eritrea,1648,49866,974,30332,5240,Customer service representatives,20,609,0.020077805617829354
+Eritrea,1648,49866,974,30332,7810,"Butchers and other meat, poultry, and fish processing workers",8,556,0.018330476064881973
+Eritrea,1648,49866,974,30332,4030,Food preparation workers,10,480,0.01582487142291969
+Eritrea,1648,49866,974,30332,1021,Software developers,16,416,0.013714888566530397
+Eritrea,1648,49866,974,30332,4220,Janitors and building cleaners,16,407,0.013418172227350653
+Eritrea,1648,49866,974,30332,9640,"Packers and packagers, hand",13,386,0.012725834102597916
+Eritrea,1648,49866,974,30332,8800,Packaging and filling machine operators and tenders,7,381,0.012560991691942504
+Eritrea,1648,49866,974,30332,4700,First-line supervisors of retail sales workers,15,373,0.012297243834893841
+Eritrea,1648,49866,974,30332,3930,Security guards and gaming surveillance officers,11,351,0.011571937228010023
+Eritrea,1648,49866,974,30332,9141,Shuttle drivers and chauffeurs,6,345,0.011374126335223526
+Eritrea,1648,49866,974,30332,1460,Mechanical engineers,4,324,0.01068178821047079
+Eritrea,1648,49866,974,30332,7200,Automotive service technicians and mechanics,6,308,0.010154292496373467
+Eritrea,1648,49866,974,30332,1530,Other engineers,8,292,0.009626796782276145
+Eritrea,1648,49866,974,30332,0120,Financial managers,6,288,0.009494922853751813
+Eritrea,1648,49866,974,30332,3601,Home health aides,6,275,0.009066332586047738
+Eritrea,1648,49866,974,30332,2545,Teaching assistants,10,265,0.008736647764736911
+Eritrea,1648,49866,974,30332,0800,Accountants and auditors,7,263,0.008670710800474745
+Eritrea,1648,49866,974,30332,5120,"Bookkeeping, accounting, and auditing clerks",9,262,0.008637742318343664
+Eritrea,1648,49866,974,30332,3500,Licensed practical and licensed vocational nurses,6,254,0.008373994461295001
+Eritrea,1648,49866,974,30332,5000,First-line supervisors of office and administrative support workers,6,249,0.008209152050639589
+Eritrea,1648,49866,974,30332,0310,Food service managers,4,247,0.008143215086377423
+Eritrea,1648,49866,974,30332,9645,Stockers and order fillers,7,246,0.00811024660424634
+Eritrea,1648,49866,974,30332,4760,Retail salespersons,12,230,0.007582750890149018
+Eritrea,1648,49866,974,30332,9122,"Bus drivers, transit and intercity",6,221,0.007286034550969273
+Eritrea,1648,49866,974,30332,4510,"Hairdressers, hairstylists, and cosmetologists",5,212,0.006989318211789529
+Eritrea,1648,49866,974,30332,4020,Cooks,8,202,0.006659633390478702
+Eritrea,1648,49866,974,30332,4400,Gambling services workers,5,197,0.006494790979823289
+Eritrea,1648,49866,974,30332,4110,Waiters and waitresses,5,196,0.006461822497692206
+Eritrea,1648,49866,974,30332,9350,Parking attendants,6,189,0.006231043122774628
+Eritrea,1648,49866,974,30332,4120,"Food servers, nonrestaurant",8,188,0.006198074640643545
+Eritrea,1648,49866,974,30332,8990,"Miscellaneous production workers, including equipment operators and tenders",4,186,0.006132137676381379
+Eritrea,1648,49866,974,30332,1108,"Computer occupations, all other",6,183,0.006033232229988131
+Eritrea,1648,49866,974,30332,1410,Electrical and electronics engineers,7,183,0.006033232229988131
+Eritrea,1648,49866,974,30332,5510,Couriers and messengers,6,183,0.006033232229988131
+Eritrea,1648,49866,974,30332,3050,Pharmacists,5,180,0.005934326783594884
+Eritrea,1648,49866,974,30332,4600,Childcare workers,10,172,0.005670578926546222
+Eritrea,1648,49866,974,30332,7340,"Maintenance and repair workers, general",7,168,0.005538704998021891
+Eritrea,1648,49866,974,30332,5610,"Shipping, receiving, and inventory clerks",7,166,0.005472768033759725
+Eritrea,1648,49866,974,30332,6050,Other agricultural workers,1,165,0.005439799551628643
+Eritrea,1648,49866,974,30332,8740,"Inspectors, testers, sorters, samplers, and weighers",4,158,0.005209020176711064
+Eritrea,1648,49866,974,30332,5740,"Secretaries and administrative assistants, except legal, medical, and executive",7,152,0.005011209283924568
+Eritrea,1648,49866,974,30332,7420,Telecommunications line installers and repairers,2,150,0.004945272319662403
+Eritrea,1648,49866,974,30332,1050,Computer support specialists,3,147,0.004846366873269154
+Eritrea,1648,49866,974,30332,3655,Other healthcare support workers,3,146,0.0048133983911380724
+Eritrea,1648,49866,974,30332,3300,Clinical laboratory technologists and technicians,6,145,0.00478042990900699
+Eritrea,1648,49866,974,30332,5550,Postal service mail carriers,4,144,0.004747461426875907
+Eritrea,1648,49866,974,30332,9005,Supervisors of transportation and material moving workers,4,133,0.004384808123433997
+Eritrea,1648,49866,974,30332,2722,Coaches and scouts,3,125,0.004121060266385336
+Eritrea,1648,49866,974,30332,7750,Other assemblers and fabricators,6,125,0.004121060266385336
+Eritrea,1648,49866,974,30332,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",2,124,0.004088091784254253
+Eritrea,1648,49866,974,30332,5522,"Dispatchers, except police, fire, and ambulance",5,123,0.00405512330212317
+Eritrea,1648,49866,974,30332,0230,Education and childcare administrators,7,121,0.003989186337861005
+Eritrea,1648,49866,974,30332,2040,Clergy,3,121,0.003989186337861005
+Eritrea,1648,49866,974,30332,9121,"Bus drivers, school",4,121,0.003989186337861005
+Eritrea,1648,49866,974,30332,5940,Other office and administrative support workers,3,119,0.0039232493735988395
+Eritrea,1648,49866,974,30332,4710,First-line supervisors of non-retail sales workers,3,117,0.0038573124093366743
+Eritrea,1648,49866,974,30332,7700,First-line supervisors of production and operating workers,5,114,0.003758406962943426
+Eritrea,1648,49866,974,30332,9150,"Motor vehicle operators, all other",4,111,0.003659501516550178
+Eritrea,1648,49866,974,30332,1305,"Architects, except landscape and naval",4,110,0.0036265330344190955
+Eritrea,1648,49866,974,30332,7210,Bus and truck mechanics and diesel engine specialists,1,109,0.0035935645522880127
+Eritrea,1648,49866,974,30332,0750,"Business operations specialists, all other",3,105,0.003461690623763682
+Eritrea,1648,49866,974,30332,1400,Computer hardware engineers,2,103,0.0033957536595015164
+Eritrea,1648,49866,974,30332,4055,Fast food and counter workers,4,103,0.0033957536595015164
+Eritrea,1648,49866,974,30332,0410,"Property, real estate, and community association managers",4,102,0.003362785177370434
+Eritrea,1648,49866,974,30332,5860,"Office clerks, general",7,102,0.003362785177370434
+Eritrea,1648,49866,974,30332,0051,Marketing managers,2,101,0.003329816695239351
+Eritrea,1648,49866,974,30332,3323,Radiologic technologists and technicians,4,99,0.003263879730977186
+Eritrea,1648,49866,974,30332,0820,Budget analysts,1,97,0.0031979427667150205
+Eritrea,1648,49866,974,30332,2100,"Lawyers, and judges, magistrates, and other judicial workers",2,97,0.0031979427667150205
+Eritrea,1648,49866,974,30332,4000,Chefs and head cooks,2,96,0.0031649742845839377
+Eritrea,1648,49866,974,30332,0710,Management analysts,4,93,0.0030660688381906895
+Eritrea,1648,49866,974,30332,7330,Industrial and refractory machinery mechanics,1,93,0.0030660688381906895
+Eritrea,1648,49866,974,30332,1006,Computer systems analysts,2,91,0.0030001318739285242
+Eritrea,1648,49866,974,30332,1007,Information security analysts,2,90,0.002967163391797442
+Eritrea,1648,49866,974,30332,3421,Pharmacy technicians,3,90,0.002967163391797442
+Eritrea,1648,49866,974,30332,5540,Postal service clerks,2,88,0.002901226427535276
+Eritrea,1648,49866,974,30332,3090,Physicians,6,87,0.0028682579454041937
+Eritrea,1648,49866,974,30332,4251,Landscaping and groundskeeping workers,2,86,0.002835289463273111
+Eritrea,1648,49866,974,30332,7840,Food batchmakers,1,86,0.002835289463273111
+Eritrea,1648,49866,974,30332,1450,Materials engineers,2,85,0.0028023209811420284
+Eritrea,1648,49866,974,30332,3330,Nuclear medicine technologists and medical dosimetrists,1,85,0.0028023209811420284
+Eritrea,1648,49866,974,30332,1360,Civil engineers,2,84,0.0027693524990109455
+Eritrea,1648,49866,974,30332,4810,Insurance sales agents,4,83,0.0027363840168798627
+Eritrea,1648,49866,974,30332,7360,Millwrights,1,78,0.0025715416062244492
+Eritrea,1648,49866,974,30332,0010,Chief executives and legislators,4,77,0.002538573124093367
+Eritrea,1648,49866,974,30332,2770,"Entertainers and performers, sports and related workers, all other",1,77,0.002538573124093367
+Eritrea,1648,49866,974,30332,2300,Preschool and kindergarten teachers,3,76,0.002505604641962284
+Eritrea,1648,49866,974,30332,4850,"Sales representatives, wholesale and manufacturing",2,74,0.0024396676777001186
+Eritrea,1648,49866,974,30332,6010,Agricultural inspectors,1,74,0.0024396676777001186
+Eritrea,1648,49866,974,30332,3802,Correctional officers and jailers,2,73,0.0024066991955690362
+Eritrea,1648,49866,974,30332,3946,School bus monitors,2,72,0.0023737307134379534
+Eritrea,1648,49866,974,30332,8140,"Welding, soldering, and brazing workers",1,72,0.0023737307134379534
+Eritrea,1648,49866,974,30332,5410,Reservation and transportation ticket agents and travel clerks,2,71,0.0023407622313068705
+Eritrea,1648,49866,974,30332,1900,Agricultural and food science technicians,1,70,0.002307793749175788
+Eritrea,1648,49866,974,30332,4040,Bartenders,2,70,0.002307793749175788
+Eritrea,1648,49866,974,30332,9600,Industrial truck and tractor operators,3,70,0.002307793749175788
+Eritrea,1648,49866,974,30332,0220,Construction managers,3,69,0.002274825267044705
+Eritrea,1648,49866,974,30332,1970,"Other life, physical, and social science technicians",1,69,0.002274825267044705
+Eritrea,1648,49866,974,30332,2205,Postsecondary teachers,5,69,0.002274825267044705
+Eritrea,1648,49866,974,30332,5400,Receptionists and information clerks,4,69,0.002274825267044705
+Eritrea,1648,49866,974,30332,9610,Cleaners of vehicles and equipment,3,69,0.002274825267044705
+Eritrea,1648,49866,974,30332,1860,Other social scientists,2,68,0.0022418567849136228
+Eritrea,1648,49866,974,30332,4420,"Ushers, lobby attendants, and ticket takers",1,67,0.00220888830278254
+Eritrea,1648,49866,974,30332,8720,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",3,66,0.002175919820651457
+Eritrea,1648,49866,974,30332,2310,Elementary and middle school teachers,3,65,0.0021429513385203746
+Eritrea,1648,49866,974,30332,3545,Miscellaneous health technologists and technicians,3,65,0.0021429513385203746
+Eritrea,1648,49866,974,30332,3220,Respiratory therapists,3,60,0.001978108927864961
+Eritrea,1648,49866,974,30332,4200,First-line supervisors of housekeeping and janitorial workers,3,60,0.001978108927864961
+Eritrea,1648,49866,974,30332,2905,Other media and communication equipment workers,1,58,0.0019121719636027957
+Eritrea,1648,49866,974,30332,8225,Other metal workers and plastic workers,2,58,0.0019121719636027957
+Eritrea,1648,49866,974,30332,6442,"Plumbers, pipefitters, and steamfitters",1,56,0.0018462349993406304
+Eritrea,1648,49866,974,30332,0705,Project management specialists,2,54,0.001780298035078465
+Eritrea,1648,49866,974,30332,5360,"Human resources assistants, except payroll and timekeeping",1,54,0.001780298035078465
+Eritrea,1648,49866,974,30332,6355,Electricians,2,54,0.001780298035078465
+Eritrea,1648,49866,974,30332,5140,Payroll and timekeeping clerks,1,53,0.0017473295529473823
+Eritrea,1648,49866,974,30332,3324,Magnetic resonance imaging technologists,2,52,0.0017143610708162996
+Eritrea,1648,49866,974,30332,4010,First-line supervisors of food preparation and serving workers,2,51,0.001681392588685217
+Eritrea,1648,49866,974,30332,5900,"Office machine operators, except computer",1,51,0.001681392588685217
+Eritrea,1648,49866,974,30332,7130,Security and fire alarm systems installers,1,51,0.001681392588685217
+Eritrea,1648,49866,974,30332,7320,Home appliance repairers,2,51,0.001681392588685217
+Eritrea,1648,49866,974,30332,7720,"Electrical, electronics, and electromechanical assemblers",1,51,0.001681392588685217
+Eritrea,1648,49866,974,30332,0110,Computer and information systems managers,3,50,0.0016484241065541343
+Eritrea,1648,49866,974,30332,0940,Tax preparers,3,49,0.0016154556244230515
+Eritrea,1648,49866,974,30332,6720,Hazardous materials removal workers,1,49,0.0016154556244230515
+Eritrea,1648,49866,974,30332,8300,Laundry and dry-cleaning workers,2,49,0.0016154556244230515
+Eritrea,1648,49866,974,30332,0540,"Claims adjusters, appraisers, examiners, and investigators",3,48,0.0015824871422919688
+Eritrea,1648,49866,974,30332,0630,Human resources workers,2,48,0.0015824871422919688
+Eritrea,1648,49866,974,30332,1720,Chemists and materials scientists,2,47,0.0015495186601608862
+Eritrea,1648,49866,974,30332,8930,"Paper goods machine setters, operators, and tenders",1,47,0.0015495186601608862
+Eritrea,1648,49866,974,30332,9110,"Ambulance drivers and attendants, except emergency medical technicians",1,46,0.0015165501780298035
+Eritrea,1648,49866,974,30332,0850,Personal financial advisors,1,45,0.001483581695898721
+Eritrea,1648,49866,974,30332,2360,Other teachers and instructors,3,45,0.001483581695898721
+Eritrea,1648,49866,974,30332,3645,Medical assistants,2,45,0.001483581695898721
+Eritrea,1648,49866,974,30332,0052,Sales managers,1,43,0.0014176447316365554
+Eritrea,1648,49866,974,30332,1350,Chemical engineers,1,43,0.0014176447316365554
+Eritrea,1648,49866,974,30332,6260,Construction laborers,2,42,0.0013846762495054728
+Eritrea,1648,49866,974,30332,1022,Software quality assurance analysts and testers,2,41,0.0013517077673743901
+Eritrea,1648,49866,974,30332,0150,Purchasing managers,1,40,0.0013187392852433075
+Eritrea,1648,49866,974,30332,1240,Other mathematical science occupations,3,40,0.0013187392852433075
+Eritrea,1648,49866,974,30332,3725,"Miscellaneous first-line supervisors, protective service workers",1,40,0.0013187392852433075
+Eritrea,1648,49866,974,30332,5300,"Hotel, motel, and resort desk clerks",1,40,0.0013187392852433075
+Eritrea,1648,49866,974,30332,2861,Interpreters and translators,1,38,0.001252802320981142
+Eritrea,1648,49866,974,30332,0930,"Tax examiners and collectors, and revenue agents",2,37,0.0012198338388500593
+Eritrea,1648,49866,974,30332,4140,Dishwashers,1,37,0.0012198338388500593
+Eritrea,1648,49866,974,30332,9365,Transportation service attendants,2,36,0.0011868653567189767
+Eritrea,1648,49866,974,30332,0350,Medical and health services managers,3,35,0.001153896874587894
+Eritrea,1648,49866,974,30332,0700,Logisticians,2,35,0.001153896874587894
+Eritrea,1648,49866,974,30332,3423,Surgical technologists,1,34,0.0011209283924568114
+Eritrea,1648,49866,974,30332,3649,Phlebotomists,2,33,0.0010879599103257285
+Eritrea,1648,49866,974,30332,5310,"Interviewers, except eligibility and loan",1,33,0.0010879599103257285
+Eritrea,1648,49866,974,30332,2016,Social and human service assistants,2,32,0.0010549914281946459
+Eritrea,1648,49866,974,30332,2320,Secondary school teachers,2,32,0.0010549914281946459
+Eritrea,1648,49866,974,30332,3515,Medical records specialists,2,32,0.0010549914281946459
+Eritrea,1648,49866,974,30332,5720,Legal secretaries and administrative assistants,1,32,0.0010549914281946459
+Eritrea,1648,49866,974,30332,1555,"Other engineering technologists and technicians, except drafters",2,29,9.560859818013978e-4
+Eritrea,1648,49866,974,30332,2755,"Disc jockeys, except radio",1,29,9.560859818013978e-4
+Eritrea,1648,49866,974,30332,0420,Social and community service managers,2,28,9.231174996703152e-4
+Eritrea,1648,49866,974,30332,1010,Computer programmers,2,28,9.231174996703152e-4
+Eritrea,1648,49866,974,30332,2721,Athletes and sports competitors,1,28,9.231174996703152e-4
+Eritrea,1648,49866,974,30332,3310,Dental hygienists,1,28,9.231174996703152e-4
+Eritrea,1648,49866,974,30332,4350,Animal caretakers,1,28,9.231174996703152e-4
+Eritrea,1648,49866,974,30332,6200,First-line supervisors of construction trades and extraction workers,1,27,8.901490175392325e-4
+Eritrea,1648,49866,974,30332,9720,Refuse and recyclable material collectors,1,27,8.901490175392325e-4
+Eritrea,1648,49866,974,30332,9760,Other material moving workers,1,27,8.901490175392325e-4
+Eritrea,1648,49866,974,30332,4530,"Baggage porters, bellhops, and concierges",1,26,8.571805354081498e-4
+Eritrea,1648,49866,974,30332,5110,Billing and posting clerks,2,26,8.571805354081498e-4
+Eritrea,1648,49866,974,30332,1106,Computer network architects,1,25,8.242120532770672e-4
+Eritrea,1648,49866,974,30332,3030,Dietitians and nutritionists,1,25,8.242120532770672e-4
+Eritrea,1648,49866,974,30332,4820,"Securities, commodities, and financial services sales agents",1,25,8.242120532770672e-4
+Eritrea,1648,49866,974,30332,0335,Entertainment and recreation managers,1,24,7.912435711459844e-4
+Eritrea,1648,49866,974,30332,1920,Chemical technicians,2,24,7.912435711459844e-4
+Eritrea,1648,49866,974,30332,2350,Tutors,1,24,7.912435711459844e-4
+Eritrea,1648,49866,974,30332,0520,"Wholesale and retail buyers, except farm products",1,23,7.582750890149018e-4
+Eritrea,1648,49866,974,30332,1800,Economists,1,23,7.582750890149018e-4
+Eritrea,1648,49866,974,30332,3960,Other protective service workers,1,23,7.582750890149018e-4
+Eritrea,1648,49866,974,30332,1760,"Physical scientists, all other",1,22,7.25306606883819e-4
+Eritrea,1648,49866,974,30332,0725,"Meeting, convention, and event planners",1,20,6.593696426216537e-4
+Eritrea,1648,49866,974,30332,3322,Diagnostic medical sonographers,1,20,6.593696426216537e-4
+Eritrea,1648,49866,974,30332,4130,Dining room and cafeteria attendants and bartender helpers,1,20,6.593696426216537e-4
+Eritrea,1648,49866,974,30332,5710,Executive secretaries and executive administrative assistants,1,20,6.593696426216537e-4
+Eritrea,1648,49866,974,30332,0136,Human resources managers,1,19,6.26401160490571e-4
+Eritrea,1648,49866,974,30332,2002,"Educational, guidance, and career counselors and advisors",1,19,6.26401160490571e-4
+Eritrea,1648,49866,974,30332,3910,Private detectives and investigators,1,19,6.26401160490571e-4
+Eritrea,1648,49866,974,30332,4740,Counter and rental clerks,1,19,6.26401160490571e-4
+Eritrea,1648,49866,974,30332,8710,Cutting workers,1,19,6.26401160490571e-4
+Eritrea,1648,49866,974,30332,2600,Artists and related workers,1,18,5.934326783594883e-4
+Eritrea,1648,49866,974,30332,3605,Orderlies and psychiatric aides,1,18,5.934326783594883e-4
+Eritrea,1648,49866,974,30332,0860,Insurance underwriters,1,17,5.604641962284057e-4
+Eritrea,1648,49866,974,30332,6765,Other construction and related workers,1,17,5.604641962284057e-4
+Eritrea,1648,49866,974,30332,8810,Painting workers,1,17,5.604641962284057e-4
+Eritrea,1648,49866,974,30332,1065,Database administrators and architects,1,16,5.274957140973229e-4
+Eritrea,1648,49866,974,30332,2015,Probation officers and correctional treatment specialists,1,16,5.274957140973229e-4
+Eritrea,1648,49866,974,30332,2330,Special education teachers,1,16,5.274957140973229e-4
+Eritrea,1648,49866,974,30332,3430,Dietetic technicians and ophthalmic medical technicians,1,16,5.274957140973229e-4
+Eritrea,1648,49866,974,30332,4621,Exercise trainers and group fitness instructors,1,16,5.274957140973229e-4
+Eritrea,1648,49866,974,30332,3160,Physical therapists,1,15,4.945272319662403e-4
+Eritrea,1648,49866,974,30332,7855,"Food processing workers, all other",1,15,4.945272319662403e-4
+Eritrea,1648,49866,974,30332,0845,Financial and investment analysts,1,14,4.615587498351576e-4
+Eritrea,1648,49866,974,30332,9050,Flight attendants,1,14,4.615587498351576e-4
+Eritrea,1648,49866,974,30332,5320,"Library assistants, clerical",1,13,4.285902677040749e-4
+Eritrea,1648,49866,974,30332,6410,Painters and paperhangers,1,12,3.956217855729922e-4
+Eritrea,1648,49866,974,30332,9030,Aircraft pilots and flight engineers,1,12,3.956217855729922e-4
+Eritrea,1648,49866,974,30332,2634,Graphic designers,1,11,3.626533034419095e-4
+Eritrea,1648,49866,974,30332,3256,Nurse anesthetists,1,11,3.626533034419095e-4
+Eritrea,1648,49866,974,30332,4920,Real estate brokers and sales agents,1,11,3.626533034419095e-4
+Eritrea,1648,49866,974,30332,8610,Stationary engineers and boiler operators,1,11,3.626533034419095e-4
+Eritrea,1648,49866,974,30332,0205,"Farmers, ranchers, and other agricultural managers",1,10,3.2968482131082687e-4
+Eritrea,1648,49866,974,30332,1541,Architectural and civil drafters,1,10,3.2968482131082687e-4
+Eritrea,1648,49866,974,30332,3250,Veterinarians,1,10,3.2968482131082687e-4
+Eritrea,1648,49866,974,30332,5330,Loan interviewers and clerks,1,10,3.2968482131082687e-4
+Eritrea,1648,49866,974,30332,5850,"Mail clerks and mail machine operators, except postal service",1,10,3.2968482131082687e-4
+Eritrea,1648,49866,974,30332,0160,"Transportation, storage, and distribution managers",1,9,2.9671633917974417e-4
+Eritrea,1648,49866,974,30332,1650,Other life scientists,1,9,2.9671633917974417e-4
+Eritrea,1648,49866,974,30332,3870,Police officers,1,9,2.9671633917974417e-4
+Eritrea,1648,49866,974,30332,7800,Bakers,1,9,2.9671633917974417e-4
+Eritrea,1648,49866,974,30332,2145,Paralegals and legal assistants,1,8,2.6374785704866147e-4
+Eritrea,1648,49866,974,30332,4435,Other entertainment attendants and related workers,1,8,2.6374785704866147e-4
+Eritrea,1648,49866,974,30332,0530,"Purchasing agents, except wholesale, retail, and farm products",1,6,1.978108927864961e-4
+Eritrea,1648,49866,974,30332,3820,Detectives and criminal investigators,1,6,1.978108927864961e-4
+Eritrea,1648,49866,974,30332,7510,"Coin, vending, and amusement machine servicers and repairers",1,5,1.6484241065541343e-4
+Eritrea,1648,49866,974,30332,2555,Other educational instruction and library workers,1,4,1.3187392852433074e-4

@@ -1,189 +1,202 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Tanzania,1374,36453,627,17445,9130,Driver/sales workers and truck drivers,19,699,0.04006878761822872
-Tanzania,1374,36453,627,17445,2330,Special education teachers,3,630,0.03611349957007739
-Tanzania,1374,36453,627,17445,3255,Registered nurses,31,591,0.03387790197764402
-Tanzania,1374,36453,627,17445,3602,Personal care aides,26,584,0.03347664087130983
-Tanzania,1374,36453,627,17445,4720,Cashiers,13,497,0.028489538549727716
-Tanzania,1374,36453,627,17445,3603,Nursing assistants,15,441,0.02527944969905417
-Tanzania,1374,36453,627,17445,0800,Accountants and auditors,9,417,0.023903697334479793
-Tanzania,1374,36453,627,17445,8990,"Miscellaneous production workers, including equipment operators and tenders",12,398,0.022814560045858412
-Tanzania,1374,36453,627,17445,5940,Other office and administrative support workers,5,378,0.02166809974204643
-Tanzania,1374,36453,627,17445,0440,Other managers,18,330,0.018916595012897677
-Tanzania,1374,36453,627,17445,3601,Home health aides,6,329,0.01885927199770708
-Tanzania,1374,36453,627,17445,4700,First-line supervisors of retail sales workers,11,329,0.01885927199770708
-Tanzania,1374,36453,627,17445,5240,Customer service representatives,7,313,0.017942103754657494
-Tanzania,1374,36453,627,17445,9620,"Laborers and freight, stock, and material movers, hand",11,312,0.017884780739466897
-Tanzania,1374,36453,627,17445,4220,Janitors and building cleaners,10,303,0.017368873602751505
-Tanzania,1374,36453,627,17445,9640,"Packers and packagers, hand",8,250,0.014330753797649757
-Tanzania,1374,36453,627,17445,3090,Physicians,10,248,0.014216107767268558
-Tanzania,1374,36453,627,17445,9645,Stockers and order fillers,8,238,0.013642877615362568
-Tanzania,1374,36453,627,17445,0710,Management analysts,7,226,0.01295500143307538
-Tanzania,1374,36453,627,17445,0120,Financial managers,5,224,0.012840355402694181
-Tanzania,1374,36453,627,17445,2040,Clergy,15,223,0.012783032387503583
-Tanzania,1374,36453,627,17445,1021,Software developers,9,213,0.012209802235597592
-Tanzania,1374,36453,627,17445,8225,Other metal workers and plastic workers,4,204,0.011693895098882202
-Tanzania,1374,36453,627,17445,1200,Actuaries,2,191,0.010948695901404414
-Tanzania,1374,36453,627,17445,2205,Postsecondary teachers,11,189,0.010834049871023215
-Tanzania,1374,36453,627,17445,3050,Pharmacists,7,180,0.010318142734307825
-Tanzania,1374,36453,627,17445,0020,General and operations managers,5,179,0.010260819719117225
-Tanzania,1374,36453,627,17445,0052,Sales managers,2,161,0.009229005445686443
-Tanzania,1374,36453,627,17445,1065,Database administrators and architects,3,160,0.009171682430495844
-Tanzania,1374,36453,627,17445,2545,Teaching assistants,23,157,0.008999713384924047
-Tanzania,1374,36453,627,17445,5100,Bill and account collectors,1,155,0.008885067354542848
-Tanzania,1374,36453,627,17445,3802,Correctional officers and jailers,3,153,0.008770421324161651
-Tanzania,1374,36453,627,17445,4055,Fast food and counter workers,6,152,0.008713098308971053
-Tanzania,1374,36453,627,17445,5120,"Bookkeeping, accounting, and auditing clerks",5,152,0.008713098308971053
-Tanzania,1374,36453,627,17445,5160,Tellers,3,146,0.008369160217827458
-Tanzania,1374,36453,627,17445,1108,"Computer occupations, all other",5,145,0.00831183720263686
-Tanzania,1374,36453,627,17445,4710,First-line supervisors of non-retail sales workers,4,138,0.007910576096302666
-Tanzania,1374,36453,627,17445,5510,Couriers and messengers,4,138,0.007910576096302666
-Tanzania,1374,36453,627,17445,2350,Tutors,6,134,0.0076812840355402695
-Tanzania,1374,36453,627,17445,1970,"Other life, physical, and social science technicians",1,130,0.007451991974777874
-Tanzania,1374,36453,627,17445,0850,Personal financial advisors,4,121,0.006936084838062482
-Tanzania,1374,36453,627,17445,1006,Computer systems analysts,5,120,0.006878761822871883
-Tanzania,1374,36453,627,17445,1760,"Physical scientists, all other",6,118,0.006764115792490685
-Tanzania,1374,36453,627,17445,3430,Dietetic technicians and ophthalmic medical technicians,2,118,0.006764115792490685
-Tanzania,1374,36453,627,17445,7750,Other assemblers and fabricators,4,118,0.006764115792490685
-Tanzania,1374,36453,627,17445,1460,Mechanical engineers,2,116,0.006649469762109487
-Tanzania,1374,36453,627,17445,9142,Taxi drivers,4,115,0.006592146746918888
-Tanzania,1374,36453,627,17445,0010,Chief executives and legislators,7,114,0.006534823731728289
-Tanzania,1374,36453,627,17445,0310,Food service managers,3,114,0.006534823731728289
-Tanzania,1374,36453,627,17445,3645,Medical assistants,4,110,0.006305531670965893
-Tanzania,1374,36453,627,17445,0410,"Property, real estate, and community association managers",3,102,0.005846947549441101
-Tanzania,1374,36453,627,17445,0350,Medical and health services managers,3,100,0.005732301519059902
-Tanzania,1374,36453,627,17445,0750,"Business operations specialists, all other",4,100,0.005732301519059902
-Tanzania,1374,36453,627,17445,1360,Civil engineers,3,100,0.005732301519059902
-Tanzania,1374,36453,627,17445,4030,Food preparation workers,4,99,0.005674978503869304
-Tanzania,1374,36453,627,17445,5740,"Secretaries and administrative assistants, except legal, medical, and executive",2,97,0.005560332473488106
-Tanzania,1374,36453,627,17445,5300,"Hotel, motel, and resort desk clerks",1,95,0.005445686443106907
-Tanzania,1374,36453,627,17445,8030,Machinists,3,94,0.0053883634279163085
-Tanzania,1374,36453,627,17445,0705,Project management specialists,4,91,0.005216394382344511
-Tanzania,1374,36453,627,17445,3500,Licensed practical and licensed vocational nurses,6,87,0.004987102321582115
-Tanzania,1374,36453,627,17445,0220,Construction managers,2,86,0.004929779306391516
-Tanzania,1374,36453,627,17445,1010,Computer programmers,1,86,0.004929779306391516
-Tanzania,1374,36453,627,17445,2100,"Lawyers, and judges, magistrates, and other judicial workers",3,80,0.004585841215247922
-Tanzania,1374,36453,627,17445,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",5,78,0.004471195184866724
-Tanzania,1374,36453,627,17445,6260,Construction laborers,3,76,0.004356549154485526
-Tanzania,1374,36453,627,17445,0530,"Purchasing agents, except wholesale, retail, and farm products",2,74,0.0042419031241043275
-Tanzania,1374,36453,627,17445,4760,Retail salespersons,6,73,0.004184580108913729
-Tanzania,1374,36453,627,17445,0630,Human resources workers,4,71,0.004069934078532531
-Tanzania,1374,36453,627,17445,8740,"Inspectors, testers, sorters, samplers, and weighers",1,70,0.004012611063341932
-Tanzania,1374,36453,627,17445,1910,Biological technicians,1,69,0.003955288048151333
-Tanzania,1374,36453,627,17445,2014,"Social workers, all other",3,69,0.003955288048151333
-Tanzania,1374,36453,627,17445,0230,Education and childcare administrators,3,68,0.0038979650329607337
-Tanzania,1374,36453,627,17445,2320,Secondary school teachers,3,68,0.0038979650329607337
-Tanzania,1374,36453,627,17445,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,68,0.0038979650329607337
-Tanzania,1374,36453,627,17445,2004,Mental health counselors,1,67,0.0038406420177701348
-Tanzania,1374,36453,627,17445,4600,Childcare workers,2,65,0.003725995987388937
-Tanzania,1374,36453,627,17445,4020,Cooks,4,64,0.0036686729721983375
-Tanzania,1374,36453,627,17445,5610,"Shipping, receiving, and inventory clerks",2,63,0.0036113499570077385
-Tanzania,1374,36453,627,17445,1320,Aerospace engineers,3,62,0.0035540269418171395
-Tanzania,1374,36453,627,17445,2722,Coaches and scouts,2,61,0.0034967039266265406
-Tanzania,1374,36453,627,17445,1410,Electrical and electronics engineers,2,60,0.0034393809114359416
-Tanzania,1374,36453,627,17445,6230,Carpenters,1,58,0.0033247348810547437
-Tanzania,1374,36453,627,17445,0051,Marketing managers,3,57,0.0032674118658641443
-Tanzania,1374,36453,627,17445,3256,Nurse anesthetists,1,57,0.0032674118658641443
-Tanzania,1374,36453,627,17445,4140,Dishwashers,2,54,0.0030954428202923474
-Tanzania,1374,36453,627,17445,4521,Manicurists and pedicurists,1,54,0.0030954428202923474
-Tanzania,1374,36453,627,17445,7315,"Heating, air conditioning, and refrigeration mechanics and installers",2,54,0.0030954428202923474
-Tanzania,1374,36453,627,17445,3258,"Nurse practitioners, and nurse midwives",3,53,0.0030381198051017484
-Tanzania,1374,36453,627,17445,1530,Other engineers,2,51,0.0029234737747205505
-Tanzania,1374,36453,627,17445,2145,Paralegals and legal assistants,2,51,0.0029234737747205505
-Tanzania,1374,36453,627,17445,3300,Clinical laboratory technologists and technicians,3,51,0.0029234737747205505
-Tanzania,1374,36453,627,17445,5330,Loan interviewers and clerks,1,49,0.002808827744339352
-Tanzania,1374,36453,627,17445,8800,Packaging and filling machine operators and tenders,1,49,0.002808827744339352
-Tanzania,1374,36453,627,17445,4522,Skincare specialists,2,47,0.0026941817139581542
-Tanzania,1374,36453,627,17445,5550,Postal service mail carriers,2,47,0.0026941817139581542
-Tanzania,1374,36453,627,17445,5730,Medical secretaries and administrative assistants,1,47,0.0026941817139581542
-Tanzania,1374,36453,627,17445,9310,Ship and boat captains and operators,1,47,0.0026941817139581542
-Tanzania,1374,36453,627,17445,0420,Social and community service managers,2,46,0.0026368586987675553
-Tanzania,1374,36453,627,17445,3010,Dentists,4,46,0.0026368586987675553
-Tanzania,1374,36453,627,17445,1050,Computer support specialists,3,45,0.0025795356835769563
-Tanzania,1374,36453,627,17445,7010,"Computer, automated teller, and office machine repairers",2,44,0.002522212668386357
-Tanzania,1374,36453,627,17445,4920,Real estate brokers and sales agents,3,43,0.002464889653195758
-Tanzania,1374,36453,627,17445,5810,Data entry keyers,2,43,0.002464889653195758
-Tanzania,1374,36453,627,17445,7200,Automotive service technicians and mechanics,1,41,0.00235024362281456
-Tanzania,1374,36453,627,17445,7320,Home appliance repairers,1,41,0.00235024362281456
-Tanzania,1374,36453,627,17445,0340,Lodging managers,3,40,0.002292920607623961
-Tanzania,1374,36453,627,17445,5410,Reservation and transportation ticket agents and travel clerks,1,39,0.002235597592433362
-Tanzania,1374,36453,627,17445,7810,"Butchers and other meat, poultry, and fish processing workers",2,39,0.002235597592433362
-Tanzania,1374,36453,627,17445,2810,"News analysts, reporters, and journalists",1,37,0.0021209515620521638
-Tanzania,1374,36453,627,17445,5165,Other financial clerks,1,35,0.002006305531670966
-Tanzania,1374,36453,627,17445,9600,Industrial truck and tractor operators,1,35,0.002006305531670966
-Tanzania,1374,36453,627,17445,3421,Pharmacy technicians,2,34,0.0019489825164803669
-Tanzania,1374,36453,627,17445,6050,Other agricultural workers,1,34,0.0019489825164803669
-Tanzania,1374,36453,627,17445,6355,Electricians,2,34,0.0019489825164803669
-Tanzania,1374,36453,627,17445,5000,First-line supervisors of office and administrative support workers,3,32,0.0018343364860991687
-Tanzania,1374,36453,627,17445,2002,"Educational, guidance, and career counselors and advisors",1,31,0.0017770134709085698
-Tanzania,1374,36453,627,17445,3140,Audiologists,1,31,0.0017770134709085698
-Tanzania,1374,36453,627,17445,4110,Waiters and waitresses,1,31,0.0017770134709085698
-Tanzania,1374,36453,627,17445,4251,Landscaping and groundskeeping workers,3,31,0.0017770134709085698
-Tanzania,1374,36453,627,17445,1007,Information security analysts,1,29,0.0016623674405273718
-Tanzania,1374,36453,627,17445,3110,Physician assistants,2,29,0.0016623674405273718
-Tanzania,1374,36453,627,17445,2640,Other designers,1,28,0.0016050444253367727
-Tanzania,1374,36453,627,17445,4850,"Sales representatives, wholesale and manufacturing",2,28,0.0016050444253367727
-Tanzania,1374,36453,627,17445,0930,"Tax examiners and collectors, and revenue agents",1,27,0.0015477214101461737
-Tanzania,1374,36453,627,17445,3515,Medical records specialists,1,27,0.0015477214101461737
-Tanzania,1374,36453,627,17445,9610,Cleaners of vehicles and equipment,1,27,0.0015477214101461737
-Tanzania,1374,36453,627,17445,7020,Radio and telecommunications equipment installers and repairers,1,26,0.0014903983949555747
-Tanzania,1374,36453,627,17445,2016,Social and human service assistants,1,25,0.0014330753797649756
-Tanzania,1374,36453,627,17445,3870,Police officers,2,25,0.0014330753797649756
-Tanzania,1374,36453,627,17445,5860,"Office clerks, general",1,25,0.0014330753797649756
-Tanzania,1374,36453,627,17445,9122,"Bus drivers, transit and intercity",2,25,0.0014330753797649756
-Tanzania,1374,36453,627,17445,5110,Billing and posting clerks,2,24,0.0013757523645743766
-Tanzania,1374,36453,627,17445,5710,Executive secretaries and executive administrative assistants,1,24,0.0013757523645743766
-Tanzania,1374,36453,627,17445,7000,"First-line supervisors of mechanics, installers, and repairers",2,24,0.0013757523645743766
-Tanzania,1374,36453,627,17445,6250,"Cement masons, concrete finishers, and terrazzo workers",1,23,0.0013184293493837776
-Tanzania,1374,36453,627,17445,8810,Painting workers,1,23,0.0013184293493837776
-Tanzania,1374,36453,627,17445,9720,Refuse and recyclable material collectors,1,23,0.0013184293493837776
-Tanzania,1374,36453,627,17445,2310,Elementary and middle school teachers,1,22,0.0012611063341931785
-Tanzania,1374,36453,627,17445,5522,"Dispatchers, except police, fire, and ambulance",1,22,0.0012611063341931785
-Tanzania,1374,36453,627,17445,0700,Logisticians,1,21,0.0012037833190025795
-Tanzania,1374,36453,627,17445,3900,Animal control workers,1,20,0.0011464603038119805
-Tanzania,1374,36453,627,17445,4640,Residential advisors,1,20,0.0011464603038119805
-Tanzania,1374,36453,627,17445,2861,Interpreters and translators,1,19,0.0010891372886213816
-Tanzania,1374,36453,627,17445,4621,Exercise trainers and group fitness instructors,1,19,0.0010891372886213816
-Tanzania,1374,36453,627,17445,2060,"Religious workers, all other",1,18,0.0010318142734307824
-Tanzania,1374,36453,627,17445,3930,Security guards and gaming surveillance officers,1,18,0.0010318142734307824
-Tanzania,1374,36453,627,17445,0150,Purchasing managers,1,17,9.744912582401834e-4
-Tanzania,1374,36453,627,17445,0830,Credit analysts,1,17,9.744912582401834e-4
-Tanzania,1374,36453,627,17445,3646,Medical transcriptionists,1,17,9.744912582401834e-4
-Tanzania,1374,36453,627,17445,5310,"Interviewers, except eligibility and loan",1,17,9.744912582401834e-4
-Tanzania,1374,36453,627,17445,0140,Industrial production managers,1,16,9.171682430495844e-4
-Tanzania,1374,36453,627,17445,4000,Chefs and head cooks,1,16,9.171682430495844e-4
-Tanzania,1374,36453,627,17445,4622,Recreation workers,1,16,9.171682430495844e-4
-Tanzania,1374,36453,627,17445,7210,Bus and truck mechanics and diesel engine specialists,1,16,9.171682430495844e-4
-Tanzania,1374,36453,627,17445,3910,Private detectives and investigators,1,15,8.598452278589854e-4
-Tanzania,1374,36453,627,17445,4230,Maids and housekeeping cleaners,1,15,8.598452278589854e-4
-Tanzania,1374,36453,627,17445,4830,Travel agents,1,15,8.598452278589854e-4
-Tanzania,1374,36453,627,17445,5600,"Production, planning, and expediting clerks",1,15,8.598452278589854e-4
-Tanzania,1374,36453,627,17445,3840,Fish and game wardens and parking enforcement officers,1,14,8.025222126683863e-4
-Tanzania,1374,36453,627,17445,5400,Receptionists and information clerks,1,14,8.025222126683863e-4
-Tanzania,1374,36453,627,17445,7030,Avionics technicians,1,14,8.025222126683863e-4
-Tanzania,1374,36453,627,17445,8610,Stationary engineers and boiler operators,1,14,8.025222126683863e-4
-Tanzania,1374,36453,627,17445,9005,Supervisors of transportation and material moving workers,1,14,8.025222126683863e-4
-Tanzania,1374,36453,627,17445,9830,"Military, rank not specified",1,14,8.025222126683863e-4
-Tanzania,1374,36453,627,17445,1825,Other psychologists,1,13,7.451991974777874e-4
-Tanzania,1374,36453,627,17445,3401,Emergency medical technicians,1,13,7.451991974777874e-4
-Tanzania,1374,36453,627,17445,0910,Credit counselors and loan officers,1,12,6.878761822871883e-4
-Tanzania,1374,36453,627,17445,1430,"Industrial engineers, including health and safety",1,12,6.878761822871883e-4
-Tanzania,1374,36453,627,17445,3960,Other protective service workers,2,12,6.878761822871883e-4
-Tanzania,1374,36453,627,17445,4540,Tour and travel guides,1,12,6.878761822871883e-4
-Tanzania,1374,36453,627,17445,0110,Computer and information systems managers,1,10,5.732301519059903e-4
-Tanzania,1374,36453,627,17445,1720,Chemists and materials scientists,1,10,5.732301519059903e-4
-Tanzania,1374,36453,627,17445,2015,Probation officers and correctional treatment specialists,1,10,5.732301519059903e-4
-Tanzania,1374,36453,627,17445,2435,Librarians and media collections specialists,1,10,5.732301519059903e-4
-Tanzania,1374,36453,627,17445,2825,Public relations specialists,1,10,5.732301519059903e-4
-Tanzania,1374,36453,627,17445,3725,"Miscellaneous first-line supervisors, protective service workers",1,10,5.732301519059903e-4
-Tanzania,1374,36453,627,17445,4810,Insurance sales agents,1,10,5.732301519059903e-4
-Tanzania,1374,36453,627,17445,1022,Software quality assurance analysts and testers,1,9,5.159071367153912e-4
-Tanzania,1374,36453,627,17445,3100,Surgeons,1,9,5.159071367153912e-4
-Tanzania,1374,36453,627,17445,0520,"Wholesale and retail buyers, except farm products",1,8,4.585841215247922e-4
-Tanzania,1374,36453,627,17445,0565,Compliance officers,1,8,4.585841215247922e-4
-Tanzania,1374,36453,627,17445,5320,"Library assistants, clerical",2,8,4.585841215247922e-4
-Tanzania,1374,36453,627,17445,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,8,4.585841215247922e-4
-Tanzania,1374,36453,627,17445,3321,Cardiovascular technologists and technicians,1,7,4.0126110633419317e-4
-Tanzania,1374,36453,627,17445,4820,"Securities, commodities, and financial services sales agents",1,7,4.0126110633419317e-4
-Tanzania,1374,36453,627,17445,8300,Laundry and dry-cleaning workers,1,7,4.0126110633419317e-4
-Tanzania,1374,36453,627,17445,2300,Preschool and kindergarten teachers,1,6,3.4393809114359415e-4
-Tanzania,1374,36453,627,17445,7800,Bakers,1,5,2.8661507595299513e-4
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Tanzania,1374,36453,710,18837,9130,Driver/sales workers and truck drivers,19,699,0.03710781971651537
+Tanzania,1374,36453,710,18837,2330,Special education teachers,3,630,0.033444816053511704
+Tanzania,1374,36453,710,18837,3255,Registered nurses,32,601,0.03190529277485799
+Tanzania,1374,36453,710,18837,3602,Personal care aides,26,584,0.031002813611509264
+Tanzania,1374,36453,710,18837,4720,Cashiers,14,505,0.026808939852418112
+Tanzania,1374,36453,710,18837,3603,Nursing assistants,17,476,0.0252694165737644
+Tanzania,1374,36453,710,18837,0800,Accountants and auditors,10,440,0.023358284227849444
+Tanzania,1374,36453,710,18837,8990,"Miscellaneous production workers, including equipment operators and tenders",12,398,0.021128629824282
+Tanzania,1374,36453,710,18837,3090,Physicians,14,381,0.020226150660933268
+Tanzania,1374,36453,710,18837,5940,Other office and administrative support workers,5,378,0.020066889632107024
+Tanzania,1374,36453,710,18837,5240,Customer service representatives,9,354,0.018792801401497052
+Tanzania,1374,36453,710,18837,0440,Other managers,21,337,0.017890322238148324
+Tanzania,1374,36453,710,18837,3601,Home health aides,7,330,0.017518713170887084
+Tanzania,1374,36453,710,18837,4700,First-line supervisors of retail sales workers,11,329,0.017465626161278336
+Tanzania,1374,36453,710,18837,9620,"Laborers and freight, stock, and material movers, hand",11,312,0.016563146997929608
+Tanzania,1374,36453,710,18837,9640,"Packers and packagers, hand",9,305,0.016191537930668364
+Tanzania,1374,36453,710,18837,4220,Janitors and building cleaners,10,303,0.016085363911450868
+Tanzania,1374,36453,710,18837,9645,Stockers and order fillers,9,284,0.015076710728884642
+Tanzania,1374,36453,710,18837,2040,Clergy,20,242,0.012847056325317194
+Tanzania,1374,36453,710,18837,1021,Software developers,10,232,0.012316186229229708
+Tanzania,1374,36453,710,18837,0710,Management analysts,7,226,0.011997664171577216
+Tanzania,1374,36453,710,18837,0120,Financial managers,5,224,0.011891490152359718
+Tanzania,1374,36453,710,18837,2205,Postsecondary teachers,12,212,0.011254446037054732
+Tanzania,1374,36453,710,18837,3050,Pharmacists,9,209,0.011095185008228486
+Tanzania,1374,36453,710,18837,8225,Other metal workers and plastic workers,4,204,0.010829749960184742
+Tanzania,1374,36453,710,18837,1200,Actuaries,2,191,0.01013961883527101
+Tanzania,1374,36453,710,18837,0020,General and operations managers,6,188,0.009980357806444762
+Tanzania,1374,36453,710,18837,0410,"Property, real estate, and community association managers",5,178,0.009449487710357276
+Tanzania,1374,36453,710,18837,4055,Fast food and counter workers,7,173,0.009184052662313532
+Tanzania,1374,36453,710,18837,0052,Sales managers,3,171,0.009077878643096034
+Tanzania,1374,36453,710,18837,1108,"Computer occupations, all other",6,166,0.00881244359505229
+Tanzania,1374,36453,710,18837,1065,Database administrators and architects,3,160,0.008493921537399798
+Tanzania,1374,36453,710,18837,1360,Civil engineers,9,160,0.008493921537399798
+Tanzania,1374,36453,710,18837,2545,Teaching assistants,24,158,0.0083877475181823
+Tanzania,1374,36453,710,18837,5100,Bill and account collectors,1,155,0.008228486489356054
+Tanzania,1374,36453,710,18837,0010,Chief executives and legislators,10,153,0.008122312470138558
+Tanzania,1374,36453,710,18837,3802,Correctional officers and jailers,3,153,0.008122312470138558
+Tanzania,1374,36453,710,18837,5120,"Bookkeeping, accounting, and auditing clerks",5,152,0.008069225460529808
+Tanzania,1374,36453,710,18837,5160,Tellers,3,146,0.007750703402877316
+Tanzania,1374,36453,710,18837,5740,"Secretaries and administrative assistants, except legal, medical, and executive",4,142,0.007538355364442321
+Tanzania,1374,36453,710,18837,4710,First-line supervisors of non-retail sales workers,4,138,0.007326007326007326
+Tanzania,1374,36453,710,18837,5510,Couriers and messengers,4,138,0.007326007326007326
+Tanzania,1374,36453,710,18837,2350,Tutors,6,134,0.007113659287572331
+Tanzania,1374,36453,710,18837,1760,"Physical scientists, all other",7,130,0.006901311249137336
+Tanzania,1374,36453,710,18837,1970,"Other life, physical, and social science technicians",1,130,0.006901311249137336
+Tanzania,1374,36453,710,18837,0310,Food service managers,4,128,0.006795137229919839
+Tanzania,1374,36453,710,18837,0850,Personal financial advisors,4,121,0.006423528162658597
+Tanzania,1374,36453,710,18837,1006,Computer systems analysts,5,120,0.006370441153049849
+Tanzania,1374,36453,710,18837,3430,Dietetic technicians and ophthalmic medical technicians,2,118,0.006264267133832351
+Tanzania,1374,36453,710,18837,7750,Other assemblers and fabricators,4,118,0.006264267133832351
+Tanzania,1374,36453,710,18837,1460,Mechanical engineers,2,116,0.006158093114614854
+Tanzania,1374,36453,710,18837,9142,Taxi drivers,4,115,0.006105006105006105
+Tanzania,1374,36453,710,18837,4030,Food preparation workers,5,114,0.006051919095397356
+Tanzania,1374,36453,710,18837,3645,Medical assistants,4,110,0.005839571056962361
+Tanzania,1374,36453,710,18837,0350,Medical and health services managers,3,100,0.005308700960874874
+Tanzania,1374,36453,710,18837,0750,"Business operations specialists, all other",4,100,0.005308700960874874
+Tanzania,1374,36453,710,18837,5300,"Hotel, motel, and resort desk clerks",1,95,0.00504326591283113
+Tanzania,1374,36453,710,18837,8030,Machinists,3,94,0.004990178903222381
+Tanzania,1374,36453,710,18837,0705,Project management specialists,4,91,0.004830917874396135
+Tanzania,1374,36453,710,18837,3500,Licensed practical and licensed vocational nurses,6,87,0.00461856983596114
+Tanzania,1374,36453,710,18837,0220,Construction managers,2,86,0.004565482826352392
+Tanzania,1374,36453,710,18837,1010,Computer programmers,1,86,0.004565482826352392
+Tanzania,1374,36453,710,18837,0230,Education and childcare administrators,4,83,0.004406221797526145
+Tanzania,1374,36453,710,18837,2100,"Lawyers, and judges, magistrates, and other judicial workers",3,80,0.004246960768699899
+Tanzania,1374,36453,710,18837,1410,Electrical and electronics engineers,3,79,0.00419387375909115
+Tanzania,1374,36453,710,18837,4600,Childcare workers,3,79,0.00419387375909115
+Tanzania,1374,36453,710,18837,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",5,78,0.004140786749482402
+Tanzania,1374,36453,710,18837,6260,Construction laborers,3,76,0.004034612730264904
+Tanzania,1374,36453,710,18837,0530,"Purchasing agents, except wholesale, retail, and farm products",2,74,0.003928438711047407
+Tanzania,1374,36453,710,18837,4760,Retail salespersons,6,73,0.003875351701438658
+Tanzania,1374,36453,710,18837,0630,Human resources workers,4,71,0.0037691776822211605
+Tanzania,1374,36453,710,18837,8740,"Inspectors, testers, sorters, samplers, and weighers",1,70,0.0037160906726124115
+Tanzania,1374,36453,710,18837,1910,Biological technicians,1,69,0.003663003663003663
+Tanzania,1374,36453,710,18837,2014,"Social workers, all other",3,69,0.003663003663003663
+Tanzania,1374,36453,710,18837,1530,Other engineers,3,68,0.0036099166533949145
+Tanzania,1374,36453,710,18837,2145,Paralegals and legal assistants,3,68,0.0036099166533949145
+Tanzania,1374,36453,710,18837,2320,Secondary school teachers,3,68,0.0036099166533949145
+Tanzania,1374,36453,710,18837,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,68,0.0036099166533949145
+Tanzania,1374,36453,710,18837,2004,Mental health counselors,1,67,0.0035568296437861655
+Tanzania,1374,36453,710,18837,4850,"Sales representatives, wholesale and manufacturing",3,65,0.003450655624568668
+Tanzania,1374,36453,710,18837,4020,Cooks,4,64,0.0033975686149599195
+Tanzania,1374,36453,710,18837,5610,"Shipping, receiving, and inventory clerks",2,63,0.0033444816053511705
+Tanzania,1374,36453,710,18837,1320,Aerospace engineers,3,62,0.003291394595742422
+Tanzania,1374,36453,710,18837,3010,Dentists,6,62,0.003291394595742422
+Tanzania,1374,36453,710,18837,2722,Coaches and scouts,2,61,0.003238307586133673
+Tanzania,1374,36453,710,18837,6230,Carpenters,1,58,0.003079046557307427
+Tanzania,1374,36453,710,18837,0051,Marketing managers,3,57,0.003025959547698678
+Tanzania,1374,36453,710,18837,3256,Nurse anesthetists,1,57,0.003025959547698678
+Tanzania,1374,36453,710,18837,4140,Dishwashers,2,54,0.002866698518872432
+Tanzania,1374,36453,710,18837,4521,Manicurists and pedicurists,1,54,0.002866698518872432
+Tanzania,1374,36453,710,18837,7315,"Heating, air conditioning, and refrigeration mechanics and installers",2,54,0.002866698518872432
+Tanzania,1374,36453,710,18837,3258,"Nurse practitioners, and nurse midwives",3,53,0.002813611509263683
+Tanzania,1374,36453,710,18837,4950,"Door-to-door sales workers, news and street vendors, and related workers",1,53,0.002813611509263683
+Tanzania,1374,36453,710,18837,0340,Lodging managers,4,51,0.0027074374900461855
+Tanzania,1374,36453,710,18837,3300,Clinical laboratory technologists and technicians,3,51,0.0027074374900461855
+Tanzania,1374,36453,710,18837,3910,Private detectives and investigators,3,49,0.002601263470828688
+Tanzania,1374,36453,710,18837,5330,Loan interviewers and clerks,1,49,0.002601263470828688
+Tanzania,1374,36453,710,18837,7350,"Maintenance workers, machinery",1,49,0.002601263470828688
+Tanzania,1374,36453,710,18837,8800,Packaging and filling machine operators and tenders,1,49,0.002601263470828688
+Tanzania,1374,36453,710,18837,4522,Skincare specialists,2,47,0.0024950894516111905
+Tanzania,1374,36453,710,18837,5110,Billing and posting clerks,3,47,0.0024950894516111905
+Tanzania,1374,36453,710,18837,5550,Postal service mail carriers,2,47,0.0024950894516111905
+Tanzania,1374,36453,710,18837,5730,Medical secretaries and administrative assistants,1,47,0.0024950894516111905
+Tanzania,1374,36453,710,18837,9310,Ship and boat captains and operators,1,47,0.0024950894516111905
+Tanzania,1374,36453,710,18837,0420,Social and community service managers,2,46,0.002442002442002442
+Tanzania,1374,36453,710,18837,1050,Computer support specialists,3,45,0.0023889154323936935
+Tanzania,1374,36453,710,18837,9610,Cleaners of vehicles and equipment,2,45,0.0023889154323936935
+Tanzania,1374,36453,710,18837,5000,First-line supervisors of office and administrative support workers,4,44,0.0023358284227849445
+Tanzania,1374,36453,710,18837,7010,"Computer, automated teller, and office machine repairers",2,44,0.0023358284227849445
+Tanzania,1374,36453,710,18837,3515,Medical records specialists,2,43,0.002282741413176196
+Tanzania,1374,36453,710,18837,4920,Real estate brokers and sales agents,3,43,0.002282741413176196
+Tanzania,1374,36453,710,18837,5810,Data entry keyers,2,43,0.002282741413176196
+Tanzania,1374,36453,710,18837,4110,Waiters and waitresses,2,41,0.0021765673939586985
+Tanzania,1374,36453,710,18837,7200,Automotive service technicians and mechanics,1,41,0.0021765673939586985
+Tanzania,1374,36453,710,18837,7320,Home appliance repairers,1,41,0.0021765673939586985
+Tanzania,1374,36453,710,18837,4130,Dining room and cafeteria attendants and bartender helpers,1,40,0.0021234803843499495
+Tanzania,1374,36453,710,18837,5410,Reservation and transportation ticket agents and travel clerks,1,39,0.002070393374741201
+Tanzania,1374,36453,710,18837,7810,"Butchers and other meat, poultry, and fish processing workers",2,39,0.002070393374741201
+Tanzania,1374,36453,710,18837,2810,"News analysts, reporters, and journalists",1,37,0.0019642193555237035
+Tanzania,1374,36453,710,18837,4435,Other entertainment attendants and related workers,1,37,0.0019642193555237035
+Tanzania,1374,36453,710,18837,5860,"Office clerks, general",3,37,0.0019642193555237035
+Tanzania,1374,36453,710,18837,2310,Elementary and middle school teachers,2,36,0.0019111323459149545
+Tanzania,1374,36453,710,18837,5165,Other financial clerks,1,35,0.0018580453363062058
+Tanzania,1374,36453,710,18837,9600,Industrial truck and tractor operators,1,35,0.0018580453363062058
+Tanzania,1374,36453,710,18837,3421,Pharmacy technicians,2,34,0.0018049583266974572
+Tanzania,1374,36453,710,18837,6050,Other agricultural workers,1,34,0.0018049583266974572
+Tanzania,1374,36453,710,18837,6355,Electricians,2,34,0.0018049583266974572
+Tanzania,1374,36453,710,18837,2002,"Educational, guidance, and career counselors and advisors",1,31,0.001645697297871211
+Tanzania,1374,36453,710,18837,3140,Audiologists,1,31,0.001645697297871211
+Tanzania,1374,36453,710,18837,4251,Landscaping and groundskeeping workers,3,31,0.001645697297871211
+Tanzania,1374,36453,710,18837,0150,Purchasing managers,2,29,0.0015395232786537135
+Tanzania,1374,36453,710,18837,1007,Information security analysts,1,29,0.0015395232786537135
+Tanzania,1374,36453,710,18837,3110,Physician assistants,2,29,0.0015395232786537135
+Tanzania,1374,36453,710,18837,2640,Other designers,1,28,0.0014864362690449647
+Tanzania,1374,36453,710,18837,3324,Magnetic resonance imaging technologists,1,28,0.0014864362690449647
+Tanzania,1374,36453,710,18837,0930,"Tax examiners and collectors, and revenue agents",1,27,0.001433349259436216
+Tanzania,1374,36453,710,18837,0565,Compliance officers,2,26,0.0013802622498274672
+Tanzania,1374,36453,710,18837,7020,Radio and telecommunications equipment installers and repairers,1,26,0.0013802622498274672
+Tanzania,1374,36453,710,18837,2016,Social and human service assistants,1,25,0.0013271752402187185
+Tanzania,1374,36453,710,18837,3870,Police officers,2,25,0.0013271752402187185
+Tanzania,1374,36453,710,18837,9122,"Bus drivers, transit and intercity",2,25,0.0013271752402187185
+Tanzania,1374,36453,710,18837,5710,Executive secretaries and executive administrative assistants,1,24,0.0012740882306099697
+Tanzania,1374,36453,710,18837,7000,"First-line supervisors of mechanics, installers, and repairers",2,24,0.0012740882306099697
+Tanzania,1374,36453,710,18837,6250,"Cement masons, concrete finishers, and terrazzo workers",1,23,0.001221001221001221
+Tanzania,1374,36453,710,18837,8810,Painting workers,1,23,0.001221001221001221
+Tanzania,1374,36453,710,18837,9720,Refuse and recyclable material collectors,1,23,0.001221001221001221
+Tanzania,1374,36453,710,18837,5522,"Dispatchers, except police, fire, and ambulance",1,22,0.0011679142113924723
+Tanzania,1374,36453,710,18837,0700,Logisticians,1,21,0.0011148272017837235
+Tanzania,1374,36453,710,18837,3900,Animal control workers,1,20,0.0010617401921749748
+Tanzania,1374,36453,710,18837,4640,Residential advisors,1,20,0.0010617401921749748
+Tanzania,1374,36453,710,18837,2861,Interpreters and translators,1,19,0.001008653182566226
+Tanzania,1374,36453,710,18837,4621,Exercise trainers and group fitness instructors,1,19,0.001008653182566226
+Tanzania,1374,36453,710,18837,2060,"Religious workers, all other",1,18,9.555661729574773e-4
+Tanzania,1374,36453,710,18837,3930,Security guards and gaming surveillance officers,1,18,9.555661729574773e-4
+Tanzania,1374,36453,710,18837,8950,Helpers--production workers,1,18,9.555661729574773e-4
+Tanzania,1374,36453,710,18837,0830,Credit analysts,1,17,9.024791633487286e-4
+Tanzania,1374,36453,710,18837,1825,Other psychologists,2,17,9.024791633487286e-4
+Tanzania,1374,36453,710,18837,3646,Medical transcriptionists,1,17,9.024791633487286e-4
+Tanzania,1374,36453,710,18837,5310,"Interviewers, except eligibility and loan",1,17,9.024791633487286e-4
+Tanzania,1374,36453,710,18837,6660,Construction and building inspectors,1,17,9.024791633487286e-4
+Tanzania,1374,36453,710,18837,0140,Industrial production managers,1,16,8.493921537399799e-4
+Tanzania,1374,36453,710,18837,1551,Electrical and electronic engineering technologists and technicians,1,16,8.493921537399799e-4
+Tanzania,1374,36453,710,18837,4000,Chefs and head cooks,1,16,8.493921537399799e-4
+Tanzania,1374,36453,710,18837,4622,Recreation workers,1,16,8.493921537399799e-4
+Tanzania,1374,36453,710,18837,5400,Receptionists and information clerks,2,16,8.493921537399799e-4
+Tanzania,1374,36453,710,18837,7210,Bus and truck mechanics and diesel engine specialists,1,16,8.493921537399799e-4
+Tanzania,1374,36453,710,18837,4230,Maids and housekeeping cleaners,1,15,7.963051441312311e-4
+Tanzania,1374,36453,710,18837,4830,Travel agents,1,15,7.963051441312311e-4
+Tanzania,1374,36453,710,18837,5600,"Production, planning, and expediting clerks",1,15,7.963051441312311e-4
+Tanzania,1374,36453,710,18837,3840,Fish and game wardens and parking enforcement officers,1,14,7.432181345224824e-4
+Tanzania,1374,36453,710,18837,7030,Avionics technicians,1,14,7.432181345224824e-4
+Tanzania,1374,36453,710,18837,8610,Stationary engineers and boiler operators,1,14,7.432181345224824e-4
+Tanzania,1374,36453,710,18837,9005,Supervisors of transportation and material moving workers,1,14,7.432181345224824e-4
+Tanzania,1374,36453,710,18837,9830,"Military, rank not specified",1,14,7.432181345224824e-4
+Tanzania,1374,36453,710,18837,3401,Emergency medical technicians,1,13,6.901311249137336e-4
+Tanzania,1374,36453,710,18837,0910,Credit counselors and loan officers,1,12,6.370441153049849e-4
+Tanzania,1374,36453,710,18837,1430,"Industrial engineers, including health and safety",1,12,6.370441153049849e-4
+Tanzania,1374,36453,710,18837,3960,Other protective service workers,2,12,6.370441153049849e-4
+Tanzania,1374,36453,710,18837,4540,Tour and travel guides,1,12,6.370441153049849e-4
+Tanzania,1374,36453,710,18837,5020,Telephone operators,1,11,5.839571056962361e-4
+Tanzania,1374,36453,710,18837,0110,Computer and information systems managers,1,10,5.308700960874874e-4
+Tanzania,1374,36453,710,18837,0600,Cost estimators,1,10,5.308700960874874e-4
+Tanzania,1374,36453,710,18837,1720,Chemists and materials scientists,1,10,5.308700960874874e-4
+Tanzania,1374,36453,710,18837,2015,Probation officers and correctional treatment specialists,1,10,5.308700960874874e-4
+Tanzania,1374,36453,710,18837,2435,Librarians and media collections specialists,1,10,5.308700960874874e-4
+Tanzania,1374,36453,710,18837,2825,Public relations specialists,1,10,5.308700960874874e-4
+Tanzania,1374,36453,710,18837,3725,"Miscellaneous first-line supervisors, protective service workers",1,10,5.308700960874874e-4
+Tanzania,1374,36453,710,18837,4810,Insurance sales agents,1,10,5.308700960874874e-4
+Tanzania,1374,36453,710,18837,1022,Software quality assurance analysts and testers,1,9,4.7778308647873863e-4
+Tanzania,1374,36453,710,18837,3100,Surgeons,1,9,4.7778308647873863e-4
+Tanzania,1374,36453,710,18837,5220,"Court, municipal, and license clerks",1,9,4.7778308647873863e-4
+Tanzania,1374,36453,710,18837,0520,"Wholesale and retail buyers, except farm products",1,8,4.2469607686998993e-4
+Tanzania,1374,36453,710,18837,3520,"Opticians, dispensing",1,8,4.2469607686998993e-4
+Tanzania,1374,36453,710,18837,5320,"Library assistants, clerical",2,8,4.2469607686998993e-4
+Tanzania,1374,36453,710,18837,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,8,4.2469607686998993e-4
+Tanzania,1374,36453,710,18837,3321,Cardiovascular technologists and technicians,1,7,3.716090672612412e-4
+Tanzania,1374,36453,710,18837,4820,"Securities, commodities, and financial services sales agents",1,7,3.716090672612412e-4
+Tanzania,1374,36453,710,18837,8300,Laundry and dry-cleaning workers,1,7,3.716090672612412e-4
+Tanzania,1374,36453,710,18837,2300,Preschool and kindergarten teachers,1,6,3.1852205765249244e-4
+Tanzania,1374,36453,710,18837,7800,Bakers,1,5,2.654350480437437e-4
+Tanzania,1374,36453,710,18837,0540,"Claims adjusters, appraisers, examiners, and investigators",1,3,1.5926102882624622e-4

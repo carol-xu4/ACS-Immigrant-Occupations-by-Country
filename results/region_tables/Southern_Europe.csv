@@ -1,495 +1,503 @@
-bpl_region,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Southern Europe,41022,850366,16125,370765,0440,Other managers,672,15893,0.04286542688765121
-Southern Europe,41022,850366,16125,370765,2205,Postsecondary teachers,586,12142,0.03274850646636009
-Southern Europe,41022,850366,16125,370765,9130,Driver/sales workers and truck drivers,271,7529,0.0203066632503068
-Southern Europe,41022,850366,16125,370765,4220,Janitors and building cleaners,280,6953,0.01875311855218265
-Southern Europe,41022,850366,16125,370765,0010,Chief executives and legislators,310,6611,0.017830701387671438
-Southern Europe,41022,850366,16125,370765,2310,Elementary and middle school teachers,292,6569,0.01771742208676655
-Southern Europe,41022,850366,16125,370765,1021,Software developers,301,6470,0.017450406591776463
-Southern Europe,41022,850366,16125,370765,4700,First-line supervisors of retail sales workers,273,6469,0.01744770946556444
-Southern Europe,41022,850366,16125,370765,6260,Construction laborers,243,6449,0.01739376694132402
-Southern Europe,41022,850366,16125,370765,4020,Cooks,227,6107,0.016471349776812805
-Southern Europe,41022,850366,16125,370765,0310,Food service managers,216,5505,0.014847679797176109
-Southern Europe,41022,850366,16125,370765,4110,Waiters and waitresses,217,5155,0.013903685622968728
-Southern Europe,41022,850366,16125,370765,0800,Accountants and auditors,194,4934,0.013307620730112065
-Southern Europe,41022,850366,16125,370765,0120,Financial managers,248,4867,0.013126913273906653
-Southern Europe,41022,850366,16125,370765,4760,Retail salespersons,220,4778,0.012886869041036775
-Southern Europe,41022,850366,16125,370765,2545,Teaching assistants,226,4765,0.012851806400280502
-Southern Europe,41022,850366,16125,370765,1760,"Physical scientists, all other",219,4637,0.012506574245141802
-Southern Europe,41022,850366,16125,370765,5240,Customer service representatives,196,4578,0.012347443798632557
-Southern Europe,41022,850366,16125,370765,5740,"Secretaries and administrative assistants, except legal, medical, and executive",181,4262,0.011495151915633892
-Southern Europe,41022,850366,16125,370765,4230,Maids and housekeeping cleaners,163,4218,0.011376478362304964
-Southern Europe,41022,850366,16125,370765,3255,Registered nurses,163,3540,0.009547826790554664
-Southern Europe,41022,850366,16125,370765,2320,Secondary school teachers,164,3518,0.0094884900138902
-Southern Europe,41022,850366,16125,370765,4720,Cashiers,134,3477,0.009377907839197334
-Southern Europe,41022,850366,16125,370765,9620,"Laborers and freight, stock, and material movers, hand",147,3447,0.009296994052836703
-Southern Europe,41022,850366,16125,370765,0020,General and operations managers,166,3278,0.008841179723005138
-Southern Europe,41022,850366,16125,370765,5120,"Bookkeeping, accounting, and auditing clerks",133,3277,0.008838482596793117
-Southern Europe,41022,850366,16125,370765,0220,Construction managers,125,3065,0.008266691839844645
-Southern Europe,41022,850366,16125,370765,0710,Management analysts,140,2983,0.008045527490458917
-Southern Europe,41022,850366,16125,370765,6230,Carpenters,115,2922,0.00788100279152563
-Southern Europe,41022,850366,16125,370765,3090,Physicians,140,2879,0.007765026364408722
-Southern Europe,41022,850366,16125,370765,4710,First-line supervisors of non-retail sales workers,124,2754,0.007427885587906086
-Southern Europe,41022,850366,16125,370765,4600,Childcare workers,114,2717,0.007328091918061306
-Southern Europe,41022,850366,16125,370765,4510,"Hairdressers, hairstylists, and cosmetologists",121,2716,0.007325394791849285
-Southern Europe,41022,850366,16125,370765,4850,"Sales representatives, wholesale and manufacturing",121,2621,0.007069167801707281
-Southern Europe,41022,850366,16125,370765,4000,Chefs and head cooks,112,2600,0.007012528151254838
-Southern Europe,41022,850366,16125,370765,6355,Electricians,93,2597,0.007004436772618775
-Southern Europe,41022,850366,16125,370765,0110,Computer and information systems managers,119,2546,0.006866883335805699
-Southern Europe,41022,850366,16125,370765,5860,"Office clerks, general",113,2514,0.006780575297021024
-Southern Europe,41022,850366,16125,370765,9645,Stockers and order fillers,89,2464,0.006645718986419969
-Southern Europe,41022,850366,16125,370765,3602,Personal care aides,95,2339,0.006308578209917333
-Southern Europe,41022,850366,16125,370765,0705,Project management specialists,111,2315,0.006243847180828827
-Southern Europe,41022,850366,16125,370765,5000,First-line supervisors of office and administrative support workers,110,2310,0.006230361549768721
-Southern Europe,41022,850366,16125,370765,6410,Painters and paperhangers,79,2307,0.006222270171132658
-Southern Europe,41022,850366,16125,370765,2100,"Lawyers, and judges, magistrates, and other judicial workers",102,2305,0.006216875918708616
-Southern Europe,41022,850366,16125,370765,6200,First-line supervisors of construction trades and extraction workers,103,2271,0.006125173627499899
-Southern Europe,41022,850366,16125,370765,7200,Automotive service technicians and mechanics,83,2252,0.006073928229471498
-Southern Europe,41022,850366,16125,370765,3603,Nursing assistants,74,2204,0.005944466171294485
-Southern Europe,41022,850366,16125,370765,1650,Other life scientists,104,2193,0.0059147977829622535
-Southern Europe,41022,850366,16125,370765,2300,Preschool and kindergarten teachers,83,2166,0.005841975375237684
-Southern Europe,41022,850366,16125,370765,0052,Sales managers,96,2161,0.005828489744177579
-Southern Europe,41022,850366,16125,370765,7340,"Maintenance and repair workers, general",80,2086,0.005626205278275997
-Southern Europe,41022,850366,16125,370765,1530,Other engineers,99,2072,0.005588445511307702
-Southern Europe,41022,850366,16125,370765,0230,Education and childcare administrators,93,2070,0.00558305125888366
-Southern Europe,41022,850366,16125,370765,8990,"Miscellaneous production workers, including equipment operators and tenders",101,2048,0.005523714482219196
-Southern Europe,41022,850366,16125,370765,1360,Civil engineers,85,2011,0.005423920812374415
-Southern Europe,41022,850366,16125,370765,7750,Other assemblers and fabricators,73,1947,0.005251304734805065
-Southern Europe,41022,850366,16125,370765,4030,Food preparation workers,84,1918,0.005173088074656454
-Southern Europe,41022,850366,16125,370765,0630,Human resources workers,81,1894,0.005108357045567947
-Southern Europe,41022,850366,16125,370765,1108,"Computer occupations, all other",88,1876,0.005059808773751568
-Southern Europe,41022,850366,16125,370765,0051,Marketing managers,85,1874,0.0050544145213275255
-Southern Europe,41022,850366,16125,370765,4251,Landscaping and groundskeeping workers,70,1863,0.005024746132995294
-Southern Europe,41022,850366,16125,370765,0410,"Property, real estate, and community association managers",82,1846,0.004978894987390935
-Southern Europe,41022,850366,16125,370765,0350,Medical and health services managers,80,1810,0.004881798443758176
-Southern Europe,41022,850366,16125,370765,2360,Other teachers and instructors,90,1757,0.004738850754521058
-Southern Europe,41022,850366,16125,370765,6442,"Plumbers, pipefitters, and steamfitters",74,1752,0.004725365123460952
-Southern Europe,41022,850366,16125,370765,7700,First-line supervisors of production and operating workers,67,1651,0.004452955376046822
-Southern Europe,41022,850366,16125,370765,0845,Financial and investment analysts,64,1617,0.004361253084838105
-Southern Europe,41022,850366,16125,370765,4920,Real estate brokers and sales agents,85,1592,0.004293824929537578
-Southern Europe,41022,850366,16125,370765,5400,Receptionists and information clerks,78,1519,0.004096934716060038
-Southern Europe,41022,850366,16125,370765,5940,Other office and administrative support workers,53,1513,0.0040807519587879116
-Southern Europe,41022,850366,16125,370765,0750,"Business operations specialists, all other",69,1442,0.003889255997734414
-Southern Europe,41022,850366,16125,370765,3645,Medical assistants,49,1414,0.0038137364637978234
-Southern Europe,41022,850366,16125,370765,1240,Other mathematical science occupations,75,1396,0.003765188191981444
-Southern Europe,41022,850366,16125,370765,0160,"Transportation, storage, and distribution managers",44,1384,0.0037328226774371908
-Southern Europe,41022,850366,16125,370765,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",56,1375,0.0037085485415290008
-Southern Europe,41022,850366,16125,370765,9142,Taxi drivers,50,1357,0.0036600002697126212
-Southern Europe,41022,850366,16125,370765,8740,"Inspectors, testers, sorters, samplers, and weighers",48,1332,0.003592572114412094
-Southern Europe,41022,850366,16125,370765,1305,"Architects, except landscape and naval",73,1309,0.0035305382115356086
-Southern Europe,41022,850366,16125,370765,1050,Computer support specialists,65,1294,0.0034900813183552926
-Southern Europe,41022,850366,16125,370765,3930,Security guards and gaming surveillance officers,56,1279,0.003449624425174976
-Southern Europe,41022,850366,16125,370765,1006,Computer systems analysts,66,1254,0.003382196269874449
-Southern Europe,41022,850366,16125,370765,3601,Home health aides,38,1227,0.0033093738621498793
-Southern Europe,41022,850366,16125,370765,4010,First-line supervisors of food preparation and serving workers,40,1208,0.0032581284641214786
-Southern Europe,41022,850366,16125,370765,7315,"Heating, air conditioning, and refrigeration mechanics and installers",37,1187,0.0032014888136690355
-Southern Europe,41022,850366,16125,370765,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",44,1178,0.003177214677760846
-Southern Europe,41022,850366,16125,370765,3870,Police officers,44,1173,0.00316372904670074
-Southern Europe,41022,850366,16125,370765,2640,Other designers,56,1150,0.0031016951438242553
-Southern Europe,41022,850366,16125,370765,2600,Artists and related workers,47,1102,0.0029722330856472427
-Southern Europe,41022,850366,16125,370765,2145,Paralegals and legal assistants,48,1098,0.0029614445807991585
-Southern Europe,41022,850366,16125,370765,0850,Personal financial advisors,52,1088,0.0029344733186789478
-Southern Europe,41022,850366,16125,370765,1410,Electrical and electronics engineers,53,1054,0.0028427710274702305
-Southern Europe,41022,850366,16125,370765,6240,"Carpet, floor, and tile installers and finishers",36,1036,0.002794222755653851
-Southern Europe,41022,850366,16125,370765,0140,Industrial production managers,48,1028,0.002772645745957682
-Southern Europe,41022,850366,16125,370765,4810,Insurance sales agents,47,996,0.0026863377071730072
-Southern Europe,41022,850366,16125,370765,0540,"Claims adjusters, appraisers, examiners, and investigators",31,986,0.002659366445052796
-Southern Europe,41022,850366,16125,370765,5510,Couriers and messengers,39,981,0.0026458808139926907
-Southern Europe,41022,850366,16125,370765,0300,Architectural and engineering managers,48,963,0.002597332542176311
-Southern Europe,41022,850366,16125,370765,4200,First-line supervisors of housekeeping and janitorial workers,43,936,0.0025245101344517416
-Southern Europe,41022,850366,16125,370765,0735,Market research analysts and marketing specialists,45,932,0.0025137216296036574
-Southern Europe,41022,850366,16125,370765,4055,Fast food and counter workers,41,932,0.0025137216296036574
-Southern Europe,41022,850366,16125,370765,4965,"Sales and related workers, all other",32,922,0.0024867503674834463
-Southern Europe,41022,850366,16125,370765,1555,"Other engineering technologists and technicians, except drafters",39,916,0.0024705676102113197
-Southern Europe,41022,850366,16125,370765,1970,"Other life, physical, and social science technicians",35,910,0.0024543848529391932
-Southern Europe,41022,850366,16125,370765,3640,Dental assistants,34,887,0.0023923509500627083
-Southern Europe,41022,850366,16125,370765,8225,Other metal workers and plastic workers,42,880,0.0023734710665785606
-Southern Europe,41022,850366,16125,370765,3050,Pharmacists,38,860,0.0023195285423381388
-Southern Europe,41022,850366,16125,370765,2861,Interpreters and translators,36,856,0.0023087400374900546
-Southern Europe,41022,850366,16125,370765,6305,Construction equipment operators,42,856,0.0023087400374900546
-Southern Europe,41022,850366,16125,370765,3300,Clinical laboratory technologists and technicians,28,835,0.0022521003870376115
-Southern Europe,41022,850366,16125,370765,9600,Industrial truck and tractor operators,14,831,0.002241311882189527
-Southern Europe,41022,850366,16125,370765,5710,Executive secretaries and executive administrative assistants,36,830,0.002238614755977506
-Southern Europe,41022,850366,16125,370765,0565,Compliance officers,38,827,0.0022305233773414427
-Southern Europe,41022,850366,16125,370765,0420,Social and community service managers,39,814,0.0021954607365851685
-Southern Europe,41022,850366,16125,370765,7800,Bakers,42,794,0.0021415182123447466
-Southern Europe,41022,850366,16125,370765,0910,Credit counselors and loan officers,35,786,0.002119941202648578
-Southern Europe,41022,850366,16125,370765,2634,Graphic designers,33,769,0.0020740900570442194
-Southern Europe,41022,850366,16125,370765,5110,Billing and posting clerks,32,768,0.0020713929308321982
-Southern Europe,41022,850366,16125,370765,1010,Computer programmers,32,763,0.002057907299772093
-Southern Europe,41022,850366,16125,370765,5160,Tellers,33,761,0.0020525130473480506
-Southern Europe,41022,850366,16125,370765,7000,"First-line supervisors of mechanics, installers, and repairers",19,753,0.0020309360376518817
-Southern Europe,41022,850366,16125,370765,4820,"Securities, commodities, and financial services sales agents",34,739,0.001993176270683587
-Southern Europe,41022,850366,16125,370765,2014,"Social workers, all other",32,733,0.0019769935134114603
-Southern Europe,41022,850366,16125,370765,7330,Industrial and refractory machinery mechanics,34,708,0.0019095653581109328
-Southern Europe,41022,850366,16125,370765,1350,Chemical engineers,10,690,0.001861017086294553
-Southern Europe,41022,850366,16125,370765,8140,"Welding, soldering, and brazing workers",27,686,0.0018502285814464689
-Southern Europe,41022,850366,16125,370765,0150,Purchasing managers,25,680,0.0018340458241743421
-Southern Europe,41022,850366,16125,370765,1430,"Industrial engineers, including health and safety",29,671,0.0018097716882661524
-Southern Europe,41022,850366,16125,370765,5610,"Shipping, receiving, and inventory clerks",30,650,0.0017531320378137095
-Southern Europe,41022,850366,16125,370765,9030,Aircraft pilots and flight engineers,26,638,0.0017207665232694563
-Southern Europe,41022,850366,16125,370765,3421,Pharmacy technicians,32,628,0.0016937952611492456
-Southern Europe,41022,850366,16125,370765,2710,Producers and directors,34,626,0.0016884010087252032
-Southern Europe,41022,850366,16125,370765,1460,Mechanical engineers,29,610,0.0016452469893328658
-Southern Europe,41022,850366,16125,370765,2722,Coaches and scouts,30,607,0.0016371556106968025
-Southern Europe,41022,850366,16125,370765,6515,Roofers,19,582,0.0015697274553962753
-Southern Europe,41022,850366,16125,370765,1007,Information security analysts,20,581,0.0015670303291842541
-Southern Europe,41022,850366,16125,370765,3310,Dental hygienists,15,579,0.001561636076760212
-Southern Europe,41022,850366,16125,370765,3500,Licensed practical and licensed vocational nurses,19,579,0.001561636076760212
-Southern Europe,41022,850366,16125,370765,8030,Machinists,25,570,0.0015373619408520223
-Southern Europe,41022,850366,16125,370765,3740,Firefighters,11,569,0.0015346648146400011
-Southern Europe,41022,850366,16125,370765,4130,Dining room and cafeteria attendants and bartender helpers,20,564,0.0015211791835798955
-Southern Europe,41022,850366,16125,370765,4350,Animal caretakers,16,555,0.0014969050476717058
-Southern Europe,41022,850366,16125,370765,7640,"Other installation, maintenance, and repair workers",22,554,0.0014942079214596848
-Southern Europe,41022,850366,16125,370765,1700,Astronomers and physicists,32,552,0.0014888136690356425
-Southern Europe,41022,850366,16125,370765,2330,Special education teachers,27,546,0.001472630911763516
-Southern Europe,41022,850366,16125,370765,0205,"Farmers, ranchers, and other agricultural managers",26,545,0.0014699337855514948
-Southern Europe,41022,850366,16125,370765,2002,"Educational, guidance, and career counselors and advisors",29,545,0.0014699337855514948
-Southern Europe,41022,850366,16125,370765,2635,Interior designers,26,545,0.0014699337855514948
-Southern Europe,41022,850366,16125,370765,4040,Bartenders,26,545,0.0014699337855514948
-Southern Europe,41022,850366,16125,370765,2850,Writers and authors,21,544,0.0014672366593394739
-Southern Europe,41022,850366,16125,370765,1800,Economists,33,537,0.0014483567758553262
-Southern Europe,41022,850366,16125,370765,4140,Dishwashers,26,533,0.0014375682710072418
-Southern Europe,41022,850366,16125,370765,0700,Logisticians,20,529,0.0014267797661591574
-Southern Europe,41022,850366,16125,370765,9610,Cleaners of vehicles and equipment,17,526,0.001418688387523094
-Southern Europe,41022,850366,16125,370765,5165,Other financial clerks,20,525,0.001415991261311073
-Southern Europe,41022,850366,16125,370765,9640,"Packers and packagers, hand",28,520,0.0014025056302509676
-Southern Europe,41022,850366,16125,370765,9005,Supervisors of transportation and material moving workers,21,518,0.0013971113778269255
-Southern Europe,41022,850366,16125,370765,9050,Flight attendants,24,508,0.0013701401157067146
-Southern Europe,41022,850366,16125,370765,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",27,505,0.0013620487370706513
-Southern Europe,41022,850366,16125,370765,2040,Clergy,35,500,0.0013485631060105457
-Southern Europe,41022,850366,16125,370765,4120,"Food servers, nonrestaurant",20,496,0.0013377746011624613
-Southern Europe,41022,850366,16125,370765,4530,"Baggage porters, bellhops, and concierges",21,487,0.0013135004652542715
-Southern Europe,41022,850366,16125,370765,9122,"Bus drivers, transit and intercity",26,476,0.0012838320769220396
-Southern Europe,41022,850366,16125,370765,6050,Other agricultural workers,27,466,0.0012568608148018287
-Southern Europe,41022,850366,16125,370765,8320,Sewing machine operators,21,465,0.0012541636885898075
-Southern Europe,41022,850366,16125,370765,0340,Lodging managers,22,456,0.0012298895526816178
-Southern Europe,41022,850366,16125,370765,1825,Other psychologists,23,455,0.0012271924264695966
-Southern Europe,41022,850366,16125,370765,2016,Social and human service assistants,21,454,0.0012244953002575755
-Southern Europe,41022,850366,16125,370765,2350,Tutors,27,450,0.0012137067954094913
-Southern Europe,41022,850366,16125,370765,2752,Musicians and singers,18,449,0.00121100966919747
-Southern Europe,41022,850366,16125,370765,4621,Exercise trainers and group fitness instructors,24,433,0.0011678556498051326
-Southern Europe,41022,850366,16125,370765,7150,Automotive body and related repairers,18,422,0.0011381872614729005
-Southern Europe,41022,850366,16125,370765,2910,Photographers,36,421,0.0011354901352608796
-Southern Europe,41022,850366,16125,370765,3110,Physician assistants,19,420,0.0011327930090488584
-Southern Europe,41022,850366,16125,370765,9121,"Bus drivers, school",23,414,0.001116610251776732
-Southern Europe,41022,850366,16125,370765,1105,Network and computer systems administrators,19,408,0.0011004274945046054
-Southern Europe,41022,850366,16125,370765,3258,"Nurse practitioners, and nurse midwives",12,406,0.001095033242080563
-Southern Europe,41022,850366,16125,370765,5420,Other information and records clerks,10,405,0.0010923361158685421
-Southern Europe,41022,850366,16125,370765,5550,Postal service mail carriers,24,378,0.0010195137081439726
-Southern Europe,41022,850366,16125,370765,1610,Biological scientists,18,373,0.0010060280770838672
-Southern Europe,41022,850366,16125,370765,6115,Fishing and hunting workers,11,371,0.001000633824659825
-Southern Europe,41022,850366,16125,370765,6330,"Drywall installers, ceiling tile installers, and tapers",7,368,9.925424460237617e-4
-Southern Europe,41022,850366,16125,370765,3323,Radiologic technologists and technicians,19,366,9.871481935997196e-4
-Southern Europe,41022,850366,16125,370765,8255,Printing press operators,14,364,9.817539411756772e-4
-Southern Europe,41022,850366,16125,370765,2555,Other educational instruction and library workers,15,362,9.763596887516351e-4
-Southern Europe,41022,850366,16125,370765,0530,"Purchasing agents, except wholesale, retail, and farm products",20,359,9.682683101155719e-4
-Southern Europe,41022,850366,16125,370765,2751,Music directors and composers,19,356,9.601769314795086e-4
-Southern Europe,41022,850366,16125,370765,1106,Computer network architects,13,348,9.385999217833399e-4
-Southern Europe,41022,850366,16125,370765,2440,Library technicians,4,344,9.278114169352555e-4
-Southern Europe,41022,850366,16125,370765,3220,Respiratory therapists,7,342,9.224171645112133e-4
-Southern Europe,41022,850366,16125,370765,3010,Dentists,16,340,9.170229120871711e-4
-Southern Europe,41022,850366,16125,370765,3820,Detectives and criminal investigators,12,333,8.981430286030235e-4
-Southern Europe,41022,850366,16125,370765,4435,Other entertainment attendants and related workers,16,333,8.981430286030235e-4
-Southern Europe,41022,850366,16125,370765,1720,Chemists and materials scientists,17,330,8.900516499669602e-4
-Southern Europe,41022,850366,16125,370765,5810,Data entry keyers,11,330,8.900516499669602e-4
-Southern Europe,41022,850366,16125,370765,0136,Human resources managers,16,323,8.711717664828126e-4
-Southern Europe,41022,850366,16125,370765,2435,Librarians and media collections specialists,17,323,8.711717664828126e-4
-Southern Europe,41022,850366,16125,370765,8800,Packaging and filling machine operators and tenders,15,322,8.684746402707915e-4
-Southern Europe,41022,850366,16125,370765,2825,Public relations specialists,13,319,8.603832616347281e-4
-Southern Europe,41022,850366,16125,370765,5730,Medical secretaries and administrative assistants,16,319,8.603832616347281e-4
-Southern Europe,41022,850366,16125,370765,3545,Miscellaneous health technologists and technicians,16,316,8.522918829986649e-4
-Southern Europe,41022,850366,16125,370765,3160,Physical therapists,21,308,8.307148733024962e-4
-Southern Europe,41022,850366,16125,370765,7810,"Butchers and other meat, poultry, and fish processing workers",11,304,8.199263684544118e-4
-Southern Europe,41022,850366,16125,370765,2400,"Archivists, curators, and museum technicians",13,303,8.172292422423907e-4
-Southern Europe,41022,850366,16125,370765,4500,Barbers,11,296,7.983493587582431e-4
-Southern Europe,41022,850366,16125,370765,7210,Bus and truck mechanics and diesel engine specialists,13,296,7.983493587582431e-4
-Southern Europe,41022,850366,16125,370765,4521,Manicurists and pedicurists,9,294,7.929551063342009e-4
-Southern Europe,41022,850366,16125,370765,1220,Operations research analysts,13,277,7.471039607298424e-4
-Southern Europe,41022,850366,16125,370765,5360,"Human resources assistants, except payroll and timekeeping",8,276,7.444068345178212e-4
-Southern Europe,41022,850366,16125,370765,2920,"Television, video, and film camera operators and editors",18,275,7.417097083058002e-4
-Southern Europe,41022,850366,16125,370765,0650,Training and development specialists,12,274,7.39012582093779e-4
-Southern Europe,41022,850366,16125,370765,2905,Other media and communication equipment workers,12,274,7.39012582093779e-4
-Southern Europe,41022,850366,16125,370765,4830,Travel agents,15,273,7.36315455881758e-4
-Southern Europe,41022,850366,16125,370765,3515,Medical records specialists,15,271,7.309212034577158e-4
-Southern Europe,41022,850366,16125,370765,8610,Stationary engineers and boiler operators,13,270,7.282240772456947e-4
-Southern Europe,41022,850366,16125,370765,7130,Security and fire alarm systems installers,10,268,7.228298248216525e-4
-Southern Europe,41022,850366,16125,370765,0102,Facilities managers,16,265,7.147384461855893e-4
-Southern Europe,41022,850366,16125,370765,3649,Phlebotomists,14,264,7.120413199735682e-4
-Southern Europe,41022,850366,16125,370765,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",9,264,7.120413199735682e-4
-Southern Europe,41022,850366,16125,370765,5310,"Interviewers, except eligibility and loan",17,264,7.120413199735682e-4
-Southern Europe,41022,850366,16125,370765,0520,"Wholesale and retail buyers, except farm products",15,260,7.012528151254838e-4
-Southern Europe,41022,850366,16125,370765,6660,Construction and building inspectors,9,257,6.931614364894205e-4
-Southern Europe,41022,850366,16125,370765,1860,Other social scientists,9,256,6.904643102773995e-4
-Southern Europe,41022,850366,16125,370765,2001,Substance abuse and behavioral disorder counselors,8,256,6.904643102773995e-4
-Southern Europe,41022,850366,16125,370765,3245,Other therapists,13,256,6.904643102773995e-4
-Southern Europe,41022,850366,16125,370765,5600,"Production, planning, and expediting clerks",19,256,6.904643102773995e-4
-Southern Europe,41022,850366,16125,370765,3550,Other healthcare practitioners and technical occupations,10,253,6.823729316413361e-4
-Southern Europe,41022,850366,16125,370765,1031,Web developers,12,252,6.796758054293151e-4
-Southern Europe,41022,850366,16125,370765,7430,Precision instrument and equipment repairers,9,252,6.796758054293151e-4
-Southern Europe,41022,850366,16125,370765,2721,Athletes and sports competitors,4,251,6.76978679217294e-4
-Southern Europe,41022,850366,16125,370765,5140,Payroll and timekeeping clerks,16,251,6.76978679217294e-4
-Southern Europe,41022,850366,16125,370765,2633,Floral designers,8,248,6.688873005812306e-4
-Southern Europe,41022,850366,16125,370765,0040,Advertising and promotions managers,10,242,6.527045433091041e-4
-Southern Europe,41022,850366,16125,370765,3322,Diagnostic medical sonographers,14,242,6.527045433091041e-4
-Southern Europe,41022,850366,16125,370765,0830,Credit analysts,8,241,6.500074170970831e-4
-Southern Europe,41022,850366,16125,370765,2810,"News analysts, reporters, and journalists",12,241,6.500074170970831e-4
-Southern Europe,41022,850366,16125,370765,5840,Insurance claims and policy processing clerks,13,240,6.473102908850619e-4
-Southern Europe,41022,850366,16125,370765,6441,Pipelayers,6,239,6.446131646730409e-4
-Southern Europe,41022,850366,16125,370765,0960,Other financial specialists,14,237,6.392189122489987e-4
-Southern Europe,41022,850366,16125,370765,7720,"Electrical, electronics, and electromechanical assemblers",13,237,6.392189122489987e-4
-Southern Europe,41022,850366,16125,370765,4622,Recreation workers,8,233,6.284304074009144e-4
-Southern Europe,41022,850366,16125,370765,7855,"Food processing workers, all other",6,228,6.149447763408089e-4
-Southern Europe,41022,850366,16125,370765,1065,Database administrators and architects,14,220,5.933677666446402e-4
-Southern Europe,41022,850366,16125,370765,3030,Dietitians and nutritionists,8,220,5.933677666446402e-4
-Southern Europe,41022,850366,16125,370765,7840,Food batchmakers,8,216,5.825792617965557e-4
-Southern Europe,41022,850366,16125,370765,3100,Surgeons,11,215,5.798821355845347e-4
-Southern Europe,41022,850366,16125,370765,6520,Sheet metal workers,14,213,5.744878831604925e-4
-Southern Europe,41022,850366,16125,370765,3655,Other healthcare support workers,11,211,5.690936307364503e-4
-Southern Europe,41022,850366,16125,370765,1320,Aerospace engineers,14,207,5.58305125888366e-4
-Southern Europe,41022,850366,16125,370765,3802,Correctional officers and jailers,11,206,5.556079996763448e-4
-Southern Europe,41022,850366,16125,370765,0060,Public relations and fundraising managers,7,205,5.529108734643238e-4
-Southern Europe,41022,850366,16125,370765,3910,Private detectives and investigators,13,205,5.529108734643238e-4
-Southern Europe,41022,850366,16125,370765,3630,Massage therapists,10,204,5.502137472523027e-4
-Southern Europe,41022,850366,16125,370765,9430,Other transportation workers,8,204,5.502137472523027e-4
-Southern Europe,41022,850366,16125,370765,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,7,203,5.475166210402815e-4
-Southern Europe,41022,850366,16125,370765,3321,Cardiovascular technologists and technicians,8,202,5.448194948282605e-4
-Southern Europe,41022,850366,16125,370765,3620,Physical therapist assistants and aides,6,202,5.448194948282605e-4
-Southern Europe,41022,850366,16125,370765,2006,"Counselors, all other",12,201,5.421223686162394e-4
-Southern Europe,41022,850366,16125,370765,4525,Other personal appearance workers,5,199,5.367281161921972e-4
-Southern Europe,41022,850366,16125,370765,5260,File clerks,9,199,5.367281161921972e-4
-Southern Europe,41022,850366,16125,370765,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
-						and plastic",6,198,5.340309899801761e-4
-Southern Europe,41022,850366,16125,370765,8620,Water and wastewater treatment plant and system operators,7,198,5.340309899801761e-4
-Southern Europe,41022,850366,16125,370765,4400,Gambling services workers,8,197,5.31333863768155e-4
-Southern Europe,41022,850366,16125,370765,1551,Electrical and electronic engineering technologists and technicians,12,196,5.28636737556134e-4
-Southern Europe,41022,850366,16125,370765,7040,"Electric motor, power tool, and related repairers",5,195,5.259396113441128e-4
-Southern Europe,41022,850366,16125,370765,0930,"Tax examiners and collectors, and revenue agents",5,194,5.232424851320918e-4
-Southern Europe,41022,850366,16125,370765,5330,Loan interviewers and clerks,8,193,5.205453589200707e-4
-Southern Europe,41022,850366,16125,370765,5410,Reservation and transportation ticket agents and travel clerks,13,190,5.124539802840074e-4
-Southern Europe,41022,850366,16125,370765,9760,Other material moving workers,6,190,5.124539802840074e-4
-Southern Europe,41022,850366,16125,370765,0335,Entertainment and recreation managers,7,189,5.097568540719863e-4
-Southern Europe,41022,850366,16125,370765,9141,Shuttle drivers and chauffeurs,6,188,0.00050705972785996525
-Southern Europe,41022,850366,16125,370765,4522,Skincare specialists,8,187,5.043626016479441e-4
-Southern Europe,41022,850366,16125,370765,3324,Magnetic resonance imaging technologists,7,186,5.01665475435923e-4
-Southern Europe,41022,850366,16125,370765,0600,Cost estimators,9,185,4.989683492239019e-4
-Southern Europe,41022,850366,16125,370765,2840,Technical writers,10,185,4.989683492239019e-4
-Southern Europe,41022,850366,16125,370765,7020,Radio and telecommunications equipment installers and repairers,10,185,4.989683492239019e-4
-Southern Europe,41022,850366,16125,370765,2830,Editors,9,184,4.962712230118808e-4
-Southern Europe,41022,850366,16125,370765,3422,Psychiatric technicians,5,179,4.8278559195177536e-4
-Southern Europe,41022,850366,16125,370765,5522,"Dispatchers, except police, fire, and ambulance",13,179,4.8278559195177536e-4
-Southern Europe,41022,850366,16125,370765,0640,"Compensation, benefits, and job analysis specialists",7,178,4.800884657397543e-4
-Southern Europe,41022,850366,16125,370765,7905,Computer numerically controlled tool operators and programmers,8,177,4.773913395277332e-4
-Southern Europe,41022,850366,16125,370765,8920,"Molders, shapers, and casters, except metal and plastic",2,177,4.773913395277332e-4
-Southern Europe,41022,850366,16125,370765,9350,Parking attendants,8,168,4.531172036195434e-4
-Southern Europe,41022,850366,16125,370765,3520,"Opticians, dispensing",6,167,4.504200774075223e-4
-Southern Europe,41022,850366,16125,370765,8350,"Tailors, dressmakers, and sewers",13,166,4.4772295119550117e-4
-Southern Europe,41022,850366,16125,370765,3402,Paramedics,4,165,4.450258249834801e-4
-Southern Europe,41022,850366,16125,370765,0860,Insurance underwriters,12,162,4.369344463474168e-4
-Southern Europe,41022,850366,16125,370765,8300,Laundry and dry-cleaning workers,9,160,4.3154019392337465e-4
-Southern Europe,41022,850366,16125,370765,1560,Surveying and mapping technicians,6,159,4.2884306771135355e-4
-Southern Europe,41022,850366,16125,370765,9830,"Military, rank not specified",8,159,4.2884306771135355e-4
-Southern Europe,41022,850366,16125,370765,0500,"Agents and business managers of artists, performers, and athletes",8,154,4.153574366512481e-4
-Southern Europe,41022,850366,16125,370765,4900,"Models, demonstrators, and product promoters",6,154,4.153574366512481e-4
-Southern Europe,41022,850366,16125,370765,8950,Helpers--production workers,6,154,4.153574366512481e-4
-Southern Europe,41022,850366,16125,370765,7220,Heavy vehicle and mobile equipment service technicians and mechanics,10,153,4.1266031043922703e-4
-Southern Europe,41022,850366,16125,370765,1980,Occupational health and safety specialists and technicians,9,150,4.045689318031637e-4
-Southern Europe,41022,850366,16125,370765,5010,"Switchboard operators, including answering service",1,150,4.045689318031637e-4
-Southern Europe,41022,850366,16125,370765,2770,"Entertainers and performers, sports and related workers, all other",4,148,3.9917467937912156e-4
-Southern Europe,41022,850366,16125,370765,0900,Financial examiners,3,146,3.9378042695507935e-4
-Southern Europe,41022,850366,16125,370765,2632,Fashion designers,5,146,3.9378042695507935e-4
-Southern Europe,41022,850366,16125,370765,9410,Transportation inspectors,8,146,3.9378042695507935e-4
-Southern Europe,41022,850366,16125,370765,2805,Broadcast announcers and radio disc jockeys,8,143,3.856890483190161e-4
-Southern Europe,41022,850366,16125,370765,3250,Veterinarians,9,143,3.856890483190161e-4
-Southern Europe,41022,850366,16125,370765,4800,Advertising sales agents,7,143,3.856890483190161e-4
-Southern Europe,41022,850366,16125,370765,9720,Refuse and recyclable material collectors,4,143,3.856890483190161e-4
-Southern Europe,41022,850366,16125,370765,0101,Administrative services managers,7,142,3.82991922106995e-4
-Southern Europe,41022,850366,16125,370765,4655,"Personal care and service workers, all other",9,142,3.82991922106995e-4
-Southern Europe,41022,850366,16125,370765,1440,Marine engineers and naval architects,6,140,3.7759766968295283e-4
-Southern Europe,41022,850366,16125,370765,1400,Computer hardware engineers,8,139,3.7490054347093173e-4
-Southern Europe,41022,850366,16125,370765,5350,Correspondence clerks and order clerks,6,139,3.7490054347093173e-4
-Southern Europe,41022,850366,16125,370765,3423,Surgical technologists,8,137,3.695062910468895e-4
-Southern Europe,41022,850366,16125,370765,3710,First-line supervisors of police and detectives,6,136,3.6680916483486847e-4
-Southern Europe,41022,850366,16125,370765,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",7,136,3.6680916483486847e-4
-Southern Europe,41022,850366,16125,370765,1822,School psychologists,5,135,3.6411203862284737e-4
-Southern Europe,41022,850366,16125,370765,8710,Cutting workers,5,133,3.5871778619880516e-4
-Southern Europe,41022,850366,16125,370765,6400,Insulation workers,3,132,3.560206599867841e-4
-Southern Europe,41022,850366,16125,370765,2015,Probation officers and correctional treatment specialists,7,131,3.53323533774763e-4
-Southern Europe,41022,850366,16125,370765,0940,Tax preparers,6,130,3.506264075627419e-4
-Southern Europe,41022,850366,16125,370765,1005,Computer and information research scientists,7,130,3.506264075627419e-4
-Southern Europe,41022,850366,16125,370765,2636,Merchandise displayers and window trimmers,8,130,3.506264075627419e-4
-Southern Europe,41022,850366,16125,370765,2004,Mental health counselors,8,127,3.4253502892667864e-4
-Southern Europe,41022,850366,16125,370765,0726,Fundraisers,8,126,3.3983790271465753e-4
-Southern Europe,41022,850366,16125,370765,3605,Orderlies and psychiatric aides,4,126,3.3983790271465753e-4
-Southern Europe,41022,850366,16125,370765,1032,Web and digital interface designers,9,125,3.3714077650263643e-4
-Southern Europe,41022,850366,16125,370765,2740,Dancers and choreographers,7,123,3.317465240785943e-4
-Southern Europe,41022,850366,16125,370765,6250,"Cement masons, concrete finishers, and terrazzo workers",7,122,3.2904939786657317e-4
-Southern Europe,41022,850366,16125,370765,7140,Aircraft mechanics and service technicians,9,122,3.2904939786657317e-4
-Southern Europe,41022,850366,16125,370765,4640,Residential advisors,7,120,3.2365514544253096e-4
-Southern Europe,41022,850366,16125,370765,5850,"Mail clerks and mail machine operators, except postal service",3,120,3.2365514544253096e-4
-Southern Europe,41022,850366,16125,370765,3040,Optometrists,5,117,3.155637668064677e-4
-Southern Europe,41022,850366,16125,370765,3725,"Miscellaneous first-line supervisors, protective service workers",7,116,3.128666405944466e-4
-Southern Europe,41022,850366,16125,370765,1545,Other drafters,8,115,3.1016951438242555e-4
-Southern Europe,41022,850366,16125,370765,0360,Natural sciences managers,7,114,3.0747238817040444e-4
-Southern Europe,41022,850366,16125,370765,2003,Marriage and family therapists,5,114,3.0747238817040444e-4
-Southern Europe,41022,850366,16125,370765,1310,"Surveyors, cartographers, and photogrammetrists",7,113,3.0477526195838334e-4
-Southern Europe,41022,850366,16125,370765,4750,Parts salespersons,6,113,3.0477526195838334e-4
-Southern Europe,41022,850366,16125,370765,4950,"Door-to-door sales workers, news and street vendors, and related workers",5,113,3.0477526195838334e-4
-Southern Europe,41022,850366,16125,370765,5720,Legal secretaries and administrative assistants,7,113,3.0477526195838334e-4
-Southern Europe,41022,850366,16125,370765,7010,"Computer, automated teller, and office machine repairers",8,111,2.993810095343412e-4
-Southern Europe,41022,850366,16125,370765,6600,"Helpers, construction trades",5,102,2.7510687362615135e-4
-Southern Europe,41022,850366,16125,370765,8130,Tool and die makers,4,102,2.7510687362615135e-4
-Southern Europe,41022,850366,16125,370765,1541,Architectural and civil drafters,7,100,2.6971262120210914e-4
-Southern Europe,41022,850366,16125,370765,6825,Surface mining machine operators and earth drillers,3,100,2.6971262120210914e-4
-Southern Europe,41022,850366,16125,370765,8630,Miscellaneous plant and system operators,6,99,2.6701549499008804e-4
-Southern Europe,41022,850366,16125,370765,8810,Painting workers,5,99,2.6701549499008804e-4
-Southern Europe,41022,850366,16125,370765,3648,Veterinary assistants and laboratory animal caretakers,5,98,2.64318368778067e-4
-Southern Europe,41022,850366,16125,370765,3801,Bailiffs,2,98,2.64318368778067e-4
-Southern Europe,41022,850366,16125,370765,2180,"Legal support workers, all other",2,97,2.616212425660459e-4
-Southern Europe,41022,850366,16125,370765,0725,"Meeting, convention, and event planners",7,96,2.589241163540248e-4
-Southern Europe,41022,850366,16125,370765,1745,"Environmental scientists and specialists, including health",3,96,2.589241163540248e-4
-Southern Europe,41022,850366,16125,370765,1520,"Petroleum, mining and geological engineers, including mining safety engineers",5,95,2.562269901420037e-4
-Southern Europe,41022,850366,16125,370765,2170,"Title examiners, abstractors, and searchers",5,95,2.562269901420037e-4
-Southern Europe,41022,850366,16125,370765,3945,Transportation security screeners,5,94,2.535298639299826e-4
-Southern Europe,41022,850366,16125,370765,7360,Millwrights,3,92,2.481356115059404e-4
-Southern Europe,41022,850366,16125,370765,5300,"Hotel, motel, and resort desk clerks",6,91,2.454384852939193e-4
-Southern Europe,41022,850366,16125,370765,6700,Elevator installers and repairers,4,90,2.4274135908189823e-4
-Southern Europe,41022,850366,16125,370765,5320,"Library assistants, clerical",4,89,2.4004423286987716e-4
-Southern Europe,41022,850366,16125,370765,7410,Electrical power-line installers and repairers,3,89,2.4004423286987716e-4
-Southern Europe,41022,850366,16125,370765,5920,Statistical assistants,2,88,2.3734710665785605e-4
-Southern Europe,41022,850366,16125,370765,1340,Biomedical and agricultural engineers,7,87,2.3464998044583498e-4
-Southern Europe,41022,850366,16125,370765,1420,Environmental engineers,5,87,2.3464998044583498e-4
-Southern Europe,41022,850366,16125,370765,2060,"Religious workers, all other",8,87,2.3464998044583498e-4
-Southern Europe,41022,850366,16125,370765,4420,"Ushers, lobby attendants, and ticket takers",4,87,2.3464998044583498e-4
-Southern Europe,41022,850366,16125,370765,9825,Military enlisted tactical operations and air/weapons specialists and crew members,5,87,2.3464998044583498e-4
-Southern Europe,41022,850366,16125,370765,1750,"Geoscientists and hydrologists, except geographers",4,85,2.2925572802179277e-4
-Southern Europe,41022,850366,16125,370765,4252,Tree trimmers and pruners,4,84,2.265586018097717e-4
-Southern Europe,41022,850366,16125,370765,9630,Machine feeders and offbearers,5,84,2.265586018097717e-4
-Southern Europe,41022,850366,16125,370765,3610,Occupational therapy assistants and aides,6,83,2.2386147559775058e-4
-Southern Europe,41022,850366,16125,370765,5540,Postal service clerks,6,82,2.211643493857295e-4
-Southern Europe,41022,850366,16125,370765,4540,Tour and travel guides,6,79,2.1307297074966622e-4
-Southern Europe,41022,850366,16125,370765,7120,Electronic home entertainment equipment installers and repairers,5,79,2.1307297074966622e-4
-Southern Europe,41022,850366,16125,370765,0820,Budget analysts,6,78,2.1037584453764514e-4
-Southern Europe,41022,850366,16125,370765,7320,Home appliance repairers,3,78,2.1037584453764514e-4
-Southern Europe,41022,850366,16125,370765,5900,"Office machine operators, except computer",6,77,2.0767871832562404e-4
-Southern Europe,41022,850366,16125,370765,3230,Speech-language pathologists,4,76,2.0498159211360296e-4
-Southern Europe,41022,850366,16125,370765,5521,Public safety telecommunicators,2,76,2.0498159211360296e-4
-Southern Europe,41022,850366,16125,370765,7420,Telecommunications line installers and repairers,5,76,2.0498159211360296e-4
-Southern Europe,41022,850366,16125,370765,8830,Photographic process workers and processing machine operators,6,76,2.0498159211360296e-4
-Southern Europe,41022,850366,16125,370765,6850,Underground mining machine operators,1,73,1.9689021347753968e-4
-Southern Europe,41022,850366,16125,370765,2012,Healthcare social workers,4,72,1.941930872655186e-4
-Southern Europe,41022,850366,16125,370765,3150,Occupational therapists,4,72,1.941930872655186e-4
-Southern Europe,41022,850366,16125,370765,3430,Dietetic technicians and ophthalmic medical technicians,4,72,1.941930872655186e-4
-Southern Europe,41022,850366,16125,370765,9510,Crane and tower operators,4,72,1.941930872655186e-4
-Southern Europe,41022,850366,16125,370765,0137,Training and development managers,5,71,1.914959610534975e-4
-Southern Europe,41022,850366,16125,370765,2865,"Media and communication workers, all other",2,71,1.914959610534975e-4
-Southern Europe,41022,850366,16125,370765,2700,Actors,4,68,1.8340458241743423e-4
-Southern Europe,41022,850366,16125,370765,6730,Highway maintenance workers,3,68,1.8340458241743423e-4
-Southern Europe,41022,850366,16125,370765,6950,Other extraction workers,3,67,1.8070745620541313e-4
-Southern Europe,41022,850366,16125,370765,7510,"Coin, vending, and amusement machine servicers and repairers",4,66,1.7801032999339205e-4
-Southern Europe,41022,850366,16125,370765,3940,Crossing guards and flaggers,5,65,1.7531320378137095e-4
-Southern Europe,41022,850366,16125,370765,5230,"Credit authorizers, checkers, and clerks",1,64,1.7261607756934987e-4
-Southern Europe,41022,850366,16125,370765,1821,Clinical and counseling psychologists,4,63,1.6991895135732877e-4
-Southern Europe,41022,850366,16125,370765,7610,"Helpers--installation, maintenance, and repair workers",1,63,1.6991895135732877e-4
-Southern Europe,41022,850366,16125,370765,1022,Software quality assurance analysts and testers,5,61,0.00016452469893328658
-Southern Europe,41022,850366,16125,370765,4930,Sales engineers,3,61,0.00016452469893328658
-Southern Europe,41022,850366,16125,370765,4740,Counter and rental clerks,4,60,1.6182757272126548e-4
-Southern Europe,41022,850366,16125,370765,9150,"Motor vehicle operators, all other",5,60,1.6182757272126548e-4
-Southern Europe,41022,850366,16125,370765,9265,Other rail transportation workers,2,60,1.6182757272126548e-4
-Southern Europe,41022,850366,16125,370765,2025,Other community and social service specialists,3,59,1.591304465092444e-4
-Southern Europe,41022,850366,16125,370765,8500,Cabinetmakers and bench carpenters,3,56,1.5103906787318112e-4
-Southern Europe,41022,850366,16125,370765,8750,Jewelers and precious stone and metal workers,5,56,1.5103906787318112e-4
-Southern Europe,41022,850366,16125,370765,9415,Passenger attendants,3,56,1.5103906787318112e-4
-Southern Europe,41022,850366,16125,370765,1910,Biological technicians,4,55,1.4834194166116004e-4
-Southern Europe,41022,850366,16125,370765,5100,Bill and account collectors,4,53,1.4294768923711786e-4
-Southern Europe,41022,850366,16125,370765,3000,Chiropractors,3,52,1.4025056302509675e-4
-Southern Europe,41022,850366,16125,370765,3200,Radiation therapists,1,52,1.4025056302509675e-4
-Southern Europe,41022,850366,16125,370765,3210,Recreational therapists,2,52,1.4025056302509675e-4
-Southern Europe,41022,850366,16125,370765,4330,Supervisors of personal care and service workers,3,52,1.4025056302509675e-4
-Southern Europe,41022,850366,16125,370765,7540,Locksmiths and safe repairers,1,51,1.3755343681307568e-4
-Southern Europe,41022,850366,16125,370765,7925,"Forming machine setters, operators, and tenders, metal and plastic",2,51,1.3755343681307568e-4
-Southern Europe,41022,850366,16125,370765,2631,Commercial and industrial designers,2,50,1.3485631060105457e-4
-Southern Europe,41022,850366,16125,370765,4940,Telemarketers,1,50,1.3485631060105457e-4
-Southern Europe,41022,850366,16125,370765,1200,Actuaries,2,49,1.321591843890335e-4
-Southern Europe,41022,850366,16125,370765,8465,"Other textile, apparel, and furnishings workers",2,48,1.294620581770124e-4
-Southern Europe,41022,850366,16125,370765,3750,Fire inspectors,2,47,1.267649319649913e-4
-Southern Europe,41022,850366,16125,370765,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",2,47,1.267649319649913e-4
-Southern Europe,41022,850366,16125,370765,5560,"Postal service mail sorters, processors, and processing machine operators",3,46,1.240678057529702e-4
-Southern Europe,41022,850366,16125,370765,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",3,46,1.240678057529702e-4
-Southern Europe,41022,850366,16125,370765,0810,Property appraisers and assessors,3,45,1.2137067954094912e-4
-Southern Europe,41022,850366,16125,370765,5250,"Eligibility interviewers, government programs",2,45,1.2137067954094912e-4
-Southern Europe,41022,850366,16125,370765,5150,Procurement clerks,3,44,1.1867355332892803e-4
-Southern Europe,41022,850366,16125,370765,6800,"Derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining",2,44,1.1867355332892803e-4
-Southern Europe,41022,850366,16125,370765,2011,"Child, family, and school social workers",3,43,1.1597642711690694e-4
-Southern Europe,41022,850366,16125,370765,6530,Structural iron and steel workers,3,43,1.1597642711690694e-4
-Southern Europe,41022,850366,16125,370765,8650,"Crushing, grinding, polishing, mixing, and blending workers",2,43,1.1597642711690694e-4
-Southern Europe,41022,850366,16125,370765,6710,Fence erectors,3,41,1.1058217469286475e-4
-Southern Europe,41022,850366,16125,370765,9310,Ship and boat captains and operators,3,41,1.1058217469286475e-4
-Southern Europe,41022,850366,16125,370765,2050,"Directors, religious activities and education",4,40,1.0788504848084366e-4
-Southern Europe,41022,850366,16125,370765,7850,Food cooking machine operators and tenders,1,39,1.0518792226882257e-4
-Southern Europe,41022,850366,16125,370765,6360,Glaziers,3,38,1.0249079605680148e-4
-Southern Europe,41022,850366,16125,370765,8335,Shoe and leather workers,1,38,1.0249079605680148e-4
-Southern Europe,41022,850366,16125,370765,1450,Materials engineers,1,37,9.979366984478039e-5
-Southern Europe,41022,850366,16125,370765,3120,Podiatrists,2,37,9.979366984478039e-5
-Southern Europe,41022,850366,16125,370765,3401,Emergency medical technicians,3,37,9.979366984478039e-5
-Southern Europe,41022,850366,16125,370765,8310,"Pressers, textile, garment, and related materials",2,37,9.979366984478039e-5
-Southern Europe,41022,850366,16125,370765,8640,"Chemical processing machine setters, operators, and tenders",2,37,9.979366984478039e-5
-Southern Europe,41022,850366,16125,370765,7300,Control and valve installers and repairers,2,36,9.70965436327593e-5
-Southern Europe,41022,850366,16125,370765,3424,Veterinary technologists and technicians,3,35,9.439941742073821e-5
-Southern Europe,41022,850366,16125,370765,3720,First-line supervisors of firefighting and prevention workers,2,35,9.439941742073821e-5
-Southern Europe,41022,850366,16125,370765,7350,"Maintenance workers, machinery",1,34,9.170229120871712e-5
-Southern Europe,41022,850366,16125,370765,8450,Upholsterers,1,34,9.170229120871712e-5
-Southern Europe,41022,850366,16125,370765,7560,Riggers,2,33,8.900516499669603e-5
-Southern Europe,41022,850366,16125,370765,2105,Judicial law clerks,1,32,8.630803878467494e-5
-Southern Europe,41022,850366,16125,370765,3270,"Healthcare diagnosing or treating practitioners, all other",2,30,8.091378636063274e-5
-Southern Europe,41022,850366,16125,370765,9365,Transportation service attendants,2,30,8.091378636063274e-5
-Southern Europe,41022,850366,16125,370765,0135,Compensation and benefits managers,2,29,7.821666014861165e-5
-Southern Europe,41022,850366,16125,370765,6540,Solar photovoltaic installers,2,28,7.551953393659056e-5
-Southern Europe,41022,850366,16125,370765,7730,Engine and other machine assemblers,2,28,7.551953393659056e-5
-Southern Europe,41022,850366,16125,370765,8930,"Paper goods machine setters, operators, and tenders",1,25,6.742815530052729e-5
-Southern Europe,41022,850366,16125,370765,1900,Agricultural and food science technicians,1,24,6.47310290885062e-5
-Southern Europe,41022,850366,16125,370765,3330,Nuclear medicine technologists and medical dosimetrists,2,24,6.47310290885062e-5
-Southern Europe,41022,850366,16125,370765,5500,Cargo and freight agents,2,24,6.47310290885062e-5
-Southern Europe,41022,850366,16125,370765,5530,"Meter readers, utilities",1,24,6.47310290885062e-5
-Southern Europe,41022,850366,16125,370765,6720,Hazardous materials removal workers,1,24,6.47310290885062e-5
-Southern Europe,41022,850366,16125,370765,7240,Small engine mechanics,1,24,6.47310290885062e-5
-Southern Europe,41022,850366,16125,370765,2013,Mental health and substance abuse social workers,2,23,6.20339028764851e-5
-Southern Europe,41022,850366,16125,370765,3140,Audiologists,1,23,6.20339028764851e-5
-Southern Europe,41022,850366,16125,370765,4255,Other grounds maintenance workers,1,23,6.20339028764851e-5
-Southern Europe,41022,850366,16125,370765,8250,Prepress technicians and workers,2,22,5.933677666446401e-5
-Southern Europe,41022,850366,16125,370765,4465,"Morticians, undertakers, and funeral arrangers",2,21,5.663965045244292e-5
-Southern Europe,41022,850366,16125,370765,5340,New accounts clerks,2,21,5.663965045244292e-5
-Southern Europe,41022,850366,16125,370765,6130,Logging workers,1,21,5.663965045244292e-5
-Southern Europe,41022,850366,16125,370765,9040,Air traffic controllers and airfield operations specialists,2,21,5.663965045244292e-5
-Southern Europe,41022,850366,16125,370765,1640,Conservation scientists and foresters,1,20,5.394252424042183e-5
-Southern Europe,41022,850366,16125,370765,1920,Chemical technicians,3,20,5.394252424042183e-5
-Southern Europe,41022,850366,16125,370765,5820,Word processors and typists,2,20,5.394252424042183e-5
-Southern Europe,41022,850366,16125,370765,4240,Pest control workers,1,19,5.124539802840074e-5
-Southern Europe,41022,850366,16125,370765,7740,Structural metal fabricators and fitters,1,19,5.124539802840074e-5
-Southern Europe,41022,850366,16125,370765,2755,"Disc jockeys, except radio",1,18,4.854827181637965e-5
-Southern Europe,41022,850366,16125,370765,4340,Animal trainers,1,18,4.854827181637965e-5
-Southern Europe,41022,850366,16125,370765,6765,Other construction and related workers,1,18,4.854827181637965e-5
-Southern Europe,41022,850366,16125,370765,8365,"Textile machine setters, operators, and tenders",1,18,4.854827181637965e-5
-Southern Europe,41022,850366,16125,370765,8555,Other woodworkers,2,18,4.854827181637965e-5
-Southern Europe,41022,850366,16125,370765,9800,Military officer special and tactical operations leaders,2,18,4.854827181637965e-5
-Southern Europe,41022,850366,16125,370765,3946,School bus monitors,1,16,4.315401939233747e-5
-Southern Europe,41022,850366,16125,370765,2862,Court reporters and simultaneous captioners,1,15,4.045689318031637e-5
-Southern Europe,41022,850366,16125,370765,3700,First-line supervisors of correctional officers,1,14,3.775976696829528e-5
-Southern Europe,41022,850366,16125,370765,4160,"Food preparation and serving related workers, all other",1,14,3.775976696829528e-5
-Southern Europe,41022,850366,16125,370765,7030,Avionics technicians,1,14,3.775976696829528e-5
-Southern Europe,41022,850366,16125,370765,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,14,3.775976696829528e-5
-Southern Europe,41022,850366,16125,370765,8510,Furniture finishers,1,14,3.775976696829528e-5
-Southern Europe,41022,850366,16125,370765,8600,"Power plant operators, distributors, and dispatchers",1,14,3.775976696829528e-5
-Southern Europe,41022,850366,16125,370765,9650,Pumping station operators,1,14,3.775976696829528e-5
-Southern Europe,41022,850366,16125,370765,1600,Agricultural and food scientists,1,13,3.506264075627419e-5
-Southern Europe,41022,850366,16125,370765,6010,Agricultural inspectors,1,12,3.23655145442531e-5
-Southern Europe,41022,850366,16125,370765,8910,Etchers and engravers,1,12,3.23655145442531e-5
-Southern Europe,41022,850366,16125,370765,3646,Medical transcriptionists,1,11,2.9668388332232007e-5
-Southern Europe,41022,850366,16125,370765,5220,"Court, municipal, and license clerks",1,11,2.9668388332232007e-5
-Southern Europe,41022,850366,16125,370765,9210,Locomotive engineers and operators,1,11,2.9668388332232007e-5
-Southern Europe,41022,850366,16125,370765,9300,"Sailors and marine oilers, and ship engineers",1,11,2.9668388332232007e-5
-Southern Europe,41022,850366,16125,370765,1840,Urban and regional planners,1,10,2.6971262120210916e-5
-Southern Europe,41022,850366,16125,370765,8256,Print binding and finishing workers,1,9,2.4274135908189825e-5
-Southern Europe,41022,850366,16125,370765,0510,"Buyers and purchasing agents, farm products",1,6,1.618275727212655e-5
-Southern Europe,41022,850366,16125,370765,6005,"First-line supervisors of farming, fishing, and forestry workers",1,4,1.0788504848084367e-5
-Southern Europe,41022,850366,16125,370765,3256,Nurse anesthetists,1,3,8.091378636063274e-6
+bpl_region,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Southern Europe,41022,850366,18725,418733,0440,Other managers,747,17056,0.04073239988250269
+Southern Europe,41022,850366,18725,418733,2205,Postsecondary teachers,659,13547,0.03235235818528752
+Southern Europe,41022,850366,18725,418733,4220,Janitors and building cleaners,360,8834,0.021096975877229644
+Southern Europe,41022,850366,18725,418733,9130,Driver/sales workers and truck drivers,320,8395,0.020048575106332674
+Southern Europe,41022,850366,18725,418733,4700,First-line supervisors of retail sales workers,331,7689,0.01836253650894484
+Southern Europe,41022,850366,18725,418733,0010,Chief executives and legislators,367,7645,0.01825745761618979
+Southern Europe,41022,850366,18725,418733,4020,Cooks,286,7460,0.01781564863528788
+Southern Europe,41022,850366,18725,418733,0310,Food service managers,279,6944,0.016583359802069576
+Southern Europe,41022,850366,18725,418733,6260,Construction laborers,267,6875,0.01641857699297643
+Southern Europe,41022,850366,18725,418733,2310,Elementary and middle school teachers,311,6776,0.01618214948427757
+Southern Europe,41022,850366,18725,418733,4760,Retail salespersons,298,6577,0.015706906310226327
+Southern Europe,41022,850366,18725,418733,1021,Software developers,306,6518,0.015566005067668419
+Southern Europe,41022,850366,18725,418733,4110,Waiters and waitresses,236,5439,0.012989184038516191
+Southern Europe,41022,850366,18725,418733,0800,Accountants and auditors,224,5407,0.012912763025603428
+Southern Europe,41022,850366,18725,418733,2545,Teaching assistants,258,5371,0.01282678938607657
+Southern Europe,41022,850366,18725,418733,0120,Financial managers,272,5274,0.012595138190684757
+Southern Europe,41022,850366,18725,418733,5240,Customer service representatives,220,5004,0.011950335894233319
+Southern Europe,41022,850366,18725,418733,5740,"Secretaries and administrative assistants, except legal, medical, and executive",222,4988,0.011912125387776936
+Southern Europe,41022,850366,18725,418733,4230,Maids and housekeeping cleaners,194,4977,0.011885855664588175
+Southern Europe,41022,850366,18725,418733,1760,"Physical scientists, all other",226,4717,0.011264934934671974
+Southern Europe,41022,850366,18725,418733,4720,Cashiers,183,4378,0.010455349829127391
+Southern Europe,41022,850366,18725,418733,9620,"Laborers and freight, stock, and material movers, hand",169,3852,0.009199179429373849
+Southern Europe,41022,850366,18725,418733,3255,Registered nurses,179,3798,0.009070218970083562
+Southern Europe,41022,850366,18725,418733,2320,Secondary school teachers,178,3740,0.00893170588417918
+Southern Europe,41022,850366,18725,418733,5120,"Bookkeeping, accounting, and auditing clerks",163,3732,0.008912600630950987
+Southern Europe,41022,850366,18725,418733,3090,Physicians,182,3702,0.008840955931345273
+Southern Europe,41022,850366,18725,418733,4510,"Hairdressers, hairstylists, and cosmetologists",165,3595,0.00858542316941822
+Southern Europe,41022,850366,18725,418733,4710,First-line supervisors of non-retail sales workers,157,3522,0.00841108773371098
+Southern Europe,41022,850366,18725,418733,0710,Management analysts,169,3491,0.008337054877451741
+Southern Europe,41022,850366,18725,418733,0220,Construction managers,149,3408,0.008138837875209262
+Southern Europe,41022,850366,18725,418733,0020,General and operations managers,177,3394,0.008105403682059928
+Southern Europe,41022,850366,18725,418733,4850,"Sales representatives, wholesale and manufacturing",143,3143,0.007505976362025444
+Southern Europe,41022,850366,18725,418733,4000,Chefs and head cooks,138,3133,0.007482094795490205
+Southern Europe,41022,850366,18725,418733,6230,Carpenters,129,3132,0.0074797066388366815
+Southern Europe,41022,850366,18725,418733,5860,"Office clerks, general",145,2994,0.007150141020650391
+Southern Europe,41022,850366,18725,418733,4600,Childcare workers,129,2973,0.00709998973092639
+Southern Europe,41022,850366,18725,418733,3602,Personal care aides,129,2895,0.00691371351195153
+Southern Europe,41022,850366,18725,418733,9645,Stockers and order fillers,108,2820,0.006734601762937242
+Southern Europe,41022,850366,18725,418733,6355,Electricians,103,2747,0.006560266327230001
+Southern Europe,41022,850366,18725,418733,2100,"Lawyers, and judges, magistrates, and other judicial workers",116,2647,0.006321450661877616
+Southern Europe,41022,850366,18725,418733,5000,First-line supervisors of office and administrative support workers,131,2646,0.006319062505224093
+Southern Europe,41022,850366,18725,418733,6410,Painters and paperhangers,92,2620,0.006256970432232473
+Southern Europe,41022,850366,18725,418733,0110,Computer and information systems managers,122,2593,0.006192490202587329
+Southern Europe,41022,850366,18725,418733,7200,Automotive service technicians and mechanics,100,2571,0.006139950756209805
+Southern Europe,41022,850366,18725,418733,6200,First-line supervisors of construction trades and extraction workers,116,2522,0.006022931080187136
+Southern Europe,41022,850366,18725,418733,7340,"Maintenance and repair workers, general",101,2517,0.006010990296919517
+Southern Europe,41022,850366,18725,418733,0705,Project management specialists,119,2429,0.005800832511409419
+Southern Europe,41022,850366,18725,418733,7750,Other assemblers and fabricators,91,2418,0.005774562788220656
+Southern Europe,41022,850366,18725,418733,8990,"Miscellaneous production workers, including equipment operators and tenders",115,2393,0.00571485887188256
+Southern Europe,41022,850366,18725,418733,3603,Nursing assistants,85,2372,0.005664707582158559
+Southern Europe,41022,850366,18725,418733,2300,Preschool and kindergarten teachers,88,2308,0.005511865556333033
+Southern Europe,41022,850366,18725,418733,1530,Other engineers,114,2295,0.005480819519837223
+Southern Europe,41022,850366,18725,418733,0230,Education and childcare administrators,103,2279,0.005442609013380842
+Southern Europe,41022,850366,18725,418733,0410,"Property, real estate, and community association managers",99,2239,0.0053470827472398876
+Southern Europe,41022,850366,18725,418733,0052,Sales managers,100,2231,0.005327977494011697
+Southern Europe,41022,850366,18725,418733,4030,Food preparation workers,106,2230,0.005325589337358173
+Southern Europe,41022,850366,18725,418733,1650,Other life scientists,105,2210,0.005277826204287696
+Southern Europe,41022,850366,18725,418733,4251,Landscaping and groundskeeping workers,90,2183,0.005213345974642553
+Southern Europe,41022,850366,18725,418733,1360,Civil engineers,94,2118,0.0050581157921635025
+Southern Europe,41022,850366,18725,418733,0350,Medical and health services managers,90,1993,0.004759596210473022
+Southern Europe,41022,850366,18725,418733,4920,Real estate brokers and sales agents,116,1993,0.004759596210473022
+Southern Europe,41022,850366,18725,418733,1108,"Computer occupations, all other",95,1973,0.004711833077402546
+Southern Europe,41022,850366,18725,418733,2360,Other teachers and instructors,105,1957,0.004673622570946164
+Southern Europe,41022,850366,18725,418733,0630,Human resources workers,85,1949,0.004654517317717973
+Southern Europe,41022,850366,18725,418733,0051,Marketing managers,86,1916,0.004575708148151686
+Southern Europe,41022,850366,18725,418733,6442,"Plumbers, pipefitters, and steamfitters",82,1904,0.0045470502683094
+Southern Europe,41022,850366,18725,418733,5400,Receptionists and information clerks,95,1835,0.004382267459216255
+Southern Europe,41022,850366,18725,418733,7700,First-line supervisors of production and operating workers,72,1743,0.004162557047092061
+Southern Europe,41022,850366,18725,418733,9142,Taxi drivers,68,1712,0.004088524190832822
+Southern Europe,41022,850366,18725,418733,5940,Other office and administrative support workers,62,1678,0.004007326864613011
+Southern Europe,41022,850366,18725,418733,0845,Financial and investment analysts,68,1655,0.003952399261581962
+Southern Europe,41022,850366,18725,418733,8740,"Inspectors, testers, sorters, samplers, and weighers",63,1604,0.0038306032722522465
+Southern Europe,41022,850366,18725,418733,1240,Other mathematical science occupations,78,1561,0.0037279125361507214
+Southern Europe,41022,850366,18725,418733,3930,Security guards and gaming surveillance officers,73,1558,0.00372074806619015
+Southern Europe,41022,850366,18725,418733,1305,"Architects, except landscape and naval",86,1517,0.003622833643395672
+Southern Europe,41022,850366,18725,418733,0750,"Business operations specialists, all other",74,1490,0.0035583534137505284
+Southern Europe,41022,850366,18725,418733,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",64,1476,0.0035249192206011945
+Southern Europe,41022,850366,18725,418733,3645,Medical assistants,51,1434,0.003424616641153193
+Southern Europe,41022,850366,18725,418733,1050,Computer support specialists,74,1398,0.0033386430016263346
+Southern Europe,41022,850366,18725,418733,0160,"Transportation, storage, and distribution managers",44,1384,0.0033052088084770006
+Southern Europe,41022,850366,18725,418733,3601,Home health aides,48,1372,0.0032765509286347147
+Southern Europe,41022,850366,18725,418733,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",51,1296,0.0030950510229669024
+Southern Europe,41022,850366,18725,418733,4010,First-line supervisors of food preparation and serving workers,46,1274,0.003042511576589378
+Southern Europe,41022,850366,18725,418733,1006,Computer systems analysts,67,1268,0.003028182636668235
+Southern Europe,41022,850366,18725,418733,3870,Police officers,48,1234,0.002946985310448424
+Southern Europe,41022,850366,18725,418733,2640,Other designers,62,1220,0.0029135511172990905
+Southern Europe,41022,850366,18725,418733,2600,Artists and related workers,55,1211,0.002892057707417376
+Southern Europe,41022,850366,18725,418733,7315,"Heating, air conditioning, and refrigeration mechanics and installers",38,1210,0.0028896695507638517
+Southern Europe,41022,850366,18725,418733,2145,Paralegals and legal assistants,55,1208,0.002884893237456804
+Southern Europe,41022,850366,18725,418733,0140,Industrial production managers,55,1167,0.0027869788146623266
+Southern Europe,41022,850366,18725,418733,5510,Couriers and messengers,50,1160,0.0027702617180876596
+Southern Europe,41022,850366,18725,418733,0850,Personal financial advisors,56,1140,0.002722498585017183
+Southern Europe,41022,850366,18725,418733,4810,Insurance sales agents,55,1129,0.0026962288618284204
+Southern Europe,41022,850366,18725,418733,6240,"Carpet, floor, and tile installers and finishers",38,1105,0.002638913102143848
+Southern Europe,41022,850366,18725,418733,1410,Electrical and electronics engineers,56,1087,0.002595926282380419
+Southern Europe,41022,850366,18725,418733,4965,"Sales and related workers, all other",40,1066,0.002545774992656418
+Southern Europe,41022,850366,18725,418733,4055,Fast food and counter workers,48,1064,0.0025409986793493706
+Southern Europe,41022,850366,18725,418733,0735,Market research analysts and marketing specialists,48,1045,0.0024956237029324178
+Southern Europe,41022,850366,18725,418733,2861,Interpreters and translators,46,1026,0.0024502487265154645
+Southern Europe,41022,850366,18725,418733,8225,Other metal workers and plastic workers,50,1020,0.0024359197865943213
+Southern Europe,41022,850366,18725,418733,4200,First-line supervisors of housekeeping and janitorial workers,48,998,0.002383380340216797
+Southern Europe,41022,850366,18725,418733,7800,Bakers,52,998,0.002383380340216797
+Southern Europe,41022,850366,18725,418733,0540,"Claims adjusters, appraisers, examiners, and investigators",31,986,0.0023547224603745107
+Southern Europe,41022,850366,18725,418733,0300,Architectural and engineering managers,49,985,0.002352334303720987
+Southern Europe,41022,850366,18725,418733,1555,"Other engineering technologists and technicians, except drafters",40,926,0.00221143306116308
+Southern Europe,41022,850366,18725,418733,6305,Construction equipment operators,47,925,0.002209044904509556
+Southern Europe,41022,850366,18725,418733,1970,"Other life, physical, and social science technicians",36,922,0.0022018804345489847
+Southern Europe,41022,850366,18725,418733,3050,Pharmacists,41,914,0.002182775181320794
+Southern Europe,41022,850366,18725,418733,9600,Industrial truck and tractor operators,18,906,0.002163669928092603
+Southern Europe,41022,850366,18725,418733,3640,Dental assistants,35,901,0.002151729144824984
+Southern Europe,41022,850366,18725,418733,0565,Compliance officers,43,898,0.0021445646748644125
+Southern Europe,41022,850366,18725,418733,5710,Executive secretaries and executive administrative assistants,39,876,0.002092025228486888
+Southern Europe,41022,850366,18725,418733,0910,Credit counselors and loan officers,37,874,0.00208724891517984
+Southern Europe,41022,850366,18725,418733,3300,Clinical laboratory technologists and technicians,31,873,0.0020848607585263164
+Southern Europe,41022,850366,18725,418733,0205,"Farmers, ranchers, and other agricultural managers",38,862,0.002058591035337554
+Southern Europe,41022,850366,18725,418733,0420,Social and community service managers,42,862,0.002058591035337554
+Southern Europe,41022,850366,18725,418733,8140,"Welding, soldering, and brazing workers",34,826,0.0019726173958106957
+Southern Europe,41022,850366,18725,418733,5110,Billing and posting clerks,36,819,0.0019559002992360288
+Southern Europe,41022,850366,18725,418733,2634,Graphic designers,37,816,0.0019487358292754572
+Southern Europe,41022,850366,18725,418733,7000,"First-line supervisors of mechanics, installers, and repairers",24,814,0.0019439595159684094
+Southern Europe,41022,850366,18725,418733,5160,Tellers,36,801,0.0019129134794725995
+Southern Europe,41022,850366,18725,418733,0150,Purchasing managers,29,796,0.0019009726962049803
+Southern Europe,41022,850366,18725,418733,1010,Computer programmers,33,776,0.0018532095631345034
+Southern Europe,41022,850366,18725,418733,4820,"Securities, commodities, and financial services sales agents",37,768,0.0018341043099063127
+Southern Europe,41022,850366,18725,418733,7330,Industrial and refractory machinery mechanics,37,766,0.0018293279965992649
+Southern Europe,41022,850366,18725,418733,9121,"Bus drivers, school",39,755,0.0018030582734105025
+Southern Europe,41022,850366,18725,418733,8320,Sewing machine operators,42,741,0.0017696240802611688
+Southern Europe,41022,850366,18725,418733,2014,"Social workers, all other",32,733,0.001750518827032978
+Southern Europe,41022,850366,18725,418733,2722,Coaches and scouts,36,729,0.0017409662004188827
+Southern Europe,41022,850366,18725,418733,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",34,721,0.001721860947190692
+Southern Europe,41022,850366,18725,418733,5610,"Shipping, receiving, and inventory clerks",33,717,0.0017123083205765966
+Southern Europe,41022,850366,18725,418733,8030,Machinists,37,717,0.0017123083205765966
+Southern Europe,41022,850366,18725,418733,1350,Chemical engineers,12,714,0.001705143850616025
+Southern Europe,41022,850366,18725,418733,1430,"Industrial engineers, including health and safety",32,699,0.0016693215008131673
+Southern Europe,41022,850366,18725,418733,3421,Pharmacy technicians,36,696,0.001662157030852596
+Southern Europe,41022,850366,18725,418733,4130,Dining room and cafeteria attendants and bartender helpers,27,691,0.0016502162475849765
+Southern Europe,41022,850366,18725,418733,4530,"Baggage porters, bellhops, and concierges",27,691,0.0016502162475849765
+Southern Europe,41022,850366,18725,418733,1460,Mechanical engineers,36,688,0.001643051777624405
+Southern Europe,41022,850366,18725,418733,2040,Clergy,61,686,0.0016382754643173574
+Southern Europe,41022,850366,18725,418733,9122,"Bus drivers, transit and intercity",36,682,0.001628722837703262
+Southern Europe,41022,850366,18725,418733,7640,"Other installation, maintenance, and repair workers",24,671,0.0016024531145144997
+Southern Europe,41022,850366,18725,418733,2330,Special education teachers,32,668,0.001595288644553928
+Southern Europe,41022,850366,18725,418733,9030,Aircraft pilots and flight engineers,27,657,0.001569018921365166
+Southern Europe,41022,850366,18725,418733,9640,"Packers and packagers, hand",34,656,0.001566630764711642
+Southern Europe,41022,850366,18725,418733,2635,Interior designers,28,655,0.0015642426080581182
+Southern Europe,41022,850366,18725,418733,4500,Barbers,28,638,0.0015236439449482129
+Southern Europe,41022,850366,18725,418733,2710,Producers and directors,34,626,0.0014949860651059267
+Southern Europe,41022,850366,18725,418733,3500,Licensed practical and licensed vocational nurses,22,617,0.001473492655224212
+Southern Europe,41022,850366,18725,418733,4040,Bartenders,30,605,0.0014448347753819259
+Southern Europe,41022,850366,18725,418733,2850,Writers and authors,26,602,0.0014376703054213545
+Southern Europe,41022,850366,18725,418733,4350,Animal caretakers,20,602,0.0014376703054213545
+Southern Europe,41022,850366,18725,418733,3310,Dental hygienists,17,594,0.0014185650521931637
+Southern Europe,41022,850366,18725,418733,1800,Economists,35,592,0.001413788738886116
+Southern Europe,41022,850366,18725,418733,5165,Other financial clerks,22,592,0.001413788738886116
+Southern Europe,41022,850366,18725,418733,4140,Dishwashers,29,590,0.0014090124255790684
+Southern Europe,41022,850366,18725,418733,0700,Logisticians,23,587,0.0014018479556184968
+Southern Europe,41022,850366,18725,418733,6515,Roofers,19,582,0.0013899071723508776
+Southern Europe,41022,850366,18725,418733,1007,Information security analysts,20,581,0.0013875190156973536
+Southern Europe,41022,850366,18725,418733,3740,Firefighters,11,569,0.0013588611358550675
+Southern Europe,41022,850366,18725,418733,4120,"Food servers, nonrestaurant",22,558,0.0013325914126663054
+Southern Europe,41022,850366,18725,418733,2002,"Educational, guidance, and career counselors and advisors",30,555,0.0013254269427057338
+Southern Europe,41022,850366,18725,418733,9050,Flight attendants,26,555,0.0013254269427057338
+Southern Europe,41022,850366,18725,418733,1700,Astronomers and physicists,32,552,0.0013182624727451622
+Southern Europe,41022,850366,18725,418733,9610,Cleaners of vehicles and equipment,20,548,0.0013087098461310668
+Southern Europe,41022,850366,18725,418733,9005,Supervisors of transportation and material moving workers,22,527,0.0012585585564070662
+Southern Europe,41022,850366,18725,418733,2752,Musicians and singers,23,522,0.0012466177731394468
+Southern Europe,41022,850366,18725,418733,7150,Automotive body and related repairers,25,521,0.001244229616485923
+Southern Europe,41022,850366,18725,418733,1825,Other psychologists,28,512,0.0012227362066042084
+Southern Europe,41022,850366,18725,418733,6050,Other agricultural workers,31,496,0.001184525700147827
+Southern Europe,41022,850366,18725,418733,8610,Stationary engineers and boiler operators,19,495,0.0011821375434943032
+Southern Europe,41022,850366,18725,418733,4621,Exercise trainers and group fitness instructors,28,485,0.0011582559769590646
+Southern Europe,41022,850366,18725,418733,5550,Postal service mail carriers,30,476,0.00113676256707735
+Southern Europe,41022,850366,18725,418733,2910,Photographers,39,470,0.001122433627156207
+Southern Europe,41022,850366,18725,418733,0340,Lodging managers,23,467,0.0011152691571956353
+Southern Europe,41022,850366,18725,418733,2350,Tutors,29,465,0.0011104928438885877
+Southern Europe,41022,850366,18725,418733,3010,Dentists,20,460,0.0010985520606209686
+Southern Europe,41022,850366,18725,418733,2016,Social and human service assistants,21,454,0.0010842231206998254
+Southern Europe,41022,850366,18725,418733,7810,"Butchers and other meat, poultry, and fish processing workers",20,446,0.0010651178674716346
+Southern Europe,41022,850366,18725,418733,4435,Other entertainment attendants and related workers,21,444,0.001060341554164587
+Southern Europe,41022,850366,18725,418733,6115,Fishing and hunting workers,14,442,0.0010555652408575393
+Southern Europe,41022,850366,18725,418733,0530,"Purchasing agents, except wholesale, retail, and farm products",25,440,0.0010507889275504917
+Southern Europe,41022,850366,18725,418733,3258,"Nurse practitioners, and nurse midwives",13,426,0.0010173547344011578
+Southern Europe,41022,850366,18725,418733,2555,Other educational instruction and library workers,18,423,0.0010101902644405862
+Southern Europe,41022,850366,18725,418733,3110,Physician assistants,19,420,0.0010030257944800148
+Southern Europe,41022,850366,18725,418733,5420,Other information and records clerks,11,420,0.0010030257944800148
+Southern Europe,41022,850366,18725,418733,1105,Network and computer systems administrators,20,409,9.767560712912525e-4
+Southern Europe,41022,850366,18725,418733,2435,Librarians and media collections specialists,21,401,9.576508180630616e-4
+Southern Europe,41022,850366,18725,418733,8800,Packaging and filling machine operators and tenders,19,401,9.576508180630616e-4
+Southern Europe,41022,850366,18725,418733,1610,Biological scientists,19,398,9.504863481024901e-4
+Southern Europe,41022,850366,18725,418733,8350,"Tailors, dressmakers, and sewers",30,387,9.242166249137278e-4
+Southern Europe,41022,850366,18725,418733,3323,Radiologic technologists and technicians,21,378,9.027232150320133e-4
+Southern Europe,41022,850366,18725,418733,8255,Printing press operators,15,378,9.027232150320133e-4
+Southern Europe,41022,850366,18725,418733,7210,Bus and truck mechanics and diesel engine specialists,18,374,8.931705884179179e-4
+Southern Europe,41022,850366,18725,418733,5810,Data entry keyers,13,373,8.90782431764394e-4
+Southern Europe,41022,850366,18725,418733,5730,Medical secretaries and administrative assistants,20,370,8.836179618038225e-4
+Southern Europe,41022,850366,18725,418733,6330,"Drywall installers, ceiling tile installers, and tapers",7,368,8.788416484967748e-4
+Southern Europe,41022,850366,18725,418733,0520,"Wholesale and retail buyers, except farm products",18,367,8.764534918432509e-4
+Southern Europe,41022,850366,18725,418733,4830,Travel agents,20,365,8.716771785362032e-4
+Southern Europe,41022,850366,18725,418733,3220,Respiratory therapists,8,364,8.692890218826795e-4
+Southern Europe,41022,850366,18725,418733,1720,Chemists and materials scientists,19,359,8.573482386150602e-4
+Southern Europe,41022,850366,18725,418733,7720,"Electrical, electronics, and electromechanical assemblers",20,359,8.573482386150602e-4
+Southern Europe,41022,850366,18725,418733,2751,Music directors and composers,19,356,8.501837686544887e-4
+Southern Europe,41022,850366,18725,418733,0136,Human resources managers,18,351,8.382429853868694e-4
+Southern Europe,41022,850366,18725,418733,1106,Computer network architects,13,348,8.31078515426298e-4
+Southern Europe,41022,850366,18725,418733,3820,Detectives and criminal investigators,13,347,8.286903587727741e-4
+Southern Europe,41022,850366,18725,418733,2440,Library technicians,4,344,8.215258888122025e-4
+Southern Europe,41022,850366,18725,418733,7840,Food batchmakers,12,343,8.191377321586787e-4
+Southern Europe,41022,850366,18725,418733,4521,Manicurists and pedicurists,12,331,7.904798523163926e-4
+Southern Europe,41022,850366,18725,418733,3322,Diagnostic medical sonographers,16,323,7.713745990882018e-4
+Southern Europe,41022,850366,18725,418733,2825,Public relations specialists,13,319,7.618219724741064e-4
+Southern Europe,41022,850366,18725,418733,2400,"Archivists, curators, and museum technicians",14,318,7.594338158205825e-4
+Southern Europe,41022,850366,18725,418733,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",13,318,7.594338158205825e-4
+Southern Europe,41022,850366,18725,418733,3545,Miscellaneous health technologists and technicians,16,316,7.546575025135348e-4
+Southern Europe,41022,850366,18725,418733,1220,Operations research analysts,15,315,7.522693458600111e-4
+Southern Europe,41022,850366,18725,418733,3160,Physical therapists,21,308,7.355522492853441e-4
+Southern Europe,41022,850366,18725,418733,0040,Advertising and promotions managers,12,302,7.21223309364201e-4
+Southern Europe,41022,850366,18725,418733,1860,Other social scientists,11,301,7.188351527106772e-4
+Southern Europe,41022,850366,18725,418733,2905,Other media and communication equipment workers,14,299,7.140588394036296e-4
+Southern Europe,41022,850366,18725,418733,4622,Recreation workers,10,297,7.092825260965819e-4
+Southern Europe,41022,850366,18725,418733,6520,Sheet metal workers,16,297,7.092825260965819e-4
+Southern Europe,41022,850366,18725,418733,0600,Cost estimators,14,294,7.021180561360103e-4
+Southern Europe,41022,850366,18725,418733,6660,Construction and building inspectors,12,292,6.973417428289626e-4
+Southern Europe,41022,850366,18725,418733,5600,"Production, planning, and expediting clerks",20,289,6.901772728683911e-4
+Southern Europe,41022,850366,18725,418733,0650,Training and development specialists,13,288,6.877891162148672e-4
+Southern Europe,41022,850366,18725,418733,3649,Phlebotomists,16,284,6.782364896007718e-4
+Southern Europe,41022,850366,18725,418733,3515,Medical records specialists,16,283,6.758483329472481e-4
+Southern Europe,41022,850366,18725,418733,7130,Security and fire alarm systems installers,11,282,6.734601762937242e-4
+Southern Europe,41022,850366,18725,418733,3245,Other therapists,14,279,6.662957063331527e-4
+Southern Europe,41022,850366,18725,418733,5140,Payroll and timekeeping clerks,17,279,6.662957063331527e-4
+Southern Europe,41022,850366,18725,418733,3630,Massage therapists,15,278,6.639075496796288e-4
+Southern Europe,41022,850366,18725,418733,5360,"Human resources assistants, except payroll and timekeeping",8,276,6.591312363725811e-4
+Southern Europe,41022,850366,18725,418733,7430,Precision instrument and equipment repairers,11,276,6.591312363725811e-4
+Southern Europe,41022,850366,18725,418733,2920,"Television, video, and film camera operators and editors",18,275,6.567430797190572e-4
+Southern Europe,41022,850366,18725,418733,9141,Shuttle drivers and chauffeurs,12,271,6.471904531049618e-4
+Southern Europe,41022,850366,18725,418733,0102,Facilities managers,16,265,6.328615131838188e-4
+Southern Europe,41022,850366,18725,418733,2001,Substance abuse and behavioral disorder counselors,9,265,6.328615131838188e-4
+Southern Europe,41022,850366,18725,418733,5310,"Interviewers, except eligibility and loan",17,264,6.30473356530295e-4
+Southern Europe,41022,850366,18725,418733,3100,Surgeons,14,263,6.280851998767711e-4
+Southern Europe,41022,850366,18725,418733,4400,Gambling services workers,9,259,6.185325732626757e-4
+Southern Europe,41022,850366,18725,418733,2633,Floral designers,9,258,6.161444166091519e-4
+Southern Europe,41022,850366,18725,418733,0960,Other financial specialists,16,257,6.13756259955628e-4
+Southern Europe,41022,850366,18725,418733,3550,Other healthcare practitioners and technical occupations,10,253,6.042036333415326e-4
+Southern Europe,41022,850366,18725,418733,1031,Web developers,12,252,6.018154766880088e-4
+Southern Europe,41022,850366,18725,418733,2721,Athletes and sports competitors,4,251,5.99427320034485e-4
+Southern Europe,41022,850366,18725,418733,1065,Database administrators and architects,15,248,5.922628500739135e-4
+Southern Europe,41022,850366,18725,418733,0830,Credit analysts,9,246,5.874865367668658e-4
+Southern Europe,41022,850366,18725,418733,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,9,246,5.874865367668658e-4
+Southern Europe,41022,850366,18725,418733,5330,Loan interviewers and clerks,9,245,5.850983801133419e-4
+Southern Europe,41022,850366,18725,418733,2810,"News analysts, reporters, and journalists",13,244,5.827102234598181e-4
+Southern Europe,41022,850366,18725,418733,3655,Other healthcare support workers,13,244,5.827102234598181e-4
+Southern Europe,41022,850366,18725,418733,3910,Private detectives and investigators,16,242,5.779339101527704e-4
+Southern Europe,41022,850366,18725,418733,7855,"Food processing workers, all other",7,241,5.755457534992465e-4
+Southern Europe,41022,850366,18725,418733,5840,Insurance claims and policy processing clerks,13,240,5.731575968457227e-4
+Southern Europe,41022,850366,18725,418733,6441,Pipelayers,6,239,5.707694401921988e-4
+Southern Europe,41022,850366,18725,418733,8300,Laundry and dry-cleaning workers,14,239,5.707694401921988e-4
+Southern Europe,41022,850366,18725,418733,1320,Aerospace engineers,16,238,5.68381283538675e-4
+Southern Europe,41022,850366,18725,418733,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
+						and plastic",7,233,5.564405002710558e-4
+Southern Europe,41022,850366,18725,418733,3940,Crossing guards and flaggers,13,230,5.492760303104843e-4
+Southern Europe,41022,850366,18725,418733,3802,Correctional officers and jailers,12,228,5.444997170034366e-4
+Southern Europe,41022,850366,18725,418733,2830,Editors,11,227,5.421115603499127e-4
+Southern Europe,41022,850366,18725,418733,5410,Reservation and transportation ticket agents and travel clerks,15,225,5.37335247042865e-4
+Southern Europe,41022,850366,18725,418733,3321,Cardiovascular technologists and technicians,10,224,5.349470903893412e-4
+Southern Europe,41022,850366,18725,418733,5260,File clerks,10,222,5.301707770822935e-4
+Southern Europe,41022,850366,18725,418733,3030,Dietitians and nutritionists,8,220,5.253944637752458e-4
+Southern Europe,41022,850366,18725,418733,3324,Magnetic resonance imaging technologists,8,219,5.23006307121722e-4
+Southern Europe,41022,850366,18725,418733,7220,Heavy vehicle and mobile equipment service technicians and mechanics,13,217,5.182299938146743e-4
+Southern Europe,41022,850366,18725,418733,2006,"Counselors, all other",13,214,5.110655238541028e-4
+Southern Europe,41022,850366,18725,418733,9430,Other transportation workers,9,213,5.086773672005789e-4
+Southern Europe,41022,850366,18725,418733,9350,Parking attendants,10,211,5.039010538935312e-4
+Southern Europe,41022,850366,18725,418733,0500,"Agents and business managers of artists, performers, and athletes",9,209,4.991247405864835e-4
+Southern Europe,41022,850366,18725,418733,4522,Skincare specialists,10,209,4.991247405864835e-4
+Southern Europe,41022,850366,18725,418733,4900,"Models, demonstrators, and product promoters",9,209,4.991247405864835e-4
+Southern Europe,41022,850366,18725,418733,8620,Water and wastewater treatment plant and system operators,8,209,4.991247405864835e-4
+Southern Europe,41022,850366,18725,418733,6400,Insulation workers,4,207,4.943484272794358e-4
+Southern Europe,41022,850366,18725,418733,0930,"Tax examiners and collectors, and revenue agents",6,206,4.919602706259119e-4
+Southern Europe,41022,850366,18725,418733,0060,Public relations and fundraising managers,7,205,4.895721139723881e-4
+Southern Europe,41022,850366,18725,418733,1551,Electrical and electronic engineering technologists and technicians,13,205,4.895721139723881e-4
+Southern Europe,41022,850366,18725,418733,2632,Fashion designers,6,205,4.895721139723881e-4
+Southern Europe,41022,850366,18725,418733,5522,"Dispatchers, except police, fire, and ambulance",15,203,4.8479580066534045e-4
+Southern Europe,41022,850366,18725,418733,3620,Physical therapist assistants and aides,6,202,4.824076440118166e-4
+Southern Europe,41022,850366,18725,418733,2840,Technical writers,11,201,4.8001948735829276e-4
+Southern Europe,41022,850366,18725,418733,8920,"Molders, shapers, and casters, except metal and plastic",4,201,4.8001948735829276e-4
+Southern Europe,41022,850366,18725,418733,0940,Tax preparers,10,200,4.776313307047689e-4
+Southern Europe,41022,850366,18725,418733,1980,Occupational health and safety specialists and technicians,11,200,4.776313307047689e-4
+Southern Europe,41022,850366,18725,418733,8130,Tool and die makers,11,200,4.776313307047689e-4
+Southern Europe,41022,850366,18725,418733,4525,Other personal appearance workers,5,199,4.7524317405124507e-4
+Southern Europe,41022,850366,18725,418733,7040,"Electric motor, power tool, and related repairers",5,195,4.656905474371497e-4
+Southern Europe,41022,850366,18725,418733,8950,Helpers--production workers,8,193,4.60914234130102e-4
+Southern Europe,41022,850366,18725,418733,9760,Other material moving workers,6,190,4.537497641695305e-4
+Southern Europe,41022,850366,18725,418733,0335,Entertainment and recreation managers,7,189,4.5136160751600663e-4
+Southern Europe,41022,850366,18725,418733,4655,"Personal care and service workers, all other",12,189,4.5136160751600663e-4
+Southern Europe,41022,850366,18725,418733,0640,"Compensation, benefits, and job analysis specialists",8,185,4.4180898090191126e-4
+Southern Europe,41022,850366,18725,418733,7020,Radio and telecommunications equipment installers and repairers,10,185,4.4180898090191126e-4
+Southern Europe,41022,850366,18725,418733,1822,School psychologists,8,183,4.3703266759486357e-4
+Southern Europe,41022,850366,18725,418733,4800,Advertising sales agents,9,182,4.3464451094133973e-4
+Southern Europe,41022,850366,18725,418733,7905,Computer numerically controlled tool operators and programmers,9,181,4.322563542878159e-4
+Southern Europe,41022,850366,18725,418733,3422,Psychiatric technicians,5,179,4.274800409807682e-4
+Southern Europe,41022,850366,18725,418733,9720,Refuse and recyclable material collectors,6,176,4.2031557102019667e-4
+Southern Europe,41022,850366,18725,418733,1560,Surveying and mapping technicians,7,172,4.1076294440610124e-4
+Southern Europe,41022,850366,18725,418733,4252,Tree trimmers and pruners,6,172,4.1076294440610124e-4
+Southern Europe,41022,850366,18725,418733,3520,"Opticians, dispensing",6,167,3.98822161138482e-4
+Southern Europe,41022,850366,18725,418733,3402,Paramedics,4,165,3.9404584783143433e-4
+Southern Europe,41022,850366,18725,418733,2770,"Entertainers and performers, sports and related workers, all other",5,163,3.8926953452438664e-4
+Southern Europe,41022,850366,18725,418733,0860,Insurance underwriters,12,162,3.868813778708628e-4
+Southern Europe,41022,850366,18725,418733,2004,Mental health counselors,10,162,3.868813778708628e-4
+Southern Europe,41022,850366,18725,418733,9830,"Military, rank not specified",8,159,3.7971690791029127e-4
+Southern Europe,41022,850366,18725,418733,0900,Financial examiners,4,157,3.749405946032436e-4
+Southern Europe,41022,850366,18725,418733,6700,Elevator installers and repairers,5,154,3.6777612464267205e-4
+Southern Europe,41022,850366,18725,418733,9415,Passenger attendants,7,152,3.6299981133562436e-4
+Southern Europe,41022,850366,18725,418733,9410,Transportation inspectors,9,151,3.606116546821005e-4
+Southern Europe,41022,850366,18725,418733,0101,Administrative services managers,8,150,3.582234980285767e-4
+Southern Europe,41022,850366,18725,418733,5010,"Switchboard operators, including answering service",1,150,3.582234980285767e-4
+Southern Europe,41022,850366,18725,418733,5350,Correspondence clerks and order clerks,7,150,3.582234980285767e-4
+Southern Europe,41022,850366,18725,418733,9150,"Motor vehicle operators, all other",9,146,3.486708714144813e-4
+Southern Europe,41022,850366,18725,418733,3423,Surgical technologists,9,145,3.4628271476095745e-4
+Southern Europe,41022,850366,18725,418733,2805,Broadcast announcers and radio disc jockeys,8,143,3.4150640145390977e-4
+Southern Europe,41022,850366,18725,418733,3250,Veterinarians,9,143,3.4150640145390977e-4
+Southern Europe,41022,850366,18725,418733,8710,Cutting workers,6,142,3.391182448003859e-4
+Southern Europe,41022,850366,18725,418733,3725,"Miscellaneous first-line supervisors, protective service workers",8,141,3.367300881468621e-4
+Southern Europe,41022,850366,18725,418733,1440,Marine engineers and naval architects,6,140,3.3434193149333824e-4
+Southern Europe,41022,850366,18725,418733,1400,Computer hardware engineers,8,139,3.319537748398144e-4
+Southern Europe,41022,850366,18725,418733,1541,Architectural and civil drafters,8,138,3.2956561818629055e-4
+Southern Europe,41022,850366,18725,418733,3605,Orderlies and psychiatric aides,5,136,3.2478930487924286e-4
+Southern Europe,41022,850366,18725,418733,3710,First-line supervisors of police and detectives,6,136,3.2478930487924286e-4
+Southern Europe,41022,850366,18725,418733,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",7,136,3.2478930487924286e-4
+Southern Europe,41022,850366,18725,418733,7140,Aircraft mechanics and service technicians,10,136,3.2478930487924286e-4
+Southern Europe,41022,850366,18725,418733,2170,"Title examiners, abstractors, and searchers",7,132,3.152366782651475e-4
+Southern Europe,41022,850366,18725,418733,5320,"Library assistants, clerical",7,132,3.152366782651475e-4
+Southern Europe,41022,850366,18725,418733,2015,Probation officers and correctional treatment specialists,7,131,3.1284852161162364e-4
+Southern Europe,41022,850366,18725,418733,5540,Postal service clerks,10,131,3.1284852161162364e-4
+Southern Europe,41022,850366,18725,418733,1005,Computer and information research scientists,7,130,3.104603649580998e-4
+Southern Europe,41022,850366,18725,418733,1745,"Environmental scientists and specialists, including health",4,130,3.104603649580998e-4
+Southern Europe,41022,850366,18725,418733,2636,Merchandise displayers and window trimmers,8,130,3.104603649580998e-4
+Southern Europe,41022,850366,18725,418733,1310,"Surveyors, cartographers, and photogrammetrists",8,128,3.056840516510521e-4
+Southern Europe,41022,850366,18725,418733,4950,"Door-to-door sales workers, news and street vendors, and related workers",6,127,3.0329589499752827e-4
+Southern Europe,41022,850366,18725,418733,0726,Fundraisers,8,126,3.009077383440044e-4
+Southern Europe,41022,850366,18725,418733,1545,Other drafters,9,126,3.009077383440044e-4
+Southern Europe,41022,850366,18725,418733,7010,"Computer, automated teller, and office machine repairers",10,126,3.009077383440044e-4
+Southern Europe,41022,850366,18725,418733,1032,Web and digital interface designers,9,125,2.985195816904806e-4
+Southern Europe,41022,850366,18725,418733,4750,Parts salespersons,7,124,2.9613142503695674e-4
+Southern Europe,41022,850366,18725,418733,5720,Legal secretaries and administrative assistants,8,124,2.9613142503695674e-4
+Southern Europe,41022,850366,18725,418733,2740,Dancers and choreographers,7,123,2.937432683834329e-4
+Southern Europe,41022,850366,18725,418733,6250,"Cement masons, concrete finishers, and terrazzo workers",7,122,2.9135511172990905e-4
+Southern Europe,41022,850366,18725,418733,3040,Optometrists,6,121,2.889669550763852e-4
+Southern Europe,41022,850366,18725,418733,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",5,121,2.889669550763852e-4
+Southern Europe,41022,850366,18725,418733,4640,Residential advisors,7,120,2.8657879842286136e-4
+Southern Europe,41022,850366,18725,418733,5850,"Mail clerks and mail machine operators, except postal service",3,120,2.8657879842286136e-4
+Southern Europe,41022,850366,18725,418733,0360,Natural sciences managers,7,114,2.722498585017183e-4
+Southern Europe,41022,850366,18725,418733,2003,Marriage and family therapists,5,114,2.722498585017183e-4
+Southern Europe,41022,850366,18725,418733,2180,"Legal support workers, all other",3,114,2.722498585017183e-4
+Southern Europe,41022,850366,18725,418733,6825,Surface mining machine operators and earth drillers,4,111,2.6508538854114677e-4
+Southern Europe,41022,850366,18725,418733,2025,Other community and social service specialists,6,106,2.5314460527352755e-4
+Southern Europe,41022,850366,18725,418733,7410,Electrical power-line installers and repairers,4,106,2.5314460527352755e-4
+Southern Europe,41022,850366,18725,418733,9630,Machine feeders and offbearers,6,106,2.5314460527352755e-4
+Southern Europe,41022,850366,18725,418733,6600,"Helpers, construction trades",5,102,2.4359197865943215e-4
+Southern Europe,41022,850366,18725,418733,0137,Training and development managers,7,100,2.3881566535238446e-4
+Southern Europe,41022,850366,18725,418733,1420,Environmental engineers,6,99,2.3642750869886061e-4
+Southern Europe,41022,850366,18725,418733,8630,Miscellaneous plant and system operators,6,99,2.3642750869886061e-4
+Southern Europe,41022,850366,18725,418733,8810,Painting workers,5,99,2.3642750869886061e-4
+Southern Europe,41022,850366,18725,418733,3648,Veterinary assistants and laboratory animal caretakers,5,98,2.3403935204533677e-4
+Southern Europe,41022,850366,18725,418733,3801,Bailiffs,2,98,2.3403935204533677e-4
+Southern Europe,41022,850366,18725,418733,2060,"Religious workers, all other",9,97,2.3165119539181293e-4
+Southern Europe,41022,850366,18725,418733,0725,"Meeting, convention, and event planners",7,96,2.2926303873828908e-4
+Southern Europe,41022,850366,18725,418733,1520,"Petroleum, mining and geological engineers, including mining safety engineers",5,95,2.2687488208476524e-4
+Southern Europe,41022,850366,18725,418733,3945,Transportation security screeners,5,94,2.244867254312414e-4
+Southern Europe,41022,850366,18725,418733,5230,"Credit authorizers, checkers, and clerks",2,94,2.244867254312414e-4
+Southern Europe,41022,850366,18725,418733,7360,Millwrights,3,92,2.197104121241937e-4
+Southern Europe,41022,850366,18725,418733,3150,Occupational therapists,5,91,2.1732225547066986e-4
+Southern Europe,41022,850366,18725,418733,3230,Speech-language pathologists,5,91,2.1732225547066986e-4
+Southern Europe,41022,850366,18725,418733,5300,"Hotel, motel, and resort desk clerks",6,91,2.1732225547066986e-4
+Southern Europe,41022,850366,18725,418733,5920,Statistical assistants,2,88,2.1015778551009833e-4
+Southern Europe,41022,850366,18725,418733,1340,Biomedical and agricultural engineers,7,87,2.077696288565745e-4
+Southern Europe,41022,850366,18725,418733,4420,"Ushers, lobby attendants, and ticket takers",4,87,2.077696288565745e-4
+Southern Europe,41022,850366,18725,418733,9825,Military enlisted tactical operations and air/weapons specialists and crew members,5,87,2.077696288565745e-4
+Southern Europe,41022,850366,18725,418733,2012,Healthcare social workers,6,86,2.0538147220305062e-4
+Southern Europe,41022,850366,18725,418733,8500,Cabinetmakers and bench carpenters,5,86,2.0538147220305062e-4
+Southern Europe,41022,850366,18725,418733,1750,"Geoscientists and hydrologists, except geographers",4,85,2.0299331554952677e-4
+Southern Europe,41022,850366,18725,418733,3610,Occupational therapy assistants and aides,6,83,1.982170022424791e-4
+Southern Europe,41022,850366,18725,418733,3430,Dietetic technicians and ophthalmic medical technicians,5,82,1.9582884558895524e-4
+Southern Europe,41022,850366,18725,418733,3270,"Healthcare diagnosing or treating practitioners, all other",3,81,1.934406889354314e-4
+Southern Europe,41022,850366,18725,418733,5100,Bill and account collectors,5,80,1.9105253228190756e-4
+Southern Europe,41022,850366,18725,418733,4540,Tour and travel guides,6,79,1.886643756283837e-4
+Southern Europe,41022,850366,18725,418733,7120,Electronic home entertainment equipment installers and repairers,5,79,1.886643756283837e-4
+Southern Europe,41022,850366,18725,418733,0820,Budget analysts,6,78,1.8627621897485987e-4
+Southern Europe,41022,850366,18725,418733,7320,Home appliance repairers,3,78,1.8627621897485987e-4
+Southern Europe,41022,850366,18725,418733,5900,"Office machine operators, except computer",6,77,1.8388806232133602e-4
+Southern Europe,41022,850366,18725,418733,5521,Public safety telecommunicators,2,76,1.8149990566781218e-4
+Southern Europe,41022,850366,18725,418733,7420,Telecommunications line installers and repairers,5,76,1.8149990566781218e-4
+Southern Europe,41022,850366,18725,418733,8830,Photographic process workers and processing machine operators,6,76,1.8149990566781218e-4
+Southern Europe,41022,850366,18725,418733,1821,Clinical and counseling psychologists,5,75,1.7911174901428834e-4
+Southern Europe,41022,850366,18725,418733,4740,Counter and rental clerks,5,74,1.767235923607645e-4
+Southern Europe,41022,850366,18725,418733,6850,Underground mining machine operators,1,73,1.7433543570724065e-4
+Southern Europe,41022,850366,18725,418733,8650,"Crushing, grinding, polishing, mixing, and blending workers",4,73,1.7433543570724065e-4
+Southern Europe,41022,850366,18725,418733,9510,Crane and tower operators,4,72,1.719472790537168e-4
+Southern Europe,41022,850366,18725,418733,2631,Commercial and industrial designers,3,71,1.6955912240019296e-4
+Southern Europe,41022,850366,18725,418733,2865,"Media and communication workers, all other",2,71,1.6955912240019296e-4
+Southern Europe,41022,850366,18725,418733,8465,"Other textile, apparel, and furnishings workers",3,70,1.6717096574666912e-4
+Southern Europe,41022,850366,18725,418733,3946,School bus monitors,3,69,1.6478280909314527e-4
+Southern Europe,41022,850366,18725,418733,2700,Actors,4,68,1.6239465243962143e-4
+Southern Europe,41022,850366,18725,418733,3210,Recreational therapists,3,68,1.6239465243962143e-4
+Southern Europe,41022,850366,18725,418733,6730,Highway maintenance workers,3,68,1.6239465243962143e-4
+Southern Europe,41022,850366,18725,418733,8335,Shoe and leather workers,3,68,1.6239465243962143e-4
+Southern Europe,41022,850366,18725,418733,5560,"Postal service mail sorters, processors, and processing machine operators",4,67,1.600064957860976e-4
+Southern Europe,41022,850366,18725,418733,6950,Other extraction workers,3,67,1.600064957860976e-4
+Southern Europe,41022,850366,18725,418733,7510,"Coin, vending, and amusement machine servicers and repairers",4,66,1.5761833913257374e-4
+Southern Europe,41022,850366,18725,418733,7540,Locksmiths and safe repairers,2,64,1.5284202582552606e-4
+Southern Europe,41022,850366,18725,418733,7610,"Helpers--installation, maintenance, and repair workers",1,63,1.504538691720022e-4
+Southern Europe,41022,850366,18725,418733,0810,Property appraisers and assessors,4,62,1.4806571251847837e-4
+Southern Europe,41022,850366,18725,418733,1022,Software quality assurance analysts and testers,5,61,1.4567755586495452e-4
+Southern Europe,41022,850366,18725,418733,4930,Sales engineers,3,61,1.4567755586495452e-4
+Southern Europe,41022,850366,18725,418733,6530,Structural iron and steel workers,4,60,1.4328939921143068e-4
+Southern Europe,41022,850366,18725,418733,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",3,60,1.4328939921143068e-4
+Southern Europe,41022,850366,18725,418733,9265,Other rail transportation workers,2,60,1.4328939921143068e-4
+Southern Europe,41022,850366,18725,418733,8750,Jewelers and precious stone and metal workers,5,56,1.337367725973353e-4
+Southern Europe,41022,850366,18725,418733,1910,Biological technicians,4,55,1.3134861594381146e-4
+Southern Europe,41022,850366,18725,418733,2050,"Directors, religious activities and education",5,52,1.2418414598323993e-4
+Southern Europe,41022,850366,18725,418733,3000,Chiropractors,3,52,1.2418414598323993e-4
+Southern Europe,41022,850366,18725,418733,3200,Radiation therapists,1,52,1.2418414598323993e-4
+Southern Europe,41022,850366,18725,418733,4330,Supervisors of personal care and service workers,3,52,1.2418414598323993e-4
+Southern Europe,41022,850366,18725,418733,3646,Medical transcriptionists,2,51,1.2179598932971607e-4
+Southern Europe,41022,850366,18725,418733,7925,"Forming machine setters, operators, and tenders, metal and plastic",2,51,1.2179598932971607e-4
+Southern Europe,41022,850366,18725,418733,4940,Telemarketers,1,50,1.1940783267619223e-4
+Southern Europe,41022,850366,18725,418733,1200,Actuaries,2,49,1.1701967602266839e-4
+Southern Europe,41022,850366,18725,418733,6765,Other construction and related workers,3,48,1.1463151936914454e-4
+Southern Europe,41022,850366,18725,418733,3140,Audiologists,2,47,1.122433627156207e-4
+Southern Europe,41022,850366,18725,418733,3750,Fire inspectors,2,47,1.122433627156207e-4
+Southern Europe,41022,850366,18725,418733,8555,Other woodworkers,3,47,1.122433627156207e-4
+Southern Europe,41022,850366,18725,418733,5250,"Eligibility interviewers, government programs",2,45,1.0746704940857301e-4
+Southern Europe,41022,850366,18725,418733,1900,Agricultural and food science technicians,3,44,1.0507889275504917e-4
+Southern Europe,41022,850366,18725,418733,5150,Procurement clerks,3,44,1.0507889275504917e-4
+Southern Europe,41022,850366,18725,418733,6800,"Derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining",2,44,1.0507889275504917e-4
+Southern Europe,41022,850366,18725,418733,2011,"Child, family, and school social workers",3,43,1.0269073610152531e-4
+Southern Europe,41022,850366,18725,418733,6710,Fence erectors,3,41,9.791442279447762e-5
+Southern Europe,41022,850366,18725,418733,9310,Ship and boat captains and operators,3,41,9.791442279447762e-5
+Southern Europe,41022,850366,18725,418733,8365,"Textile machine setters, operators, and tenders",3,40,9.552626614095378e-5
+Southern Europe,41022,850366,18725,418733,7850,Food cooking machine operators and tenders,1,39,9.313810948742993e-5
+Southern Europe,41022,850366,18725,418733,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",2,39,9.313810948742993e-5
+Southern Europe,41022,850366,18725,418733,6360,Glaziers,3,38,9.074995283390609e-5
+Southern Europe,41022,850366,18725,418733,1450,Materials engineers,1,37,8.836179618038225e-5
+Southern Europe,41022,850366,18725,418733,3120,Podiatrists,2,37,8.836179618038225e-5
+Southern Europe,41022,850366,18725,418733,3401,Emergency medical technicians,3,37,8.836179618038225e-5
+Southern Europe,41022,850366,18725,418733,8310,"Pressers, textile, garment, and related materials",2,37,8.836179618038225e-5
+Southern Europe,41022,850366,18725,418733,8640,"Chemical processing machine setters, operators, and tenders",2,37,8.836179618038225e-5
+Southern Europe,41022,850366,18725,418733,4160,"Food preparation and serving related workers, all other",2,36,8.59736395268584e-5
+Southern Europe,41022,850366,18725,418733,7240,Small engine mechanics,2,36,8.59736395268584e-5
+Southern Europe,41022,850366,18725,418733,7300,Control and valve installers and repairers,2,36,8.59736395268584e-5
+Southern Europe,41022,850366,18725,418733,3330,Nuclear medicine technologists and medical dosimetrists,3,35,8.358548287333456e-5
+Southern Europe,41022,850366,18725,418733,3424,Veterinary technologists and technicians,3,35,8.358548287333456e-5
+Southern Europe,41022,850366,18725,418733,3720,First-line supervisors of firefighting and prevention workers,2,35,8.358548287333456e-5
+Southern Europe,41022,850366,18725,418733,6130,Logging workers,2,34,8.119732621981072e-5
+Southern Europe,41022,850366,18725,418733,7350,"Maintenance workers, machinery",1,34,8.119732621981072e-5
+Southern Europe,41022,850366,18725,418733,8450,Upholsterers,1,34,8.119732621981072e-5
+Southern Europe,41022,850366,18725,418733,7560,Riggers,2,33,7.880916956628687e-5
+Southern Europe,41022,850366,18725,418733,2013,Mental health and substance abuse social workers,3,32,7.642101291276303e-5
+Southern Europe,41022,850366,18725,418733,2105,Judicial law clerks,1,32,7.642101291276303e-5
+Southern Europe,41022,850366,18725,418733,8040,"Metal furnace operators, tenders, pourers, and casters",1,32,7.642101291276303e-5
+Southern Europe,41022,850366,18725,418733,9365,Transportation service attendants,2,30,7.164469960571534e-5
+Southern Europe,41022,850366,18725,418733,0135,Compensation and benefits managers,2,29,6.92565429521915e-5
+Southern Europe,41022,850366,18725,418733,6540,Solar photovoltaic installers,2,28,6.686838629866765e-5
+Southern Europe,41022,850366,18725,418733,7730,Engine and other machine assemblers,2,28,6.686838629866765e-5
+Southern Europe,41022,850366,18725,418733,8910,Etchers and engravers,2,26,6.209207299161997e-5
+Southern Europe,41022,850366,18725,418733,8930,"Paper goods machine setters, operators, and tenders",1,25,5.9703916338096115e-5
+Southern Europe,41022,850366,18725,418733,5500,Cargo and freight agents,2,24,5.731575968457227e-5
+Southern Europe,41022,850366,18725,418733,5530,"Meter readers, utilities",1,24,5.731575968457227e-5
+Southern Europe,41022,850366,18725,418733,6720,Hazardous materials removal workers,1,24,5.731575968457227e-5
+Southern Europe,41022,850366,18725,418733,2723,"Umpires, referees, and other sports officials",1,23,5.492760303104843e-5
+Southern Europe,41022,850366,18725,418733,3261,Acupuncturists,2,23,5.492760303104843e-5
+Southern Europe,41022,850366,18725,418733,3960,Other protective service workers,2,23,5.492760303104843e-5
+Southern Europe,41022,850366,18725,418733,4255,Other grounds maintenance workers,1,23,5.492760303104843e-5
+Southern Europe,41022,850366,18725,418733,8250,Prepress technicians and workers,2,22,5.253944637752458e-5
+Southern Europe,41022,850366,18725,418733,4465,"Morticians, undertakers, and funeral arrangers",2,21,5.015128972400073e-5
+Southern Europe,41022,850366,18725,418733,5340,New accounts clerks,2,21,5.015128972400073e-5
+Southern Europe,41022,850366,18725,418733,9040,Air traffic controllers and airfield operations specialists,2,21,5.015128972400073e-5
+Southern Europe,41022,850366,18725,418733,1640,Conservation scientists and foresters,1,20,4.776313307047689e-5
+Southern Europe,41022,850366,18725,418733,1920,Chemical technicians,3,20,4.776313307047689e-5
+Southern Europe,41022,850366,18725,418733,5820,Word processors and typists,2,20,4.776313307047689e-5
+Southern Europe,41022,850366,18725,418733,4240,Pest control workers,1,19,4.5374976416953045e-5
+Southern Europe,41022,850366,18725,418733,7740,Structural metal fabricators and fitters,1,19,4.5374976416953045e-5
+Southern Europe,41022,850366,18725,418733,2755,"Disc jockeys, except radio",1,18,4.29868197634292e-5
+Southern Europe,41022,850366,18725,418733,4340,Animal trainers,1,18,4.29868197634292e-5
+Southern Europe,41022,850366,18725,418733,9800,Military officer special and tactical operations leaders,2,18,4.29868197634292e-5
+Southern Europe,41022,850366,18725,418733,6120,Forest and conservation workers,1,17,4.059866310990536e-5
+Southern Europe,41022,850366,18725,418733,2862,Court reporters and simultaneous captioners,1,15,3.582234980285767e-5
+Southern Europe,41022,850366,18725,418733,3700,First-line supervisors of correctional officers,1,14,3.3434193149333826e-5
+Southern Europe,41022,850366,18725,418733,7030,Avionics technicians,1,14,3.3434193149333826e-5
+Southern Europe,41022,850366,18725,418733,8025,"Other machine tool setters, operators, and tenders, metal and plastic",1,14,3.3434193149333826e-5
+Southern Europe,41022,850366,18725,418733,8510,Furniture finishers,1,14,3.3434193149333826e-5
+Southern Europe,41022,850366,18725,418733,8600,"Power plant operators, distributors, and dispatchers",1,14,3.3434193149333826e-5
+Southern Europe,41022,850366,18725,418733,9650,Pumping station operators,1,14,3.3434193149333826e-5
+Southern Europe,41022,850366,18725,418733,1600,Agricultural and food scientists,1,13,3.104603649580998e-5
+Southern Europe,41022,850366,18725,418733,8530,"Sawing machine setters, operators, and tenders, wood",1,13,3.104603649580998e-5
+Southern Europe,41022,850366,18725,418733,6010,Agricultural inspectors,1,12,2.8657879842286135e-5
+Southern Europe,41022,850366,18725,418733,5220,"Court, municipal, and license clerks",1,11,2.626972318876229e-5
+Southern Europe,41022,850366,18725,418733,9210,Locomotive engineers and operators,1,11,2.626972318876229e-5
+Southern Europe,41022,850366,18725,418733,9240,Railroad conductors and yardmasters,1,11,2.626972318876229e-5
+Southern Europe,41022,850366,18725,418733,9300,"Sailors and marine oilers, and ship engineers",1,11,2.626972318876229e-5
+Southern Europe,41022,850366,18725,418733,1840,Urban and regional planners,1,10,2.3881566535238444e-5
+Southern Europe,41022,850366,18725,418733,8256,Print binding and finishing workers,1,9,2.14934098817146e-5
+Southern Europe,41022,850366,18725,418733,0510,"Buyers and purchasing agents, farm products",1,6,1.4328939921143068e-5
+Southern Europe,41022,850366,18725,418733,6005,"First-line supervisors of farming, fishing, and forestry workers",1,4,9.552626614095378e-6
+Southern Europe,41022,850366,18725,418733,3256,Nurse anesthetists,1,3,7.164469960571534e-6

@@ -1,398 +1,402 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Bangladesh,13868,309563,7647,172803,4720,Cashiers,458,9914,0.05737168914891524
-Bangladesh,13868,309563,7647,172803,9142,Taxi drivers,358,8020,0.04641123128649387
-Bangladesh,13868,309563,7647,172803,1021,Software developers,302,6938,0.04014976591841577
-Bangladesh,13868,309563,7647,172803,2205,Postsecondary teachers,259,5346,0.030936962899949655
-Bangladesh,13868,309563,7647,172803,2545,Teaching assistants,231,4898,0.02834441531686371
-Bangladesh,13868,309563,7647,172803,4700,First-line supervisors of retail sales workers,182,4655,0.026938189730502365
-Bangladesh,13868,309563,7647,172803,4760,Retail salespersons,209,4504,0.026064362308524738
-Bangladesh,13868,309563,7647,172803,3601,Home health aides,188,4155,0.024044721445808232
-Bangladesh,13868,309563,7647,172803,5240,Customer service representatives,164,3826,0.022140819314479494
-Bangladesh,13868,309563,7647,172803,9130,Driver/sales workers and truck drivers,111,3386,0.01959456722394866
-Bangladesh,13868,309563,7647,172803,4020,Cooks,104,2891,0.01673003362210147
-Bangladesh,13868,309563,7647,172803,0440,Other managers,124,2732,0.015809910707568733
-Bangladesh,13868,309563,7647,172803,0800,Accountants and auditors,115,2609,0.015098117509533979
-Bangladesh,13868,309563,7647,172803,1530,Other engineers,111,2562,0.014826131490772729
-Bangladesh,13868,309563,7647,172803,4110,Waiters and waitresses,109,2481,0.014357389628652281
-Bangladesh,13868,309563,7647,172803,3602,Personal care aides,121,2339,0.013535644635799147
-Bangladesh,13868,309563,7647,172803,3090,Physicians,97,2255,0.013049541963970533
-Bangladesh,13868,309563,7647,172803,1760,"Physical scientists, all other",87,2053,0.011880580776954103
-Bangladesh,13868,309563,7647,172803,0310,Food service managers,90,2020,0.01168961187016429
-Bangladesh,13868,309563,7647,172803,0120,Financial managers,73,2017,0.011672251060456126
-Bangladesh,13868,309563,7647,172803,4055,Fast food and counter workers,71,1919,0.011105131276656077
-Bangladesh,13868,309563,7647,172803,8990,"Miscellaneous production workers, including equipment operators and tenders",74,1869,0.010815784448186663
-Bangladesh,13868,309563,7647,172803,9620,"Laborers and freight, stock, and material movers, hand",69,1793,0.010375977268913155
-Bangladesh,13868,309563,7647,172803,1360,Civil engineers,69,1781,0.010306534030080496
-Bangladesh,13868,309563,7647,172803,2310,Elementary and middle school teachers,76,1637,0.009473215164088587
-Bangladesh,13868,309563,7647,172803,3255,Registered nurses,80,1636,0.009467428227519198
-Bangladesh,13868,309563,7647,172803,1108,"Computer occupations, all other",72,1597,0.009241737701313056
-Bangladesh,13868,309563,7647,172803,9645,Stockers and order fillers,62,1549,0.00896396474598242
-Bangladesh,13868,309563,7647,172803,4000,Chefs and head cooks,57,1378,0.007974398592617025
-Bangladesh,13868,309563,7647,172803,1410,Electrical and electronics engineers,40,1275,0.007378344125970035
-Bangladesh,13868,309563,7647,172803,4030,Food preparation workers,51,1273,0.0073667702528312584
-Bangladesh,13868,309563,7647,172803,7750,Other assemblers and fabricators,51,1239,0.0071700144094720576
-Bangladesh,13868,309563,7647,172803,8225,Other metal workers and plastic workers,47,1155,0.006683911737643444
-Bangladesh,13868,309563,7647,172803,1006,Computer systems analysts,56,1151,0.0066607639913658905
-Bangladesh,13868,309563,7647,172803,3930,Security guards and gaming surveillance officers,54,1144,0.006620255435380173
-Bangladesh,13868,309563,7647,172803,3870,Police officers,59,1139,0.006591320752533231
-Bangladesh,13868,309563,7647,172803,4220,Janitors and building cleaners,36,1129,0.006533451386839349
-Bangladesh,13868,309563,7647,172803,0710,Management analysts,54,1019,0.00589688836420664
-Bangladesh,13868,309563,7647,172803,4230,Maids and housekeeping cleaners,41,975,0.0056422631551535565
-Bangladesh,13868,309563,7647,172803,3645,Medical assistants,36,958,0.005543885233473956
-Bangladesh,13868,309563,7647,172803,0020,General and operations managers,36,956,0.005532311360335179
-Bangladesh,13868,309563,7647,172803,0110,Computer and information systems managers,39,921,0.00532976858040659
-Bangladesh,13868,309563,7647,172803,1240,Other mathematical science occupations,39,919,0.005318194707267814
-Bangladesh,13868,309563,7647,172803,1050,Computer support specialists,48,916,0.005300833897559649
-Bangladesh,13868,309563,7647,172803,5860,"Office clerks, general",44,901,0.005214029849018825
-Bangladesh,13868,309563,7647,172803,6260,Construction laborers,31,888,0.005138799673616777
-Bangladesh,13868,309563,7647,172803,4850,"Sales representatives, wholesale and manufacturing",26,885,0.005121438863908613
-Bangladesh,13868,309563,7647,172803,4710,First-line supervisors of non-retail sales workers,28,876,0.005069356434784118
-Bangladesh,13868,309563,7647,172803,0750,"Business operations specialists, all other",34,837,0.004843665908577976
-Bangladesh,13868,309563,7647,172803,0010,Chief executives and legislators,38,831,0.004808944289161647
-Bangladesh,13868,309563,7647,172803,1022,Software quality assurance analysts and testers,41,820,0.0047452879868983755
-Bangladesh,13868,309563,7647,172803,3050,Pharmacists,28,809,0.004681631684635105
-Bangladesh,13868,309563,7647,172803,0705,Project management specialists,41,807,0.0046700578114963285
-Bangladesh,13868,309563,7647,172803,1650,Other life scientists,29,798,0.004617975382371834
-Bangladesh,13868,309563,7647,172803,1460,Mechanical engineers,32,793,0.004589040699524893
-Bangladesh,13868,309563,7647,172803,3603,Nursing assistants,33,791,0.004577466826386116
-Bangladesh,13868,309563,7647,172803,8740,"Inspectors, testers, sorters, samplers, and weighers",34,746,0.004317054680763644
-Bangladesh,13868,309563,7647,172803,1010,Computer programmers,22,737,0.00426497225163915
-Bangladesh,13868,309563,7647,172803,4600,Childcare workers,43,735,0.004253398378500374
-Bangladesh,13868,309563,7647,172803,4521,Manicurists and pedicurists,43,732,0.0042360375687922084
-Bangladesh,13868,309563,7647,172803,5740,"Secretaries and administrative assistants, except legal, medical, and executive",34,710,0.004108724964265667
-Bangladesh,13868,309563,7647,172803,3421,Pharmacy technicians,33,698,0.0040392817254330075
-Bangladesh,13868,309563,7647,172803,9640,"Packers and packagers, hand",37,675,0.0039061821843370775
-Bangladesh,13868,309563,7647,172803,2100,"Lawyers, and judges, magistrates, and other judicial workers",25,640,0.0037036394044084884
-Bangladesh,13868,309563,7647,172803,0845,Financial and investment analysts,29,630,0.0036457700387146057
-Bangladesh,13868,309563,7647,172803,2360,Other teachers and instructors,29,629,0.0036399831021452175
-Bangladesh,13868,309563,7647,172803,5940,Other office and administrative support workers,22,586,0.0033911448296615222
-Bangladesh,13868,309563,7647,172803,4010,First-line supervisors of food preparation and serving workers,25,584,0.0033795709565227457
-Bangladesh,13868,309563,7647,172803,1970,"Other life, physical, and social science technicians",32,562,0.003252258351996204
-Bangladesh,13868,309563,7647,172803,4920,Real estate brokers and sales agents,28,560,0.0032406844788574274
-Bangladesh,13868,309563,7647,172803,0630,Human resources workers,22,545,0.0031538804303166035
-Bangladesh,13868,309563,7647,172803,5540,Postal service clerks,21,545,0.0031538804303166035
-Bangladesh,13868,309563,7647,172803,4120,"Food servers, nonrestaurant",17,544,0.0031480934937472152
-Bangladesh,13868,309563,7647,172803,2300,Preschool and kindergarten teachers,32,540,0.003124945747469662
-Bangladesh,13868,309563,7647,172803,0230,Education and childcare administrators,22,528,0.003055502508637003
-Bangladesh,13868,309563,7647,172803,9005,Supervisors of transportation and material moving workers,21,528,0.003055502508637003
-Bangladesh,13868,309563,7647,172803,5110,Billing and posting clerks,17,522,0.003020780889220673
-Bangladesh,13868,309563,7647,172803,7700,First-line supervisors of production and operating workers,23,516,0.0029860592698043435
-Bangladesh,13868,309563,7647,172803,4130,Dining room and cafeteria attendants and bartender helpers,21,514,0.002974485396665567
-Bangladesh,13868,309563,7647,172803,3030,Dietitians and nutritionists,5,497,0.0028761074749859665
-Bangladesh,13868,309563,7647,172803,0410,"Property, real estate, and community association managers",20,495,0.00286453360184719
-Bangladesh,13868,309563,7647,172803,5400,Receptionists and information clerks,27,492,0.002847172792139025
-Bangladesh,13868,309563,7647,172803,5000,First-line supervisors of office and administrative support workers,28,485,0.0028066642361533074
-Bangladesh,13868,309563,7647,172803,5550,Postal service mail carriers,25,482,0.0027893034264451426
-Bangladesh,13868,309563,7647,172803,9141,Shuttle drivers and chauffeurs,20,480,0.002777729553306366
-Bangladesh,13868,309563,7647,172803,7720,"Electrical, electronics, and electromechanical assemblers",13,474,0.0027430079338900365
-Bangladesh,13868,309563,7647,172803,1007,Information security analysts,20,471,0.0027256471241818717
-Bangladesh,13868,309563,7647,172803,1555,"Other engineering technologists and technicians, except drafters",24,471,0.0027256471241818717
-Bangladesh,13868,309563,7647,172803,0735,Market research analysts and marketing specialists,13,466,0.0026967124413349304
-Bangladesh,13868,309563,7647,172803,5510,Couriers and messengers,27,464,0.002685138568196154
-Bangladesh,13868,309563,7647,172803,2350,Tutors,25,450,0.002604121456224718
-Bangladesh,13868,309563,7647,172803,1430,"Industrial engineers, including health and safety",23,437,0.002528891280822671
-Bangladesh,13868,309563,7647,172803,9600,Industrial truck and tractor operators,11,437,0.002528891280822671
-Bangladesh,13868,309563,7647,172803,1720,Chemists and materials scientists,12,436,0.0025231043442532825
-Bangladesh,13868,309563,7647,172803,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",18,428,0.0024768088516981764
-Bangladesh,13868,309563,7647,172803,4965,"Sales and related workers, all other",17,422,0.002442087232281847
-Bangladesh,13868,309563,7647,172803,5300,"Hotel, motel, and resort desk clerks",18,414,0.0023957917397267408
-Bangladesh,13868,309563,7647,172803,5610,"Shipping, receiving, and inventory clerks",13,402,0.0023263485008940816
-Bangladesh,13868,309563,7647,172803,0350,Medical and health services managers,21,401,0.0023205615643246934
-Bangladesh,13868,309563,7647,172803,4510,"Hairdressers, hairstylists, and cosmetologists",20,398,0.0023032007546165286
-Bangladesh,13868,309563,7647,172803,9150,"Motor vehicle operators, all other",15,397,0.0022974138180471403
-Bangladesh,13868,309563,7647,172803,0052,Sales managers,17,389,0.0022511183254920342
-Bangladesh,13868,309563,7647,172803,0850,Personal financial advisors,17,385,0.002227970579214481
-Bangladesh,13868,309563,7647,172803,2861,Interpreters and translators,13,363,0.0021006579746879394
-Bangladesh,13868,309563,7647,172803,0220,Construction managers,23,362,0.002094871038118551
-Bangladesh,13868,309563,7647,172803,5560,"Postal service mail sorters, processors, and processing machine operators",14,354,0.002048575545563445
-Bangladesh,13868,309563,7647,172803,2014,"Social workers, all other",13,342,0.001979132306730786
-Bangladesh,13868,309563,7647,172803,2320,Secondary school teachers,19,337,0.0019501976238838446
-Bangladesh,13868,309563,7647,172803,5120,"Bookkeeping, accounting, and auditing clerks",20,337,0.0019501976238838446
-Bangladesh,13868,309563,7647,172803,3300,Clinical laboratory technologists and technicians,18,326,0.0018865413216205737
-Bangladesh,13868,309563,7647,172803,4040,Bartenders,14,315,0.0018228850193573029
-Bangladesh,13868,309563,7647,172803,5600,"Production, planning, and expediting clerks",9,303,0.0017534417805246437
-Bangladesh,13868,309563,7647,172803,5160,Tellers,10,301,0.0017418679073858672
-Bangladesh,13868,309563,7647,172803,0530,"Purchasing agents, except wholesale, retail, and farm products",10,300,0.001736080970816479
-Bangladesh,13868,309563,7647,172803,3500,Licensed practical and licensed vocational nurses,15,300,0.001736080970816479
-Bangladesh,13868,309563,7647,172803,0051,Marketing managers,15,299,0.0017302940342470907
-Bangladesh,13868,309563,7647,172803,0565,Compliance officers,15,297,0.0017187201611083142
-Bangladesh,13868,309563,7647,172803,0340,Lodging managers,10,287,0.0016608507954144315
-Bangladesh,13868,309563,7647,172803,1320,Aerospace engineers,16,280,0.0016203422394287137
-Bangladesh,13868,309563,7647,172803,1450,Materials engineers,10,279,0.0016145553028593254
-Bangladesh,13868,309563,7647,172803,3840,Fish and game wardens and parking enforcement officers,15,269,0.0015566859371654428
-Bangladesh,13868,309563,7647,172803,1105,Network and computer systems administrators,12,262,0.0015161773811797248
-Bangladesh,13868,309563,7647,172803,3258,"Nurse practitioners, and nurse midwives",7,262,0.0015161773811797248
-Bangladesh,13868,309563,7647,172803,0300,Architectural and engineering managers,15,257,0.0014872426983327835
-Bangladesh,13868,309563,7647,172803,1065,Database administrators and architects,16,255,0.001475668825194007
-Bangladesh,13868,309563,7647,172803,4950,"Door-to-door sales workers, news and street vendors, and related workers",7,249,0.0014409472057776774
-Bangladesh,13868,309563,7647,172803,2640,Other designers,14,248,0.0014351602692082891
-Bangladesh,13868,309563,7647,172803,6355,Electricians,9,239,0.0013830778400837948
-Bangladesh,13868,309563,7647,172803,0140,Industrial production managers,10,238,0.0013772909035144065
-Bangladesh,13868,309563,7647,172803,1220,Operations research analysts,12,235,0.0013599300938062417
-Bangladesh,13868,309563,7647,172803,6230,Carpenters,7,235,0.0013599300938062417
-Bangladesh,13868,309563,7647,172803,6410,Painters and paperhangers,11,234,0.0013541431572368535
-Bangladesh,13868,309563,7647,172803,7640,"Other installation, maintenance, and repair workers",4,232,0.001342569284098077
-Bangladesh,13868,309563,7647,172803,8800,Packaging and filling machine operators and tenders,11,223,0.0012904868549735826
-Bangladesh,13868,309563,7647,172803,2040,Clergy,9,221,0.001278912981834806
-Bangladesh,13868,309563,7647,172803,6050,Other agricultural workers,6,219,0.0012673391086960295
-Bangladesh,13868,309563,7647,172803,5810,Data entry keyers,15,214,0.0012384044258490882
-Bangladesh,13868,309563,7647,172803,0160,"Transportation, storage, and distribution managers",11,211,0.0012210436161409234
-Bangladesh,13868,309563,7647,172803,2634,Graphic designers,11,209,0.001209469743002147
-Bangladesh,13868,309563,7647,172803,7330,Industrial and refractory machinery mechanics,5,205,0.0011863219967245939
-Bangladesh,13868,309563,7647,172803,5840,Insurance claims and policy processing clerks,5,204,0.0011805350601552056
-Bangladesh,13868,309563,7647,172803,4400,Gambling services workers,11,203,0.0011747481235858173
-Bangladesh,13868,309563,7647,172803,3655,Other healthcare support workers,8,200,0.0011573873138776526
-Bangladesh,13868,309563,7647,172803,2170,"Title examiners, abstractors, and searchers",8,189,0.0010937310116143817
-Bangladesh,13868,309563,7647,172803,1106,Computer network architects,10,188,0.0010879440750449934
-Bangladesh,13868,309563,7647,172803,2330,Special education teachers,10,188,0.0010879440750449934
-Bangladesh,13868,309563,7647,172803,4530,"Baggage porters, bellhops, and concierges",12,187,0.0010821571384756052
-Bangladesh,13868,309563,7647,172803,3110,Physician assistants,10,178,0.0010300747093511108
-Bangladesh,13868,309563,7647,172803,9122,"Bus drivers, transit and intercity",10,178,0.0010300747093511108
-Bangladesh,13868,309563,7647,172803,2722,Coaches and scouts,4,176,0.0010185008362123343
-Bangladesh,13868,309563,7647,172803,7800,Bakers,7,168,9.722053436572282e-4
-Bangladesh,13868,309563,7647,172803,2145,Paralegals and legal assistants,10,162,9.374837242408986e-4
-Bangladesh,13868,309563,7647,172803,1400,Computer hardware engineers,7,156,9.02762104824569e-4
-Bangladesh,13868,309563,7647,172803,3945,Transportation security screeners,6,155,8.969751682551808e-4
-Bangladesh,13868,309563,7647,172803,5330,Loan interviewers and clerks,4,152,8.79614358547016e-4
-Bangladesh,13868,309563,7647,172803,1305,"Architects, except landscape and naval",9,150,8.680404854082395e-4
-Bangladesh,13868,309563,7647,172803,1350,Chemical engineers,9,146,8.448927391306864e-4
-Bangladesh,13868,309563,7647,172803,2850,Writers and authors,4,146,8.448927391306864e-4
-Bangladesh,13868,309563,7647,172803,3322,Diagnostic medical sonographers,8,146,8.448927391306864e-4
-Bangladesh,13868,309563,7647,172803,3160,Physical therapists,6,144,8.333188659919099e-4
-Bangladesh,13868,309563,7647,172803,0420,Social and community service managers,11,143,8.275319294225216e-4
-Bangladesh,13868,309563,7647,172803,9365,Transportation service attendants,7,142,8.217449928531334e-4
-Bangladesh,13868,309563,7647,172803,4900,"Models, demonstrators, and product promoters",4,139,8.043841831449686e-4
-Bangladesh,13868,309563,7647,172803,3545,Miscellaneous health technologists and technicians,8,138,7.985972465755803e-4
-Bangladesh,13868,309563,7647,172803,0910,Credit counselors and loan officers,4,137,7.928103100061921e-4
-Bangladesh,13868,309563,7647,172803,2910,Photographers,5,136,7.870233734368038e-4
-Bangladesh,13868,309563,7647,172803,3323,Radiologic technologists and technicians,9,136,7.870233734368038e-4
-Bangladesh,13868,309563,7647,172803,4140,Dishwashers,4,135,7.812364368674155e-4
-Bangladesh,13868,309563,7647,172803,5320,"Library assistants, clerical",11,135,7.812364368674155e-4
-Bangladesh,13868,309563,7647,172803,3647,Pharmacy aides,7,133,7.69662563728639e-4
-Bangladesh,13868,309563,7647,172803,6200,First-line supervisors of construction trades and extraction workers,9,133,7.69662563728639e-4
-Bangladesh,13868,309563,7647,172803,3520,"Opticians, dispensing",4,132,7.638756271592508e-4
-Bangladesh,13868,309563,7647,172803,7200,Automotive service technicians and mechanics,8,131,7.580886905898624e-4
-Bangladesh,13868,309563,7647,172803,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",6,130,7.523017540204741e-4
-Bangladesh,13868,309563,7647,172803,5900,"Office machine operators, except computer",4,130,7.523017540204741e-4
-Bangladesh,13868,309563,7647,172803,3402,Paramedics,5,129,7.465148174510859e-4
-Bangladesh,13868,309563,7647,172803,3010,Dentists,4,127,7.349409443123093e-4
-Bangladesh,13868,309563,7647,172803,4810,Insurance sales agents,6,127,7.349409443123093e-4
-Bangladesh,13868,309563,7647,172803,5920,Statistical assistants,5,127,7.349409443123093e-4
-Bangladesh,13868,309563,7647,172803,0136,Human resources managers,8,122,7.06006261465368e-4
-Bangladesh,13868,309563,7647,172803,4621,Exercise trainers and group fitness instructors,6,122,7.06006261465368e-4
-Bangladesh,13868,309563,7647,172803,2600,Artists and related workers,6,121,7.002193248959798e-4
-Bangladesh,13868,309563,7647,172803,2825,Public relations specialists,5,121,7.002193248959798e-4
-Bangladesh,13868,309563,7647,172803,6660,Construction and building inspectors,7,119,6.886454517572033e-4
-Bangladesh,13868,309563,7647,172803,2006,"Counselors, all other",6,118,6.82858515187815e-4
-Bangladesh,13868,309563,7647,172803,7010,"Computer, automated teller, and office machine repairers",5,118,6.82858515187815e-4
-Bangladesh,13868,309563,7647,172803,7810,"Butchers and other meat, poultry, and fish processing workers",4,118,6.82858515187815e-4
-Bangladesh,13868,309563,7647,172803,1310,"Surveyors, cartographers, and photogrammetrists",3,113,6.539238323408737e-4
-Bangladesh,13868,309563,7647,172803,3649,Phlebotomists,6,112,6.481368957714854e-4
-Bangladesh,13868,309563,7647,172803,3321,Cardiovascular technologists and technicians,5,111,6.423499592020972e-4
-Bangladesh,13868,309563,7647,172803,3310,Dental hygienists,6,110,6.365630226327089e-4
-Bangladesh,13868,309563,7647,172803,5140,Payroll and timekeeping clerks,3,110,6.365630226327089e-4
-Bangladesh,13868,309563,7647,172803,7855,"Food processing workers, all other",4,109,6.307760860633206e-4
-Bangladesh,13868,309563,7647,172803,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,2,109,6.307760860633206e-4
-Bangladesh,13868,309563,7647,172803,9350,Parking attendants,5,109,6.307760860633206e-4
-Bangladesh,13868,309563,7647,172803,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",2,108,6.249891494939324e-4
-Bangladesh,13868,309563,7647,172803,3245,Other therapists,5,107,6.192022129245441e-4
-Bangladesh,13868,309563,7647,172803,0540,"Claims adjusters, appraisers, examiners, and investigators",8,106,6.134152763551558e-4
-Bangladesh,13868,309563,7647,172803,3620,Physical therapist assistants and aides,4,106,6.134152763551558e-4
-Bangladesh,13868,309563,7647,172803,3910,Private detectives and investigators,5,106,6.134152763551558e-4
-Bangladesh,13868,309563,7647,172803,7340,"Maintenance and repair workers, general",8,106,6.134152763551558e-4
-Bangladesh,13868,309563,7647,172803,1800,Economists,6,105,6.076283397857676e-4
-Bangladesh,13868,309563,7647,172803,2002,"Educational, guidance, and career counselors and advisors",8,105,6.076283397857676e-4
-Bangladesh,13868,309563,7647,172803,3150,Occupational therapists,5,101,5.844805935082145e-4
-Bangladesh,13868,309563,7647,172803,7020,Radio and telecommunications equipment installers and repairers,4,99,5.72906720369438e-4
-Bangladesh,13868,309563,7647,172803,5410,Reservation and transportation ticket agents and travel clerks,6,98,5.671197838000498e-4
-Bangladesh,13868,309563,7647,172803,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",5,98,5.671197838000498e-4
-Bangladesh,13868,309563,7647,172803,3640,Dental assistants,7,97,5.613328472306615e-4
-Bangladesh,13868,309563,7647,172803,2920,"Television, video, and film camera operators and editors",3,96,5.555459106612732e-4
-Bangladesh,13868,309563,7647,172803,4820,"Securities, commodities, and financial services sales agents",7,94,5.439720375224967e-4
-Bangladesh,13868,309563,7647,172803,1541,Architectural and civil drafters,2,93,5.381851009531084e-4
-Bangladesh,13868,309563,7647,172803,3515,Medical records specialists,5,91,5.266112278143319e-4
-Bangladesh,13868,309563,7647,172803,8300,Laundry and dry-cleaning workers,4,90,5.208242912449437e-4
-Bangladesh,13868,309563,7647,172803,4240,Pest control workers,4,88,5.092504181061671e-4
-Bangladesh,13868,309563,7647,172803,4800,Advertising sales agents,4,88,5.092504181061671e-4
-Bangladesh,13868,309563,7647,172803,2555,Other educational instruction and library workers,6,87,5.034634815367789e-4
-Bangladesh,13868,309563,7647,172803,5360,"Human resources assistants, except payroll and timekeeping",6,85,4.918896083980024e-4
-Bangladesh,13868,309563,7647,172803,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,85,4.918896083980024e-4
-Bangladesh,13868,309563,7647,172803,0726,Fundraisers,3,84,4.861026718286141e-4
-Bangladesh,13868,309563,7647,172803,1031,Web developers,5,84,4.861026718286141e-4
-Bangladesh,13868,309563,7647,172803,7905,Computer numerically controlled tool operators and programmers,3,84,4.861026718286141e-4
-Bangladesh,13868,309563,7647,172803,8830,Photographic process workers and processing machine operators,6,84,4.861026718286141e-4
-Bangladesh,13868,309563,7647,172803,1610,Biological scientists,5,82,4.7452879868983757e-4
-Bangladesh,13868,309563,7647,172803,3750,Fire inspectors,3,82,4.7452879868983757e-4
-Bangladesh,13868,309563,7647,172803,5522,"Dispatchers, except police, fire, and ambulance",4,82,4.7452879868983757e-4
-Bangladesh,13868,309563,7647,172803,5730,Medical secretaries and administrative assistants,6,82,4.7452879868983757e-4
-Bangladesh,13868,309563,7647,172803,3802,Correctional officers and jailers,4,81,4.687418621204493e-4
-Bangladesh,13868,309563,7647,172803,9830,"Military, rank not specified",4,81,4.687418621204493e-4
-Bangladesh,13868,309563,7647,172803,8610,Stationary engineers and boiler operators,3,80,4.6295492555106104e-4
-Bangladesh,13868,309563,7647,172803,9415,Passenger attendants,4,79,4.571679889816728e-4
-Bangladesh,13868,309563,7647,172803,3710,First-line supervisors of police and detectives,5,78,4.513810524122845e-4
-Bangladesh,13868,309563,7647,172803,4830,Travel agents,3,78,4.513810524122845e-4
-Bangladesh,13868,309563,7647,172803,3230,Speech-language pathologists,2,77,4.4559411584289626e-4
-Bangladesh,13868,309563,7647,172803,3250,Veterinarians,2,77,4.4559411584289626e-4
-Bangladesh,13868,309563,7647,172803,0700,Logisticians,3,76,4.39807179273508e-4
-Bangladesh,13868,309563,7647,172803,3430,Dietetic technicians and ophthalmic medical technicians,4,76,4.39807179273508e-4
-Bangladesh,13868,309563,7647,172803,2025,Other community and social service specialists,5,75,4.3402024270411974e-4
-Bangladesh,13868,309563,7647,172803,6442,"Plumbers, pipefitters, and steamfitters",4,75,4.3402024270411974e-4
-Bangladesh,13868,309563,7647,172803,4622,Recreation workers,4,73,4.224463695653432e-4
-Bangladesh,13868,309563,7647,172803,1340,Biomedical and agricultural engineers,3,69,3.9929862328779017e-4
-Bangladesh,13868,309563,7647,172803,1420,Environmental engineers,4,69,3.9929862328779017e-4
-Bangladesh,13868,309563,7647,172803,6305,Construction equipment operators,3,69,3.9929862328779017e-4
-Bangladesh,13868,309563,7647,172803,9040,Air traffic controllers and airfield operations specialists,4,69,3.9929862328779017e-4
-Bangladesh,13868,309563,7647,172803,2001,Substance abuse and behavioral disorder counselors,4,68,3.935116867184019e-4
-Bangladesh,13868,309563,7647,172803,3401,Emergency medical technicians,3,67,3.8772475014901364e-4
-Bangladesh,13868,309563,7647,172803,0520,"Wholesale and retail buyers, except farm products",6,66,3.819378135796254e-4
-Bangladesh,13868,309563,7647,172803,5310,"Interviewers, except eligibility and loan",6,66,3.819378135796254e-4
-Bangladesh,13868,309563,7647,172803,3324,Magnetic resonance imaging technologists,3,65,3.7615087701023706e-4
-Bangladesh,13868,309563,7647,172803,3940,Crossing guards and flaggers,5,65,3.7615087701023706e-4
-Bangladesh,13868,309563,7647,172803,2830,Editors,4,64,3.703639404408488e-4
-Bangladesh,13868,309563,7647,172803,3946,School bus monitors,4,64,3.703639404408488e-4
-Bangladesh,13868,309563,7647,172803,4251,Landscaping and groundskeeping workers,4,63,3.6457700387146054e-4
-Bangladesh,13868,309563,7647,172803,5165,Other financial clerks,6,63,3.6457700387146054e-4
-Bangladesh,13868,309563,7647,172803,0060,Public relations and fundraising managers,3,62,3.587900673020723e-4
-Bangladesh,13868,309563,7647,172803,7140,Aircraft mechanics and service technicians,6,62,3.587900673020723e-4
-Bangladesh,13868,309563,7647,172803,0960,Other financial specialists,3,61,3.53003130732684e-4
-Bangladesh,13868,309563,7647,172803,4330,Supervisors of personal care and service workers,3,61,3.53003130732684e-4
-Bangladesh,13868,309563,7647,172803,8710,Cutting workers,3,61,3.53003130732684e-4
-Bangladesh,13868,309563,7647,172803,1980,Occupational health and safety specialists and technicians,3,60,3.4721619416329576e-4
-Bangladesh,13868,309563,7647,172803,4655,"Personal care and service workers, all other",6,60,3.4721619416329576e-4
-Bangladesh,13868,309563,7647,172803,8810,Painting workers,3,60,3.4721619416329576e-4
-Bangladesh,13868,309563,7647,172803,3646,Medical transcriptionists,4,59,3.414292575939075e-4
-Bangladesh,13868,309563,7647,172803,3820,Detectives and criminal investigators,3,59,3.414292575939075e-4
-Bangladesh,13868,309563,7647,172803,9610,Cleaners of vehicles and equipment,4,59,3.414292575939075e-4
-Bangladesh,13868,309563,7647,172803,5260,File clerks,3,58,3.3564232102451923e-4
-Bangladesh,13868,309563,7647,172803,8025,"Other machine tool setters, operators, and tenders, metal and plastic",1,58,3.3564232102451923e-4
-Bangladesh,13868,309563,7647,172803,2012,Healthcare social workers,3,57,3.2985538445513097e-4
-Bangladesh,13868,309563,7647,172803,7850,Food cooking machine operators and tenders,3,57,3.2985538445513097e-4
-Bangladesh,13868,309563,7647,172803,8650,"Crushing, grinding, polishing, mixing, and blending workers",2,57,3.2985538445513097e-4
-Bangladesh,13868,309563,7647,172803,4540,Tour and travel guides,3,56,3.240684478857427e-4
-Bangladesh,13868,309563,7647,172803,9825,Military enlisted tactical operations and air/weapons specialists and crew members,4,55,3.1828151131635445e-4
-Bangladesh,13868,309563,7647,172803,0650,Training and development specialists,4,53,3.067076381775779e-4
-Bangladesh,13868,309563,7647,172803,1306,Landscape architects,1,53,3.067076381775779e-4
-Bangladesh,13868,309563,7647,172803,2810,"News analysts, reporters, and journalists",3,53,3.067076381775779e-4
-Bangladesh,13868,309563,7647,172803,5521,Public safety telecommunicators,2,52,3.0092070160818966e-4
-Bangladesh,13868,309563,7647,172803,8250,Prepress technicians and workers,2,52,3.0092070160818966e-4
-Bangladesh,13868,309563,7647,172803,8640,"Chemical processing machine setters, operators, and tenders",2,52,3.0092070160818966e-4
-Bangladesh,13868,309563,7647,172803,0860,Insurance underwriters,2,51,2.951337650388014e-4
-Bangladesh,13868,309563,7647,172803,0725,"Meeting, convention, and event planners",3,50,2.8934682846941314e-4
-Bangladesh,13868,309563,7647,172803,3040,Optometrists,3,50,2.8934682846941314e-4
-Bangladesh,13868,309563,7647,172803,7830,"Food and tobacco roasting, baking, and drying machine operators and tenders",1,50,2.8934682846941314e-4
-Bangladesh,13868,309563,7647,172803,8255,Printing press operators,4,49,2.835598919000249e-4
-Bangladesh,13868,309563,7647,172803,3220,Respiratory therapists,4,48,2.777729553306366e-4
-Bangladesh,13868,309563,7647,172803,8320,Sewing machine operators,4,48,2.777729553306366e-4
-Bangladesh,13868,309563,7647,172803,9430,Other transportation workers,3,48,2.777729553306366e-4
-Bangladesh,13868,309563,7647,172803,7840,Food batchmakers,4,47,2.7198601876124835e-4
-Bangladesh,13868,309563,7647,172803,2865,"Media and communication workers, all other",2,46,2.661990821918601e-4
-Bangladesh,13868,309563,7647,172803,3550,Other healthcare practitioners and technical occupations,2,46,2.661990821918601e-4
-Bangladesh,13868,309563,7647,172803,8140,"Welding, soldering, and brazing workers",1,46,2.661990821918601e-4
-Bangladesh,13868,309563,7647,172803,9121,"Bus drivers, school",4,45,2.6041214562247183e-4
-Bangladesh,13868,309563,7647,172803,5340,New accounts clerks,2,44,2.5462520905308357e-4
-Bangladesh,13868,309563,7647,172803,2005,Rehabilitation counselors,1,43,2.488382724836953e-4
-Bangladesh,13868,309563,7647,172803,4740,Counter and rental clerks,2,43,2.488382724836953e-4
-Bangladesh,13868,309563,7647,172803,8950,Helpers--production workers,3,43,2.488382724836953e-4
-Bangladesh,13868,309563,7647,172803,3960,Other protective service workers,3,42,2.4305133591430705e-4
-Bangladesh,13868,309563,7647,172803,9630,Machine feeders and offbearers,3,42,2.4305133591430705e-4
-Bangladesh,13868,309563,7647,172803,0820,Budget analysts,4,41,2.3726439934491878e-4
-Bangladesh,13868,309563,7647,172803,5820,Word processors and typists,1,41,2.3726439934491878e-4
-Bangladesh,13868,309563,7647,172803,8350,"Tailors, dressmakers, and sewers",4,41,2.3726439934491878e-4
-Bangladesh,13868,309563,7647,172803,2440,Library technicians,4,38,2.19903589636754e-4
-Bangladesh,13868,309563,7647,172803,3630,Massage therapists,2,38,2.19903589636754e-4
-Bangladesh,13868,309563,7647,172803,7150,Automotive body and related repairers,2,38,2.19903589636754e-4
-Bangladesh,13868,309563,7647,172803,9720,Refuse and recyclable material collectors,3,38,2.19903589636754e-4
-Bangladesh,13868,309563,7647,172803,1840,Urban and regional planners,2,37,2.1411665306736574e-4
-Bangladesh,13868,309563,7647,172803,0930,"Tax examiners and collectors, and revenue agents",3,36,2.0832971649797748e-4
-Bangladesh,13868,309563,7647,172803,0830,Credit analysts,1,35,2.0254277992858921e-4
-Bangladesh,13868,309563,7647,172803,0940,Tax preparers,3,35,2.0254277992858921e-4
-Bangladesh,13868,309563,7647,172803,2435,Librarians and media collections specialists,3,35,2.0254277992858921e-4
-Bangladesh,13868,309563,7647,172803,0101,Administrative services managers,1,34,1.9675584335920095e-4
-Bangladesh,13868,309563,7647,172803,0150,Purchasing managers,3,34,1.9675584335920095e-4
-Bangladesh,13868,309563,7647,172803,4350,Animal caretakers,2,34,1.9675584335920095e-4
-Bangladesh,13868,309563,7647,172803,6700,Elevator installers and repairers,3,34,1.9675584335920095e-4
-Bangladesh,13868,309563,7647,172803,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
-						and plastic",1,34,1.9675584335920095e-4
-Bangladesh,13868,309563,7647,172803,1700,Astronomers and physicists,2,33,1.909689067898127e-4
-Bangladesh,13868,309563,7647,172803,1822,School psychologists,1,33,1.909689067898127e-4
-Bangladesh,13868,309563,7647,172803,2016,Social and human service assistants,3,33,1.909689067898127e-4
-Bangladesh,13868,309563,7647,172803,4420,"Ushers, lobby attendants, and ticket takers",1,33,1.909689067898127e-4
-Bangladesh,13868,309563,7647,172803,1520,"Petroleum, mining and geological engineers, including mining safety engineers",1,32,1.851819702204244e-4
-Bangladesh,13868,309563,7647,172803,3261,Acupuncturists,2,32,1.851819702204244e-4
-Bangladesh,13868,309563,7647,172803,8750,Jewelers and precious stone and metal workers,2,32,1.851819702204244e-4
-Bangladesh,13868,309563,7647,172803,9650,Pumping station operators,3,31,1.7939503365103614e-4
-Bangladesh,13868,309563,7647,172803,5850,"Mail clerks and mail machine operators, except postal service",2,30,1.7360809708164788e-4
-Bangladesh,13868,309563,7647,172803,0137,Training and development managers,1,29,1.6782116051225962e-4
-Bangladesh,13868,309563,7647,172803,2004,Mental health counselors,2,29,1.6782116051225962e-4
-Bangladesh,13868,309563,7647,172803,5040,"Communications equipment operators, all other",1,29,1.6782116051225962e-4
-Bangladesh,13868,309563,7647,172803,8030,Machinists,3,29,1.6782116051225962e-4
-Bangladesh,13868,309563,7647,172803,9760,Other material moving workers,2,28,1.6203422394287135e-4
-Bangladesh,13868,309563,7647,172803,0500,"Agents and business managers of artists, performers, and athletes",1,27,1.562472873734831e-4
-Bangladesh,13868,309563,7647,172803,1551,Electrical and electronic engineering technologists and technicians,1,27,1.562472873734831e-4
-Bangladesh,13868,309563,7647,172803,4435,Other entertainment attendants and related workers,2,27,1.562472873734831e-4
-Bangladesh,13868,309563,7647,172803,7130,Security and fire alarm systems installers,2,27,1.562472873734831e-4
-Bangladesh,13868,309563,7647,172803,2013,Mental health and substance abuse social workers,2,26,1.5046035080409483e-4
-Bangladesh,13868,309563,7647,172803,2180,"Legal support workers, all other",2,26,1.5046035080409483e-4
-Bangladesh,13868,309563,7647,172803,4160,"Food preparation and serving related workers, all other",2,26,1.5046035080409483e-4
-Bangladesh,13868,309563,7647,172803,5710,Executive secretaries and executive administrative assistants,1,26,1.5046035080409483e-4
-Bangladesh,13868,309563,7647,172803,1920,Chemical technicians,1,25,1.4467341423470657e-4
-Bangladesh,13868,309563,7647,172803,2840,Technical writers,1,25,1.4467341423470657e-4
-Bangladesh,13868,309563,7647,172803,5100,Bill and account collectors,2,25,1.4467341423470657e-4
-Bangladesh,13868,309563,7647,172803,6460,Plasterers and stucco masons,1,25,1.4467341423470657e-4
-Bangladesh,13868,309563,7647,172803,8465,"Other textile, apparel, and furnishings workers",2,25,1.4467341423470657e-4
-Bangladesh,13868,309563,7647,172803,2011,"Child, family, and school social workers",2,24,1.388864776653183e-4
-Bangladesh,13868,309563,7647,172803,5020,Telephone operators,2,24,1.388864776653183e-4
-Bangladesh,13868,309563,7647,172803,1600,Agricultural and food scientists,2,23,1.3309954109593005e-4
-Bangladesh,13868,309563,7647,172803,1821,Clinical and counseling psychologists,1,23,1.3309954109593005e-4
-Bangladesh,13868,309563,7647,172803,0102,Facilities managers,1,22,1.2731260452654178e-4
-Bangladesh,13868,309563,7647,172803,0360,Natural sciences managers,2,22,1.2731260452654178e-4
-Bangladesh,13868,309563,7647,172803,1825,Other psychologists,1,22,1.2731260452654178e-4
-Bangladesh,13868,309563,7647,172803,4522,Skincare specialists,2,22,1.2731260452654178e-4
-Bangladesh,13868,309563,7647,172803,4750,Parts salespersons,1,22,1.2731260452654178e-4
-Bangladesh,13868,309563,7647,172803,7430,Precision instrument and equipment repairers,1,22,1.2731260452654178e-4
-Bangladesh,13868,309563,7647,172803,4500,Barbers,1,21,1.2152566795715352e-4
-Bangladesh,13868,309563,7647,172803,2770,"Entertainers and performers, sports and related workers, all other",1,20,1.1573873138776526e-4
-Bangladesh,13868,309563,7647,172803,2905,Other media and communication equipment workers,2,20,1.1573873138776526e-4
-Bangladesh,13868,309563,7647,172803,2751,Music directors and composers,1,18,1.0416485824898874e-4
-Bangladesh,13868,309563,7647,172803,3000,Chiropractors,1,18,1.0416485824898874e-4
-Bangladesh,13868,309563,7647,172803,3210,Recreational therapists,1,18,1.0416485824898874e-4
-Bangladesh,13868,309563,7647,172803,3256,Nurse anesthetists,1,18,1.0416485824898874e-4
-Bangladesh,13868,309563,7647,172803,3423,Surgical technologists,1,18,1.0416485824898874e-4
-Bangladesh,13868,309563,7647,172803,0640,"Compensation, benefits, and job analysis specialists",1,17,9.837792167960048e-5
-Bangladesh,13868,309563,7647,172803,7315,"Heating, air conditioning, and refrigeration mechanics and installers",2,17,9.837792167960048e-5
-Bangladesh,13868,309563,7647,172803,2060,"Religious workers, all other",1,15,8.680404854082394e-5
-Bangladesh,13868,309563,7647,172803,8630,Miscellaneous plant and system operators,2,15,8.680404854082394e-5
-Bangladesh,13868,309563,7647,172803,1545,Other drafters,2,14,8.101711197143568e-5
-Bangladesh,13868,309563,7647,172803,1560,Surveying and mapping technicians,1,14,8.101711197143568e-5
-Bangladesh,13868,309563,7647,172803,1860,Other social scientists,3,14,8.101711197143568e-5
-Bangladesh,13868,309563,7647,172803,2631,Commercial and industrial designers,1,14,8.101711197143568e-5
-Bangladesh,13868,309563,7647,172803,3720,First-line supervisors of firefighting and prevention workers,1,14,8.101711197143568e-5
-Bangladesh,13868,309563,7647,172803,4340,Animal trainers,1,13,7.523017540204742e-5
-Bangladesh,13868,309563,7647,172803,6825,Surface mining machine operators and earth drillers,1,13,7.523017540204742e-5
-Bangladesh,13868,309563,7647,172803,8600,"Power plant operators, distributors, and dispatchers",1,13,7.523017540204742e-5
-Bangladesh,13868,309563,7647,172803,0600,Cost estimators,2,12,6.944323883265915e-5
-Bangladesh,13868,309563,7647,172803,3422,Psychiatric technicians,1,12,6.944323883265915e-5
-Bangladesh,13868,309563,7647,172803,7000,"First-line supervisors of mechanics, installers, and repairers",1,12,6.944323883265915e-5
-Bangladesh,13868,309563,7647,172803,7410,Electrical power-line installers and repairers,1,12,6.944323883265915e-5
-Bangladesh,13868,309563,7647,172803,8365,"Textile machine setters, operators, and tenders",1,12,6.944323883265915e-5
-Bangladesh,13868,309563,7647,172803,8730,"Furnace, kiln, oven, drier, and kettle operators and tenders",1,12,6.944323883265915e-5
-Bangladesh,13868,309563,7647,172803,1005,Computer and information research scientists,1,11,6.365630226327089e-5
-Bangladesh,13868,309563,7647,172803,2636,Merchandise displayers and window trimmers,1,11,6.365630226327089e-5
-Bangladesh,13868,309563,7647,172803,4525,Other personal appearance workers,1,11,6.365630226327089e-5
-Bangladesh,13868,309563,7647,172803,6720,Hazardous materials removal workers,2,11,6.365630226327089e-5
-Bangladesh,13868,309563,7647,172803,9030,Aircraft pilots and flight engineers,1,11,6.365630226327089e-5
-Bangladesh,13868,309563,7647,172803,2721,Athletes and sports competitors,1,10,5.786936569388263e-5
-Bangladesh,13868,309563,7647,172803,4640,Residential advisors,2,10,5.786936569388263e-5
-Bangladesh,13868,309563,7647,172803,5350,Correspondence clerks and order clerks,1,10,5.786936569388263e-5
-Bangladesh,13868,309563,7647,172803,2003,Marriage and family therapists,1,9,5.208242912449437e-5
-Bangladesh,13868,309563,7647,172803,3725,"Miscellaneous first-line supervisors, protective service workers",1,9,5.208242912449437e-5
-Bangladesh,13868,309563,7647,172803,9050,Flight attendants,2,8,4.62954925551061e-5
-Bangladesh,13868,309563,7647,172803,9265,Other rail transportation workers,1,8,4.62954925551061e-5
-Bangladesh,13868,309563,7647,172803,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,7,4.050855598571784e-5
-Bangladesh,13868,309563,7647,172803,9210,Locomotive engineers and operators,1,7,4.050855598571784e-5
-Bangladesh,13868,309563,7647,172803,1200,Actuaries,1,6,3.472161941632958e-5
-Bangladesh,13868,309563,7647,172803,4930,Sales engineers,1,5,2.8934682846941315e-5
-Bangladesh,13868,309563,7647,172803,0900,Financial examiners,1,4,2.314774627755305e-5
-Bangladesh,13868,309563,7647,172803,4200,First-line supervisors of housekeeping and janitorial workers,1,2,1.1573873138776525e-5
-Bangladesh,13868,309563,7647,172803,9570,"Conveyor, dredge, and hoist and winch operators",1,2,1.1573873138776525e-5
-Bangladesh,13868,309563,7647,172803,5420,Other information and records clerks,1,1,5.7869365693882626e-06
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Bangladesh,13868,309563,8010,179809,4720,Cashiers,484,10398,0.057828028630380016
+Bangladesh,13868,309563,8010,179809,9142,Taxi drivers,377,8398,0.04670511487189184
+Bangladesh,13868,309563,8010,179809,1021,Software developers,305,6977,0.038802284646485996
+Bangladesh,13868,309563,8010,179809,2205,Postsecondary teachers,278,5596,0.03112191269624991
+Bangladesh,13868,309563,8010,179809,4700,First-line supervisors of retail sales workers,197,5017,0.027901829163167583
+Bangladesh,13868,309563,8010,179809,2545,Teaching assistants,236,4970,0.027640440689843112
+Bangladesh,13868,309563,8010,179809,4760,Retail salespersons,211,4530,0.025193399662975714
+Bangladesh,13868,309563,8010,179809,3601,Home health aides,191,4228,0.023513839685444
+Bangladesh,13868,309563,8010,179809,5240,Customer service representatives,173,4060,0.022579514929730992
+Bangladesh,13868,309563,8010,179809,9130,Driver/sales workers and truck drivers,114,3455,0.01921483351778832
+Bangladesh,13868,309563,8010,179809,4020,Cooks,106,3035,0.016879021628505804
+Bangladesh,13868,309563,8010,179809,0440,Other managers,134,2917,0.016222769716755
+Bangladesh,13868,309563,8010,179809,0800,Accountants and auditors,118,2654,0.014760106557513806
+Bangladesh,13868,309563,8010,179809,1530,Other engineers,116,2642,0.014693369074962877
+Bangladesh,13868,309563,8010,179809,4110,Waiters and waitresses,114,2581,0.014354120205328988
+Bangladesh,13868,309563,8010,179809,3090,Physicians,114,2468,0.013725675577974406
+Bangladesh,13868,309563,8010,179809,3602,Personal care aides,124,2377,0.013219583001963194
+Bangladesh,13868,309563,8010,179809,1760,"Physical scientists, all other",93,2151,0.011962693747254031
+Bangladesh,13868,309563,8010,179809,0310,Food service managers,95,2106,0.011712428187688046
+Bangladesh,13868,309563,8010,179809,0120,Financial managers,77,2087,0.01160676050698241
+Bangladesh,13868,309563,8010,179809,4055,Fast food and counter workers,77,2010,0.011178528327280614
+Bangladesh,13868,309563,8010,179809,9620,"Laborers and freight, stock, and material movers, hand",79,1981,0.011017246077782535
+Bangladesh,13868,309563,8010,179809,8990,"Miscellaneous production workers, including equipment operators and tenders",78,1924,0.010700243035665623
+Bangladesh,13868,309563,8010,179809,1360,Civil engineers,73,1849,0.010283133769722317
+Bangladesh,13868,309563,8010,179809,3255,Registered nurses,87,1714,0.009532337091024365
+Bangladesh,13868,309563,8010,179809,2310,Elementary and middle school teachers,76,1637,0.00910410491132257
+Bangladesh,13868,309563,8010,179809,1108,"Computer occupations, all other",73,1614,0.008976191403099956
+Bangladesh,13868,309563,8010,179809,9645,Stockers and order fillers,63,1568,0.008720364386654729
+Bangladesh,13868,309563,8010,179809,3930,Security guards and gaming surveillance officers,73,1436,0.007986252078594509
+Bangladesh,13868,309563,8010,179809,4000,Chefs and head cooks,58,1436,0.007986252078594509
+Bangladesh,13868,309563,8010,179809,4030,Food preparation workers,57,1381,0.0076803719502360835
+Bangladesh,13868,309563,8010,179809,1410,Electrical and electronics engineers,41,1291,0.007179840831104116
+Bangladesh,13868,309563,8010,179809,7750,Other assemblers and fabricators,52,1284,0.007140910632949408
+Bangladesh,13868,309563,8010,179809,1006,Computer systems analysts,57,1162,0.0064624128936816285
+Bangladesh,13868,309563,8010,179809,4220,Janitors and building cleaners,39,1155,0.00642348269552692
+Bangladesh,13868,309563,8010,179809,8225,Other metal workers and plastic workers,47,1155,0.00642348269552692
+Bangladesh,13868,309563,8010,179809,3870,Police officers,59,1139,0.006334499385459015
+Bangladesh,13868,309563,8010,179809,0710,Management analysts,56,1092,0.006073110912134543
+Bangladesh,13868,309563,8010,179809,4230,Maids and housekeeping cleaners,44,1073,0.005967443231428905
+Bangladesh,13868,309563,8010,179809,6260,Construction laborers,34,987,0.005489157939813914
+Bangladesh,13868,309563,8010,179809,3645,Medical assistants,36,958,0.005327875690315835
+Bangladesh,13868,309563,8010,179809,0020,General and operations managers,36,956,0.005316752776557347
+Bangladesh,13868,309563,8010,179809,0110,Computer and information systems managers,41,942,0.00523889238024793
+Bangladesh,13868,309563,8010,179809,4710,First-line supervisors of non-retail sales workers,29,942,0.00523889238024793
+Bangladesh,13868,309563,8010,179809,1050,Computer support specialists,49,930,0.005172154897697001
+Bangladesh,13868,309563,8010,179809,1240,Other mathematical science occupations,40,920,0.00511654032890456
+Bangladesh,13868,309563,8010,179809,5860,"Office clerks, general",46,913,0.005077610130749851
+Bangladesh,13868,309563,8010,179809,4850,"Sales representatives, wholesale and manufacturing",26,885,0.004921889338131017
+Bangladesh,13868,309563,8010,179809,3603,Nursing assistants,36,882,0.004905204967493285
+Bangladesh,13868,309563,8010,179809,0010,Chief executives and legislators,40,877,0.0048773976830970645
+Bangladesh,13868,309563,8010,179809,0750,"Business operations specialists, all other",35,858,0.0047717300023914265
+Bangladesh,13868,309563,8010,179809,0705,Project management specialists,43,838,0.004660500864806545
+Bangladesh,13868,309563,8010,179809,3050,Pharmacists,29,831,0.004621570666651836
+Bangladesh,13868,309563,8010,179809,1022,Software quality assurance analysts and testers,41,820,0.0045603946409801515
+Bangladesh,13868,309563,8010,179809,4600,Childcare workers,46,817,0.004543710270342419
+Bangladesh,13868,309563,8010,179809,1460,Mechanical engineers,33,814,0.004527025899704686
+Bangladesh,13868,309563,8010,179809,1650,Other life scientists,29,798,0.004438042589636781
+Bangladesh,13868,309563,8010,179809,4521,Manicurists and pedicurists,45,785,0.004365743650206608
+Bangladesh,13868,309563,8010,179809,8740,"Inspectors, testers, sorters, samplers, and weighers",35,758,0.004215584314467018
+Bangladesh,13868,309563,8010,179809,1010,Computer programmers,22,737,0.004098793720002892
+Bangladesh,13868,309563,8010,179809,5740,"Secretaries and administrative assistants, except legal, medical, and executive",35,723,0.004020933323693475
+Bangladesh,13868,309563,8010,179809,3421,Pharmacy technicians,34,718,0.003993126039297254
+Bangladesh,13868,309563,8010,179809,4920,Real estate brokers and sales agents,29,706,0.0039263885567463255
+Bangladesh,13868,309563,8010,179809,9640,"Packers and packagers, hand",39,704,0.003915265642987837
+Bangladesh,13868,309563,8010,179809,0845,Financial and investment analysts,30,670,0.0037261761090935383
+Bangladesh,13868,309563,8010,179809,2360,Other teachers and instructors,31,652,0.0036260698852671447
+Bangladesh,13868,309563,8010,179809,2100,"Lawyers, and judges, magistrates, and other judicial workers",25,640,0.0035593324027162155
+Bangladesh,13868,309563,8010,179809,9141,Shuttle drivers and chauffeurs,23,592,0.0032923824725124996
+Bangladesh,13868,309563,8010,179809,5940,Other office and administrative support workers,22,586,0.0032590137312370347
+Bangladesh,13868,309563,8010,179809,4010,First-line supervisors of food preparation and serving workers,25,584,0.0032478908174785465
+Bangladesh,13868,309563,8010,179809,7700,First-line supervisors of production and operating workers,26,580,0.0032256449899615704
+Bangladesh,13868,309563,8010,179809,4120,"Food servers, nonrestaurant",18,566,0.0031477845936521533
+Bangladesh,13868,309563,8010,179809,0230,Education and childcare administrators,25,562,0.0031255387661351768
+Bangladesh,13868,309563,8010,179809,1970,"Other life, physical, and social science technicians",32,562,0.0031255387661351768
+Bangladesh,13868,309563,8010,179809,2300,Preschool and kindergarten teachers,33,550,0.0030588012835842475
+Bangladesh,13868,309563,8010,179809,5510,Couriers and messengers,29,547,0.0030421169129465154
+Bangladesh,13868,309563,8010,179809,0630,Human resources workers,22,545,0.0030309939991880275
+Bangladesh,13868,309563,8010,179809,5540,Postal service clerks,21,545,0.0030309939991880275
+Bangladesh,13868,309563,8010,179809,9005,Supervisors of transportation and material moving workers,22,545,0.0030309939991880275
+Bangladesh,13868,309563,8010,179809,5000,First-line supervisors of office and administrative support workers,31,532,0.0029586950597578544
+Bangladesh,13868,309563,8010,179809,5110,Billing and posting clerks,17,522,0.0029030804909654134
+Bangladesh,13868,309563,8010,179809,3030,Dietitians and nutritionists,6,519,0.0028863961203276813
+Bangladesh,13868,309563,8010,179809,4130,Dining room and cafeteria attendants and bartender helpers,21,514,0.002858588835931461
+Bangladesh,13868,309563,8010,179809,4965,"Sales and related workers, all other",20,513,0.0028530273790522164
+Bangladesh,13868,309563,8010,179809,0410,"Property, real estate, and community association managers",21,503,0.0027974128102597755
+Bangladesh,13868,309563,8010,179809,5400,Receptionists and information clerks,27,492,0.0027362367845880906
+Bangladesh,13868,309563,8010,179809,1555,"Other engineering technologists and technicians, except drafters",25,486,0.0027028680433126263
+Bangladesh,13868,309563,8010,179809,5550,Postal service mail carriers,25,482,0.0026806222157956497
+Bangladesh,13868,309563,8010,179809,7720,"Electrical, electronics, and electromechanical assemblers",13,474,0.002636130560761697
+Bangladesh,13868,309563,8010,179809,1007,Information security analysts,20,471,0.002619446190123965
+Bangladesh,13868,309563,8010,179809,0735,Market research analysts and marketing specialists,13,466,0.0025916389057277444
+Bangladesh,13868,309563,8010,179809,1720,Chemists and materials scientists,14,450,0.002502655595659839
+Bangladesh,13868,309563,8010,179809,2350,Tutors,25,450,0.002502655595659839
+Bangladesh,13868,309563,8010,179809,1430,"Industrial engineers, including health and safety",23,437,0.002430356656229666
+Bangladesh,13868,309563,8010,179809,9600,Industrial truck and tractor operators,11,437,0.002430356656229666
+Bangladesh,13868,309563,8010,179809,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",18,428,0.0023803035443164693
+Bangladesh,13868,309563,8010,179809,5610,"Shipping, receiving, and inventory clerks",14,425,0.0023636191736787367
+Bangladesh,13868,309563,8010,179809,5300,"Hotel, motel, and resort desk clerks",18,414,0.002302443148007052
+Bangladesh,13868,309563,8010,179809,0052,Sales managers,18,403,0.002241267122335367
+Bangladesh,13868,309563,8010,179809,0350,Medical and health services managers,21,401,0.0022301442085768787
+Bangladesh,13868,309563,8010,179809,4510,"Hairdressers, hairstylists, and cosmetologists",20,398,0.0022134598379391465
+Bangladesh,13868,309563,8010,179809,9150,"Motor vehicle operators, all other",15,397,0.0022078983810599026
+Bangladesh,13868,309563,8010,179809,5560,"Postal service mail sorters, processors, and processing machine operators",16,396,0.0022023369241806583
+Bangladesh,13868,309563,8010,179809,2861,Interpreters and translators,15,395,0.0021967754673014143
+Bangladesh,13868,309563,8010,179809,0850,Personal financial advisors,17,385,0.0021411608985089734
+Bangladesh,13868,309563,8010,179809,0220,Construction managers,23,362,0.0020132473902863593
+Bangladesh,13868,309563,8010,179809,5120,"Bookkeeping, accounting, and auditing clerks",22,356,0.001979878649010895
+Bangladesh,13868,309563,8010,179809,2014,"Social workers, all other",14,343,0.0019075797095807218
+Bangladesh,13868,309563,8010,179809,3300,Clinical laboratory technologists and technicians,19,339,0.0018853338820637455
+Bangladesh,13868,309563,8010,179809,2320,Secondary school teachers,19,337,0.0018742109683052572
+Bangladesh,13868,309563,8010,179809,3500,Licensed practical and licensed vocational nurses,17,325,0.0018074734857543282
+Bangladesh,13868,309563,8010,179809,4040,Bartenders,14,315,0.0017518589169618873
+Bangladesh,13868,309563,8010,179809,1220,Operations research analysts,13,309,0.001718490175686423
+Bangladesh,13868,309563,8010,179809,5600,"Production, planning, and expediting clerks",9,303,0.0016851214344109583
+Bangladesh,13868,309563,8010,179809,5160,Tellers,10,301,0.00167399852065247
+Bangladesh,13868,309563,8010,179809,0530,"Purchasing agents, except wholesale, retail, and farm products",10,300,0.0016684370637732261
+Bangladesh,13868,309563,8010,179809,0051,Marketing managers,15,299,0.001662875606893982
+Bangladesh,13868,309563,8010,179809,1450,Materials engineers,11,298,0.0016573141500147378
+Bangladesh,13868,309563,8010,179809,0565,Compliance officers,15,297,0.0016517526931354937
+Bangladesh,13868,309563,8010,179809,7640,"Other installation, maintenance, and repair workers",6,290,0.0016128224949807852
+Bangladesh,13868,309563,8010,179809,0340,Lodging managers,10,287,0.001596138124343053
+Bangladesh,13868,309563,8010,179809,1320,Aerospace engineers,16,280,0.0015572079261883442
+Bangladesh,13868,309563,8010,179809,3840,Fish and game wardens and parking enforcement officers,15,269,0.0014960319005166594
+Bangladesh,13868,309563,8010,179809,1105,Network and computer systems administrators,12,262,0.0014571017023619506
+Bangladesh,13868,309563,8010,179809,3258,"Nurse practitioners, and nurse midwives",7,262,0.0014571017023619506
+Bangladesh,13868,309563,8010,179809,0300,Architectural and engineering managers,15,257,0.0014292944179657304
+Bangladesh,13868,309563,8010,179809,1065,Database administrators and architects,16,255,0.0014181715042072421
+Bangladesh,13868,309563,8010,179809,4950,"Door-to-door sales workers, news and street vendors, and related workers",7,249,0.0013848027629317775
+Bangladesh,13868,309563,8010,179809,2640,Other designers,14,248,0.0013792413060525336
+Bangladesh,13868,309563,8010,179809,6355,Electricians,9,239,0.0013291881941393368
+Bangladesh,13868,309563,8010,179809,0140,Industrial production managers,10,238,0.0013236267372600927
+Bangladesh,13868,309563,8010,179809,6230,Carpenters,7,235,0.0013069423666223605
+Bangladesh,13868,309563,8010,179809,6410,Painters and paperhangers,11,234,0.0013013809097431163
+Bangladesh,13868,309563,8010,179809,4530,"Baggage porters, bellhops, and concierges",15,233,0.0012958194528638722
+Bangladesh,13868,309563,8010,179809,8800,Packaging and filling machine operators and tenders,11,223,0.0012402048840714313
+Bangladesh,13868,309563,8010,179809,2040,Clergy,9,221,0.0012290819703129432
+Bangladesh,13868,309563,8010,179809,6050,Other agricultural workers,6,219,0.001217959056554455
+Bangladesh,13868,309563,8010,179809,5810,Data entry keyers,15,214,0.0011901517721582347
+Bangladesh,13868,309563,8010,179809,4400,Gambling services workers,12,212,0.0011790288583997464
+Bangladesh,13868,309563,8010,179809,0160,"Transportation, storage, and distribution managers",11,211,0.0011734674015205023
+Bangladesh,13868,309563,8010,179809,2634,Graphic designers,11,209,0.0011623444877620142
+Bangladesh,13868,309563,8010,179809,7330,Industrial and refractory machinery mechanics,5,205,0.0011400986602450379
+Bangladesh,13868,309563,8010,179809,5840,Insurance claims and policy processing clerks,5,204,0.0011345372033657937
+Bangladesh,13868,309563,8010,179809,3655,Other healthcare support workers,8,200,0.0011122913758488174
+Bangladesh,13868,309563,8010,179809,2170,"Title examiners, abstractors, and searchers",8,189,0.0010511153501771323
+Bangladesh,13868,309563,8010,179809,1106,Computer network architects,10,188,0.0010455538932978884
+Bangladesh,13868,309563,8010,179809,2330,Special education teachers,10,188,0.0010455538932978884
+Bangladesh,13868,309563,8010,179809,2722,Coaches and scouts,5,183,0.001017746608901668
+Bangladesh,13868,309563,8010,179809,3110,Physician assistants,10,178,9.899393245054475e-4
+Bangladesh,13868,309563,8010,179809,9122,"Bus drivers, transit and intercity",10,178,9.899393245054475e-4
+Bangladesh,13868,309563,8010,179809,7800,Bakers,7,168,9.343247557130065e-4
+Bangladesh,13868,309563,8010,179809,0420,Social and community service managers,14,167,9.287632988337625e-4
+Bangladesh,13868,309563,8010,179809,1305,"Architects, except landscape and naval",10,162,9.00956014437542e-4
+Bangladesh,13868,309563,8010,179809,2145,Paralegals and legal assistants,10,162,9.00956014437542e-4
+Bangladesh,13868,309563,8010,179809,3945,Transportation security screeners,7,162,9.00956014437542e-4
+Bangladesh,13868,309563,8010,179809,3010,Dentists,7,159,8.842716437998097e-4
+Bangladesh,13868,309563,8010,179809,1400,Computer hardware engineers,7,156,8.675872731620776e-4
+Bangladesh,13868,309563,8010,179809,4140,Dishwashers,6,153,8.509029025243452e-4
+Bangladesh,13868,309563,8010,179809,5330,Loan interviewers and clerks,4,152,8.453414456451012e-4
+Bangladesh,13868,309563,8010,179809,4810,Insurance sales agents,7,149,8.286570750073689e-4
+Bangladesh,13868,309563,8010,179809,2825,Public relations specialists,6,148,8.230956181281249e-4
+Bangladesh,13868,309563,8010,179809,3402,Paramedics,6,148,8.230956181281249e-4
+Bangladesh,13868,309563,8010,179809,1350,Chemical engineers,9,146,8.119727043696366e-4
+Bangladesh,13868,309563,8010,179809,2850,Writers and authors,4,146,8.119727043696366e-4
+Bangladesh,13868,309563,8010,179809,3322,Diagnostic medical sonographers,8,146,8.119727043696366e-4
+Bangladesh,13868,309563,8010,179809,3160,Physical therapists,6,144,8.008497906111485e-4
+Bangladesh,13868,309563,8010,179809,7200,Automotive service technicians and mechanics,9,142,7.897268768526603e-4
+Bangladesh,13868,309563,8010,179809,9365,Transportation service attendants,7,142,7.897268768526603e-4
+Bangladesh,13868,309563,8010,179809,2006,"Counselors, all other",7,139,7.730425062149281e-4
+Bangladesh,13868,309563,8010,179809,4900,"Models, demonstrators, and product promoters",4,139,7.730425062149281e-4
+Bangladesh,13868,309563,8010,179809,3545,Miscellaneous health technologists and technicians,8,138,7.67481049335684e-4
+Bangladesh,13868,309563,8010,179809,0910,Credit counselors and loan officers,4,137,7.619195924564399e-4
+Bangladesh,13868,309563,8010,179809,2910,Photographers,5,136,7.563581355771958e-4
+Bangladesh,13868,309563,8010,179809,3323,Radiologic technologists and technicians,9,136,7.563581355771958e-4
+Bangladesh,13868,309563,8010,179809,5320,"Library assistants, clerical",11,135,7.507966786979518e-4
+Bangladesh,13868,309563,8010,179809,3647,Pharmacy aides,7,133,7.396737649394636e-4
+Bangladesh,13868,309563,8010,179809,6200,First-line supervisors of construction trades and extraction workers,9,133,7.396737649394636e-4
+Bangladesh,13868,309563,8010,179809,3520,"Opticians, dispensing",4,132,7.341123080602195e-4
+Bangladesh,13868,309563,8010,179809,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",6,130,7.229893943017313e-4
+Bangladesh,13868,309563,8010,179809,5900,"Office machine operators, except computer",4,130,7.229893943017313e-4
+Bangladesh,13868,309563,8010,179809,5920,Statistical assistants,5,127,7.06305023663999e-4
+Bangladesh,13868,309563,8010,179809,5522,"Dispatchers, except police, fire, and ambulance",5,125,6.951821099055108e-4
+Bangladesh,13868,309563,8010,179809,7340,"Maintenance and repair workers, general",9,124,6.896206530262668e-4
+Bangladesh,13868,309563,8010,179809,0136,Human resources managers,8,122,6.784977392677786e-4
+Bangladesh,13868,309563,8010,179809,4621,Exercise trainers and group fitness instructors,6,122,6.784977392677786e-4
+Bangladesh,13868,309563,8010,179809,5410,Reservation and transportation ticket agents and travel clerks,7,122,6.784977392677786e-4
+Bangladesh,13868,309563,8010,179809,2600,Artists and related workers,6,121,6.729362823885345e-4
+Bangladesh,13868,309563,8010,179809,3310,Dental hygienists,7,120,6.673748255092905e-4
+Bangladesh,13868,309563,8010,179809,6660,Construction and building inspectors,7,119,6.618133686300463e-4
+Bangladesh,13868,309563,8010,179809,3321,Cardiovascular technologists and technicians,6,118,6.562519117508022e-4
+Bangladesh,13868,309563,8010,179809,7010,"Computer, automated teller, and office machine repairers",5,118,6.562519117508022e-4
+Bangladesh,13868,309563,8010,179809,7810,"Butchers and other meat, poultry, and fish processing workers",4,118,6.562519117508022e-4
+Bangladesh,13868,309563,8010,179809,4830,Travel agents,4,115,6.3956754111307e-4
+Bangladesh,13868,309563,8010,179809,1310,"Surveyors, cartographers, and photogrammetrists",3,113,6.284446273545818e-4
+Bangladesh,13868,309563,8010,179809,3649,Phlebotomists,6,112,6.228831704753377e-4
+Bangladesh,13868,309563,8010,179809,5140,Payroll and timekeeping clerks,3,110,6.117602567168495e-4
+Bangladesh,13868,309563,8010,179809,3550,Other healthcare practitioners and technical occupations,3,109,6.061987998376055e-4
+Bangladesh,13868,309563,8010,179809,7855,"Food processing workers, all other",4,109,6.061987998376055e-4
+Bangladesh,13868,309563,8010,179809,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,2,109,6.061987998376055e-4
+Bangladesh,13868,309563,8010,179809,9350,Parking attendants,5,109,6.061987998376055e-4
+Bangladesh,13868,309563,8010,179809,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",2,108,6.006373429583614e-4
+Bangladesh,13868,309563,8010,179809,3245,Other therapists,5,107,5.950758860791173e-4
+Bangladesh,13868,309563,8010,179809,0540,"Claims adjusters, appraisers, examiners, and investigators",8,106,5.895144291998732e-4
+Bangladesh,13868,309563,8010,179809,3620,Physical therapist assistants and aides,4,106,5.895144291998732e-4
+Bangladesh,13868,309563,8010,179809,3910,Private detectives and investigators,5,106,5.895144291998732e-4
+Bangladesh,13868,309563,8010,179809,1800,Economists,6,105,5.839529723206291e-4
+Bangladesh,13868,309563,8010,179809,2002,"Educational, guidance, and career counselors and advisors",8,105,5.839529723206291e-4
+Bangladesh,13868,309563,8010,179809,1610,Biological scientists,6,104,5.78391515441385e-4
+Bangladesh,13868,309563,8010,179809,4655,"Personal care and service workers, all other",8,104,5.78391515441385e-4
+Bangladesh,13868,309563,8010,179809,3150,Occupational therapists,5,101,5.617071448036527e-4
+Bangladesh,13868,309563,8010,179809,5730,Medical secretaries and administrative assistants,7,101,5.617071448036527e-4
+Bangladesh,13868,309563,8010,179809,7020,Radio and telecommunications equipment installers and repairers,4,99,5.505842310451646e-4
+Bangladesh,13868,309563,8010,179809,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",5,98,5.450227741659205e-4
+Bangladesh,13868,309563,8010,179809,3640,Dental assistants,7,97,5.394613172866764e-4
+Bangladesh,13868,309563,8010,179809,2920,"Television, video, and film camera operators and editors",3,96,5.338998604074324e-4
+Bangladesh,13868,309563,8010,179809,4240,Pest control workers,5,94,5.227769466489442e-4
+Bangladesh,13868,309563,8010,179809,4820,"Securities, commodities, and financial services sales agents",7,94,5.227769466489442e-4
+Bangladesh,13868,309563,8010,179809,1541,Architectural and civil drafters,2,93,5.172154897697001e-4
+Bangladesh,13868,309563,8010,179809,8255,Printing press operators,5,92,5.116540328904559e-4
+Bangladesh,13868,309563,8010,179809,3515,Medical records specialists,5,91,5.060925760112119e-4
+Bangladesh,13868,309563,8010,179809,8300,Laundry and dry-cleaning workers,4,90,5.005311191319678e-4
+Bangladesh,13868,309563,8010,179809,3940,Crossing guards and flaggers,6,88,4.894082053734796e-4
+Bangladesh,13868,309563,8010,179809,4800,Advertising sales agents,4,88,4.894082053734796e-4
+Bangladesh,13868,309563,8010,179809,7840,Food batchmakers,5,88,4.894082053734796e-4
+Bangladesh,13868,309563,8010,179809,2555,Other educational instruction and library workers,6,87,4.838467484942356e-4
+Bangladesh,13868,309563,8010,179809,5360,"Human resources assistants, except payroll and timekeeping",6,85,4.7272383473574735e-4
+Bangladesh,13868,309563,8010,179809,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,85,4.7272383473574735e-4
+Bangladesh,13868,309563,8010,179809,0726,Fundraisers,3,84,4.6716237785650327e-4
+Bangladesh,13868,309563,8010,179809,1031,Web developers,5,84,4.6716237785650327e-4
+Bangladesh,13868,309563,8010,179809,4740,Counter and rental clerks,3,84,4.6716237785650327e-4
+Bangladesh,13868,309563,8010,179809,7905,Computer numerically controlled tool operators and programmers,3,84,4.6716237785650327e-4
+Bangladesh,13868,309563,8010,179809,8830,Photographic process workers and processing machine operators,6,84,4.6716237785650327e-4
+Bangladesh,13868,309563,8010,179809,3750,Fire inspectors,3,82,4.560394640980151e-4
+Bangladesh,13868,309563,8010,179809,3802,Correctional officers and jailers,4,81,4.50478007218771e-4
+Bangladesh,13868,309563,8010,179809,9830,"Military, rank not specified",4,81,4.50478007218771e-4
+Bangladesh,13868,309563,8010,179809,1420,Environmental engineers,5,80,4.4491655033952694e-4
+Bangladesh,13868,309563,8010,179809,8610,Stationary engineers and boiler operators,3,80,4.4491655033952694e-4
+Bangladesh,13868,309563,8010,179809,9415,Passenger attendants,4,79,4.3935509346028286e-4
+Bangladesh,13868,309563,8010,179809,3710,First-line supervisors of police and detectives,5,78,4.337936365810388e-4
+Bangladesh,13868,309563,8010,179809,3230,Speech-language pathologists,2,77,4.282321797017947e-4
+Bangladesh,13868,309563,8010,179809,3250,Veterinarians,2,77,4.282321797017947e-4
+Bangladesh,13868,309563,8010,179809,0700,Logisticians,3,76,4.226707228225506e-4
+Bangladesh,13868,309563,8010,179809,3430,Dietetic technicians and ophthalmic medical technicians,4,76,4.226707228225506e-4
+Bangladesh,13868,309563,8010,179809,8950,Helpers--production workers,4,76,4.226707228225506e-4
+Bangladesh,13868,309563,8010,179809,2025,Other community and social service specialists,5,75,4.1710926594330653e-4
+Bangladesh,13868,309563,8010,179809,6442,"Plumbers, pipefitters, and steamfitters",4,75,4.1710926594330653e-4
+Bangladesh,13868,309563,8010,179809,0520,"Wholesale and retail buyers, except farm products",7,74,4.1154780906406245e-4
+Bangladesh,13868,309563,8010,179809,4622,Recreation workers,4,73,4.059863521848183e-4
+Bangladesh,13868,309563,8010,179809,9121,"Bus drivers, school",5,72,4.004248953055742e-4
+Bangladesh,13868,309563,8010,179809,1340,Biomedical and agricultural engineers,3,69,3.83740524667842e-4
+Bangladesh,13868,309563,8010,179809,6305,Construction equipment operators,3,69,3.83740524667842e-4
+Bangladesh,13868,309563,8010,179809,9040,Air traffic controllers and airfield operations specialists,4,69,3.83740524667842e-4
+Bangladesh,13868,309563,8010,179809,2001,Substance abuse and behavioral disorder counselors,4,68,3.781790677885979e-4
+Bangladesh,13868,309563,8010,179809,3401,Emergency medical technicians,3,67,3.726176109093538e-4
+Bangladesh,13868,309563,8010,179809,5310,"Interviewers, except eligibility and loan",6,66,3.6705615403010973e-4
+Bangladesh,13868,309563,8010,179809,3324,Magnetic resonance imaging technologists,3,65,3.6149469715086565e-4
+Bangladesh,13868,309563,8010,179809,2830,Editors,4,64,3.5593324027162156e-4
+Bangladesh,13868,309563,8010,179809,3946,School bus monitors,4,64,3.5593324027162156e-4
+Bangladesh,13868,309563,8010,179809,4251,Landscaping and groundskeeping workers,4,63,3.503717833923775e-4
+Bangladesh,13868,309563,8010,179809,5165,Other financial clerks,6,63,3.503717833923775e-4
+Bangladesh,13868,309563,8010,179809,0060,Public relations and fundraising managers,3,62,3.448103265131334e-4
+Bangladesh,13868,309563,8010,179809,7140,Aircraft mechanics and service technicians,6,62,3.448103265131334e-4
+Bangladesh,13868,309563,8010,179809,0930,"Tax examiners and collectors, and revenue agents",5,61,3.392488696338893e-4
+Bangladesh,13868,309563,8010,179809,0960,Other financial specialists,3,61,3.392488696338893e-4
+Bangladesh,13868,309563,8010,179809,3422,Psychiatric technicians,2,61,3.392488696338893e-4
+Bangladesh,13868,309563,8010,179809,4330,Supervisors of personal care and service workers,3,61,3.392488696338893e-4
+Bangladesh,13868,309563,8010,179809,8710,Cutting workers,3,61,3.392488696338893e-4
+Bangladesh,13868,309563,8010,179809,1980,Occupational health and safety specialists and technicians,3,60,3.3368741275464523e-4
+Bangladesh,13868,309563,8010,179809,8810,Painting workers,3,60,3.3368741275464523e-4
+Bangladesh,13868,309563,8010,179809,3646,Medical transcriptionists,4,59,3.281259558754011e-4
+Bangladesh,13868,309563,8010,179809,3820,Detectives and criminal investigators,3,59,3.281259558754011e-4
+Bangladesh,13868,309563,8010,179809,9610,Cleaners of vehicles and equipment,4,59,3.281259558754011e-4
+Bangladesh,13868,309563,8010,179809,5260,File clerks,3,58,3.22564498996157e-4
+Bangladesh,13868,309563,8010,179809,8025,"Other machine tool setters, operators, and tenders, metal and plastic",1,58,3.22564498996157e-4
+Bangladesh,13868,309563,8010,179809,2012,Healthcare social workers,3,57,3.1700304211691293e-4
+Bangladesh,13868,309563,8010,179809,7850,Food cooking machine operators and tenders,3,57,3.1700304211691293e-4
+Bangladesh,13868,309563,8010,179809,8650,"Crushing, grinding, polishing, mixing, and blending workers",2,57,3.1700304211691293e-4
+Bangladesh,13868,309563,8010,179809,4540,Tour and travel guides,3,56,3.1144158523766885e-4
+Bangladesh,13868,309563,8010,179809,9825,Military enlisted tactical operations and air/weapons specialists and crew members,4,55,3.0588012835842477e-4
+Bangladesh,13868,309563,8010,179809,0650,Training and development specialists,4,53,2.947572145999366e-4
+Bangladesh,13868,309563,8010,179809,1306,Landscape architects,1,53,2.947572145999366e-4
+Bangladesh,13868,309563,8010,179809,2435,Librarians and media collections specialists,4,53,2.947572145999366e-4
+Bangladesh,13868,309563,8010,179809,2810,"News analysts, reporters, and journalists",3,53,2.947572145999366e-4
+Bangladesh,13868,309563,8010,179809,5521,Public safety telecommunicators,2,52,2.891957577206925e-4
+Bangladesh,13868,309563,8010,179809,8250,Prepress technicians and workers,2,52,2.891957577206925e-4
+Bangladesh,13868,309563,8010,179809,8640,"Chemical processing machine setters, operators, and tenders",2,52,2.891957577206925e-4
+Bangladesh,13868,309563,8010,179809,0860,Insurance underwriters,2,51,2.8363430084144843e-4
+Bangladesh,13868,309563,8010,179809,3630,Massage therapists,3,51,2.8363430084144843e-4
+Bangladesh,13868,309563,8010,179809,0725,"Meeting, convention, and event planners",3,50,2.7807284396220435e-4
+Bangladesh,13868,309563,8010,179809,0940,Tax preparers,4,50,2.7807284396220435e-4
+Bangladesh,13868,309563,8010,179809,3040,Optometrists,3,50,2.7807284396220435e-4
+Bangladesh,13868,309563,8010,179809,7830,"Food and tobacco roasting, baking, and drying machine operators and tenders",1,50,2.7807284396220435e-4
+Bangladesh,13868,309563,8010,179809,1840,Urban and regional planners,3,49,2.7251138708296027e-4
+Bangladesh,13868,309563,8010,179809,3220,Respiratory therapists,4,48,2.669499302037162e-4
+Bangladesh,13868,309563,8010,179809,8320,Sewing machine operators,4,48,2.669499302037162e-4
+Bangladesh,13868,309563,8010,179809,9430,Other transportation workers,3,48,2.669499302037162e-4
+Bangladesh,13868,309563,8010,179809,2865,"Media and communication workers, all other",2,46,2.5582701644522797e-4
+Bangladesh,13868,309563,8010,179809,8140,"Welding, soldering, and brazing workers",1,46,2.5582701644522797e-4
+Bangladesh,13868,309563,8010,179809,5340,New accounts clerks,2,44,2.447041026867398e-4
+Bangladesh,13868,309563,8010,179809,2005,Rehabilitation counselors,1,43,2.3914264580749572e-4
+Bangladesh,13868,309563,8010,179809,3960,Other protective service workers,3,42,2.3358118892825164e-4
+Bangladesh,13868,309563,8010,179809,9630,Machine feeders and offbearers,3,42,2.3358118892825164e-4
+Bangladesh,13868,309563,8010,179809,0820,Budget analysts,4,41,2.2801973204900755e-4
+Bangladesh,13868,309563,8010,179809,5820,Word processors and typists,1,41,2.2801973204900755e-4
+Bangladesh,13868,309563,8010,179809,8350,"Tailors, dressmakers, and sewers",4,41,2.2801973204900755e-4
+Bangladesh,13868,309563,8010,179809,2440,Library technicians,4,38,2.113353614112753e-4
+Bangladesh,13868,309563,8010,179809,7150,Automotive body and related repairers,2,38,2.113353614112753e-4
+Bangladesh,13868,309563,8010,179809,9720,Refuse and recyclable material collectors,3,38,2.113353614112753e-4
+Bangladesh,13868,309563,8010,179809,0830,Credit analysts,1,35,1.9465099077354303e-4
+Bangladesh,13868,309563,8010,179809,0101,Administrative services managers,1,34,1.8908953389429895e-4
+Bangladesh,13868,309563,8010,179809,0150,Purchasing managers,3,34,1.8908953389429895e-4
+Bangladesh,13868,309563,8010,179809,1200,Actuaries,2,34,1.8908953389429895e-4
+Bangladesh,13868,309563,8010,179809,4350,Animal caretakers,2,34,1.8908953389429895e-4
+Bangladesh,13868,309563,8010,179809,6700,Elevator installers and repairers,3,34,1.8908953389429895e-4
+Bangladesh,13868,309563,8010,179809,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
+						and plastic",1,34,1.8908953389429895e-4
+Bangladesh,13868,309563,8010,179809,1700,Astronomers and physicists,2,33,1.8352807701505486e-4
+Bangladesh,13868,309563,8010,179809,1822,School psychologists,1,33,1.8352807701505486e-4
+Bangladesh,13868,309563,8010,179809,2016,Social and human service assistants,3,33,1.8352807701505486e-4
+Bangladesh,13868,309563,8010,179809,4420,"Ushers, lobby attendants, and ticket takers",1,33,1.8352807701505486e-4
+Bangladesh,13868,309563,8010,179809,1520,"Petroleum, mining and geological engineers, including mining safety engineers",1,32,1.7796662013581078e-4
+Bangladesh,13868,309563,8010,179809,3261,Acupuncturists,2,32,1.7796662013581078e-4
+Bangladesh,13868,309563,8010,179809,8750,Jewelers and precious stone and metal workers,2,32,1.7796662013581078e-4
+Bangladesh,13868,309563,8010,179809,9650,Pumping station operators,3,31,1.724051632565667e-4
+Bangladesh,13868,309563,8010,179809,5850,"Mail clerks and mail machine operators, except postal service",2,30,1.6684370637732262e-4
+Bangladesh,13868,309563,8010,179809,0137,Training and development managers,1,29,1.612822494980785e-4
+Bangladesh,13868,309563,8010,179809,2004,Mental health counselors,2,29,1.612822494980785e-4
+Bangladesh,13868,309563,8010,179809,2770,"Entertainers and performers, sports and related workers, all other",2,29,1.612822494980785e-4
+Bangladesh,13868,309563,8010,179809,5040,"Communications equipment operators, all other",1,29,1.612822494980785e-4
+Bangladesh,13868,309563,8010,179809,8030,Machinists,3,29,1.612822494980785e-4
+Bangladesh,13868,309563,8010,179809,9760,Other material moving workers,2,28,1.5572079261883442e-4
+Bangladesh,13868,309563,8010,179809,0500,"Agents and business managers of artists, performers, and athletes",1,27,1.5015933573959034e-4
+Bangladesh,13868,309563,8010,179809,1551,Electrical and electronic engineering technologists and technicians,1,27,1.5015933573959034e-4
+Bangladesh,13868,309563,8010,179809,4435,Other entertainment attendants and related workers,2,27,1.5015933573959034e-4
+Bangladesh,13868,309563,8010,179809,7130,Security and fire alarm systems installers,2,27,1.5015933573959034e-4
+Bangladesh,13868,309563,8010,179809,2013,Mental health and substance abuse social workers,2,26,1.4459787886034626e-4
+Bangladesh,13868,309563,8010,179809,2180,"Legal support workers, all other",2,26,1.4459787886034626e-4
+Bangladesh,13868,309563,8010,179809,4160,"Food preparation and serving related workers, all other",2,26,1.4459787886034626e-4
+Bangladesh,13868,309563,8010,179809,5710,Executive secretaries and executive administrative assistants,1,26,1.4459787886034626e-4
+Bangladesh,13868,309563,8010,179809,1920,Chemical technicians,1,25,1.3903642198110218e-4
+Bangladesh,13868,309563,8010,179809,2840,Technical writers,1,25,1.3903642198110218e-4
+Bangladesh,13868,309563,8010,179809,5100,Bill and account collectors,2,25,1.3903642198110218e-4
+Bangladesh,13868,309563,8010,179809,6460,Plasterers and stucco masons,1,25,1.3903642198110218e-4
+Bangladesh,13868,309563,8010,179809,8465,"Other textile, apparel, and furnishings workers",2,25,1.3903642198110218e-4
+Bangladesh,13868,309563,8010,179809,2011,"Child, family, and school social workers",2,24,1.334749651018581e-4
+Bangladesh,13868,309563,8010,179809,5020,Telephone operators,2,24,1.334749651018581e-4
+Bangladesh,13868,309563,8010,179809,1600,Agricultural and food scientists,2,23,1.2791350822261398e-4
+Bangladesh,13868,309563,8010,179809,1821,Clinical and counseling psychologists,1,23,1.2791350822261398e-4
+Bangladesh,13868,309563,8010,179809,0102,Facilities managers,1,22,1.223520513433699e-4
+Bangladesh,13868,309563,8010,179809,0360,Natural sciences managers,2,22,1.223520513433699e-4
+Bangladesh,13868,309563,8010,179809,1825,Other psychologists,1,22,1.223520513433699e-4
+Bangladesh,13868,309563,8010,179809,4522,Skincare specialists,2,22,1.223520513433699e-4
+Bangladesh,13868,309563,8010,179809,4750,Parts salespersons,1,22,1.223520513433699e-4
+Bangladesh,13868,309563,8010,179809,7430,Precision instrument and equipment repairers,1,22,1.223520513433699e-4
+Bangladesh,13868,309563,8010,179809,4500,Barbers,1,21,1.1679059446412582e-4
+Bangladesh,13868,309563,8010,179809,2905,Other media and communication equipment workers,2,20,1.1122913758488174e-4
+Bangladesh,13868,309563,8010,179809,2751,Music directors and composers,1,18,1.0010622382639356e-4
+Bangladesh,13868,309563,8010,179809,3000,Chiropractors,1,18,1.0010622382639356e-4
+Bangladesh,13868,309563,8010,179809,3210,Recreational therapists,1,18,1.0010622382639356e-4
+Bangladesh,13868,309563,8010,179809,3256,Nurse anesthetists,1,18,1.0010622382639356e-4
+Bangladesh,13868,309563,8010,179809,3423,Surgical technologists,1,18,1.0010622382639356e-4
+Bangladesh,13868,309563,8010,179809,0640,"Compensation, benefits, and job analysis specialists",1,17,9.454476694714947e-5
+Bangladesh,13868,309563,8010,179809,7315,"Heating, air conditioning, and refrigeration mechanics and installers",2,17,9.454476694714947e-5
+Bangladesh,13868,309563,8010,179809,2060,"Religious workers, all other",1,15,8.342185318866131e-5
+Bangladesh,13868,309563,8010,179809,4200,First-line supervisors of housekeeping and janitorial workers,2,15,8.342185318866131e-5
+Bangladesh,13868,309563,8010,179809,6950,Other extraction workers,1,15,8.342185318866131e-5
+Bangladesh,13868,309563,8010,179809,8630,Miscellaneous plant and system operators,2,15,8.342185318866131e-5
+Bangladesh,13868,309563,8010,179809,1545,Other drafters,2,14,7.786039630941721e-5
+Bangladesh,13868,309563,8010,179809,1560,Surveying and mapping technicians,1,14,7.786039630941721e-5
+Bangladesh,13868,309563,8010,179809,1860,Other social scientists,3,14,7.786039630941721e-5
+Bangladesh,13868,309563,8010,179809,2631,Commercial and industrial designers,1,14,7.786039630941721e-5
+Bangladesh,13868,309563,8010,179809,3720,First-line supervisors of firefighting and prevention workers,1,14,7.786039630941721e-5
+Bangladesh,13868,309563,8010,179809,4340,Animal trainers,1,13,7.229893943017313e-5
+Bangladesh,13868,309563,8010,179809,6825,Surface mining machine operators and earth drillers,1,13,7.229893943017313e-5
+Bangladesh,13868,309563,8010,179809,8600,"Power plant operators, distributors, and dispatchers",1,13,7.229893943017313e-5
+Bangladesh,13868,309563,8010,179809,0600,Cost estimators,2,12,6.673748255092905e-5
+Bangladesh,13868,309563,8010,179809,7000,"First-line supervisors of mechanics, installers, and repairers",1,12,6.673748255092905e-5
+Bangladesh,13868,309563,8010,179809,7410,Electrical power-line installers and repairers,1,12,6.673748255092905e-5
+Bangladesh,13868,309563,8010,179809,8365,"Textile machine setters, operators, and tenders",1,12,6.673748255092905e-5
+Bangladesh,13868,309563,8010,179809,8730,"Furnace, kiln, oven, drier, and kettle operators and tenders",1,12,6.673748255092905e-5
+Bangladesh,13868,309563,8010,179809,9410,Transportation inspectors,1,12,6.673748255092905e-5
+Bangladesh,13868,309563,8010,179809,1005,Computer and information research scientists,1,11,6.117602567168495e-5
+Bangladesh,13868,309563,8010,179809,2636,Merchandise displayers and window trimmers,1,11,6.117602567168495e-5
+Bangladesh,13868,309563,8010,179809,4525,Other personal appearance workers,1,11,6.117602567168495e-5
+Bangladesh,13868,309563,8010,179809,6720,Hazardous materials removal workers,2,11,6.117602567168495e-5
+Bangladesh,13868,309563,8010,179809,9030,Aircraft pilots and flight engineers,1,11,6.117602567168495e-5
+Bangladesh,13868,309563,8010,179809,2721,Athletes and sports competitors,1,10,5.561456879244087e-5
+Bangladesh,13868,309563,8010,179809,4640,Residential advisors,2,10,5.561456879244087e-5
+Bangladesh,13868,309563,8010,179809,5350,Correspondence clerks and order clerks,1,10,5.561456879244087e-5
+Bangladesh,13868,309563,8010,179809,2003,Marriage and family therapists,1,9,5.005311191319678e-5
+Bangladesh,13868,309563,8010,179809,3725,"Miscellaneous first-line supervisors, protective service workers",1,9,5.005311191319678e-5
+Bangladesh,13868,309563,8010,179809,9050,Flight attendants,2,8,4.4491655033952695e-5
+Bangladesh,13868,309563,8010,179809,9265,Other rail transportation workers,1,8,4.4491655033952695e-5
+Bangladesh,13868,309563,8010,179809,5500,Cargo and freight agents,1,7,3.8930198154708606e-5
+Bangladesh,13868,309563,8010,179809,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,7,3.8930198154708606e-5
+Bangladesh,13868,309563,8010,179809,9210,Locomotive engineers and operators,1,7,3.8930198154708606e-5
+Bangladesh,13868,309563,8010,179809,4930,Sales engineers,1,5,2.7807284396220434e-5
+Bangladesh,13868,309563,8010,179809,0900,Financial examiners,1,4,2.2245827516976348e-5
+Bangladesh,13868,309563,8010,179809,3330,Nuclear medicine technologists and medical dosimetrists,1,4,2.2245827516976348e-5
+Bangladesh,13868,309563,8010,179809,9570,"Conveyor, dredge, and hoist and winch operators",1,2,1.1122913758488174e-5
+Bangladesh,13868,309563,8010,179809,5420,Other information and records clerks,1,1,5.561456879244087e-6

@@ -1,208 +1,211 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Togo,1064,35569,759,24934,3602,Personal care aides,28,1000,0.040105879521937914
-Togo,1064,35569,759,24934,3603,Nursing assistants,27,973,0.03902302077484559
-Togo,1064,35569,759,24934,3930,Security guards and gaming surveillance officers,23,950,0.03810058554584102
-Togo,1064,35569,759,24934,9620,"Laborers and freight, stock, and material movers, hand",22,932,0.03737867971444614
-Togo,1064,35569,759,24934,9130,Driver/sales workers and truck drivers,25,776,0.03112216250902382
-Togo,1064,35569,759,24934,4220,Janitors and building cleaners,15,708,0.028394962701532044
-Togo,1064,35569,759,24934,4230,Maids and housekeeping cleaners,17,695,0.02787358626774685
-Togo,1064,35569,759,24934,5240,Customer service representatives,18,603,0.024183845351728562
-Togo,1064,35569,759,24934,7750,Other assemblers and fabricators,13,548,0.02197802197802198
-Togo,1064,35569,759,24934,8990,"Miscellaneous production workers, including equipment operators and tenders",17,466,0.01868933985722307
-Togo,1064,35569,759,24934,0440,Other managers,14,435,0.017446057592042992
-Togo,1064,35569,759,24934,9142,Taxi drivers,14,423,0.01696478703777974
-Togo,1064,35569,759,24934,4760,Retail salespersons,9,403,0.01616266944734098
-Togo,1064,35569,759,24934,4720,Cashiers,13,389,0.015601187134033849
-Togo,1064,35569,759,24934,4020,Cooks,11,387,0.015520975374989974
-Togo,1064,35569,759,24934,4700,First-line supervisors of retail sales workers,10,365,0.01463864602550734
-Togo,1064,35569,759,24934,7810,"Butchers and other meat, poultry, and fish processing workers",12,354,0.014197481350766022
-Togo,1064,35569,759,24934,8800,Packaging and filling machine operators and tenders,9,336,0.01347557551937114
-Togo,1064,35569,759,24934,3300,Clinical laboratory technologists and technicians,6,316,0.012673457928932381
-Togo,1064,35569,759,24934,9640,"Packers and packagers, hand",11,310,0.012432822651800754
-Togo,1064,35569,759,24934,1108,"Computer occupations, all other",7,305,0.012232293254191064
-Togo,1064,35569,759,24934,3255,Registered nurses,9,305,0.012232293254191064
-Togo,1064,35569,759,24934,9645,Stockers and order fillers,10,304,0.012192187374669126
-Togo,1064,35569,759,24934,0630,Human resources workers,6,293,0.01175102269992781
-Togo,1064,35569,759,24934,4510,"Hairdressers, hairstylists, and cosmetologists",13,270,0.010828587470923237
-Togo,1064,35569,759,24934,4110,Waiters and waitresses,7,258,0.010347316916659983
-Togo,1064,35569,759,24934,5400,Receptionists and information clerks,8,257,0.010307211037138045
-Togo,1064,35569,759,24934,0230,Education and childcare administrators,6,256,0.010267105157616106
-Togo,1064,35569,759,24934,0700,Logisticians,6,254,0.010186893398572231
-Togo,1064,35569,759,24934,5410,Reservation and transportation ticket agents and travel clerks,5,247,0.009906152241918665
-Togo,1064,35569,759,24934,2300,Preschool and kindergarten teachers,4,243,0.009745728723830914
-Togo,1064,35569,759,24934,1050,Computer support specialists,5,218,0.008743081735782466
-Togo,1064,35569,759,24934,9600,Industrial truck and tractor operators,6,213,0.008542552338172776
-Togo,1064,35569,759,24934,1006,Computer systems analysts,5,210,0.008422234699606962
-Togo,1064,35569,759,24934,1021,Software developers,10,208,0.008342022940563087
-Togo,1064,35569,759,24934,9825,Military enlisted tactical operations and air/weapons specialists and crew members,7,206,0.00826181118151921
-Togo,1064,35569,759,24934,0020,General and operations managers,4,199,0.007981070024865646
-Togo,1064,35569,759,24934,0120,Financial managers,4,193,0.007740434747734018
-Togo,1064,35569,759,24934,0420,Social and community service managers,3,192,0.00770032886821208
-Togo,1064,35569,759,24934,2310,Elementary and middle school teachers,10,190,0.007620117109168204
-Togo,1064,35569,759,24934,3500,Licensed practical and licensed vocational nurses,4,188,0.007539905350124328
-Togo,1064,35569,759,24934,5550,Postal service mail carriers,6,184,0.007379481832036576
-Togo,1064,35569,759,24934,9760,Other material moving workers,3,174,0.006978423036817198
-Togo,1064,35569,759,24934,0845,Financial and investment analysts,4,161,0.006457046603032005
-Togo,1064,35569,759,24934,2320,Secondary school teachers,5,154,0.006176305446378439
-Togo,1064,35569,759,24934,1980,Occupational health and safety specialists and technicians,2,149,0.00597577604876875
-Togo,1064,35569,759,24934,1360,Civil engineers,3,147,0.005895564289724873
-Togo,1064,35569,759,24934,7140,Aircraft mechanics and service technicians,2,147,0.005895564289724873
-Togo,1064,35569,759,24934,4030,Food preparation workers,4,144,0.00577524665115906
-Togo,1064,35569,759,24934,7700,First-line supervisors of production and operating workers,4,144,0.00577524665115906
-Togo,1064,35569,759,24934,4000,Chefs and head cooks,2,139,0.005574717253549371
-Togo,1064,35569,759,24934,2145,Paralegals and legal assistants,3,127,0.005093446699286116
-Togo,1064,35569,759,24934,3645,Medical assistants,6,127,0.005093446699286116
-Togo,1064,35569,759,24934,2025,Other community and social service specialists,2,123,0.0049330231811983635
-Togo,1064,35569,759,24934,2545,Teaching assistants,5,122,0.004892917301676426
-Togo,1064,35569,759,24934,7200,Automotive service technicians and mechanics,3,121,0.004852811422154488
-Togo,1064,35569,759,24934,1551,Electrical and electronic engineering technologists and technicians,2,118,0.004732493783588674
-Togo,1064,35569,759,24934,0350,Medical and health services managers,3,113,0.004531964385978984
-Togo,1064,35569,759,24934,3655,Other healthcare support workers,2,113,0.004531964385978984
-Togo,1064,35569,759,24934,4055,Fast food and counter workers,5,110,0.00441164674741317
-Togo,1064,35569,759,24934,0710,Management analysts,3,107,0.004291329108847357
-Togo,1064,35569,759,24934,3802,Correctional officers and jailers,2,106,0.004251223229325419
-Togo,1064,35569,759,24934,5860,"Office clerks, general",5,106,0.004251223229325419
-Togo,1064,35569,759,24934,7340,"Maintenance and repair workers, general",2,105,0.004211117349803481
-Togo,1064,35569,759,24934,1555,"Other engineering technologists and technicians, except drafters",2,103,0.004130905590759605
-Togo,1064,35569,759,24934,4600,Childcare workers,5,103,0.004130905590759605
-Togo,1064,35569,759,24934,6355,Electricians,3,103,0.004130905590759605
-Togo,1064,35569,759,24934,8225,Other metal workers and plastic workers,4,103,0.004130905590759605
-Togo,1064,35569,759,24934,0640,"Compensation, benefits, and job analysis specialists",1,102,0.004090799711237668
-Togo,1064,35569,759,24934,0750,"Business operations specialists, all other",5,102,0.004090799711237668
-Togo,1064,35569,759,24934,1007,Information security analysts,2,102,0.004090799711237668
-Togo,1064,35569,759,24934,9830,"Military, rank not specified",3,100,0.004010587952193791
-Togo,1064,35569,759,24934,5330,Loan interviewers and clerks,1,99,0.003970482072671854
-Togo,1064,35569,759,24934,1800,Economists,3,96,0.00385016443410604
-Togo,1064,35569,759,24934,3605,Orderlies and psychiatric aides,2,96,0.00385016443410604
-Togo,1064,35569,759,24934,0800,Accountants and auditors,5,89,0.0035694232774524746
-Togo,1064,35569,759,24934,5540,Postal service clerks,3,85,0.003408999759364723
-Togo,1064,35569,759,24934,4010,First-line supervisors of food preparation and serving workers,2,84,0.003368893879842785
-Togo,1064,35569,759,24934,5000,First-line supervisors of office and administrative support workers,3,83,0.003328788000320847
-Togo,1064,35569,759,24934,3601,Home health aides,5,82,0.0032886821207989093
-Togo,1064,35569,759,24934,5610,"Shipping, receiving, and inventory clerks",4,82,0.0032886821207989093
-Togo,1064,35569,759,24934,8830,Photographic process workers and processing machine operators,1,81,0.003248576241276971
-Togo,1064,35569,759,24934,2861,Interpreters and translators,1,79,0.0031683644822330954
-Togo,1064,35569,759,24934,4140,Dishwashers,1,79,0.0031683644822330954
-Togo,1064,35569,759,24934,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,77,0.0030881527231892197
-Togo,1064,35569,759,24934,2014,"Social workers, all other",3,74,0.0029678350846234058
-Togo,1064,35569,759,24934,8335,Shoe and leather workers,1,74,0.0029678350846234058
-Togo,1064,35569,759,24934,0160,"Transportation, storage, and distribution managers",1,71,0.002847517446057592
-Togo,1064,35569,759,24934,5510,Couriers and messengers,3,70,0.002807411566535654
-Togo,1064,35569,759,24934,0140,Industrial production managers,3,68,0.0027271998074917783
-Togo,1064,35569,759,24934,1400,Computer hardware engineers,1,68,0.0027271998074917783
-Togo,1064,35569,759,24934,2360,Other teachers and instructors,2,67,0.0026870939279698405
-Togo,1064,35569,759,24934,2600,Artists and related workers,1,67,0.0026870939279698405
-Togo,1064,35569,759,24934,3258,"Nurse practitioners, and nurse midwives",2,64,0.0025667762894040266
-Togo,1064,35569,759,24934,0650,Training and development specialists,2,62,0.002486564530360151
-Togo,1064,35569,759,24934,2740,Dancers and choreographers,1,62,0.002486564530360151
-Togo,1064,35569,759,24934,0310,Food service managers,3,58,0.002326141012272399
-Togo,1064,35569,759,24934,1610,Biological scientists,2,58,0.002326141012272399
-Togo,1064,35569,759,24934,2170,"Title examiners, abstractors, and searchers",2,58,0.002326141012272399
-Togo,1064,35569,759,24934,5100,Bill and account collectors,1,58,0.002326141012272399
-Togo,1064,35569,759,24934,5940,Other office and administrative support workers,3,58,0.002326141012272399
-Togo,1064,35569,759,24934,2721,Athletes and sports competitors,1,57,0.0022860351327504613
-Togo,1064,35569,759,24934,5110,Billing and posting clerks,3,57,0.0022860351327504613
-Togo,1064,35569,759,24934,8250,Prepress technicians and workers,1,56,0.0022459292532285235
-Togo,1064,35569,759,24934,3640,Dental assistants,2,53,0.0021256116146627095
-Togo,1064,35569,759,24934,3725,"Miscellaneous first-line supervisors, protective service workers",3,53,0.0021256116146627095
-Togo,1064,35569,759,24934,5165,Other financial clerks,1,52,0.0020855057351407717
-Togo,1064,35569,759,24934,3946,School bus monitors,1,51,0.002045399855618834
-Togo,1064,35569,759,24934,5740,"Secretaries and administrative assistants, except legal, medical, and executive",5,50,0.0020052939760968956
-Togo,1064,35569,759,24934,8255,Printing press operators,2,49,0.0019651880965749578
-Togo,1064,35569,759,24934,4750,Parts salespersons,1,47,0.001884976337531082
-Togo,1064,35569,759,24934,2100,"Lawyers, and judges, magistrates, and other judicial workers",2,45,0.0018047645784872062
-Togo,1064,35569,759,24934,1106,Computer network architects,2,42,0.0016844469399213925
-Togo,1064,35569,759,24934,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,42,0.0016844469399213925
-Togo,1064,35569,759,24934,6260,Construction laborers,3,41,0.0016443410603994547
-Togo,1064,35569,759,24934,6230,Carpenters,3,38,0.0015240234218336407
-Togo,1064,35569,759,24934,2205,Postsecondary teachers,2,37,0.0014839175423117029
-Togo,1064,35569,759,24934,4120,"Food servers, nonrestaurant",2,37,0.0014839175423117029
-Togo,1064,35569,759,24934,6010,Agricultural inspectors,1,37,0.0014839175423117029
-Togo,1064,35569,759,24934,3960,Other protective service workers,4,36,0.001443811662789765
-Togo,1064,35569,759,24934,8300,Laundry and dry-cleaning workers,1,36,0.001443811662789765
-Togo,1064,35569,759,24934,1200,Actuaries,1,35,0.001403705783267827
-Togo,1064,35569,759,24934,4950,"Door-to-door sales workers, news and street vendors, and related workers",1,35,0.001403705783267827
-Togo,1064,35569,759,24934,9122,"Bus drivers, transit and intercity",2,34,0.0013635999037458892
-Togo,1064,35569,759,24934,3245,Other therapists,1,32,0.0012833881447020133
-Togo,1064,35569,759,24934,8140,"Welding, soldering, and brazing workers",1,32,0.0012833881447020133
-Togo,1064,35569,759,24934,2722,Coaches and scouts,2,31,0.0012432822651800754
-Togo,1064,35569,759,24934,1760,"Physical scientists, all other",2,30,0.0012031763856581374
-Togo,1064,35569,759,24934,5040,"Communications equipment operators, all other",1,30,0.0012031763856581374
-Togo,1064,35569,759,24934,7855,"Food processing workers, all other",2,29,0.0011630705061361996
-Togo,1064,35569,759,24934,8740,"Inspectors, testers, sorters, samplers, and weighers",3,29,0.0011630705061361996
-Togo,1064,35569,759,24934,1240,Other mathematical science occupations,2,28,0.0011229646266142617
-Togo,1064,35569,759,24934,2634,Graphic designers,1,28,0.0011229646266142617
-Togo,1064,35569,759,24934,3610,Occupational therapy assistants and aides,1,28,0.0011229646266142617
-Togo,1064,35569,759,24934,4530,"Baggage porters, bellhops, and concierges",2,27,0.0010828587470923237
-Togo,1064,35569,759,24934,1650,Other life scientists,2,26,0.0010427528675703858
-Togo,1064,35569,759,24934,3323,Radiologic technologists and technicians,1,26,0.0010427528675703858
-Togo,1064,35569,759,24934,3402,Paramedics,2,26,0.0010427528675703858
-Togo,1064,35569,759,24934,4251,Landscaping and groundskeeping workers,1,26,0.0010427528675703858
-Togo,1064,35569,759,24934,0850,Personal financial advisors,1,25,0.0010026469880484478
-Togo,1064,35569,759,24934,5120,"Bookkeeping, accounting, and auditing clerks",1,25,0.0010026469880484478
-Togo,1064,35569,759,24934,8256,Print binding and finishing workers,1,25,0.0010026469880484478
-Togo,1064,35569,759,24934,0010,Chief executives and legislators,2,24,9.6254110852651e-4
-Togo,1064,35569,759,24934,0540,"Claims adjusters, appraisers, examiners, and investigators",1,24,9.6254110852651e-4
-Togo,1064,35569,759,24934,1220,Operations research analysts,1,24,9.6254110852651e-4
-Togo,1064,35569,759,24934,3401,Emergency medical technicians,1,24,9.6254110852651e-4
-Togo,1064,35569,759,24934,5020,Telephone operators,1,24,9.6254110852651e-4
-Togo,1064,35569,759,24934,4200,First-line supervisors of housekeeping and janitorial workers,1,23,9.22435229004572e-4
-Togo,1064,35569,759,24934,0136,Human resources managers,1,22,8.823293494826342e-4
-Togo,1064,35569,759,24934,2350,Tutors,1,22,8.823293494826342e-4
-Togo,1064,35569,759,24934,5730,Medical secretaries and administrative assistants,1,22,8.823293494826342e-4
-Togo,1064,35569,759,24934,7410,Electrical power-line installers and repairers,2,22,8.823293494826342e-4
-Togo,1064,35569,759,24934,8320,Sewing machine operators,1,22,8.823293494826342e-4
-Togo,1064,35569,759,24934,1065,Database administrators and architects,1,21,8.422234699606962e-4
-Togo,1064,35569,759,24934,1350,Chemical engineers,1,21,8.422234699606962e-4
-Togo,1064,35569,759,24934,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,21,8.422234699606962e-4
-Togo,1064,35569,759,24934,0410,"Property, real estate, and community association managers",1,20,8.021175904387583e-4
-Togo,1064,35569,759,24934,3545,Miscellaneous health technologists and technicians,1,20,8.021175904387583e-4
-Togo,1064,35569,759,24934,9005,Supervisors of transportation and material moving workers,1,20,8.021175904387583e-4
-Togo,1064,35569,759,24934,2016,Social and human service assistants,2,19,7.620117109168204e-4
-Togo,1064,35569,759,24934,3050,Pharmacists,1,19,7.620117109168204e-4
-Togo,1064,35569,759,24934,9030,Aircraft pilots and flight engineers,1,19,7.620117109168204e-4
-Togo,1064,35569,759,24934,0060,Public relations and fundraising managers,1,18,7.219058313948825e-4
-Togo,1064,35569,759,24934,0101,Administrative services managers,1,18,7.219058313948825e-4
-Togo,1064,35569,759,24934,4965,"Sales and related workers, all other",1,18,7.219058313948825e-4
-Togo,1064,35569,759,24934,6330,"Drywall installers, ceiling tile installers, and tapers",1,18,7.219058313948825e-4
-Togo,1064,35569,759,24934,7020,Radio and telecommunications equipment installers and repairers,1,18,7.219058313948825e-4
-Togo,1064,35569,759,24934,7315,"Heating, air conditioning, and refrigeration mechanics and installers",1,18,7.219058313948825e-4
-Togo,1064,35569,759,24934,7905,Computer numerically controlled tool operators and programmers,1,18,7.219058313948825e-4
-Togo,1064,35569,759,24934,8350,"Tailors, dressmakers, and sewers",1,18,7.219058313948825e-4
-Togo,1064,35569,759,24934,0565,Compliance officers,1,17,6.817999518729446e-4
-Togo,1064,35569,759,24934,0830,Credit analysts,1,16,6.416940723510066e-4
-Togo,1064,35569,759,24934,1430,"Industrial engineers, including health and safety",1,16,6.416940723510066e-4
-Togo,1064,35569,759,24934,2002,"Educational, guidance, and career counselors and advisors",1,16,6.416940723510066e-4
-Togo,1064,35569,759,24934,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,16,6.416940723510066e-4
-Togo,1064,35569,759,24934,5160,Tellers,1,16,6.416940723510066e-4
-Togo,1064,35569,759,24934,6410,Painters and paperhangers,1,16,6.416940723510066e-4
-Togo,1064,35569,759,24934,0150,Purchasing managers,1,15,6.015881928290687e-4
-Togo,1064,35569,759,24934,0705,Project management specialists,1,15,6.015881928290687e-4
-Togo,1064,35569,759,24934,1970,"Other life, physical, and social science technicians",1,15,6.015881928290687e-4
-Togo,1064,35569,759,24934,2001,Substance abuse and behavioral disorder counselors,1,15,6.015881928290687e-4
-Togo,1064,35569,759,24934,9610,Cleaners of vehicles and equipment,1,15,6.015881928290687e-4
-Togo,1064,35569,759,24934,1410,Electrical and electronics engineers,1,14,5.614823133071309e-4
-Togo,1064,35569,759,24934,3945,Transportation security screeners,1,14,5.614823133071309e-4
-Togo,1064,35569,759,24934,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",1,14,5.614823133071309e-4
-Togo,1064,35569,759,24934,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,14,5.614823133071309e-4
-Togo,1064,35569,759,24934,7640,"Other installation, maintenance, and repair workers",1,14,5.614823133071309e-4
-Togo,1064,35569,759,24934,2006,"Counselors, all other",1,13,5.213764337851929e-4
-Togo,1064,35569,759,24934,3430,Dietetic technicians and ophthalmic medical technicians,1,13,5.213764337851929e-4
-Togo,1064,35569,759,24934,3090,Physicians,1,12,4.81270554263255e-4
-Togo,1064,35569,759,24934,3330,Nuclear medicine technologists and medical dosimetrists,1,12,4.81270554263255e-4
-Togo,1064,35569,759,24934,4130,Dining room and cafeteria attendants and bartender helpers,1,12,4.81270554263255e-4
-Togo,1064,35569,759,24934,5900,"Office machine operators, except computer",1,12,4.81270554263255e-4
-Togo,1064,35569,759,24934,7100,"Other electrical and electronic equipment mechanics, installers, and repairers",1,12,4.81270554263255e-4
-Togo,1064,35569,759,24934,2825,Public relations specialists,1,11,4.411646747413171e-4
-Togo,1064,35569,759,24934,7040,"Electric motor, power tool, and related repairers",1,11,4.411646747413171e-4
-Togo,1064,35569,759,24934,9121,"Bus drivers, school",1,11,4.411646747413171e-4
-Togo,1064,35569,759,24934,2060,"Religious workers, all other",1,10,4.0105879521937915e-4
-Togo,1064,35569,759,24934,9570,"Conveyor, dredge, and hoist and winch operators",1,10,4.0105879521937915e-4
-Togo,1064,35569,759,24934,2330,Special education teachers,1,9,3.6095291569744126e-4
-Togo,1064,35569,759,24934,8610,Stationary engineers and boiler operators,1,9,3.6095291569744126e-4
-Togo,1064,35569,759,24934,9350,Parking attendants,1,9,3.6095291569744126e-4
-Togo,1064,35569,759,24934,6305,Construction equipment operators,1,8,3.208470361755033e-4
-Togo,1064,35569,759,24934,4920,Real estate brokers and sales agents,1,6,2.406352771316275e-4
-Togo,1064,35569,759,24934,4640,Residential advisors,1,5,2.0052939760968958e-4
-Togo,1064,35569,759,24934,9410,Transportation inspectors,1,4,1.6042351808775166e-4
-Togo,1064,35569,759,24934,5560,"Postal service mail sorters, processors, and processing machine operators",1,1,4.0105879521937915e-5
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Togo,1064,35569,781,25717,3930,Security guards and gaming surveillance officers,24,1025,0.039856903993467356
+Togo,1064,35569,781,25717,3602,Personal care aides,28,1000,0.038884784383870594
+Togo,1064,35569,781,25717,3603,Nursing assistants,27,973,0.037834895205506085
+Togo,1064,35569,781,25717,9620,"Laborers and freight, stock, and material movers, hand",22,932,0.03624061904576739
+Togo,1064,35569,781,25717,9130,Driver/sales workers and truck drivers,26,816,0.031729984057238404
+Togo,1064,35569,781,25717,4230,Maids and housekeeping cleaners,18,743,0.02889139479721585
+Togo,1064,35569,781,25717,4220,Janitors and building cleaners,15,708,0.02753042734378038
+Togo,1064,35569,781,25717,5240,Customer service representatives,19,624,0.02426410545553525
+Togo,1064,35569,781,25717,7750,Other assemblers and fabricators,13,548,0.021308861842361086
+Togo,1064,35569,781,25717,8990,"Miscellaneous production workers, including equipment operators and tenders",17,466,0.018120309522883696
+Togo,1064,35569,781,25717,0440,Other managers,14,435,0.016914881206983708
+Togo,1064,35569,781,25717,4760,Retail salespersons,10,432,0.016798226853832095
+Togo,1064,35569,781,25717,4720,Cashiers,15,430,0.016720457285064355
+Togo,1064,35569,781,25717,9142,Taxi drivers,14,423,0.01644826379437726
+Togo,1064,35569,781,25717,4020,Cooks,11,387,0.015048411556557919
+Togo,1064,35569,781,25717,4700,First-line supervisors of retail sales workers,11,380,0.014776218065870825
+Togo,1064,35569,781,25717,7810,"Butchers and other meat, poultry, and fish processing workers",12,354,0.01376521367189019
+Togo,1064,35569,781,25717,4030,Food preparation workers,6,340,0.013220826690516002
+Togo,1064,35569,781,25717,8800,Packaging and filling machine operators and tenders,9,336,0.013065287552980519
+Togo,1064,35569,781,25717,3300,Clinical laboratory technologists and technicians,6,316,0.012287591865303107
+Togo,1064,35569,781,25717,9640,"Packers and packagers, hand",11,310,0.012054283158999883
+Togo,1064,35569,781,25717,1108,"Computer occupations, all other",7,305,0.011859859237080531
+Togo,1064,35569,781,25717,3255,Registered nurses,9,305,0.011859859237080531
+Togo,1064,35569,781,25717,9645,Stockers and order fillers,10,304,0.01182097445269666
+Togo,1064,35569,781,25717,0630,Human resources workers,6,293,0.011393241824474083
+Togo,1064,35569,781,25717,4510,"Hairdressers, hairstylists, and cosmetologists",13,270,0.01049889178364506
+Togo,1064,35569,781,25717,4110,Waiters and waitresses,7,258,0.010032274371038612
+Togo,1064,35569,781,25717,5400,Receptionists and information clerks,8,257,0.009993389586654742
+Togo,1064,35569,781,25717,0230,Education and childcare administrators,6,256,0.00995450480227087
+Togo,1064,35569,781,25717,0700,Logisticians,6,254,0.00987673523350313
+Togo,1064,35569,781,25717,5410,Reservation and transportation ticket agents and travel clerks,5,247,0.009604541742816036
+Togo,1064,35569,781,25717,2300,Preschool and kindergarten teachers,4,243,0.009449002605280553
+Togo,1064,35569,781,25717,1050,Computer support specialists,5,218,0.008476882995683789
+Togo,1064,35569,781,25717,0420,Social and community service managers,4,215,0.008360228642532178
+Togo,1064,35569,781,25717,9600,Industrial truck and tractor operators,6,213,0.008282459073764436
+Togo,1064,35569,781,25717,1006,Computer systems analysts,5,210,0.008165804720612823
+Togo,1064,35569,781,25717,1021,Software developers,10,208,0.008088035151845084
+Togo,1064,35569,781,25717,9825,Military enlisted tactical operations and air/weapons specialists and crew members,7,206,0.008010265583077342
+Togo,1064,35569,781,25717,0020,General and operations managers,4,199,0.007738072092390248
+Togo,1064,35569,781,25717,0120,Financial managers,4,193,0.0075047633860870246
+Togo,1064,35569,781,25717,2310,Elementary and middle school teachers,10,190,0.0073881090329354126
+Togo,1064,35569,781,25717,3500,Licensed practical and licensed vocational nurses,4,188,0.007310339464167671
+Togo,1064,35569,781,25717,5550,Postal service mail carriers,6,184,0.0071548003266321885
+Togo,1064,35569,781,25717,9760,Other material moving workers,3,174,0.006765952482793483
+Togo,1064,35569,781,25717,2360,Other teachers and instructors,3,170,0.006610413345258001
+Togo,1064,35569,781,25717,0845,Financial and investment analysts,4,161,0.006260450285803165
+Togo,1064,35569,781,25717,2320,Secondary school teachers,5,154,0.005988256795116071
+Togo,1064,35569,781,25717,1980,Occupational health and safety specialists and technicians,2,149,0.0057938328731967186
+Togo,1064,35569,781,25717,1360,Civil engineers,3,147,0.005716063304428977
+Togo,1064,35569,781,25717,7140,Aircraft mechanics and service technicians,2,147,0.005716063304428977
+Togo,1064,35569,781,25717,7700,First-line supervisors of production and operating workers,4,144,0.005599408951277365
+Togo,1064,35569,781,25717,4000,Chefs and head cooks,2,139,0.005404985029358012
+Togo,1064,35569,781,25717,2145,Paralegals and legal assistants,3,127,0.004938367616751565
+Togo,1064,35569,781,25717,3645,Medical assistants,6,127,0.004938367616751565
+Togo,1064,35569,781,25717,2025,Other community and social service specialists,2,123,0.004782828479216083
+Togo,1064,35569,781,25717,0710,Management analysts,4,122,0.004743943694832212
+Togo,1064,35569,781,25717,2545,Teaching assistants,5,122,0.004743943694832212
+Togo,1064,35569,781,25717,7200,Automotive service technicians and mechanics,3,121,0.0047050589104483415
+Togo,1064,35569,781,25717,1551,Electrical and electronic engineering technologists and technicians,2,118,0.0045884045572967295
+Togo,1064,35569,781,25717,0350,Medical and health services managers,3,113,0.004393980635377377
+Togo,1064,35569,781,25717,3655,Other healthcare support workers,2,113,0.004393980635377377
+Togo,1064,35569,781,25717,4055,Fast food and counter workers,5,110,0.004277326282225765
+Togo,1064,35569,781,25717,3802,Correctional officers and jailers,2,106,0.004121787144690282
+Togo,1064,35569,781,25717,5860,"Office clerks, general",5,106,0.004121787144690282
+Togo,1064,35569,781,25717,4140,Dishwashers,3,105,0.004082902360306412
+Togo,1064,35569,781,25717,7340,"Maintenance and repair workers, general",2,105,0.004082902360306412
+Togo,1064,35569,781,25717,1555,"Other engineering technologists and technicians, except drafters",2,103,0.004005132791538671
+Togo,1064,35569,781,25717,4600,Childcare workers,5,103,0.004005132791538671
+Togo,1064,35569,781,25717,6355,Electricians,3,103,0.004005132791538671
+Togo,1064,35569,781,25717,8225,Other metal workers and plastic workers,4,103,0.004005132791538671
+Togo,1064,35569,781,25717,0640,"Compensation, benefits, and job analysis specialists",1,102,0.0039662480071548005
+Togo,1064,35569,781,25717,0750,"Business operations specialists, all other",5,102,0.0039662480071548005
+Togo,1064,35569,781,25717,1007,Information security analysts,2,102,0.0039662480071548005
+Togo,1064,35569,781,25717,9830,"Military, rank not specified",3,100,0.003888478438387059
+Togo,1064,35569,781,25717,5330,Loan interviewers and clerks,1,99,0.0038495936540031885
+Togo,1064,35569,781,25717,0800,Accountants and auditors,6,97,0.003771824085235447
+Togo,1064,35569,781,25717,1800,Economists,3,96,0.003732939300851577
+Togo,1064,35569,781,25717,3605,Orderlies and psychiatric aides,2,96,0.003732939300851577
+Togo,1064,35569,781,25717,5510,Couriers and messengers,4,94,0.0036551697320838356
+Togo,1064,35569,781,25717,5540,Postal service clerks,3,85,0.0033052066726290004
+Togo,1064,35569,781,25717,4010,First-line supervisors of food preparation and serving workers,2,84,0.0032663218882451298
+Togo,1064,35569,781,25717,5000,First-line supervisors of office and administrative support workers,3,83,0.003227437103861259
+Togo,1064,35569,781,25717,3601,Home health aides,5,82,0.0031885523194773884
+Togo,1064,35569,781,25717,5610,"Shipping, receiving, and inventory clerks",4,82,0.0031885523194773884
+Togo,1064,35569,781,25717,8830,Photographic process workers and processing machine operators,1,81,0.0031496675350935178
+Togo,1064,35569,781,25717,2861,Interpreters and translators,1,79,0.003071897966325777
+Togo,1064,35569,781,25717,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,77,0.0029941283975580355
+Togo,1064,35569,781,25717,2014,"Social workers, all other",3,74,0.002877474044406424
+Togo,1064,35569,781,25717,8335,Shoe and leather workers,1,74,0.002877474044406424
+Togo,1064,35569,781,25717,0160,"Transportation, storage, and distribution managers",1,71,0.002760819691254812
+Togo,1064,35569,781,25717,0735,Market research analysts and marketing specialists,1,71,0.002760819691254812
+Togo,1064,35569,781,25717,0140,Industrial production managers,3,68,0.0026441653381032004
+Togo,1064,35569,781,25717,1400,Computer hardware engineers,1,68,0.0026441653381032004
+Togo,1064,35569,781,25717,2600,Artists and related workers,1,67,0.0026052805537193297
+Togo,1064,35569,781,25717,3258,"Nurse practitioners, and nurse midwives",2,64,0.0024886262005677177
+Togo,1064,35569,781,25717,0650,Training and development specialists,2,62,0.0024108566317999768
+Togo,1064,35569,781,25717,2740,Dancers and choreographers,1,62,0.0024108566317999768
+Togo,1064,35569,781,25717,0310,Food service managers,3,58,0.002255317494264494
+Togo,1064,35569,781,25717,1610,Biological scientists,2,58,0.002255317494264494
+Togo,1064,35569,781,25717,2170,"Title examiners, abstractors, and searchers",2,58,0.002255317494264494
+Togo,1064,35569,781,25717,5100,Bill and account collectors,1,58,0.002255317494264494
+Togo,1064,35569,781,25717,5940,Other office and administrative support workers,3,58,0.002255317494264494
+Togo,1064,35569,781,25717,2721,Athletes and sports competitors,1,57,0.002216432709880624
+Togo,1064,35569,781,25717,5110,Billing and posting clerks,3,57,0.002216432709880624
+Togo,1064,35569,781,25717,8250,Prepress technicians and workers,1,56,0.002177547925496753
+Togo,1064,35569,781,25717,3640,Dental assistants,2,53,0.002060893572345141
+Togo,1064,35569,781,25717,3725,"Miscellaneous first-line supervisors, protective service workers",3,53,0.002060893572345141
+Togo,1064,35569,781,25717,5165,Other financial clerks,1,52,0.002022008787961271
+Togo,1064,35569,781,25717,3946,School bus monitors,1,51,0.0019831240035774003
+Togo,1064,35569,781,25717,5740,"Secretaries and administrative assistants, except legal, medical, and executive",5,50,0.0019442392191935296
+Togo,1064,35569,781,25717,8255,Printing press operators,2,49,0.001905354434809659
+Togo,1064,35569,781,25717,4750,Parts salespersons,1,47,0.0018275848660419178
+Togo,1064,35569,781,25717,2100,"Lawyers, and judges, magistrates, and other judicial workers",2,45,0.0017498152972741767
+Togo,1064,35569,781,25717,1106,Computer network architects,2,42,0.0016331609441225649
+Togo,1064,35569,781,25717,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,42,0.0016331609441225649
+Togo,1064,35569,781,25717,6260,Construction laborers,3,41,0.0015942761597386942
+Togo,1064,35569,781,25717,6230,Carpenters,3,38,0.0014776218065870824
+Togo,1064,35569,781,25717,2205,Postsecondary teachers,2,37,0.001438737022203212
+Togo,1064,35569,781,25717,4120,"Food servers, nonrestaurant",2,37,0.001438737022203212
+Togo,1064,35569,781,25717,6010,Agricultural inspectors,1,37,0.001438737022203212
+Togo,1064,35569,781,25717,3960,Other protective service workers,4,36,0.0013998522378193413
+Togo,1064,35569,781,25717,8300,Laundry and dry-cleaning workers,1,36,0.0013998522378193413
+Togo,1064,35569,781,25717,1200,Actuaries,1,35,0.0013609674534354706
+Togo,1064,35569,781,25717,1650,Other life scientists,3,35,0.0013609674534354706
+Togo,1064,35569,781,25717,4950,"Door-to-door sales workers, news and street vendors, and related workers",1,35,0.0013609674534354706
+Togo,1064,35569,781,25717,9122,"Bus drivers, transit and intercity",2,34,0.0013220826690516002
+Togo,1064,35569,781,25717,3245,Other therapists,1,32,0.0012443131002838588
+Togo,1064,35569,781,25717,8140,"Welding, soldering, and brazing workers",1,32,0.0012443131002838588
+Togo,1064,35569,781,25717,2722,Coaches and scouts,2,31,0.0012054283158999884
+Togo,1064,35569,781,25717,1760,"Physical scientists, all other",2,30,0.0011665435315161177
+Togo,1064,35569,781,25717,5040,"Communications equipment operators, all other",1,30,0.0011665435315161177
+Togo,1064,35569,781,25717,7855,"Food processing workers, all other",2,29,0.001127658747132247
+Togo,1064,35569,781,25717,8740,"Inspectors, testers, sorters, samplers, and weighers",3,29,0.001127658747132247
+Togo,1064,35569,781,25717,1240,Other mathematical science occupations,2,28,0.0010887739627483766
+Togo,1064,35569,781,25717,2634,Graphic designers,1,28,0.0010887739627483766
+Togo,1064,35569,781,25717,3610,Occupational therapy assistants and aides,1,28,0.0010887739627483766
+Togo,1064,35569,781,25717,4530,"Baggage porters, bellhops, and concierges",2,27,0.001049889178364506
+Togo,1064,35569,781,25717,4965,"Sales and related workers, all other",2,27,0.001049889178364506
+Togo,1064,35569,781,25717,3323,Radiologic technologists and technicians,1,26,0.0010110043939806355
+Togo,1064,35569,781,25717,3402,Paramedics,2,26,0.0010110043939806355
+Togo,1064,35569,781,25717,4251,Landscaping and groundskeeping workers,1,26,0.0010110043939806355
+Togo,1064,35569,781,25717,0850,Personal financial advisors,1,25,9.721196095967648e-4
+Togo,1064,35569,781,25717,5120,"Bookkeeping, accounting, and auditing clerks",1,25,9.721196095967648e-4
+Togo,1064,35569,781,25717,8256,Print binding and finishing workers,1,25,9.721196095967648e-4
+Togo,1064,35569,781,25717,0010,Chief executives and legislators,2,24,9.332348252128942e-4
+Togo,1064,35569,781,25717,0540,"Claims adjusters, appraisers, examiners, and investigators",1,24,9.332348252128942e-4
+Togo,1064,35569,781,25717,1220,Operations research analysts,1,24,9.332348252128942e-4
+Togo,1064,35569,781,25717,3401,Emergency medical technicians,1,24,9.332348252128942e-4
+Togo,1064,35569,781,25717,5020,Telephone operators,1,24,9.332348252128942e-4
+Togo,1064,35569,781,25717,4200,First-line supervisors of housekeeping and janitorial workers,1,23,8.943500408290236e-4
+Togo,1064,35569,781,25717,0136,Human resources managers,1,22,8.55465256445153e-4
+Togo,1064,35569,781,25717,2350,Tutors,1,22,8.55465256445153e-4
+Togo,1064,35569,781,25717,5730,Medical secretaries and administrative assistants,1,22,8.55465256445153e-4
+Togo,1064,35569,781,25717,7410,Electrical power-line installers and repairers,2,22,8.55465256445153e-4
+Togo,1064,35569,781,25717,8320,Sewing machine operators,1,22,8.55465256445153e-4
+Togo,1064,35569,781,25717,1065,Database administrators and architects,1,21,8.165804720612824e-4
+Togo,1064,35569,781,25717,1350,Chemical engineers,1,21,8.165804720612824e-4
+Togo,1064,35569,781,25717,2920,"Television, video, and film camera operators and editors",1,21,8.165804720612824e-4
+Togo,1064,35569,781,25717,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,21,8.165804720612824e-4
+Togo,1064,35569,781,25717,0410,"Property, real estate, and community association managers",1,20,7.776956876774119e-4
+Togo,1064,35569,781,25717,3545,Miscellaneous health technologists and technicians,1,20,7.776956876774119e-4
+Togo,1064,35569,781,25717,9005,Supervisors of transportation and material moving workers,1,20,7.776956876774119e-4
+Togo,1064,35569,781,25717,2016,Social and human service assistants,2,19,7.388109032935412e-4
+Togo,1064,35569,781,25717,3050,Pharmacists,1,19,7.388109032935412e-4
+Togo,1064,35569,781,25717,9030,Aircraft pilots and flight engineers,1,19,7.388109032935412e-4
+Togo,1064,35569,781,25717,0060,Public relations and fundraising managers,1,18,6.999261189096707e-4
+Togo,1064,35569,781,25717,0101,Administrative services managers,1,18,6.999261189096707e-4
+Togo,1064,35569,781,25717,6330,"Drywall installers, ceiling tile installers, and tapers",1,18,6.999261189096707e-4
+Togo,1064,35569,781,25717,7020,Radio and telecommunications equipment installers and repairers,1,18,6.999261189096707e-4
+Togo,1064,35569,781,25717,7315,"Heating, air conditioning, and refrigeration mechanics and installers",1,18,6.999261189096707e-4
+Togo,1064,35569,781,25717,7905,Computer numerically controlled tool operators and programmers,1,18,6.999261189096707e-4
+Togo,1064,35569,781,25717,8350,"Tailors, dressmakers, and sewers",1,18,6.999261189096707e-4
+Togo,1064,35569,781,25717,0565,Compliance officers,1,17,6.610413345258001e-4
+Togo,1064,35569,781,25717,0830,Credit analysts,1,16,6.221565501419294e-4
+Togo,1064,35569,781,25717,1430,"Industrial engineers, including health and safety",1,16,6.221565501419294e-4
+Togo,1064,35569,781,25717,2002,"Educational, guidance, and career counselors and advisors",1,16,6.221565501419294e-4
+Togo,1064,35569,781,25717,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,16,6.221565501419294e-4
+Togo,1064,35569,781,25717,5160,Tellers,1,16,6.221565501419294e-4
+Togo,1064,35569,781,25717,6410,Painters and paperhangers,1,16,6.221565501419294e-4
+Togo,1064,35569,781,25717,0150,Purchasing managers,1,15,5.832717657580589e-4
+Togo,1064,35569,781,25717,0705,Project management specialists,1,15,5.832717657580589e-4
+Togo,1064,35569,781,25717,1970,"Other life, physical, and social science technicians",1,15,5.832717657580589e-4
+Togo,1064,35569,781,25717,2001,Substance abuse and behavioral disorder counselors,1,15,5.832717657580589e-4
+Togo,1064,35569,781,25717,9610,Cleaners of vehicles and equipment,1,15,5.832717657580589e-4
+Togo,1064,35569,781,25717,1410,Electrical and electronics engineers,1,14,5.443869813741883e-4
+Togo,1064,35569,781,25717,3945,Transportation security screeners,1,14,5.443869813741883e-4
+Togo,1064,35569,781,25717,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",1,14,5.443869813741883e-4
+Togo,1064,35569,781,25717,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,14,5.443869813741883e-4
+Togo,1064,35569,781,25717,7640,"Other installation, maintenance, and repair workers",1,14,5.443869813741883e-4
+Togo,1064,35569,781,25717,2006,"Counselors, all other",1,13,5.055021969903177e-4
+Togo,1064,35569,781,25717,3430,Dietetic technicians and ophthalmic medical technicians,1,13,5.055021969903177e-4
+Togo,1064,35569,781,25717,3090,Physicians,1,12,4.666174126064471e-4
+Togo,1064,35569,781,25717,3330,Nuclear medicine technologists and medical dosimetrists,1,12,4.666174126064471e-4
+Togo,1064,35569,781,25717,4130,Dining room and cafeteria attendants and bartender helpers,1,12,4.666174126064471e-4
+Togo,1064,35569,781,25717,5900,"Office machine operators, except computer",1,12,4.666174126064471e-4
+Togo,1064,35569,781,25717,7100,"Other electrical and electronic equipment mechanics, installers, and repairers",1,12,4.666174126064471e-4
+Togo,1064,35569,781,25717,2825,Public relations specialists,1,11,4.277326282225765e-4
+Togo,1064,35569,781,25717,7040,"Electric motor, power tool, and related repairers",1,11,4.277326282225765e-4
+Togo,1064,35569,781,25717,9121,"Bus drivers, school",1,11,4.277326282225765e-4
+Togo,1064,35569,781,25717,2060,"Religious workers, all other",1,10,3.8884784383870594e-4
+Togo,1064,35569,781,25717,9570,"Conveyor, dredge, and hoist and winch operators",1,10,3.8884784383870594e-4
+Togo,1064,35569,781,25717,2330,Special education teachers,1,9,3.499630594548353e-4
+Togo,1064,35569,781,25717,4435,Other entertainment attendants and related workers,1,9,3.499630594548353e-4
+Togo,1064,35569,781,25717,8610,Stationary engineers and boiler operators,1,9,3.499630594548353e-4
+Togo,1064,35569,781,25717,9350,Parking attendants,1,9,3.499630594548353e-4
+Togo,1064,35569,781,25717,6305,Construction equipment operators,1,8,3.110782750709647e-4
+Togo,1064,35569,781,25717,4920,Real estate brokers and sales agents,1,6,2.3330870630322356e-4
+Togo,1064,35569,781,25717,4640,Residential advisors,1,5,1.9442392191935297e-4
+Togo,1064,35569,781,25717,9410,Transportation inspectors,1,4,1.5553913753548235e-4
+Togo,1064,35569,781,25717,5560,"Postal service mail sorters, processors, and processing machine operators",1,1,3.888478438387059e-5

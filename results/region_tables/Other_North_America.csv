@@ -1,506 +1,509 @@
-bpl_region,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Other North America,46530,877628,20752,433605,0440,Other managers,1081,22522,0.05194128296491046
-Other North America,46530,877628,20752,433605,3255,Registered nurses,676,13799,0.03182389501966075
-Other North America,46530,877628,20752,433605,1021,Software developers,651,13192,0.030424003413244773
-Other North America,46530,877628,20752,433605,2205,Postsecondary teachers,633,12402,0.0286020687030823
-Other North America,46530,877628,20752,433605,0010,Chief executives and legislators,616,12328,0.02843140646440885
-Other North America,46530,877628,20752,433605,3090,Physicians,494,10996,0.025359486168286805
-Other North America,46530,877628,20752,433605,2100,"Lawyers, and judges, magistrates, and other judicial workers",342,7049,0.01625673135688011
-Other North America,46530,877628,20752,433605,2310,Elementary and middle school teachers,354,6824,0.01573782590145409
-Other North America,46530,877628,20752,433605,0800,Accountants and auditors,274,5834,0.013454641897579594
-Other North America,46530,877628,20752,433605,4700,First-line supervisors of retail sales workers,272,5659,0.013051048765581578
-Other North America,46530,877628,20752,433605,0710,Management analysts,283,5475,0.01262669941536652
-Other North America,46530,877628,20752,433605,0020,General and operations managers,240,5394,0.012439893451413152
-Other North America,46530,877628,20752,433605,4760,Retail salespersons,240,5381,0.012409912247321872
-Other North America,46530,877628,20752,433605,0120,Financial managers,258,5329,0.012289987430956746
-Other North America,46530,877628,20752,433605,5240,Customer service representatives,232,4917,0.011339813885909987
-Other North America,46530,877628,20752,433605,9130,Driver/sales workers and truck drivers,198,4532,0.01045190899551435
-Other North America,46530,877628,20752,433605,0705,Project management specialists,210,4506,0.010391946587331788
-Other North America,46530,877628,20752,433605,5740,"Secretaries and administrative assistants, except legal, medical, and executive",226,4340,0.010009109673550813
-Other North America,46530,877628,20752,433605,4920,Real estate brokers and sales agents,198,4048,0.009335685704731264
-Other North America,46530,877628,20752,433605,2545,Teaching assistants,211,3964,0.009141961001372217
-Other North America,46530,877628,20752,433605,4850,"Sales representatives, wholesale and manufacturing",174,3870,0.008925173833327568
-Other North America,46530,877628,20752,433605,4220,Janitors and building cleaners,147,3679,0.00848468075783259
-Other North America,46530,877628,20752,433605,1530,Other engineers,164,3655,0.008429330842587148
-Other North America,46530,877628,20752,433605,0110,Computer and information systems managers,202,3648,0.008413187117307227
-Other North America,46530,877628,20752,433605,0051,Marketing managers,174,3647,0.008410880870838666
-Other North America,46530,877628,20752,433605,0230,Education and childcare administrators,180,3586,0.0082701998362565
-Other North America,46530,877628,20752,433605,1760,"Physical scientists, all other",174,3411,0.007866606704258485
-Other North America,46530,877628,20752,433605,2320,Secondary school teachers,186,3260,0.00751836348750591
-Other North America,46530,877628,20752,433605,1006,Computer systems analysts,137,3259,0.007516057241037349
-Other North America,46530,877628,20752,433605,0220,Construction managers,150,3121,0.007197795228376057
-Other North America,46530,877628,20752,433605,0052,Sales managers,142,3091,0.007128607834319254
-Other North America,46530,877628,20752,433605,4710,First-line supervisors of non-retail sales workers,143,3061,0.007059420440262451
-Other North America,46530,877628,20752,433605,5120,"Bookkeeping, accounting, and auditing clerks",149,3039,0.0070086830179541286
-Other North America,46530,877628,20752,433605,0350,Medical and health services managers,143,2899,0.006685808512355716
-Other North America,46530,877628,20752,433605,4720,Cashiers,135,2881,0.006644296075921634
-Other North America,46530,877628,20752,433605,0630,Human resources workers,145,2767,0.0063813839785057825
-Other North America,46530,877628,20752,433605,9620,"Laborers and freight, stock, and material movers, hand",110,2547,0.005874009755422562
-Other North America,46530,877628,20752,433605,5000,First-line supervisors of office and administrative support workers,134,2531,0.005837109811925601
-Other North America,46530,877628,20752,433605,5860,"Office clerks, general",130,2317,0.00534357306765374
-Other North America,46530,877628,20752,433605,1050,Computer support specialists,114,2304,0.005313591863562459
-Other North America,46530,877628,20752,433605,4110,Waiters and waitresses,112,2301,0.005306673124156778
-Other North America,46530,877628,20752,433605,0750,"Business operations specialists, all other",111,2287,0.005274385673596937
-Other North America,46530,877628,20752,433605,0300,Architectural and engineering managers,106,2281,0.005260548194785577
-Other North America,46530,877628,20752,433605,0850,Personal financial advisors,106,2159,0.004979186125621245
-Other North America,46530,877628,20752,433605,1108,"Computer occupations, all other",109,2149,0.0049561236609356445
-Other North America,46530,877628,20752,433605,1240,Other mathematical science occupations,103,2116,0.004880017527473161
-Other North America,46530,877628,20752,433605,0735,Market research analysts and marketing specialists,117,2093,0.004826973858696279
-Other North America,46530,877628,20752,433605,3603,Nursing assistants,87,2091,0.004822361365759159
-Other North America,46530,877628,20752,433605,2300,Preschool and kindergarten teachers,95,2081,0.004799298901073557
-Other North America,46530,877628,20752,433605,1460,Mechanical engineers,107,2051,0.0047301115070167545
-Other North America,46530,877628,20752,433605,3602,Personal care aides,103,2025,0.004670149098834193
-Other North America,46530,877628,20752,433605,1650,Other life scientists,95,2018,0.004654005373554272
-Other North America,46530,877628,20752,433605,0410,"Property, real estate, and community association managers",95,1997,0.00460557419771451
-Other North America,46530,877628,20752,433605,2360,Other teachers and instructors,106,1968,0.004538693050126267
-Other North America,46530,877628,20752,433605,1360,Civil engineers,91,1924,0.004437218205509623
-Other North America,46530,877628,20752,433605,4230,Maids and housekeeping cleaners,69,1924,0.004437218205509623
-Other North America,46530,877628,20752,433605,2040,Clergy,90,1900,0.0043818682902641804
-Other North America,46530,877628,20752,433605,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",107,1887,0.004351887086172899
-Other North America,46530,877628,20752,433605,4020,Cooks,93,1868,0.0043080684032702574
-Other North America,46530,877628,20752,433605,2640,Other designers,100,1856,0.004280393445647537
-Other North America,46530,877628,20752,433605,3010,Dentists,90,1819,0.004195062326310813
-Other North America,46530,877628,20752,433605,6230,Carpenters,72,1801,0.004153549889876731
-Other North America,46530,877628,20752,433605,9645,Stockers and order fillers,84,1780,0.004105118714036969
-Other North America,46530,877628,20752,433605,5940,Other office and administrative support workers,83,1699,0.003918312750083601
-Other North America,46530,877628,20752,433605,4055,Fast food and counter workers,49,1685,0.00388602529952376
-Other North America,46530,877628,20752,433605,6260,Construction laborers,69,1680,0.0038744940671809596
-Other North America,46530,877628,20752,433605,3050,Pharmacists,79,1672,0.003856044095432479
-Other North America,46530,877628,20752,433605,0310,Food service managers,81,1661,0.003830675384278318
-Other North America,46530,877628,20752,433605,0420,Social and community service managers,85,1648,0.0038006941801870366
-Other North America,46530,877628,20752,433605,2600,Artists and related workers,67,1642,0.003786856701375676
-Other North America,46530,877628,20752,433605,6200,First-line supervisors of construction trades and extraction workers,60,1534,0.003537782082771186
-Other North America,46530,877628,20752,433605,1555,"Other engineering technologists and technicians, except drafters",59,1526,0.003519332111022705
-Other North America,46530,877628,20752,433605,2850,Writers and authors,70,1495,0.003447838470497342
-Other North America,46530,877628,20752,433605,5400,Receptionists and information clerks,84,1485,0.0034247760058117413
-Other North America,46530,877628,20752,433605,0845,Financial and investment analysts,75,1461,0.003369426090566299
-Other North America,46530,877628,20752,433605,1010,Computer programmers,69,1434,0.003307157435915176
-Other North America,46530,877628,20752,433605,2722,Coaches and scouts,88,1432,0.003302544942978056
-Other North America,46530,877628,20752,433605,7700,First-line supervisors of production and operating workers,57,1430,0.003297932450040936
-Other North America,46530,877628,20752,433605,2634,Graphic designers,71,1428,0.0032933199571038158
-Other North America,46530,877628,20752,433605,3160,Physical therapists,69,1427,0.0032910137106352557
-Other North America,46530,877628,20752,433605,8990,"Miscellaneous production workers, including equipment operators and tenders",63,1412,0.0032564200136068542
-Other North America,46530,877628,20752,433605,4810,Insurance sales agents,62,1373,0.0031664764013330103
-Other North America,46530,877628,20752,433605,7200,Automotive service technicians and mechanics,57,1355,0.0031249639648989287
-Other North America,46530,877628,20752,433605,4251,Landscaping and groundskeeping workers,60,1339,0.003088064021401967
-Other North America,46530,877628,20752,433605,3645,Medical assistants,47,1332,0.0030719202961220467
-Other North America,46530,877628,20752,433605,4510,"Hairdressers, hairstylists, and cosmetologists",56,1331,0.0030696140496534866
-Other North America,46530,877628,20752,433605,2330,Special education teachers,60,1329,0.003065001556716366
-Other North America,46530,877628,20752,433605,3258,"Nurse practitioners, and nurse midwives",63,1316,0.003035020352625085
-Other North America,46530,877628,20752,433605,4621,Exercise trainers and group fitness instructors,62,1312,0.0030257953667508445
-Other North America,46530,877628,20752,433605,2710,Producers and directors,61,1304,0.003007345395002364
-Other North America,46530,877628,20752,433605,4010,First-line supervisors of food preparation and serving workers,44,1293,0.002981976683848203
-Other North America,46530,877628,20752,433605,3000,Chiropractors,61,1275,0.002940464247414121
-Other North America,46530,877628,20752,433605,3870,Police officers,45,1271,0.002931239261539881
-Other North America,46530,877628,20752,433605,1430,"Industrial engineers, including health and safety",58,1258,0.0029012580574485996
-Other North America,46530,877628,20752,433605,0565,Compliance officers,59,1248,0.0028781955927629985
-Other North America,46530,877628,20752,433605,1410,Electrical and electronics engineers,61,1246,0.0028735830998258783
-Other North America,46530,877628,20752,433605,3930,Security guards and gaming surveillance officers,54,1227,0.0028297644169232366
-Other North America,46530,877628,20752,433605,2014,"Social workers, all other",56,1213,0.0027974769663633953
-Other North America,46530,877628,20752,433605,4030,Food preparation workers,52,1211,0.002792864473426275
-Other North America,46530,877628,20752,433605,1305,"Architects, except landscape and naval",69,1200,0.002767495762272114
-Other North America,46530,877628,20752,433605,8740,"Inspectors, testers, sorters, samplers, and weighers",64,1192,0.0027490457905236334
-Other North America,46530,877628,20752,433605,4820,"Securities, commodities, and financial services sales agents",54,1162,0.0026798583964668305
-Other North America,46530,877628,20752,433605,0150,Purchasing managers,58,1158,0.00267063341059259
-Other North America,46530,877628,20752,433605,2145,Paralegals and legal assistants,60,1154,0.0026614084247183496
-Other North America,46530,877628,20752,433605,0140,Industrial production managers,58,1099,0.0025345648689475446
-Other North America,46530,877628,20752,433605,9030,Aircraft pilots and flight engineers,50,1092,0.0025184211436676237
-Other North America,46530,877628,20752,433605,4600,Childcare workers,54,1070,0.0024676837213593017
-Other North America,46530,877628,20752,433605,0910,Credit counselors and loan officers,49,1041,0.002400802573771059
-Other North America,46530,877628,20752,433605,3230,Speech-language pathologists,61,1040,0.002398496327302499
-Other North America,46530,877628,20752,433605,5600,"Production, planning, and expediting clerks",38,1006,0.0023200839473714557
-Other North America,46530,877628,20752,433605,6355,Electricians,54,1001,0.002308552715028655
-Other North America,46530,877628,20752,433605,3250,Veterinarians,50,995,0.0022947152362172945
-Other North America,46530,877628,20752,433605,5710,Executive secretaries and executive administrative assistants,54,965,0.0022255278421604917
-Other North America,46530,877628,20752,433605,5610,"Shipping, receiving, and inventory clerks",39,943,0.0021747904198521698
-Other North America,46530,877628,20752,433605,2752,Musicians and singers,45,942,0.0021724841733836097
-Other North America,46530,877628,20752,433605,3630,Massage therapists,31,932,0.0021494217086980086
-Other North America,46530,877628,20752,433605,5510,Couriers and messengers,35,931,0.0021471154622294485
-Other North America,46530,877628,20752,433605,0136,Human resources managers,53,880,0.002029496892332884
-Other North America,46530,877628,20752,433605,4965,"Sales and related workers, all other",48,873,0.002013353167052963
-Other North America,46530,877628,20752,433605,1320,Aerospace engineers,50,867,0.0019995156882416025
-Other North America,46530,877628,20752,433605,4040,Bartenders,33,865,0.0019949031953044823
-Other North America,46530,877628,20752,433605,2910,Photographers,35,859,0.0019810657164931215
-Other North America,46530,877628,20752,433605,1200,Actuaries,36,853,0.001967228237681761
-Other North America,46530,877628,20752,433605,0530,"Purchasing agents, except wholesale, retail, and farm products",40,848,0.0019556970053389608
-Other North America,46530,877628,20752,433605,0540,"Claims adjusters, appraisers, examiners, and investigators",38,837,0.0019303282941847996
-Other North America,46530,877628,20752,433605,0340,Lodging managers,36,833,0.0019211033083105591
-Other North America,46530,877628,20752,433605,5110,Billing and posting clerks,35,820,0.0018911221042192778
-Other North America,46530,877628,20752,433605,3100,Surgeons,43,813,0.0018749783789393573
-Other North America,46530,877628,20752,433605,0520,"Wholesale and retail buyers, except farm products",33,806,0.0018588346536594367
-Other North America,46530,877628,20752,433605,7340,"Maintenance and repair workers, general",48,802,0.0018496096677851962
-Other North America,46530,877628,20752,433605,3500,Licensed practical and licensed vocational nurses,33,793,0.0018288534495681553
-Other North America,46530,877628,20752,433605,4435,Other entertainment attendants and related workers,25,780,0.001798872245476874
-Other North America,46530,877628,20752,433605,2635,Interior designers,31,779,0.001796565999008314
-Other North America,46530,877628,20752,433605,2825,Public relations specialists,33,760,0.0017527473161056723
-Other North America,46530,877628,20752,433605,3245,Other therapists,40,757,0.0017458285766999918
-Other North America,46530,877628,20752,433605,2830,Editors,37,755,0.0017412160837628717
-Other North America,46530,877628,20752,433605,7330,Industrial and refractory machinery mechanics,24,746,0.001720459865545831
-Other North America,46530,877628,20752,433605,3150,Occupational therapists,33,743,0.0017135411261401507
-Other North America,46530,877628,20752,433605,2435,Librarians and media collections specialists,41,731,0.0016858661685174295
-Other North America,46530,877628,20752,433605,0500,"Agents and business managers of artists, performers, and athletes",16,725,0.0016720286897060688
-Other North America,46530,877628,20752,433605,9600,Industrial truck and tractor operators,31,725,0.0016720286897060688
-Other North America,46530,877628,20752,433605,0160,"Transportation, storage, and distribution managers",37,701,0.0016166787744606266
-Other North America,46530,877628,20752,433605,9142,Taxi drivers,21,701,0.0016166787744606266
-Other North America,46530,877628,20752,433605,7750,Other assemblers and fabricators,39,693,0.0015982288027121458
-Other North America,46530,877628,20752,433605,2002,"Educational, guidance, and career counselors and advisors",40,684,0.001577472584495105
-Other North America,46530,877628,20752,433605,2006,"Counselors, all other",27,668,0.0015405726409981435
-Other North America,46530,877628,20752,433605,1720,Chemists and materials scientists,31,659,0.0015198164227811027
-Other North America,46530,877628,20752,433605,3601,Home health aides,23,656,0.0015128976833754222
-Other North America,46530,877628,20752,433605,2700,Actors,30,652,0.001503672697501182
-Other North America,46530,877628,20752,433605,1350,Chemical engineers,32,638,0.0014713852469413406
-Other North America,46530,877628,20752,433605,0205,"Farmers, ranchers, and other agricultural managers",44,635,0.0014644665075356604
-Other North America,46530,877628,20752,433605,5165,Other financial clerks,21,631,0.00145524152166142
-Other North America,46530,877628,20752,433605,1825,Other psychologists,40,622,0.001434485303444379
-Other North America,46530,877628,20752,433605,2920,"Television, video, and film camera operators and editors",23,620,0.001429872810507259
-Other North America,46530,877628,20752,433605,1970,"Other life, physical, and social science technicians",37,613,0.0014137290852273383
-Other North America,46530,877628,20752,433605,3040,Optometrists,30,610,0.0014068103458216579
-Other North America,46530,877628,20752,433605,6442,"Plumbers, pipefitters, and steamfitters",29,605,0.0013952791134788575
-Other North America,46530,877628,20752,433605,0960,Other financial specialists,21,596,0.0013745228952618167
-Other North America,46530,877628,20752,433605,1800,Economists,22,589,0.001358379169981896
-Other North America,46530,877628,20752,433605,1007,Information security analysts,34,581,0.0013399291982334153
-Other North America,46530,877628,20752,433605,2060,"Religious workers, all other",34,579,0.001335316705296295
-Other North America,46530,877628,20752,433605,3300,Clinical laboratory technologists and technicians,29,577,0.0013307042123591748
-Other North America,46530,877628,20752,433605,3640,Dental assistants,22,572,0.0013191729800163744
-Other North America,46530,877628,20752,433605,3740,Firefighters,25,561,0.0012938042688622133
-Other North America,46530,877628,20752,433605,4350,Animal caretakers,36,561,0.0012938042688622133
-Other North America,46530,877628,20752,433605,3655,Other healthcare support workers,14,559,0.0012891917759250931
-Other North America,46530,877628,20752,433605,2840,Technical writers,21,551,0.0012707418041766124
-Other North America,46530,877628,20752,433605,7315,"Heating, air conditioning, and refrigeration mechanics and installers",25,550,0.0012684355577080523
-Other North America,46530,877628,20752,433605,3550,Other healthcare practitioners and technical occupations,20,548,0.001263823064770932
-Other North America,46530,877628,20752,433605,5840,Insurance claims and policy processing clerks,18,546,0.0012592105718338118
-Other North America,46530,877628,20752,433605,5810,Data entry keyers,21,538,0.001240760600085331
-Other North America,46530,877628,20752,433605,4655,"Personal care and service workers, all other",24,532,0.0012269231212739705
-Other North America,46530,877628,20752,433605,4930,Sales engineers,24,522,0.0012038606565883696
-Other North America,46530,877628,20752,433605,9005,Supervisors of transportation and material moving workers,18,522,0.0012038606565883696
-Other North America,46530,877628,20752,433605,2555,Other educational instruction and library workers,27,521,0.0012015544101198095
-Other North America,46530,877628,20752,433605,2350,Tutors,31,517,0.0011923294242455692
-Other North America,46530,877628,20752,433605,3421,Pharmacy technicians,24,508,0.0011715732060285282
-Other North America,46530,877628,20752,433605,1450,Materials engineers,13,507,0.0011692669595599681
-Other North America,46530,877628,20752,433605,1065,Database administrators and architects,26,499,0.0011508169878114874
-Other North America,46530,877628,20752,433605,2721,Athletes and sports competitors,26,498,0.0011485107413429273
-Other North America,46530,877628,20752,433605,0600,Cost estimators,24,494,0.001139285755468687
-Other North America,46530,877628,20752,433605,1610,Biological scientists,24,486,0.0011208357837202063
-Other North America,46530,877628,20752,433605,3110,Physician assistants,22,484,0.001116223290783086
-Other North America,46530,877628,20752,433605,9640,"Packers and packagers, hand",26,481,0.0011093045513774057
-Other North America,46530,877628,20752,433605,7800,Bakers,21,480,0.0011069983049088457
-Other North America,46530,877628,20752,433605,3030,Dietitians and nutritionists,21,478,0.0011023858119717253
-Other North America,46530,877628,20752,433605,1031,Web developers,26,475,0.0010954670725660451
-Other North America,46530,877628,20752,433605,0650,Training and development specialists,23,467,0.0010770171008175644
-Other North America,46530,877628,20752,433605,4200,First-line supervisors of housekeeping and janitorial workers,22,466,0.0010747108543490043
-Other North America,46530,877628,20752,433605,9121,"Bus drivers, school",26,461,0.0010631796220062037
-Other North America,46530,877628,20752,433605,4000,Chefs and head cooks,31,459,0.0010585671290690836
-Other North America,46530,877628,20752,433605,3802,Correctional officers and jailers,18,456,0.0010516483896634034
-Other North America,46530,877628,20752,433605,4622,Recreation workers,15,452,0.001042423403789163
-Other North America,46530,877628,20752,433605,7000,"First-line supervisors of mechanics, installers, and repairers",23,451,0.0010401171573206029
-Other North America,46530,877628,20752,433605,1105,Network and computer systems administrators,28,447,0.0010308921714463624
-Other North America,46530,877628,20752,433605,3310,Dental hygienists,25,438,0.0010101359532293215
-Other North America,46530,877628,20752,433605,0726,Fundraisers,19,430,9.916859814808408e-4
-Other North America,46530,877628,20752,433605,5160,Tellers,22,417,9.617047773895596e-4
-Other North America,46530,877628,20752,433605,1980,Occupational health and safety specialists and technicians,15,410,9.455610521096389e-4
-Other North America,46530,877628,20752,433605,5522,"Dispatchers, except police, fire, and ambulance",17,410,9.455610521096389e-4
-Other North America,46530,877628,20752,433605,1220,Operations research analysts,23,399,9.20192340955478e-4
-Other North America,46530,877628,20752,433605,1520,"Petroleum, mining and geological engineers, including mining safety engineers",16,397,9.155798480183577e-4
-Other North America,46530,877628,20752,433605,2751,Music directors and composers,13,391,9.017423692069972e-4
-Other North America,46530,877628,20752,433605,6305,Construction equipment operators,23,391,9.017423692069972e-4
-Other North America,46530,877628,20752,433605,0700,Logisticians,14,382,8.809861509899563e-4
-Other North America,46530,877628,20752,433605,0101,Administrative services managers,8,380,8.763736580528361e-4
-Other North America,46530,877628,20752,433605,1745,"Environmental scientists and specialists, including health",14,380,8.763736580528361e-4
-Other North America,46530,877628,20752,433605,0060,Public relations and fundraising managers,24,368,8.48698700430115e-4
-Other North America,46530,877628,20752,433605,2810,"News analysts, reporters, and journalists",19,368,8.48698700430115e-4
-Other North America,46530,877628,20752,433605,2004,Mental health counselors,21,366,8.440862074929948e-4
-Other North America,46530,877628,20752,433605,2400,"Archivists, curators, and museum technicians",22,356,8.210237428073939e-4
-Other North America,46530,877628,20752,433605,2905,Other media and communication equipment workers,19,353,8.141050034017136e-4
-Other North America,46530,877628,20752,433605,4950,"Door-to-door sales workers, news and street vendors, and related workers",8,352,8.117987569331535e-4
-Other North America,46530,877628,20752,433605,9610,Cleaners of vehicles and equipment,14,349,8.048800175274732e-4
-Other North America,46530,877628,20752,433605,0040,Advertising and promotions managers,16,348,8.025737710589131e-4
-Other North America,46530,877628,20752,433605,0725,"Meeting, convention, and event planners",18,334,7.702863204990717e-4
-Other North America,46530,877628,20752,433605,3515,Medical records specialists,16,334,7.702863204990717e-4
-Other North America,46530,877628,20752,433605,5140,Payroll and timekeeping clerks,15,334,7.702863204990717e-4
-Other North America,46530,877628,20752,433605,3424,Veterinary technologists and technicians,16,332,7.656738275619515e-4
-Other North America,46530,877628,20752,433605,1400,Computer hardware engineers,15,331,7.633675810933914e-4
-Other North America,46530,877628,20752,433605,3322,Diagnostic medical sonographers,13,329,7.587550881562713e-4
-Other North America,46530,877628,20752,433605,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",14,324,7.472238558134707e-4
-Other North America,46530,877628,20752,433605,1032,Web and digital interface designers,15,321,7.403051164077905e-4
-Other North America,46530,877628,20752,433605,3256,Nurse anesthetists,20,320,7.379988699392304e-4
-Other North America,46530,877628,20752,433605,0102,Facilities managers,15,318,7.333863770021102e-4
-Other North America,46530,877628,20752,433605,8800,Packaging and filling machine operators and tenders,10,318,7.333863770021102e-4
-Other North America,46530,877628,20752,433605,5550,Postal service mail carriers,22,316,7.2877388406499e-4
-Other North America,46530,877628,20752,433605,0137,Training and development managers,19,311,7.172426517221895e-4
-Other North America,46530,877628,20752,433605,3910,Private detectives and investigators,13,311,7.172426517221895e-4
-Other North America,46530,877628,20752,433605,4640,Residential advisors,19,310,7.149364052536295e-4
-Other North America,46530,877628,20752,433605,5250,"Eligibility interviewers, government programs",4,309,7.126301587850693e-4
-Other North America,46530,877628,20752,433605,5410,Reservation and transportation ticket agents and travel clerks,13,309,7.126301587850693e-4
-Other North America,46530,877628,20752,433605,1106,Computer network architects,15,308,7.103239123165092e-4
-Other North America,46530,877628,20752,433605,3323,Radiologic technologists and technicians,17,308,7.103239123165092e-4
-Other North America,46530,877628,20752,433605,1551,Electrical and electronic engineering technologists and technicians,9,305,7.034051729108289e-4
-Other North America,46530,877628,20752,433605,8030,Machinists,18,305,7.034051729108289e-4
-Other North America,46530,877628,20752,433605,7640,"Other installation, maintenance, and repair workers",16,304,7.010989264422689e-4
-Other North America,46530,877628,20752,433605,6410,Painters and paperhangers,20,300,6.918739405680285e-4
-Other North America,46530,877628,20752,433605,6050,Other agricultural workers,26,298,6.872614476309084e-4
-Other North America,46530,877628,20752,433605,8300,Laundry and dry-cleaning workers,10,298,6.872614476309084e-4
-Other North America,46530,877628,20752,433605,7140,Aircraft mechanics and service technicians,16,295,6.80342708225228e-4
-Other North America,46530,877628,20752,433605,4530,"Baggage porters, bellhops, and concierges",10,294,6.78036461756668e-4
-Other North America,46530,877628,20752,433605,8225,Other metal workers and plastic workers,19,294,6.78036461756668e-4
-Other North America,46530,877628,20752,433605,1860,Other social scientists,17,293,6.757302152881078e-4
-Other North America,46530,877628,20752,433605,4800,Advertising sales agents,14,290,6.688114758824276e-4
-Other North America,46530,877628,20752,433605,7810,"Butchers and other meat, poultry, and fish processing workers",10,290,6.688114758824276e-4
-Other North America,46530,877628,20752,433605,2440,Library technicians,11,289,6.665052294138674e-4
-Other North America,46530,877628,20752,433605,5330,Loan interviewers and clerks,8,285,6.57280243539627e-4
-Other North America,46530,877628,20752,433605,2016,Social and human service assistants,15,280,6.457490111968266e-4
-Other North America,46530,877628,20752,433605,4400,Gambling services workers,10,278,6.411365182597065e-4
-Other North America,46530,877628,20752,433605,6330,"Drywall installers, ceiling tile installers, and tapers",7,275,6.342177788540262e-4
-Other North America,46530,877628,20752,433605,5260,File clerks,14,273,6.296052859169059e-4
-Other North America,46530,877628,20752,433605,3646,Medical transcriptionists,12,272,6.272990394483458e-4
-Other North America,46530,877628,20752,433605,1022,Software quality assurance analysts and testers,14,267,6.157678071055454e-4
-Other North America,46530,877628,20752,433605,4830,Travel agents,15,266,6.134615606369852e-4
-Other North America,46530,877628,20752,433605,8610,Stationary engineers and boiler operators,12,266,6.134615606369852e-4
-Other North America,46530,877628,20752,433605,9310,Ship and boat captains and operators,6,265,6.111553141684252e-4
-Other North America,46530,877628,20752,433605,3960,Other protective service workers,18,263,6.06542821231305e-4
-Other North America,46530,877628,20752,433605,9050,Flight attendants,20,260,5.996240818256247e-4
-Other North America,46530,877628,20752,433605,3545,Miscellaneous health technologists and technicians,15,259,5.973178353570646e-4
-Other North America,46530,877628,20752,433605,5420,Other information and records clerks,8,254,5.857866030142641e-4
-Other North America,46530,877628,20752,433605,0640,"Compensation, benefits, and job analysis specialists",10,253,5.83480356545704e-4
-Other North America,46530,877628,20752,433605,1840,Urban and regional planners,14,253,5.83480356545704e-4
-Other North America,46530,877628,20752,433605,2050,"Directors, religious activities and education",15,251,5.788678636085839e-4
-Other North America,46530,877628,20752,433605,3401,Emergency medical technicians,10,246,5.673366312657833e-4
-Other North America,46530,877628,20752,433605,0860,Insurance underwriters,14,245,5.650303847972233e-4
-Other North America,46530,877628,20752,433605,4340,Animal trainers,15,239,5.511929059858627e-4
-Other North America,46530,877628,20752,433605,7020,Radio and telecommunications equipment installers and repairers,9,238,5.488866595173026e-4
-Other North America,46530,877628,20752,433605,8650,"Crushing, grinding, polishing, mixing, and blending workers",7,238,5.488866595173026e-4
-Other North America,46530,877628,20752,433605,7220,Heavy vehicle and mobile equipment service technicians and mechanics,9,237,5.465804130487425e-4
-Other North America,46530,877628,20752,433605,7210,Bus and truck mechanics and diesel engine specialists,12,236,5.442741665801825e-4
-Other North America,46530,877628,20752,433605,2012,Healthcare social workers,11,235,5.419679201116223e-4
-Other North America,46530,877628,20752,433605,2633,Floral designers,8,235,5.419679201116223e-4
-Other North America,46530,877628,20752,433605,4130,Dining room and cafeteria attendants and bartender helpers,13,234,5.396616736430622e-4
-Other North America,46530,877628,20752,433605,9150,"Motor vehicle operators, all other",5,232,5.350491807059421e-4
-Other North America,46530,877628,20752,433605,0335,Entertainment and recreation managers,8,231,5.327429342373819e-4
-Other North America,46530,877628,20752,433605,0810,Property appraisers and assessors,11,230,5.304366877688218e-4
-Other North America,46530,877628,20752,433605,2740,Dancers and choreographers,8,230,5.304366877688218e-4
-Other North America,46530,877628,20752,433605,1600,Agricultural and food scientists,11,228,5.258241948317017e-4
-Other North America,46530,877628,20752,433605,4140,Dishwashers,11,228,5.258241948317017e-4
-Other North America,46530,877628,20752,433605,2011,"Child, family, and school social workers",8,224,5.165992089574613e-4
-Other North America,46530,877628,20752,433605,5300,"Hotel, motel, and resort desk clerks",10,222,5.119867160203411e-4
-Other North America,46530,877628,20752,433605,3620,Physical therapist assistants and aides,10,220,5.07374223083221e-4
-Other North America,46530,877628,20752,433605,1750,"Geoscientists and hydrologists, except geographers",10,219,5.050679766146608e-4
-Other North America,46530,877628,20752,433605,9122,"Bus drivers, transit and intercity",16,216,4.981492372089806e-4
-Other North America,46530,877628,20752,433605,1340,Biomedical and agricultural engineers,9,213,4.912304978033003e-4
-Other North America,46530,877628,20752,433605,7720,"Electrical, electronics, and electromechanical assemblers",6,213,4.912304978033003e-4
-Other North America,46530,877628,20752,433605,3321,Cardiovascular technologists and technicians,8,212,4.889242513347402e-4
-Other North America,46530,877628,20752,433605,8140,"Welding, soldering, and brazing workers",10,212,4.889242513347402e-4
-Other North America,46530,877628,20752,433605,9830,"Military, rank not specified",13,211,4.8661800486618007e-4
-Other North America,46530,877628,20752,433605,8320,Sewing machine operators,9,210,4.8431175839761995e-4
-Other North America,46530,877628,20752,433605,9810,First-line enlisted military supervisors,7,209,4.820055119290599e-4
-Other North America,46530,877628,20752,433605,8350,"Tailors, dressmakers, and sewers",12,208,4.7969926546049976e-4
-Other North America,46530,877628,20752,433605,5310,"Interviewers, except eligibility and loan",14,206,4.750867725233796e-4
-Other North America,46530,877628,20752,433605,3402,Paramedics,9,201,4.635555401805791e-4
-Other North America,46530,877628,20752,433605,2001,Substance abuse and behavioral disorder counselors,14,198,4.566368007748988e-4
-Other North America,46530,877628,20752,433605,3710,First-line supervisors of police and detectives,8,198,4.566368007748988e-4
-Other North America,46530,877628,20752,433605,1700,Astronomers and physicists,11,196,4.5202430783777863e-4
-Other North America,46530,877628,20752,433605,8255,Printing press operators,8,195,4.497180613692185e-4
-Other North America,46530,877628,20752,433605,0940,Tax preparers,6,194,4.4741181490065844e-4
-Other North America,46530,877628,20752,433605,2861,Interpreters and translators,8,193,4.451055684320983e-4
-Other North America,46530,877628,20752,433605,4120,"Food servers, nonrestaurant",13,193,4.451055684320983e-4
-Other North America,46530,877628,20752,433605,5220,"Court, municipal, and license clerks",8,193,4.451055684320983e-4
-Other North America,46530,877628,20752,433605,5100,Bill and account collectors,8,192,4.4279932196353825e-4
-Other North America,46530,877628,20752,433605,2770,"Entertainers and performers, sports and related workers, all other",11,191,4.4049307549497813e-4
-Other North America,46530,877628,20752,433605,7420,Telecommunications line installers and repairers,9,190,4.3818682902641807e-4
-Other North America,46530,877628,20752,433605,8130,Tool and die makers,8,190,4.3818682902641807e-4
-Other North America,46530,877628,20752,433605,9430,Other transportation workers,6,190,4.3818682902641807e-4
-Other North America,46530,877628,20752,433605,4900,"Models, demonstrators, and product promoters",11,188,4.335743360892979e-4
-Other North America,46530,877628,20752,433605,5320,"Library assistants, clerical",10,183,4.220431037464974e-4
-Other North America,46530,877628,20752,433605,1306,Landscape architects,13,177,4.082056249351368e-4
-Other North America,46530,877628,20752,433605,2180,"Legal support workers, all other",7,177,4.082056249351368e-4
-Other North America,46530,877628,20752,433605,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",6,175,4.035931319980166e-4
-Other North America,46530,877628,20752,433605,3647,Pharmacy aides,6,174,4.0128688552945656e-4
-Other North America,46530,877628,20752,433605,1420,Environmental engineers,8,172,3.966743925923363e-4
-Other North America,46530,877628,20752,433605,4525,Other personal appearance workers,3,172,3.966743925923363e-4
-Other North America,46530,877628,20752,433605,6520,Sheet metal workers,11,172,3.966743925923363e-4
-Other North America,46530,877628,20752,433605,3725,"Miscellaneous first-line supervisors, protective service workers",5,170,3.9206189965521613e-4
-Other North America,46530,877628,20752,433605,0360,Natural sciences managers,10,169,3.8975565318665606e-4
-Other North America,46530,877628,20752,433605,6660,Construction and building inspectors,8,169,3.8975565318665606e-4
-Other North America,46530,877628,20752,433605,2631,Commercial and industrial designers,5,168,3.8744940671809594e-4
-Other North America,46530,877628,20752,433605,2025,Other community and social service specialists,9,166,3.8283691378097575e-4
-Other North America,46530,877628,20752,433605,1822,School psychologists,10,164,3.7822442084385556e-4
-Other North America,46530,877628,20752,433605,8450,Upholsterers,4,162,3.736119279067354e-4
-Other North America,46530,877628,20752,433605,5730,Medical secretaries and administrative assistants,9,161,3.713056814381753e-4
-Other North America,46530,877628,20752,433605,7320,Home appliance repairers,6,161,3.713056814381753e-4
-Other North America,46530,877628,20752,433605,3120,Podiatrists,8,160,3.689994349696152e-4
-Other North America,46530,877628,20752,433605,4330,Supervisors of personal care and service workers,10,157,3.6208069556393493e-4
-Other North America,46530,877628,20752,433605,1821,Clinical and counseling psychologists,7,155,3.5746820262681474e-4
-Other North America,46530,877628,20752,433605,3610,Occupational therapy assistants and aides,5,155,3.5746820262681474e-4
-Other North America,46530,877628,20752,433605,2013,Mental health and substance abuse social workers,8,152,3.5054946322113443e-4
-Other North America,46530,877628,20752,433605,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",9,147,3.39018230878334e-4
-Other North America,46530,877628,20752,433605,1310,"Surveyors, cartographers, and photogrammetrists",4,144,3.320994914726537e-4
-Other North America,46530,877628,20752,433605,1545,Other drafters,8,143,3.297932450040936e-4
-Other North America,46530,877628,20752,433605,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",7,142,3.274869985355335e-4
-Other North America,46530,877628,20752,433605,7010,"Computer, automated teller, and office machine repairers",7,142,3.274869985355335e-4
-Other North America,46530,877628,20752,433605,7150,Automotive body and related repairers,6,141,3.251807520669734e-4
-Other North America,46530,877628,20752,433605,0820,Budget analysts,6,136,3.136495197241729e-4
-Other North America,46530,877628,20752,433605,3140,Audiologists,6,136,3.136495197241729e-4
-Other North America,46530,877628,20752,433605,3220,Respiratory therapists,10,136,3.136495197241729e-4
-Other North America,46530,877628,20752,433605,8750,Jewelers and precious stone and metal workers,8,136,3.136495197241729e-4
-Other North America,46530,877628,20752,433605,6530,Structural iron and steel workers,5,135,3.113432732556128e-4
-Other North America,46530,877628,20752,433605,3324,Magnetic resonance imaging technologists,8,134,3.0903702678705274e-4
-Other North America,46530,877628,20752,433605,3330,Nuclear medicine technologists and medical dosimetrists,6,133,3.067307803184926e-4
-Other North America,46530,877628,20752,433605,3520,"Opticians, dispensing",8,133,3.067307803184926e-4
-Other North America,46530,877628,20752,433605,7560,Riggers,4,133,3.067307803184926e-4
-Other North America,46530,877628,20752,433605,6400,Insulation workers,4,132,3.0442453384993255e-4
-Other North America,46530,877628,20752,433605,3649,Phlebotomists,9,131,3.021182873813724e-4
-Other North America,46530,877628,20752,433605,3720,First-line supervisors of firefighting and prevention workers,8,128,2.9519954797569217e-4
-Other North America,46530,877628,20752,433605,8500,Cabinetmakers and bench carpenters,6,128,2.9519954797569217e-4
-Other North America,46530,877628,20752,433605,3261,Acupuncturists,9,127,2.9289330150713205e-4
-Other North America,46530,877628,20752,433605,7360,Millwrights,5,127,2.9289330150713205e-4
-Other North America,46530,877628,20752,433605,8620,Water and wastewater treatment plant and system operators,6,126,2.90587055038572e-4
-Other North America,46530,877628,20752,433605,1005,Computer and information research scientists,10,125,2.8828080857001186e-4
-Other North America,46530,877628,20752,433605,3422,Psychiatric technicians,7,125,2.8828080857001186e-4
-Other North America,46530,877628,20752,433605,5850,"Mail clerks and mail machine operators, except postal service",10,125,2.8828080857001186e-4
-Other North America,46530,877628,20752,433605,1710,Atmospheric and space scientists,3,124,2.859745621014518e-4
-Other North America,46530,877628,20752,433605,4540,Tour and travel guides,7,122,2.813620691643316e-4
-Other North America,46530,877628,20752,433605,5350,Correspondence clerks and order clerks,6,122,2.813620691643316e-4
-Other North America,46530,877628,20752,433605,7410,Electrical power-line installers and repairers,7,122,2.813620691643316e-4
-Other North America,46530,877628,20752,433605,2170,"Title examiners, abstractors, and searchers",8,121,2.790558226957715e-4
-Other North America,46530,877628,20752,433605,1640,Conservation scientists and foresters,8,119,2.744433297586513e-4
-Other North America,46530,877628,20752,433605,3430,Dietetic technicians and ophthalmic medical technicians,4,119,2.744433297586513e-4
-Other North America,46530,877628,20752,433605,2003,Marriage and family therapists,8,118,2.7213708329009123e-4
-Other North America,46530,877628,20752,433605,6040,"Graders and sorters, agricultural products",3,117,2.698308368215311e-4
-Other North America,46530,877628,20752,433605,2632,Fashion designers,4,115,2.652183438844109e-4
-Other North America,46530,877628,20752,433605,5040,"Communications equipment operators, all other",3,115,2.652183438844109e-4
-Other North America,46530,877628,20752,433605,4521,Manicurists and pedicurists,7,113,2.6060585094729073e-4
-Other North America,46530,877628,20752,433605,5360,"Human resources assistants, except payroll and timekeeping",6,113,2.6060585094729073e-4
-Other North America,46530,877628,20752,433605,7240,Small engine mechanics,3,113,2.6060585094729073e-4
-Other North America,46530,877628,20752,433605,2865,"Media and communication workers, all other",6,111,2.5599335801017054e-4
-Other North America,46530,877628,20752,433605,9141,Shuttle drivers and chauffeurs,3,109,2.5138086507305035e-4
-Other North America,46530,877628,20752,433605,5820,Word processors and typists,4,108,2.490746186044903e-4
-Other North America,46530,877628,20752,433605,6010,Agricultural inspectors,2,108,2.490746186044903e-4
-Other North America,46530,877628,20752,433605,2015,Probation officers and correctional treatment specialists,5,107,2.4676837213593016e-4
-Other North America,46530,877628,20752,433605,3423,Surgical technologists,4,106,2.444621256673701e-4
-Other North America,46530,877628,20752,433605,8810,Painting workers,6,106,2.444621256673701e-4
-Other North America,46530,877628,20752,433605,6515,Roofers,6,104,2.3984963273024988e-4
-Other North America,46530,877628,20752,433605,6240,"Carpet, floor, and tile installers and finishers",4,103,2.375433862616898e-4
-Other North America,46530,877628,20752,433605,4240,Pest control workers,3,102,2.352371397931297e-4
-Other North America,46530,877628,20752,433605,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,6,102,2.352371397931297e-4
-Other North America,46530,877628,20752,433605,4750,Parts salespersons,5,101,2.329308933245696e-4
-Other North America,46530,877628,20752,433605,1910,Biological technicians,5,99,2.283184003874494e-4
-Other North America,46530,877628,20752,433605,1920,Chemical technicians,6,99,2.283184003874494e-4
-Other North America,46530,877628,20752,433605,2105,Judicial law clerks,5,95,2.1909341451320903e-4
-Other North America,46530,877628,20752,433605,3940,Crossing guards and flaggers,5,94,2.1678716804464894e-4
-Other North America,46530,877628,20752,433605,6800,"Derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining",2,94,2.1678716804464894e-4
-Other North America,46530,877628,20752,433605,7120,Electronic home entertainment equipment installers and repairers,4,94,2.1678716804464894e-4
-Other North America,46530,877628,20752,433605,7905,Computer numerically controlled tool operators and programmers,5,94,2.1678716804464894e-4
-Other North America,46530,877628,20752,433605,7840,Food batchmakers,4,92,2.1217467510752875e-4
-Other North America,46530,877628,20752,433605,3820,Detectives and criminal investigators,8,90,2.0756218217040856e-4
-Other North America,46530,877628,20752,433605,8040,"Metal furnace operators, tenders, pourers, and casters",2,90,2.0756218217040856e-4
-Other North America,46530,877628,20752,433605,4500,Barbers,4,89,2.0525593570184847e-4
-Other North America,46530,877628,20752,433605,5150,Procurement clerks,4,89,2.0525593570184847e-4
-Other North America,46530,877628,20752,433605,1560,Surveying and mapping technicians,7,86,1.9833719629616816e-4
-Other North America,46530,877628,20752,433605,2805,Broadcast announcers and radio disc jockeys,4,86,1.9833719629616816e-4
-Other North America,46530,877628,20752,433605,9825,Military enlisted tactical operations and air/weapons specialists and crew members,6,86,1.9833719629616816e-4
-Other North America,46530,877628,20752,433605,0135,Compensation and benefits managers,5,83,1.9141845689048788e-4
-Other North America,46530,877628,20752,433605,4252,Tree trimmers and pruners,4,82,1.8911221042192778e-4
-Other North America,46530,877628,20752,433605,4160,"Food preparation and serving related workers, all other",3,77,1.775809780791273e-4
-Other North America,46530,877628,20752,433605,1541,Architectural and civil drafters,5,75,1.7296848514200712e-4
-Other North America,46530,877628,20752,433605,8640,"Chemical processing machine setters, operators, and tenders",2,72,1.6604974573632684e-4
-Other North America,46530,877628,20752,433605,8930,"Paper goods machine setters, operators, and tenders",3,72,1.6604974573632684e-4
-Other North America,46530,877628,20752,433605,7855,"Food processing workers, all other",4,70,1.6143725279920665e-4
-Other North America,46530,877628,20752,433605,9800,Military officer special and tactical operations leaders,5,70,1.6143725279920665e-4
-Other North America,46530,877628,20752,433605,2862,Court reporters and simultaneous captioners,6,69,1.5913100633064656e-4
-Other North America,46530,877628,20752,433605,4522,Skincare specialists,6,69,1.5913100633064656e-4
-Other North America,46530,877628,20752,433605,0930,"Tax examiners and collectors, and revenue agents",3,68,1.5682475986208646e-4
-Other North America,46530,877628,20752,433605,9410,Transportation inspectors,4,68,1.5682475986208646e-4
-Other North America,46530,877628,20752,433605,3648,Veterinary assistants and laboratory animal caretakers,4,67,1.5451851339352637e-4
-Other North America,46530,877628,20752,433605,7830,"Food and tobacco roasting, baking, and drying machine operators and tenders",3,65,1.4990602045640618e-4
-Other North America,46530,877628,20752,433605,3946,School bus monitors,3,63,1.45293527519286e-4
-Other North America,46530,877628,20752,433605,5540,Postal service clerks,5,62,1.429872810507259e-4
-Other North America,46530,877628,20752,433605,6120,Forest and conservation workers,2,62,1.429872810507259e-4
-Other North America,46530,877628,20752,433605,7510,"Coin, vending, and amusement machine servicers and repairers",4,62,1.429872810507259e-4
-Other North America,46530,877628,20752,433605,6765,Other construction and related workers,6,61,1.406810345821658e-4
-Other North America,46530,877628,20752,433605,4740,Counter and rental clerks,4,60,1.383747881136057e-4
-Other North America,46530,877628,20752,433605,7430,Precision instrument and equipment repairers,2,60,1.383747881136057e-4
-Other North America,46530,877628,20752,433605,5920,Statistical assistants,5,58,1.3376229517648552e-4
-Other North America,46530,877628,20752,433605,4420,"Ushers, lobby attendants, and ticket takers",4,57,1.3145604870792543e-4
-Other North America,46530,877628,20752,433605,7610,"Helpers--installation, maintenance, and repair workers",1,56,1.2914980223936533e-4
-Other North America,46530,877628,20752,433605,0900,Financial examiners,2,53,1.2223106283368505e-4
-Other North America,46530,877628,20752,433605,1935,"Environmental science and geoscience technicians, and nuclear technicians",3,50,1.1531232342800475e-4
-Other North America,46530,877628,20752,433605,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",2,50,1.1531232342800475e-4
-Other North America,46530,877628,20752,433605,1900,Agricultural and food science technicians,1,49,1.1300607695944466e-4
-Other North America,46530,877628,20752,433605,0425,Emergency management directors,3,48,1.1069983049088456e-4
-Other North America,46530,877628,20752,433605,3270,"Healthcare diagnosing or treating practitioners, all other",4,48,1.1069983049088456e-4
-Other North America,46530,877628,20752,433605,6130,Logging workers,2,48,1.1069983049088456e-4
-Other North America,46530,877628,20752,433605,3750,Fire inspectors,2,47,1.0839358402232447e-4
-Other North America,46530,877628,20752,433605,9510,Crane and tower operators,3,47,1.0839358402232447e-4
-Other North America,46530,877628,20752,433605,7130,Security and fire alarm systems installers,3,45,1.0378109108520428e-4
-Other North America,46530,877628,20752,433605,5900,"Office machine operators, except computer",1,43,9.916859814808408e-5
-Other North America,46530,877628,20752,433605,9415,Passenger attendants,2,43,9.916859814808408e-5
-Other North America,46530,877628,20752,433605,6730,Highway maintenance workers,2,42,9.686235167952398e-5
-Other North America,46530,877628,20752,433605,7350,"Maintenance workers, machinery",1,42,9.686235167952398e-5
-Other North America,46530,877628,20752,433605,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",2,42,9.686235167952398e-5
-Other North America,46530,877628,20752,433605,8710,Cutting workers,2,42,9.686235167952398e-5
-Other North America,46530,877628,20752,433605,8830,Photographic process workers and processing machine operators,3,42,9.686235167952398e-5
-Other North America,46530,877628,20752,433605,9365,Transportation service attendants,2,42,9.686235167952398e-5
-Other North America,46530,877628,20752,433605,2636,Merchandise displayers and window trimmers,2,41,9.455610521096389e-5
-Other North America,46530,877628,20752,433605,6460,Plasterers and stucco masons,1,40,9.22498587424038e-5
-Other North America,46530,877628,20752,433605,9350,Parking attendants,2,40,9.22498587424038e-5
-Other North America,46530,877628,20752,433605,9720,Refuse and recyclable material collectors,4,39,8.99436122738437e-5
-Other North America,46530,877628,20752,433605,9760,Other material moving workers,2,39,8.99436122738437e-5
-Other North America,46530,877628,20752,433605,3605,Orderlies and psychiatric aides,2,38,8.763736580528361e-5
-Other North America,46530,877628,20752,433605,3210,Recreational therapists,2,37,8.533111933672351e-5
-Other North America,46530,877628,20752,433605,5910,Proofreaders and copy markers,2,37,8.533111933672351e-5
-Other North America,46530,877628,20752,433605,8465,"Other textile, apparel, and furnishings workers",2,37,8.533111933672351e-5
-Other North America,46530,877628,20752,433605,8530,"Sawing machine setters, operators, and tenders, wood",3,36,8.302487286816342e-5
-Other North America,46530,877628,20752,433605,0510,"Buyers and purchasing agents, farm products",2,35,8.071862639960333e-5
-Other North America,46530,877628,20752,433605,6710,Fence erectors,1,35,8.071862639960333e-5
-Other North America,46530,877628,20752,433605,6720,Hazardous materials removal workers,3,35,8.071862639960333e-5
-Other North America,46530,877628,20752,433605,6835,"Explosives workers, ordnance handling experts, and blasters",1,35,8.071862639960333e-5
-Other North America,46530,877628,20752,433605,8365,"Textile machine setters, operators, and tenders",1,35,8.071862639960333e-5
-Other North America,46530,877628,20752,433605,4465,"Morticians, undertakers, and funeral arrangers",3,34,7.841237993104323e-5
-Other North America,46530,877628,20752,433605,4940,Telemarketers,1,34,7.841237993104323e-5
-Other North America,46530,877628,20752,433605,9210,Locomotive engineers and operators,3,34,7.841237993104323e-5
-Other North America,46530,877628,20752,433605,0830,Credit analysts,3,32,7.379988699392304e-5
-Other North America,46530,877628,20752,433605,9650,Pumping station operators,2,32,7.379988699392304e-5
-Other North America,46530,877628,20752,433605,5500,Cargo and freight agents,3,31,7.149364052536295e-5
-Other North America,46530,877628,20752,433605,2005,Rehabilitation counselors,2,30,6.918739405680285e-5
-Other North America,46530,877628,20752,433605,9240,Railroad conductors and yardmasters,3,30,6.918739405680285e-5
-Other North America,46530,877628,20752,433605,6115,Fishing and hunting workers,3,29,6.688114758824276e-5
-Other North America,46530,877628,20752,433605,9630,Machine feeders and offbearers,1,29,6.688114758824276e-5
-Other North America,46530,877628,20752,433605,6700,Elevator installers and repairers,2,27,6.226865465112257e-5
-Other North America,46530,877628,20752,433605,6850,Underground mining machine operators,2,27,6.226865465112257e-5
-Other North America,46530,877628,20752,433605,8850,Adhesive bonding machine operators and tenders,2,27,6.226865465112257e-5
-Other North America,46530,877628,20752,433605,8555,Other woodworkers,2,26,5.996240818256247e-5
-Other North America,46530,877628,20752,433605,9265,Other rail transportation workers,2,25,5.7656161714002376e-5
-Other North America,46530,877628,20752,433605,2723,"Umpires, referees, and other sports officials",4,23,5.304366877688219e-5
-Other North America,46530,877628,20752,433605,2755,"Disc jockeys, except radio",2,23,5.304366877688219e-5
-Other North America,46530,877628,20752,433605,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",2,23,5.304366877688219e-5
-Other North America,46530,877628,20752,433605,8310,"Pressers, textile, garment, and related materials",1,23,5.304366877688219e-5
-Other North America,46530,877628,20752,433605,3700,First-line supervisors of correctional officers,2,22,5.0737422308322093e-5
-Other North America,46530,877628,20752,433605,3200,Radiation therapists,3,21,4.843117583976199e-5
-Other North America,46530,877628,20752,433605,3945,Transportation security screeners,1,20,4.61249293712019e-5
-Other North America,46530,877628,20752,433605,5521,Public safety telecommunicators,2,20,4.61249293712019e-5
-Other North America,46530,877628,20752,433605,3840,Fish and game wardens and parking enforcement officers,1,19,4.3818682902641804e-5
-Other North America,46530,877628,20752,433605,6950,Other extraction workers,1,19,4.3818682902641804e-5
-Other North America,46530,877628,20752,433605,7100,"Other electrical and electronic equipment mechanics, installers, and repairers",2,19,4.3818682902641804e-5
-Other North America,46530,877628,20752,433605,7730,Engine and other machine assemblers,1,19,4.3818682902641804e-5
-Other North America,46530,877628,20752,433605,9040,Air traffic controllers and airfield operations specialists,1,19,4.3818682902641804e-5
-Other North America,46530,877628,20752,433605,6360,Glaziers,2,18,4.151243643408171e-5
-Other North America,46530,877628,20752,433605,8630,Miscellaneous plant and system operators,1,18,4.151243643408171e-5
-Other North America,46530,877628,20752,433605,8950,Helpers--production workers,1,18,4.151243643408171e-5
-Other North America,46530,877628,20752,433605,7850,Food cooking machine operators and tenders,1,16,3.689994349696152e-5
-Other North America,46530,877628,20752,433605,5720,Legal secretaries and administrative assistants,1,15,3.459369702840143e-5
-Other North America,46530,877628,20752,433605,8940,Tire builders,1,14,3.228745055984133e-5
-Other North America,46530,877628,20752,433605,3900,Animal control workers,1,13,2.9981204091281235e-5
-Other North America,46530,877628,20752,433605,5230,"Credit authorizers, checkers, and clerks",2,13,2.9981204091281235e-5
-Other North America,46530,877628,20752,433605,7540,Locksmiths and safe repairers,1,13,2.9981204091281235e-5
-Other North America,46530,877628,20752,433605,8256,Print binding and finishing workers,1,12,2.767495762272114e-5
-Other North America,46530,877628,20752,433605,9570,"Conveyor, dredge, and hoist and winch operators",1,11,2.5368711154161047e-5
-Other North America,46530,877628,20752,433605,5020,Telephone operators,1,10,2.306246468560095e-5
-Other North America,46530,877628,20752,433605,8510,Furniture finishers,1,10,2.306246468560095e-5
-Other North America,46530,877628,20752,433605,7740,Structural metal fabricators and fitters,1,8,1.844997174848076e-5
-Other North America,46530,877628,20752,433605,6600,"Helpers, construction trades",1,7,1.6143725279920666e-5
-Other North America,46530,877628,20752,433605,6740,Rail-track laying and maintenance equipment operators,1,7,1.6143725279920666e-5
-Other North America,46530,877628,20752,433605,8920,"Molders, shapers, and casters, except metal and plastic",1,7,1.6143725279920666e-5
-Other North America,46530,877628,20752,433605,6005,"First-line supervisors of farming, fishing, and forestry workers",1,6,1.383747881136057e-5
-Other North America,46530,877628,20752,433605,7300,Control and valve installers and repairers,1,6,1.383747881136057e-5
-Other North America,46530,877628,20752,433605,4255,Other grounds maintenance workers,1,4,9.22498587424038e-6
-Other North America,46530,877628,20752,433605,9300,"Sailors and marine oilers, and ship engineers",1,4,9.22498587424038e-6
-Other North America,46530,877628,20752,433605,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
-						and plastic",1,3,6.918739405680285e-6
+bpl_region,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Other North America,46530,877628,23606,478963,0440,Other managers,1184,23946,0.04999551113551569
+Other North America,46530,877628,23606,478963,3255,Registered nurses,765,15242,0.031822917427859775
+Other North America,46530,877628,23606,478963,2205,Postsecondary teachers,724,13708,0.028620164814401113
+Other North America,46530,877628,23606,478963,1021,Software developers,669,13519,0.028225562308570807
+Other North America,46530,877628,23606,478963,0010,Chief executives and legislators,711,13517,0.028221386620678423
+Other North America,46530,877628,23606,478963,3090,Physicians,575,12247,0.025569824809014475
+Other North America,46530,877628,23606,478963,2100,"Lawyers, and judges, magistrates, and other judicial workers",380,7686,0.016047168570432372
+Other North America,46530,877628,23606,478963,2310,Elementary and middle school teachers,386,7300,0.015241260807202226
+Other North America,46530,877628,23606,478963,4760,Retail salespersons,321,6604,0.013788121420652534
+Other North America,46530,877628,23606,478963,0800,Accountants and auditors,318,6542,0.013658675095988625
+Other North America,46530,877628,23606,478963,4700,First-line supervisors of retail sales workers,306,6344,0.013245281994642592
+Other North America,46530,877628,23606,478963,0710,Management analysts,341,6229,0.013005179940830502
+Other North America,46530,877628,23606,478963,9130,Driver/sales workers and truck drivers,269,5678,0.011854777926478663
+Other North America,46530,877628,23606,478963,0120,Financial managers,283,5633,0.011760824948900019
+Other North America,46530,877628,23606,478963,0020,General and operations managers,251,5615,0.011723243757868563
+Other North America,46530,877628,23606,478963,5240,Customer service representatives,265,5415,0.011305674968630145
+Other North America,46530,877628,23606,478963,4920,Real estate brokers and sales agents,258,5196,0.010848437144414079
+Other North America,46530,877628,23606,478963,5740,"Secretaries and administrative assistants, except legal, medical, and executive",273,4951,0.010336915377597016
+Other North America,46530,877628,23606,478963,0705,Project management specialists,219,4673,0.009756494760555618
+Other North America,46530,877628,23606,478963,4850,"Sales representatives, wholesale and manufacturing",209,4541,0.009480899359658262
+Other North America,46530,877628,23606,478963,2545,Teaching assistants,231,4292,0.008961026217056432
+Other North America,46530,877628,23606,478963,0230,Education and childcare administrators,204,4100,0.008560160179387552
+Other North America,46530,877628,23606,478963,4220,Janitors and building cleaners,169,4014,0.008380605600015032
+Other North America,46530,877628,23606,478963,1530,Other engineers,182,3906,0.008155118453826287
+Other North America,46530,877628,23606,478963,0110,Computer and information systems managers,211,3796,0.007925455619745158
+Other North America,46530,877628,23606,478963,4720,Cashiers,183,3760,0.007850293237682243
+Other North America,46530,877628,23606,478963,0051,Marketing managers,178,3736,0.007800184982973633
+Other North America,46530,877628,23606,478963,5120,"Bookkeeping, accounting, and auditing clerks",194,3583,0.007480744859206244
+Other North America,46530,877628,23606,478963,0220,Construction managers,183,3571,0.0074556907318519385
+Other North America,46530,877628,23606,478963,1760,"Physical scientists, all other",182,3553,0.007418109540820481
+Other North America,46530,877628,23606,478963,2320,Secondary school teachers,201,3490,0.00728657537221038
+Other North America,46530,877628,23606,478963,1006,Computer systems analysts,145,3367,0.007029770566828753
+Other North America,46530,877628,23606,478963,4710,First-line supervisors of non-retail sales workers,157,3269,0.006825161860101929
+Other North America,46530,877628,23606,478963,0052,Sales managers,154,3266,0.006818898328263353
+Other North America,46530,877628,23606,478963,0350,Medical and health services managers,160,3088,0.006447262105841161
+Other North America,46530,877628,23606,478963,9620,"Laborers and freight, stock, and material movers, hand",125,2850,0.005950355246647445
+Other North America,46530,877628,23606,478963,0630,Human resources workers,149,2848,0.005946179558755061
+Other North America,46530,877628,23606,478963,5000,First-line supervisors of office and administrative support workers,155,2803,0.005852226581176416
+Other North America,46530,877628,23606,478963,5860,"Office clerks, general",163,2772,0.005787503418844462
+Other North America,46530,877628,23606,478963,3602,Personal care aides,134,2666,0.005566191960548101
+Other North America,46530,877628,23606,478963,1050,Computer support specialists,129,2509,0.0052384004609959435
+Other North America,46530,877628,23606,478963,0410,"Property, real estate, and community association managers",124,2455,0.005125656887901571
+Other North America,46530,877628,23606,478963,4110,Waiters and waitresses,118,2452,0.005119393356062994
+Other North America,46530,877628,23606,478963,0850,Personal financial advisors,124,2405,0.0050212646905919665
+Other North America,46530,877628,23606,478963,0750,"Business operations specialists, all other",116,2395,0.0050003862511300455
+Other North America,46530,877628,23606,478963,2360,Other teachers and instructors,133,2386,0.004981595655614316
+Other North America,46530,877628,23606,478963,0300,Architectural and engineering managers,109,2358,0.004923136025120938
+Other North America,46530,877628,23606,478963,2040,Clergy,117,2285,0.004770723417048916
+Other North America,46530,877628,23606,478963,3603,Nursing assistants,97,2239,0.00467468259552408
+Other North America,46530,877628,23606,478963,6230,Carpenters,98,2227,0.004649628468169775
+Other North America,46530,877628,23606,478963,0735,Market research analysts and marketing specialists,125,2198,0.004589080993730205
+Other North America,46530,877628,23606,478963,1240,Other mathematical science occupations,108,2192,0.0045765539300530525
+Other North America,46530,877628,23606,478963,1108,"Computer occupations, all other",112,2185,0.0045619390224297075
+Other North America,46530,877628,23606,478963,4230,Maids and housekeeping cleaners,81,2155,0.004499303704043945
+Other North America,46530,877628,23606,478963,2300,Preschool and kindergarten teachers,100,2147,0.004482600952474408
+Other North America,46530,877628,23606,478963,1460,Mechanical engineers,110,2118,0.004422053478034838
+Other North America,46530,877628,23606,478963,4020,Cooks,107,2055,0.004290519309424736
+Other North America,46530,877628,23606,478963,1650,Other life scientists,98,2051,0.004282167933639968
+Other North America,46530,877628,23606,478963,9645,Stockers and order fillers,98,2031,0.004240411054716126
+Other North America,46530,877628,23606,478963,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",118,2023,0.00422370830314659
+Other North America,46530,877628,23606,478963,1360,Civil engineers,98,1995,0.004165248672653211
+Other North America,46530,877628,23606,478963,2640,Other designers,108,1991,0.004156897296868443
+Other North America,46530,877628,23606,478963,6260,Construction laborers,88,1946,0.004062944319289799
+Other North America,46530,877628,23606,478963,3010,Dentists,94,1911,0.003989869781173076
+Other North America,46530,877628,23606,478963,0420,Social and community service managers,100,1900,0.003966903497764963
+Other North America,46530,877628,23606,478963,0310,Food service managers,94,1888,0.003941849370410658
+Other North America,46530,877628,23606,478963,5400,Receptionists and information clerks,108,1878,0.0039209709309487376
+Other North America,46530,877628,23606,478963,4055,Fast food and counter workers,60,1857,0.0038771262080787034
+Other North America,46530,877628,23606,478963,5940,Other office and administrative support workers,93,1809,0.0037769096986614834
+Other North America,46530,877628,23606,478963,2600,Artists and related workers,77,1778,0.0037121865363295287
+Other North America,46530,877628,23606,478963,3050,Pharmacists,81,1718,0.0035869158995580036
+Other North America,46530,877628,23606,478963,4810,Insurance sales agents,86,1702,0.00355351039641893
+Other North America,46530,877628,23606,478963,6200,First-line supervisors of construction trades and extraction workers,68,1683,0.0035138413614412803
+Other North America,46530,877628,23606,478963,1555,"Other engineering technologists and technicians, except drafters",64,1670,0.003486699390140783
+Other North America,46530,877628,23606,478963,2722,Coaches and scouts,100,1640,0.003424064071755021
+Other North America,46530,877628,23606,478963,2850,Writers and authors,78,1626,0.0033948342565083317
+Other North America,46530,877628,23606,478963,4251,Landscaping and groundskeeping workers,77,1576,0.0032904420591987273
+Other North America,46530,877628,23606,478963,2330,Special education teachers,64,1566,0.003269563619736806
+Other North America,46530,877628,23606,478963,2634,Graphic designers,80,1564,0.003265387931844422
+Other North America,46530,877628,23606,478963,0845,Financial and investment analysts,79,1548,0.003231982428705349
+Other North America,46530,877628,23606,478963,8990,"Miscellaneous production workers, including equipment operators and tenders",70,1532,0.0031985769255662754
+Other North America,46530,877628,23606,478963,1010,Computer programmers,75,1509,0.0031505565148038576
+Other North America,46530,877628,23606,478963,0140,Industrial production managers,66,1479,0.003087921196418095
+Other North America,46530,877628,23606,478963,7700,First-line supervisors of production and operating workers,61,1471,0.0030712184448485583
+Other North America,46530,877628,23606,478963,3160,Physical therapists,72,1457,0.003041988629601869
+Other North America,46530,877628,23606,478963,3930,Security guards and gaming surveillance officers,70,1455,0.0030378129417094847
+Other North America,46530,877628,23606,478963,7200,Automotive service technicians and mechanics,64,1449,0.0030252858780323326
+Other North America,46530,877628,23606,478963,4510,"Hairdressers, hairstylists, and cosmetologists",66,1435,0.002996056062785643
+Other North America,46530,877628,23606,478963,2014,"Social workers, all other",68,1418,0.002960562715700378
+Other North America,46530,877628,23606,478963,1305,"Architects, except landscape and naval",81,1404,0.0029313329004536886
+Other North America,46530,877628,23606,478963,2710,Producers and directors,67,1385,0.002891663865476039
+Other North America,46530,877628,23606,478963,3645,Medical assistants,51,1380,0.0028812246457450784
+Other North America,46530,877628,23606,478963,4621,Exercise trainers and group fitness instructors,69,1374,0.002868697582067926
+Other North America,46530,877628,23606,478963,4030,Food preparation workers,61,1373,0.002866609738121734
+Other North America,46530,877628,23606,478963,3258,"Nurse practitioners, and nurse midwives",66,1350,0.0028185893273593157
+Other North America,46530,877628,23606,478963,3870,Police officers,49,1342,0.002801886575789779
+Other North America,46530,877628,23606,478963,4820,"Securities, commodities, and financial services sales agents",66,1341,0.002799798731843587
+Other North America,46530,877628,23606,478963,3000,Chiropractors,65,1316,0.002747602633188785
+Other North America,46530,877628,23606,478963,4010,First-line supervisors of food preparation and serving workers,45,1303,0.0027204606618882877
+Other North America,46530,877628,23606,478963,1410,Electrical and electronics engineers,65,1297,0.002707933598211135
+Other North America,46530,877628,23606,478963,1430,"Industrial engineers, including health and safety",60,1287,0.0026870551587492146
+Other North America,46530,877628,23606,478963,2145,Paralegals and legal assistants,71,1283,0.002678703782964446
+Other North America,46530,877628,23606,478963,8740,"Inspectors, testers, sorters, samplers, and weighers",72,1256,0.0026223319964172598
+Other North America,46530,877628,23606,478963,0565,Compliance officers,60,1251,0.0026118927766862992
+Other North America,46530,877628,23606,478963,0150,Purchasing managers,63,1222,0.002551345302246729
+Other North America,46530,877628,23606,478963,4600,Childcare workers,61,1213,0.002532554706731
+Other North America,46530,877628,23606,478963,4965,"Sales and related workers, all other",63,1181,0.0024657437004528535
+Other North America,46530,877628,23606,478963,9030,Aircraft pilots and flight engineers,56,1181,0.0024657437004528535
+Other North America,46530,877628,23606,478963,6355,Electricians,64,1177,0.002457392324668085
+Other North America,46530,877628,23606,478963,3630,Massage therapists,41,1166,0.002434426041259972
+Other North America,46530,877628,23606,478963,0910,Credit counselors and loan officers,56,1150,0.0024010205381208988
+Other North America,46530,877628,23606,478963,5710,Executive secretaries and executive administrative assistants,65,1101,0.0022987161847574863
+Other North America,46530,877628,23606,478963,5110,Billing and posting clerks,46,1098,0.0022924526529189103
+Other North America,46530,877628,23606,478963,5600,"Production, planning, and expediting clerks",42,1097,0.0022903648089727183
+Other North America,46530,877628,23606,478963,3230,Speech-language pathologists,63,1069,0.0022319051784793396
+Other North America,46530,877628,23606,478963,3250,Veterinarians,55,1038,0.002167182016147385
+Other North America,46530,877628,23606,478963,5610,"Shipping, receiving, and inventory clerks",46,1006,0.0021003710098692384
+Other North America,46530,877628,23606,478963,7340,"Maintenance and repair workers, general",63,1005,0.0020982831659230464
+Other North America,46530,877628,23606,478963,0136,Human resources managers,59,994,0.0020753168825149333
+Other North America,46530,877628,23606,478963,5510,Couriers and messengers,41,991,0.0020690533506763573
+Other North America,46530,877628,23606,478963,2752,Musicians and singers,48,969,0.002023120783860131
+Other North America,46530,877628,23606,478963,4040,Bartenders,36,946,0.0019751003730977133
+Other North America,46530,877628,23606,478963,9142,Taxi drivers,29,933,0.001947958401797216
+Other North America,46530,877628,23606,478963,0530,"Purchasing agents, except wholesale, retail, and farm products",44,927,0.0019354313381200635
+Other North America,46530,877628,23606,478963,1320,Aerospace engineers,54,927,0.0019354313381200635
+Other North America,46530,877628,23606,478963,4435,Other entertainment attendants and related workers,35,925,0.0019312556502276794
+Other North America,46530,877628,23606,478963,3500,Licensed practical and licensed vocational nurses,42,920,0.0019208164304967189
+Other North America,46530,877628,23606,478963,2910,Photographers,41,916,0.0019124650547119506
+Other North America,46530,877628,23606,478963,1825,Other psychologists,58,914,0.0019082893668195663
+Other North America,46530,877628,23606,478963,0520,"Wholesale and retail buyers, except farm products",38,910,0.001899937991034798
+Other North America,46530,877628,23606,478963,0340,Lodging managers,42,885,0.001847741892379996
+Other North America,46530,877628,23606,478963,1200,Actuaries,38,875,0.0018268634529180752
+Other North America,46530,877628,23606,478963,0540,"Claims adjusters, appraisers, examiners, and investigators",40,871,0.0018185120771333067
+Other North America,46530,877628,23606,478963,2830,Editors,44,862,0.001799721481617578
+Other North America,46530,877628,23606,478963,3100,Surgeons,48,855,0.0017851065739942333
+Other North America,46530,877628,23606,478963,0205,"Farmers, ranchers, and other agricultural managers",58,838,0.0017496132269089679
+Other North America,46530,877628,23606,478963,4350,Animal caretakers,46,833,0.0017391740071780076
+Other North America,46530,877628,23606,478963,2825,Public relations specialists,37,827,0.001726646943500855
+Other North America,46530,877628,23606,478963,3245,Other therapists,44,825,0.0017224712556084707
+Other North America,46530,877628,23606,478963,0500,"Agents and business managers of artists, performers, and athletes",18,817,0.0017057685040389342
+Other North America,46530,877628,23606,478963,2635,Interior designers,34,813,0.0016974171282541659
+Other North America,46530,877628,23606,478963,7330,Industrial and refractory machinery mechanics,28,808,0.0016869779085232053
+Other North America,46530,877628,23606,478963,2435,Librarians and media collections specialists,46,798,0.0016660994690612845
+Other North America,46530,877628,23606,478963,3601,Home health aides,29,780,0.0016285182780298268
+Other North America,46530,877628,23606,478963,3150,Occupational therapists,35,772,0.0016118155264602902
+Other North America,46530,877628,23606,478963,7750,Other assemblers and fabricators,45,766,0.0015992884627831377
+Other North America,46530,877628,23606,478963,2002,"Educational, guidance, and career counselors and advisors",43,731,0.0015262139246664148
+Other North America,46530,877628,23606,478963,9121,"Bus drivers, school",38,728,0.0015199503928278386
+Other North America,46530,877628,23606,478963,9600,Industrial truck and tractor operators,31,725,0.0015136868609892623
+Other North America,46530,877628,23606,478963,2006,"Counselors, all other",32,722,0.001507423329150686
+Other North America,46530,877628,23606,478963,0160,"Transportation, storage, and distribution managers",39,719,0.0015011597973121097
+Other North America,46530,877628,23606,478963,1350,Chemical engineers,35,687,0.001434348791033963
+Other North America,46530,877628,23606,478963,5810,Data entry keyers,26,683,0.0014259974152491947
+Other North America,46530,877628,23606,478963,1720,Chemists and materials scientists,32,672,0.0014030311318410816
+Other North America,46530,877628,23606,478963,1970,"Other life, physical, and social science technicians",41,658,0.0013738013165943924
+Other North America,46530,877628,23606,478963,5165,Other financial clerks,22,653,0.0013633620968634321
+Other North America,46530,877628,23606,478963,2700,Actors,30,652,0.0013612742529172399
+Other North America,46530,877628,23606,478963,6442,"Plumbers, pipefitters, and steamfitters",32,639,0.0013341322816167428
+Other North America,46530,877628,23606,478963,2920,"Television, video, and film camera operators and editors",24,637,0.0013299565937243587
+Other North America,46530,877628,23606,478963,7800,Bakers,24,635,0.0013257809058319745
+Other North America,46530,877628,23606,478963,3300,Clinical laboratory technologists and technicians,33,631,0.0013174295300472062
+Other North America,46530,877628,23606,478963,3040,Optometrists,32,630,0.0013153416861010141
+Other North America,46530,877628,23606,478963,0960,Other financial specialists,23,622,0.0012986389345314773
+Other North America,46530,877628,23606,478963,7315,"Heating, air conditioning, and refrigeration mechanics and installers",27,619,0.001292375402692901
+Other North America,46530,877628,23606,478963,2060,"Religious workers, all other",38,610,0.0012735848071771725
+Other North America,46530,877628,23606,478963,1007,Information security analysts,35,603,0.0012589698995538277
+Other North America,46530,877628,23606,478963,4000,Chefs and head cooks,37,598,0.0012485306798228674
+Other North America,46530,877628,23606,478963,3550,Other healthcare practitioners and technical occupations,23,590,0.0012318279282533305
+Other North America,46530,877628,23606,478963,1800,Economists,22,589,0.0012297400843071385
+Other North America,46530,877628,23606,478963,9640,"Packers and packagers, hand",28,589,0.0012297400843071385
+Other North America,46530,877628,23606,478963,5840,Insurance claims and policy processing clerks,21,586,0.0012234765524685623
+Other North America,46530,877628,23606,478963,2350,Tutors,36,583,0.001217213020629986
+Other North America,46530,877628,23606,478963,2840,Technical writers,24,581,0.001213037332737602
+Other North America,46530,877628,23606,478963,5160,Tellers,28,575,0.0012005102690604494
+Other North America,46530,877628,23606,478963,3740,Firefighters,26,574,0.0011984224251142574
+Other North America,46530,877628,23606,478963,3640,Dental assistants,22,572,0.0011942467372218731
+Other North America,46530,877628,23606,478963,3655,Other healthcare support workers,14,559,0.001167104765921376
+Other North America,46530,877628,23606,478963,2555,Other educational instruction and library workers,28,558,0.001165016921975184
+Other North America,46530,877628,23606,478963,0600,Cost estimators,29,555,0.0011587533901366077
+Other North America,46530,877628,23606,478963,4930,Sales engineers,26,554,0.0011566655461904155
+Other North America,46530,877628,23606,478963,4655,"Personal care and service workers, all other",26,553,0.0011545777022442234
+Other North America,46530,877628,23606,478963,3110,Physician assistants,24,527,0.0011002937596432292
+Other North America,46530,877628,23606,478963,4200,First-line supervisors of housekeeping and janitorial workers,28,527,0.0011002937596432292
+Other North America,46530,877628,23606,478963,9005,Supervisors of transportation and material moving workers,18,522,0.0010898545399122689
+Other North America,46530,877628,23606,478963,7000,"First-line supervisors of mechanics, installers, and repairers",27,521,0.0010877666959660766
+Other North America,46530,877628,23606,478963,1065,Database administrators and architects,28,513,0.00107106394439654
+Other North America,46530,877628,23606,478963,1610,Biological scientists,26,511,0.0010668882565041558
+Other North America,46530,877628,23606,478963,4622,Recreation workers,21,509,0.0010627125686117718
+Other North America,46530,877628,23606,478963,2721,Athletes and sports competitors,27,508,0.0010606247246655795
+Other North America,46530,877628,23606,478963,3421,Pharmacy technicians,24,508,0.0010606247246655795
+Other North America,46530,877628,23606,478963,1450,Materials engineers,13,507,0.0010585368807193875
+Other North America,46530,877628,23606,478963,3030,Dietitians and nutritionists,23,503,0.0010501855049346192
+Other North America,46530,877628,23606,478963,1031,Web developers,27,499,0.001041834129149851
+Other North America,46530,877628,23606,478963,6050,Other agricultural workers,36,497,0.0010376584412574667
+Other North America,46530,877628,23606,478963,4830,Travel agents,27,488,0.0010188678457417378
+Other North America,46530,877628,23606,478963,0650,Training and development specialists,25,485,0.0010126043139031616
+Other North America,46530,877628,23606,478963,2004,Mental health counselors,28,475,9.917258744412407e-4
+Other North America,46530,877628,23606,478963,1520,"Petroleum, mining and geological engineers, including mining safety engineers",19,473,9.875501865488567e-4
+Other North America,46530,877628,23606,478963,1105,Network and computer systems administrators,30,472,9.854623426026644e-4
+Other North America,46530,877628,23606,478963,9122,"Bus drivers, transit and intercity",22,472,9.854623426026644e-4
+Other North America,46530,877628,23606,478963,0335,Entertainment and recreation managers,9,468,9.771109668178961e-4
+Other North America,46530,877628,23606,478963,5522,"Dispatchers, except police, fire, and ambulance",18,461,9.624960591945516e-4
+Other North America,46530,877628,23606,478963,3802,Correctional officers and jailers,18,456,9.520568394635911e-4
+Other North America,46530,877628,23606,478963,3310,Dental hygienists,25,438,9.144756484321336e-4
+Other North America,46530,877628,23606,478963,0726,Fundraisers,20,433,9.040364287011732e-4
+Other North America,46530,877628,23606,478963,3910,Private detectives and investigators,16,429,8.956850529164048e-4
+Other North America,46530,877628,23606,478963,2400,"Archivists, curators, and museum technicians",28,428,8.935972089702128e-4
+Other North America,46530,877628,23606,478963,2050,"Directors, religious activities and education",19,418,8.727187695082919e-4
+Other North America,46530,877628,23606,478963,6305,Construction equipment operators,24,413,8.622795497773315e-4
+Other North America,46530,877628,23606,478963,1980,Occupational health and safety specialists and technicians,15,410,8.560160179387552e-4
+Other North America,46530,877628,23606,478963,1220,Operations research analysts,24,409,8.539281739925631e-4
+Other North America,46530,877628,23606,478963,0725,"Meeting, convention, and event planners",22,407,8.497524861001789e-4
+Other North America,46530,877628,23606,478963,2810,"News analysts, reporters, and journalists",22,404,8.434889542616027e-4
+Other North America,46530,877628,23606,478963,2751,Music directors and composers,15,400,8.351375784768344e-4
+Other North America,46530,877628,23606,478963,9610,Cleaners of vehicles and equipment,16,400,8.351375784768344e-4
+Other North America,46530,877628,23606,478963,1745,"Environmental scientists and specialists, including health",15,399,8.330497345306422e-4
+Other North America,46530,877628,23606,478963,3515,Medical records specialists,20,394,8.226105147996818e-4
+Other North America,46530,877628,23606,478963,8030,Machinists,24,393,8.205226708534897e-4
+Other North America,46530,877628,23606,478963,5140,Payroll and timekeeping clerks,18,392,8.184348269072977e-4
+Other North America,46530,877628,23606,478963,0101,Administrative services managers,9,390,8.142591390149134e-4
+Other North America,46530,877628,23606,478963,0700,Logisticians,15,383,7.996442313915688e-4
+Other North America,46530,877628,23606,478963,4950,"Door-to-door sales workers, news and street vendors, and related workers",10,376,7.850293237682243e-4
+Other North America,46530,877628,23606,478963,8300,Laundry and dry-cleaning workers,14,376,7.850293237682243e-4
+Other North America,46530,877628,23606,478963,1022,Software quality assurance analysts and testers,17,374,7.808536358758401e-4
+Other North America,46530,877628,23606,478963,0060,Public relations and fundraising managers,25,372,7.766779479834559e-4
+Other North America,46530,877628,23606,478963,6410,Painters and paperhangers,24,369,7.704144161448797e-4
+Other North America,46530,877628,23606,478963,3323,Radiologic technologists and technicians,19,366,7.641508843063034e-4
+Other North America,46530,877628,23606,478963,0040,Advertising and promotions managers,17,360,7.516238206291509e-4
+Other North America,46530,877628,23606,478963,5410,Reservation and transportation ticket agents and travel clerks,17,359,7.495359766829589e-4
+Other North America,46530,877628,23606,478963,7140,Aircraft mechanics and service technicians,20,359,7.495359766829589e-4
+Other North America,46530,877628,23606,478963,4130,Dining room and cafeteria attendants and bartender helpers,19,354,7.390967569519983e-4
+Other North America,46530,877628,23606,478963,2905,Other media and communication equipment workers,19,353,7.370089130058063e-4
+Other North America,46530,877628,23606,478963,8225,Other metal workers and plastic workers,23,352,7.349210690596142e-4
+Other North America,46530,877628,23606,478963,8800,Packaging and filling machine operators and tenders,12,352,7.349210690596142e-4
+Other North America,46530,877628,23606,478963,1400,Computer hardware engineers,16,349,7.286575372210379e-4
+Other North America,46530,877628,23606,478963,4800,Advertising sales agents,17,346,7.223940053824617e-4
+Other North America,46530,877628,23606,478963,3960,Other protective service workers,23,345,7.203061614362696e-4
+Other North America,46530,877628,23606,478963,2016,Social and human service assistants,17,343,7.161304735438855e-4
+Other North America,46530,877628,23606,478963,3322,Diagnostic medical sonographers,14,342,7.140426295976933e-4
+Other North America,46530,877628,23606,478963,1032,Web and digital interface designers,17,340,7.098669417053092e-4
+Other North America,46530,877628,23606,478963,2440,Library technicians,12,340,7.098669417053092e-4
+Other North America,46530,877628,23606,478963,3424,Veterinary technologists and technicians,16,332,6.931641901357725e-4
+Other North America,46530,877628,23606,478963,7640,"Other installation, maintenance, and repair workers",20,328,6.848128143510042e-4
+Other North America,46530,877628,23606,478963,0810,Property appraisers and assessors,19,327,6.827249704048121e-4
+Other North America,46530,877628,23606,478963,0102,Facilities managers,17,326,6.806371264586199e-4
+Other North America,46530,877628,23606,478963,1551,Electrical and electronic engineering technologists and technicians,11,326,6.806371264586199e-4
+Other North America,46530,877628,23606,478963,9050,Flight attendants,24,325,6.785492825124279e-4
+Other North America,46530,877628,23606,478963,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",14,324,6.764614385662358e-4
+Other North America,46530,877628,23606,478963,3256,Nurse anesthetists,20,320,6.681100627814675e-4
+Other North America,46530,877628,23606,478963,4530,"Baggage porters, bellhops, and concierges",12,319,6.660222188352754e-4
+Other North America,46530,877628,23606,478963,5550,Postal service mail carriers,23,317,6.618465309428912e-4
+Other North America,46530,877628,23606,478963,9310,Ship and boat captains and operators,9,317,6.618465309428912e-4
+Other North America,46530,877628,23606,478963,5330,Loan interviewers and clerks,9,313,6.534951551581228e-4
+Other North America,46530,877628,23606,478963,0137,Training and development managers,19,311,6.493194672657387e-4
+Other North America,46530,877628,23606,478963,4640,Residential advisors,19,310,6.472316233195467e-4
+Other North America,46530,877628,23606,478963,5250,"Eligibility interviewers, government programs",4,309,6.451437793733545e-4
+Other North America,46530,877628,23606,478963,1106,Computer network architects,15,308,6.430559354271624e-4
+Other North America,46530,877628,23606,478963,7810,"Butchers and other meat, poultry, and fish processing workers",11,303,6.32616715696202e-4
+Other North America,46530,877628,23606,478963,4400,Gambling services workers,12,298,6.221774959652415e-4
+Other North America,46530,877628,23606,478963,4340,Animal trainers,20,297,6.200896520190495e-4
+Other North America,46530,877628,23606,478963,6330,"Drywall installers, ceiling tile installers, and tapers",9,296,6.180018080728574e-4
+Other North America,46530,877628,23606,478963,3545,Miscellaneous health technologists and technicians,17,295,6.159139641266653e-4
+Other North America,46530,877628,23606,478963,9150,"Motor vehicle operators, all other",10,295,6.159139641266653e-4
+Other North America,46530,877628,23606,478963,1860,Other social scientists,17,293,6.117382762342811e-4
+Other North America,46530,877628,23606,478963,4140,Dishwashers,13,291,6.07562588341897e-4
+Other North America,46530,877628,23606,478963,8610,Stationary engineers and boiler operators,15,288,6.012990565033207e-4
+Other North America,46530,877628,23606,478963,5260,File clerks,15,280,5.84596304933784e-4
+Other North America,46530,877628,23606,478963,0940,Tax preparers,12,274,5.720692412566316e-4
+Other North America,46530,877628,23606,478963,3646,Medical transcriptionists,12,272,5.678935533642473e-4
+Other North America,46530,877628,23606,478963,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",15,268,5.59542177579479e-4
+Other North America,46530,877628,23606,478963,0640,"Compensation, benefits, and job analysis specialists",11,267,5.574543336332869e-4
+Other North America,46530,877628,23606,478963,1840,Urban and regional planners,15,264,5.511908017947106e-4
+Other North America,46530,877628,23606,478963,5420,Other information and records clerks,9,264,5.511908017947106e-4
+Other North America,46530,877628,23606,478963,5320,"Library assistants, clerical",15,258,5.386637381175582e-4
+Other North America,46530,877628,23606,478963,8140,"Welding, soldering, and brazing workers",14,257,5.36575894171366e-4
+Other North America,46530,877628,23606,478963,2012,Healthcare social workers,13,255,5.324002062789819e-4
+Other North America,46530,877628,23606,478963,1306,Landscape architects,15,253,5.282245183865977e-4
+Other North America,46530,877628,23606,478963,5300,"Hotel, motel, and resort desk clerks",13,251,5.240488304942135e-4
+Other North America,46530,877628,23606,478963,7210,Bus and truck mechanics and diesel engine specialists,14,248,5.177852986556373e-4
+Other North America,46530,877628,23606,478963,3401,Emergency medical technicians,10,246,5.136096107632531e-4
+Other North America,46530,877628,23606,478963,0860,Insurance underwriters,14,245,5.11521766817061e-4
+Other North America,46530,877628,23606,478963,7220,Heavy vehicle and mobile equipment service technicians and mechanics,10,244,5.094339228708689e-4
+Other North America,46530,877628,23606,478963,2001,Substance abuse and behavioral disorder counselors,18,243,5.073460789246769e-4
+Other North America,46530,877628,23606,478963,5310,"Interviewers, except eligibility and loan",18,243,5.073460789246769e-4
+Other North America,46530,877628,23606,478963,1340,Biomedical and agricultural engineers,10,240,5.010825470861006e-4
+Other North America,46530,877628,23606,478963,7020,Radio and telecommunications equipment installers and repairers,9,238,4.969068591937165e-4
+Other North America,46530,877628,23606,478963,8650,"Crushing, grinding, polishing, mixing, and blending workers",7,238,4.969068591937165e-4
+Other North America,46530,877628,23606,478963,1750,"Geoscientists and hydrologists, except geographers",11,236,4.927311713013322e-4
+Other North America,46530,877628,23606,478963,2633,Floral designers,8,235,4.906433273551402e-4
+Other North America,46530,877628,23606,478963,2740,Dancers and choreographers,8,230,4.802041076241797e-4
+Other North America,46530,877628,23606,478963,3620,Physical therapist assistants and aides,11,230,4.802041076241797e-4
+Other North America,46530,877628,23606,478963,1600,Agricultural and food scientists,11,228,4.760284197317956e-4
+Other North America,46530,877628,23606,478963,2011,"Child, family, and school social workers",8,224,4.676770439470272e-4
+Other North America,46530,877628,23606,478963,2770,"Entertainers and performers, sports and related workers, all other",13,222,4.635013560546431e-4
+Other North America,46530,877628,23606,478963,8255,Printing press operators,10,221,4.6141351210845095e-4
+Other North America,46530,877628,23606,478963,3321,Cardiovascular technologists and technicians,9,220,4.593256681622589e-4
+Other North America,46530,877628,23606,478963,7150,Automotive body and related repairers,11,220,4.593256681622589e-4
+Other North America,46530,877628,23606,478963,8350,"Tailors, dressmakers, and sewers",14,215,4.4888644843129845e-4
+Other North America,46530,877628,23606,478963,7720,"Electrical, electronics, and electromechanical assemblers",6,213,4.447107605389143e-4
+Other North America,46530,877628,23606,478963,8130,Tool and die makers,9,213,4.447107605389143e-4
+Other North America,46530,877628,23606,478963,9830,"Military, rank not specified",13,211,4.405350726465301e-4
+Other North America,46530,877628,23606,478963,2861,Interpreters and translators,9,210,4.3844722870033803e-4
+Other North America,46530,877628,23606,478963,8320,Sewing machine operators,9,210,4.3844722870033803e-4
+Other North America,46530,877628,23606,478963,1700,Astronomers and physicists,13,209,4.3635938475414596e-4
+Other North America,46530,877628,23606,478963,9810,First-line enlisted military supervisors,7,209,4.3635938475414596e-4
+Other North America,46530,877628,23606,478963,4900,"Models, demonstrators, and product promoters",12,202,4.2174447713080133e-4
+Other North America,46530,877628,23606,478963,3402,Paramedics,9,201,4.1965663318460926e-4
+Other North America,46530,877628,23606,478963,9430,Other transportation workers,7,201,4.1965663318460926e-4
+Other North America,46530,877628,23606,478963,1821,Clinical and counseling psychologists,10,198,4.13393101346033e-4
+Other North America,46530,877628,23606,478963,3710,First-line supervisors of police and detectives,8,198,4.13393101346033e-4
+Other North America,46530,877628,23606,478963,4540,Tour and travel guides,8,198,4.13393101346033e-4
+Other North America,46530,877628,23606,478963,2170,"Title examiners, abstractors, and searchers",10,197,4.113052573998409e-4
+Other North America,46530,877628,23606,478963,7420,Telecommunications line installers and repairers,10,194,4.0504172556126463e-4
+Other North America,46530,877628,23606,478963,4120,"Food servers, nonrestaurant",13,193,4.0295388161507256e-4
+Other North America,46530,877628,23606,478963,5220,"Court, municipal, and license clerks",8,193,4.0295388161507256e-4
+Other North America,46530,877628,23606,478963,5100,Bill and account collectors,8,192,4.008660376688805e-4
+Other North America,46530,877628,23606,478963,4330,Supervisors of personal care and service workers,12,188,3.9251466188411214e-4
+Other North America,46530,877628,23606,478963,6660,Construction and building inspectors,10,188,3.9251466188411214e-4
+Other North America,46530,877628,23606,478963,2180,"Legal support workers, all other",8,187,3.9042681793792006e-4
+Other North America,46530,877628,23606,478963,7320,Home appliance repairers,8,182,3.7998759820695964e-4
+Other North America,46530,877628,23606,478963,3725,"Miscellaneous first-line supervisors, protective service workers",6,181,3.778997542607675e-4
+Other North America,46530,877628,23606,478963,3940,Crossing guards and flaggers,8,180,3.7581191031457544e-4
+Other North America,46530,877628,23606,478963,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",7,180,3.7581191031457544e-4
+Other North America,46530,877628,23606,478963,1545,Other drafters,10,175,3.65372690583615e-4
+Other North America,46530,877628,23606,478963,3647,Pharmacy aides,6,174,3.6328484663742294e-4
+Other North America,46530,877628,23606,478963,2025,Other community and social service specialists,11,173,3.6119700269123087e-4
+Other North America,46530,877628,23606,478963,1420,Environmental engineers,8,172,3.5910915874503874e-4
+Other North America,46530,877628,23606,478963,4525,Other personal appearance workers,3,172,3.5910915874503874e-4
+Other North America,46530,877628,23606,478963,5730,Medical secretaries and administrative assistants,10,172,3.5910915874503874e-4
+Other North America,46530,877628,23606,478963,6520,Sheet metal workers,11,172,3.5910915874503874e-4
+Other North America,46530,877628,23606,478963,0360,Natural sciences managers,10,169,3.528456269064625e-4
+Other North America,46530,877628,23606,478963,2631,Commercial and industrial designers,5,168,3.507577829602704e-4
+Other North America,46530,877628,23606,478963,8750,Jewelers and precious stone and metal workers,10,165,3.4449425112169417e-4
+Other North America,46530,877628,23606,478963,1822,School psychologists,10,164,3.424064071755021e-4
+Other North America,46530,877628,23606,478963,2013,Mental health and substance abuse social workers,9,163,3.4031856322930997e-4
+Other North America,46530,877628,23606,478963,8450,Upholsterers,4,162,3.382307192831179e-4
+Other North America,46530,877628,23606,478963,2632,Fashion designers,7,161,3.361428753369258e-4
+Other North America,46530,877628,23606,478963,3120,Podiatrists,8,160,3.3405503139073375e-4
+Other North America,46530,877628,23606,478963,1310,"Surveyors, cartographers, and photogrammetrists",6,156,3.257036556059654e-4
+Other North America,46530,877628,23606,478963,3610,Occupational therapy assistants and aides,5,155,3.236158116597733e-4
+Other North America,46530,877628,23606,478963,7410,Electrical power-line installers and repairers,9,155,3.236158116597733e-4
+Other North America,46530,877628,23606,478963,3261,Acupuncturists,10,150,3.1317659192881285e-4
+Other North America,46530,877628,23606,478963,7360,Millwrights,7,148,3.090009040364287e-4
+Other North America,46530,877628,23606,478963,3422,Psychiatric technicians,9,146,3.0482521614404455e-4
+Other North America,46530,877628,23606,478963,3649,Phlebotomists,10,146,3.0482521614404455e-4
+Other North America,46530,877628,23606,478963,7010,"Computer, automated teller, and office machine repairers",8,146,3.0482521614404455e-4
+Other North America,46530,877628,23606,478963,5360,"Human resources assistants, except payroll and timekeeping",9,144,3.0064952825166035e-4
+Other North America,46530,877628,23606,478963,0820,Budget analysts,7,143,2.985616843054683e-4
+Other North America,46530,877628,23606,478963,3430,Dietetic technicians and ophthalmic medical technicians,5,143,2.985616843054683e-4
+Other North America,46530,877628,23606,478963,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",7,142,2.964738403592762e-4
+Other North America,46530,877628,23606,478963,8500,Cabinetmakers and bench carpenters,8,142,2.964738403592762e-4
+Other North America,46530,877628,23606,478963,8620,Water and wastewater treatment plant and system operators,7,140,2.92298152466892e-4
+Other North America,46530,877628,23606,478963,2003,Marriage and family therapists,9,137,2.860346206283158e-4
+Other North America,46530,877628,23606,478963,4750,Parts salespersons,8,137,2.860346206283158e-4
+Other North America,46530,877628,23606,478963,9141,Shuttle drivers and chauffeurs,5,137,2.860346206283158e-4
+Other North America,46530,877628,23606,478963,1640,Conservation scientists and foresters,9,136,2.8394677668212365e-4
+Other North America,46530,877628,23606,478963,3140,Audiologists,6,136,2.8394677668212365e-4
+Other North America,46530,877628,23606,478963,3220,Respiratory therapists,10,136,2.8394677668212365e-4
+Other North America,46530,877628,23606,478963,5040,"Communications equipment operators, all other",4,135,2.818589327359316e-4
+Other North America,46530,877628,23606,478963,6530,Structural iron and steel workers,5,135,2.818589327359316e-4
+Other North America,46530,877628,23606,478963,3324,Magnetic resonance imaging technologists,8,134,2.797710887897395e-4
+Other North America,46530,877628,23606,478963,1710,Atmospheric and space scientists,4,133,2.7768324484354743e-4
+Other North America,46530,877628,23606,478963,3330,Nuclear medicine technologists and medical dosimetrists,6,133,2.7768324484354743e-4
+Other North America,46530,877628,23606,478963,3520,"Opticians, dispensing",8,133,2.7768324484354743e-4
+Other North America,46530,877628,23606,478963,7560,Riggers,4,133,2.7768324484354743e-4
+Other North America,46530,877628,23606,478963,6400,Insulation workers,4,132,2.755954008973553e-4
+Other North America,46530,877628,23606,478963,4521,Manicurists and pedicurists,9,131,2.7350755695116323e-4
+Other North America,46530,877628,23606,478963,5350,Correspondence clerks and order clerks,8,130,2.7141971300497116e-4
+Other North America,46530,877628,23606,478963,7240,Small engine mechanics,4,129,2.693318690587791e-4
+Other North America,46530,877628,23606,478963,3720,First-line supervisors of firefighting and prevention workers,8,128,2.67244025112587e-4
+Other North America,46530,877628,23606,478963,5850,"Mail clerks and mail machine operators, except postal service",11,128,2.67244025112587e-4
+Other North America,46530,877628,23606,478963,8810,Painting workers,7,127,2.651561811663949e-4
+Other North America,46530,877628,23606,478963,1005,Computer and information research scientists,10,125,2.6098049327401073e-4
+Other North America,46530,877628,23606,478963,1560,Surveying and mapping technicians,9,119,2.4845342959685824e-4
+Other North America,46530,877628,23606,478963,4500,Barbers,6,118,2.463655856506661e-4
+Other North America,46530,877628,23606,478963,6040,"Graders and sorters, agricultural products",3,117,2.4427774170447404e-4
+Other North America,46530,877628,23606,478963,3423,Surgical technologists,5,116,2.4218989775828196e-4
+Other North America,46530,877628,23606,478963,6515,Roofers,7,113,2.359263659197057e-4
+Other North America,46530,877628,23606,478963,4240,Pest control workers,4,112,2.338385219735136e-4
+Other North America,46530,877628,23606,478963,2865,"Media and communication workers, all other",6,111,2.3175067802732154e-4
+Other North America,46530,877628,23606,478963,5820,Word processors and typists,4,108,2.2548714618874526e-4
+Other North America,46530,877628,23606,478963,6010,Agricultural inspectors,2,108,2.2548714618874526e-4
+Other North America,46530,877628,23606,478963,2015,Probation officers and correctional treatment specialists,5,107,2.233993022425532e-4
+Other North America,46530,877628,23606,478963,2105,Judicial law clerks,6,104,2.1713577040397691e-4
+Other North America,46530,877628,23606,478963,6240,"Carpet, floor, and tile installers and finishers",4,103,2.1504792645778484e-4
+Other North America,46530,877628,23606,478963,7120,Electronic home entertainment equipment installers and repairers,5,102,2.1296008251159277e-4
+Other North America,46530,877628,23606,478963,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,6,102,2.1296008251159277e-4
+Other North America,46530,877628,23606,478963,1910,Biological technicians,5,99,2.066965506730165e-4
+Other North America,46530,877628,23606,478963,1920,Chemical technicians,6,99,2.066965506730165e-4
+Other North America,46530,877628,23606,478963,4252,Tree trimmers and pruners,5,94,1.9625733094205607e-4
+Other North America,46530,877628,23606,478963,6800,"Derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining",2,94,1.9625733094205607e-4
+Other North America,46530,877628,23606,478963,7905,Computer numerically controlled tool operators and programmers,5,94,1.9625733094205607e-4
+Other North America,46530,877628,23606,478963,5540,Postal service clerks,7,92,1.920816430496719e-4
+Other North America,46530,877628,23606,478963,7840,Food batchmakers,4,92,1.920816430496719e-4
+Other North America,46530,877628,23606,478963,3820,Detectives and criminal investigators,8,90,1.8790595515728772e-4
+Other North America,46530,877628,23606,478963,8040,"Metal furnace operators, tenders, pourers, and casters",2,90,1.8790595515728772e-4
+Other North America,46530,877628,23606,478963,5150,Procurement clerks,4,89,1.8581811121109565e-4
+Other North America,46530,877628,23606,478963,4420,"Ushers, lobby attendants, and ticket takers",6,87,1.8164242331871147e-4
+Other North America,46530,877628,23606,478963,2805,Broadcast announcers and radio disc jockeys,4,86,1.7955457937251937e-4
+Other North America,46530,877628,23606,478963,9825,Military enlisted tactical operations and air/weapons specialists and crew members,6,86,1.7955457937251937e-4
+Other North America,46530,877628,23606,478963,0135,Compensation and benefits managers,5,83,1.7329104753394312e-4
+Other North America,46530,877628,23606,478963,2862,Court reporters and simultaneous captioners,7,83,1.7329104753394312e-4
+Other North America,46530,877628,23606,478963,8930,"Paper goods machine setters, operators, and tenders",4,80,1.6702751569536687e-4
+Other North America,46530,877628,23606,478963,4160,"Food preparation and serving related workers, all other",3,77,1.607639838567906e-4
+Other North America,46530,877628,23606,478963,5910,Proofreaders and copy markers,5,76,1.5867613991059852e-4
+Other North America,46530,877628,23606,478963,1541,Architectural and civil drafters,5,75,1.5658829596440642e-4
+Other North America,46530,877628,23606,478963,9720,Refuse and recyclable material collectors,6,75,1.5658829596440642e-4
+Other North America,46530,877628,23606,478963,4522,Skincare specialists,7,74,1.5450045201821435e-4
+Other North America,46530,877628,23606,478963,7510,"Coin, vending, and amusement machine servicers and repairers",5,74,1.5450045201821435e-4
+Other North America,46530,877628,23606,478963,8365,"Textile machine setters, operators, and tenders",2,73,1.5241260807202228e-4
+Other North America,46530,877628,23606,478963,8640,"Chemical processing machine setters, operators, and tenders",2,72,1.5032476412583018e-4
+Other North America,46530,877628,23606,478963,7610,"Helpers--installation, maintenance, and repair workers",2,70,1.46149076233446e-4
+Other North America,46530,877628,23606,478963,7855,"Food processing workers, all other",4,70,1.46149076233446e-4
+Other North America,46530,877628,23606,478963,9800,Military officer special and tactical operations leaders,5,70,1.46149076233446e-4
+Other North America,46530,877628,23606,478963,0930,"Tax examiners and collectors, and revenue agents",3,68,1.4197338834106183e-4
+Other North America,46530,877628,23606,478963,9410,Transportation inspectors,4,68,1.4197338834106183e-4
+Other North America,46530,877628,23606,478963,3648,Veterinary assistants and laboratory animal caretakers,4,67,1.3988554439486975e-4
+Other North America,46530,877628,23606,478963,3946,School bus monitors,4,66,1.3779770044867765e-4
+Other North America,46530,877628,23606,478963,8555,Other woodworkers,4,66,1.3779770044867765e-4
+Other North America,46530,877628,23606,478963,7830,"Food and tobacco roasting, baking, and drying machine operators and tenders",3,65,1.3570985650248558e-4
+Other North America,46530,877628,23606,478963,0510,"Buyers and purchasing agents, farm products",3,62,1.2944632466390933e-4
+Other North America,46530,877628,23606,478963,6120,Forest and conservation workers,2,62,1.2944632466390933e-4
+Other North America,46530,877628,23606,478963,9365,Transportation service attendants,4,62,1.2944632466390933e-4
+Other North America,46530,877628,23606,478963,6765,Other construction and related workers,6,61,1.2735848071771723e-4
+Other North America,46530,877628,23606,478963,2636,Merchandise displayers and window trimmers,3,60,1.2527063677152516e-4
+Other North America,46530,877628,23606,478963,4740,Counter and rental clerks,4,60,1.2527063677152516e-4
+Other North America,46530,877628,23606,478963,7130,Security and fire alarm systems installers,4,60,1.2527063677152516e-4
+Other North America,46530,877628,23606,478963,7430,Precision instrument and equipment repairers,2,60,1.2527063677152516e-4
+Other North America,46530,877628,23606,478963,9510,Crane and tower operators,4,59,1.2318279282533305e-4
+Other North America,46530,877628,23606,478963,5920,Statistical assistants,5,58,1.2109494887914098e-4
+Other North America,46530,877628,23606,478963,2723,"Umpires, referees, and other sports officials",7,57,1.190071049329489e-4
+Other North America,46530,877628,23606,478963,3605,Orderlies and psychiatric aides,3,56,1.169192609867568e-4
+Other North America,46530,877628,23606,478963,0900,Financial examiners,2,53,1.1065572914818054e-4
+Other North America,46530,877628,23606,478963,3750,Fire inspectors,3,53,1.1065572914818054e-4
+Other North America,46530,877628,23606,478963,3270,"Healthcare diagnosing or treating practitioners, all other",5,52,1.0856788520198846e-4
+Other North America,46530,877628,23606,478963,0830,Credit analysts,4,50,1.043921973096043e-4
+Other North America,46530,877628,23606,478963,1935,"Environmental science and geoscience technicians, and nuclear technicians",3,50,1.043921973096043e-4
+Other North America,46530,877628,23606,478963,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",2,50,1.043921973096043e-4
+Other North America,46530,877628,23606,478963,1900,Agricultural and food science technicians,1,49,1.0230435336341221e-4
+Other North America,46530,877628,23606,478963,0425,Emergency management directors,3,48,1.0021650941722012e-4
+Other North America,46530,877628,23606,478963,6130,Logging workers,2,48,1.0021650941722012e-4
+Other North America,46530,877628,23606,478963,5720,Legal secretaries and administrative assistants,4,46,9.604082152483595e-5
+Other North America,46530,877628,23606,478963,6115,Fishing and hunting workers,5,46,9.604082152483595e-5
+Other North America,46530,877628,23606,478963,4465,"Morticians, undertakers, and funeral arrangers",4,45,9.395297757864386e-5
+Other North America,46530,877628,23606,478963,9760,Other material moving workers,4,44,9.186513363245177e-5
+Other North America,46530,877628,23606,478963,3945,Transportation security screeners,2,43,8.977728968625969e-5
+Other North America,46530,877628,23606,478963,5900,"Office machine operators, except computer",1,43,8.977728968625969e-5
+Other North America,46530,877628,23606,478963,9415,Passenger attendants,2,43,8.977728968625969e-5
+Other North America,46530,877628,23606,478963,6730,Highway maintenance workers,2,42,8.76894457400676e-5
+Other North America,46530,877628,23606,478963,7350,"Maintenance workers, machinery",1,42,8.76894457400676e-5
+Other North America,46530,877628,23606,478963,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",2,42,8.76894457400676e-5
+Other North America,46530,877628,23606,478963,8710,Cutting workers,2,42,8.76894457400676e-5
+Other North America,46530,877628,23606,478963,8830,Photographic process workers and processing machine operators,3,42,8.76894457400676e-5
+Other North America,46530,877628,23606,478963,6460,Plasterers and stucco masons,1,40,8.351375784768344e-5
+Other North America,46530,877628,23606,478963,9350,Parking attendants,2,40,8.351375784768344e-5
+Other North America,46530,877628,23606,478963,3210,Recreational therapists,2,37,7.725022600910718e-5
+Other North America,46530,877628,23606,478963,6835,"Explosives workers, ordnance handling experts, and blasters",2,37,7.725022600910718e-5
+Other North America,46530,877628,23606,478963,8465,"Other textile, apparel, and furnishings workers",2,37,7.725022600910718e-5
+Other North America,46530,877628,23606,478963,2005,Rehabilitation counselors,3,36,7.516238206291509e-5
+Other North America,46530,877628,23606,478963,8530,"Sawing machine setters, operators, and tenders, wood",3,36,7.516238206291509e-5
+Other North America,46530,877628,23606,478963,6710,Fence erectors,1,35,7.3074538116723e-5
+Other North America,46530,877628,23606,478963,6720,Hazardous materials removal workers,3,35,7.3074538116723e-5
+Other North America,46530,877628,23606,478963,2755,"Disc jockeys, except radio",3,34,7.098669417053091e-5
+Other North America,46530,877628,23606,478963,4940,Telemarketers,1,34,7.098669417053091e-5
+Other North America,46530,877628,23606,478963,8950,Helpers--production workers,2,34,7.098669417053091e-5
+Other North America,46530,877628,23606,478963,9210,Locomotive engineers and operators,3,34,7.098669417053091e-5
+Other North America,46530,877628,23606,478963,9650,Pumping station operators,2,32,6.681100627814675e-5
+Other North America,46530,877628,23606,478963,5500,Cargo and freight agents,3,31,6.472316233195467e-5
+Other North America,46530,877628,23606,478963,9240,Railroad conductors and yardmasters,3,30,6.263531838576258e-5
+Other North America,46530,877628,23606,478963,9630,Machine feeders and offbearers,1,29,6.054747443957049e-5
+Other North America,46530,877628,23606,478963,6700,Elevator installers and repairers,2,27,5.6371786547186316e-5
+Other North America,46530,877628,23606,478963,6850,Underground mining machine operators,2,27,5.6371786547186316e-5
+Other North America,46530,877628,23606,478963,8850,Adhesive bonding machine operators and tenders,2,27,5.6371786547186316e-5
+Other North America,46530,877628,23606,478963,9265,Other rail transportation workers,2,25,5.219609865480215e-5
+Other North America,46530,877628,23606,478963,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",2,23,4.8020410762417974e-5
+Other North America,46530,877628,23606,478963,8310,"Pressers, textile, garment, and related materials",1,23,4.8020410762417974e-5
+Other North America,46530,877628,23606,478963,3700,First-line supervisors of correctional officers,2,22,4.5932566816225886e-5
+Other North America,46530,877628,23606,478963,3200,Radiation therapists,3,21,4.38447228700338e-5
+Other North America,46530,877628,23606,478963,9570,"Conveyor, dredge, and hoist and winch operators",2,21,4.38447228700338e-5
+Other North America,46530,877628,23606,478963,5521,Public safety telecommunicators,2,20,4.175687892384172e-5
+Other North America,46530,877628,23606,478963,5560,"Postal service mail sorters, processors, and processing machine operators",1,20,4.175687892384172e-5
+Other North America,46530,877628,23606,478963,3840,Fish and game wardens and parking enforcement officers,1,19,3.966903497764963e-5
+Other North America,46530,877628,23606,478963,6950,Other extraction workers,1,19,3.966903497764963e-5
+Other North America,46530,877628,23606,478963,7100,"Other electrical and electronic equipment mechanics, installers, and repairers",2,19,3.966903497764963e-5
+Other North America,46530,877628,23606,478963,7730,Engine and other machine assemblers,1,19,3.966903497764963e-5
+Other North America,46530,877628,23606,478963,9040,Air traffic controllers and airfield operations specialists,1,19,3.966903497764963e-5
+Other North America,46530,877628,23606,478963,6360,Glaziers,2,18,3.7581191031457544e-5
+Other North America,46530,877628,23606,478963,8630,Miscellaneous plant and system operators,1,18,3.7581191031457544e-5
+Other North America,46530,877628,23606,478963,5340,New accounts clerks,1,16,3.3405503139073376e-5
+Other North America,46530,877628,23606,478963,7850,Food cooking machine operators and tenders,1,16,3.3405503139073376e-5
+Other North America,46530,877628,23606,478963,9300,"Sailors and marine oilers, and ship engineers",2,16,3.3405503139073376e-5
+Other North America,46530,877628,23606,478963,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
+						and plastic",2,14,2.92298152466892e-5
+Other North America,46530,877628,23606,478963,8250,Prepress technicians and workers,1,14,2.92298152466892e-5
+Other North America,46530,877628,23606,478963,8940,Tire builders,1,14,2.92298152466892e-5
+Other North America,46530,877628,23606,478963,3900,Animal control workers,1,13,2.7141971300497114e-5
+Other North America,46530,877628,23606,478963,5230,"Credit authorizers, checkers, and clerks",2,13,2.7141971300497114e-5
+Other North America,46530,877628,23606,478963,7540,Locksmiths and safe repairers,1,13,2.7141971300497114e-5
+Other North America,46530,877628,23606,478963,8256,Print binding and finishing workers,1,12,2.505412735430503e-5
+Other North America,46530,877628,23606,478963,5020,Telephone operators,1,10,2.087843946192086e-5
+Other North America,46530,877628,23606,478963,8510,Furniture finishers,1,10,2.087843946192086e-5
+Other North America,46530,877628,23606,478963,7740,Structural metal fabricators and fitters,1,8,1.6702751569536688e-5
+Other North America,46530,877628,23606,478963,6600,"Helpers, construction trades",1,7,1.46149076233446e-5
+Other North America,46530,877628,23606,478963,6740,Rail-track laying and maintenance equipment operators,1,7,1.46149076233446e-5
+Other North America,46530,877628,23606,478963,8920,"Molders, shapers, and casters, except metal and plastic",1,7,1.46149076233446e-5
+Other North America,46530,877628,23606,478963,6005,"First-line supervisors of farming, fishing, and forestry workers",1,6,1.2527063677152515e-5
+Other North America,46530,877628,23606,478963,7300,Control and valve installers and repairers,1,6,1.2527063677152515e-5
+Other North America,46530,877628,23606,478963,4255,Other grounds maintenance workers,1,4,8.351375784768344e-6

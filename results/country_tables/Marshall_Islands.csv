@@ -1,140 +1,142 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Marshall Islands,885,23704,429,12540,8800,Packaging and filling machine operators and tenders,26,775,0.061802232854864435
-Marshall Islands,885,23704,429,12540,9600,Industrial truck and tractor operators,9,728,0.05805422647527911
-Marshall Islands,885,23704,429,12540,9620,"Laborers and freight, stock, and material movers, hand",25,581,0.04633173843700159
-Marshall Islands,885,23704,429,12540,4230,Maids and housekeeping cleaners,17,561,0.04473684210526316
-Marshall Islands,885,23704,429,12540,9130,Driver/sales workers and truck drivers,5,520,0.04146730462519936
-Marshall Islands,885,23704,429,12540,9640,"Packers and packagers, hand",9,420,0.03349282296650718
-Marshall Islands,885,23704,429,12540,5410,Reservation and transportation ticket agents and travel clerks,9,398,0.0317384370015949
-Marshall Islands,885,23704,429,12540,6260,Construction laborers,3,385,0.03070175438596491
-Marshall Islands,885,23704,429,12540,8990,"Miscellaneous production workers, including equipment operators and tenders",11,375,0.029904306220095694
-Marshall Islands,885,23704,429,12540,7855,"Food processing workers, all other",7,343,0.027352472089314194
-Marshall Islands,885,23704,429,12540,7750,Other assemblers and fabricators,11,319,0.02543859649122807
-Marshall Islands,885,23704,429,12540,9645,Stockers and order fillers,11,305,0.024322169059011165
-Marshall Islands,885,23704,429,12540,4220,Janitors and building cleaners,18,300,0.023923444976076555
-Marshall Islands,885,23704,429,12540,3602,Personal care aides,13,290,0.023125996810207338
-Marshall Islands,885,23704,429,12540,8140,"Welding, soldering, and brazing workers",4,285,0.022727272727272728
-Marshall Islands,885,23704,429,12540,5400,Receptionists and information clerks,5,263,0.020972886762360445
-Marshall Islands,885,23704,429,12540,7700,First-line supervisors of production and operating workers,5,228,0.01818181818181818
-Marshall Islands,885,23704,429,12540,4140,Dishwashers,8,224,0.017862838915470493
-Marshall Islands,885,23704,429,12540,0440,Other managers,7,218,0.017384370015948964
-Marshall Islands,885,23704,429,12540,7810,"Butchers and other meat, poultry, and fish processing workers",11,207,0.016507177033492824
-Marshall Islands,885,23704,429,12540,4020,Cooks,8,202,0.016108452950558214
-Marshall Islands,885,23704,429,12540,3640,Dental assistants,1,188,0.014992025518341308
-Marshall Islands,885,23704,429,12540,3603,Nursing assistants,5,146,0.01164274322169059
-Marshall Islands,885,23704,429,12540,9610,Cleaners of vehicles and equipment,5,133,0.010606060606060607
-Marshall Islands,885,23704,429,12540,4720,Cashiers,6,128,0.010207336523125997
-Marshall Islands,885,23704,429,12540,5240,Customer service representatives,7,105,0.008373205741626795
-Marshall Islands,885,23704,429,12540,3500,Licensed practical and licensed vocational nurses,3,104,0.008293460925039872
-Marshall Islands,885,23704,429,12540,9430,Other transportation workers,3,103,0.00821371610845295
-Marshall Islands,885,23704,429,12540,0800,Accountants and auditors,1,102,0.008133971291866028
-Marshall Islands,885,23704,429,12540,2545,Teaching assistants,3,94,0.007496012759170654
-Marshall Islands,885,23704,429,12540,4251,Landscaping and groundskeeping workers,3,87,0.006937799043062201
-Marshall Islands,885,23704,429,12540,5510,Couriers and messengers,3,84,0.0066985645933014355
-Marshall Islands,885,23704,429,12540,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,83,0.006618819776714514
-Marshall Islands,885,23704,429,12540,5610,"Shipping, receiving, and inventory clerks",4,82,0.006539074960127592
-Marshall Islands,885,23704,429,12540,4010,First-line supervisors of food preparation and serving workers,3,81,0.00645933014354067
-Marshall Islands,885,23704,429,12540,5740,"Secretaries and administrative assistants, except legal, medical, and executive",2,79,0.006299840510366826
-Marshall Islands,885,23704,429,12540,4521,Manicurists and pedicurists,2,76,0.006060606060606061
-Marshall Islands,885,23704,429,12540,0630,Human resources workers,4,74,0.005901116427432217
-Marshall Islands,885,23704,429,12540,4110,Waiters and waitresses,5,74,0.005901116427432217
-Marshall Islands,885,23704,429,12540,4510,"Hairdressers, hairstylists, and cosmetologists",2,73,0.005821371610845295
-Marshall Islands,885,23704,429,12540,9005,Supervisors of transportation and material moving workers,2,73,0.005821371610845295
-Marshall Islands,885,23704,429,12540,6355,Electricians,2,71,0.005661881977671451
-Marshall Islands,885,23704,429,12540,2310,Elementary and middle school teachers,3,69,0.005502392344497608
-Marshall Islands,885,23704,429,12540,8255,Printing press operators,1,68,0.005422647527910686
-Marshall Islands,885,23704,429,12540,2810,"News analysts, reporters, and journalists",1,67,0.005342902711323764
-Marshall Islands,885,23704,429,12540,8740,"Inspectors, testers, sorters, samplers, and weighers",4,65,0.00518341307814992
-Marshall Islands,885,23704,429,12540,9720,Refuse and recyclable material collectors,2,65,0.00518341307814992
-Marshall Islands,885,23704,429,12540,4850,"Sales representatives, wholesale and manufacturing",2,64,0.005103668261562998
-Marshall Islands,885,23704,429,12540,1970,"Other life, physical, and social science technicians",1,61,0.004864433811802233
-Marshall Islands,885,23704,429,12540,4760,Retail salespersons,1,61,0.004864433811802233
-Marshall Islands,885,23704,429,12540,6230,Carpenters,2,57,0.004545454545454545
-Marshall Islands,885,23704,429,12540,2861,Interpreters and translators,2,53,0.004226475279106858
-Marshall Islands,885,23704,429,12540,4030,Food preparation workers,1,51,0.004066985645933014
-Marshall Islands,885,23704,429,12540,1021,Software developers,2,50,0.003987240829346092
-Marshall Islands,885,23704,429,12540,4420,"Ushers, lobby attendants, and ticket takers",1,48,0.003827751196172249
-Marshall Islands,885,23704,429,12540,9141,Shuttle drivers and chauffeurs,1,48,0.003827751196172249
-Marshall Islands,885,23704,429,12540,0120,Financial managers,1,46,0.003668261562998405
-Marshall Islands,885,23704,429,12540,6410,Painters and paperhangers,1,45,0.0035885167464114833
-Marshall Islands,885,23704,429,12540,6540,Solar photovoltaic installers,1,44,0.0035087719298245615
-Marshall Islands,885,23704,429,12540,7340,"Maintenance and repair workers, general",3,44,0.0035087719298245615
-Marshall Islands,885,23704,429,12540,9121,"Bus drivers, school",1,44,0.0035087719298245615
-Marshall Islands,885,23704,429,12540,0350,Medical and health services managers,3,43,0.0034290271132376396
-Marshall Islands,885,23704,429,12540,4700,First-line supervisors of retail sales workers,11,42,0.0033492822966507177
-Marshall Islands,885,23704,429,12540,8650,"Crushing, grinding, polishing, mixing, and blending workers",1,42,0.0033492822966507177
-Marshall Islands,885,23704,429,12540,0705,Project management specialists,1,37,0.0029505582137161084
-Marshall Islands,885,23704,429,12540,5860,"Office clerks, general",3,37,0.0029505582137161084
-Marshall Islands,885,23704,429,12540,0020,General and operations managers,1,36,0.0028708133971291866
-Marshall Islands,885,23704,429,12540,7330,Industrial and refractory machinery mechanics,2,35,0.0027910685805422647
-Marshall Islands,885,23704,429,12540,1050,Computer support specialists,1,33,0.002631578947368421
-Marshall Islands,885,23704,429,12540,2016,Social and human service assistants,2,33,0.002631578947368421
-Marshall Islands,885,23704,429,12540,2722,Coaches and scouts,1,33,0.002631578947368421
-Marshall Islands,885,23704,429,12540,0750,"Business operations specialists, all other",2,30,0.0023923444976076554
-Marshall Islands,885,23704,429,12540,2205,Postsecondary teachers,2,30,0.0023923444976076554
-Marshall Islands,885,23704,429,12540,3645,Medical assistants,2,29,0.0023125996810207335
-Marshall Islands,885,23704,429,12540,9830,"Military, rank not specified",2,29,0.0023125996810207335
-Marshall Islands,885,23704,429,12540,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,28,0.0022328548644338117
-Marshall Islands,885,23704,429,12540,7640,"Other installation, maintenance, and repair workers",2,28,0.0022328548644338117
-Marshall Islands,885,23704,429,12540,7740,Structural metal fabricators and fitters,1,28,0.0022328548644338117
-Marshall Islands,885,23704,429,12540,0510,"Buyers and purchasing agents, farm products",1,27,0.00215311004784689
-Marshall Islands,885,23704,429,12540,3321,Cardiovascular technologists and technicians,1,27,0.00215311004784689
-Marshall Islands,885,23704,429,12540,6115,Fishing and hunting workers,1,27,0.00215311004784689
-Marshall Islands,885,23704,429,12540,8810,Painting workers,1,27,0.00215311004784689
-Marshall Islands,885,23704,429,12540,3110,Physician assistants,1,26,0.002073365231259968
-Marshall Islands,885,23704,429,12540,4000,Chefs and head cooks,2,25,0.001993620414673046
-Marshall Islands,885,23704,429,12540,7315,"Heating, air conditioning, and refrigeration mechanics and installers",2,25,0.001993620414673046
-Marshall Islands,885,23704,429,12540,1410,Electrical and electronics engineers,1,24,0.0019138755980861245
-Marshall Islands,885,23704,429,12540,3255,Registered nurses,1,24,0.0019138755980861245
-Marshall Islands,885,23704,429,12540,7210,Bus and truck mechanics and diesel engine specialists,1,24,0.0019138755980861245
-Marshall Islands,885,23704,429,12540,9150,"Motor vehicle operators, all other",1,24,0.0019138755980861245
-Marshall Islands,885,23704,429,12540,0230,Education and childcare administrators,1,23,0.0018341307814992026
-Marshall Islands,885,23704,429,12540,2300,Preschool and kindergarten teachers,1,23,0.0018341307814992026
-Marshall Islands,885,23704,429,12540,4820,"Securities, commodities, and financial services sales agents",1,23,0.0018341307814992026
-Marshall Islands,885,23704,429,12540,0910,Credit counselors and loan officers,1,22,0.0017543859649122807
-Marshall Islands,885,23704,429,12540,0850,Personal financial advisors,1,21,0.0016746411483253589
-Marshall Islands,885,23704,429,12540,5310,"Interviewers, except eligibility and loan",1,21,0.0016746411483253589
-Marshall Islands,885,23704,429,12540,6660,Construction and building inspectors,1,21,0.0016746411483253589
-Marshall Islands,885,23704,429,12540,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,21,0.0016746411483253589
-Marshall Islands,885,23704,429,12540,8710,Cutting workers,1,21,0.0016746411483253589
-Marshall Islands,885,23704,429,12540,5940,Other office and administrative support workers,4,20,0.001594896331738437
-Marshall Islands,885,23704,429,12540,3930,Security guards and gaming surveillance officers,2,19,0.0015151515151515152
-Marshall Islands,885,23704,429,12540,7200,Automotive service technicians and mechanics,1,19,0.0015151515151515152
-Marshall Islands,885,23704,429,12540,7840,Food batchmakers,1,19,0.0015151515151515152
-Marshall Islands,885,23704,429,12540,3300,Clinical laboratory technologists and technicians,1,18,0.0014354066985645933
-Marshall Islands,885,23704,429,12540,5730,Medical secretaries and administrative assistants,1,18,0.0014354066985645933
-Marshall Islands,885,23704,429,12540,2640,Other designers,1,17,0.0013556618819776714
-Marshall Islands,885,23704,429,12540,0051,Marketing managers,1,16,0.0012759170653907496
-Marshall Islands,885,23704,429,12540,2025,Other community and social service specialists,1,15,0.0011961722488038277
-Marshall Islands,885,23704,429,12540,3430,Dietetic technicians and ophthalmic medical technicians,1,15,0.0011961722488038277
-Marshall Islands,885,23704,429,12540,4600,Childcare workers,1,15,0.0011961722488038277
-Marshall Islands,885,23704,429,12540,9810,First-line enlisted military supervisors,1,15,0.0011961722488038277
-Marshall Islands,885,23704,429,12540,0710,Management analysts,1,14,0.0011164274322169058
-Marshall Islands,885,23704,429,12540,4710,First-line supervisors of non-retail sales workers,1,14,0.0011164274322169058
-Marshall Islands,885,23704,429,12540,0410,"Property, real estate, and community association managers",1,13,0.001036682615629984
-Marshall Islands,885,23704,429,12540,3090,Physicians,1,13,0.001036682615629984
-Marshall Islands,885,23704,429,12540,8225,Other metal workers and plastic workers,2,13,0.001036682615629984
-Marshall Islands,885,23704,429,12540,1560,Surveying and mapping technicians,1,12,9.569377990430622e-4
-Marshall Islands,885,23704,429,12540,1980,Occupational health and safety specialists and technicians,1,12,9.569377990430622e-4
-Marshall Islands,885,23704,429,12540,4920,Real estate brokers and sales agents,1,12,9.569377990430622e-4
-Marshall Islands,885,23704,429,12540,6305,Construction equipment operators,1,12,9.569377990430622e-4
-Marshall Islands,885,23704,429,12540,9265,Other rail transportation workers,2,12,9.569377990430622e-4
-Marshall Islands,885,23704,429,12540,0010,Chief executives and legislators,1,11,8.771929824561404e-4
-Marshall Islands,885,23704,429,12540,2710,Producers and directors,1,11,8.771929824561404e-4
-Marshall Islands,885,23704,429,12540,5850,"Mail clerks and mail machine operators, except postal service",1,11,8.771929824561404e-4
-Marshall Islands,885,23704,429,12540,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,11,8.771929824561404e-4
-Marshall Islands,885,23704,429,12540,0310,Food service managers,1,10,7.974481658692185e-4
-Marshall Islands,885,23704,429,12540,3421,Pharmacy technicians,1,10,7.974481658692185e-4
-Marshall Islands,885,23704,429,12540,9365,Transportation service attendants,1,10,7.974481658692185e-4
-Marshall Islands,885,23704,429,12540,2600,Artists and related workers,1,9,7.177033492822966e-4
-Marshall Islands,885,23704,429,12540,6730,Highway maintenance workers,1,9,7.177033492822966e-4
-Marshall Islands,885,23704,429,12540,7140,Aircraft mechanics and service technicians,1,9,7.177033492822966e-4
-Marshall Islands,885,23704,429,12540,2360,Other teachers and instructors,2,7,5.582137161084529e-4
-Marshall Islands,885,23704,429,12540,4055,Fast food and counter workers,1,6,4.784688995215311e-4
-Marshall Islands,885,23704,429,12540,7800,Bakers,2,6,4.784688995215311e-4
-Marshall Islands,885,23704,429,12540,9825,Military enlisted tactical operations and air/weapons specialists and crew members,1,6,4.784688995215311e-4
-Marshall Islands,885,23704,429,12540,5000,First-line supervisors of office and administrative support workers,1,5,3.9872408293460925e-4
-Marshall Islands,885,23704,429,12540,0300,Architectural and engineering managers,1,4,3.189792663476874e-4
-Marshall Islands,885,23704,429,12540,9760,Other material moving workers,1,4,3.189792663476874e-4
-Marshall Islands,885,23704,429,12540,0700,Logisticians,1,1,7.974481658692185e-5
-Marshall Islands,885,23704,429,12540,4940,Telemarketers,1,1,7.974481658692185e-5
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Marshall Islands,885,23704,435,12712,8800,Packaging and filling machine operators and tenders,27,890,0.07001258653241033
+Marshall Islands,885,23704,435,12712,9600,Industrial truck and tractor operators,9,728,0.05726872246696035
+Marshall Islands,885,23704,435,12712,9620,"Laborers and freight, stock, and material movers, hand",25,581,0.045704845814977975
+Marshall Islands,885,23704,435,12712,4230,Maids and housekeeping cleaners,17,561,0.04413152926368785
+Marshall Islands,885,23704,435,12712,9130,Driver/sales workers and truck drivers,5,520,0.04090623033354311
+Marshall Islands,885,23704,435,12712,9640,"Packers and packagers, hand",9,420,0.03303964757709251
+Marshall Islands,885,23704,435,12712,5410,Reservation and transportation ticket agents and travel clerks,9,398,0.03130899937067338
+Marshall Islands,885,23704,435,12712,6260,Construction laborers,3,385,0.0302863436123348
+Marshall Islands,885,23704,435,12712,8990,"Miscellaneous production workers, including equipment operators and tenders",11,375,0.029499685336689743
+Marshall Islands,885,23704,435,12712,7855,"Food processing workers, all other",8,353,0.02776903713027061
+Marshall Islands,885,23704,435,12712,7750,Other assemblers and fabricators,11,319,0.02509439899307741
+Marshall Islands,885,23704,435,12712,4220,Janitors and building cleaners,19,306,0.02407174323473883
+Marshall Islands,885,23704,435,12712,9645,Stockers and order fillers,11,305,0.023993077407174324
+Marshall Islands,885,23704,435,12712,3602,Personal care aides,13,290,0.022813089993706733
+Marshall Islands,885,23704,435,12712,8140,"Welding, soldering, and brazing workers",4,285,0.022419760855884204
+Marshall Islands,885,23704,435,12712,5400,Receptionists and information clerks,5,263,0.02068911264946507
+Marshall Islands,885,23704,435,12712,7700,First-line supervisors of production and operating workers,5,228,0.017935808684707365
+Marshall Islands,885,23704,435,12712,4140,Dishwashers,8,224,0.01762114537444934
+Marshall Islands,885,23704,435,12712,0440,Other managers,7,218,0.017149150409062303
+Marshall Islands,885,23704,435,12712,7810,"Butchers and other meat, poultry, and fish processing workers",11,207,0.016283826305852737
+Marshall Islands,885,23704,435,12712,4020,Cooks,8,202,0.015890497168030208
+Marshall Islands,885,23704,435,12712,3640,Dental assistants,1,188,0.014789175582127124
+Marshall Islands,885,23704,435,12712,3603,Nursing assistants,5,146,0.011485210824417873
+Marshall Islands,885,23704,435,12712,9610,Cleaners of vehicles and equipment,5,133,0.010462555066079295
+Marshall Islands,885,23704,435,12712,4720,Cashiers,6,128,0.010069225928256766
+Marshall Islands,885,23704,435,12712,5240,Customer service representatives,7,105,0.008259911894273128
+Marshall Islands,885,23704,435,12712,3500,Licensed practical and licensed vocational nurses,3,104,0.008181246066708621
+Marshall Islands,885,23704,435,12712,9430,Other transportation workers,3,103,0.008102580239144116
+Marshall Islands,885,23704,435,12712,0800,Accountants and auditors,1,102,0.008023914411579609
+Marshall Islands,885,23704,435,12712,4251,Landscaping and groundskeeping workers,4,98,0.007709251101321586
+Marshall Islands,885,23704,435,12712,2545,Teaching assistants,3,94,0.007394587791063562
+Marshall Islands,885,23704,435,12712,5510,Couriers and messengers,3,84,0.006607929515418502
+Marshall Islands,885,23704,435,12712,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,83,0.006529263687853996
+Marshall Islands,885,23704,435,12712,5610,"Shipping, receiving, and inventory clerks",4,82,0.0064505978602894904
+Marshall Islands,885,23704,435,12712,4010,First-line supervisors of food preparation and serving workers,3,81,0.0063719320327249845
+Marshall Islands,885,23704,435,12712,5740,"Secretaries and administrative assistants, except legal, medical, and executive",2,79,0.0062146003775959725
+Marshall Islands,885,23704,435,12712,4521,Manicurists and pedicurists,2,76,0.005978602894902455
+Marshall Islands,885,23704,435,12712,0630,Human resources workers,4,74,0.005821271239773443
+Marshall Islands,885,23704,435,12712,4110,Waiters and waitresses,5,74,0.005821271239773443
+Marshall Islands,885,23704,435,12712,4510,"Hairdressers, hairstylists, and cosmetologists",2,73,0.005742605412208937
+Marshall Islands,885,23704,435,12712,9005,Supervisors of transportation and material moving workers,2,73,0.005742605412208937
+Marshall Islands,885,23704,435,12712,6355,Electricians,2,71,0.005585273757079925
+Marshall Islands,885,23704,435,12712,2310,Elementary and middle school teachers,3,69,0.005427942101950913
+Marshall Islands,885,23704,435,12712,8255,Printing press operators,1,68,0.005349276274386407
+Marshall Islands,885,23704,435,12712,2810,"News analysts, reporters, and journalists",1,67,0.005270610446821901
+Marshall Islands,885,23704,435,12712,8740,"Inspectors, testers, sorters, samplers, and weighers",4,65,0.005113278791692889
+Marshall Islands,885,23704,435,12712,9720,Refuse and recyclable material collectors,2,65,0.005113278791692889
+Marshall Islands,885,23704,435,12712,4850,"Sales representatives, wholesale and manufacturing",2,64,0.005034612964128383
+Marshall Islands,885,23704,435,12712,1970,"Other life, physical, and social science technicians",1,61,0.004798615481434865
+Marshall Islands,885,23704,435,12712,4760,Retail salespersons,1,61,0.004798615481434865
+Marshall Islands,885,23704,435,12712,6230,Carpenters,2,57,0.004483952171176841
+Marshall Islands,885,23704,435,12712,2861,Interpreters and translators,2,53,0.004169288860918817
+Marshall Islands,885,23704,435,12712,4030,Food preparation workers,1,51,0.0040119572057898045
+Marshall Islands,885,23704,435,12712,1021,Software developers,2,50,0.0039332913782252985
+Marshall Islands,885,23704,435,12712,4420,"Ushers, lobby attendants, and ticket takers",1,48,0.003775959723096287
+Marshall Islands,885,23704,435,12712,9141,Shuttle drivers and chauffeurs,1,48,0.003775959723096287
+Marshall Islands,885,23704,435,12712,0120,Financial managers,1,46,0.003618628067967275
+Marshall Islands,885,23704,435,12712,6410,Painters and paperhangers,1,45,0.003539962240402769
+Marshall Islands,885,23704,435,12712,6540,Solar photovoltaic installers,1,44,0.003461296412838263
+Marshall Islands,885,23704,435,12712,7340,"Maintenance and repair workers, general",3,44,0.003461296412838263
+Marshall Islands,885,23704,435,12712,9121,"Bus drivers, school",1,44,0.003461296412838263
+Marshall Islands,885,23704,435,12712,0350,Medical and health services managers,3,43,0.003382630585273757
+Marshall Islands,885,23704,435,12712,4700,First-line supervisors of retail sales workers,11,42,0.003303964757709251
+Marshall Islands,885,23704,435,12712,8650,"Crushing, grinding, polishing, mixing, and blending workers",1,42,0.003303964757709251
+Marshall Islands,885,23704,435,12712,0705,Project management specialists,1,37,0.0029106356198867213
+Marshall Islands,885,23704,435,12712,5860,"Office clerks, general",3,37,0.0029106356198867213
+Marshall Islands,885,23704,435,12712,0020,General and operations managers,1,36,0.0028319697923222154
+Marshall Islands,885,23704,435,12712,7330,Industrial and refractory machinery mechanics,2,35,0.0027533039647577094
+Marshall Islands,885,23704,435,12712,1050,Computer support specialists,1,33,0.0025959723096286975
+Marshall Islands,885,23704,435,12712,2016,Social and human service assistants,2,33,0.0025959723096286975
+Marshall Islands,885,23704,435,12712,2722,Coaches and scouts,1,33,0.0025959723096286975
+Marshall Islands,885,23704,435,12712,0750,"Business operations specialists, all other",2,30,0.0023599748269351795
+Marshall Islands,885,23704,435,12712,2205,Postsecondary teachers,2,30,0.0023599748269351795
+Marshall Islands,885,23704,435,12712,3645,Medical assistants,2,29,0.0022813089993706736
+Marshall Islands,885,23704,435,12712,9830,"Military, rank not specified",2,29,0.0022813089993706736
+Marshall Islands,885,23704,435,12712,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,28,0.0022026431718061676
+Marshall Islands,885,23704,435,12712,7640,"Other installation, maintenance, and repair workers",2,28,0.0022026431718061676
+Marshall Islands,885,23704,435,12712,7740,Structural metal fabricators and fitters,1,28,0.0022026431718061676
+Marshall Islands,885,23704,435,12712,0510,"Buyers and purchasing agents, farm products",1,27,0.0021239773442416616
+Marshall Islands,885,23704,435,12712,3321,Cardiovascular technologists and technicians,1,27,0.0021239773442416616
+Marshall Islands,885,23704,435,12712,6115,Fishing and hunting workers,1,27,0.0021239773442416616
+Marshall Islands,885,23704,435,12712,8810,Painting workers,1,27,0.0021239773442416616
+Marshall Islands,885,23704,435,12712,3110,Physician assistants,1,26,0.0020453115166771552
+Marshall Islands,885,23704,435,12712,4000,Chefs and head cooks,2,25,0.0019666456891126493
+Marshall Islands,885,23704,435,12712,7315,"Heating, air conditioning, and refrigeration mechanics and installers",2,25,0.0019666456891126493
+Marshall Islands,885,23704,435,12712,1410,Electrical and electronics engineers,1,24,0.0018879798615481435
+Marshall Islands,885,23704,435,12712,3255,Registered nurses,1,24,0.0018879798615481435
+Marshall Islands,885,23704,435,12712,7210,Bus and truck mechanics and diesel engine specialists,1,24,0.0018879798615481435
+Marshall Islands,885,23704,435,12712,9150,"Motor vehicle operators, all other",1,24,0.0018879798615481435
+Marshall Islands,885,23704,435,12712,0230,Education and childcare administrators,1,23,0.0018093140339836375
+Marshall Islands,885,23704,435,12712,2300,Preschool and kindergarten teachers,1,23,0.0018093140339836375
+Marshall Islands,885,23704,435,12712,4130,Dining room and cafeteria attendants and bartender helpers,1,23,0.0018093140339836375
+Marshall Islands,885,23704,435,12712,4820,"Securities, commodities, and financial services sales agents",1,23,0.0018093140339836375
+Marshall Islands,885,23704,435,12712,0910,Credit counselors and loan officers,1,22,0.0017306482064191316
+Marshall Islands,885,23704,435,12712,0850,Personal financial advisors,1,21,0.0016519823788546256
+Marshall Islands,885,23704,435,12712,5310,"Interviewers, except eligibility and loan",1,21,0.0016519823788546256
+Marshall Islands,885,23704,435,12712,6660,Construction and building inspectors,1,21,0.0016519823788546256
+Marshall Islands,885,23704,435,12712,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,21,0.0016519823788546256
+Marshall Islands,885,23704,435,12712,8710,Cutting workers,1,21,0.0016519823788546256
+Marshall Islands,885,23704,435,12712,5940,Other office and administrative support workers,4,20,0.0015733165512901196
+Marshall Islands,885,23704,435,12712,3930,Security guards and gaming surveillance officers,2,19,0.0014946507237256137
+Marshall Islands,885,23704,435,12712,7200,Automotive service technicians and mechanics,1,19,0.0014946507237256137
+Marshall Islands,885,23704,435,12712,7840,Food batchmakers,1,19,0.0014946507237256137
+Marshall Islands,885,23704,435,12712,3300,Clinical laboratory technologists and technicians,1,18,0.0014159848961611077
+Marshall Islands,885,23704,435,12712,5730,Medical secretaries and administrative assistants,1,18,0.0014159848961611077
+Marshall Islands,885,23704,435,12712,2640,Other designers,1,17,0.0013373190685966017
+Marshall Islands,885,23704,435,12712,0051,Marketing managers,1,16,0.0012586532410320957
+Marshall Islands,885,23704,435,12712,2025,Other community and social service specialists,1,15,0.0011799874134675898
+Marshall Islands,885,23704,435,12712,3430,Dietetic technicians and ophthalmic medical technicians,1,15,0.0011799874134675898
+Marshall Islands,885,23704,435,12712,4600,Childcare workers,1,15,0.0011799874134675898
+Marshall Islands,885,23704,435,12712,9810,First-line enlisted military supervisors,1,15,0.0011799874134675898
+Marshall Islands,885,23704,435,12712,0710,Management analysts,1,14,0.0011013215859030838
+Marshall Islands,885,23704,435,12712,4710,First-line supervisors of non-retail sales workers,1,14,0.0011013215859030838
+Marshall Islands,885,23704,435,12712,0410,"Property, real estate, and community association managers",1,13,0.0010226557583385776
+Marshall Islands,885,23704,435,12712,3090,Physicians,1,13,0.0010226557583385776
+Marshall Islands,885,23704,435,12712,8225,Other metal workers and plastic workers,2,13,0.0010226557583385776
+Marshall Islands,885,23704,435,12712,1560,Surveying and mapping technicians,1,12,9.439899307740718e-4
+Marshall Islands,885,23704,435,12712,1980,Occupational health and safety specialists and technicians,1,12,9.439899307740718e-4
+Marshall Islands,885,23704,435,12712,4920,Real estate brokers and sales agents,1,12,9.439899307740718e-4
+Marshall Islands,885,23704,435,12712,6305,Construction equipment operators,1,12,9.439899307740718e-4
+Marshall Islands,885,23704,435,12712,9265,Other rail transportation workers,2,12,9.439899307740718e-4
+Marshall Islands,885,23704,435,12712,0010,Chief executives and legislators,1,11,8.653241032095658e-4
+Marshall Islands,885,23704,435,12712,2710,Producers and directors,1,11,8.653241032095658e-4
+Marshall Islands,885,23704,435,12712,5850,"Mail clerks and mail machine operators, except postal service",1,11,8.653241032095658e-4
+Marshall Islands,885,23704,435,12712,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,11,8.653241032095658e-4
+Marshall Islands,885,23704,435,12712,0310,Food service managers,1,10,7.866582756450598e-4
+Marshall Islands,885,23704,435,12712,3421,Pharmacy technicians,1,10,7.866582756450598e-4
+Marshall Islands,885,23704,435,12712,9365,Transportation service attendants,1,10,7.866582756450598e-4
+Marshall Islands,885,23704,435,12712,2600,Artists and related workers,1,9,7.079924480805538e-4
+Marshall Islands,885,23704,435,12712,6730,Highway maintenance workers,1,9,7.079924480805538e-4
+Marshall Islands,885,23704,435,12712,7140,Aircraft mechanics and service technicians,1,9,7.079924480805538e-4
+Marshall Islands,885,23704,435,12712,2360,Other teachers and instructors,2,7,5.506607929515419e-4
+Marshall Islands,885,23704,435,12712,5810,Data entry keyers,1,7,5.506607929515419e-4
+Marshall Islands,885,23704,435,12712,4055,Fast food and counter workers,1,6,4.719949653870359e-4
+Marshall Islands,885,23704,435,12712,7800,Bakers,2,6,4.719949653870359e-4
+Marshall Islands,885,23704,435,12712,9825,Military enlisted tactical operations and air/weapons specialists and crew members,1,6,4.719949653870359e-4
+Marshall Islands,885,23704,435,12712,5000,First-line supervisors of office and administrative support workers,1,5,3.933291378225299e-4
+Marshall Islands,885,23704,435,12712,0300,Architectural and engineering managers,1,4,3.1466331025802394e-4
+Marshall Islands,885,23704,435,12712,9760,Other material moving workers,1,4,3.1466331025802394e-4
+Marshall Islands,885,23704,435,12712,0700,Logisticians,1,1,7.866582756450598e-5
+Marshall Islands,885,23704,435,12712,4940,Telemarketers,1,1,7.866582756450598e-5

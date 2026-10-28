@@ -1,504 +1,511 @@
-bpl_region,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Northern Europe,50289,936639,22640,472595,0440,Other managers,1415,28252,0.05978057321808314
-Northern Europe,50289,936639,22640,472595,0010,Chief executives and legislators,981,19188,0.040601360573006486
-Northern Europe,50289,936639,22640,472595,1021,Software developers,694,13579,0.028732847364022047
-Northern Europe,50289,936639,22640,472595,2205,Postsecondary teachers,571,11488,0.024308340122091855
-Northern Europe,50289,936639,22640,472595,0120,Financial managers,382,8523,0.018034469260148754
-Northern Europe,50289,936639,22640,472595,3255,Registered nurses,389,8170,0.017287529491425004
-Northern Europe,50289,936639,22640,472595,0710,Management analysts,377,7960,0.01684317438821824
-Northern Europe,50289,936639,22640,472595,2310,Elementary and middle school teachers,359,7064,0.014947259281202722
-Northern Europe,50289,936639,22640,472595,0020,General and operations managers,325,6907,0.014615050942138618
-Northern Europe,50289,936639,22640,472595,0800,Accountants and auditors,322,6626,0.01402046149451433
-Northern Europe,50289,936639,22640,472595,0110,Computer and information systems managers,329,6589,0.013942170357282662
-Northern Europe,50289,936639,22640,472595,4700,First-line supervisors of retail sales workers,328,6541,0.013840603476549689
-Northern Europe,50289,936639,22640,472595,0705,Project management specialists,302,6179,0.013074619917688508
-Northern Europe,50289,936639,22640,472595,3090,Physicians,290,6176,0.013068271987642696
-Northern Europe,50289,936639,22640,472595,4760,Retail salespersons,293,6037,0.012774151228853458
-Northern Europe,50289,936639,22640,472595,0052,Sales managers,232,5589,0.011826193675345698
-Northern Europe,50289,936639,22640,472595,5240,Customer service representatives,237,5562,0.0117690623049334
-Northern Europe,50289,936639,22640,472595,5740,"Secretaries and administrative assistants, except legal, medical, and executive",276,5501,0.011639987727335245
-Northern Europe,50289,936639,22640,472595,0220,Construction managers,232,5240,0.011087717813349697
-Northern Europe,50289,936639,22640,472595,2100,"Lawyers, and judges, magistrates, and other judicial workers",275,5199,0.011000962769390282
-Northern Europe,50289,936639,22640,472595,0051,Marketing managers,243,4852,0.010266718860758155
-Northern Europe,50289,936639,22640,472595,4850,"Sales representatives, wholesale and manufacturing",212,4827,0.010213819443709731
-Northern Europe,50289,936639,22640,472595,1530,Other engineers,200,4391,0.009291253610385214
-Northern Europe,50289,936639,22640,472595,1760,"Physical scientists, all other",237,4289,0.009075423988827644
-Northern Europe,50289,936639,22640,472595,0230,Education and childcare administrators,239,4255,0.009003480781641785
-Northern Europe,50289,936639,22640,472595,4920,Real estate brokers and sales agents,193,4124,0.008726287836308045
-Northern Europe,50289,936639,22640,472595,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",138,3750,0.00793491255726362
-Northern Europe,50289,936639,22640,472595,6230,Carpenters,155,3702,0.007833345676530644
-Northern Europe,50289,936639,22640,472595,0630,Human resources workers,173,3649,0.007721198912387986
-Northern Europe,50289,936639,22640,472595,1108,"Computer occupations, all other",162,3643,0.007708503052296364
-Northern Europe,50289,936639,22640,472595,9130,Driver/sales workers and truck drivers,163,3592,0.007600588241517579
-Northern Europe,50289,936639,22640,472595,2320,Secondary school teachers,169,3345,0.007077942001079148
-Northern Europe,50289,936639,22640,472595,2545,Teaching assistants,173,3289,0.006959447306890678
-Northern Europe,50289,936639,22640,472595,2722,Coaches and scouts,133,3216,0.00680498100910928
-Northern Europe,50289,936639,22640,472595,4710,First-line supervisors of non-retail sales workers,158,3193,0.00675631354542473
-Northern Europe,50289,936639,22640,472595,2640,Other designers,130,3067,0.006489700483500672
-Northern Europe,50289,936639,22640,472595,0735,Market research analysts and marketing specialists,126,3061,0.00647700462340905
-Northern Europe,50289,936639,22640,472595,5000,First-line supervisors of office and administrative support workers,146,3037,0.006426221183042563
-Northern Europe,50289,936639,22640,472595,2360,Other teachers and instructors,149,2979,0.006303494535490219
-Northern Europe,50289,936639,22640,472595,5120,"Bookkeeping, accounting, and auditing clerks",128,2894,0.006123636517525577
-Northern Europe,50289,936639,22640,472595,6260,Construction laborers,115,2854,0.006038997450248098
-Northern Europe,50289,936639,22640,472595,0750,"Business operations specialists, all other",130,2807,0.005939546546197061
-Northern Europe,50289,936639,22640,472595,0350,Medical and health services managers,142,2789,0.005901458965922196
-Northern Europe,50289,936639,22640,472595,1050,Computer support specialists,131,2764,0.005848559548873772
-Northern Europe,50289,936639,22640,472595,1006,Computer systems analysts,130,2715,0.00574487669145886
-Northern Europe,50289,936639,22640,472595,0410,"Property, real estate, and community association managers",122,2714,0.005742760714776923
-Northern Europe,50289,936639,22640,472595,0300,Architectural and engineering managers,131,2676,0.0056623536008633185
-Northern Europe,50289,936639,22640,472595,5860,"Office clerks, general",136,2601,0.005503655349718046
-Northern Europe,50289,936639,22640,472595,0310,Food service managers,110,2522,0.005336493191845026
-Northern Europe,50289,936639,22640,472595,0420,Social and community service managers,112,2469,0.005224346427702367
-Northern Europe,50289,936639,22640,472595,1240,Other mathematical science occupations,111,2390,0.0050571842698293465
-Northern Europe,50289,936639,22640,472595,4720,Cashiers,134,2364,0.0050021688760989854
-Northern Europe,50289,936639,22640,472595,4621,Exercise trainers and group fitness instructors,90,2258,0.004777875347813667
-Northern Europe,50289,936639,22640,472595,5400,Receptionists and information clerks,109,2054,0.004346216104698526
-Northern Europe,50289,936639,22640,472595,0845,Financial and investment analysts,89,2034,0.004303896571059787
-Northern Europe,50289,936639,22640,472595,2710,Producers and directors,101,2029,0.004293316687650102
-Northern Europe,50289,936639,22640,472595,2600,Artists and related workers,88,2024,0.004282736804240417
-Northern Europe,50289,936639,22640,472595,4110,Waiters and waitresses,83,1984,0.004198097736962939
-Northern Europe,50289,936639,22640,472595,1360,Civil engineers,101,1910,0.004041515462499604
-Northern Europe,50289,936639,22640,472595,1410,Electrical and electronics engineers,94,1904,0.0040288196024079815
-Northern Europe,50289,936639,22640,472595,2300,Preschool and kindergarten teachers,85,1883,0.003984384092087305
-Northern Europe,50289,936639,22640,472595,9620,"Laborers and freight, stock, and material movers, hand",98,1858,0.003931484675038881
-Northern Europe,50289,936639,22640,472595,4220,Janitors and building cleaners,102,1851,0.003916672838265322
-Northern Europe,50289,936639,22640,472595,4600,Childcare workers,94,1828,0.003868005374580772
-Northern Europe,50289,936639,22640,472595,9030,Aircraft pilots and flight engineers,95,1825,0.003861657444534961
-Northern Europe,50289,936639,22640,472595,0850,Personal financial advisors,91,1820,0.0038510775611252765
-Northern Europe,50289,936639,22640,472595,4820,"Securities, commodities, and financial services sales agents",79,1755,0.003713539076799374
-Northern Europe,50289,936639,22640,472595,5940,Other office and administrative support workers,83,1728,0.0036564077063870755
-Northern Europe,50289,936639,22640,472595,0140,Industrial production managers,89,1721,0.0036415958696135167
-Northern Europe,50289,936639,22640,472595,1305,"Architects, except landscape and naval",78,1719,0.003637363916249643
-Northern Europe,50289,936639,22640,472595,3602,Personal care aides,88,1709,0.0036162041494302733
-Northern Europe,50289,936639,22640,472595,5710,Executive secretaries and executive administrative assistants,78,1691,0.003578116569155408
-Northern Europe,50289,936639,22640,472595,2634,Graphic designers,76,1637,0.0034638538283308117
-Northern Europe,50289,936639,22640,472595,1650,Other life scientists,90,1620,0.0034278822247378834
-Northern Europe,50289,936639,22640,472595,1010,Computer programmers,73,1615,0.0034173023413281984
-Northern Europe,50289,936639,22640,472595,4510,"Hairdressers, hairstylists, and cosmetologists",67,1586,0.0033559390175520267
-Northern Europe,50289,936639,22640,472595,2850,Writers and authors,75,1544,0.003267067996910674
-Northern Europe,50289,936639,22640,472595,2040,Clergy,73,1519,0.00321416857986225
-Northern Europe,50289,936639,22640,472595,4810,Insurance sales agents,70,1500,0.0031739650229054475
-Northern Europe,50289,936639,22640,472595,9645,Stockers and order fillers,76,1435,0.0030364265385795447
-Northern Europe,50289,936639,22640,472595,0136,Human resources managers,68,1400,0.002962367354711751
-Northern Europe,50289,936639,22640,472595,1460,Mechanical engineers,76,1385,0.0029306277044826965
-Northern Europe,50289,936639,22640,472595,4040,Bartenders,52,1364,0.0028861921941620203
-Northern Europe,50289,936639,22640,472595,3870,Police officers,65,1338,0.0028311768004316592
-Northern Europe,50289,936639,22640,472595,2910,Photographers,57,1295,0.00274018980310837
-Northern Europe,50289,936639,22640,472595,0565,Compliance officers,65,1292,0.0027338418730625588
-Northern Europe,50289,936639,22640,472595,4000,Chefs and head cooks,59,1279,0.002706334176197378
-Northern Europe,50289,936639,22640,472595,6355,Electricians,61,1277,0.0027021022228335043
-Northern Europe,50289,936639,22640,472595,2330,Special education teachers,58,1268,0.0026830584326960716
-Northern Europe,50289,936639,22640,472595,3930,Security guards and gaming surveillance officers,60,1268,0.0026830584326960716
-Northern Europe,50289,936639,22640,472595,6200,First-line supervisors of construction trades and extraction workers,63,1237,0.002617463155556026
-Northern Europe,50289,936639,22640,472595,8740,"Inspectors, testers, sorters, samplers, and weighers",57,1228,0.002598419365418593
-Northern Europe,50289,936639,22640,472595,4251,Landscaping and groundskeeping workers,45,1220,0.002581491551963097
-Northern Europe,50289,936639,22640,472595,7700,First-line supervisors of production and operating workers,57,1203,0.002545519948370169
-Northern Europe,50289,936639,22640,472595,1320,Aerospace engineers,61,1200,0.0025391720183243582
-Northern Europe,50289,936639,22640,472595,4965,"Sales and related workers, all other",52,1173,0.00248204064791206
-Northern Europe,50289,936639,22640,472595,1555,"Other engineering technologists and technicians, except drafters",53,1172,0.0024799246712301232
-Northern Europe,50289,936639,22640,472595,6442,"Plumbers, pipefitters, and steamfitters",46,1172,0.0024799246712301232
-Northern Europe,50289,936639,22640,472595,4030,Food preparation workers,44,1159,0.0024524169743649427
-Northern Europe,50289,936639,22640,472595,1007,Information security analysts,62,1135,0.0024016335339984555
-Northern Europe,50289,936639,22640,472595,3603,Nursing assistants,54,1132,0.0023952856039526444
-Northern Europe,50289,936639,22640,472595,0150,Purchasing managers,55,1110,0.002348734116950031
-Northern Europe,50289,936639,22640,472595,3258,"Nurse practitioners, and nurse midwives",43,1104,0.0023360382568584095
-Northern Europe,50289,936639,22640,472595,9142,Taxi drivers,33,1081,0.0022873707931738594
-Northern Europe,50289,936639,22640,472595,2145,Paralegals and legal assistants,52,1063,0.002249283212898994
-Northern Europe,50289,936639,22640,472595,6410,Painters and paperhangers,46,1050,0.0022217755160338134
-Northern Europe,50289,936639,22640,472595,0340,Lodging managers,48,1048,0.0022175435626699395
-Northern Europe,50289,936639,22640,472595,2014,"Social workers, all other",53,1043,0.0022069636792602545
-Northern Europe,50289,936639,22640,472595,7340,"Maintenance and repair workers, general",56,1043,0.0022069636792602545
-Northern Europe,50289,936639,22640,472595,9050,Flight attendants,35,1040,0.0022006157492144435
-Northern Europe,50289,936639,22640,472595,4350,Animal caretakers,49,1021,0.0021604121922576412
-Northern Europe,50289,936639,22640,472595,0910,Credit counselors and loan officers,41,1003,0.0021223246119827757
-Northern Europe,50289,936639,22640,472595,4020,Cooks,53,991,0.0020969328917995324
-Northern Europe,50289,936639,22640,472595,2752,Musicians and singers,46,981,0.002075773124980163
-Northern Europe,50289,936639,22640,472595,4010,First-line supervisors of food preparation and serving workers,51,979,0.002071541171616289
-Northern Europe,50289,936639,22640,472595,4200,First-line supervisors of housekeeping and janitorial workers,28,969,0.002050381404796919
-Northern Europe,50289,936639,22640,472595,1105,Network and computer systems administrators,40,966,0.0020440334747511084
-Northern Europe,50289,936639,22640,472595,1031,Web developers,29,963,0.0020376855447052974
-Northern Europe,50289,936639,22640,472595,0205,"Farmers, ranchers, and other agricultural managers",56,960,0.0020313376146594863
-Northern Europe,50289,936639,22640,472595,2810,"News analysts, reporters, and journalists",38,958,0.0020271056612956124
-Northern Europe,50289,936639,22640,472595,4230,Maids and housekeeping cleaners,43,951,0.0020122938245220536
-Northern Europe,50289,936639,22640,472595,0530,"Purchasing agents, except wholesale, retail, and farm products",44,948,0.002005945894476243
-Northern Europe,50289,936639,22640,472595,7200,Automotive service technicians and mechanics,51,948,0.002005945894476243
-Northern Europe,50289,936639,22640,472595,0160,"Transportation, storage, and distribution managers",41,938,0.001984786127656873
-Northern Europe,50289,936639,22640,472595,0650,Training and development specialists,30,937,0.0019826701509749363
-Northern Europe,50289,936639,22640,472595,0060,Public relations and fundraising managers,33,934,0.0019763222209291252
-Northern Europe,50289,936639,22640,472595,2825,Public relations specialists,43,934,0.0019763222209291252
-Northern Europe,50289,936639,22640,472595,1430,"Industrial engineers, including health and safety",48,933,0.0019742062442471885
-Northern Europe,50289,936639,22640,472595,5610,"Shipping, receiving, and inventory clerks",37,890,0.0018832192469238989
-Northern Europe,50289,936639,22640,472595,8030,Machinists,32,877,0.0018557115500587183
-Northern Europe,50289,936639,22640,472595,2830,Editors,56,876,0.0018535955733767814
-Northern Europe,50289,936639,22640,472595,0540,"Claims adjusters, appraisers, examiners, and investigators",37,868,0.0018366677599212856
-Northern Europe,50289,936639,22640,472595,8990,"Miscellaneous production workers, including equipment operators and tenders",46,866,0.0018324358065574117
-Northern Europe,50289,936639,22640,472595,3500,Licensed practical and licensed vocational nurses,39,837,0.0017710724827812397
-Northern Europe,50289,936639,22640,472595,5110,Billing and posting clerks,47,815,0.0017245209957786264
-Northern Europe,50289,936639,22640,472595,5510,Couriers and messengers,44,810,0.0017139411123689417
-Northern Europe,50289,936639,22640,472595,3160,Physical therapists,54,785,0.0016610416953205176
-Northern Europe,50289,936639,22640,472595,4055,Fast food and counter workers,38,785,0.0016610416953205176
-Northern Europe,50289,936639,22640,472595,2002,"Educational, guidance, and career counselors and advisors",37,779,0.0016483458352288959
-Northern Europe,50289,936639,22640,472595,3545,Miscellaneous health technologists and technicians,18,776,0.0016419979051830848
-Northern Europe,50289,936639,22640,472595,0960,Other financial specialists,29,774,0.001637765951819211
-Northern Europe,50289,936639,22640,472595,0700,Logisticians,25,715,0.00151292332758493
-Northern Europe,50289,936639,22640,472595,2920,"Television, video, and film camera operators and editors",24,711,0.001504459420857182
-Northern Europe,50289,936639,22640,472595,1032,Web and digital interface designers,24,692,0.0014642558639003799
-Northern Europe,50289,936639,22640,472595,1065,Database administrators and architects,32,686,0.001451560003808758
-Northern Europe,50289,936639,22640,472595,3050,Pharmacists,39,684,0.001447328050444884
-Northern Europe,50289,936639,22640,472595,7000,"First-line supervisors of mechanics, installers, and repairers",30,681,0.0014409801203990732
-Northern Europe,50289,936639,22640,472595,7750,Other assemblers and fabricators,38,677,0.0014325162136713254
-Northern Europe,50289,936639,22640,472595,1825,Other psychologists,39,664,0.0014050085168061449
-Northern Europe,50289,936639,22640,472595,9830,"Military, rank not specified",26,664,0.0014050085168061449
-Northern Europe,50289,936639,22640,472595,3245,Other therapists,33,663,0.001402892540124208
-Northern Europe,50289,936639,22640,472595,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",19,651,0.0013775008199409643
-Northern Europe,50289,936639,22640,472595,3250,Veterinarians,38,648,0.0013711528898951533
-Northern Europe,50289,936639,22640,472595,2905,Other media and communication equipment workers,31,636,0.0013457611697119097
-Northern Europe,50289,936639,22640,472595,1220,Operations research analysts,37,613,0.0012970937060273597
-Northern Europe,50289,936639,22640,472595,0725,"Meeting, convention, and event planners",33,611,0.0012928617526634855
-Northern Europe,50289,936639,22640,472595,4340,Animal trainers,30,607,0.0012843978459357377
-Northern Europe,50289,936639,22640,472595,9600,Industrial truck and tractor operators,14,603,0.00127593393920799
-Northern Europe,50289,936639,22640,472595,2840,Technical writers,22,601,0.001271701985844116
-Northern Europe,50289,936639,22640,472595,4800,Advertising sales agents,25,593,0.0012547741723886203
-Northern Europe,50289,936639,22640,472595,8610,Stationary engineers and boiler operators,15,589,0.0012463102656608725
-Northern Europe,50289,936639,22640,472595,3010,Dentists,29,584,0.0012357303822511875
-Northern Europe,50289,936639,22640,472595,3150,Occupational therapists,20,579,0.0012251504988415028
-Northern Europe,50289,936639,22640,472595,7800,Bakers,21,574,0.001214570615431818
-Northern Europe,50289,936639,22640,472595,5260,File clerks,14,573,0.001212454638749881
-Northern Europe,50289,936639,22640,472595,0860,Insurance underwriters,25,568,0.0012018747553401961
-Northern Europe,50289,936639,22640,472595,0600,Cost estimators,31,564,0.0011934108486124483
-Northern Europe,50289,936639,22640,472595,0102,Facilities managers,28,551,0.0011659031517472678
-Northern Europe,50289,936639,22640,472595,3421,Pharmacy technicians,29,525,0.0011108877580169067
-Northern Europe,50289,936639,22640,472595,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",19,525,0.0011108877580169067
-Northern Europe,50289,936639,22640,472595,2865,"Media and communication workers, all other",14,523,0.0011066558046530328
-Northern Europe,50289,936639,22640,472595,2435,Librarians and media collections specialists,29,521,0.001102423851289159
-Northern Europe,50289,936639,22640,472595,2004,Mental health counselors,23,517,0.001093959944561411
-Northern Europe,50289,936639,22640,472595,7315,"Heating, air conditioning, and refrigeration mechanics and installers",23,514,0.0010876120145156
-Northern Europe,50289,936639,22640,472595,2635,Interior designers,27,512,0.0010833800611517262
-Northern Europe,50289,936639,22640,472595,4930,Sales engineers,27,512,0.0010833800611517262
-Northern Europe,50289,936639,22640,472595,9005,Supervisors of transportation and material moving workers,24,512,0.0010833800611517262
-Northern Europe,50289,936639,22640,472595,2700,Actors,24,510,0.0010791481077878523
-Northern Europe,50289,936639,22640,472595,2400,"Archivists, curators, and museum technicians",29,504,0.0010664522476962303
-Northern Europe,50289,936639,22640,472595,1800,Economists,25,493,0.0010431765041949237
-Northern Europe,50289,936639,22640,472595,2350,Tutors,30,493,0.0010431765041949237
-Northern Europe,50289,936639,22640,472595,3630,Massage therapists,28,490,0.0010368285741491129
-Northern Europe,50289,936639,22640,472595,7140,Aircraft mechanics and service technicians,25,483,0.0010220167373755542
-Northern Europe,50289,936639,22640,472595,1980,Occupational health and safety specialists and technicians,14,482,0.001019900760693617
-Northern Europe,50289,936639,22640,472595,7330,Industrial and refractory machinery mechanics,25,477,0.0010093208772839323
-Northern Europe,50289,936639,22640,472595,3300,Clinical laboratory technologists and technicians,22,475,0.0010050889239200584
-Northern Europe,50289,936639,22640,472595,1970,"Other life, physical, and social science technicians",28,474,0.0010029729472381215
-Northern Europe,50289,936639,22640,472595,1720,Chemists and materials scientists,26,473,0.0010008569705561845
-Northern Europe,50289,936639,22640,472595,2025,Other community and social service specialists,13,468,9.902770871464996e-4
-Northern Europe,50289,936639,22640,472595,3323,Radiologic technologists and technicians,20,460,9.73349273691004e-4
-Northern Europe,50289,936639,22640,472595,1350,Chemical engineers,24,457,9.67001343645193e-4
-Northern Europe,50289,936639,22640,472595,0810,Property appraisers and assessors,16,456,9.648853669632561e-4
-Northern Europe,50289,936639,22640,472595,3640,Dental assistants,19,454,9.606534135993822e-4
-Northern Europe,50289,936639,22640,472595,0726,Fundraisers,26,453,9.585374369174451e-4
-Northern Europe,50289,936639,22640,472595,5410,Reservation and transportation ticket agents and travel clerks,24,450,9.521895068716343e-4
-Northern Europe,50289,936639,22640,472595,3601,Home health aides,18,439,9.289137633703276e-4
-Northern Europe,50289,936639,22640,472595,4622,Recreation workers,25,438,9.267977866883907e-4
-Northern Europe,50289,936639,22640,472595,7640,"Other installation, maintenance, and repair workers",16,433,9.162179032787058e-4
-Northern Europe,50289,936639,22640,472595,1750,"Geoscientists and hydrologists, except geographers",23,431,9.119859499148319e-4
-Northern Europe,50289,936639,22640,472595,3310,Dental hygienists,19,427,9.03522043187084e-4
-Northern Europe,50289,936639,22640,472595,0335,Entertainment and recreation managers,20,421,8.908261830954622e-4
-Northern Europe,50289,936639,22640,472595,2721,Athletes and sports competitors,18,421,8.908261830954622e-4
-Northern Europe,50289,936639,22640,472595,5165,Other financial clerks,19,419,8.865942297315883e-4
-Northern Europe,50289,936639,22640,472595,2001,Substance abuse and behavioral disorder counselors,20,408,8.633184862302817e-4
-Northern Europe,50289,936639,22640,472595,5550,Postal service mail carriers,22,406,8.590865328664078e-4
-Northern Europe,50289,936639,22640,472595,4140,Dishwashers,22,403,8.52738602820597e-4
-Northern Europe,50289,936639,22640,472595,1106,Computer network architects,19,400,8.46390672774786e-4
-Northern Europe,50289,936639,22640,472595,4655,"Personal care and service workers, all other",25,390,8.252309059554164e-4
-Northern Europe,50289,936639,22640,472595,0520,"Wholesale and retail buyers, except farm products",23,388,8.209989525915424e-4
-Northern Europe,50289,936639,22640,472595,3100,Surgeons,20,382,8.083030924999206e-4
-Northern Europe,50289,936639,22640,472595,9122,"Bus drivers, transit and intercity",20,381,8.061871158179837e-4
-Northern Europe,50289,936639,22640,472595,1610,Biological scientists,21,377,7.977232090902359e-4
-Northern Europe,50289,936639,22640,472595,5600,"Production, planning, and expediting clerks",20,374,7.913752790444249e-4
-Northern Europe,50289,936639,22640,472595,5810,Data entry keyers,18,374,7.913752790444249e-4
-Northern Europe,50289,936639,22640,472595,0360,Natural sciences managers,17,371,7.850273489986141e-4
-Northern Europe,50289,936639,22640,472595,1200,Actuaries,17,371,7.850273489986141e-4
-Northern Europe,50289,936639,22640,472595,2770,"Entertainers and performers, sports and related workers, all other",16,370,7.829113723166771e-4
-Northern Europe,50289,936639,22640,472595,8140,"Welding, soldering, and brazing workers",21,367,7.765634422708662e-4
-Northern Europe,50289,936639,22640,472595,2555,Other educational instruction and library workers,18,366,7.744474655889292e-4
-Northern Europe,50289,936639,22640,472595,3820,Detectives and criminal investigators,19,362,7.659835588611813e-4
-Northern Europe,50289,936639,22640,472595,6305,Construction equipment operators,19,362,7.659835588611813e-4
-Northern Europe,50289,936639,22640,472595,7020,Radio and telecommunications equipment installers and repairers,18,361,7.638675821792444e-4
-Northern Europe,50289,936639,22640,472595,5140,Payroll and timekeeping clerks,14,356,7.532876987695595e-4
-Northern Europe,50289,936639,22640,472595,3424,Veterinary technologists and technicians,13,355,7.511717220876226e-4
-Northern Europe,50289,936639,22640,472595,5420,Other information and records clerks,16,354,7.490557454056856e-4
-Northern Europe,50289,936639,22640,472595,0500,"Agents and business managers of artists, performers, and athletes",19,352,7.448237920418117e-4
-Northern Europe,50289,936639,22640,472595,2632,Fashion designers,16,348,7.363598853140638e-4
-Northern Europe,50289,936639,22640,472595,7210,Bus and truck mechanics and diesel engine specialists,19,345,7.30011955268253e-4
-Northern Europe,50289,936639,22640,472595,5360,"Human resources assistants, except payroll and timekeeping",11,344,7.278959785863159e-4
-Northern Europe,50289,936639,22640,472595,0040,Advertising and promotions managers,22,342,7.23664025222442e-4
-Northern Europe,50289,936639,22640,472595,8225,Other metal workers and plastic workers,18,326,6.898083983114506e-4
-Northern Europe,50289,936639,22640,472595,6050,Other agricultural workers,22,322,6.813444915837027e-4
-Northern Europe,50289,936639,22640,472595,4830,Travel agents,23,319,6.749965615378919e-4
-Northern Europe,50289,936639,22640,472595,6460,Plasterers and stucco masons,12,319,6.749965615378919e-4
-Northern Europe,50289,936639,22640,472595,0640,"Compensation, benefits, and job analysis specialists",10,316,6.686486314920809e-4
-Northern Europe,50289,936639,22640,472595,0940,Tax preparers,12,316,6.686486314920809e-4
-Northern Europe,50289,936639,22640,472595,2751,Music directors and composers,17,316,6.686486314920809e-4
-Northern Europe,50289,936639,22640,472595,4950,"Door-to-door sales workers, news and street vendors, and related workers",17,311,6.580687480823961e-4
-Northern Europe,50289,936639,22640,472595,3515,Medical records specialists,13,307,6.496048413546483e-4
-Northern Europe,50289,936639,22640,472595,4530,"Baggage porters, bellhops, and concierges",15,302,6.390249579449635e-4
-Northern Europe,50289,936639,22640,472595,2006,"Counselors, all other",18,301,6.369089812630265e-4
-Northern Europe,50289,936639,22640,472595,1840,Urban and regional planners,13,299,6.326770278991525e-4
-Northern Europe,50289,936639,22640,472595,2861,Interpreters and translators,15,299,6.326770278991525e-4
-Northern Europe,50289,936639,22640,472595,3110,Physician assistants,15,291,6.157492144436568e-4
-Northern Europe,50289,936639,22640,472595,9415,Passenger attendants,2,291,6.157492144436568e-4
-Northern Europe,50289,936639,22640,472595,3910,Private detectives and investigators,16,290,6.136332377617199e-4
-Northern Europe,50289,936639,22640,472595,4522,Skincare specialists,13,290,6.136332377617199e-4
-Northern Europe,50289,936639,22640,472595,3422,Psychiatric technicians,8,289,6.115172610797829e-4
-Northern Europe,50289,936639,22640,472595,3740,Firefighters,18,289,6.115172610797829e-4
-Northern Europe,50289,936639,22640,472595,2170,"Title examiners, abstractors, and searchers",12,284,6.009373776700981e-4
-Northern Europe,50289,936639,22640,472595,4435,Other entertainment attendants and related workers,19,284,6.009373776700981e-4
-Northern Europe,50289,936639,22640,472595,5522,"Dispatchers, except police, fire, and ambulance",15,282,5.967054243062242e-4
-Northern Europe,50289,936639,22640,472595,3030,Dietitians and nutritionists,11,281,5.945894476242872e-4
-Northern Europe,50289,936639,22640,472595,4521,Manicurists and pedicurists,15,281,5.945894476242872e-4
-Northern Europe,50289,936639,22640,472595,4400,Gambling services workers,10,278,5.882415175784763e-4
-Northern Europe,50289,936639,22640,472595,1520,"Petroleum, mining and geological engineers, including mining safety engineers",10,276,5.840095642146024e-4
-Northern Europe,50289,936639,22640,472595,3645,Medical assistants,20,276,5.840095642146024e-4
-Northern Europe,50289,936639,22640,472595,4525,Other personal appearance workers,10,274,5.797776108507285e-4
-Northern Europe,50289,936639,22640,472595,6330,"Drywall installers, ceiling tile installers, and tapers",9,273,5.776616341687914e-4
-Northern Europe,50289,936639,22640,472595,1400,Computer hardware engineers,16,271,5.734296808049175e-4
-Northern Europe,50289,936639,22640,472595,3648,Veterinary assistants and laboratory animal caretakers,14,266,5.628497973952327e-4
-Northern Europe,50289,936639,22640,472595,2016,Social and human service assistants,14,263,5.565018673494218e-4
-Northern Europe,50289,936639,22640,472595,3725,"Miscellaneous first-line supervisors, protective service workers",12,263,5.565018673494218e-4
-Northern Europe,50289,936639,22640,472595,0137,Training and development managers,15,262,5.543858906674849e-4
-Northern Europe,50289,936639,22640,472595,3040,Optometrists,6,256,5.416900305758631e-4
-Northern Europe,50289,936639,22640,472595,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,7,256,5.416900305758631e-4
-Northern Europe,50289,936639,22640,472595,3649,Phlebotomists,6,250,5.289941704842413e-4
-Northern Europe,50289,936639,22640,472595,0930,"Tax examiners and collectors, and revenue agents",7,247,5.226462404384303e-4
-Northern Europe,50289,936639,22640,472595,1306,Landscape architects,14,247,5.226462404384303e-4
-Northern Europe,50289,936639,22640,472595,3655,Other healthcare support workers,14,242,5.120663570287456e-4
-Northern Europe,50289,936639,22640,472595,3230,Speech-language pathologists,18,241,5.099503803468085e-4
-Northern Europe,50289,936639,22640,472595,9310,Ship and boat captains and operators,12,241,5.099503803468085e-4
-Northern Europe,50289,936639,22640,472595,2180,"Legal support workers, all other",12,239,5.057184269829346e-4
-Northern Europe,50289,936639,22640,472595,6240,"Carpet, floor, and tile installers and finishers",11,239,5.057184269829346e-4
-Northern Europe,50289,936639,22640,472595,2060,"Religious workers, all other",13,238,5.036024503009977e-4
-Northern Europe,50289,936639,22640,472595,3401,Emergency medical technicians,13,234,4.951385435732498e-4
-Northern Europe,50289,936639,22640,472595,9121,"Bus drivers, school",15,234,4.951385435732498e-4
-Northern Europe,50289,936639,22640,472595,1545,Other drafters,10,230,4.86674636845502e-4
-Northern Europe,50289,936639,22640,472595,5100,Bill and account collectors,9,229,4.84558660163565e-4
-Northern Europe,50289,936639,22640,472595,9610,Cleaners of vehicles and equipment,15,226,4.782107301177541e-4
-Northern Europe,50289,936639,22640,472595,4740,Counter and rental clerks,7,225,4.7609475343581714e-4
-Northern Europe,50289,936639,22640,472595,3945,Transportation security screeners,2,224,4.739787767538802e-4
-Northern Europe,50289,936639,22640,472595,5310,"Interviewers, except eligibility and loan",13,222,4.6974682339000624e-4
-Northern Europe,50289,936639,22640,472595,7220,Heavy vehicle and mobile equipment service technicians and mechanics,9,222,4.6974682339000624e-4
-Northern Europe,50289,936639,22640,472595,1310,"Surveyors, cartographers, and photogrammetrists",9,219,4.6339889334419534e-4
-Northern Europe,50289,936639,22640,472595,3646,Medical transcriptionists,7,219,4.6339889334419534e-4
-Northern Europe,50289,936639,22640,472595,8350,"Tailors, dressmakers, and sewers",11,218,4.612829166622584e-4
-Northern Europe,50289,936639,22640,472595,3402,Paramedics,12,216,4.5705096329838444e-4
-Northern Europe,50289,936639,22640,472595,8830,Photographic process workers and processing machine operators,13,216,4.5705096329838444e-4
-Northern Europe,50289,936639,22640,472595,4120,"Food servers, nonrestaurant",6,215,4.549349866164475e-4
-Northern Europe,50289,936639,22640,472595,1022,Software quality assurance analysts and testers,10,214,4.5281900993451055e-4
-Northern Europe,50289,936639,22640,472595,1860,Other social scientists,11,211,4.4647107988869965e-4
-Northern Europe,50289,936639,22640,472595,9150,"Motor vehicle operators, all other",8,211,4.4647107988869965e-4
-Northern Europe,50289,936639,22640,472595,8255,Printing press operators,12,205,4.3377521979707785e-4
-Northern Europe,50289,936639,22640,472595,1700,Astronomers and physicists,12,201,4.2531131306933e-4
-Northern Europe,50289,936639,22640,472595,3940,Crossing guards and flaggers,5,199,4.2107935970545605e-4
-Northern Europe,50289,936639,22640,472595,7855,"Food processing workers, all other",5,199,4.2107935970545605e-4
-Northern Europe,50289,936639,22640,472595,4130,Dining room and cafeteria attendants and bartender helpers,12,198,4.189633830235191e-4
-Northern Europe,50289,936639,22640,472595,9640,"Packers and packagers, hand",10,198,4.189633830235191e-4
-Northern Europe,50289,936639,22640,472595,6660,Construction and building inspectors,12,193,4.0838349961383425e-4
-Northern Europe,50289,936639,22640,472595,0101,Administrative services managers,13,192,4.062675229318973e-4
-Northern Europe,50289,936639,22640,472595,1005,Computer and information research scientists,13,191,4.041515462499603e-4
-Northern Europe,50289,936639,22640,472595,3605,Orderlies and psychiatric aides,7,191,4.041515462499603e-4
-Northern Europe,50289,936639,22640,472595,8750,Jewelers and precious stone and metal workers,10,190,4.0203556956802336e-4
-Northern Europe,50289,936639,22640,472595,2805,Broadcast announcers and radio disc jockeys,9,189,3.999195928860864e-4
-Northern Europe,50289,936639,22640,472595,5320,"Library assistants, clerical",9,187,3.9568763952221246e-4
-Northern Europe,50289,936639,22640,472595,8620,Water and wastewater treatment plant and system operators,11,187,3.9568763952221246e-4
-Northern Europe,50289,936639,22640,472595,4640,Residential advisors,19,186,3.935716628402755e-4
-Northern Europe,50289,936639,22640,472595,2050,"Directors, religious activities and education",8,184,3.8933970947640156e-4
-Northern Europe,50289,936639,22640,472595,5730,Medical secretaries and administrative assistants,12,176,3.7241189602090586e-4
-Northern Europe,50289,936639,22640,472595,1910,Biological technicians,6,175,3.7029591933896886e-4
-Northern Europe,50289,936639,22640,472595,1551,Electrical and electronic engineering technologists and technicians,15,174,3.681799426570319e-4
-Northern Europe,50289,936639,22640,472595,5350,Correspondence clerks and order clerks,11,172,3.6394798929315796e-4
-Northern Europe,50289,936639,22640,472595,5840,Insurance claims and policy processing clerks,10,172,3.6394798929315796e-4
-Northern Europe,50289,936639,22640,472595,6720,Hazardous materials removal workers,3,170,3.5971603592928407e-4
-Northern Europe,50289,936639,22640,472595,8650,"Crushing, grinding, polishing, mixing, and blending workers",7,170,3.5971603592928407e-4
-Northern Europe,50289,936639,22640,472595,3960,Other protective service workers,12,169,3.576000592473471e-4
-Northern Europe,50289,936639,22640,472595,1440,Marine engineers and naval architects,6,163,3.449041991557253e-4
-Northern Europe,50289,936639,22640,472595,9800,Military officer special and tactical operations leaders,4,162,3.427882224737883e-4
-Northern Europe,50289,936639,22640,472595,3620,Physical therapist assistants and aides,11,161,3.4067224579185137e-4
-Northern Europe,50289,936639,22640,472595,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",12,161,3.4067224579185137e-4
-Northern Europe,50289,936639,22640,472595,1822,School psychologists,8,159,3.364402924279774e-4
-Northern Europe,50289,936639,22640,472595,7010,"Computer, automated teller, and office machine repairers",10,158,3.3432431574604047e-4
-Northern Europe,50289,936639,22640,472595,9825,Military enlisted tactical operations and air/weapons specialists and crew members,13,157,3.322083390641035e-4
-Northern Europe,50289,936639,22640,472595,7720,"Electrical, electronics, and electromechanical assemblers",5,156,3.300923623821666e-4
-Northern Europe,50289,936639,22640,472595,8800,Packaging and filling machine operators and tenders,6,154,3.258604090182926e-4
-Northern Europe,50289,936639,22640,472595,9510,Crane and tower operators,5,153,3.237444323363557e-4
-Northern Europe,50289,936639,22640,472595,3710,First-line supervisors of police and detectives,8,151,3.195124789724817e-4
-Northern Europe,50289,936639,22640,472595,1420,Environmental engineers,8,150,3.173965022905448e-4
-Northern Europe,50289,936639,22640,472595,8500,Cabinetmakers and bench carpenters,8,148,3.131645489266708e-4
-Northern Europe,50289,936639,22640,472595,5160,Tellers,11,147,3.110485722447339e-4
-Northern Europe,50289,936639,22640,472595,3220,Respiratory therapists,10,144,3.04700642198923e-4
-Northern Europe,50289,936639,22640,472595,8810,Painting workers,9,143,3.02584665516986e-4
-Northern Europe,50289,936639,22640,472595,8920,"Molders, shapers, and casters, except metal and plastic",7,141,2.983527121531121e-4
-Northern Europe,50289,936639,22640,472595,7150,Automotive body and related repairers,7,138,2.920047821073012e-4
-Northern Europe,50289,936639,22640,472595,3550,Other healthcare practitioners and technical occupations,9,137,2.8988880542536423e-4
-Northern Europe,50289,936639,22640,472595,9430,Other transportation workers,5,137,2.8988880542536423e-4
-Northern Europe,50289,936639,22640,472595,3520,"Opticians, dispensing",8,135,2.856568520614903e-4
-Northern Europe,50289,936639,22640,472595,0820,Budget analysts,8,134,2.8354087537955334e-4
-Northern Europe,50289,936639,22640,472595,5300,"Hotel, motel, and resort desk clerks",7,134,2.8354087537955334e-4
-Northern Europe,50289,936639,22640,472595,6115,Fishing and hunting workers,3,134,2.8354087537955334e-4
-Northern Europe,50289,936639,22640,472595,7905,Computer numerically controlled tool operators and programmers,5,132,2.793089220156794e-4
-Northern Europe,50289,936639,22640,472595,8640,"Chemical processing machine setters, operators, and tenders",8,132,2.793089220156794e-4
-Northern Europe,50289,936639,22640,472595,1450,Materials engineers,8,131,2.7719294533374244e-4
-Northern Europe,50289,936639,22640,472595,3000,Chiropractors,7,131,2.7719294533374244e-4
-Northern Europe,50289,936639,22640,472595,3802,Correctional officers and jailers,8,131,2.7719294533374244e-4
-Northern Europe,50289,936639,22640,472595,3322,Diagnostic medical sonographers,9,130,2.7507696865180543e-4
-Northern Europe,50289,936639,22640,472595,6250,"Cement masons, concrete finishers, and terrazzo workers",4,130,2.7507696865180543e-4
-Northern Europe,50289,936639,22640,472595,5250,"Eligibility interviewers, government programs",3,126,2.666130619240576e-4
-Northern Europe,50289,936639,22640,472595,4750,Parts salespersons,6,124,2.623811085601837e-4
-Northern Europe,50289,936639,22640,472595,3270,"Healthcare diagnosing or treating practitioners, all other",3,122,2.5814915519630974e-4
-Northern Europe,50289,936639,22640,472595,4940,Telemarketers,3,121,2.560331785143728e-4
-Northern Europe,50289,936639,22640,472595,1340,Biomedical and agricultural engineers,9,120,2.539172018324358e-4
-Northern Europe,50289,936639,22640,472595,5330,Loan interviewers and clerks,7,120,2.539172018324358e-4
-Northern Europe,50289,936639,22640,472595,3321,Cardiovascular technologists and technicians,4,117,2.475692717866249e-4
-Northern Europe,50289,936639,22640,472595,4252,Tree trimmers and pruners,6,117,2.475692717866249e-4
-Northern Europe,50289,936639,22640,472595,9810,First-line enlisted military supervisors,3,117,2.475692717866249e-4
-Northern Europe,50289,936639,22640,472595,7810,"Butchers and other meat, poultry, and fish processing workers",5,114,2.4122134174081402e-4
-Northern Europe,50289,936639,22640,472595,1821,Clinical and counseling psychologists,7,113,2.3910536505887704e-4
-Northern Europe,50289,936639,22640,472595,7130,Security and fire alarm systems installers,7,112,2.369893883769401e-4
-Northern Europe,50289,936639,22640,472595,2636,Merchandise displayers and window trimmers,4,108,2.2852548164919222e-4
-Northern Europe,50289,936639,22640,472595,5720,Legal secretaries and administrative assistants,7,108,2.2852548164919222e-4
-Northern Europe,50289,936639,22640,472595,4420,"Ushers, lobby attendants, and ticket takers",5,105,2.2217755160338132e-4
-Northern Europe,50289,936639,22640,472595,6005,"First-line supervisors of farming, fishing, and forestry workers",5,105,2.2217755160338132e-4
-Northern Europe,50289,936639,22640,472595,1560,Surveying and mapping technicians,8,104,2.2006157492144437e-4
-Northern Europe,50289,936639,22640,472595,4240,Pest control workers,4,104,2.2006157492144437e-4
-Northern Europe,50289,936639,22640,472595,3261,Acupuncturists,6,103,2.179455982395074e-4
-Northern Europe,50289,936639,22640,472595,7420,Telecommunications line installers and repairers,6,101,2.1371364487563348e-4
-Northern Europe,50289,936639,22640,472595,6740,Rail-track laying and maintenance equipment operators,2,98,2.0736571482982258e-4
-Northern Europe,50289,936639,22640,472595,5040,"Communications equipment operators, all other",2,96,2.0313376146594865e-4
-Northern Europe,50289,936639,22640,472595,7240,Small engine mechanics,5,96,2.0313376146594865e-4
-Northern Europe,50289,936639,22640,472595,7840,Food batchmakers,4,96,2.0313376146594865e-4
-Northern Europe,50289,936639,22640,472595,4330,Supervisors of personal care and service workers,5,95,2.0101778478401168e-4
-Northern Europe,50289,936639,22640,472595,7540,Locksmiths and safe repairers,5,94,1.989018081020747e-4
-Northern Europe,50289,936639,22640,472595,9040,Air traffic controllers and airfield operations specialists,5,94,1.989018081020747e-4
-Northern Europe,50289,936639,22640,472595,1600,Agricultural and food scientists,6,93,1.9678583142013775e-4
-Northern Europe,50289,936639,22640,472595,2631,Commercial and industrial designers,5,91,1.9255387805626383e-4
-Northern Europe,50289,936639,22640,472595,5920,Statistical assistants,7,90,1.9043790137432686e-4
-Northern Europe,50289,936639,22640,472595,2011,"Child, family, and school social workers",5,89,1.8832192469238988e-4
-Northern Europe,50289,936639,22640,472595,2003,Marriage and family therapists,5,86,1.8197399464657898e-4
-Northern Europe,50289,936639,22640,472595,6400,Insulation workers,2,81,1.7139411123689416e-4
-Northern Europe,50289,936639,22640,472595,2633,Floral designers,5,80,1.692781345549572e-4
-Northern Europe,50289,936639,22640,472595,5220,"Court, municipal, and license clerks",6,80,1.692781345549572e-4
-Northern Europe,50289,936639,22640,472595,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",4,80,1.692781345549572e-4
-Northern Europe,50289,936639,22640,472595,2015,Probation officers and correctional treatment specialists,5,79,1.6716215787302024e-4
-Northern Europe,50289,936639,22640,472595,9365,Transportation service attendants,5,79,1.6716215787302024e-4
-Northern Europe,50289,936639,22640,472595,4500,Barbers,4,77,1.629302045091463e-4
-Northern Europe,50289,936639,22640,472595,7410,Electrical power-line installers and repairers,4,77,1.629302045091463e-4
-Northern Europe,50289,936639,22640,472595,3430,Dietetic technicians and ophthalmic medical technicians,4,76,1.6081422782720934e-4
-Northern Europe,50289,936639,22640,472595,0830,Credit analysts,4,75,1.586982511452724e-4
-Northern Europe,50289,936639,22640,472595,1541,Architectural and civil drafters,4,74,1.565822744633354e-4
-Northern Europe,50289,936639,22640,472595,1745,"Environmental scientists and specialists, including health",7,74,1.565822744633354e-4
-Northern Europe,50289,936639,22640,472595,6520,Sheet metal workers,5,74,1.565822744633354e-4
-Northern Europe,50289,936639,22640,472595,3200,Radiation therapists,2,73,1.5446629778139844e-4
-Northern Europe,50289,936639,22640,472595,1920,Chemical technicians,5,71,1.5023434441752451e-4
-Northern Europe,50289,936639,22640,472595,7120,Electronic home entertainment equipment installers and repairers,4,71,1.5023434441752451e-4
-Northern Europe,50289,936639,22640,472595,7740,Structural metal fabricators and fitters,4,71,1.5023434441752451e-4
-Northern Europe,50289,936639,22640,472595,2740,Dancers and choreographers,5,70,1.4811836773558757e-4
-Northern Europe,50289,936639,22640,472595,3900,Animal control workers,2,70,1.4811836773558757e-4
-Northern Europe,50289,936639,22640,472595,6010,Agricultural inspectors,3,70,1.4811836773558757e-4
-Northern Europe,50289,936639,22640,472595,7350,"Maintenance workers, machinery",2,70,1.4811836773558757e-4
-Northern Europe,50289,936639,22640,472595,7360,Millwrights,5,70,1.4811836773558757e-4
-Northern Europe,50289,936639,22640,472595,2012,Healthcare social workers,4,69,1.460023910536506e-4
-Northern Europe,50289,936639,22640,472595,3423,Surgical technologists,3,68,1.4388641437171362e-4
-Northern Europe,50289,936639,22640,472595,2013,Mental health and substance abuse social workers,3,66,1.396544610078397e-4
-Northern Europe,50289,936639,22640,472595,3720,First-line supervisors of firefighting and prevention workers,3,66,1.396544610078397e-4
-Northern Europe,50289,936639,22640,472595,5521,Public safety telecommunicators,4,66,1.396544610078397e-4
-Northern Europe,50289,936639,22640,472595,6515,Roofers,4,66,1.396544610078397e-4
-Northern Europe,50289,936639,22640,472595,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",3,65,1.3753848432590272e-4
-Northern Europe,50289,936639,22640,472595,4540,Tour and travel guides,5,64,1.3542250764396577e-4
-Northern Europe,50289,936639,22640,472595,9300,"Sailors and marine oilers, and ship engineers",2,64,1.3542250764396577e-4
-Northern Europe,50289,936639,22640,472595,4900,"Models, demonstrators, and product promoters",5,63,1.333065309620288e-4
-Northern Europe,50289,936639,22640,472595,8910,Etchers and engravers,3,63,1.333065309620288e-4
-Northern Europe,50289,936639,22640,472595,7430,Precision instrument and equipment repairers,5,62,1.3119055428009185e-4
-Northern Europe,50289,936639,22640,472595,5850,"Mail clerks and mail machine operators, except postal service",3,60,1.269586009162179e-4
-Northern Europe,50289,936639,22640,472595,0135,Compensation and benefits managers,3,59,1.2484262423428095e-4
-Northern Europe,50289,936639,22640,472595,1900,Agricultural and food science technicians,2,59,1.2484262423428095e-4
-Northern Europe,50289,936639,22640,472595,3324,Magnetic resonance imaging technologists,6,59,1.2484262423428095e-4
-Northern Europe,50289,936639,22640,472595,6360,Glaziers,2,58,1.2272664755234397e-4
-Northern Europe,50289,936639,22640,472595,7320,Home appliance repairers,2,58,1.2272664755234397e-4
-Northern Europe,50289,936639,22640,472595,3256,Nurse anesthetists,4,57,1.2061067087040701e-4
-Northern Europe,50289,936639,22640,472595,8450,Upholsterers,4,57,1.2061067087040701e-4
-Northern Europe,50289,936639,22640,472595,6530,Structural iron and steel workers,3,56,1.1849469418847005e-4
-Northern Europe,50289,936639,22640,472595,5150,Procurement clerks,3,54,1.1426274082459611e-4
-Northern Europe,50289,936639,22640,472595,6710,Fence erectors,3,54,1.1426274082459611e-4
-Northern Europe,50289,936639,22640,472595,8465,"Other textile, apparel, and furnishings workers",3,54,1.1426274082459611e-4
-Northern Europe,50289,936639,22640,472595,7030,Avionics technicians,3,53,1.1214676414265915e-4
-Northern Europe,50289,936639,22640,472595,3330,Nuclear medicine technologists and medical dosimetrists,5,52,1.1003078746072219e-4
-Northern Europe,50289,936639,22640,472595,4255,Other grounds maintenance workers,2,51,1.0791481077878521e-4
-Northern Europe,50289,936639,22640,472595,8320,Sewing machine operators,4,50,1.0579883409684825e-4
-Northern Europe,50289,936639,22640,472595,9760,Other material moving workers,2,50,1.0579883409684825e-4
-Northern Europe,50289,936639,22640,472595,2440,Library technicians,5,49,1.0368285741491129e-4
-Northern Europe,50289,936639,22640,472595,8600,"Power plant operators, distributors, and dispatchers",3,49,1.0368285741491129e-4
-Northern Europe,50289,936639,22640,472595,0425,Emergency management directors,4,48,1.0156688073297433e-4
-Northern Europe,50289,936639,22640,472595,2005,Rehabilitation counselors,4,48,1.0156688073297433e-4
-Northern Europe,50289,936639,22640,472595,6765,Other construction and related workers,2,47,9.945090405103735e-5
-Northern Europe,50289,936639,22640,472595,5020,Telephone operators,3,46,9.733492736910039e-5
-Northern Europe,50289,936639,22640,472595,2723,"Umpires, referees, and other sports officials",3,44,9.310297400522647e-5
-Northern Europe,50289,936639,22640,472595,3647,Pharmacy aides,3,43,9.098699732328949e-5
-Northern Europe,50289,936639,22640,472595,5230,"Credit authorizers, checkers, and clerks",3,43,9.098699732328949e-5
-Northern Europe,50289,936639,22640,472595,2105,Judicial law clerks,3,42,8.887102064135253e-5
-Northern Europe,50289,936639,22640,472595,2755,"Disc jockeys, except radio",1,38,8.040711391360467e-5
-Northern Europe,50289,936639,22640,472595,8335,Shoe and leather workers,2,37,7.82911372316677e-5
-Northern Europe,50289,936639,22640,472595,9141,Shuttle drivers and chauffeurs,3,37,7.82911372316677e-5
-Northern Europe,50289,936639,22640,472595,8130,Tool and die makers,3,35,7.405918386779378e-5
-Northern Europe,50289,936639,22640,472595,3120,Podiatrists,1,34,7.194320718585681e-5
-Northern Europe,50289,936639,22640,472595,5500,Cargo and freight agents,2,33,6.982723050391985e-5
-Northern Europe,50289,936639,22640,472595,8940,Tire builders,1,32,6.771125382198288e-5
-Northern Europe,50289,936639,22640,472595,6800,"Derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining",1,31,6.559527714004592e-5
-Northern Europe,50289,936639,22640,472595,3750,Fire inspectors,3,30,6.347930045810895e-5
-Northern Europe,50289,936639,22640,472595,6210,Boilermakers,1,30,6.347930045810895e-5
-Northern Europe,50289,936639,22640,472595,8510,Furniture finishers,2,29,6.136332377617199e-5
-Northern Europe,50289,936639,22640,472595,1935,"Environmental science and geoscience technicians, and nuclear technicians",3,28,5.9247347094235024e-5
-Northern Europe,50289,936639,22640,472595,8250,Prepress technicians and workers,2,28,5.9247347094235024e-5
-Northern Europe,50289,936639,22640,472595,1710,Atmospheric and space scientists,2,27,5.7131370412298055e-5
-Northern Europe,50289,936639,22640,472595,3610,Occupational therapy assistants and aides,3,26,5.5015393730361094e-5
-Northern Europe,50289,936639,22640,472595,5540,Postal service clerks,2,26,5.5015393730361094e-5
-Northern Europe,50289,936639,22640,472595,8310,"Pressers, textile, garment, and related materials",2,26,5.5015393730361094e-5
-Northern Europe,50289,936639,22640,472595,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,25,5.2899417048424125e-5
-Northern Europe,50289,936639,22640,472595,6540,Solar photovoltaic installers,1,25,5.2899417048424125e-5
-Northern Europe,50289,936639,22640,472595,4465,"Morticians, undertakers, and funeral arrangers",3,24,5.078344036648716e-5
-Northern Europe,50289,936639,22640,472595,6730,Highway maintenance workers,1,24,5.078344036648716e-5
-Northern Europe,50289,936639,22640,472595,8720,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",1,24,5.078344036648716e-5
-Northern Europe,50289,936639,22640,472595,9210,Locomotive engineers and operators,3,22,4.655148700261323e-5
-Northern Europe,50289,936639,22640,472595,3210,Recreational therapists,2,21,4.4435510320676265e-5
-Northern Europe,50289,936639,22640,472595,8300,Laundry and dry-cleaning workers,2,21,4.4435510320676265e-5
-Northern Europe,50289,936639,22640,472595,7100,"Other electrical and electronic equipment mechanics, installers, and repairers",2,20,4.23195336387393e-5
-Northern Europe,50289,936639,22640,472595,9650,Pumping station operators,2,20,4.23195336387393e-5
-Northern Europe,50289,936639,22640,472595,7300,Control and valve installers and repairers,1,19,4.0203556956802334e-5
-Northern Europe,50289,936639,22640,472595,7830,"Food and tobacco roasting, baking, and drying machine operators and tenders",1,19,4.0203556956802334e-5
-Northern Europe,50289,936639,22640,472595,5820,Word processors and typists,1,18,3.808758027486537e-5
-Northern Europe,50289,936639,22640,472595,7510,"Coin, vending, and amusement machine servicers and repairers",1,18,3.808758027486537e-5
-Northern Europe,50289,936639,22640,472595,7850,Food cooking machine operators and tenders,1,18,3.808758027486537e-5
-Northern Europe,50289,936639,22640,472595,9110,"Ambulance drivers and attendants, except emergency medical technicians",1,18,3.808758027486537e-5
-Northern Europe,50289,936639,22640,472595,9265,Other rail transportation workers,1,18,3.808758027486537e-5
-Northern Europe,50289,936639,22640,472595,2862,Court reporters and simultaneous captioners,1,17,3.5971603592928404e-5
-Northern Europe,50289,936639,22640,472595,5900,"Office machine operators, except computer",1,15,3.1739650229054474e-5
-Northern Europe,50289,936639,22640,472595,8630,Miscellaneous plant and system operators,1,15,3.1739650229054474e-5
-Northern Europe,50289,936639,22640,472595,3946,School bus monitors,1,14,2.9623673547117512e-5
-Northern Europe,50289,936639,22640,472595,5340,New accounts clerks,1,14,2.9623673547117512e-5
-Northern Europe,50289,936639,22640,472595,0510,"Buyers and purchasing agents, farm products",1,13,2.7507696865180547e-5
-Northern Europe,50289,936639,22640,472595,5910,Proofreaders and copy markers,1,13,2.7507696865180547e-5
-Northern Europe,50289,936639,22640,472595,7160,Automotive glass installers and repairers,1,13,2.7507696865180547e-5
-Northern Europe,50289,936639,22640,472595,7610,"Helpers--installation, maintenance, and repair workers",1,12,2.539172018324358e-5
-Northern Europe,50289,936639,22640,472595,8930,"Paper goods machine setters, operators, and tenders",1,12,2.539172018324358e-5
-Northern Europe,50289,936639,22640,472595,5010,"Switchboard operators, including answering service",1,11,2.3275743501306617e-5
-Northern Europe,50289,936639,22640,472595,6850,Underground mining machine operators,1,11,2.3275743501306617e-5
-Northern Europe,50289,936639,22640,472595,8365,"Textile machine setters, operators, and tenders",1,11,2.3275743501306617e-5
-Northern Europe,50289,936639,22640,472595,9570,"Conveyor, dredge, and hoist and winch operators",1,11,2.3275743501306617e-5
-Northern Europe,50289,936639,22640,472595,3140,Audiologists,1,10,2.115976681936965e-5
-Northern Europe,50289,936639,22640,472595,7040,"Electric motor, power tool, and related repairers",1,10,2.115976681936965e-5
-Northern Europe,50289,936639,22640,472595,5560,"Postal service mail sorters, processors, and processing machine operators",1,9,1.9043790137432686e-5
-Northern Europe,50289,936639,22640,472595,6700,Elevator installers and repairers,1,9,1.9043790137432686e-5
-Northern Europe,50289,936639,22640,472595,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",2,9,1.9043790137432686e-5
-Northern Europe,50289,936639,22640,472595,9240,Railroad conductors and yardmasters,1,9,1.9043790137432686e-5
-Northern Europe,50289,936639,22640,472595,9720,Refuse and recyclable material collectors,1,9,1.9043790137432686e-5
-Northern Europe,50289,936639,22640,472595,5530,"Meter readers, utilities",1,8,1.692781345549572e-5
-Northern Europe,50289,936639,22640,472595,6040,"Graders and sorters, agricultural products",1,8,1.692781345549572e-5
-Northern Europe,50289,936639,22640,472595,6130,Logging workers,1,8,1.692781345549572e-5
-Northern Europe,50289,936639,22640,472595,6441,Pipelayers,1,5,1.0579883409684826e-5
-Northern Europe,50289,936639,22640,472595,7925,"Forming machine setters, operators, and tenders, metal and plastic",1,5,1.0579883409684826e-5
-Northern Europe,50289,936639,22640,472595,6950,Other extraction workers,1,4,8.46390672774786e-6
-Northern Europe,50289,936639,22640,472595,6600,"Helpers, construction trades",1,1,2.115976681936965e-6
+bpl_region,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Northern Europe,50289,936639,25894,524187,0440,Other managers,1561,30571,0.05832079009971632
+Northern Europe,50289,936639,25894,524187,0010,Chief executives and legislators,1107,20890,0.03985219015351392
+Northern Europe,50289,936639,25894,524187,1021,Software developers,726,14015,0.026736641694662402
+Northern Europe,50289,936639,25894,524187,2205,Postsecondary teachers,731,13687,0.026110910800916466
+Northern Europe,50289,936639,25894,524187,3255,Registered nurses,451,9073,0.017308708533405062
+Northern Europe,50289,936639,25894,524187,0710,Management analysts,450,9019,0.01720569186187372
+Northern Europe,50289,936639,25894,524187,0120,Financial managers,407,8998,0.017165629822944867
+Northern Europe,50289,936639,25894,524187,2310,Elementary and middle school teachers,383,7430,0.014174330916256984
+Northern Europe,50289,936639,25894,524187,3090,Physicians,350,7365,0.014050329367191479
+Northern Europe,50289,936639,25894,524187,0020,General and operations managers,349,7315,0.013954943560218014
+Northern Europe,50289,936639,25894,524187,4760,Retail salespersons,369,7315,0.013954943560218014
+Northern Europe,50289,936639,25894,524187,0800,Accountants and auditors,366,7200,0.013735556204179043
+Northern Europe,50289,936639,25894,524187,4700,First-line supervisors of retail sales workers,370,7116,0.013575308048463621
+Northern Europe,50289,936639,25894,524187,0110,Computer and information systems managers,337,6714,0.012808406160396957
+Northern Europe,50289,936639,25894,524187,5740,"Secretaries and administrative assistants, except legal, medical, and executive",337,6554,0.012503171578081868
+Northern Europe,50289,936639,25894,524187,0705,Project management specialists,320,6406,0.01222082958944041
+Northern Europe,50289,936639,25894,524187,5240,Customer service representatives,273,6026,0.011495897456442071
+Northern Europe,50289,936639,25894,524187,0052,Sales managers,253,5871,0.011200201454824327
+Northern Europe,50289,936639,25894,524187,0220,Construction managers,266,5801,0.011066661325061476
+Northern Europe,50289,936639,25894,524187,2100,"Lawyers, and judges, magistrates, and other judicial workers",313,5725,0.010921674898461808
+Northern Europe,50289,936639,25894,524187,4850,"Sales representatives, wholesale and manufacturing",240,5347,0.01020055819774241
+Northern Europe,50289,936639,25894,524187,0051,Marketing managers,253,5038,0.009611073910646391
+Northern Europe,50289,936639,25894,524187,4920,Real estate brokers and sales agents,246,4891,0.009330639638144402
+Northern Europe,50289,936639,25894,524187,0230,Education and childcare administrators,267,4855,0.009261961857123507
+Northern Europe,50289,936639,25894,524187,9130,Driver/sales workers and truck drivers,210,4647,0.00886515690011389
+Northern Europe,50289,936639,25894,524187,1530,Other engineers,220,4613,0.008800294551371934
+Northern Europe,50289,936639,25894,524187,1760,"Physical scientists, all other",252,4483,0.008552291453240924
+Northern Europe,50289,936639,25894,524187,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",155,4108,0.007836897900939931
+Northern Europe,50289,936639,25894,524187,6230,Carpenters,178,4089,0.007800651294290015
+Northern Europe,50289,936639,25894,524187,2360,Other teachers and instructors,192,4038,0.00770335777117708
+Northern Europe,50289,936639,25894,524187,1108,"Computer occupations, all other",179,3870,0.007382861459746236
+Northern Europe,50289,936639,25894,524187,0630,Human resources workers,188,3840,0.007325629975562156
+Northern Europe,50289,936639,25894,524187,2320,Secondary school teachers,183,3595,0.006858239521392175
+Northern Europe,50289,936639,25894,524187,2545,Teaching assistants,192,3572,0.006814362050184381
+Northern Europe,50289,936639,25894,524187,5120,"Bookkeeping, accounting, and auditing clerks",171,3538,0.006749499701442424
+Northern Europe,50289,936639,25894,524187,2722,Coaches and scouts,148,3449,0.006579712965029656
+Northern Europe,50289,936639,25894,524187,4710,First-line supervisors of non-retail sales workers,178,3436,0.006554912655216554
+Northern Europe,50289,936639,25894,524187,0735,Market research analysts and marketing specialists,141,3358,0.006406110796337948
+Northern Europe,50289,936639,25894,524187,0410,"Property, real estate, and community association managers",153,3320,0.006333617583038114
+Northern Europe,50289,936639,25894,524187,2640,Other designers,144,3284,0.006264939802017219
+Northern Europe,50289,936639,25894,524187,5000,First-line supervisors of office and administrative support workers,161,3252,0.006203892885554201
+Northern Europe,50289,936639,25894,524187,0350,Medical and health services managers,168,3135,0.005980690097236291
+Northern Europe,50289,936639,25894,524187,1006,Computer systems analysts,150,3071,0.005858596264310256
+Northern Europe,50289,936639,25894,524187,6260,Construction laborers,129,3063,0.005843334535194501
+Northern Europe,50289,936639,25894,524187,1050,Computer support specialists,147,3028,0.0057765644703130755
+Northern Europe,50289,936639,25894,524187,5860,"Office clerks, general",159,3025,0.005770841321894668
+Northern Europe,50289,936639,25894,524187,4720,Cashiers,169,2921,0.005572438843389859
+Northern Europe,50289,936639,25894,524187,0750,"Business operations specialists, all other",138,2892,0.005517115075345249
+Northern Europe,50289,936639,25894,524187,0300,Architectural and engineering managers,143,2875,0.005484683900974271
+Northern Europe,50289,936639,25894,524187,5400,Receptionists and information clerks,150,2701,0.00515274129270661
+Northern Europe,50289,936639,25894,524187,0310,Food service managers,118,2656,0.005066894066430491
+Northern Europe,50289,936639,25894,524187,0420,Social and community service managers,127,2623,0.0050039394338280046
+Northern Europe,50289,936639,25894,524187,4621,Exercise trainers and group fitness instructors,101,2591,0.004942892517364986
+Northern Europe,50289,936639,25894,524187,2600,Artists and related workers,112,2495,0.004759751767975932
+Northern Europe,50289,936639,25894,524187,1240,Other mathematical science occupations,113,2419,0.004614765341376265
+Northern Europe,50289,936639,25894,524187,0850,Personal financial advisors,117,2230,0.004254206991016565
+Northern Europe,50289,936639,25894,524187,2040,Clergy,137,2229,0.004252299274877095
+Northern Europe,50289,936639,25894,524187,2710,Producers and directors,114,2214,0.0042236835327850554
+Northern Europe,50289,936639,25894,524187,9620,"Laborers and freight, stock, and material movers, hand",116,2159,0.004118759145114243
+Northern Europe,50289,936639,25894,524187,4110,Waiters and waitresses,93,2147,0.004095866551440612
+Northern Europe,50289,936639,25894,524187,0845,Financial and investment analysts,95,2145,0.004092051119161673
+Northern Europe,50289,936639,25894,524187,4600,Childcare workers,108,2136,0.0040748816739064496
+Northern Europe,50289,936639,25894,524187,4220,Janitors and building cleaners,125,2130,0.004063435377069633
+Northern Europe,50289,936639,25894,524187,1360,Civil engineers,114,2112,0.0040290964865591855
+Northern Europe,50289,936639,25894,524187,3602,Personal care aides,110,2094,0.003994757596048738
+Northern Europe,50289,936639,25894,524187,1410,Electrical and electronics engineers,108,2066,0.0039413415441435975
+Northern Europe,50289,936639,25894,524187,9030,Aircraft pilots and flight engineers,110,2051,0.003912725802051558
+Northern Europe,50289,936639,25894,524187,2300,Preschool and kindergarten teachers,90,1950,0.0037200464719651574
+Northern Europe,50289,936639,25894,524187,1305,"Architects, except landscape and naval",88,1934,0.0036895230137336484
+Northern Europe,50289,936639,25894,524187,1010,Computer programmers,88,1928,0.0036780767168968324
+Northern Europe,50289,936639,25894,524187,5940,Other office and administrative support workers,93,1898,0.0036208452327127533
+Northern Europe,50289,936639,25894,524187,1650,Other life scientists,105,1853,0.0035349980064366343
+Northern Europe,50289,936639,25894,524187,2850,Writers and authors,97,1837,0.0035044745482051254
+Northern Europe,50289,936639,25894,524187,0140,Industrial production managers,94,1798,0.003430073618765822
+Northern Europe,50289,936639,25894,524187,5710,Executive secretaries and executive administrative assistants,86,1796,0.0034262581864868834
+Northern Europe,50289,936639,25894,524187,4820,"Securities, commodities, and financial services sales agents",80,1785,0.003405273308952721
+Northern Europe,50289,936639,25894,524187,4810,Insurance sales agents,86,1717,0.003275548611468808
+Northern Europe,50289,936639,25894,524187,4510,"Hairdressers, hairstylists, and cosmetologists",78,1710,0.003262194598492523
+Northern Europe,50289,936639,25894,524187,2634,Graphic designers,83,1702,0.003246932869376768
+Northern Europe,50289,936639,25894,524187,3930,Security guards and gaming surveillance officers,78,1660,0.003166808791519057
+Northern Europe,50289,936639,25894,524187,9645,Stockers and order fillers,88,1651,0.0031496393462638332
+Northern Europe,50289,936639,25894,524187,1460,Mechanical engineers,89,1554,0.0029645908807353102
+Northern Europe,50289,936639,25894,524187,3870,Police officers,70,1440,0.0027471112408358088
+Northern Europe,50289,936639,25894,524187,3603,Nursing assistants,67,1432,0.002731849511720054
+Northern Europe,50289,936639,25894,524187,6355,Electricians,72,1418,0.002705141485767484
+Northern Europe,50289,936639,25894,524187,4040,Bartenders,55,1417,0.0027032337696280143
+Northern Europe,50289,936639,25894,524187,0136,Human resources managers,69,1415,0.0026994183373490756
+Northern Europe,50289,936639,25894,524187,2910,Photographers,66,1393,0.002657448582280751
+Northern Europe,50289,936639,25894,524187,4965,"Sales and related workers, all other",60,1378,0.0026288328401887114
+Northern Europe,50289,936639,25894,524187,4251,Landscaping and groundskeeping workers,53,1371,0.0026154788272124262
+Northern Europe,50289,936639,25894,524187,1320,Aerospace engineers,70,1351,0.00257732450442304
+Northern Europe,50289,936639,25894,524187,8740,"Inspectors, testers, sorters, samplers, and weighers",64,1337,0.0025506164784704693
+Northern Europe,50289,936639,25894,524187,1555,"Other engineering technologists and technicians, except drafters",63,1329,0.002535354749354715
+Northern Europe,50289,936639,25894,524187,0565,Compliance officers,67,1320,0.0025181853040994913
+Northern Europe,50289,936639,25894,524187,2330,Special education teachers,61,1309,0.002497200426565329
+Northern Europe,50289,936639,25894,524187,4000,Chefs and head cooks,61,1304,0.0024876618458679824
+Northern Europe,50289,936639,25894,524187,6200,First-line supervisors of construction trades and extraction workers,68,1279,0.0024399689423812492
+Northern Europe,50289,936639,25894,524187,4030,Food preparation workers,55,1261,0.0024056300518708017
+Northern Europe,50289,936639,25894,524187,7340,"Maintenance and repair workers, general",68,1252,0.002388460606615578
+Northern Europe,50289,936639,25894,524187,4230,Maids and housekeeping cleaners,57,1245,0.0023751065936392928
+Northern Europe,50289,936639,25894,524187,6442,"Plumbers, pipefitters, and steamfitters",51,1233,0.002352213999965661
+Northern Europe,50289,936639,25894,524187,4350,Animal caretakers,56,1224,0.0023350445547104374
+Northern Europe,50289,936639,25894,524187,0150,Purchasing managers,59,1220,0.00232741369015256
+Northern Europe,50289,936639,25894,524187,1007,Information security analysts,66,1212,0.0023121519610368054
+Northern Europe,50289,936639,25894,524187,3258,"Nurse practitioners, and nurse midwives",47,1204,0.002296890231921051
+Northern Europe,50289,936639,25894,524187,7700,First-line supervisors of production and operating workers,57,1203,0.0022949825157815816
+Northern Europe,50289,936639,25894,524187,2752,Musicians and singers,53,1179,0.0022491973284343185
+Northern Europe,50289,936639,25894,524187,9142,Taxi drivers,43,1179,0.0022491973284343185
+Northern Europe,50289,936639,25894,524187,2145,Paralegals and legal assistants,60,1169,0.002230120167039625
+Northern Europe,50289,936639,25894,524187,6410,Painters and paperhangers,53,1137,0.0021690732505766073
+Northern Europe,50289,936639,25894,524187,4020,Cooks,66,1136,0.0021671655344371378
+Northern Europe,50289,936639,25894,524187,9050,Flight attendants,43,1132,0.002159534669879261
+Northern Europe,50289,936639,25894,524187,2014,"Social workers, all other",60,1124,0.002144272940763506
+Northern Europe,50289,936639,25894,524187,0910,Credit counselors and loan officers,45,1101,0.002100395469555712
+Northern Europe,50289,936639,25894,524187,0205,"Farmers, ranchers, and other agricultural managers",70,1092,0.0020832260243004884
+Northern Europe,50289,936639,25894,524187,3500,Licensed practical and licensed vocational nurses,47,1090,0.0020794105920215497
+Northern Europe,50289,936639,25894,524187,0340,Lodging managers,51,1067,0.0020355331208137552
+Northern Europe,50289,936639,25894,524187,0540,"Claims adjusters, appraisers, examiners, and investigators",43,1053,0.002008825094861185
+Northern Europe,50289,936639,25894,524187,0530,"Purchasing agents, except wholesale, retail, and farm products",51,1038,0.001980209352769145
+Northern Europe,50289,936639,25894,524187,7200,Automotive service technicians and mechanics,58,1038,0.001980209352769145
+Northern Europe,50289,936639,25894,524187,1105,Network and computer systems administrators,44,1019,0.0019439627461192285
+Northern Europe,50289,936639,25894,524187,2810,"News analysts, reporters, and journalists",41,1019,0.0019439627461192285
+Northern Europe,50289,936639,25894,524187,0650,Training and development specialists,35,1015,0.0019363318815613512
+Northern Europe,50289,936639,25894,524187,4010,First-line supervisors of food preparation and serving workers,54,1004,0.0019153470040271887
+Northern Europe,50289,936639,25894,524187,1430,"Industrial engineers, including health and safety",52,996,0.0019000852749114343
+Northern Europe,50289,936639,25894,524187,2830,Editors,66,989,0.0018867312619351491
+Northern Europe,50289,936639,25894,524187,0160,"Transportation, storage, and distribution managers",44,987,0.0018829158296562105
+Northern Europe,50289,936639,25894,524187,0060,Public relations and fundraising managers,36,983,0.0018752849650983331
+Northern Europe,50289,936639,25894,524187,8990,"Miscellaneous production workers, including equipment operators and tenders",52,981,0.0018714695328193947
+Northern Europe,50289,936639,25894,524187,4200,First-line supervisors of housekeeping and janitorial workers,29,978,0.0018657463844009867
+Northern Europe,50289,936639,25894,524187,5510,Couriers and messengers,55,975,0.0018600232359825787
+Northern Europe,50289,936639,25894,524187,1031,Web developers,30,974,0.0018581155198431093
+Northern Europe,50289,936639,25894,524187,2825,Public relations specialists,46,969,0.0018485769391457629
+Northern Europe,50289,936639,25894,524187,8030,Machinists,38,957,0.001825684345472131
+Northern Europe,50289,936639,25894,524187,5110,Billing and posting clerks,56,932,0.0017779914419853984
+Northern Europe,50289,936639,25894,524187,5610,"Shipping, receiving, and inventory clerks",40,922,0.0017589142805907053
+Northern Europe,50289,936639,25894,524187,4055,Fast food and counter workers,44,877,0.0016730670543145861
+Northern Europe,50289,936639,25894,524187,2002,"Educational, guidance, and career counselors and advisors",40,860,0.0016406358799436079
+Northern Europe,50289,936639,25894,524187,3160,Physical therapists,58,852,0.0016253741508278534
+Northern Europe,50289,936639,25894,524187,3545,Miscellaneous health technologists and technicians,19,806,0.0015376192084122651
+Northern Europe,50289,936639,25894,524187,1825,Other psychologists,52,801,0.0015280806277149185
+Northern Europe,50289,936639,25894,524187,0960,Other financial specialists,29,774,0.0014765722919492471
+Northern Europe,50289,936639,25894,524187,3245,Other therapists,40,772,0.0014727568596703084
+Northern Europe,50289,936639,25894,524187,7750,Other assemblers and fabricators,42,749,0.0014288793884625144
+Northern Europe,50289,936639,25894,524187,1032,Web and digital interface designers,27,748,0.001426971672323045
+Northern Europe,50289,936639,25894,524187,1065,Database administrators and architects,34,746,0.0014231562400441064
+Northern Europe,50289,936639,25894,524187,2920,"Television, video, and film camera operators and editors",25,722,0.0013773710526968428
+Northern Europe,50289,936639,25894,524187,3250,Veterinarians,41,718,0.0013697401881389657
+Northern Europe,50289,936639,25894,524187,0700,Logisticians,26,717,0.0013678324719994964
+Northern Europe,50289,936639,25894,524187,3050,Pharmacists,43,712,0.0013582938913021497
+Northern Europe,50289,936639,25894,524187,1220,Operations research analysts,41,711,0.0013563861751626806
+Northern Europe,50289,936639,25894,524187,7000,"First-line supervisors of mechanics, installers, and repairers",32,706,0.001346847594465334
+Northern Europe,50289,936639,25894,524187,2400,"Archivists, curators, and museum technicians",37,704,0.0013430321621863953
+Northern Europe,50289,936639,25894,524187,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",22,701,0.0013373090137679875
+Northern Europe,50289,936639,25894,524187,0725,"Meeting, convention, and event planners",38,690,0.001316324136233825
+Northern Europe,50289,936639,25894,524187,4800,Advertising sales agents,29,690,0.001316324136233825
+Northern Europe,50289,936639,25894,524187,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",25,684,0.001304877839397009
+Northern Europe,50289,936639,25894,524187,4340,Animal trainers,36,676,0.0012896161102812546
+Northern Europe,50289,936639,25894,524187,2905,Other media and communication equipment workers,34,669,0.0012762620973049694
+Northern Europe,50289,936639,25894,524187,9830,"Military, rank not specified",26,664,0.0012667235166076228
+Northern Europe,50289,936639,25894,524187,3010,Dentists,36,647,0.0012342923422366445
+Northern Europe,50289,936639,25894,524187,5260,File clerks,17,641,0.0012228460453998287
+Northern Europe,50289,936639,25894,524187,7800,Bakers,26,629,0.001199953451726197
+Northern Europe,50289,936639,25894,524187,0600,Cost estimators,35,621,0.0011846917226104425
+Northern Europe,50289,936639,25894,524187,3421,Pharmacy technicians,31,621,0.0011846917226104425
+Northern Europe,50289,936639,25894,524187,0102,Facilities managers,33,620,0.0011827840064709732
+Northern Europe,50289,936639,25894,524187,3630,Massage therapists,35,616,0.0011751531419130958
+Northern Europe,50289,936639,25894,524187,8610,Stationary engineers and boiler operators,17,616,0.0011751531419130958
+Northern Europe,50289,936639,25894,524187,3150,Occupational therapists,23,614,0.0011713377096341574
+Northern Europe,50289,936639,25894,524187,2840,Technical writers,24,609,0.0011617991289368107
+Northern Europe,50289,936639,25894,524187,2635,Interior designers,32,606,0.0011560759805184027
+Northern Europe,50289,936639,25894,524187,9600,Industrial truck and tractor operators,14,603,0.001150352832099995
+Northern Europe,50289,936639,25894,524187,0860,Insurance underwriters,27,601,0.0011465373998210562
+Northern Europe,50289,936639,25894,524187,2435,Librarians and media collections specialists,35,597,0.001138906535263179
+Northern Europe,50289,936639,25894,524187,7330,Industrial and refractory machinery mechanics,33,585,0.0011160139415895473
+Northern Europe,50289,936639,25894,524187,3601,Home health aides,28,583,0.0011121985093106087
+Northern Europe,50289,936639,25894,524187,9122,"Bus drivers, transit and intercity",31,580,0.0011064753608922007
+Northern Europe,50289,936639,25894,524187,7140,Aircraft mechanics and service technicians,28,569,0.0010854904833580382
+Northern Europe,50289,936639,25894,524187,4930,Sales engineers,31,566,0.0010797673349396304
+Northern Europe,50289,936639,25894,524187,2700,Actors,27,565,0.001077859618800161
+Northern Europe,50289,936639,25894,524187,5410,Reservation and transportation ticket agents and travel clerks,27,560,0.0010683210381028144
+Northern Europe,50289,936639,25894,524187,1350,Chemical engineers,29,557,0.0010625978896844064
+Northern Europe,50289,936639,25894,524187,1970,"Other life, physical, and social science technicians",31,554,0.0010568747412659986
+Northern Europe,50289,936639,25894,524187,2004,Mental health counselors,26,553,0.0010549670251265293
+Northern Europe,50289,936639,25894,524187,9005,Supervisors of transportation and material moving workers,28,551,0.0010511515928475906
+Northern Europe,50289,936639,25894,524187,1720,Chemists and materials scientists,32,550,0.0010492438767081213
+Northern Europe,50289,936639,25894,524187,2350,Tutors,33,546,0.0010416130121502442
+Northern Europe,50289,936639,25894,524187,4655,"Personal care and service workers, all other",34,546,0.0010416130121502442
+Northern Europe,50289,936639,25894,524187,1800,Economists,29,542,0.0010339821475923668
+Northern Europe,50289,936639,25894,524187,7315,"Heating, air conditioning, and refrigeration mechanics and installers",25,538,0.0010263512830344895
+Northern Europe,50289,936639,25894,524187,2865,"Media and communication workers, all other",15,532,0.0010149049861976737
+Northern Europe,50289,936639,25894,524187,0335,Entertainment and recreation managers,22,526,0.001003458689360858
+Northern Europe,50289,936639,25894,524187,5165,Other financial clerks,23,525,0.0010015509732213886
+Northern Europe,50289,936639,25894,524187,9121,"Bus drivers, school",32,520,9.92012392524042e-4
+Northern Europe,50289,936639,25894,524187,0810,Property appraisers and assessors,19,514,9.805660956872261e-4
+Northern Europe,50289,936639,25894,524187,1980,Occupational health and safety specialists and technicians,15,494,9.424117728978399e-4
+Northern Europe,50289,936639,25894,524187,3323,Radiologic technologists and technicians,23,490,9.347809083399627e-4
+Northern Europe,50289,936639,25894,524187,3300,Clinical laboratory technologists and technicians,24,489,9.328731922004933e-4
+Northern Europe,50289,936639,25894,524187,2025,Other community and social service specialists,14,485,9.252423276426161e-4
+Northern Europe,50289,936639,25894,524187,0520,"Wholesale and retail buyers, except farm products",30,482,9.195191792242081e-4
+Northern Europe,50289,936639,25894,524187,1750,"Geoscientists and hydrologists, except geographers",27,471,8.985343016900458e-4
+Northern Europe,50289,936639,25894,524187,7640,"Other installation, maintenance, and repair workers",20,470,8.966265855505764e-4
+Northern Europe,50289,936639,25894,524187,3640,Dental assistants,19,454,8.661031273190674e-4
+Northern Europe,50289,936639,25894,524187,0726,Fundraisers,26,453,8.641954111795981e-4
+Northern Europe,50289,936639,25894,524187,4622,Recreation workers,26,451,8.603799789006595e-4
+Northern Europe,50289,936639,25894,524187,4140,Dishwashers,24,444,8.470259659243743e-4
+Northern Europe,50289,936639,25894,524187,5810,Data entry keyers,23,439,8.374873852270277e-4
+Northern Europe,50289,936639,25894,524187,3310,Dental hygienists,20,438,8.355796690875585e-4
+Northern Europe,50289,936639,25894,524187,2721,Athletes and sports competitors,19,437,8.336719529480892e-4
+Northern Europe,50289,936639,25894,524187,5550,Postal service mail carriers,23,432,8.241333722507426e-4
+Northern Europe,50289,936639,25894,524187,2001,Substance abuse and behavioral disorder counselors,21,427,8.14594791553396e-4
+Northern Europe,50289,936639,25894,524187,2555,Other educational instruction and library workers,20,426,8.126870754139267e-4
+Northern Europe,50289,936639,25894,524187,0500,"Agents and business managers of artists, performers, and athletes",23,419,7.993330624376415e-4
+Northern Europe,50289,936639,25894,524187,6050,Other agricultural workers,30,418,7.974253462981723e-4
+Northern Europe,50289,936639,25894,524187,3100,Surgeons,23,416,7.936099140192336e-4
+Northern Europe,50289,936639,25894,524187,0940,Tax preparers,18,413,7.878867656008257e-4
+Northern Europe,50289,936639,25894,524187,2006,"Counselors, all other",25,408,7.783481849034791e-4
+Northern Europe,50289,936639,25894,524187,1610,Biological scientists,23,402,7.669018880666632e-4
+Northern Europe,50289,936639,25894,524187,1106,Computer network architects,19,400,7.630864557877246e-4
+Northern Europe,50289,936639,25894,524187,4830,Travel agents,29,397,7.573633073693167e-4
+Northern Europe,50289,936639,25894,524187,2632,Fashion designers,18,392,7.478247266719701e-4
+Northern Europe,50289,936639,25894,524187,3424,Veterinary technologists and technicians,15,390,7.440092943930314e-4
+Northern Europe,50289,936639,25894,524187,4950,"Door-to-door sales workers, news and street vendors, and related workers",20,390,7.440092943930314e-4
+Northern Europe,50289,936639,25894,524187,3515,Medical records specialists,17,383,7.306552814167463e-4
+Northern Europe,50289,936639,25894,524187,8140,"Welding, soldering, and brazing workers",22,383,7.306552814167463e-4
+Northern Europe,50289,936639,25894,524187,7210,Bus and truck mechanics and diesel engine specialists,22,382,7.28747565277277e-4
+Northern Europe,50289,936639,25894,524187,0360,Natural sciences managers,18,381,7.268398491378077e-4
+Northern Europe,50289,936639,25894,524187,7020,Radio and telecommunications equipment installers and repairers,19,379,7.230244168588691e-4
+Northern Europe,50289,936639,25894,524187,1200,Actuaries,18,378,7.211167007193998e-4
+Northern Europe,50289,936639,25894,524187,5310,"Interviewers, except eligibility and loan",19,377,7.192089845799304e-4
+Northern Europe,50289,936639,25894,524187,2861,Interpreters and translators,20,374,7.134858361615225e-4
+Northern Europe,50289,936639,25894,524187,5600,"Production, planning, and expediting clerks",20,374,7.134858361615225e-4
+Northern Europe,50289,936639,25894,524187,2751,Music directors and composers,19,373,7.115781200220532e-4
+Northern Europe,50289,936639,25894,524187,3820,Detectives and criminal investigators,20,371,7.077626877431145e-4
+Northern Europe,50289,936639,25894,524187,2770,"Entertainers and performers, sports and related workers, all other",16,370,7.058549716036453e-4
+Northern Europe,50289,936639,25894,524187,8225,Other metal workers and plastic workers,20,370,7.058549716036453e-4
+Northern Europe,50289,936639,25894,524187,5420,Other information and records clerks,17,367,7.001318231852373e-4
+Northern Europe,50289,936639,25894,524187,0040,Advertising and promotions managers,23,363,6.925009586273601e-4
+Northern Europe,50289,936639,25894,524187,6305,Construction equipment operators,19,362,6.905932424878907e-4
+Northern Europe,50289,936639,25894,524187,5140,Payroll and timekeeping clerks,14,356,6.791469456510749e-4
+Northern Europe,50289,936639,25894,524187,2170,"Title examiners, abstractors, and searchers",16,349,6.657929326747897e-4
+Northern Europe,50289,936639,25894,524187,9150,"Motor vehicle operators, all other",14,349,6.657929326747897e-4
+Northern Europe,50289,936639,25894,524187,4435,Other entertainment attendants and related workers,22,348,6.638852165353204e-4
+Northern Europe,50289,936639,25894,524187,5360,"Human resources assistants, except payroll and timekeeping",11,344,6.562543519774432e-4
+Northern Europe,50289,936639,25894,524187,3740,Firefighters,21,338,6.448080551406273e-4
+Northern Europe,50289,936639,25894,524187,4530,"Baggage porters, bellhops, and concierges",19,337,6.429003390011579e-4
+Northern Europe,50289,936639,25894,524187,2016,Social and human service assistants,19,336,6.409926228616887e-4
+Northern Europe,50289,936639,25894,524187,3910,Private detectives and investigators,19,336,6.409926228616887e-4
+Northern Europe,50289,936639,25894,524187,0640,"Compensation, benefits, and job analysis specialists",11,333,6.352694744432807e-4
+Northern Europe,50289,936639,25894,524187,4521,Manicurists and pedicurists,16,331,6.314540421643422e-4
+Northern Europe,50289,936639,25894,524187,3645,Medical assistants,23,324,6.181000291880569e-4
+Northern Europe,50289,936639,25894,524187,6460,Plasterers and stucco masons,12,319,6.085614484907104e-4
+Northern Europe,50289,936639,25894,524187,7220,Heavy vehicle and mobile equipment service technicians and mechanics,13,315,6.009305839328331e-4
+Northern Europe,50289,936639,25894,524187,5522,"Dispatchers, except police, fire, and ambulance",16,304,5.799457063986707e-4
+Northern Europe,50289,936639,25894,524187,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,10,304,5.799457063986707e-4
+Northern Europe,50289,936639,25894,524187,3230,Speech-language pathologists,20,303,5.780379902592013e-4
+Northern Europe,50289,936639,25894,524187,4522,Skincare specialists,14,303,5.780379902592013e-4
+Northern Europe,50289,936639,25894,524187,9415,Passenger attendants,3,303,5.780379902592013e-4
+Northern Europe,50289,936639,25894,524187,4400,Gambling services workers,12,302,5.761302741197321e-4
+Northern Europe,50289,936639,25894,524187,1520,"Petroleum, mining and geological engineers, including mining safety engineers",12,300,5.723148418407935e-4
+Northern Europe,50289,936639,25894,524187,1840,Urban and regional planners,13,299,5.704071257013241e-4
+Northern Europe,50289,936639,25894,524187,6330,"Drywall installers, ceiling tile installers, and tapers",10,296,5.646839772829162e-4
+Northern Europe,50289,936639,25894,524187,3655,Other healthcare support workers,19,295,5.627762611434469e-4
+Northern Europe,50289,936639,25894,524187,1400,Computer hardware engineers,17,291,5.551453965855697e-4
+Northern Europe,50289,936639,25894,524187,3110,Physician assistants,15,291,5.551453965855697e-4
+Northern Europe,50289,936639,25894,524187,3422,Psychiatric technicians,8,289,5.51329964306631e-4
+Northern Europe,50289,936639,25894,524187,4120,"Food servers, nonrestaurant",11,288,5.494222481671617e-4
+Northern Europe,50289,936639,25894,524187,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",17,286,5.456068158882231e-4
+Northern Europe,50289,936639,25894,524187,2060,"Religious workers, all other",20,281,5.360682351908765e-4
+Northern Europe,50289,936639,25894,524187,3030,Dietitians and nutritionists,11,281,5.360682351908765e-4
+Northern Europe,50289,936639,25894,524187,3960,Other protective service workers,16,278,5.303450867724687e-4
+Northern Europe,50289,936639,25894,524187,6240,"Carpet, floor, and tile installers and finishers",13,278,5.303450867724687e-4
+Northern Europe,50289,936639,25894,524187,9610,Cleaners of vehicles and equipment,17,276,5.2652965449353e-4
+Northern Europe,50289,936639,25894,524187,3725,"Miscellaneous first-line supervisors, protective service workers",13,275,5.246219383540606e-4
+Northern Europe,50289,936639,25894,524187,3940,Crossing guards and flaggers,10,275,5.246219383540606e-4
+Northern Europe,50289,936639,25894,524187,4525,Other personal appearance workers,10,274,5.227142222145913e-4
+Northern Europe,50289,936639,25894,524187,0930,"Tax examiners and collectors, and revenue agents",8,267,5.093602092383062e-4
+Northern Europe,50289,936639,25894,524187,3649,Phlebotomists,7,267,5.093602092383062e-4
+Northern Europe,50289,936639,25894,524187,3648,Veterinary assistants and laboratory animal caretakers,14,266,5.074524930988369e-4
+Northern Europe,50289,936639,25894,524187,1860,Other social scientists,14,264,5.036370608198982e-4
+Northern Europe,50289,936639,25894,524187,5320,"Library assistants, clerical",15,264,5.036370608198982e-4
+Northern Europe,50289,936639,25894,524187,1700,Astronomers and physicists,17,263,5.01729344680429e-4
+Northern Europe,50289,936639,25894,524187,0137,Training and development managers,15,262,4.998216285409596e-4
+Northern Europe,50289,936639,25894,524187,1306,Landscape architects,15,257,4.902830478436131e-4
+Northern Europe,50289,936639,25894,524187,3040,Optometrists,6,256,4.883753317041437e-4
+Northern Europe,50289,936639,25894,524187,3402,Paramedics,15,255,4.8646761556467446e-4
+Northern Europe,50289,936639,25894,524187,9310,Ship and boat captains and operators,13,255,4.8646761556467446e-4
+Northern Europe,50289,936639,25894,524187,6660,Construction and building inspectors,16,253,4.826521832857358e-4
+Northern Europe,50289,936639,25894,524187,8255,Printing press operators,15,250,4.769290348673279e-4
+Northern Europe,50289,936639,25894,524187,5100,Bill and account collectors,10,249,4.7502131872785856e-4
+Northern Europe,50289,936639,25894,524187,4130,Dining room and cafeteria attendants and bartender helpers,16,245,4.6739045416998134e-4
+Northern Europe,50289,936639,25894,524187,1545,Other drafters,11,241,4.5975958961210405e-4
+Northern Europe,50289,936639,25894,524187,1551,Electrical and electronic engineering technologists and technicians,18,239,4.5594415733316544e-4
+Northern Europe,50289,936639,25894,524187,2180,"Legal support workers, all other",12,239,4.5594415733316544e-4
+Northern Europe,50289,936639,25894,524187,5720,Legal secretaries and administrative assistants,11,235,4.483132927752882e-4
+Northern Europe,50289,936639,25894,524187,3401,Emergency medical technicians,13,234,4.464055766358189e-4
+Northern Europe,50289,936639,25894,524187,8350,"Tailors, dressmakers, and sewers",13,231,4.40682428217411e-4
+Northern Europe,50289,936639,25894,524187,1022,Software quality assurance analysts and testers,11,228,4.3495927979900304e-4
+Northern Europe,50289,936639,25894,524187,4740,Counter and rental clerks,7,225,4.292361313805951e-4
+Northern Europe,50289,936639,25894,524187,3945,Transportation security screeners,2,224,4.2732841524112576e-4
+Northern Europe,50289,936639,25894,524187,1310,"Surveyors, cartographers, and photogrammetrists",9,219,4.1778983454377925e-4
+Northern Europe,50289,936639,25894,524187,3646,Medical transcriptionists,7,219,4.1778983454377925e-4
+Northern Europe,50289,936639,25894,524187,8830,Photographic process workers and processing machine operators,13,216,4.120666861253713e-4
+Northern Europe,50289,936639,25894,524187,2050,"Directors, religious activities and education",10,210,4.006203892885554e-4
+Northern Europe,50289,936639,25894,524187,7855,"Food processing workers, all other",6,209,3.9871267314908613e-4
+Northern Europe,50289,936639,25894,524187,8620,Water and wastewater treatment plant and system operators,13,201,3.834509440333316e-4
+Northern Europe,50289,936639,25894,524187,9640,"Packers and packagers, hand",10,198,3.7772779561492367e-4
+Northern Europe,50289,936639,25894,524187,5840,Insurance claims and policy processing clerks,11,194,3.7009693105704644e-4
+Northern Europe,50289,936639,25894,524187,1420,Environmental engineers,10,193,3.681892149175771e-4
+Northern Europe,50289,936639,25894,524187,5160,Tellers,16,193,3.681892149175771e-4
+Northern Europe,50289,936639,25894,524187,0101,Administrative services managers,13,192,3.6628149877810783e-4
+Northern Europe,50289,936639,25894,524187,1005,Computer and information research scientists,13,191,3.643737826386385e-4
+Northern Europe,50289,936639,25894,524187,3605,Orderlies and psychiatric aides,7,191,3.643737826386385e-4
+Northern Europe,50289,936639,25894,524187,8750,Jewelers and precious stone and metal workers,10,190,3.6246606649916916e-4
+Northern Europe,50289,936639,25894,524187,2805,Broadcast announcers and radio disc jockeys,9,189,3.605583503596999e-4
+Northern Europe,50289,936639,25894,524187,7720,"Electrical, electronics, and electromechanical assemblers",6,187,3.5674291808076127e-4
+Northern Europe,50289,936639,25894,524187,4640,Residential advisors,19,186,3.5483520194129194e-4
+Northern Europe,50289,936639,25894,524187,7010,"Computer, automated teller, and office machine repairers",12,184,3.510197696623533e-4
+Northern Europe,50289,936639,25894,524187,9510,Crane and tower operators,6,180,3.433889051044761e-4
+Northern Europe,50289,936639,25894,524187,6720,Hazardous materials removal workers,4,179,3.4148118896500676e-4
+Northern Europe,50289,936639,25894,524187,5730,Medical secretaries and administrative assistants,12,176,3.357580405465988e-4
+Northern Europe,50289,936639,25894,524187,1910,Biological technicians,6,175,3.3385032440712953e-4
+Northern Europe,50289,936639,25894,524187,2636,Merchandise displayers and window trimmers,6,175,3.3385032440712953e-4
+Northern Europe,50289,936639,25894,524187,5350,Correspondence clerks and order clerks,11,172,3.281271759887216e-4
+Northern Europe,50289,936639,25894,524187,3620,Physical therapist assistants and aides,12,170,3.2431174370978297e-4
+Northern Europe,50289,936639,25894,524187,8650,"Crushing, grinding, polishing, mixing, and blending workers",7,170,3.2431174370978297e-4
+Northern Europe,50289,936639,25894,524187,1440,Marine engineers and naval architects,7,168,3.2049631143084436e-4
+Northern Europe,50289,936639,25894,524187,8640,"Chemical processing machine setters, operators, and tenders",9,163,3.109577307334978e-4
+Northern Europe,50289,936639,25894,524187,9800,Military officer special and tactical operations leaders,4,162,3.0905001459402846e-4
+Northern Europe,50289,936639,25894,524187,9141,Shuttle drivers and chauffeurs,13,161,3.0714229845455913e-4
+Northern Europe,50289,936639,25894,524187,3270,"Healthcare diagnosing or treating practitioners, all other",5,160,3.0523458231508985e-4
+Northern Europe,50289,936639,25894,524187,3322,Diagnostic medical sonographers,10,160,3.0523458231508985e-4
+Northern Europe,50289,936639,25894,524187,3550,Other healthcare practitioners and technical occupations,10,160,3.0523458231508985e-4
+Northern Europe,50289,936639,25894,524187,1822,School psychologists,8,159,3.033268661756205e-4
+Northern Europe,50289,936639,25894,524187,3710,First-line supervisors of police and detectives,9,159,3.033268661756205e-4
+Northern Europe,50289,936639,25894,524187,8920,"Molders, shapers, and casters, except metal and plastic",9,158,3.0141915003615124e-4
+Northern Europe,50289,936639,25894,524187,9825,Military enlisted tactical operations and air/weapons specialists and crew members,13,157,2.995114338966819e-4
+Northern Europe,50289,936639,25894,524187,8800,Packaging and filling machine operators and tenders,6,154,2.9378828547827395e-4
+Northern Europe,50289,936639,25894,524187,3520,"Opticians, dispensing",9,151,2.8806513705986606e-4
+Northern Europe,50289,936639,25894,524187,8500,Cabinetmakers and bench carpenters,8,148,2.823419886414581e-4
+Northern Europe,50289,936639,25894,524187,5300,"Hotel, motel, and resort desk clerks",9,147,2.804342725019888e-4
+Northern Europe,50289,936639,25894,524187,6115,Fishing and hunting workers,4,146,2.785265563625195e-4
+Northern Europe,50289,936639,25894,524187,8810,Painting workers,10,145,2.7661884022305017e-4
+Northern Europe,50289,936639,25894,524187,3220,Respiratory therapists,10,144,2.7471112408358083e-4
+Northern Europe,50289,936639,25894,524187,7150,Automotive body and related repairers,8,144,2.7471112408358083e-4
+Northern Europe,50289,936639,25894,524187,1450,Materials engineers,9,139,2.651725433862343e-4
+Northern Europe,50289,936639,25894,524187,9430,Other transportation workers,5,137,2.6135711110729566e-4
+Northern Europe,50289,936639,25894,524187,3802,Correctional officers and jailers,9,135,2.5754167882835704e-4
+Northern Europe,50289,936639,25894,524187,0820,Budget analysts,8,134,2.5563396268888776e-4
+Northern Europe,50289,936639,25894,524187,7130,Security and fire alarm systems installers,8,133,2.5372624654941843e-4
+Northern Europe,50289,936639,25894,524187,7905,Computer numerically controlled tool operators and programmers,5,132,2.518185304099491e-4
+Northern Europe,50289,936639,25894,524187,3000,Chiropractors,7,131,2.499108142704798e-4
+Northern Europe,50289,936639,25894,524187,1560,Surveying and mapping technicians,10,130,2.480030981310105e-4
+Northern Europe,50289,936639,25894,524187,3261,Acupuncturists,8,130,2.480030981310105e-4
+Northern Europe,50289,936639,25894,524187,3321,Cardiovascular technologists and technicians,5,130,2.480030981310105e-4
+Northern Europe,50289,936639,25894,524187,5330,Loan interviewers and clerks,8,130,2.480030981310105e-4
+Northern Europe,50289,936639,25894,524187,6250,"Cement masons, concrete finishers, and terrazzo workers",4,130,2.480030981310105e-4
+Northern Europe,50289,936639,25894,524187,4252,Tree trimmers and pruners,7,129,2.460953819915412e-4
+Northern Europe,50289,936639,25894,524187,5250,"Eligibility interviewers, government programs",3,126,2.4037223357313326e-4
+Northern Europe,50289,936639,25894,524187,1821,Clinical and counseling psychologists,8,125,2.3846451743366395e-4
+Northern Europe,50289,936639,25894,524187,4750,Parts salespersons,6,124,2.3655680129419464e-4
+Northern Europe,50289,936639,25894,524187,5220,"Court, municipal, and license clerks",8,124,2.3655680129419464e-4
+Northern Europe,50289,936639,25894,524187,1340,Biomedical and agricultural engineers,10,122,2.32741369015256e-4
+Northern Europe,50289,936639,25894,524187,4420,"Ushers, lobby attendants, and ticket takers",6,122,2.32741369015256e-4
+Northern Europe,50289,936639,25894,524187,4940,Telemarketers,3,121,2.308336528757867e-4
+Northern Europe,50289,936639,25894,524187,7810,"Butchers and other meat, poultry, and fish processing workers",6,121,2.308336528757867e-4
+Northern Europe,50289,936639,25894,524187,5920,Statistical assistants,9,120,2.289259367363174e-4
+Northern Europe,50289,936639,25894,524187,9810,First-line enlisted military supervisors,3,117,2.2320278831790944e-4
+Northern Europe,50289,936639,25894,524187,7430,Precision instrument and equipment repairers,9,115,2.1938735603897083e-4
+Northern Europe,50289,936639,25894,524187,2003,Marriage and family therapists,8,114,2.1747963989950152e-4
+Northern Europe,50289,936639,25894,524187,6005,"First-line supervisors of farming, fishing, and forestry workers",6,112,2.1366420762056288e-4
+Northern Europe,50289,936639,25894,524187,8130,Tool and die makers,7,110,2.0984877534162427e-4
+Northern Europe,50289,936639,25894,524187,2633,Floral designers,8,107,2.0412562692321634e-4
+Northern Europe,50289,936639,25894,524187,5040,"Communications equipment operators, all other",3,107,2.0412562692321634e-4
+Northern Europe,50289,936639,25894,524187,7740,Structural metal fabricators and fitters,7,105,2.003101946442777e-4
+Northern Europe,50289,936639,25894,524187,4240,Pest control workers,4,104,1.984024785048084e-4
+Northern Europe,50289,936639,25894,524187,4330,Supervisors of personal care and service workers,6,104,1.984024785048084e-4
+Northern Europe,50289,936639,25894,524187,2012,Healthcare social workers,5,103,1.964947623653391e-4
+Northern Europe,50289,936639,25894,524187,7420,Telecommunications line installers and repairers,6,101,1.9267933008640048e-4
+Northern Europe,50289,936639,25894,524187,8450,Upholsterers,5,101,1.9267933008640048e-4
+Northern Europe,50289,936639,25894,524187,2440,Library technicians,9,100,1.9077161394693114e-4
+Northern Europe,50289,936639,25894,524187,6740,Rail-track laying and maintenance equipment operators,2,98,1.8695618166799253e-4
+Northern Europe,50289,936639,25894,524187,1920,Chemical technicians,7,96,1.8314074938905392e-4
+Northern Europe,50289,936639,25894,524187,7240,Small engine mechanics,5,96,1.8314074938905392e-4
+Northern Europe,50289,936639,25894,524187,7840,Food batchmakers,4,96,1.8314074938905392e-4
+Northern Europe,50289,936639,25894,524187,2631,Commercial and industrial designers,6,94,1.7932531711011527e-4
+Northern Europe,50289,936639,25894,524187,7540,Locksmiths and safe repairers,5,94,1.7932531711011527e-4
+Northern Europe,50289,936639,25894,524187,8320,Sewing machine operators,7,94,1.7932531711011527e-4
+Northern Europe,50289,936639,25894,524187,8600,"Power plant operators, distributors, and dispatchers",4,94,1.7932531711011527e-4
+Northern Europe,50289,936639,25894,524187,9040,Air traffic controllers and airfield operations specialists,5,94,1.7932531711011527e-4
+Northern Europe,50289,936639,25894,524187,1600,Agricultural and food scientists,6,93,1.7741760097064597e-4
+Northern Europe,50289,936639,25894,524187,7410,Electrical power-line installers and repairers,5,93,1.7741760097064597e-4
+Northern Europe,50289,936639,25894,524187,9300,"Sailors and marine oilers, and ship engineers",3,92,1.7550988483117666e-4
+Northern Europe,50289,936639,25894,524187,1745,"Environmental scientists and specialists, including health",8,91,1.7360216869170735e-4
+Northern Europe,50289,936639,25894,524187,3256,Nurse anesthetists,6,91,1.7360216869170735e-4
+Northern Europe,50289,936639,25894,524187,2011,"Child, family, and school social workers",5,89,1.697867364127687e-4
+Northern Europe,50289,936639,25894,524187,2740,Dancers and choreographers,7,88,1.678790202732994e-4
+Northern Europe,50289,936639,25894,524187,4900,"Models, demonstrators, and product promoters",6,88,1.678790202732994e-4
+Northern Europe,50289,936639,25894,524187,3430,Dietetic technicians and ophthalmic medical technicians,5,84,1.6024815571542218e-4
+Northern Europe,50289,936639,25894,524187,4500,Barbers,5,83,1.5834043957595285e-4
+Northern Europe,50289,936639,25894,524187,6400,Insulation workers,2,81,1.5452500729701423e-4
+Northern Europe,50289,936639,25894,524187,9365,Transportation service attendants,6,81,1.5452500729701423e-4
+Northern Europe,50289,936639,25894,524187,3900,Animal control workers,3,80,0.00015261729115754492
+Northern Europe,50289,936639,25894,524187,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",4,80,0.00015261729115754492
+Northern Europe,50289,936639,25894,524187,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",4,80,0.00015261729115754492
+Northern Europe,50289,936639,25894,524187,2015,Probation officers and correctional treatment specialists,5,79,1.5070957501807562e-4
+Northern Europe,50289,936639,25894,524187,3330,Nuclear medicine technologists and medical dosimetrists,7,79,1.5070957501807562e-4
+Northern Europe,50289,936639,25894,524187,3720,First-line supervisors of firefighting and prevention workers,4,79,1.5070957501807562e-4
+Northern Europe,50289,936639,25894,524187,0830,Credit analysts,4,75,1.4307871046019836e-4
+Northern Europe,50289,936639,25894,524187,6520,Sheet metal workers,6,75,1.4307871046019836e-4
+Northern Europe,50289,936639,25894,524187,1541,Architectural and civil drafters,4,74,1.4117099432072906e-4
+Northern Europe,50289,936639,25894,524187,3200,Radiation therapists,2,73,1.3926327818125975e-4
+Northern Europe,50289,936639,25894,524187,7120,Electronic home entertainment equipment installers and repairers,4,71,1.354478459023211e-4
+Northern Europe,50289,936639,25894,524187,4540,Tour and travel guides,6,70,1.335401297628518e-4
+Northern Europe,50289,936639,25894,524187,6010,Agricultural inspectors,3,70,1.335401297628518e-4
+Northern Europe,50289,936639,25894,524187,7350,"Maintenance workers, machinery",2,70,1.335401297628518e-4
+Northern Europe,50289,936639,25894,524187,7360,Millwrights,5,70,1.335401297628518e-4
+Northern Europe,50289,936639,25894,524187,5020,Telephone operators,4,69,1.316324136233825e-4
+Northern Europe,50289,936639,25894,524187,1900,Agricultural and food science technicians,3,68,1.297246974839132e-4
+Northern Europe,50289,936639,25894,524187,3423,Surgical technologists,3,68,1.297246974839132e-4
+Northern Europe,50289,936639,25894,524187,2013,Mental health and substance abuse social workers,3,66,1.2590926520497455e-4
+Northern Europe,50289,936639,25894,524187,5521,Public safety telecommunicators,4,66,1.2590926520497455e-4
+Northern Europe,50289,936639,25894,524187,6515,Roofers,4,66,1.2590926520497455e-4
+Northern Europe,50289,936639,25894,524187,3647,Pharmacy aides,5,65,1.2400154906550524e-4
+Northern Europe,50289,936639,25894,524187,7320,Home appliance repairers,3,65,1.2400154906550524e-4
+Northern Europe,50289,936639,25894,524187,8910,Etchers and engravers,3,63,1.2018611678656663e-4
+Northern Europe,50289,936639,25894,524187,5850,"Mail clerks and mail machine operators, except postal service",3,60,1.144629683681587e-4
+Northern Europe,50289,936639,25894,524187,0135,Compensation and benefits managers,3,59,1.1255525222868937e-4
+Northern Europe,50289,936639,25894,524187,3324,Magnetic resonance imaging technologists,6,59,1.1255525222868937e-4
+Northern Europe,50289,936639,25894,524187,6360,Glaziers,2,58,1.1064753608922007e-4
+Northern Europe,50289,936639,25894,524187,2755,"Disc jockeys, except radio",2,57,1.0873981994975076e-4
+Northern Europe,50289,936639,25894,524187,6530,Structural iron and steel workers,3,56,1.0683210381028144e-4
+Northern Europe,50289,936639,25894,524187,5150,Procurement clerks,3,54,1.0301667153134283e-4
+Northern Europe,50289,936639,25894,524187,6710,Fence erectors,3,54,1.0301667153134283e-4
+Northern Europe,50289,936639,25894,524187,8465,"Other textile, apparel, and furnishings workers",3,54,1.0301667153134283e-4
+Northern Europe,50289,936639,25894,524187,7030,Avionics technicians,3,53,1.011089553918735e-4
+Northern Europe,50289,936639,25894,524187,5910,Proofreaders and copy markers,4,52,9.92012392524042e-5
+Northern Europe,50289,936639,25894,524187,4255,Other grounds maintenance workers,2,51,9.729352311293489e-5
+Northern Europe,50289,936639,25894,524187,5540,Postal service clerks,3,50,9.538580697346557e-5
+Northern Europe,50289,936639,25894,524187,9760,Other material moving workers,2,50,9.538580697346557e-5
+Northern Europe,50289,936639,25894,524187,8250,Prepress technicians and workers,3,49,9.347809083399626e-5
+Northern Europe,50289,936639,25894,524187,8510,Furniture finishers,4,49,9.347809083399626e-5
+Northern Europe,50289,936639,25894,524187,0425,Emergency management directors,4,48,9.157037469452696e-5
+Northern Europe,50289,936639,25894,524187,2005,Rehabilitation counselors,4,48,9.157037469452696e-5
+Northern Europe,50289,936639,25894,524187,3750,Fire inspectors,4,47,8.966265855505764e-5
+Northern Europe,50289,936639,25894,524187,6765,Other construction and related workers,2,47,8.966265855505764e-5
+Northern Europe,50289,936639,25894,524187,2723,"Umpires, referees, and other sports officials",3,44,8.39395101366497e-5
+Northern Europe,50289,936639,25894,524187,8950,Helpers--production workers,2,44,8.39395101366497e-5
+Northern Europe,50289,936639,25894,524187,5230,"Credit authorizers, checkers, and clerks",3,43,8.20317939971804e-5
+Northern Europe,50289,936639,25894,524187,8335,Shoe and leather workers,3,43,8.20317939971804e-5
+Northern Europe,50289,936639,25894,524187,2105,Judicial law clerks,3,42,8.012407785771109e-5
+Northern Europe,50289,936639,25894,524187,1710,Atmospheric and space scientists,3,38,7.249321329983384e-5
+Northern Europe,50289,936639,25894,524187,3140,Audiologists,3,35,6.67700648814259e-5
+Northern Europe,50289,936639,25894,524187,3120,Podiatrists,1,34,6.48623487419566e-5
+Northern Europe,50289,936639,25894,524187,3946,School bus monitors,2,33,6.295463260248727e-5
+Northern Europe,50289,936639,25894,524187,5500,Cargo and freight agents,2,33,6.295463260248727e-5
+Northern Europe,50289,936639,25894,524187,8940,Tire builders,1,32,6.104691646301797e-5
+Northern Europe,50289,936639,25894,524187,5900,"Office machine operators, except computer",2,31,5.913920032354866e-5
+Northern Europe,50289,936639,25894,524187,6800,"Derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining",1,31,5.913920032354866e-5
+Northern Europe,50289,936639,25894,524187,5820,Word processors and typists,3,30,5.723148418407935e-5
+Northern Europe,50289,936639,25894,524187,6210,Boilermakers,1,30,5.723148418407935e-5
+Northern Europe,50289,936639,25894,524187,1935,"Environmental science and geoscience technicians, and nuclear technicians",3,28,5.341605190514072e-5
+Northern Europe,50289,936639,25894,524187,3610,Occupational therapy assistants and aides,3,26,4.96006196262021e-5
+Northern Europe,50289,936639,25894,524187,8310,"Pressers, textile, garment, and related materials",2,26,4.96006196262021e-5
+Northern Europe,50289,936639,25894,524187,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,25,4.7692903486732786e-5
+Northern Europe,50289,936639,25894,524187,6540,Solar photovoltaic installers,1,25,4.7692903486732786e-5
+Northern Europe,50289,936639,25894,524187,4465,"Morticians, undertakers, and funeral arrangers",3,24,4.578518734726348e-5
+Northern Europe,50289,936639,25894,524187,6730,Highway maintenance workers,1,24,4.578518734726348e-5
+Northern Europe,50289,936639,25894,524187,8720,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",1,24,4.578518734726348e-5
+Northern Europe,50289,936639,25894,524187,9210,Locomotive engineers and operators,3,22,4.196975506832485e-5
+Northern Europe,50289,936639,25894,524187,3210,Recreational therapists,2,21,4.0062038928855545e-5
+Northern Europe,50289,936639,25894,524187,8300,Laundry and dry-cleaning workers,2,21,4.0062038928855545e-5
+Northern Europe,50289,936639,25894,524187,7100,"Other electrical and electronic equipment mechanics, installers, and repairers",2,20,3.815432278938623e-5
+Northern Europe,50289,936639,25894,524187,7730,Engine and other machine assemblers,1,20,3.815432278938623e-5
+Northern Europe,50289,936639,25894,524187,8555,Other woodworkers,1,20,3.815432278938623e-5
+Northern Europe,50289,936639,25894,524187,9650,Pumping station operators,2,20,3.815432278938623e-5
+Northern Europe,50289,936639,25894,524187,6700,Elevator installers and repairers,2,19,3.624660664991692e-5
+Northern Europe,50289,936639,25894,524187,7300,Control and valve installers and repairers,1,19,3.624660664991692e-5
+Northern Europe,50289,936639,25894,524187,7830,"Food and tobacco roasting, baking, and drying machine operators and tenders",1,19,3.624660664991692e-5
+Northern Europe,50289,936639,25894,524187,7510,"Coin, vending, and amusement machine servicers and repairers",1,18,3.4338890510447604e-5
+Northern Europe,50289,936639,25894,524187,7850,Food cooking machine operators and tenders,1,18,3.4338890510447604e-5
+Northern Europe,50289,936639,25894,524187,9110,"Ambulance drivers and attendants, except emergency medical technicians",1,18,3.4338890510447604e-5
+Northern Europe,50289,936639,25894,524187,9265,Other rail transportation workers,1,18,3.4338890510447604e-5
+Northern Europe,50289,936639,25894,524187,2862,Court reporters and simultaneous captioners,1,17,3.24311743709783e-5
+Northern Europe,50289,936639,25894,524187,9720,Refuse and recyclable material collectors,2,17,3.24311743709783e-5
+Northern Europe,50289,936639,25894,524187,8630,Miscellaneous plant and system operators,1,15,2.8615742092039673e-5
+Northern Europe,50289,936639,25894,524187,5340,New accounts clerks,1,14,2.670802595257036e-5
+Northern Europe,50289,936639,25894,524187,0510,"Buyers and purchasing agents, farm products",1,13,2.480030981310105e-5
+Northern Europe,50289,936639,25894,524187,7160,Automotive glass installers and repairers,1,13,2.480030981310105e-5
+Northern Europe,50289,936639,25894,524187,7610,"Helpers--installation, maintenance, and repair workers",1,12,2.289259367363174e-5
+Northern Europe,50289,936639,25894,524187,8930,"Paper goods machine setters, operators, and tenders",1,12,2.289259367363174e-5
+Northern Europe,50289,936639,25894,524187,5010,"Switchboard operators, including answering service",1,11,2.0984877534162426e-5
+Northern Europe,50289,936639,25894,524187,6850,Underground mining machine operators,1,11,2.0984877534162426e-5
+Northern Europe,50289,936639,25894,524187,8365,"Textile machine setters, operators, and tenders",1,11,2.0984877534162426e-5
+Northern Europe,50289,936639,25894,524187,9570,"Conveyor, dredge, and hoist and winch operators",1,11,2.0984877534162426e-5
+Northern Europe,50289,936639,25894,524187,7040,"Electric motor, power tool, and related repairers",1,10,1.9077161394693116e-5
+Northern Europe,50289,936639,25894,524187,4461,"Embalmers, crematory operators, and funeral attendants",1,9,1.7169445255223802e-5
+Northern Europe,50289,936639,25894,524187,5560,"Postal service mail sorters, processors, and processing machine operators",1,9,1.7169445255223802e-5
+Northern Europe,50289,936639,25894,524187,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",2,9,1.7169445255223802e-5
+Northern Europe,50289,936639,25894,524187,9240,Railroad conductors and yardmasters,1,9,1.7169445255223802e-5
+Northern Europe,50289,936639,25894,524187,5530,"Meter readers, utilities",1,8,1.5261729115754492e-5
+Northern Europe,50289,936639,25894,524187,6040,"Graders and sorters, agricultural products",1,8,1.5261729115754492e-5
+Northern Europe,50289,936639,25894,524187,6130,Logging workers,1,8,1.5261729115754492e-5
+Northern Europe,50289,936639,25894,524187,9410,Transportation inspectors,1,7,1.335401297628518e-5
+Northern Europe,50289,936639,25894,524187,6441,Pipelayers,1,5,9.538580697346558e-6
+Northern Europe,50289,936639,25894,524187,7925,"Forming machine setters, operators, and tenders, metal and plastic",1,5,9.538580697346558e-6
+Northern Europe,50289,936639,25894,524187,6950,Other extraction workers,1,4,7.630864557877246e-6
+Northern Europe,50289,936639,25894,524187,8710,Cutting workers,1,4,7.630864557877246e-6
+Northern Europe,50289,936639,25894,524187,3801,Bailiffs,1,1,1.9077161394693115e-6
+Northern Europe,50289,936639,25894,524187,6600,"Helpers, construction trades",1,1,1.9077161394693115e-6

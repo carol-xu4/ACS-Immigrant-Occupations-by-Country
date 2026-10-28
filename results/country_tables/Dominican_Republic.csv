@@ -1,488 +1,492 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Dominican Republic,40610,1267474,21459,678527,3601,Home health aides,1071,37517,0.05529183068617756
-Dominican Republic,40610,1267474,21459,678527,9130,Driver/sales workers and truck drivers,846,31609,0.046584734284707906
-Dominican Republic,40610,1267474,21459,678527,4220,Janitors and building cleaners,831,29086,0.04286638556756032
-Dominican Republic,40610,1267474,21459,678527,9142,Taxi drivers,421,15951,0.023508276015545438
-Dominican Republic,40610,1267474,21459,678527,9620,"Laborers and freight, stock, and material movers, hand",470,15617,0.023016033260282936
-Dominican Republic,40610,1267474,21459,678527,4230,Maids and housekeeping cleaners,516,15524,0.022878971654775714
-Dominican Republic,40610,1267474,21459,678527,4720,Cashiers,462,15137,0.022308618522181137
-Dominican Republic,40610,1267474,21459,678527,8990,"Miscellaneous production workers, including equipment operators and tenders",422,14582,0.02149067023125093
-Dominican Republic,40610,1267474,21459,678527,5240,Customer service representatives,406,13359,0.019688236429795718
-Dominican Republic,40610,1267474,21459,678527,9640,"Packers and packagers, hand",368,13349,0.01967349862275193
-Dominican Republic,40610,1267474,21459,678527,3602,Personal care aides,392,12428,0.018316146594019103
-Dominican Republic,40610,1267474,21459,678527,4020,Cooks,347,11140,0.016417917046779272
-Dominican Republic,40610,1267474,21459,678527,6260,Construction laborers,340,10983,0.01618653347619181
-Dominican Republic,40610,1267474,21459,678527,0440,Other managers,359,10939,0.016121687125199145
-Dominican Republic,40610,1267474,21459,678527,4760,Retail salespersons,347,10816,0.01594041209856056
-Dominican Republic,40610,1267474,21459,678527,4700,First-line supervisors of retail sales workers,325,10466,0.015424588852027996
-Dominican Republic,40610,1267474,21459,678527,4600,Childcare workers,305,10286,0.015159308325239821
-Dominican Republic,40610,1267474,21459,678527,9645,Stockers and order fillers,289,9707,0.014305989297404524
-Dominican Republic,40610,1267474,21459,678527,2545,Teaching assistants,304,8219,0.012113003609288945
-Dominican Republic,40610,1267474,21459,678527,4510,"Hairdressers, hairstylists, and cosmetologists",211,7527,0.01109314736185885
-Dominican Republic,40610,1267474,21459,678527,7750,Other assemblers and fabricators,215,7061,0.010406365553618353
-Dominican Republic,40610,1267474,21459,678527,5740,"Secretaries and administrative assistants, except legal, medical, and executive",234,6788,0.010004023421322955
-Dominican Republic,40610,1267474,21459,678527,3603,Nursing assistants,212,6711,0.00989054230708579
-Dominican Republic,40610,1267474,21459,678527,5510,Couriers and messengers,181,6523,0.009613471534662585
-Dominican Republic,40610,1267474,21459,678527,4110,Waiters and waitresses,187,5691,0.008387285988619465
-Dominican Republic,40610,1267474,21459,678527,4030,Food preparation workers,167,5323,0.007844934689408086
-Dominican Republic,40610,1267474,21459,678527,5610,"Shipping, receiving, and inventory clerks",149,5285,0.007788931022641693
-Dominican Republic,40610,1267474,21459,678527,2310,Elementary and middle school teachers,198,5155,0.007597339531072456
-Dominican Republic,40610,1267474,21459,678527,7200,Automotive service technicians and mechanics,162,5133,0.007564916355576123
-Dominican Republic,40610,1267474,21459,678527,4251,Landscaping and groundskeeping workers,147,5008,0.007380693767528779
-Dominican Republic,40610,1267474,21459,678527,0120,Financial managers,167,4636,0.006832447345499884
-Dominican Republic,40610,1267474,21459,678527,4500,Barbers,123,4626,0.0068177095384560965
-Dominican Republic,40610,1267474,21459,678527,3255,Registered nurses,169,4621,0.006810340634934203
-Dominican Republic,40610,1267474,21459,678527,7340,"Maintenance and repair workers, general",118,4531,0.0066777003715401155
-Dominican Republic,40610,1267474,21459,678527,3645,Medical assistants,153,4448,0.006555376573076679
-Dominican Republic,40610,1267474,21459,678527,5860,"Office clerks, general",179,4358,0.006422736309682592
-Dominican Republic,40610,1267474,21459,678527,6230,Carpenters,113,4216,0.00621345944966081
-Dominican Republic,40610,1267474,21459,678527,5400,Receptionists and information clerks,154,4147,0.006111768581058676
-Dominican Republic,40610,1267474,21459,678527,0310,Food service managers,120,4090,0.006027763080909087
-Dominican Republic,40610,1267474,21459,678527,6355,Electricians,119,4046,0.005962916729916422
-Dominican Republic,40610,1267474,21459,678527,6410,Painters and paperhangers,121,3865,0.005696162422423868
-Dominican Republic,40610,1267474,21459,678527,8800,Packaging and filling machine operators and tenders,118,3766,0.005550258132690372
-Dominican Republic,40610,1267474,21459,678527,5000,First-line supervisors of office and administrative support workers,135,3710,0.005467726413245162
-Dominican Republic,40610,1267474,21459,678527,2300,Preschool and kindergarten teachers,127,3676,0.005417617869296285
-Dominican Republic,40610,1267474,21459,678527,9122,"Bus drivers, transit and intercity",119,3619,0.005333612369146696
-Dominican Republic,40610,1267474,21459,678527,9600,Industrial truck and tractor operators,113,3519,0.00518623429870882
-Dominican Republic,40610,1267474,21459,678527,3930,Security guards and gaming surveillance officers,108,3434,0.005060962938836627
-Dominican Republic,40610,1267474,21459,678527,0020,General and operations managers,124,3345,0.004929796456146918
-Dominican Republic,40610,1267474,21459,678527,9121,"Bus drivers, school",106,3336,0.004916532429807509
-Dominican Republic,40610,1267474,21459,678527,3870,Police officers,107,3333,0.004912111087694373
-Dominican Republic,40610,1267474,21459,678527,4710,First-line supervisors of non-retail sales workers,114,3203,0.004720519596125136
-Dominican Republic,40610,1267474,21459,678527,4850,"Sales representatives, wholesale and manufacturing",97,3100,0.004568720183574125
-Dominican Republic,40610,1267474,21459,678527,0800,Accountants and auditors,130,3019,0.004449343946519446
-Dominican Republic,40610,1267474,21459,678527,0350,Medical and health services managers,98,2929,0.004316703683125358
-Dominican Republic,40610,1267474,21459,678527,5120,"Bookkeeping, accounting, and auditing clerks",108,2896,0.00426806891988086
-Dominican Republic,40610,1267474,21459,678527,8740,"Inspectors, testers, sorters, samplers, and weighers",106,2892,0.004262173797063344
-Dominican Republic,40610,1267474,21459,678527,8225,Other metal workers and plastic workers,85,2686,0.0039585749719613225
-Dominican Republic,40610,1267474,21459,678527,1021,Software developers,107,2659,0.003918782892943096
-Dominican Republic,40610,1267474,21459,678527,9610,Cleaners of vehicles and equipment,71,2655,0.003912887770125581
-Dominican Republic,40610,1267474,21459,678527,7700,First-line supervisors of production and operating workers,95,2616,0.0038554103226548096
-Dominican Republic,40610,1267474,21459,678527,5940,Other office and administrative support workers,100,2564,0.0037787737260271148
-Dominican Republic,40610,1267474,21459,678527,1050,Computer support specialists,68,2403,0.003541495032622136
-Dominican Republic,40610,1267474,21459,678527,4000,Chefs and head cooks,76,2364,0.0034840175851513647
-Dominican Republic,40610,1267474,21459,678527,0220,Construction managers,70,2311,0.003405907207819291
-Dominican Republic,40610,1267474,21459,678527,7810,"Butchers and other meat, poultry, and fish processing workers",73,2311,0.003405907207819291
-Dominican Republic,40610,1267474,21459,678527,4200,First-line supervisors of housekeeping and janitorial workers,76,2238,0.003298321216399642
-Dominican Republic,40610,1267474,21459,678527,0410,"Property, real estate, and community association managers",69,2190,0.003227579742589462
-Dominican Republic,40610,1267474,21459,678527,4055,Fast food and counter workers,73,2156,0.0031774711986405847
-Dominican Republic,40610,1267474,21459,678527,4140,Dishwashers,59,2142,0.003156838268779282
-Dominican Republic,40610,1267474,21459,678527,0630,Human resources workers,76,2140,0.0031538907073705245
-Dominican Republic,40610,1267474,21459,678527,3090,Physicians,93,2130,0.0031391529003267373
-Dominican Republic,40610,1267474,21459,678527,6442,"Plumbers, pipefitters, and steamfitters",68,2090,0.0030802016721515873
-Dominican Republic,40610,1267474,21459,678527,7330,Industrial and refractory machinery mechanics,54,2083,0.003069885207220936
-Dominican Republic,40610,1267474,21459,678527,4920,Real estate brokers and sales agents,68,2045,0.0030138815404545435
-Dominican Republic,40610,1267474,21459,678527,3640,Dental assistants,73,2031,0.002993248610593241
-Dominican Republic,40610,1267474,21459,678527,7855,"Food processing workers, all other",59,2028,0.002988827268480105
-Dominican Republic,40610,1267474,21459,678527,7800,Bakers,50,2019,0.002975563242140696
-Dominican Republic,40610,1267474,21459,678527,2014,"Social workers, all other",96,1982,0.002921033356078682
-Dominican Republic,40610,1267474,21459,678527,7315,"Heating, air conditioning, and refrigeration mechanics and installers",53,1977,0.0029136644525567883
-Dominican Republic,40610,1267474,21459,678527,9150,"Motor vehicle operators, all other",46,1959,0.002887136399877971
-Dominican Republic,40610,1267474,21459,678527,0230,Education and childcare administrators,71,1894,0.002791340654093352
-Dominican Republic,40610,1267474,21459,678527,2360,Other teachers and instructors,64,1867,0.002751548575075126
-Dominican Republic,40610,1267474,21459,678527,2145,Paralegals and legal assistants,71,1861,0.0027427058908488537
-Dominican Republic,40610,1267474,21459,678527,2320,Secondary school teachers,79,1857,0.0027368107680313383
-Dominican Republic,40610,1267474,21459,678527,8300,Laundry and dry-cleaning workers,50,1785,0.0026306985573160686
-Dominican Republic,40610,1267474,21459,678527,0750,"Business operations specialists, all other",58,1765,0.0026012229432284934
-Dominican Republic,40610,1267474,21459,678527,8140,"Welding, soldering, and brazing workers",41,1687,0.002486268048286951
-Dominican Republic,40610,1267474,21459,678527,6200,First-line supervisors of construction trades and extraction workers,49,1676,0.0024700564605387846
-Dominican Republic,40610,1267474,21459,678527,0010,Chief executives and legislators,63,1646,0.002425843039407422
-Dominican Republic,40610,1267474,21459,678527,0705,Project management specialists,69,1640,0.0024170003551811496
-Dominican Republic,40610,1267474,21459,678527,3946,School bus monitors,47,1620,0.0023875247410935748
-Dominican Republic,40610,1267474,21459,678527,4965,"Sales and related workers, all other",46,1606,0.002366891811232272
-Dominican Republic,40610,1267474,21459,678527,5160,Tellers,38,1591,0.0023447851006665912
-Dominican Republic,40610,1267474,21459,678527,4530,"Baggage porters, bellhops, and concierges",55,1577,0.0023241521708052887
-Dominican Republic,40610,1267474,21459,678527,3500,Licensed practical and licensed vocational nurses,45,1566,0.002307940583057122
-Dominican Republic,40610,1267474,21459,678527,5110,Billing and posting clerks,60,1545,0.0022769911882651686
-Dominican Republic,40610,1267474,21459,678527,8950,Helpers--production workers,48,1501,0.0022121448372725036
-Dominican Republic,40610,1267474,21459,678527,4010,First-line supervisors of food preparation and serving workers,39,1494,0.002201828372341852
-Dominican Republic,40610,1267474,21459,678527,9141,Shuttle drivers and chauffeurs,45,1484,0.002187090565298065
-Dominican Republic,40610,1267474,21459,678527,2016,Social and human service assistants,46,1475,0.002173826538958656
-Dominican Republic,40610,1267474,21459,678527,1108,"Computer occupations, all other",59,1446,0.002131086898531672
-Dominican Republic,40610,1267474,21459,678527,0710,Management analysts,59,1394,0.0020544503019039773
-Dominican Republic,40610,1267474,21459,678527,0160,"Transportation, storage, and distribution managers",39,1372,0.002022027126407645
-Dominican Republic,40610,1267474,21459,678527,2205,Postsecondary teachers,55,1372,0.002022027126407645
-Dominican Republic,40610,1267474,21459,678527,1006,Computer systems analysts,40,1363,0.002008763100068236
-Dominican Republic,40610,1267474,21459,678527,0420,Social and community service managers,47,1337,0.0019704448017543886
-Dominican Republic,40610,1267474,21459,678527,4810,Insurance sales agents,47,1295,0.001908546012170481
-Dominican Republic,40610,1267474,21459,678527,1555,"Other engineering technologists and technicians, except drafters",46,1274,0.0018775966173785272
-Dominican Republic,40610,1267474,21459,678527,3300,Clinical laboratory technologists and technicians,43,1270,0.0018717014945610123
-Dominican Republic,40610,1267474,21459,678527,0700,Logisticians,29,1256,0.0018510685646997097
-Dominican Republic,40610,1267474,21459,678527,2100,"Lawyers, and judges, magistrates, and other judicial workers",51,1242,0.0018304356348384074
-Dominican Republic,40610,1267474,21459,678527,4130,Dining room and cafeteria attendants and bartender helpers,49,1239,0.001826014292725271
-Dominican Republic,40610,1267474,21459,678527,4521,Manicurists and pedicurists,47,1238,0.0018245405120208924
-Dominican Republic,40610,1267474,21459,678527,9350,Parking attendants,36,1228,0.0018098027049771048
-Dominican Republic,40610,1267474,21459,678527,7210,Bus and truck mechanics and diesel engine specialists,36,1191,0.0017552728189150911
-Dominican Republic,40610,1267474,21459,678527,3421,Pharmacy technicians,47,1149,0.0016933740293311836
-Dominican Republic,40610,1267474,21459,678527,5550,Postal service mail carriers,39,1131,0.001666845976652366
-Dominican Republic,40610,1267474,21459,678527,9005,Supervisors of transportation and material moving workers,45,1118,0.0016476868274954424
-Dominican Republic,40610,1267474,21459,678527,8320,Sewing machine operators,40,1093,0.0016108423098859736
-Dominican Republic,40610,1267474,21459,678527,4040,Bartenders,36,1082,0.0015946307221378073
-Dominican Republic,40610,1267474,21459,678527,0051,Marketing managers,33,1073,0.0015813666957983986
-Dominican Republic,40610,1267474,21459,678527,6050,Other agricultural workers,29,1000,0.0014737807043787498
-Dominican Republic,40610,1267474,21459,678527,2640,Other designers,28,996,0.0014678855815612349
-Dominican Republic,40610,1267474,21459,678527,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",39,993,0.0014634642394480985
-Dominican Republic,40610,1267474,21459,678527,6400,Insulation workers,16,989,0.0014575691166305836
-Dominican Republic,40610,1267474,21459,678527,8810,Painting workers,26,977,0.0014398837481780387
-Dominican Republic,40610,1267474,21459,678527,7140,Aircraft mechanics and service technicians,27,974,0.0014354624060649024
-Dominican Republic,40610,1267474,21459,678527,9830,"Military, rank not specified",27,959,0.0014133556954992212
-Dominican Republic,40610,1267474,21459,678527,2040,Clergy,34,952,0.00140303923056857
-Dominican Republic,40610,1267474,21459,678527,7000,"First-line supervisors of mechanics, installers, and repairers",29,943,0.0013897752042291611
-Dominican Republic,40610,1267474,21459,678527,0565,Compliance officers,36,942,0.0013883014235247823
-Dominican Republic,40610,1267474,21459,678527,7150,Automotive body and related repairers,30,939,0.0013838800814116462
-Dominican Republic,40610,1267474,21459,678527,2861,Interpreters and translators,27,936,0.0013794587392985099
-Dominican Republic,40610,1267474,21459,678527,5410,Reservation and transportation ticket agents and travel clerks,30,913,0.0013455617830977985
-Dominican Republic,40610,1267474,21459,678527,2330,Special education teachers,28,891,0.001313138607601466
-Dominican Republic,40610,1267474,21459,678527,0052,Sales managers,39,885,0.0013042959233751936
-Dominican Republic,40610,1267474,21459,678527,8650,"Crushing, grinding, polishing, mixing, and blending workers",17,883,0.0013013483619664361
-Dominican Republic,40610,1267474,21459,678527,1530,Other engineers,32,856,0.0012615562829482098
-Dominican Republic,40610,1267474,21459,678527,0110,Computer and information systems managers,39,855,0.0012600825022438312
-Dominican Republic,40610,1267474,21459,678527,0735,Market research analysts and marketing specialists,27,848,0.00124976603731318
-Dominican Republic,40610,1267474,21459,678527,1105,Network and computer systems administrators,25,813,0.0011981837126599237
-Dominican Republic,40610,1267474,21459,678527,3655,Other healthcare support workers,16,793,0.0011687080985723487
-Dominican Republic,40610,1267474,21459,678527,5522,"Dispatchers, except police, fire, and ambulance",28,790,0.0011642867564592124
-Dominican Republic,40610,1267474,21459,678527,6305,Construction equipment operators,19,783,0.001153970291528561
-Dominican Republic,40610,1267474,21459,678527,7720,"Electrical, electronics, and electromechanical assemblers",31,779,0.0011480751687110461
-Dominican Republic,40610,1267474,21459,678527,5710,Executive secretaries and executive administrative assistants,30,777,0.0011451276073022887
-Dominican Republic,40610,1267474,21459,678527,3245,Other therapists,21,767,0.001130389800258501
-Dominican Republic,40610,1267474,21459,678527,0520,"Wholesale and retail buyers, except farm products",23,752,0.0011082830896928198
-Dominican Republic,40610,1267474,21459,678527,3802,Correctional officers and jailers,20,748,0.0011023879668753049
-Dominican Republic,40610,1267474,21459,678527,2002,"Educational, guidance, and career counselors and advisors",40,745,0.0010979666247621686
-Dominican Republic,40610,1267474,21459,678527,5310,"Interviewers, except eligibility and loan",19,745,0.0010979666247621686
-Dominican Republic,40610,1267474,21459,678527,5165,Other financial clerks,20,729,0.0010743861334921087
-Dominican Republic,40610,1267474,21459,678527,1970,"Other life, physical, and social science technicians",24,719,0.0010596483264483211
-Dominican Republic,40610,1267474,21459,678527,4120,"Food servers, nonrestaurant",29,706,0.0010404891772913974
-Dominican Republic,40610,1267474,21459,678527,6515,Roofers,25,699,0.0010301727123607461
-Dominican Republic,40610,1267474,21459,678527,7640,"Other installation, maintenance, and repair workers",19,696,0.0010257513702476098
-Dominican Republic,40610,1267474,21459,678527,0845,Financial and investment analysts,24,693,0.0010213300281344737
-Dominican Republic,40610,1267474,21459,678527,3940,Crossing guards and flaggers,20,688,0.0010139611246125799
-Dominican Republic,40610,1267474,21459,678527,4950,"Door-to-door sales workers, news and street vendors, and related workers",19,675,9.948019754556562e-4
-Dominican Republic,40610,1267474,21459,678527,8255,Printing press operators,27,675,9.948019754556562e-4
-Dominican Republic,40610,1267474,21459,678527,0910,Credit counselors and loan officers,23,668,9.844855105250049e-4
-Dominican Republic,40610,1267474,21459,678527,5810,Data entry keyers,27,661,9.741690455943537e-4
-Dominican Republic,40610,1267474,21459,678527,7020,Radio and telecommunications equipment installers and repairers,16,657,9.682739227768386e-4
-Dominican Republic,40610,1267474,21459,678527,1360,Civil engineers,24,635,9.358507472805061e-4
-Dominican Republic,40610,1267474,21459,678527,7130,Security and fire alarm systems installers,13,627,9.240605016454761e-4
-Dominican Republic,40610,1267474,21459,678527,0140,Industrial production managers,26,624,9.196391595323399e-4
-Dominican Republic,40610,1267474,21459,678527,5600,"Production, planning, and expediting clerks",23,623,9.181653788279612e-4
-Dominican Republic,40610,1267474,21459,678527,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
-						and plastic",16,623,9.181653788279612e-4
-Dominican Republic,40610,1267474,21459,678527,8030,Machinists,18,620,9.137440367148249e-4
-Dominican Republic,40610,1267474,21459,678527,1305,"Architects, except landscape and naval",24,612,9.019537910797949e-4
-Dominican Republic,40610,1267474,21459,678527,1430,"Industrial engineers, including health and safety",27,610,8.990062296710374e-4
-Dominican Republic,40610,1267474,21459,678527,0540,"Claims adjusters, appraisers, examiners, and investigators",17,608,8.9605866826228e-4
-Dominican Republic,40610,1267474,21459,678527,6240,"Carpet, floor, and tile installers and finishers",12,606,8.931111068535224e-4
-Dominican Republic,40610,1267474,21459,678527,8350,"Tailors, dressmakers, and sewers",20,606,8.931111068535224e-4
-Dominican Republic,40610,1267474,21459,678527,6330,"Drywall installers, ceiling tile installers, and tapers",19,599,8.827946419228712e-4
-Dominican Republic,40610,1267474,21459,678527,9720,Refuse and recyclable material collectors,14,584,8.606879313571899e-4
-Dominican Republic,40610,1267474,21459,678527,0136,Human resources managers,24,582,8.577403699484324e-4
-Dominican Republic,40610,1267474,21459,678527,9760,Other material moving workers,15,580,8.547928085396749e-4
-Dominican Republic,40610,1267474,21459,678527,2004,Mental health counselors,21,574,8.459501243134024e-4
-Dominican Republic,40610,1267474,21459,678527,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",12,568,8.3710744008713e-4
-Dominican Republic,40610,1267474,21459,678527,9365,Transportation service attendants,13,567,8.356336593827512e-4
-Dominican Republic,40610,1267474,21459,678527,4435,Other entertainment attendants and related workers,24,564,8.312123172696149e-4
-Dominican Republic,40610,1267474,21459,678527,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",17,560,8.253171944520999e-4
-Dominican Republic,40610,1267474,21459,678527,2634,Graphic designers,22,556,8.194220716345849e-4
-Dominican Republic,40610,1267474,21459,678527,0530,"Purchasing agents, except wholesale, retail, and farm products",19,555,8.179482909302061e-4
-Dominican Republic,40610,1267474,21459,678527,3740,Firefighters,19,546,8.046842645907975e-4
-Dominican Republic,40610,1267474,21459,678527,9050,Flight attendants,19,541,7.973153610689037e-4
-Dominican Republic,40610,1267474,21459,678527,4655,"Personal care and service workers, all other",25,539,7.943677996601462e-4
-Dominican Republic,40610,1267474,21459,678527,2012,Healthcare social workers,12,536,7.8994645754701e-4
-Dominican Republic,40610,1267474,21459,678527,7010,"Computer, automated teller, and office machine repairers",21,530,7.811037733207374e-4
-Dominican Republic,40610,1267474,21459,678527,3820,Detectives and criminal investigators,14,522,7.693135276857074e-4
-Dominican Republic,40610,1267474,21459,678527,2025,Other community and social service specialists,15,521,7.678397469813287e-4
-Dominican Republic,40610,1267474,21459,678527,2710,Producers and directors,22,515,7.589970627550562e-4
-Dominican Republic,40610,1267474,21459,678527,1010,Computer programmers,23,514,7.575232820506774e-4
-Dominican Republic,40610,1267474,21459,678527,0940,Tax preparers,15,511,7.531019399375412e-4
-Dominican Republic,40610,1267474,21459,678527,5350,Correspondence clerks and order clerks,16,511,7.531019399375412e-4
-Dominican Republic,40610,1267474,21459,678527,5300,"Hotel, motel, and resort desk clerks",23,509,7.501543785287837e-4
-Dominican Republic,40610,1267474,21459,678527,5260,File clerks,14,507,7.472068171200262e-4
-Dominican Republic,40610,1267474,21459,678527,0850,Personal financial advisors,17,500,7.368903521893749e-4
-Dominican Republic,40610,1267474,21459,678527,0150,Purchasing managers,18,488,7.192049837368299e-4
-Dominican Republic,40610,1267474,21459,678527,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",18,485,7.147836416236937e-4
-Dominican Republic,40610,1267474,21459,678527,2350,Tutors,22,483,7.118360802149361e-4
-Dominican Republic,40610,1267474,21459,678527,4400,Gambling services workers,19,482,7.103622995105574e-4
-Dominican Republic,40610,1267474,21459,678527,0650,Training and development specialists,21,481,7.088885188061786e-4
-Dominican Republic,40610,1267474,21459,678527,1240,Other mathematical science occupations,20,469,6.912031503536337e-4
-Dominican Republic,40610,1267474,21459,678527,5730,Medical secretaries and administrative assistants,16,460,6.779391240142249e-4
-Dominican Republic,40610,1267474,21459,678527,9415,Passenger attendants,13,459,6.764653433098462e-4
-Dominican Republic,40610,1267474,21459,678527,4240,Pest control workers,13,457,6.735177819010887e-4
-Dominican Republic,40610,1267474,21459,678527,1551,Electrical and electronic engineering technologists and technicians,15,431,6.351994835872411e-4
-Dominican Republic,40610,1267474,21459,678527,3960,Other protective service workers,11,428,6.307781414741049e-4
-Dominican Republic,40610,1267474,21459,678527,8610,Stationary engineers and boiler operators,15,412,6.07197650204045e-4
-Dominican Republic,40610,1267474,21459,678527,1650,Other life scientists,10,408,6.013025273865299e-4
-Dominican Republic,40610,1267474,21459,678527,3310,Dental hygienists,14,408,6.013025273865299e-4
-Dominican Republic,40610,1267474,21459,678527,3322,Diagnostic medical sonographers,10,408,6.013025273865299e-4
-Dominican Republic,40610,1267474,21459,678527,2905,Other media and communication equipment workers,11,403,5.939336238646362e-4
-Dominican Republic,40610,1267474,21459,678527,4621,Exercise trainers and group fitness instructors,15,403,5.939336238646362e-4
-Dominican Republic,40610,1267474,21459,678527,7840,Food batchmakers,17,403,5.939336238646362e-4
-Dominican Republic,40610,1267474,21459,678527,0900,Financial examiners,2,401,5.909860624558787e-4
-Dominican Republic,40610,1267474,21459,678527,5820,Word processors and typists,6,401,5.909860624558787e-4
-Dominican Republic,40610,1267474,21459,678527,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,11,399,5.880385010471211e-4
-Dominican Republic,40610,1267474,21459,678527,5140,Payroll and timekeeping clerks,16,396,5.836171589339849e-4
-Dominican Republic,40610,1267474,21459,678527,2006,"Counselors, all other",15,395,5.821433782296062e-4
-Dominican Republic,40610,1267474,21459,678527,3323,Radiologic technologists and technicians,17,393,5.791958168208487e-4
-Dominican Republic,40610,1267474,21459,678527,5540,Postal service clerks,12,393,5.791958168208487e-4
-Dominican Republic,40610,1267474,21459,678527,7420,Telecommunications line installers and repairers,12,392,5.7772203611647e-4
-Dominican Republic,40610,1267474,21459,678527,0340,Lodging managers,12,390,5.747744747077125e-4
-Dominican Republic,40610,1267474,21459,678527,3630,Massage therapists,16,390,5.747744747077125e-4
-Dominican Republic,40610,1267474,21459,678527,6040,"Graders and sorters, agricultural products",15,390,5.747744747077125e-4
-Dominican Republic,40610,1267474,21459,678527,0102,Facilities managers,17,386,5.688793518901974e-4
-Dominican Republic,40610,1267474,21459,678527,1800,Economists,3,380,5.60036667663925e-4
-Dominican Republic,40610,1267474,21459,678527,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",13,377,5.556153255507887e-4
-Dominican Republic,40610,1267474,21459,678527,8720,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",7,375,5.526677641420312e-4
-Dominican Republic,40610,1267474,21459,678527,2722,Coaches and scouts,13,373,5.497202027332737e-4
-Dominican Republic,40610,1267474,21459,678527,3605,Orderlies and psychiatric aides,9,369,5.438250799157587e-4
-Dominican Republic,40610,1267474,21459,678527,5250,"Eligibility interviewers, government programs",17,365,5.379299570982437e-4
-Dominican Republic,40610,1267474,21459,678527,4350,Animal caretakers,13,363,5.349823956894862e-4
-Dominican Republic,40610,1267474,21459,678527,9430,Other transportation workers,10,363,5.349823956894862e-4
-Dominican Republic,40610,1267474,21459,678527,1410,Electrical and electronics engineers,15,362,5.335086149851075e-4
-Dominican Republic,40610,1267474,21459,678527,3424,Veterinary technologists and technicians,8,362,5.335086149851075e-4
-Dominican Republic,40610,1267474,21459,678527,6520,Sheet metal workers,12,351,5.172970272369412e-4
-Dominican Republic,40610,1267474,21459,678527,3110,Physician assistants,14,350,5.158232465325625e-4
-Dominican Republic,40610,1267474,21459,678527,8310,"Pressers, textile, garment, and related materials",8,341,5.025592201931537e-4
-Dominican Republic,40610,1267474,21459,678527,9825,Military enlisted tactical operations and air/weapons specialists and crew members,18,339,4.996116587843962e-4
-Dominican Republic,40610,1267474,21459,678527,1031,Web developers,10,336,4.951903166712599e-4
-Dominican Republic,40610,1267474,21459,678527,0960,Other financial specialists,12,334,4.922427552625024e-4
-Dominican Republic,40610,1267474,21459,678527,1022,Software quality assurance analysts and testers,8,331,4.878214131493662e-4
-Dominican Republic,40610,1267474,21459,678527,1065,Database administrators and architects,8,331,4.878214131493662e-4
-Dominican Republic,40610,1267474,21459,678527,7610,"Helpers--installation, maintenance, and repair workers",8,331,4.878214131493662e-4
-Dominican Republic,40610,1267474,21459,678527,1760,"Physical scientists, all other",12,328,4.8340007103622994e-4
-Dominican Republic,40610,1267474,21459,678527,2600,Artists and related workers,13,327,4.819262903318512e-4
-Dominican Republic,40610,1267474,21459,678527,4800,Advertising sales agents,10,325,4.789787289230937e-4
-Dominican Republic,40610,1267474,21459,678527,0725,"Meeting, convention, and event planners",9,317,4.671884832880637e-4
-Dominican Republic,40610,1267474,21459,678527,2850,Writers and authors,11,312,4.5981957976616995e-4
-Dominican Republic,40610,1267474,21459,678527,3258,"Nurse practitioners, and nurse midwives",13,309,4.553982376530337e-4
-Dominican Republic,40610,1267474,21459,678527,1032,Web and digital interface designers,7,308,4.5392445694865494e-4
-Dominican Republic,40610,1267474,21459,678527,1007,Information security analysts,10,306,4.5097689553989746e-4
-Dominican Republic,40610,1267474,21459,678527,3030,Dietitians and nutritionists,10,305,4.495031148355187e-4
-Dominican Republic,40610,1267474,21459,678527,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",8,305,4.495031148355187e-4
-Dominican Republic,40610,1267474,21459,678527,2011,"Child, family, and school social workers",14,300,4.4213421131362497e-4
-Dominican Republic,40610,1267474,21459,678527,4622,Recreation workers,11,299,4.4066043060924623e-4
-Dominican Republic,40610,1267474,21459,678527,4820,"Securities, commodities, and financial services sales agents",12,294,4.332915270873525e-4
-Dominican Republic,40610,1267474,21459,678527,9630,Machine feeders and offbearers,6,294,4.332915270873525e-4
-Dominican Republic,40610,1267474,21459,678527,0600,Cost estimators,10,293,4.318177463829737e-4
-Dominican Republic,40610,1267474,21459,678527,3321,Cardiovascular technologists and technicians,8,287,4.229750621567012e-4
-Dominican Republic,40610,1267474,21459,678527,4252,Tree trimmers and pruners,7,282,4.1560615863480744e-4
-Dominican Republic,40610,1267474,21459,678527,5720,Legal secretaries and administrative assistants,9,280,4.1265859722604996e-4
-Dominican Republic,40610,1267474,21459,678527,6600,"Helpers, construction trades",9,280,4.1265859722604996e-4
-Dominican Republic,40610,1267474,21459,678527,2632,Fashion designers,10,279,4.111848165216712e-4
-Dominican Republic,40610,1267474,21459,678527,9030,Aircraft pilots and flight engineers,11,278,4.0971103581729243e-4
-Dominican Republic,40610,1267474,21459,678527,5840,Insurance claims and policy processing clerks,12,276,4.0676347440853495e-4
-Dominican Republic,40610,1267474,21459,678527,3050,Pharmacists,6,271,3.993945708866412e-4
-Dominican Republic,40610,1267474,21459,678527,6660,Construction and building inspectors,9,267,3.934994480691262e-4
-Dominican Republic,40610,1267474,21459,678527,7320,Home appliance repairers,10,261,3.846567638428537e-4
-Dominican Republic,40610,1267474,21459,678527,1320,Aerospace engineers,8,259,3.817092024340962e-4
-Dominican Republic,40610,1267474,21459,678527,6720,Hazardous materials removal workers,7,259,3.817092024340962e-4
-Dominican Republic,40610,1267474,21459,678527,0101,Administrative services managers,9,256,3.7728786032095995e-4
-Dominican Republic,40610,1267474,21459,678527,5220,"Court, municipal, and license clerks",12,256,3.7728786032095995e-4
-Dominican Republic,40610,1267474,21459,678527,1106,Computer network architects,7,255,3.758140796165812e-4
-Dominican Republic,40610,1267474,21459,678527,3401,Emergency medical technicians,7,254,3.7434029891220247e-4
-Dominican Republic,40610,1267474,21459,678527,3010,Dentists,13,253,3.7286651820782373e-4
-Dominican Republic,40610,1267474,21459,678527,2001,Substance abuse and behavioral disorder counselors,8,252,3.7139273750344494e-4
-Dominican Republic,40610,1267474,21459,678527,2555,Other educational instruction and library workers,11,248,3.6549761468593e-4
-Dominican Republic,40610,1267474,21459,678527,2170,"Title examiners, abstractors, and searchers",5,236,3.4781224623338494e-4
-Dominican Republic,40610,1267474,21459,678527,2180,"Legal support workers, all other",10,236,3.4781224623338494e-4
-Dominican Republic,40610,1267474,21459,678527,3610,Occupational therapy assistants and aides,12,235,3.463384655290062e-4
-Dominican Republic,40610,1267474,21459,678527,3649,Phlebotomists,10,235,3.463384655290062e-4
-Dominican Republic,40610,1267474,21459,678527,4750,Parts salespersons,8,235,3.463384655290062e-4
-Dominican Republic,40610,1267474,21459,678527,1825,Other psychologists,8,229,3.374957813027337e-4
-Dominican Republic,40610,1267474,21459,678527,1306,Landscape architects,2,224,3.3012687778083996e-4
-Dominican Republic,40610,1267474,21459,678527,1460,Mechanical engineers,9,224,3.3012687778083996e-4
-Dominican Republic,40610,1267474,21459,678527,2910,Photographers,8,224,3.3012687778083996e-4
-Dominican Republic,40610,1267474,21459,678527,5100,Bill and account collectors,12,224,3.3012687778083996e-4
-Dominican Republic,40610,1267474,21459,678527,5360,"Human resources assistants, except payroll and timekeeping",9,224,3.3012687778083996e-4
-Dominican Republic,40610,1267474,21459,678527,3230,Speech-language pathologists,11,223,3.286530970764612e-4
-Dominican Republic,40610,1267474,21459,678527,2060,"Religious workers, all other",8,219,3.227579742589462e-4
-Dominican Republic,40610,1267474,21459,678527,3545,Miscellaneous health technologists and technicians,8,219,3.227579742589462e-4
-Dominican Republic,40610,1267474,21459,678527,7220,Heavy vehicle and mobile equipment service technicians and mechanics,8,216,3.1833663214581e-4
-Dominican Republic,40610,1267474,21459,678527,4420,"Ushers, lobby attendants, and ticket takers",8,214,3.1538907073705246e-4
-Dominican Republic,40610,1267474,21459,678527,1220,Operations research analysts,7,213,3.139152900326737e-4
-Dominican Republic,40610,1267474,21459,678527,7540,Locksmiths and safe repairers,3,212,3.12441509328295e-4
-Dominican Republic,40610,1267474,21459,678527,5900,"Office machine operators, except computer",10,211,3.1096772862391624e-4
-Dominican Republic,40610,1267474,21459,678527,3945,Transportation security screeners,7,210,3.0949394791953745e-4
-Dominican Republic,40610,1267474,21459,678527,3910,Private detectives and investigators,9,209,3.080201672151587e-4
-Dominican Republic,40610,1267474,21459,678527,5500,Cargo and freight agents,6,206,3.035988251020225e-4
-Dominican Republic,40610,1267474,21459,678527,3423,Surgical technologists,8,204,3.0065126369326496e-4
-Dominican Republic,40610,1267474,21459,678527,1720,Chemists and materials scientists,5,203,2.991774829888862e-4
-Dominican Republic,40610,1267474,21459,678527,9810,First-line enlisted military supervisors,4,201,2.9622992158012874e-4
-Dominican Republic,40610,1267474,21459,678527,8710,Cutting workers,5,198,2.9180857946699246e-4
-Dominican Republic,40610,1267474,21459,678527,3620,Physical therapist assistants and aides,6,197,2.903347987626137e-4
-Dominican Republic,40610,1267474,21459,678527,3710,First-line supervisors of police and detectives,8,197,2.903347987626137e-4
-Dominican Republic,40610,1267474,21459,678527,4522,Skincare specialists,8,192,2.8296589524072e-4
-Dominican Republic,40610,1267474,21459,678527,0205,"Farmers, ranchers, and other agricultural managers",8,191,2.8149211453634123e-4
-Dominican Republic,40610,1267474,21459,678527,3515,Medical records specialists,11,191,2.8149211453634123e-4
-Dominican Republic,40610,1267474,21459,678527,7430,Precision instrument and equipment repairers,7,191,2.8149211453634123e-4
-Dominican Republic,40610,1267474,21459,678527,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",6,191,2.8149211453634123e-4
-Dominican Republic,40610,1267474,21459,678527,0930,"Tax examiners and collectors, and revenue agents",9,189,2.785445531275837e-4
-Dominican Republic,40610,1267474,21459,678527,2920,"Television, video, and film camera operators and editors",9,180,2.65280526788175e-4
-Dominican Republic,40610,1267474,21459,678527,3160,Physical therapists,9,180,2.65280526788175e-4
-Dominican Republic,40610,1267474,21459,678527,0300,Architectural and engineering managers,9,178,2.6233296537941746e-4
-Dominican Republic,40610,1267474,21459,678527,5850,"Mail clerks and mail machine operators, except postal service",5,177,2.608591846750387e-4
-Dominican Republic,40610,1267474,21459,678527,3647,Pharmacy aides,4,175,2.5791162326628124e-4
-Dominican Republic,40610,1267474,21459,678527,7040,"Electric motor, power tool, and related repairers",6,173,2.549640618575237e-4
-Dominican Republic,40610,1267474,21459,678527,2435,Librarians and media collections specialists,4,168,2.4759515833562996e-4
-Dominican Republic,40610,1267474,21459,678527,2825,Public relations specialists,4,168,2.4759515833562996e-4
-Dominican Republic,40610,1267474,21459,678527,5560,"Postal service mail sorters, processors, and processing machine operators",4,168,2.4759515833562996e-4
-Dominican Republic,40610,1267474,21459,678527,1860,Other social scientists,4,167,2.461213776312512e-4
-Dominican Republic,40610,1267474,21459,678527,7120,Electronic home entertainment equipment installers and repairers,4,164,2.4170003551811497e-4
-Dominican Republic,40610,1267474,21459,678527,3402,Paramedics,7,163,2.4022625481373623e-4
-Dominican Republic,40610,1267474,21459,678527,8465,"Other textile, apparel, and furnishings workers",3,161,2.3727869340497873e-4
-Dominican Republic,40610,1267474,21459,678527,6700,Elevator installers and repairers,8,160,2.358049127006e-4
-Dominican Republic,40610,1267474,21459,678527,4540,Tour and travel guides,6,158,2.3285735129184248e-4
-Dominican Republic,40610,1267474,21459,678527,8335,Shoe and leather workers,5,158,2.3285735129184248e-4
-Dominican Republic,40610,1267474,21459,678527,6710,Fence erectors,6,157,2.3138357058746372e-4
-Dominican Republic,40610,1267474,21459,678527,9110,"Ambulance drivers and attendants, except emergency medical technicians",2,157,2.3138357058746372e-4
-Dominican Republic,40610,1267474,21459,678527,2755,"Disc jockeys, except radio",4,155,2.2843600917870624e-4
-Dominican Republic,40610,1267474,21459,678527,4525,Other personal appearance workers,6,155,2.2843600917870624e-4
-Dominican Republic,40610,1267474,21459,678527,8620,Water and wastewater treatment plant and system operators,2,153,2.2548844776994873e-4
-Dominican Republic,40610,1267474,21459,678527,0726,Fundraisers,7,151,2.2254088636119122e-4
-Dominican Republic,40610,1267474,21459,678527,3430,Dietetic technicians and ophthalmic medical technicians,5,151,2.2254088636119122e-4
-Dominican Republic,40610,1267474,21459,678527,4740,Counter and rental clerks,6,151,2.2254088636119122e-4
-Dominican Republic,40610,1267474,21459,678527,2015,Probation officers and correctional treatment specialists,7,149,2.1959332495243372e-4
-Dominican Republic,40610,1267474,21459,678527,3550,Other healthcare practitioners and technical occupations,6,148,2.1811954424805498e-4
-Dominican Republic,40610,1267474,21459,678527,1545,Other drafters,6,147,2.1664576354367624e-4
-Dominican Republic,40610,1267474,21459,678527,4830,Travel agents,8,147,2.1664576354367624e-4
-Dominican Republic,40610,1267474,21459,678527,5320,"Library assistants, clerical",3,147,2.1664576354367624e-4
-Dominican Republic,40610,1267474,21459,678527,0640,"Compensation, benefits, and job analysis specialists",7,144,2.1222442143053997e-4
-Dominican Republic,40610,1267474,21459,678527,8450,Upholsterers,4,144,2.1222442143053997e-4
-Dominican Republic,40610,1267474,21459,678527,5230,"Credit authorizers, checkers, and clerks",6,141,2.0780307931740372e-4
-Dominican Republic,40610,1267474,21459,678527,2400,"Archivists, curators, and museum technicians",4,138,2.0338173720426748e-4
-Dominican Republic,40610,1267474,21459,678527,2050,"Directors, religious activities and education",5,137,2.0190795649988874e-4
-Dominican Republic,40610,1267474,21459,678527,3520,"Opticians, dispensing",7,137,2.0190795649988874e-4
-Dominican Republic,40610,1267474,21459,678527,2013,Mental health and substance abuse social workers,4,136,2.0043417579550997e-4
-Dominican Republic,40610,1267474,21459,678527,4160,"Food preparation and serving related workers, all other",5,134,1.974866143867525e-4
-Dominican Republic,40610,1267474,21459,678527,6540,Solar photovoltaic installers,4,131,1.9306527227361622e-4
-Dominican Republic,40610,1267474,21459,678527,2700,Actors,5,130,1.9159149156923748e-4
-Dominican Republic,40610,1267474,21459,678527,2752,Musicians and singers,5,130,1.9159149156923748e-4
-Dominican Republic,40610,1267474,21459,678527,3422,Psychiatric technicians,10,127,1.8717014945610123e-4
-Dominican Republic,40610,1267474,21459,678527,6441,Pipelayers,4,126,1.8569636875172247e-4
-Dominican Republic,40610,1267474,21459,678527,7160,Automotive glass installers and repairers,4,126,1.8569636875172247e-4
-Dominican Republic,40610,1267474,21459,678527,2005,Rehabilitation counselors,1,125,1.8422258804734373e-4
-Dominican Republic,40610,1267474,21459,678527,8500,Cabinetmakers and bench carpenters,2,124,1.82748807342965e-4
-Dominican Republic,40610,1267474,21459,678527,2003,Marriage and family therapists,5,123,1.8127502663858622e-4
-Dominican Republic,40610,1267474,21459,678527,4900,"Models, demonstrators, and product promoters",3,118,1.7390612311669247e-4
-Dominican Republic,40610,1267474,21459,678527,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,116,1.70958561707935e-4
-Dominican Republic,40610,1267474,21459,678527,1822,School psychologists,7,115,1.6948478100355623e-4
-Dominican Republic,40610,1267474,21459,678527,3725,"Miscellaneous first-line supervisors, protective service workers",5,115,1.6948478100355623e-4
-Dominican Republic,40610,1267474,21459,678527,6360,Glaziers,6,115,1.6948478100355623e-4
-Dominican Republic,40610,1267474,21459,678527,6765,Other construction and related workers,7,115,1.6948478100355623e-4
-Dominican Republic,40610,1267474,21459,678527,6530,Structural iron and steel workers,5,112,1.6506343889041998e-4
-Dominican Republic,40610,1267474,21459,678527,0060,Public relations and fundraising managers,2,111,1.6358965818604124e-4
-Dominican Republic,40610,1267474,21459,678527,4640,Residential advisors,5,110,1.6211587748166247e-4
-Dominican Republic,40610,1267474,21459,678527,7905,Computer numerically controlled tool operators and programmers,4,110,1.6211587748166247e-4
-Dominican Republic,40610,1267474,21459,678527,9265,Other rail transportation workers,2,110,1.6211587748166247e-4
-Dominican Republic,40610,1267474,21459,678527,7030,Avionics technicians,4,109,1.6064209677728374e-4
-Dominican Republic,40610,1267474,21459,678527,8130,Tool and die makers,4,106,1.562207546641475e-4
-Dominican Republic,40610,1267474,21459,678527,2721,Athletes and sports competitors,1,103,1.5179941255101124e-4
-Dominican Republic,40610,1267474,21459,678527,3220,Respiratory therapists,6,103,1.5179941255101124e-4
-Dominican Republic,40610,1267474,21459,678527,4930,Sales engineers,3,103,1.5179941255101124e-4
-Dominican Republic,40610,1267474,21459,678527,6730,Highway maintenance workers,3,103,1.5179941255101124e-4
-Dominican Republic,40610,1267474,21459,678527,8930,"Paper goods machine setters, operators, and tenders",5,101,1.4885185114225374e-4
-Dominican Republic,40610,1267474,21459,678527,1900,Agricultural and food science technicians,4,99,1.4590428973349623e-4
-Dominican Republic,40610,1267474,21459,678527,6460,Plasterers and stucco masons,4,99,1.4590428973349623e-4
-Dominican Republic,40610,1267474,21459,678527,5420,Other information and records clerks,6,95,1.4000916691598125e-4
-Dominican Republic,40610,1267474,21459,678527,7410,Electrical power-line installers and repairers,4,93,1.3706160550722374e-4
-Dominican Republic,40610,1267474,21459,678527,9040,Air traffic controllers and airfield operations specialists,4,91,1.3411404409846624e-4
-Dominican Republic,40610,1267474,21459,678527,1450,Materials engineers,4,90,1.326402633940875e-4
-Dominican Republic,40610,1267474,21459,678527,1980,Occupational health and safety specialists and technicians,5,90,1.326402633940875e-4
-Dominican Republic,40610,1267474,21459,678527,5920,Statistical assistants,3,90,1.326402633940875e-4
-Dominican Republic,40610,1267474,21459,678527,6210,Boilermakers,2,87,1.2821892128095122e-4
-Dominican Republic,40610,1267474,21459,678527,2636,Merchandise displayers and window trimmers,2,86,1.2674514057657248e-4
-Dominican Republic,40610,1267474,21459,678527,0137,Training and development managers,5,84,1.2379757916781498e-4
-Dominican Republic,40610,1267474,21459,678527,0510,"Buyers and purchasing agents, farm products",3,83,1.2232379846343624e-4
-Dominican Republic,40610,1267474,21459,678527,5330,Loan interviewers and clerks,4,83,1.2232379846343624e-4
-Dominican Republic,40610,1267474,21459,678527,7510,"Coin, vending, and amusement machine servicers and repairers",4,83,1.2232379846343624e-4
-Dominican Republic,40610,1267474,21459,678527,1400,Computer hardware engineers,2,79,1.1642867564592124e-4
-Dominican Republic,40610,1267474,21459,678527,6005,"First-line supervisors of farming, fishing, and forestry workers",3,77,1.1348111423716373e-4
-Dominican Republic,40610,1267474,21459,678527,2633,Floral designers,5,75,1.1053355282840624e-4
-Dominican Republic,40610,1267474,21459,678527,3261,Acupuncturists,2,75,1.1053355282840624e-4
-Dominican Republic,40610,1267474,21459,678527,0040,Advertising and promotions managers,4,74,1.0905977212402749e-4
-Dominican Republic,40610,1267474,21459,678527,0810,Property appraisers and assessors,4,74,1.0905977212402749e-4
-Dominican Republic,40610,1267474,21459,678527,0820,Budget analysts,4,74,1.0905977212402749e-4
-Dominican Republic,40610,1267474,21459,678527,1821,Clinical and counseling psychologists,1,74,1.0905977212402749e-4
-Dominican Republic,40610,1267474,21459,678527,8256,Print binding and finishing workers,3,74,1.0905977212402749e-4
-Dominican Republic,40610,1267474,21459,678527,3210,Recreational therapists,2,71,1.0463843001089124e-4
-Dominican Republic,40610,1267474,21459,678527,6120,Forest and conservation workers,2,71,1.0463843001089124e-4
-Dominican Republic,40610,1267474,21459,678527,6250,"Cement masons, concrete finishers, and terrazzo workers",2,70,1.0316464930651249e-4
-Dominican Republic,40610,1267474,21459,678527,2635,Interior designers,4,68,1.0021708789775499e-4
-Dominican Republic,40610,1267474,21459,678527,7100,"Other electrical and electronic equipment mechanics, installers, and repairers",1,65,9.579574578461874e-5
-Dominican Republic,40610,1267474,21459,678527,8025,"Other machine tool setters, operators, and tenders, metal and plastic",2,65,9.579574578461874e-5
-Dominican Republic,40610,1267474,21459,678527,1541,Architectural and civil drafters,4,64,9.432196508023999e-5
-Dominican Republic,40610,1267474,21459,678527,1910,Biological technicians,4,64,9.432196508023999e-5
-Dominican Republic,40610,1267474,21459,678527,9410,Transportation inspectors,5,64,9.432196508023999e-5
-Dominican Republic,40610,1267474,21459,678527,5150,Procurement clerks,2,62,9.13744036714825e-5
-Dominican Republic,40610,1267474,21459,678527,9800,Military officer special and tactical operations leaders,2,61,8.990062296710374e-5
-Dominican Republic,40610,1267474,21459,678527,2770,"Entertainers and performers, sports and related workers, all other",2,60,8.842684226272499e-5
-Dominican Republic,40610,1267474,21459,678527,3150,Occupational therapists,5,60,8.842684226272499e-5
-Dominican Republic,40610,1267474,21459,678527,7925,"Forming machine setters, operators, and tenders, metal and plastic",3,60,8.842684226272499e-5
-Dominican Republic,40610,1267474,21459,678527,8600,"Power plant operators, distributors, and dispatchers",2,57,8.400550014958874e-5
-Dominican Republic,40610,1267474,21459,678527,8640,"Chemical processing machine setters, operators, and tenders",5,57,8.400550014958874e-5
-Dominican Republic,40610,1267474,21459,678527,9310,Ship and boat captains and operators,3,57,8.400550014958874e-5
-Dominican Republic,40610,1267474,21459,678527,8630,Miscellaneous plant and system operators,2,56,8.253171944520999e-5
-Dominican Republic,40610,1267474,21459,678527,1920,Chemical technicians,4,54,7.95841580364525e-5
-Dominican Republic,40610,1267474,21459,678527,1935,"Environmental science and geoscience technicians, and nuclear technicians",4,54,7.95841580364525e-5
-Dominican Republic,40610,1267474,21459,678527,8540,"Woodworking machine setters, operators, and tenders, except sawing",2,54,7.95841580364525e-5
-Dominican Republic,40610,1267474,21459,678527,8920,"Molders, shapers, and casters, except metal and plastic",2,54,7.95841580364525e-5
-Dominican Republic,40610,1267474,21459,678527,1610,Biological scientists,3,52,7.663659662769499e-5
-Dominican Republic,40610,1267474,21459,678527,5020,Telephone operators,1,51,7.516281592331624e-5
-Dominican Republic,40610,1267474,21459,678527,0135,Compensation and benefits managers,2,50,7.368903521893749e-5
-Dominican Republic,40610,1267474,21459,678527,3324,Magnetic resonance imaging technologists,4,50,7.368903521893749e-5
-Dominican Republic,40610,1267474,21459,678527,8250,Prepress technicians and workers,4,49,7.221525451455875e-5
-Dominican Republic,40610,1267474,21459,678527,0360,Natural sciences managers,1,48,7.074147381018e-5
-Dominican Republic,40610,1267474,21459,678527,5530,"Meter readers, utilities",1,48,7.074147381018e-5
-Dominican Republic,40610,1267474,21459,678527,9570,"Conveyor, dredge, and hoist and winch operators",2,48,7.074147381018e-5
-Dominican Republic,40610,1267474,21459,678527,3700,First-line supervisors of correctional officers,2,45,6.632013169704375e-5
-Dominican Republic,40610,1267474,21459,678527,8040,"Metal furnace operators, tenders, pourers, and casters",2,44,6.4846350992665e-5
-Dominican Republic,40610,1267474,21459,678527,2805,Broadcast announcers and radio disc jockeys,2,42,6.189878958390749e-5
-Dominican Republic,40610,1267474,21459,678527,0860,Insurance underwriters,2,41,6.042500887952874e-5
-Dominican Republic,40610,1267474,21459,678527,2810,"News analysts, reporters, and journalists",3,41,6.042500887952874e-5
-Dominican Republic,40610,1267474,21459,678527,5521,Public safety telecommunicators,2,41,6.042500887952874e-5
-Dominican Republic,40610,1267474,21459,678527,1520,"Petroleum, mining and geological engineers, including mining safety engineers",1,40,5.895122817515e-5
-Dominican Republic,40610,1267474,21459,678527,7350,"Maintenance workers, machinery",1,40,5.895122817515e-5
-Dominican Republic,40610,1267474,21459,678527,4330,Supervisors of personal care and service workers,2,39,5.7477447470771244e-5
-Dominican Republic,40610,1267474,21459,678527,6130,Logging workers,2,39,5.7477447470771244e-5
-Dominican Republic,40610,1267474,21459,678527,1440,Marine engineers and naval architects,1,38,5.60036667663925e-5
-Dominican Republic,40610,1267474,21459,678527,5010,"Switchboard operators, including answering service",1,37,5.4529886062013745e-5
-Dominican Republic,40610,1267474,21459,678527,8365,"Textile machine setters, operators, and tenders",2,37,5.4529886062013745e-5
-Dominican Republic,40610,1267474,21459,678527,9300,"Sailors and marine oilers, and ship engineers",2,35,5.1582324653256246e-5
-Dominican Republic,40610,1267474,21459,678527,2105,Judicial law clerks,2,34,5.010854394887749e-5
-Dominican Republic,40610,1267474,21459,678527,8940,Tire builders,1,34,5.010854394887749e-5
-Dominican Republic,40610,1267474,21459,678527,3040,Optometrists,1,33,4.8634763244498746e-5
-Dominican Republic,40610,1267474,21459,678527,3801,Bailiffs,2,33,4.8634763244498746e-5
-Dominican Republic,40610,1267474,21459,678527,3840,Fish and game wardens and parking enforcement officers,1,33,4.8634763244498746e-5
-Dominican Republic,40610,1267474,21459,678527,6115,Fishing and hunting workers,1,33,4.8634763244498746e-5
-Dominican Republic,40610,1267474,21459,678527,4340,Animal trainers,1,32,4.7160982540119993e-5
-Dominican Republic,40610,1267474,21459,678527,0335,Entertainment and recreation managers,1,31,4.568720183574125e-5
-Dominican Republic,40610,1267474,21459,678527,7730,Engine and other machine assemblers,2,31,4.568720183574125e-5
-Dominican Republic,40610,1267474,21459,678527,0830,Credit analysts,2,29,4.273964042698375e-5
-Dominican Republic,40610,1267474,21459,678527,1420,Environmental engineers,2,29,4.273964042698375e-5
-Dominican Republic,40610,1267474,21459,678527,8910,Etchers and engravers,1,29,4.273964042698375e-5
-Dominican Republic,40610,1267474,21459,678527,7830,"Food and tobacco roasting, baking, and drying machine operators and tenders",1,28,4.1265859722604995e-5
-Dominican Republic,40610,1267474,21459,678527,6835,"Explosives workers, ordnance handling experts, and blasters",1,27,3.979207901822625e-5
-Dominican Republic,40610,1267474,21459,678527,2751,Music directors and composers,2,26,3.8318298313847496e-5
-Dominican Republic,40610,1267474,21459,678527,6010,Agricultural inspectors,1,25,3.684451760946874e-5
-Dominican Republic,40610,1267474,21459,678527,2440,Library technicians,1,23,3.3896956200711244e-5
-Dominican Republic,40610,1267474,21459,678527,3720,First-line supervisors of firefighting and prevention workers,1,23,3.3896956200711244e-5
-Dominican Republic,40610,1267474,21459,678527,4940,Telemarketers,2,23,3.3896956200711244e-5
-Dominican Republic,40610,1267474,21459,678527,2740,Dancers and choreographers,2,22,3.24231754963325e-5
-Dominican Republic,40610,1267474,21459,678527,5910,Proofreaders and copy markers,1,22,3.24231754963325e-5
-Dominican Republic,40610,1267474,21459,678527,8750,Jewelers and precious stone and metal workers,3,20,2.9475614087575e-5
-Dominican Republic,40610,1267474,21459,678527,2830,Editors,2,18,2.6528052678817496e-5
-Dominican Republic,40610,1267474,21459,678527,3750,Fire inspectors,2,18,2.6528052678817496e-5
-Dominican Republic,40610,1267474,21459,678527,2865,"Media and communication workers, all other",1,16,2.3580491270059997e-5
-Dominican Republic,40610,1267474,21459,678527,5340,New accounts clerks,3,16,2.3580491270059997e-5
-Dominican Republic,40610,1267474,21459,678527,3270,"Healthcare diagnosing or treating practitioners, all other",1,15,2.2106710565681247e-5
-Dominican Republic,40610,1267474,21459,678527,2631,Commercial and industrial designers,1,14,2.0632929861302498e-5
-Dominican Republic,40610,1267474,21459,678527,8850,Adhesive bonding machine operators and tenders,2,14,2.0632929861302498e-5
-Dominican Republic,40610,1267474,21459,678527,1350,Chemical engineers,1,13,1.9159149156923748e-5
-Dominican Republic,40610,1267474,21459,678527,1560,Surveying and mapping technicians,1,13,1.9159149156923748e-5
-Dominican Republic,40610,1267474,21459,678527,3120,Podiatrists,1,13,1.9159149156923748e-5
-Dominican Republic,40610,1267474,21459,678527,9210,Locomotive engineers and operators,1,13,1.9159149156923748e-5
-Dominican Republic,40610,1267474,21459,678527,9650,Pumping station operators,1,13,1.9159149156923748e-5
-Dominican Republic,40610,1267474,21459,678527,7360,Millwrights,1,11,1.621158774816625e-5
-Dominican Republic,40610,1267474,21459,678527,8730,"Furnace, kiln, oven, drier, and kettle operators and tenders",1,11,1.621158774816625e-5
-Dominican Republic,40610,1267474,21459,678527,8510,Furniture finishers,1,10,1.47378070437875e-5
-Dominican Republic,40610,1267474,21459,678527,8830,Photographic process workers and processing machine operators,1,8,1.1790245635029998e-5
-Dominican Republic,40610,1267474,21459,678527,2862,Court reporters and simultaneous captioners,1,6,8.8426842262725e-6
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Dominican Republic,40610,1267474,22860,718109,3601,Home health aides,1181,40724,0.05671005376621098
+Dominican Republic,40610,1267474,22860,718109,9130,Driver/sales workers and truck drivers,885,32663,0.045484738389297445
+Dominican Republic,40610,1267474,22860,718109,4220,Janitors and building cleaners,926,31805,0.04428993370087271
+Dominican Republic,40610,1267474,22860,718109,4230,Maids and housekeeping cleaners,564,16900,0.02353403174169938
+Dominican Republic,40610,1267474,22860,718109,4720,Cashiers,511,16882,0.023508965909075086
+Dominican Republic,40610,1267474,22860,718109,9620,"Laborers and freight, stock, and material movers, hand",505,16823,0.023426805679917673
+Dominican Republic,40610,1267474,22860,718109,9142,Taxi drivers,443,16552,0.02304942564429634
+Dominican Republic,40610,1267474,22860,718109,8990,"Miscellaneous production workers, including equipment operators and tenders",443,15212,0.02118341366004325
+Dominican Republic,40610,1267474,22860,718109,9640,"Packers and packagers, hand",399,14200,0.0197741568480551
+Dominican Republic,40610,1267474,22860,718109,5240,Customer service representatives,428,14197,0.019769979209284385
+Dominican Republic,40610,1267474,22860,718109,3602,Personal care aides,435,13834,0.019264484918027763
+Dominican Republic,40610,1267474,22860,718109,4020,Cooks,377,11967,0.016664601056385592
+Dominican Republic,40610,1267474,22860,718109,6260,Construction laborers,354,11410,0.015888952791289344
+Dominican Republic,40610,1267474,22860,718109,0440,Other managers,373,11344,0.015797044738333595
+Dominican Republic,40610,1267474,22860,718109,4760,Retail salespersons,366,11202,0.015599303169853045
+Dominican Republic,40610,1267474,22860,718109,4700,First-line supervisors of retail sales workers,338,10864,0.015128622535019056
+Dominican Republic,40610,1267474,22860,718109,4600,Childcare workers,323,10788,0.015022789019494255
+Dominican Republic,40610,1267474,22860,718109,9645,Stockers and order fillers,307,10118,0.014089783027367712
+Dominican Republic,40610,1267474,22860,718109,2545,Teaching assistants,320,8673,0.01207755368613957
+Dominican Republic,40610,1267474,22860,718109,4510,"Hairdressers, hairstylists, and cosmetologists",227,8089,0.01126430667210688
+Dominican Republic,40610,1267474,22860,718109,7750,Other assemblers and fabricators,228,7536,0.010494228592038257
+Dominican Republic,40610,1267474,22860,718109,5740,"Secretaries and administrative assistants, except legal, medical, and executive",243,7181,0.009999874670836878
+Dominican Republic,40610,1267474,22860,718109,3603,Nursing assistants,226,7052,0.009820236203696096
+Dominican Republic,40610,1267474,22860,718109,5510,Couriers and messengers,184,6614,0.00921030094317158
+Dominican Republic,40610,1267474,22860,718109,4110,Waiters and waitresses,195,6071,0.008454148325672008
+Dominican Republic,40610,1267474,22860,718109,4030,Food preparation workers,187,5775,0.008041954633628043
+Dominican Republic,40610,1267474,22860,718109,5610,"Shipping, receiving, and inventory clerks",153,5374,0.007483543584609021
+Dominican Republic,40610,1267474,22860,718109,4251,Landscaping and groundskeeping workers,161,5315,0.00740138335545161
+Dominican Republic,40610,1267474,22860,718109,2310,Elementary and middle school teachers,205,5299,0.0073791026153411255
+Dominican Republic,40610,1267474,22860,718109,7200,Automotive service technicians and mechanics,169,5298,0.00737771006908422
+Dominican Republic,40610,1267474,22860,718109,3255,Registered nurses,177,4923,0.006855505222744736
+Dominican Republic,40610,1267474,22860,718109,7340,"Maintenance and repair workers, general",128,4819,0.006710680412026587
+Dominican Republic,40610,1267474,22860,718109,0120,Financial managers,172,4708,0.006556107777510099
+Dominican Republic,40610,1267474,22860,718109,4500,Barbers,124,4634,0.006453059354499108
+Dominican Republic,40610,1267474,22860,718109,3645,Medical assistants,158,4551,0.006337478015175969
+Dominican Republic,40610,1267474,22860,718109,5860,"Office clerks, general",185,4500,0.0062664581560738
+Dominican Republic,40610,1267474,22860,718109,6230,Carpenters,117,4464,0.006216326490825209
+Dominican Republic,40610,1267474,22860,718109,5400,Receptionists and information clerks,163,4386,0.006107707882786597
+Dominican Republic,40610,1267474,22860,718109,0310,Food service managers,123,4146,0.005773496781129327
+Dominican Republic,40610,1267474,22860,718109,6355,Electricians,122,4115,0.005730327847165264
+Dominican Republic,40610,1267474,22860,718109,6410,Painters and paperhangers,125,4017,0.0055938583139885445
+Dominican Republic,40610,1267474,22860,718109,8800,Packaging and filling machine operators and tenders,122,3913,0.005449033503270395
+Dominican Republic,40610,1267474,22860,718109,3930,Security guards and gaming surveillance officers,123,3811,0.005306993785066055
+Dominican Republic,40610,1267474,22860,718109,5000,First-line supervisors of office and administrative support workers,137,3805,0.0052986385075246235
+Dominican Republic,40610,1267474,22860,718109,9122,"Bus drivers, transit and intercity",124,3742,0.005210908093339591
+Dominican Republic,40610,1267474,22860,718109,2300,Preschool and kindergarten teachers,128,3697,0.005148243511778852
+Dominican Republic,40610,1267474,22860,718109,9600,Industrial truck and tractor operators,120,3648,0.005080008745190493
+Dominican Republic,40610,1267474,22860,718109,9121,"Bus drivers, school",115,3578,0.004982530507207123
+Dominican Republic,40610,1267474,22860,718109,0020,General and operations managers,126,3386,0.0047151616258813075
+Dominican Republic,40610,1267474,22860,718109,4710,First-line supervisors of non-retail sales workers,121,3344,0.004656674683091285
+Dominican Republic,40610,1267474,22860,718109,3870,Police officers,107,3333,0.004641356674265328
+Dominican Republic,40610,1267474,22860,718109,4850,"Sales representatives, wholesale and manufacturing",102,3259,0.004538308251254336
+Dominican Republic,40610,1267474,22860,718109,0800,Accountants and auditors,138,3227,0.004493746771033367
+Dominican Republic,40610,1267474,22860,718109,5120,"Bookkeeping, accounting, and auditing clerks",117,3156,0.004394875986793091
+Dominican Republic,40610,1267474,22860,718109,8740,"Inspectors, testers, sorters, samplers, and weighers",111,3072,0.004277902101213047
+Dominican Republic,40610,1267474,22860,718109,0350,Medical and health services managers,102,3030,0.0042194151584230245
+Dominican Republic,40610,1267474,22860,718109,9610,Cleaners of vehicles and equipment,80,3004,0.004183208955743488
+Dominican Republic,40610,1267474,22860,718109,8225,Other metal workers and plastic workers,90,2794,0.0038907742417933766
+Dominican Republic,40610,1267474,22860,718109,7700,First-line supervisors of production and operating workers,101,2734,0.0038072214663790595
+Dominican Republic,40610,1267474,22860,718109,1021,Software developers,108,2689,0.0037445568848183215
+Dominican Republic,40610,1267474,22860,718109,4000,Chefs and head cooks,84,2679,0.0037306314222492684
+Dominican Republic,40610,1267474,22860,718109,4055,Fast food and counter workers,87,2663,0.003708350682138784
+Dominican Republic,40610,1267474,22860,718109,5940,Other office and administrative support workers,104,2649,0.00368885503454211
+Dominican Republic,40610,1267474,22860,718109,4140,Dishwashers,69,2599,0.0036192277216968455
+Dominican Republic,40610,1267474,22860,718109,0410,"Property, real estate, and community association managers",84,2586,0.0036011246203570767
+Dominican Republic,40610,1267474,22860,718109,0220,Construction managers,76,2561,0.0035663109639344445
+Dominican Republic,40610,1267474,22860,718109,3090,Physicians,108,2519,0.0035078240211444222
+Dominican Republic,40610,1267474,22860,718109,7810,"Butchers and other meat, poultry, and fish processing workers",81,2421,0.003371354487967704
+Dominican Republic,40610,1267474,22860,718109,1050,Computer support specialists,70,2420,0.0033699619417107986
+Dominican Republic,40610,1267474,22860,718109,4200,First-line supervisors of housekeeping and janitorial workers,81,2362,0.003289194258810292
+Dominican Republic,40610,1267474,22860,718109,7330,Industrial and refractory machinery mechanics,57,2246,0.0031276588930092787
+Dominican Republic,40610,1267474,22860,718109,9150,"Motor vehicle operators, all other",51,2206,0.003071957042733067
+Dominican Republic,40610,1267474,22860,718109,0630,Human resources workers,77,2151,0.002995366998603276
+Dominican Republic,40610,1267474,22860,718109,4920,Real estate brokers and sales agents,72,2118,0.0029494129721254017
+Dominican Republic,40610,1267474,22860,718109,6442,"Plumbers, pipefitters, and steamfitters",69,2109,0.002936880055813254
+Dominican Republic,40610,1267474,22860,718109,3640,Dental assistants,76,2094,0.002915991861959675
+Dominican Republic,40610,1267474,22860,718109,8300,Laundry and dry-cleaning workers,60,2089,0.0029090291306751483
+Dominican Republic,40610,1267474,22860,718109,7800,Bakers,52,2067,0.0028783931130232318
+Dominican Republic,40610,1267474,22860,718109,7855,"Food processing workers, all other",60,2043,0.002844972002857505
+Dominican Republic,40610,1267474,22860,718109,7315,"Heating, air conditioning, and refrigeration mechanics and installers",56,2042,0.0028435794566005995
+Dominican Republic,40610,1267474,22860,718109,2014,"Social workers, all other",99,2017,0.0028087658001779672
+Dominican Republic,40610,1267474,22860,718109,2320,Secondary school teachers,84,1999,0.0027836999675536723
+Dominican Republic,40610,1267474,22860,718109,8140,"Welding, soldering, and brazing workers",49,1985,0.002764204319956998
+Dominican Republic,40610,1267474,22860,718109,0230,Education and childcare administrators,74,1970,0.002743316126103419
+Dominican Republic,40610,1267474,22860,718109,2360,Other teachers and instructors,67,1909,0.0026583708044321964
+Dominican Republic,40610,1267474,22860,718109,2145,Paralegals and legal assistants,72,1879,0.0026165944167250376
+Dominican Republic,40610,1267474,22860,718109,6200,First-line supervisors of construction trades and extraction workers,55,1845,0.0025692478439902577
+Dominican Republic,40610,1267474,22860,718109,4530,"Baggage porters, bellhops, and concierges",61,1836,0.00255671492767811
+Dominican Republic,40610,1267474,22860,718109,0010,Chief executives and legislators,71,1813,0.0025246863637692885
+Dominican Republic,40610,1267474,22860,718109,0750,"Business operations specialists, all other",59,1794,0.002498227984888088
+Dominican Republic,40610,1267474,22860,718109,0705,Project management specialists,71,1705,0.002374291368023517
+Dominican Republic,40610,1267474,22860,718109,4965,"Sales and related workers, all other",49,1687,0.0023492255353992223
+Dominican Republic,40610,1267474,22860,718109,2016,Social and human service assistants,53,1660,0.0023116267864627792
+Dominican Republic,40610,1267474,22860,718109,3946,School bus monitors,48,1637,0.0022795982225539578
+Dominican Republic,40610,1267474,22860,718109,3500,Licensed practical and licensed vocational nurses,46,1623,0.0022601025749572836
+Dominican Republic,40610,1267474,22860,718109,9141,Shuttle drivers and chauffeurs,50,1614,0.002247569658645136
+Dominican Republic,40610,1267474,22860,718109,5110,Billing and posting clerks,63,1599,0.0022266814647915567
+Dominican Republic,40610,1267474,22860,718109,8950,Helpers--production workers,50,1596,0.002222503826020841
+Dominican Republic,40610,1267474,22860,718109,5160,Tellers,38,1591,0.0022155410947363144
+Dominican Republic,40610,1267474,22860,718109,4130,Dining room and cafeteria attendants and bartender helpers,57,1566,0.002180727438313682
+Dominican Republic,40610,1267474,22860,718109,4010,First-line supervisors of food preparation and serving workers,41,1538,0.002141736143120334
+Dominican Republic,40610,1267474,22860,718109,0420,Social and community service managers,50,1481,0.0020623610064767327
+Dominican Republic,40610,1267474,22860,718109,3300,Clinical laboratory technologists and technicians,48,1476,0.002055398275192206
+Dominican Republic,40610,1267474,22860,718109,1108,"Computer occupations, all other",60,1455,0.002026154803797195
+Dominican Republic,40610,1267474,22860,718109,0710,Management analysts,61,1408,0.0019607051297226468
+Dominican Republic,40610,1267474,22860,718109,4810,Insurance sales agents,52,1404,0.001955134944695025
+Dominican Republic,40610,1267474,22860,718109,1006,Computer systems analysts,41,1382,0.0019244989270431091
+Dominican Republic,40610,1267474,22860,718109,2205,Postsecondary teachers,57,1382,0.0019244989270431091
+Dominican Republic,40610,1267474,22860,718109,0160,"Transportation, storage, and distribution managers",39,1372,0.0019105734644740563
+Dominican Republic,40610,1267474,22860,718109,9350,Parking attendants,40,1325,0.0018451237903995075
+Dominican Republic,40610,1267474,22860,718109,2100,"Lawyers, and judges, magistrates, and other judicial workers",54,1318,0.0018353759666011706
+Dominican Republic,40610,1267474,22860,718109,4521,Manicurists and pedicurists,49,1317,0.0018339834203442652
+Dominican Republic,40610,1267474,22860,718109,1555,"Other engineering technologists and technicians, except drafters",46,1274,0.0017741039312973378
+Dominican Republic,40610,1267474,22860,718109,0700,Logisticians,29,1256,0.0017490380986730427
+Dominican Republic,40610,1267474,22860,718109,7210,Bus and truck mechanics and diesel engine specialists,37,1217,0.0016947287946537364
+Dominican Republic,40610,1267474,22860,718109,8320,Sewing machine operators,47,1200,0.0016710555082863465
+Dominican Republic,40610,1267474,22860,718109,5550,Postal service mail carriers,41,1170,0.0016292791205791879
+Dominican Republic,40610,1267474,22860,718109,3421,Pharmacy technicians,47,1149,0.0016000356491841768
+Dominican Republic,40610,1267474,22860,718109,4040,Bartenders,40,1142,0.0015902878253858397
+Dominican Republic,40610,1267474,22860,718109,2040,Clergy,45,1141,0.0015888952791289345
+Dominican Republic,40610,1267474,22860,718109,9005,Supervisors of transportation and material moving workers,45,1118,0.0015568667152201128
+Dominican Republic,40610,1267474,22860,718109,0051,Marketing managers,33,1073,0.0014942021336593748
+Dominican Republic,40610,1267474,22860,718109,6050,Other agricultural workers,31,1045,0.0014552108384660268
+Dominican Republic,40610,1267474,22860,718109,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",40,1028,0.0014315375520986369
+Dominican Republic,40610,1267474,22860,718109,6400,Insulation workers,17,1022,0.0014231822745572051
+Dominican Republic,40610,1267474,22860,718109,7140,Aircraft mechanics and service technicians,29,1008,0.0014036866269605311
+Dominican Republic,40610,1267474,22860,718109,2861,Interpreters and translators,30,1007,0.0014022940807036257
+Dominican Republic,40610,1267474,22860,718109,2640,Other designers,28,996,0.0013869760718776675
+Dominican Republic,40610,1267474,22860,718109,5410,Reservation and transportation ticket agents and travel clerks,31,995,0.0013855835256207623
+Dominican Republic,40610,1267474,22860,718109,7000,"First-line supervisors of mechanics, installers, and repairers",32,992,0.0013814058868500464
+Dominican Republic,40610,1267474,22860,718109,8810,Painting workers,27,991,0.0013800133405931412
+Dominican Republic,40610,1267474,22860,718109,0565,Compliance officers,38,971,0.0013521624154550355
+Dominican Republic,40610,1267474,22860,718109,0052,Sales managers,43,970,0.00135076986919813
+Dominican Republic,40610,1267474,22860,718109,9830,"Military, rank not specified",27,959,0.0013354518603721718
+Dominican Republic,40610,1267474,22860,718109,7150,Automotive body and related repairers,31,946,0.0013173487590324032
+Dominican Republic,40610,1267474,22860,718109,1530,Other engineers,36,926,0.0012894978338942975
+Dominican Republic,40610,1267474,22860,718109,2330,Special education teachers,31,926,0.0012894978338942975
+Dominican Republic,40610,1267474,22860,718109,8650,"Crushing, grinding, polishing, mixing, and blending workers",19,926,0.0012894978338942975
+Dominican Republic,40610,1267474,22860,718109,5710,Executive secretaries and executive administrative assistants,35,922,0.0012839276488666761
+Dominican Republic,40610,1267474,22860,718109,7720,"Electrical, electronics, and electromechanical assemblers",37,892,0.0012421512611595176
+Dominican Republic,40610,1267474,22860,718109,0735,Market research analysts and marketing specialists,28,863,0.0012017674197092642
+Dominican Republic,40610,1267474,22860,718109,0110,Computer and information systems managers,39,855,0.0011906270496540219
+Dominican Republic,40610,1267474,22860,718109,3655,Other healthcare support workers,18,848,0.0011808792258556848
+Dominican Republic,40610,1267474,22860,718109,3940,Crossing guards and flaggers,26,845,0.001176701587084969
+Dominican Republic,40610,1267474,22860,718109,6305,Construction equipment operators,20,815,0.0011349251993778104
+Dominican Republic,40610,1267474,22860,718109,1105,Network and computer systems administrators,25,813,0.0011321401068639996
+Dominican Republic,40610,1267474,22860,718109,1970,"Other life, physical, and social science technicians",27,804,0.0011196071905518522
+Dominican Republic,40610,1267474,22860,718109,5522,"Dispatchers, except police, fire, and ambulance",29,802,0.0011168220980380416
+Dominican Republic,40610,1267474,22860,718109,0520,"Wholesale and retail buyers, except farm products",24,773,0.0010764382565877882
+Dominican Republic,40610,1267474,22860,718109,5165,Other financial clerks,22,768,0.0010694755253032617
+Dominican Republic,40610,1267474,22860,718109,3245,Other therapists,21,767,0.0010680829790463565
+Dominican Republic,40610,1267474,22860,718109,2002,"Educational, guidance, and career counselors and advisors",42,762,0.00106112024776183
+Dominican Republic,40610,1267474,22860,718109,4950,"Door-to-door sales workers, news and street vendors, and related workers",21,749,0.0010430171464220614
+Dominican Republic,40610,1267474,22860,718109,3802,Correctional officers and jailers,20,748,0.001041624600165156
+Dominican Republic,40610,1267474,22860,718109,5310,"Interviewers, except eligibility and loan",19,745,0.0010374469613944402
+Dominican Republic,40610,1267474,22860,718109,7640,"Other installation, maintenance, and repair workers",22,738,0.001027699137596103
+Dominican Republic,40610,1267474,22860,718109,8255,Printing press operators,31,738,0.001027699137596103
+Dominican Republic,40610,1267474,22860,718109,0940,Tax preparers,25,735,0.0010235214988253871
+Dominican Republic,40610,1267474,22860,718109,8350,"Tailors, dressmakers, and sewers",23,731,0.001017951313797766
+Dominican Republic,40610,1267474,22860,718109,4655,"Personal care and service workers, all other",30,724,0.001008203489999429
+Dominican Republic,40610,1267474,22860,718109,6515,Roofers,26,717,9.98455666201092e-4
+Dominican Republic,40610,1267474,22860,718109,5810,Data entry keyers,29,712,9.914929349165657e-4
+Dominican Republic,40610,1267474,22860,718109,4120,"Food servers, nonrestaurant",29,706,9.83137657375134e-4
+Dominican Republic,40610,1267474,22860,718109,0845,Financial and investment analysts,24,693,9.650345560353651e-4
+Dominican Republic,40610,1267474,22860,718109,7020,Radio and telecommunications equipment installers and repairers,17,674,9.385761771541646e-4
+Dominican Republic,40610,1267474,22860,718109,0910,Credit counselors and loan officers,23,668,9.302208996127329e-4
+Dominican Republic,40610,1267474,22860,718109,9720,Refuse and recyclable material collectors,17,668,9.302208996127329e-4
+Dominican Republic,40610,1267474,22860,718109,1360,Civil engineers,26,663,9.232581683282065e-4
+Dominican Republic,40610,1267474,22860,718109,4435,Other entertainment attendants and related workers,26,636,8.856594193917636e-4
+Dominican Republic,40610,1267474,22860,718109,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
+						and plastic",17,630,8.773041418503319e-4
+Dominican Republic,40610,1267474,22860,718109,7130,Security and fire alarm systems installers,13,627,8.73126503079616e-4
+Dominican Republic,40610,1267474,22860,718109,0140,Industrial production managers,26,624,8.689488643089002e-4
+Dominican Republic,40610,1267474,22860,718109,5600,"Production, planning, and expediting clerks",23,623,8.675563180519949e-4
+Dominican Republic,40610,1267474,22860,718109,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",14,620,8.63378679281279e-4
+Dominican Republic,40610,1267474,22860,718109,8030,Machinists,18,620,8.63378679281279e-4
+Dominican Republic,40610,1267474,22860,718109,0136,Human resources managers,25,617,8.592010405105632e-4
+Dominican Republic,40610,1267474,22860,718109,1305,"Architects, except landscape and naval",24,612,8.522383092260368e-4
+Dominican Republic,40610,1267474,22860,718109,1430,"Industrial engineers, including health and safety",27,610,8.494532167122261e-4
+Dominican Republic,40610,1267474,22860,718109,2004,Mental health counselors,23,610,8.494532167122261e-4
+Dominican Republic,40610,1267474,22860,718109,0540,"Claims adjusters, appraisers, examiners, and investigators",17,608,8.466681241984155e-4
+Dominican Republic,40610,1267474,22860,718109,6240,"Carpet, floor, and tile installers and finishers",12,606,8.438830316846049e-4
+Dominican Republic,40610,1267474,22860,718109,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",20,603,8.397053929138891e-4
+Dominican Republic,40610,1267474,22860,718109,6330,"Drywall installers, ceiling tile installers, and tapers",19,599,8.341352078862679e-4
+Dominican Republic,40610,1267474,22860,718109,2012,Healthcare social workers,14,583,8.118544677757834e-4
+Dominican Republic,40610,1267474,22860,718109,9760,Other material moving workers,15,580,8.076768290050675e-4
+Dominican Republic,40610,1267474,22860,718109,9365,Transportation service attendants,13,567,7.895737276652987e-4
+Dominican Republic,40610,1267474,22860,718109,7010,"Computer, automated teller, and office machine repairers",23,557,7.756482650962458e-4
+Dominican Republic,40610,1267474,22860,718109,2634,Graphic designers,22,556,7.742557188393405e-4
+Dominican Republic,40610,1267474,22860,718109,0530,"Purchasing agents, except wholesale, retail, and farm products",19,555,7.728631725824353e-4
+Dominican Republic,40610,1267474,22860,718109,5350,Correspondence clerks and order clerks,18,555,7.728631725824353e-4
+Dominican Republic,40610,1267474,22860,718109,3740,Firefighters,19,546,7.603302562702877e-4
+Dominican Republic,40610,1267474,22860,718109,9050,Flight attendants,19,541,7.533675249857613e-4
+Dominican Republic,40610,1267474,22860,718109,0650,Training and development specialists,22,537,7.477973399581401e-4
+Dominican Republic,40610,1267474,22860,718109,1010,Computer programmers,24,536,7.464047937012347e-4
+Dominican Republic,40610,1267474,22860,718109,2025,Other community and social service specialists,16,533,7.422271549305189e-4
+Dominican Republic,40610,1267474,22860,718109,3820,Detectives and criminal investigators,14,522,7.269091461045607e-4
+Dominican Republic,40610,1267474,22860,718109,2710,Producers and directors,22,515,7.171613223062237e-4
+Dominican Republic,40610,1267474,22860,718109,5300,"Hotel, motel, and resort desk clerks",23,509,7.08806044764792e-4
+Dominican Republic,40610,1267474,22860,718109,4400,Gambling services workers,20,508,7.074134985078867e-4
+Dominican Republic,40610,1267474,22860,718109,5260,File clerks,14,507,7.060209522509814e-4
+Dominican Republic,40610,1267474,22860,718109,0850,Personal financial advisors,18,504,7.018433134802656e-4
+Dominican Republic,40610,1267474,22860,718109,2350,Tutors,23,500,6.962731284526444e-4
+Dominican Republic,40610,1267474,22860,718109,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",19,494,6.879178509112126e-4
+Dominican Republic,40610,1267474,22860,718109,7420,Telecommunications line installers and repairers,13,492,6.85132758397402e-4
+Dominican Republic,40610,1267474,22860,718109,9415,Passenger attendants,14,491,6.837402121404967e-4
+Dominican Republic,40610,1267474,22860,718109,0150,Purchasing managers,18,488,6.795625733697809e-4
+Dominican Republic,40610,1267474,22860,718109,1240,Other mathematical science occupations,20,469,6.531041944885805e-4
+Dominican Republic,40610,1267474,22860,718109,2555,Other educational instruction and library workers,12,469,6.531041944885805e-4
+Dominican Republic,40610,1267474,22860,718109,5730,Medical secretaries and administrative assistants,16,460,6.405712781764328e-4
+Dominican Republic,40610,1267474,22860,718109,4240,Pest control workers,13,457,6.363936394057169e-4
+Dominican Republic,40610,1267474,22860,718109,0102,Facilities managers,19,439,6.113278067814218e-4
+Dominican Republic,40610,1267474,22860,718109,8610,Stationary engineers and boiler operators,16,432,6.015799829830848e-4
+Dominican Republic,40610,1267474,22860,718109,1551,Electrical and electronic engineering technologists and technicians,15,431,6.001874367261795e-4
+Dominican Republic,40610,1267474,22860,718109,5540,Postal service clerks,14,431,6.001874367261795e-4
+Dominican Republic,40610,1267474,22860,718109,3960,Other protective service workers,11,428,5.960097979554636e-4
+Dominican Republic,40610,1267474,22860,718109,4350,Animal caretakers,15,425,5.918321591847477e-4
+Dominican Republic,40610,1267474,22860,718109,3110,Physician assistants,17,424,5.904396129278424e-4
+Dominican Republic,40610,1267474,22860,718109,3310,Dental hygienists,15,421,5.862619741571265e-4
+Dominican Republic,40610,1267474,22860,718109,2006,"Counselors, all other",16,416,5.792992428726001e-4
+Dominican Republic,40610,1267474,22860,718109,0340,Lodging managers,13,409,5.695514190742631e-4
+Dominican Republic,40610,1267474,22860,718109,1650,Other life scientists,10,408,5.681588728173578e-4
+Dominican Republic,40610,1267474,22860,718109,3322,Diagnostic medical sonographers,10,408,5.681588728173578e-4
+Dominican Republic,40610,1267474,22860,718109,2905,Other media and communication equipment workers,11,403,5.611961415328314e-4
+Dominican Republic,40610,1267474,22860,718109,4621,Exercise trainers and group fitness instructors,15,403,5.611961415328314e-4
+Dominican Republic,40610,1267474,22860,718109,7840,Food batchmakers,17,403,5.611961415328314e-4
+Dominican Republic,40610,1267474,22860,718109,0900,Financial examiners,2,401,5.584110490190208e-4
+Dominican Republic,40610,1267474,22860,718109,1410,Electrical and electronics engineers,18,401,5.584110490190208e-4
+Dominican Republic,40610,1267474,22860,718109,5820,Word processors and typists,6,401,5.584110490190208e-4
+Dominican Republic,40610,1267474,22860,718109,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,11,399,5.556259565052102e-4
+Dominican Republic,40610,1267474,22860,718109,5140,Payroll and timekeeping clerks,16,396,5.514483177344944e-4
+Dominican Republic,40610,1267474,22860,718109,7610,"Helpers--installation, maintenance, and repair workers",10,394,5.486632252206838e-4
+Dominican Republic,40610,1267474,22860,718109,3323,Radiologic technologists and technicians,17,393,5.472706789637785e-4
+Dominican Republic,40610,1267474,22860,718109,3630,Massage therapists,16,390,5.430930401930627e-4
+Dominican Republic,40610,1267474,22860,718109,6040,"Graders and sorters, agricultural products",15,390,5.430930401930627e-4
+Dominican Republic,40610,1267474,22860,718109,1800,Economists,3,380,5.291675776240097e-4
+Dominican Republic,40610,1267474,22860,718109,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",13,377,5.249899388532938e-4
+Dominican Republic,40610,1267474,22860,718109,8720,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",7,375,5.222048463394833e-4
+Dominican Republic,40610,1267474,22860,718109,2722,Coaches and scouts,13,373,5.194197538256727e-4
+Dominican Republic,40610,1267474,22860,718109,3605,Orderlies and psychiatric aides,9,369,5.138495687980516e-4
+Dominican Republic,40610,1267474,22860,718109,5250,"Eligibility interviewers, government programs",17,365,5.082793837704304e-4
+Dominican Republic,40610,1267474,22860,718109,9430,Other transportation workers,10,363,5.054942912566198e-4
+Dominican Republic,40610,1267474,22860,718109,3424,Veterinary technologists and technicians,8,362,5.041017449997146e-4
+Dominican Republic,40610,1267474,22860,718109,8310,"Pressers, textile, garment, and related materials",9,354,4.929613749444723e-4
+Dominican Republic,40610,1267474,22860,718109,2011,"Child, family, and school social workers",15,352,4.901762824306617e-4
+Dominican Republic,40610,1267474,22860,718109,6520,Sheet metal workers,12,351,4.887837361737563e-4
+Dominican Republic,40610,1267474,22860,718109,4252,Tree trimmers and pruners,8,343,4.7764336611851407e-4
+Dominican Republic,40610,1267474,22860,718109,9825,Military enlisted tactical operations and air/weapons specialists and crew members,18,339,4.7207318109089287e-4
+Dominican Republic,40610,1267474,22860,718109,1031,Web developers,10,336,4.67895542320177e-4
+Dominican Republic,40610,1267474,22860,718109,3258,"Nurse practitioners, and nurse midwives",14,335,4.665029960632717e-4
+Dominican Republic,40610,1267474,22860,718109,0960,Other financial specialists,12,334,4.6511044980636644e-4
+Dominican Republic,40610,1267474,22860,718109,1022,Software quality assurance analysts and testers,8,331,4.609328110356506e-4
+Dominican Republic,40610,1267474,22860,718109,1065,Database administrators and architects,8,331,4.609328110356506e-4
+Dominican Republic,40610,1267474,22860,718109,1760,"Physical scientists, all other",12,328,4.567551722649347e-4
+Dominican Republic,40610,1267474,22860,718109,2600,Artists and related workers,13,327,4.5536262600802944e-4
+Dominican Republic,40610,1267474,22860,718109,4622,Recreation workers,12,325,4.5257753349421887e-4
+Dominican Republic,40610,1267474,22860,718109,4800,Advertising sales agents,10,325,4.5257753349421887e-4
+Dominican Republic,40610,1267474,22860,718109,0725,"Meeting, convention, and event planners",9,317,0.00044143716343897653
+Dominican Republic,40610,1267474,22860,718109,9630,Machine feeders and offbearers,7,317,0.00044143716343897653
+Dominican Republic,40610,1267474,22860,718109,4820,"Securities, commodities, and financial services sales agents",13,316,4.4004461718207124e-4
+Dominican Republic,40610,1267474,22860,718109,2850,Writers and authors,11,312,4.344744321544501e-4
+Dominican Republic,40610,1267474,22860,718109,0600,Cost estimators,11,310,4.316893396406395e-4
+Dominican Republic,40610,1267474,22860,718109,1032,Web and digital interface designers,7,308,4.2890424712682895e-4
+Dominican Republic,40610,1267474,22860,718109,1007,Information security analysts,10,306,4.261191546130184e-4
+Dominican Republic,40610,1267474,22860,718109,3030,Dietitians and nutritionists,10,305,4.2472660835611304e-4
+Dominican Republic,40610,1267474,22860,718109,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",8,305,4.2472660835611304e-4
+Dominican Republic,40610,1267474,22860,718109,6660,Construction and building inspectors,11,302,4.205489695853972e-4
+Dominican Republic,40610,1267474,22860,718109,3321,Cardiovascular technologists and technicians,8,287,3.996607757318179e-4
+Dominican Republic,40610,1267474,22860,718109,5720,Legal secretaries and administrative assistants,9,280,3.8991295193348084e-4
+Dominican Republic,40610,1267474,22860,718109,6600,"Helpers, construction trades",9,280,3.8991295193348084e-4
+Dominican Republic,40610,1267474,22860,718109,2632,Fashion designers,10,279,3.8852040567657556e-4
+Dominican Republic,40610,1267474,22860,718109,9030,Aircraft pilots and flight engineers,11,278,3.8712785941967027e-4
+Dominican Republic,40610,1267474,22860,718109,3010,Dentists,15,277,3.85735313162765e-4
+Dominican Republic,40610,1267474,22860,718109,5840,Insurance claims and policy processing clerks,12,276,3.843427669058597e-4
+Dominican Republic,40610,1267474,22860,718109,3050,Pharmacists,6,271,3.7738003562133327e-4
+Dominican Republic,40610,1267474,22860,718109,6720,Hazardous materials removal workers,8,271,3.7738003562133327e-4
+Dominican Republic,40610,1267474,22860,718109,0101,Administrative services managers,10,261,3.6345457305228036e-4
+Dominican Republic,40610,1267474,22860,718109,7320,Home appliance repairers,10,261,3.6345457305228036e-4
+Dominican Republic,40610,1267474,22860,718109,2180,"Legal support workers, all other",12,260,3.6206202679537507e-4
+Dominican Republic,40610,1267474,22860,718109,4750,Parts salespersons,9,260,3.6206202679537507e-4
+Dominican Republic,40610,1267474,22860,718109,1320,Aerospace engineers,8,259,3.606694805384698e-4
+Dominican Republic,40610,1267474,22860,718109,5220,"Court, municipal, and license clerks",12,256,3.5649184176775393e-4
+Dominican Republic,40610,1267474,22860,718109,1106,Computer network architects,7,255,3.5509929551084864e-4
+Dominican Republic,40610,1267474,22860,718109,2060,"Religious workers, all other",9,254,3.5370674925394336e-4
+Dominican Republic,40610,1267474,22860,718109,3401,Emergency medical technicians,7,254,3.5370674925394336e-4
+Dominican Republic,40610,1267474,22860,718109,2001,Substance abuse and behavioral disorder counselors,8,252,3.509216567401328e-4
+Dominican Republic,40610,1267474,22860,718109,5100,Bill and account collectors,13,246,3.42566379198701e-4
+Dominican Republic,40610,1267474,22860,718109,1825,Other psychologists,9,245,3.4117383294179573e-4
+Dominican Republic,40610,1267474,22860,718109,4522,Skincare specialists,10,241,3.356036479141746e-4
+Dominican Republic,40610,1267474,22860,718109,3545,Miscellaneous health technologists and technicians,9,238,3.3142600914345873e-4
+Dominican Republic,40610,1267474,22860,718109,2170,"Title examiners, abstractors, and searchers",5,236,3.2864091662964816e-4
+Dominican Republic,40610,1267474,22860,718109,3610,Occupational therapy assistants and aides,12,235,3.2724837037274287e-4
+Dominican Republic,40610,1267474,22860,718109,3649,Phlebotomists,10,235,3.2724837037274287e-4
+Dominican Republic,40610,1267474,22860,718109,3647,Pharmacy aides,5,231,3.216781853451217e-4
+Dominican Republic,40610,1267474,22860,718109,0930,"Tax examiners and collectors, and revenue agents",11,227,3.1610800031750053e-4
+Dominican Republic,40610,1267474,22860,718109,1460,Mechanical engineers,10,227,3.1610800031750053e-4
+Dominican Republic,40610,1267474,22860,718109,1306,Landscape architects,2,224,3.119303615467847e-4
+Dominican Republic,40610,1267474,22860,718109,2910,Photographers,8,224,3.119303615467847e-4
+Dominican Republic,40610,1267474,22860,718109,5360,"Human resources assistants, except payroll and timekeeping",9,224,3.119303615467847e-4
+Dominican Republic,40610,1267474,22860,718109,3230,Speech-language pathologists,11,223,3.105378152898794e-4
+Dominican Republic,40610,1267474,22860,718109,7430,Precision instrument and equipment repairers,8,218,3.0357508400535296e-4
+Dominican Republic,40610,1267474,22860,718109,7220,Heavy vehicle and mobile equipment service technicians and mechanics,8,216,3.007899914915424e-4
+Dominican Republic,40610,1267474,22860,718109,4420,"Ushers, lobby attendants, and ticket takers",8,214,2.980048989777318e-4
+Dominican Republic,40610,1267474,22860,718109,1220,Operations research analysts,7,213,2.9661235272082653e-4
+Dominican Republic,40610,1267474,22860,718109,8710,Cutting workers,6,213,2.9661235272082653e-4
+Dominican Republic,40610,1267474,22860,718109,7540,Locksmiths and safe repairers,3,212,2.952198064639212e-4
+Dominican Republic,40610,1267474,22860,718109,5900,"Office machine operators, except computer",10,211,2.938272602070159e-4
+Dominican Republic,40610,1267474,22860,718109,3945,Transportation security screeners,7,210,2.924347139501106e-4
+Dominican Republic,40610,1267474,22860,718109,3910,Private detectives and investigators,9,209,2.9104216769320533e-4
+Dominican Republic,40610,1267474,22860,718109,7120,Electronic home entertainment equipment installers and repairers,5,207,2.8825707517939476e-4
+Dominican Republic,40610,1267474,22860,718109,5500,Cargo and freight agents,6,206,2.868645289224895e-4
+Dominican Republic,40610,1267474,22860,718109,3423,Surgical technologists,8,204,2.840794364086789e-4
+Dominican Republic,40610,1267474,22860,718109,1720,Chemists and materials scientists,5,203,2.826868901517736e-4
+Dominican Republic,40610,1267474,22860,718109,9810,First-line enlisted military supervisors,4,201,2.7990179763796305e-4
+Dominican Republic,40610,1267474,22860,718109,3620,Physical therapist assistants and aides,6,197,2.743316126103419e-4
+Dominican Republic,40610,1267474,22860,718109,3710,First-line supervisors of police and detectives,8,197,2.743316126103419e-4
+Dominican Republic,40610,1267474,22860,718109,2920,"Television, video, and film camera operators and editors",10,196,2.729390663534366e-4
+Dominican Republic,40610,1267474,22860,718109,4900,"Models, demonstrators, and product promoters",5,195,2.7154652009653133e-4
+Dominican Republic,40610,1267474,22860,718109,0205,"Farmers, ranchers, and other agricultural managers",8,191,2.6597633506891013e-4
+Dominican Republic,40610,1267474,22860,718109,3515,Medical records specialists,11,191,2.6597633506891013e-4
+Dominican Republic,40610,1267474,22860,718109,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",6,191,2.6597633506891013e-4
+Dominican Republic,40610,1267474,22860,718109,4830,Travel agents,9,183,2.5483596501366785e-4
+Dominican Republic,40610,1267474,22860,718109,8335,Shoe and leather workers,7,183,2.5483596501366785e-4
+Dominican Republic,40610,1267474,22860,718109,3160,Physical therapists,9,180,2.50658326242952e-4
+Dominican Republic,40610,1267474,22860,718109,0300,Architectural and engineering managers,9,178,2.478732337291414e-4
+Dominican Republic,40610,1267474,22860,718109,5850,"Mail clerks and mail machine operators, except postal service",5,177,2.4648068747223613e-4
+Dominican Republic,40610,1267474,22860,718109,2755,"Disc jockeys, except radio",5,176,2.4508814121533085e-4
+Dominican Republic,40610,1267474,22860,718109,7040,"Electric motor, power tool, and related repairers",6,173,2.4091050244461496e-4
+Dominican Republic,40610,1267474,22860,718109,2050,"Directors, religious activities and education",7,168,2.339477711600885e-4
+Dominican Republic,40610,1267474,22860,718109,2435,Librarians and media collections specialists,4,168,2.339477711600885e-4
+Dominican Republic,40610,1267474,22860,718109,2825,Public relations specialists,4,168,2.339477711600885e-4
+Dominican Republic,40610,1267474,22860,718109,5560,"Postal service mail sorters, processors, and processing machine operators",4,168,2.339477711600885e-4
+Dominican Republic,40610,1267474,22860,718109,1860,Other social scientists,4,167,2.3255522490318322e-4
+Dominican Republic,40610,1267474,22860,718109,2752,Musicians and singers,7,166,2.3116267864627793e-4
+Dominican Republic,40610,1267474,22860,718109,3402,Paramedics,7,163,2.2698503987556208e-4
+Dominican Republic,40610,1267474,22860,718109,7905,Computer numerically controlled tool operators and programmers,6,163,2.2698503987556208e-4
+Dominican Republic,40610,1267474,22860,718109,8465,"Other textile, apparel, and furnishings workers",3,161,2.2419994736175148e-4
+Dominican Republic,40610,1267474,22860,718109,6700,Elevator installers and repairers,8,160,2.228074011048462e-4
+Dominican Republic,40610,1267474,22860,718109,0640,"Compensation, benefits, and job analysis specialists",8,159,2.214148548479409e-4
+Dominican Republic,40610,1267474,22860,718109,4540,Tour and travel guides,6,158,2.2002230859103562e-4
+Dominican Republic,40610,1267474,22860,718109,6710,Fence erectors,6,157,2.1862976233413033e-4
+Dominican Republic,40610,1267474,22860,718109,9110,"Ambulance drivers and attendants, except emergency medical technicians",2,157,2.1862976233413033e-4
+Dominican Republic,40610,1267474,22860,718109,4525,Other personal appearance workers,6,155,2.1584466982031976e-4
+Dominican Republic,40610,1267474,22860,718109,5320,"Library assistants, clerical",4,154,2.1445212356341448e-4
+Dominican Republic,40610,1267474,22860,718109,8620,Water and wastewater treatment plant and system operators,2,153,2.130595773065092e-4
+Dominican Republic,40610,1267474,22860,718109,0726,Fundraisers,7,151,2.102744847926986e-4
+Dominican Republic,40610,1267474,22860,718109,3430,Dietetic technicians and ophthalmic medical technicians,5,151,2.102744847926986e-4
+Dominican Republic,40610,1267474,22860,718109,4740,Counter and rental clerks,6,151,2.102744847926986e-4
+Dominican Republic,40610,1267474,22860,718109,2015,Probation officers and correctional treatment specialists,7,149,2.0748939227888802e-4
+Dominican Republic,40610,1267474,22860,718109,3550,Other healthcare practitioners and technical occupations,6,148,2.0609684602198274e-4
+Dominican Republic,40610,1267474,22860,718109,1545,Other drafters,6,147,2.0470429976507745e-4
+Dominican Republic,40610,1267474,22860,718109,3422,Psychiatric technicians,11,145,2.0191920725126688e-4
+Dominican Republic,40610,1267474,22860,718109,4160,"Food preparation and serving related workers, all other",6,144,2.005266609943616e-4
+Dominican Republic,40610,1267474,22860,718109,8450,Upholsterers,4,144,2.005266609943616e-4
+Dominican Republic,40610,1267474,22860,718109,4640,Residential advisors,6,142,1.97741568480551e-4
+Dominican Republic,40610,1267474,22860,718109,5230,"Credit authorizers, checkers, and clerks",6,141,1.963490222236457e-4
+Dominican Republic,40610,1267474,22860,718109,3725,"Miscellaneous first-line supervisors, protective service workers",7,139,1.9356392970983514e-4
+Dominican Republic,40610,1267474,22860,718109,2400,"Archivists, curators, and museum technicians",4,138,1.9217138345292985e-4
+Dominican Republic,40610,1267474,22860,718109,3520,"Opticians, dispensing",7,137,1.9077883719602456e-4
+Dominican Republic,40610,1267474,22860,718109,2013,Mental health and substance abuse social workers,4,136,1.8938629093911928e-4
+Dominican Republic,40610,1267474,22860,718109,6540,Solar photovoltaic installers,4,131,1.8242355965459282e-4
+Dominican Republic,40610,1267474,22860,718109,2700,Actors,5,130,1.8103101339768754e-4
+Dominican Republic,40610,1267474,22860,718109,6210,Boilermakers,3,129,1.7963846714078225e-4
+Dominican Republic,40610,1267474,22860,718109,6441,Pipelayers,4,126,1.754608283700664e-4
+Dominican Republic,40610,1267474,22860,718109,7160,Automotive glass installers and repairers,4,126,1.754608283700664e-4
+Dominican Republic,40610,1267474,22860,718109,2005,Rehabilitation counselors,1,125,1.740682821131611e-4
+Dominican Republic,40610,1267474,22860,718109,8500,Cabinetmakers and bench carpenters,2,124,1.726757358562558e-4
+Dominican Republic,40610,1267474,22860,718109,2003,Marriage and family therapists,5,123,1.712831895993505e-4
+Dominican Republic,40610,1267474,22860,718109,2770,"Entertainers and performers, sports and related workers, all other",3,116,1.615353658010135e-4
+Dominican Republic,40610,1267474,22860,718109,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,116,1.615353658010135e-4
+Dominican Republic,40610,1267474,22860,718109,1822,School psychologists,7,115,1.601428195441082e-4
+Dominican Republic,40610,1267474,22860,718109,1900,Agricultural and food science technicians,5,115,1.601428195441082e-4
+Dominican Republic,40610,1267474,22860,718109,6360,Glaziers,6,115,1.601428195441082e-4
+Dominican Republic,40610,1267474,22860,718109,6765,Other construction and related workers,7,115,1.601428195441082e-4
+Dominican Republic,40610,1267474,22860,718109,1610,Biological scientists,4,114,1.587502732872029e-4
+Dominican Republic,40610,1267474,22860,718109,5330,Loan interviewers and clerks,5,114,1.587502732872029e-4
+Dominican Republic,40610,1267474,22860,718109,6530,Structural iron and steel workers,5,112,1.5596518077339234e-4
+Dominican Republic,40610,1267474,22860,718109,0060,Public relations and fundraising managers,2,111,1.5457263451648705e-4
+Dominican Republic,40610,1267474,22860,718109,9265,Other rail transportation workers,2,110,1.5318008825958177e-4
+Dominican Republic,40610,1267474,22860,718109,7030,Avionics technicians,4,109,1.5178754200267648e-4
+Dominican Republic,40610,1267474,22860,718109,1980,Occupational health and safety specialists and technicians,7,106,1.476099032319606e-4
+Dominican Republic,40610,1267474,22860,718109,8130,Tool and die makers,4,106,1.476099032319606e-4
+Dominican Republic,40610,1267474,22860,718109,2721,Athletes and sports competitors,1,103,1.4343226446124474e-4
+Dominican Republic,40610,1267474,22860,718109,3220,Respiratory therapists,6,103,1.4343226446124474e-4
+Dominican Republic,40610,1267474,22860,718109,4930,Sales engineers,3,103,1.4343226446124474e-4
+Dominican Republic,40610,1267474,22860,718109,6730,Highway maintenance workers,3,103,1.4343226446124474e-4
+Dominican Republic,40610,1267474,22860,718109,2633,Floral designers,7,102,1.4203971820433945e-4
+Dominican Republic,40610,1267474,22860,718109,8930,"Paper goods machine setters, operators, and tenders",5,101,1.4064717194743417e-4
+Dominican Republic,40610,1267474,22860,718109,6460,Plasterers and stucco masons,4,99,1.378620794336236e-4
+Dominican Republic,40610,1267474,22860,718109,5420,Other information and records clerks,6,95,1.3229189440600242e-4
+Dominican Republic,40610,1267474,22860,718109,5920,Statistical assistants,4,94,1.3089934814909714e-4
+Dominican Republic,40610,1267474,22860,718109,7410,Electrical power-line installers and repairers,4,93,1.2950680189219185e-4
+Dominican Republic,40610,1267474,22860,718109,9040,Air traffic controllers and airfield operations specialists,4,91,1.2672170937838128e-4
+Dominican Republic,40610,1267474,22860,718109,1450,Materials engineers,4,90,1.25329163121476e-4
+Dominican Republic,40610,1267474,22860,718109,2636,Merchandise displayers and window trimmers,2,86,1.1975897809385484e-4
+Dominican Republic,40610,1267474,22860,718109,1920,Chemical technicians,5,85,1.1836643183694954e-4
+Dominican Republic,40610,1267474,22860,718109,0137,Training and development managers,5,84,1.1697388558004425e-4
+Dominican Republic,40610,1267474,22860,718109,0510,"Buyers and purchasing agents, farm products",3,83,1.1558133932313897e-4
+Dominican Republic,40610,1267474,22860,718109,7510,"Coin, vending, and amusement machine servicers and repairers",4,83,1.1558133932313897e-4
+Dominican Republic,40610,1267474,22860,718109,1400,Computer hardware engineers,2,79,1.1001115429551781e-4
+Dominican Republic,40610,1267474,22860,718109,6005,"First-line supervisors of farming, fishing, and forestry workers",3,77,1.0722606178170724e-4
+Dominican Republic,40610,1267474,22860,718109,3261,Acupuncturists,2,75,1.0444096926789665e-4
+Dominican Republic,40610,1267474,22860,718109,0040,Advertising and promotions managers,4,74,1.0304842301099137e-4
+Dominican Republic,40610,1267474,22860,718109,0810,Property appraisers and assessors,4,74,1.0304842301099137e-4
+Dominican Republic,40610,1267474,22860,718109,0820,Budget analysts,4,74,1.0304842301099137e-4
+Dominican Republic,40610,1267474,22860,718109,1821,Clinical and counseling psychologists,1,74,1.0304842301099137e-4
+Dominican Republic,40610,1267474,22860,718109,8256,Print binding and finishing workers,3,74,1.0304842301099137e-4
+Dominican Republic,40610,1267474,22860,718109,3210,Recreational therapists,2,71,9.88707842402755e-5
+Dominican Republic,40610,1267474,22860,718109,6120,Forest and conservation workers,2,71,9.88707842402755e-5
+Dominican Republic,40610,1267474,22860,718109,6250,"Cement masons, concrete finishers, and terrazzo workers",2,70,9.747823798337021e-5
+Dominican Republic,40610,1267474,22860,718109,2635,Interior designers,4,68,9.469314546955964e-5
+Dominican Republic,40610,1267474,22860,718109,7925,"Forming machine setters, operators, and tenders, metal and plastic",4,67,9.330059921265434e-5
+Dominican Republic,40610,1267474,22860,718109,7100,"Other electrical and electronic equipment mechanics, installers, and repairers",1,65,9.051550669884377e-5
+Dominican Republic,40610,1267474,22860,718109,8025,"Other machine tool setters, operators, and tenders, metal and plastic",2,65,9.051550669884377e-5
+Dominican Republic,40610,1267474,22860,718109,1541,Architectural and civil drafters,4,64,8.912296044193848e-5
+Dominican Republic,40610,1267474,22860,718109,1910,Biological technicians,4,64,8.912296044193848e-5
+Dominican Republic,40610,1267474,22860,718109,9410,Transportation inspectors,5,64,8.912296044193848e-5
+Dominican Republic,40610,1267474,22860,718109,5150,Procurement clerks,2,62,8.63378679281279e-5
+Dominican Republic,40610,1267474,22860,718109,9800,Military officer special and tactical operations leaders,2,61,8.494532167122261e-5
+Dominican Republic,40610,1267474,22860,718109,3150,Occupational therapists,5,60,8.355277541431733e-5
+Dominican Republic,40610,1267474,22860,718109,8250,Prepress technicians and workers,5,59,8.216022915741204e-5
+Dominican Republic,40610,1267474,22860,718109,8600,"Power plant operators, distributors, and dispatchers",2,57,7.937513664360145e-5
+Dominican Republic,40610,1267474,22860,718109,8640,"Chemical processing machine setters, operators, and tenders",5,57,7.937513664360145e-5
+Dominican Republic,40610,1267474,22860,718109,9310,Ship and boat captains and operators,3,57,7.937513664360145e-5
+Dominican Republic,40610,1267474,22860,718109,8630,Miscellaneous plant and system operators,2,56,7.798259038669617e-5
+Dominican Republic,40610,1267474,22860,718109,0500,"Agents and business managers of artists, performers, and athletes",1,54,7.51974978728856e-5
+Dominican Republic,40610,1267474,22860,718109,1935,"Environmental science and geoscience technicians, and nuclear technicians",4,54,7.51974978728856e-5
+Dominican Republic,40610,1267474,22860,718109,8540,"Woodworking machine setters, operators, and tenders, except sawing",2,54,7.51974978728856e-5
+Dominican Republic,40610,1267474,22860,718109,8920,"Molders, shapers, and casters, except metal and plastic",2,54,7.51974978728856e-5
+Dominican Republic,40610,1267474,22860,718109,7350,"Maintenance workers, machinery",2,53,7.38049516159803e-5
+Dominican Republic,40610,1267474,22860,718109,4330,Supervisors of personal care and service workers,3,51,7.101985910216973e-5
+Dominican Republic,40610,1267474,22860,718109,5020,Telephone operators,1,51,7.101985910216973e-5
+Dominican Republic,40610,1267474,22860,718109,0135,Compensation and benefits managers,2,50,6.962731284526444e-5
+Dominican Republic,40610,1267474,22860,718109,3324,Magnetic resonance imaging technologists,4,50,6.962731284526444e-5
+Dominican Republic,40610,1267474,22860,718109,0360,Natural sciences managers,1,48,6.684222033145385e-5
+Dominican Republic,40610,1267474,22860,718109,5530,"Meter readers, utilities",1,48,6.684222033145385e-5
+Dominican Republic,40610,1267474,22860,718109,9570,"Conveyor, dredge, and hoist and winch operators",2,48,6.684222033145385e-5
+Dominican Republic,40610,1267474,22860,718109,4340,Animal trainers,2,47,6.544967407454857e-5
+Dominican Republic,40610,1267474,22860,718109,3700,First-line supervisors of correctional officers,2,45,6.2664581560738e-5
+Dominican Republic,40610,1267474,22860,718109,8040,"Metal furnace operators, tenders, pourers, and casters",2,44,6.127203530383271e-5
+Dominican Republic,40610,1267474,22860,718109,2805,Broadcast announcers and radio disc jockeys,2,42,5.8486942790022126e-5
+Dominican Republic,40610,1267474,22860,718109,0860,Insurance underwriters,2,41,5.709439653311684e-5
+Dominican Republic,40610,1267474,22860,718109,2810,"News analysts, reporters, and journalists",3,41,5.709439653311684e-5
+Dominican Republic,40610,1267474,22860,718109,5521,Public safety telecommunicators,2,41,5.709439653311684e-5
+Dominican Republic,40610,1267474,22860,718109,1520,"Petroleum, mining and geological engineers, including mining safety engineers",1,40,5.570185027621155e-5
+Dominican Republic,40610,1267474,22860,718109,6130,Logging workers,2,39,5.430930401930626e-5
+Dominican Republic,40610,1267474,22860,718109,1440,Marine engineers and naval architects,1,38,5.291675776240097e-5
+Dominican Republic,40610,1267474,22860,718109,2440,Library technicians,2,37,5.1524211505495684e-5
+Dominican Republic,40610,1267474,22860,718109,3120,Podiatrists,2,37,5.1524211505495684e-5
+Dominican Republic,40610,1267474,22860,718109,5010,"Switchboard operators, including answering service",1,37,5.1524211505495684e-5
+Dominican Republic,40610,1267474,22860,718109,8365,"Textile machine setters, operators, and tenders",2,37,5.1524211505495684e-5
+Dominican Republic,40610,1267474,22860,718109,3100,Surgeons,1,36,5.01316652485904e-5
+Dominican Republic,40610,1267474,22860,718109,9300,"Sailors and marine oilers, and ship engineers",2,35,4.8739118991685105e-5
+Dominican Republic,40610,1267474,22860,718109,2105,Judicial law clerks,2,34,4.734657273477982e-5
+Dominican Republic,40610,1267474,22860,718109,8940,Tire builders,1,34,4.734657273477982e-5
+Dominican Republic,40610,1267474,22860,718109,3040,Optometrists,1,33,4.595402647787453e-5
+Dominican Republic,40610,1267474,22860,718109,3801,Bailiffs,2,33,4.595402647787453e-5
+Dominican Republic,40610,1267474,22860,718109,3840,Fish and game wardens and parking enforcement officers,1,33,4.595402647787453e-5
+Dominican Republic,40610,1267474,22860,718109,6115,Fishing and hunting workers,1,33,4.595402647787453e-5
+Dominican Republic,40610,1267474,22860,718109,0335,Entertainment and recreation managers,1,31,4.316893396406395e-5
+Dominican Republic,40610,1267474,22860,718109,2830,Editors,3,31,4.316893396406395e-5
+Dominican Republic,40610,1267474,22860,718109,7730,Engine and other machine assemblers,2,31,4.316893396406395e-5
+Dominican Republic,40610,1267474,22860,718109,0830,Credit analysts,2,29,4.038384145025338e-5
+Dominican Republic,40610,1267474,22860,718109,1350,Chemical engineers,2,29,4.038384145025338e-5
+Dominican Republic,40610,1267474,22860,718109,1420,Environmental engineers,2,29,4.038384145025338e-5
+Dominican Republic,40610,1267474,22860,718109,8910,Etchers and engravers,1,29,4.038384145025338e-5
+Dominican Republic,40610,1267474,22860,718109,7830,"Food and tobacco roasting, baking, and drying machine operators and tenders",1,28,3.8991295193348084e-5
+Dominican Republic,40610,1267474,22860,718109,6835,"Explosives workers, ordnance handling experts, and blasters",1,27,3.75987489364428e-5
+Dominican Republic,40610,1267474,22860,718109,2751,Music directors and composers,2,26,3.6206202679537506e-5
+Dominican Republic,40610,1267474,22860,718109,6010,Agricultural inspectors,1,25,3.481365642263222e-5
+Dominican Republic,40610,1267474,22860,718109,3720,First-line supervisors of firefighting and prevention workers,1,23,3.202856390882164e-5
+Dominican Republic,40610,1267474,22860,718109,4940,Telemarketers,2,23,3.202856390882164e-5
+Dominican Republic,40610,1267474,22860,718109,2740,Dancers and choreographers,2,22,3.0636017651916356e-5
+Dominican Republic,40610,1267474,22860,718109,5910,Proofreaders and copy markers,1,22,3.0636017651916356e-5
+Dominican Republic,40610,1267474,22860,718109,8750,Jewelers and precious stone and metal workers,4,21,2.9243471395011063e-5
+Dominican Republic,40610,1267474,22860,718109,3750,Fire inspectors,2,18,2.50658326242952e-5
+Dominican Republic,40610,1267474,22860,718109,2865,"Media and communication workers, all other",1,16,2.228074011048462e-5
+Dominican Republic,40610,1267474,22860,718109,5340,New accounts clerks,3,16,2.228074011048462e-5
+Dominican Republic,40610,1267474,22860,718109,3270,"Healthcare diagnosing or treating practitioners, all other",1,15,2.088819385357933e-5
+Dominican Republic,40610,1267474,22860,718109,2631,Commercial and industrial designers,1,14,1.9495647596674042e-5
+Dominican Republic,40610,1267474,22860,718109,8850,Adhesive bonding machine operators and tenders,2,14,1.9495647596674042e-5
+Dominican Republic,40610,1267474,22860,718109,1560,Surveying and mapping technicians,1,13,1.8103101339768753e-5
+Dominican Republic,40610,1267474,22860,718109,9210,Locomotive engineers and operators,1,13,1.8103101339768753e-5
+Dominican Republic,40610,1267474,22860,718109,9650,Pumping station operators,1,13,1.8103101339768753e-5
+Dominican Republic,40610,1267474,22860,718109,7360,Millwrights,1,11,1.5318008825958178e-5
+Dominican Republic,40610,1267474,22860,718109,8730,"Furnace, kiln, oven, drier, and kettle operators and tenders",1,11,1.5318008825958178e-5
+Dominican Republic,40610,1267474,22860,718109,8510,Furniture finishers,1,10,1.3925462569052887e-5
+Dominican Republic,40610,1267474,22860,718109,8830,Photographic process workers and processing machine operators,1,8,1.114037005524231e-5
+Dominican Republic,40610,1267474,22860,718109,1745,"Environmental scientists and specialists, including health",1,7,9.747823798337021e-6
+Dominican Republic,40610,1267474,22860,718109,1005,Computer and information research scientists,1,6,8.355277541431732e-6
+Dominican Republic,40610,1267474,22860,718109,2862,Court reporters and simultaneous captioners,1,6,8.355277541431732e-6

@@ -1,347 +1,351 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Afghanistan,7565,187814,2905,73913,9142,Taxi drivers,182,4689,0.06343944908202888
-Afghanistan,7565,187814,2905,73913,9130,Driver/sales workers and truck drivers,148,4637,0.06273591925642309
-Afghanistan,7565,187814,2905,73913,3930,Security guards and gaming surveillance officers,76,2231,0.030184135402432588
-Afghanistan,7565,187814,2905,73913,9645,Stockers and order fillers,56,1917,0.025935897609351534
-Afghanistan,7565,187814,2905,73913,9620,"Laborers and freight, stock, and material movers, hand",65,1810,0.02448824969897041
-Afghanistan,7565,187814,2905,73913,4700,First-line supervisors of retail sales workers,58,1769,0.0239335434903197
-Afghanistan,7565,187814,2905,73913,0440,Other managers,58,1670,0.02259413093772408
-Afghanistan,7565,187814,2905,73913,4720,Cashiers,68,1644,0.02224236602492119
-Afghanistan,7565,187814,2905,73913,4760,Retail salespersons,61,1544,0.020889424052602384
-Afghanistan,7565,187814,2905,73913,3602,Personal care aides,52,1179,0.015951185853638736
-Afghanistan,7565,187814,2905,73913,2545,Teaching assistants,44,1148,0.015531773842219907
-Afghanistan,7565,187814,2905,73913,1021,Software developers,57,1129,0.015274714867479333
-Afghanistan,7565,187814,2905,73913,5510,Couriers and messengers,47,982,0.013285890168170687
-Afghanistan,7565,187814,2905,73913,1108,"Computer occupations, all other",29,866,0.01171647748028087
-Afghanistan,7565,187814,2905,73913,4020,Cooks,29,828,0.011202359530799724
-Afghanistan,7565,187814,2905,73913,5240,Customer service representatives,32,828,0.011202359530799724
-Afghanistan,7565,187814,2905,73913,3255,Registered nurses,34,797,0.010782947519380894
-Afghanistan,7565,187814,2905,73913,7200,Automotive service technicians and mechanics,27,767,0.010377064927685252
-Afghanistan,7565,187814,2905,73913,4220,Janitors and building cleaners,31,744,0.010065888274051926
-Afghanistan,7565,187814,2905,73913,0800,Accountants and auditors,39,741,0.010025300014882362
-Afghanistan,7565,187814,2905,73913,8990,"Miscellaneous production workers, including equipment operators and tenders",28,694,0.009389417287892523
-Afghanistan,7565,187814,2905,73913,4600,Childcare workers,26,674,0.00911882889342876
-Afghanistan,7565,187814,2905,73913,1360,Civil engineers,26,652,0.008821181659518623
-Afghanistan,7565,187814,2905,73913,0120,Financial managers,37,629,0.008510005005885297
-Afghanistan,7565,187814,2905,73913,8740,"Inspectors, testers, sorters, samplers, and weighers",26,624,0.008442357907269358
-Afghanistan,7565,187814,2905,73913,2300,Preschool and kindergarten teachers,21,617,0.00834765196920704
-Afghanistan,7565,187814,2905,73913,7750,Other assemblers and fabricators,25,597,0.00807706357474328
-Afghanistan,7565,187814,2905,73913,9640,"Packers and packagers, hand",24,584,0.007901181118341835
-Afghanistan,7565,187814,2905,73913,0020,General and operations managers,20,578,0.007820004600002706
-Afghanistan,7565,187814,2905,73913,6260,Construction laborers,11,543,0.007346474909691123
-Afghanistan,7565,187814,2905,73913,4110,Waiters and waitresses,22,518,0.007008239416611422
-Afghanistan,7565,187814,2905,73913,0420,Social and community service managers,19,490,0.006629415664362155
-Afghanistan,7565,187814,2905,73913,4230,Maids and housekeeping cleaners,20,487,0.0065888274051925915
-Afghanistan,7565,187814,2905,73913,4030,Food preparation workers,16,469,0.006345297850175206
-Afghanistan,7565,187814,2905,73913,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",6,469,0.006345297850175206
-Afghanistan,7565,187814,2905,73913,2014,"Social workers, all other",12,468,0.0063317684304520176
-Afghanistan,7565,187814,2905,73913,2861,Interpreters and translators,22,458,0.006196474233220137
-Afghanistan,7565,187814,2905,73913,2310,Elementary and middle school teachers,16,439,0.005939415258479564
-Afghanistan,7565,187814,2905,73913,4000,Chefs and head cooks,19,439,0.005939415258479564
-Afghanistan,7565,187814,2905,73913,0310,Food service managers,22,414,0.005601179765399862
-Afghanistan,7565,187814,2905,73913,0630,Human resources workers,15,409,0.005533532666783921
-Afghanistan,7565,187814,2905,73913,0010,Chief executives and legislators,20,398,0.0053847090498288525
-Afghanistan,7565,187814,2905,73913,0710,Management analysts,21,375,0.005073532396195527
-Afghanistan,7565,187814,2905,73913,7340,"Maintenance and repair workers, general",12,367,0.004965297038410023
-Afghanistan,7565,187814,2905,73913,3603,Nursing assistants,13,353,0.00477588516228539
-Afghanistan,7565,187814,2905,73913,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",13,353,0.00477588516228539
-Afghanistan,7565,187814,2905,73913,5860,"Office clerks, general",15,351,0.004748826322839014
-Afghanistan,7565,187814,2905,73913,7000,"First-line supervisors of mechanics, installers, and repairers",5,348,0.004708238063669449
-Afghanistan,7565,187814,2905,73913,0705,Project management specialists,18,346,0.004681179224223073
-Afghanistan,7565,187814,2905,73913,4055,Fast food and counter workers,13,344,0.004654120384776697
-Afghanistan,7565,187814,2905,73913,4521,Manicurists and pedicurists,19,338,0.004572943866437569
-Afghanistan,7565,187814,2905,73913,3090,Physicians,18,328,0.0044376496692056875
-Afghanistan,7565,187814,2905,73913,0845,Financial and investment analysts,9,326,0.004410590829759311
-Afghanistan,7565,187814,2905,73913,1760,"Physical scientists, all other",11,326,0.004410590829759311
-Afghanistan,7565,187814,2905,73913,6230,Carpenters,7,317,0.004288826052250619
-Afghanistan,7565,187814,2905,73913,4850,"Sales representatives, wholesale and manufacturing",13,315,0.004261767212804243
-Afghanistan,7565,187814,2905,73913,1970,"Other life, physical, and social science technicians",9,314,0.004248237793081055
-Afghanistan,7565,187814,2905,73913,2360,Other teachers and instructors,12,314,0.004248237793081055
-Afghanistan,7565,187814,2905,73913,2205,Postsecondary teachers,12,302,0.004085884756402798
-Afghanistan,7565,187814,2905,73913,3640,Dental assistants,12,301,0.00407235533667961
-Afghanistan,7565,187814,2905,73913,4710,First-line supervisors of non-retail sales workers,13,301,0.00407235533667961
-Afghanistan,7565,187814,2905,73913,3645,Medical assistants,14,297,0.004018237657786857
-Afghanistan,7565,187814,2905,73913,4810,Insurance sales agents,9,287,0.0038829434605549768
-Afghanistan,7565,187814,2905,73913,1006,Computer systems analysts,15,282,0.0038152963619390366
-Afghanistan,7565,187814,2905,73913,5740,"Secretaries and administrative assistants, except legal, medical, and executive",15,281,0.0038017669422158486
-Afghanistan,7565,187814,2905,73913,1050,Computer support specialists,16,280,0.00378823752249266
-Afghanistan,7565,187814,2905,73913,1240,Other mathematical science occupations,9,278,0.003761178683046284
-Afghanistan,7565,187814,2905,73913,7420,Telecommunications line installers and repairers,6,278,0.003761178683046284
-Afghanistan,7565,187814,2905,73913,2100,"Lawyers, and judges, magistrates, and other judicial workers",10,272,0.003680002164707156
-Afghanistan,7565,187814,2905,73913,5610,"Shipping, receiving, and inventory clerks",12,271,0.003666472744983968
-Afghanistan,7565,187814,2905,73913,8320,Sewing machine operators,7,263,0.003558237387198463
-Afghanistan,7565,187814,2905,73913,5400,Receptionists and information clerks,12,261,0.003531178547752087
-Afghanistan,7565,187814,2905,73913,6355,Electricians,10,261,0.003531178547752087
-Afghanistan,7565,187814,2905,73913,6410,Painters and paperhangers,6,260,0.003517649128028899
-Afghanistan,7565,187814,2905,73913,1410,Electrical and electronics engineers,7,252,0.0034094137702433943
-Afghanistan,7565,187814,2905,73913,5120,"Bookkeeping, accounting, and auditing clerks",12,252,0.0034094137702433943
-Afghanistan,7565,187814,2905,73913,9610,Cleaners of vehicles and equipment,8,248,0.003355296091350642
-Afghanistan,7565,187814,2905,73913,4920,Real estate brokers and sales agents,12,243,0.0032876489927347015
-Afghanistan,7565,187814,2905,73913,7800,Bakers,7,241,0.0032605901532883255
-Afghanistan,7565,187814,2905,73913,4140,Dishwashers,8,240,0.0032470607335651374
-Afghanistan,7565,187814,2905,73913,1430,"Industrial engineers, including health and safety",9,235,0.0031794136349491972
-Afghanistan,7565,187814,2905,73913,2320,Secondary school teachers,10,235,0.0031794136349491972
-Afghanistan,7565,187814,2905,73913,9141,Shuttle drivers and chauffeurs,8,234,0.0031658842152260088
-Afghanistan,7565,187814,2905,73913,9150,"Motor vehicle operators, all other",9,234,0.0031658842152260088
-Afghanistan,7565,187814,2905,73913,3601,Home health aides,13,231,0.0031252959560564447
-Afghanistan,7565,187814,2905,73913,0530,"Purchasing agents, except wholesale, retail, and farm products",8,228,0.0030847076968868806
-Afghanistan,7565,187814,2905,73913,9365,Transportation service attendants,5,228,0.0030847076968868806
-Afghanistan,7565,187814,2905,73913,1555,"Other engineering technologists and technicians, except drafters",12,225,0.0030441194377173165
-Afghanistan,7565,187814,2905,73913,5000,First-line supervisors of office and administrative support workers,12,222,0.003003531178547752
-Afghanistan,7565,187814,2905,73913,3300,Clinical laboratory technologists and technicians,12,219,0.002962942919378188
-Afghanistan,7565,187814,2905,73913,8225,Other metal workers and plastic workers,8,217,0.0029358840799318118
-Afghanistan,7565,187814,2905,73913,8800,Packaging and filling machine operators and tenders,9,216,0.0029223546602086237
-Afghanistan,7565,187814,2905,73913,0230,Education and childcare administrators,7,209,0.002827648722146307
-Afghanistan,7565,187814,2905,73913,6660,Construction and building inspectors,8,207,0.002800589882699931
-Afghanistan,7565,187814,2905,73913,8030,Machinists,6,207,0.002800589882699931
-Afghanistan,7565,187814,2905,73913,8350,"Tailors, dressmakers, and sewers",6,199,0.0026923545249144263
-Afghanistan,7565,187814,2905,73913,0750,"Business operations specialists, all other",10,197,0.00266529568546805
-Afghanistan,7565,187814,2905,73913,0220,Construction managers,7,195,0.002638236846021674
-Afghanistan,7565,187814,2905,73913,7010,"Computer, automated teller, and office machine repairers",6,194,0.002624707426298486
-Afghanistan,7565,187814,2905,73913,1530,Other engineers,9,190,0.002570589747405734
-Afghanistan,7565,187814,2905,73913,4120,"Food servers, nonrestaurant",6,189,0.0025570603276825455
-Afghanistan,7565,187814,2905,73913,2145,Paralegals and legal assistants,8,184,0.0024894132290666053
-Afghanistan,7565,187814,2905,73913,0110,Computer and information systems managers,9,175,0.0023676484515579126
-Afghanistan,7565,187814,2905,73913,1460,Mechanical engineers,6,175,0.0023676484515579126
-Afghanistan,7565,187814,2905,73913,5940,Other office and administrative support workers,12,173,0.0023405896121115365
-Afghanistan,7565,187814,2905,73913,9350,Parking attendants,7,169,0.0022864719332187844
-Afghanistan,7565,187814,2905,73913,7810,"Butchers and other meat, poultry, and fish processing workers",9,167,0.0022594130937724083
-Afghanistan,7565,187814,2905,73913,7700,First-line supervisors of production and operating workers,8,166,0.00224588367404922
-Afghanistan,7565,187814,2905,73913,8810,Painting workers,4,165,0.002232354254326032
-Afghanistan,7565,187814,2905,73913,3421,Pharmacy technicians,6,162,0.0021917659951564677
-Afghanistan,7565,187814,2905,73913,3310,Dental hygienists,7,159,0.0021511777359869036
-Afghanistan,7565,187814,2905,73913,1106,Computer network architects,7,157,0.0021241188965405275
-Afghanistan,7565,187814,2905,73913,3500,Licensed practical and licensed vocational nurses,7,157,0.0021241188965405275
-Afghanistan,7565,187814,2905,73913,3050,Pharmacists,6,151,0.002042942378201399
-Afghanistan,7565,187814,2905,73913,2060,"Religious workers, all other",4,141,0.0019076481809695183
-Afghanistan,7565,187814,2905,73913,2040,Clergy,3,139,0.001880589341523142
-Afghanistan,7565,187814,2905,73913,4522,Skincare specialists,7,139,0.001880589341523142
-Afghanistan,7565,187814,2905,73913,7855,"Food processing workers, all other",6,139,0.001880589341523142
-Afghanistan,7565,187814,2905,73913,4251,Landscaping and groundskeeping workers,4,135,0.0018264716626303899
-Afghanistan,7565,187814,2905,73913,4510,"Hairdressers, hairstylists, and cosmetologists",10,133,0.0017994128231840136
-Afghanistan,7565,187814,2905,73913,2635,Interior designers,2,132,0.0017858834034608256
-Afghanistan,7565,187814,2905,73913,1320,Aerospace engineers,4,131,0.0017723539837376375
-Afghanistan,7565,187814,2905,73913,5850,"Mail clerks and mail machine operators, except postal service",3,131,0.0017723539837376375
-Afghanistan,7565,187814,2905,73913,3258,"Nurse practitioners, and nurse midwives",3,130,0.0017588245640144495
-Afghanistan,7565,187814,2905,73913,9030,Aircraft pilots and flight engineers,5,130,0.0017588245640144495
-Afghanistan,7565,187814,2905,73913,9600,Industrial truck and tractor operators,5,130,0.0017588245640144495
-Afghanistan,7565,187814,2905,73913,0600,Cost estimators,3,129,0.0017452951442912615
-Afghanistan,7565,187814,2905,73913,1545,Other drafters,3,129,0.0017452951442912615
-Afghanistan,7565,187814,2905,73913,1105,Network and computer systems administrators,3,127,0.0017182363048448852
-Afghanistan,7565,187814,2905,73913,5350,Correspondence clerks and order clerks,3,127,0.0017182363048448852
-Afghanistan,7565,187814,2905,73913,4200,First-line supervisors of housekeeping and janitorial workers,4,125,0.001691177465398509
-Afghanistan,7565,187814,2905,73913,8710,Cutting workers,4,124,0.001677648045675321
-Afghanistan,7565,187814,2905,73913,0150,Purchasing managers,5,123,0.0016641186259521328
-Afghanistan,7565,187814,2905,73913,0350,Medical and health services managers,5,120,0.0016235303667825687
-Afghanistan,7565,187814,2905,73913,3870,Police officers,7,117,0.0015829421076130044
-Afghanistan,7565,187814,2905,73913,7315,"Heating, air conditioning, and refrigeration mechanics and installers",7,117,0.0015829421076130044
-Afghanistan,7565,187814,2905,73913,2004,Mental health counselors,3,116,0.0015694126878898164
-Afghanistan,7565,187814,2905,73913,5600,"Production, planning, and expediting clerks",3,116,0.0015694126878898164
-Afghanistan,7565,187814,2905,73913,8365,"Textile machine setters, operators, and tenders",3,116,0.0015694126878898164
-Afghanistan,7565,187814,2905,73913,2025,Other community and social service specialists,5,114,0.0015423538484434403
-Afghanistan,7565,187814,2905,73913,0565,Compliance officers,7,113,0.0015288244287202522
-Afghanistan,7565,187814,2905,73913,1980,Occupational health and safety specialists and technicians,4,112,0.0015152950089970642
-Afghanistan,7565,187814,2905,73913,4525,Other personal appearance workers,4,112,0.0015152950089970642
-Afghanistan,7565,187814,2905,73913,5160,Tellers,3,110,0.001488236169550688
-Afghanistan,7565,187814,2905,73913,2640,Other designers,4,109,0.0014747067498275
-Afghanistan,7565,187814,2905,73913,8950,Helpers--production workers,2,107,0.0014476479103811238
-Afghanistan,7565,187814,2905,73913,9005,Supervisors of transportation and material moving workers,5,106,0.0014341184906579356
-Afghanistan,7565,187814,2905,73913,3110,Physician assistants,5,104,0.0014070596512115595
-Afghanistan,7565,187814,2905,73913,7020,Radio and telecommunications equipment installers and repairers,4,104,0.0014070596512115595
-Afghanistan,7565,187814,2905,73913,1007,Information security analysts,4,101,0.0013664713920419954
-Afghanistan,7565,187814,2905,73913,4830,Travel agents,1,101,0.0013664713920419954
-Afghanistan,7565,187814,2905,73913,2350,Tutors,5,100,0.0013529419723188071
-Afghanistan,7565,187814,2905,73913,7330,Industrial and refractory machinery mechanics,4,100,0.0013529419723188071
-Afghanistan,7565,187814,2905,73913,4950,"Door-to-door sales workers, news and street vendors, and related workers",5,99,0.0013394125525956191
-Afghanistan,7565,187814,2905,73913,6050,Other agricultural workers,3,98,0.001325883132872431
-Afghanistan,7565,187814,2905,73913,9630,Machine feeders and offbearers,2,96,0.001298824293426055
-Afghanistan,7565,187814,2905,73913,0052,Sales managers,4,95,0.001285294873702867
-Afghanistan,7565,187814,2905,73913,8630,Miscellaneous plant and system operators,2,94,0.0012717654539796787
-Afghanistan,7565,187814,2905,73913,9720,Refuse and recyclable material collectors,2,94,0.0012717654539796787
-Afghanistan,7565,187814,2905,73913,1860,Other social scientists,5,93,0.0012582360342564907
-Afghanistan,7565,187814,2905,73913,2810,"News analysts, reporters, and journalists",5,92,0.0012447066145333027
-Afghanistan,7565,187814,2905,73913,0410,"Property, real estate, and community association managers",6,91,0.0012311771948101146
-Afghanistan,7565,187814,2905,73913,2330,Special education teachers,5,91,0.0012311771948101146
-Afghanistan,7565,187814,2905,73913,1822,School psychologists,1,90,0.0012176477750869266
-Afghanistan,7565,187814,2905,73913,5420,Other information and records clerks,3,90,0.0012176477750869266
-Afghanistan,7565,187814,2905,73913,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,90,0.0012176477750869266
-Afghanistan,7565,187814,2905,73913,7220,Heavy vehicle and mobile equipment service technicians and mechanics,2,89,0.0012041183553637386
-Afghanistan,7565,187814,2905,73913,5300,"Hotel, motel, and resort desk clerks",4,88,0.0011905889356405503
-Afghanistan,7565,187814,2905,73913,1920,Chemical technicians,1,87,0.0011770595159173623
-Afghanistan,7565,187814,2905,73913,8255,Printing press operators,2,86,0.0011635300961941742
-Afghanistan,7565,187814,2905,73913,0910,Credit counselors and loan officers,2,81,0.0010958829975782338
-Afghanistan,7565,187814,2905,73913,4010,First-line supervisors of food preparation and serving workers,3,81,0.0010958829975782338
-Afghanistan,7565,187814,2905,73913,1600,Agricultural and food scientists,1,80,0.0010823535778550458
-Afghanistan,7565,187814,2905,73913,3330,Nuclear medicine technologists and medical dosimetrists,3,80,0.0010823535778550458
-Afghanistan,7565,187814,2905,73913,3649,Phlebotomists,5,80,0.0010823535778550458
-Afghanistan,7565,187814,2905,73913,7150,Automotive body and related repairers,4,80,0.0010823535778550458
-Afghanistan,7565,187814,2905,73913,2634,Graphic designers,4,79,0.0010688241581318578
-Afghanistan,7565,187814,2905,73913,2710,Producers and directors,2,79,0.0010688241581318578
-Afghanistan,7565,187814,2905,73913,3725,"Miscellaneous first-line supervisors, protective service workers",4,79,0.0010688241581318578
-Afghanistan,7565,187814,2905,73913,3423,Surgical technologists,2,78,0.0010552947384086697
-Afghanistan,7565,187814,2905,73913,1650,Other life scientists,4,77,0.0010417653186854815
-Afghanistan,7565,187814,2905,73913,1305,"Architects, except landscape and naval",6,76,0.0010282358989622935
-Afghanistan,7565,187814,2905,73913,4435,Other entertainment attendants and related workers,3,76,0.0010282358989622935
-Afghanistan,7565,187814,2905,73913,4530,"Baggage porters, bellhops, and concierges",3,76,0.0010282358989622935
-Afghanistan,7565,187814,2905,73913,4655,"Personal care and service workers, all other",4,76,0.0010282358989622935
-Afghanistan,7565,187814,2905,73913,5330,Loan interviewers and clerks,5,75,0.0010147064792391054
-Afghanistan,7565,187814,2905,73913,3323,Radiologic technologists and technicians,3,73,9.876476397927293e-4
-Afghanistan,7565,187814,2905,73913,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",4,73,9.876476397927293e-4
-Afghanistan,7565,187814,2905,73913,0520,"Wholesale and retail buyers, except farm products",2,72,9.741182200695412e-4
-Afghanistan,7565,187814,2905,73913,4130,Dining room and cafeteria attendants and bartender helpers,4,72,9.741182200695412e-4
-Afghanistan,7565,187814,2905,73913,9830,"Military, rank not specified",4,72,9.741182200695412e-4
-Afghanistan,7565,187814,2905,73913,4350,Animal caretakers,2,71,9.605888003463532e-4
-Afghanistan,7565,187814,2905,73913,2016,Social and human service assistants,3,69,9.33529960899977e-4
-Afghanistan,7565,187814,2905,73913,9415,Passenger attendants,3,68,9.20000541176789e-4
-Afghanistan,7565,187814,2905,73913,7140,Aircraft mechanics and service technicians,3,66,8.929417017304128e-4
-Afghanistan,7565,187814,2905,73913,0940,Tax preparers,2,65,8.794122820072247e-4
-Afghanistan,7565,187814,2905,73913,3321,Cardiovascular technologists and technicians,2,63,8.523534425608486e-4
-Afghanistan,7565,187814,2905,73913,8140,"Welding, soldering, and brazing workers",3,63,8.523534425608486e-4
-Afghanistan,7565,187814,2905,73913,4965,"Sales and related workers, all other",5,62,8.388240228376605e-4
-Afghanistan,7565,187814,2905,73913,0735,Market research analysts and marketing specialists,2,59,7.982357636680963e-4
-Afghanistan,7565,187814,2905,73913,6120,Forest and conservation workers,1,59,7.982357636680963e-4
-Afghanistan,7565,187814,2905,73913,1551,Electrical and electronic engineering technologists and technicians,3,56,7.576475044985321e-4
-Afghanistan,7565,187814,2905,73913,0725,"Meeting, convention, and event planners",2,55,7.44118084775344e-4
-Afghanistan,7565,187814,2905,73913,1340,Biomedical and agricultural engineers,2,55,7.44118084775344e-4
-Afghanistan,7565,187814,2905,73913,2865,"Media and communication workers, all other",1,55,7.44118084775344e-4
-Afghanistan,7565,187814,2905,73913,7430,Precision instrument and equipment repairers,2,55,7.44118084775344e-4
-Afghanistan,7565,187814,2905,73913,7320,Home appliance repairers,3,54,7.305886650521559e-4
-Afghanistan,7565,187814,2905,73913,1022,Software quality assurance analysts and testers,4,53,7.170592453289678e-4
-Afghanistan,7565,187814,2905,73913,5410,Reservation and transportation ticket agents and travel clerks,2,53,7.170592453289678e-4
-Afghanistan,7565,187814,2905,73913,4040,Bartenders,3,52,7.035298256057798e-4
-Afghanistan,7565,187814,2905,73913,5260,File clerks,2,52,7.035298256057798e-4
-Afghanistan,7565,187814,2905,73913,0051,Marketing managers,4,51,6.900004058825917e-4
-Afghanistan,7565,187814,2905,73913,2910,Photographers,4,50,6.764709861594036e-4
-Afghanistan,7565,187814,2905,73913,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",2,50,6.764709861594036e-4
-Afghanistan,7565,187814,2905,73913,3910,Private detectives and investigators,1,49,6.629415664362155e-4
-Afghanistan,7565,187814,2905,73913,0205,"Farmers, ranchers, and other agricultural managers",2,48,6.494121467130275e-4
-Afghanistan,7565,187814,2905,73913,9122,"Bus drivers, transit and intercity",4,48,6.494121467130275e-4
-Afghanistan,7565,187814,2905,73913,2920,"Television, video, and film camera operators and editors",3,47,6.358827269898394e-4
-Afghanistan,7565,187814,2905,73913,6442,"Plumbers, pipefitters, and steamfitters",2,47,6.358827269898394e-4
-Afghanistan,7565,187814,2905,73913,5522,"Dispatchers, except police, fire, and ambulance",2,44,5.952944678202751e-4
-Afghanistan,7565,187814,2905,73913,5840,Insurance claims and policy processing clerks,3,44,5.952944678202751e-4
-Afghanistan,7565,187814,2905,73913,0850,Personal financial advisors,2,43,5.817650480970871e-4
-Afghanistan,7565,187814,2905,73913,7210,Bus and truck mechanics and diesel engine specialists,3,43,5.817650480970871e-4
-Afghanistan,7565,187814,2905,73913,8610,Stationary engineers and boiler operators,3,43,5.817650480970871e-4
-Afghanistan,7565,187814,2905,73913,0060,Public relations and fundraising managers,1,41,5.547062086507109e-4
-Afghanistan,7565,187814,2905,73913,5110,Billing and posting clerks,3,41,5.547062086507109e-4
-Afghanistan,7565,187814,2905,73913,5540,Postal service clerks,1,41,5.547062086507109e-4
-Afghanistan,7565,187814,2905,73913,1065,Database administrators and architects,2,40,5.411767889275229e-4
-Afghanistan,7565,187814,2905,73913,2555,Other educational instruction and library workers,3,40,5.411767889275229e-4
-Afghanistan,7565,187814,2905,73913,0700,Logisticians,2,39,5.276473692043349e-4
-Afghanistan,7565,187814,2905,73913,2600,Artists and related workers,3,39,5.276473692043349e-4
-Afghanistan,7565,187814,2905,73913,5165,Other financial clerks,3,39,5.276473692043349e-4
-Afghanistan,7565,187814,2905,73913,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,39,5.276473692043349e-4
-Afghanistan,7565,187814,2905,73913,5560,"Postal service mail sorters, processors, and processing machine operators",1,38,5.141179494811467e-4
-Afghanistan,7565,187814,2905,73913,7610,"Helpers--installation, maintenance, and repair workers",1,38,5.141179494811467e-4
-Afghanistan,7565,187814,2905,73913,7640,"Other installation, maintenance, and repair workers",2,38,5.141179494811467e-4
-Afghanistan,7565,187814,2905,73913,8555,Other woodworkers,1,37,5.005885297579587e-4
-Afghanistan,7565,187814,2905,73913,0300,Architectural and engineering managers,2,36,4.870591100347706e-4
-Afghanistan,7565,187814,2905,73913,0726,Fundraisers,2,36,4.870591100347706e-4
-Afghanistan,7565,187814,2905,73913,1825,Other psychologists,2,36,4.870591100347706e-4
-Afghanistan,7565,187814,2905,73913,9210,Locomotive engineers and operators,2,36,4.870591100347706e-4
-Afghanistan,7565,187814,2905,73913,2700,Actors,1,35,4.735296903115825e-4
-Afghanistan,7565,187814,2905,73913,3322,Diagnostic medical sonographers,3,35,4.735296903115825e-4
-Afghanistan,7565,187814,2905,73913,0960,Other financial specialists,3,34,4.600002705883945e-4
-Afghanistan,7565,187814,2905,73913,3515,Medical records specialists,1,34,4.600002705883945e-4
-Afghanistan,7565,187814,2905,73913,3520,"Opticians, dispensing",2,34,4.600002705883945e-4
-Afghanistan,7565,187814,2905,73913,4820,"Securities, commodities, and financial services sales agents",2,34,4.600002705883945e-4
-Afghanistan,7565,187814,2905,73913,6540,Solar photovoltaic installers,2,34,4.600002705883945e-4
-Afghanistan,7565,187814,2905,73913,0425,Emergency management directors,1,33,4.464708508652064e-4
-Afghanistan,7565,187814,2905,73913,2011,"Child, family, and school social workers",1,33,4.464708508652064e-4
-Afghanistan,7565,187814,2905,73913,3940,Crossing guards and flaggers,2,33,4.464708508652064e-4
-Afghanistan,7565,187814,2905,73913,6200,First-line supervisors of construction trades and extraction workers,2,33,4.464708508652064e-4
-Afghanistan,7565,187814,2905,73913,0140,Industrial production managers,2,32,4.329414311420183e-4
-Afghanistan,7565,187814,2905,73913,1032,Web and digital interface designers,1,32,4.329414311420183e-4
-Afghanistan,7565,187814,2905,73913,3160,Physical therapists,1,32,4.329414311420183e-4
-Afghanistan,7565,187814,2905,73913,3740,Firefighters,1,32,4.329414311420183e-4
-Afghanistan,7565,187814,2905,73913,4160,"Food preparation and serving related workers, all other",2,30,4.058825916956422e-4
-Afghanistan,7565,187814,2905,73913,0360,Natural sciences managers,2,29,3.923531719724541e-4
-Afghanistan,7565,187814,2905,73913,1010,Computer programmers,1,29,3.923531719724541e-4
-Afghanistan,7565,187814,2905,73913,1220,Operations research analysts,3,28,3.7882375224926605e-4
-Afghanistan,7565,187814,2905,73913,2722,Coaches and scouts,2,28,3.7882375224926605e-4
-Afghanistan,7565,187814,2905,73913,2805,Broadcast announcers and radio disc jockeys,1,28,3.7882375224926605e-4
-Afghanistan,7565,187814,2905,73913,7720,"Electrical, electronics, and electromechanical assemblers",1,28,3.7882375224926605e-4
-Afghanistan,7565,187814,2905,73913,8300,Laundry and dry-cleaning workers,2,28,3.7882375224926605e-4
-Afghanistan,7565,187814,2905,73913,8830,Photographic process workers and processing machine operators,2,28,3.7882375224926605e-4
-Afghanistan,7565,187814,2905,73913,0830,Credit analysts,2,27,3.6529433252607796e-4
-Afghanistan,7565,187814,2905,73913,3422,Psychiatric technicians,2,27,3.6529433252607796e-4
-Afghanistan,7565,187814,2905,73913,3230,Speech-language pathologists,1,26,3.517649128028899e-4
-Afghanistan,7565,187814,2905,73913,4400,Gambling services workers,3,26,3.517649128028899e-4
-Afghanistan,7565,187814,2905,73913,5550,Postal service mail carriers,1,26,3.517649128028899e-4
-Afghanistan,7565,187814,2905,73913,0540,"Claims adjusters, appraisers, examiners, and investigators",1,25,3.382354930797018e-4
-Afghanistan,7565,187814,2905,73913,4621,Exercise trainers and group fitness instructors,1,25,3.382354930797018e-4
-Afghanistan,7565,187814,2905,73913,5710,Executive secretaries and executive administrative assistants,2,25,3.382354930797018e-4
-Afghanistan,7565,187814,2905,73913,0340,Lodging managers,1,24,3.2470607335651375e-4
-Afghanistan,7565,187814,2905,73913,1900,Agricultural and food science technicians,1,24,3.2470607335651375e-4
-Afghanistan,7565,187814,2905,73913,3648,Veterinary assistants and laboratory animal caretakers,1,24,3.2470607335651375e-4
-Afghanistan,7565,187814,2905,73913,0136,Human resources managers,2,23,3.1117665363332566e-4
-Afghanistan,7565,187814,2905,73913,1541,Architectural and civil drafters,2,23,3.1117665363332566e-4
-Afghanistan,7565,187814,2905,73913,5810,Data entry keyers,2,23,3.1117665363332566e-4
-Afghanistan,7565,187814,2905,73913,3245,Other therapists,1,22,2.976472339101376e-4
-Afghanistan,7565,187814,2905,73913,6400,Insulation workers,1,22,2.976472339101376e-4
-Afghanistan,7565,187814,2905,73913,9040,Air traffic controllers and airfield operations specialists,1,22,2.976472339101376e-4
-Afghanistan,7565,187814,2905,73913,1310,"Surveyors, cartographers, and photogrammetrists",1,21,2.8411781418694954e-4
-Afghanistan,7565,187814,2905,73913,3040,Optometrists,1,21,2.8411781418694954e-4
-Afghanistan,7565,187814,2905,73913,4930,Sales engineers,1,21,2.8411781418694954e-4
-Afghanistan,7565,187814,2905,73913,9430,Other transportation workers,1,21,2.8411781418694954e-4
-Afghanistan,7565,187814,2905,73913,0500,"Agents and business managers of artists, performers, and athletes",1,20,2.7058839446376145e-4
-Afghanistan,7565,187814,2905,73913,3946,School bus monitors,1,20,2.7058839446376145e-4
-Afghanistan,7565,187814,2905,73913,5310,"Interviewers, except eligibility and loan",1,19,2.5705897474057336e-4
-Afghanistan,7565,187814,2905,73913,5340,New accounts clerks,1,19,2.5705897474057336e-4
-Afghanistan,7565,187814,2905,73913,0160,"Transportation, storage, and distribution managers",2,18,2.435295550173853e-4
-Afghanistan,7565,187814,2905,73913,6720,Hazardous materials removal workers,1,18,2.435295550173853e-4
-Afghanistan,7565,187814,2905,73913,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
-						and plastic",2,18,2.435295550173853e-4
-Afghanistan,7565,187814,2905,73913,0650,Training and development specialists,2,17,2.3000013529419724e-4
-Afghanistan,7565,187814,2905,73913,2006,"Counselors, all other",2,17,2.3000013529419724e-4
-Afghanistan,7565,187814,2905,73913,2633,Floral designers,1,17,2.3000013529419724e-4
-Afghanistan,7565,187814,2905,73913,2012,Healthcare social workers,1,16,2.1647071557100915e-4
-Afghanistan,7565,187814,2905,73913,4800,Advertising sales agents,1,16,2.1647071557100915e-4
-Afghanistan,7565,187814,2905,73913,6305,Construction equipment operators,1,16,2.1647071557100915e-4
-Afghanistan,7565,187814,2905,73913,3324,Magnetic resonance imaging technologists,2,15,2.029412958478211e-4
-Afghanistan,7565,187814,2905,73913,3545,Miscellaneous health technologists and technicians,2,15,2.029412958478211e-4
-Afghanistan,7565,187814,2905,73913,3550,Other healthcare practitioners and technical occupations,1,15,2.029412958478211e-4
-Afghanistan,7565,187814,2905,73913,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,15,2.029412958478211e-4
-Afghanistan,7565,187814,2905,73913,8650,"Crushing, grinding, polishing, mixing, and blending workers",1,15,2.029412958478211e-4
-Afghanistan,7565,187814,2905,73913,0101,Administrative services managers,1,14,1.8941187612463303e-4
-Afghanistan,7565,187814,2905,73913,4940,Telemarketers,1,14,1.8941187612463303e-4
-Afghanistan,7565,187814,2905,73913,7120,Electronic home entertainment equipment installers and repairers,1,14,1.8941187612463303e-4
-Afghanistan,7565,187814,2905,73913,8250,Prepress technicians and workers,1,14,1.8941187612463303e-4
-Afghanistan,7565,187814,2905,73913,8450,Upholsterers,1,14,1.8941187612463303e-4
-Afghanistan,7565,187814,2905,73913,1031,Web developers,1,13,1.7588245640144494e-4
-Afghanistan,7565,187814,2905,73913,2850,Writers and authors,1,13,1.7588245640144494e-4
-Afghanistan,7565,187814,2905,73913,7030,Avionics technicians,1,13,1.7588245640144494e-4
-Afghanistan,7565,187814,2905,73913,7130,Security and fire alarm systems installers,1,13,1.7588245640144494e-4
-Afghanistan,7565,187814,2905,73913,7905,Computer numerically controlled tool operators and programmers,1,13,1.7588245640144494e-4
-Afghanistan,7565,187814,2905,73913,2170,"Title examiners, abstractors, and searchers",1,12,1.6235303667825688e-4
-Afghanistan,7565,187814,2905,73913,3655,Other healthcare support workers,1,12,1.6235303667825688e-4
-Afghanistan,7565,187814,2905,73913,3801,Bailiffs,1,12,1.6235303667825688e-4
-Afghanistan,7565,187814,2905,73913,5100,Bill and account collectors,1,12,1.6235303667825688e-4
-Afghanistan,7565,187814,2905,73913,1800,Economists,1,11,1.488236169550688e-4
-Afghanistan,7565,187814,2905,73913,3401,Emergency medical technicians,1,11,1.488236169550688e-4
-Afghanistan,7565,187814,2905,73913,3945,Transportation security screeners,1,11,1.488236169550688e-4
-Afghanistan,7565,187814,2905,73913,5820,Word processors and typists,1,11,1.488236169550688e-4
-Afghanistan,7565,187814,2905,73913,6360,Glaziers,1,11,1.488236169550688e-4
-Afghanistan,7565,187814,2905,73913,6800,"Derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining",1,11,1.488236169550688e-4
-Afghanistan,7565,187814,2905,73913,7540,Locksmiths and safe repairers,1,11,1.488236169550688e-4
-Afghanistan,7565,187814,2905,73913,7740,Structural metal fabricators and fitters,1,11,1.488236169550688e-4
-Afghanistan,7565,187814,2905,73913,1400,Computer hardware engineers,1,10,1.3529419723188073e-4
-Afghanistan,7565,187814,2905,73913,2001,Substance abuse and behavioral disorder counselors,1,10,1.3529419723188073e-4
-Afghanistan,7565,187814,2905,73913,2840,Technical writers,1,10,1.3529419723188073e-4
-Afghanistan,7565,187814,2905,73913,4330,Supervisors of personal care and service workers,1,10,1.3529419723188073e-4
-Afghanistan,7565,187814,2905,73913,8750,Jewelers and precious stone and metal workers,1,10,1.3529419723188073e-4
-Afghanistan,7565,187814,2905,73913,3120,Podiatrists,1,9,1.2176477750869265e-4
-Afghanistan,7565,187814,2905,73913,3430,Dietetic technicians and ophthalmic medical technicians,1,9,1.2176477750869265e-4
-Afghanistan,7565,187814,2905,73913,4240,Pest control workers,1,9,1.2176477750869265e-4
-Afghanistan,7565,187814,2905,73913,5900,"Office machine operators, except computer",1,9,1.2176477750869265e-4
-Afghanistan,7565,187814,2905,73913,8500,Cabinetmakers and bench carpenters,1,9,1.2176477750869265e-4
-Afghanistan,7565,187814,2905,73913,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,9,1.2176477750869265e-4
-Afghanistan,7565,187814,2905,73913,9410,Transportation inspectors,1,9,1.2176477750869265e-4
-Afghanistan,7565,187814,2905,73913,1350,Chemical engineers,1,8,1.0823535778550458e-4
-Afghanistan,7565,187814,2905,73913,1560,Surveying and mapping technicians,1,8,1.0823535778550458e-4
-Afghanistan,7565,187814,2905,73913,2770,"Entertainers and performers, sports and related workers, all other",1,8,1.0823535778550458e-4
-Afghanistan,7565,187814,2905,73913,4740,Counter and rental clerks,1,7,9.470593806231651e-5
-Afghanistan,7565,187814,2905,73913,3960,Other protective service workers,1,6,8.117651833912844e-5
-Afghanistan,7565,187814,2905,73913,5250,"Eligibility interviewers, government programs",1,6,8.117651833912844e-5
-Afghanistan,7565,187814,2905,73913,6005,"First-line supervisors of farming, fishing, and forestry workers",1,6,8.117651833912844e-5
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Afghanistan,7565,187814,3029,76511,9142,Taxi drivers,189,4808,0.06284063729398387
+Afghanistan,7565,187814,3029,76511,9130,Driver/sales workers and truck drivers,150,4664,0.060958554979022625
+Afghanistan,7565,187814,3029,76511,3930,Security guards and gaming surveillance officers,78,2282,0.029825776685705324
+Afghanistan,7565,187814,3029,76511,9645,Stockers and order fillers,57,1926,0.025172850962606685
+Afghanistan,7565,187814,3029,76511,9620,"Laborers and freight, stock, and material movers, hand",65,1810,0.02365672909777679
+Afghanistan,7565,187814,3029,76511,4700,First-line supervisors of retail sales workers,58,1769,0.02312085843865588
+Afghanistan,7565,187814,3029,76511,4720,Cashiers,76,1742,0.022767968004600646
+Afghanistan,7565,187814,3029,76511,0440,Other managers,59,1684,0.022009907072185697
+Afghanistan,7565,187814,3029,76511,4760,Retail salespersons,64,1592,0.02080746559318268
+Afghanistan,7565,187814,3029,76511,3602,Personal care aides,55,1337,0.01747461149377214
+Afghanistan,7565,187814,3029,76511,2545,Teaching assistants,44,1148,0.0150043784553855
+Afghanistan,7565,187814,3029,76511,1021,Software developers,57,1129,0.014756048149939225
+Afghanistan,7565,187814,3029,76511,5510,Couriers and messengers,49,1019,0.01331834638156605
+Afghanistan,7565,187814,3029,76511,5240,Customer service representatives,35,946,0.012364235208009305
+Afghanistan,7565,187814,3029,76511,1108,"Computer occupations, all other",30,879,0.011488544130909282
+Afghanistan,7565,187814,3029,76511,4020,Cooks,29,828,0.010821973311027173
+Afghanistan,7565,187814,3029,76511,3255,Registered nurses,34,797,0.01041680281266746
+Afghanistan,7565,187814,3029,76511,4220,Janitors and building cleaners,34,776,0.010142332475068945
+Afghanistan,7565,187814,3029,76511,4600,Childcare workers,29,768,0.010037772346459986
+Afghanistan,7565,187814,3029,76511,7200,Automotive service technicians and mechanics,27,767,0.010024702330383866
+Afghanistan,7565,187814,3029,76511,0800,Accountants and auditors,39,741,0.009684881912404752
+Afghanistan,7565,187814,3029,76511,8990,"Miscellaneous production workers, including equipment operators and tenders",28,694,0.009070591156827124
+Afghanistan,7565,187814,3029,76511,2300,Preschool and kindergarten teachers,22,659,0.00861314059416293
+Afghanistan,7565,187814,3029,76511,1360,Civil engineers,26,652,0.008521650481630092
+Afghanistan,7565,187814,3029,76511,0120,Financial managers,37,629,0.008221040111879338
+Afghanistan,7565,187814,3029,76511,8740,"Inspectors, testers, sorters, samplers, and weighers",26,624,0.00815569003149874
+Afghanistan,7565,187814,3029,76511,7750,Other assemblers and fabricators,25,597,0.007802799597443505
+Afghanistan,7565,187814,3029,76511,9640,"Packers and packagers, hand",24,584,0.007632889388453948
+Afghanistan,7565,187814,3029,76511,0020,General and operations managers,20,578,0.007554469291997229
+Afghanistan,7565,187814,3029,76511,6260,Construction laborers,11,543,0.007097018729333037
+Afghanistan,7565,187814,3029,76511,4110,Waiters and waitresses,24,542,0.007083948713256918
+Afghanistan,7565,187814,3029,76511,0420,Social and community service managers,20,535,0.006992458600724079
+Afghanistan,7565,187814,3029,76511,4230,Maids and housekeeping cleaners,23,526,0.006874828456039001
+Afghanistan,7565,187814,3029,76511,2310,Elementary and middle school teachers,18,512,0.006691848230973324
+Afghanistan,7565,187814,3029,76511,2861,Interpreters and translators,24,484,0.006325887780841971
+Afghanistan,7565,187814,3029,76511,4030,Food preparation workers,18,483,0.0063128177647658506
+Afghanistan,7565,187814,3029,76511,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",6,469,0.006129837539700173
+Afghanistan,7565,187814,3029,76511,2014,"Social workers, all other",12,468,0.006116767523624054
+Afghanistan,7565,187814,3029,76511,4000,Chefs and head cooks,19,439,0.005737737057416581
+Afghanistan,7565,187814,3029,76511,0630,Human resources workers,16,427,0.005580896864503144
+Afghanistan,7565,187814,3029,76511,0710,Management analysts,24,423,0.005528616800198664
+Afghanistan,7565,187814,3029,76511,0310,Food service managers,22,414,0.0054109866555135866
+Afghanistan,7565,187814,3029,76511,0010,Chief executives and legislators,20,398,0.00520186639829567
+Afghanistan,7565,187814,3029,76511,3090,Physicians,20,383,0.005005816157153873
+Afghanistan,7565,187814,3029,76511,4055,Fast food and counter workers,16,378,0.0049404660767732745
+Afghanistan,7565,187814,3029,76511,7340,"Maintenance and repair workers, general",13,372,0.004862045980316556
+Afghanistan,7565,187814,3029,76511,2205,Postsecondary teachers,17,365,0.004770555867783717
+Afghanistan,7565,187814,3029,76511,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",14,361,0.004718275803479238
+Afghanistan,7565,187814,3029,76511,3603,Nursing assistants,13,353,0.00461371567487028
+Afghanistan,7565,187814,3029,76511,2360,Other teachers and instructors,13,351,0.00458757564271804
+Afghanistan,7565,187814,3029,76511,5860,"Office clerks, general",15,351,0.00458757564271804
+Afghanistan,7565,187814,3029,76511,7000,"First-line supervisors of mechanics, installers, and repairers",5,348,0.004548365594489681
+Afghanistan,7565,187814,3029,76511,0705,Project management specialists,18,346,0.004522225562337442
+Afghanistan,7565,187814,3029,76511,4521,Manicurists and pedicurists,19,338,0.004417665433728483
+Afghanistan,7565,187814,3029,76511,4140,Dishwashers,10,332,0.004339245337271765
+Afghanistan,7565,187814,3029,76511,0845,Financial and investment analysts,9,326,0.004260825240815046
+Afghanistan,7565,187814,3029,76511,1760,"Physical scientists, all other",11,326,0.004260825240815046
+Afghanistan,7565,187814,3029,76511,4510,"Hairdressers, hairstylists, and cosmetologists",14,319,0.0041693351282822075
+Afghanistan,7565,187814,3029,76511,6230,Carpenters,7,317,0.004143195096129968
+Afghanistan,7565,187814,3029,76511,4850,"Sales representatives, wholesale and manufacturing",13,315,0.004117055063977729
+Afghanistan,7565,187814,3029,76511,1970,"Other life, physical, and social science technicians",9,314,0.004103985047901609
+Afghanistan,7565,187814,3029,76511,4710,First-line supervisors of non-retail sales workers,14,314,0.004103985047901609
+Afghanistan,7565,187814,3029,76511,5740,"Secretaries and administrative assistants, except legal, medical, and executive",16,302,0.003947144854988172
+Afghanistan,7565,187814,3029,76511,3640,Dental assistants,12,301,0.003934074838912052
+Afghanistan,7565,187814,3029,76511,3645,Medical assistants,14,297,0.0038817947746075726
+Afghanistan,7565,187814,3029,76511,1240,Other mathematical science occupations,10,291,0.003803374678150854
+Afghanistan,7565,187814,3029,76511,3601,Home health aides,16,290,0.0037903046620747344
+Afghanistan,7565,187814,3029,76511,4810,Insurance sales agents,9,287,0.003751094613846375
+Afghanistan,7565,187814,3029,76511,4920,Real estate brokers and sales agents,15,285,0.0037249545816941355
+Afghanistan,7565,187814,3029,76511,1006,Computer systems analysts,15,282,0.0036857445334657762
+Afghanistan,7565,187814,3029,76511,8225,Other metal workers and plastic workers,9,281,0.003672674517389656
+Afghanistan,7565,187814,3029,76511,1050,Computer support specialists,16,280,0.0036596045013135366
+Afghanistan,7565,187814,3029,76511,7420,Telecommunications line installers and repairers,6,278,0.003633464469161297
+Afghanistan,7565,187814,3029,76511,8320,Sewing machine operators,8,278,0.003633464469161297
+Afghanistan,7565,187814,3029,76511,6355,Electricians,11,274,0.003581184404856818
+Afghanistan,7565,187814,3029,76511,2100,"Lawyers, and judges, magistrates, and other judicial workers",10,272,0.0035550443727045784
+Afghanistan,7565,187814,3029,76511,5610,"Shipping, receiving, and inventory clerks",12,271,0.003541974356628459
+Afghanistan,7565,187814,3029,76511,1410,Electrical and electronics engineers,8,261,0.003411274195867261
+Afghanistan,7565,187814,3029,76511,5400,Receptionists and information clerks,12,261,0.003411274195867261
+Afghanistan,7565,187814,3029,76511,6410,Painters and paperhangers,6,260,0.0033982041797911413
+Afghanistan,7565,187814,3029,76511,2320,Secondary school teachers,11,254,0.0033197840833344224
+Afghanistan,7565,187814,3029,76511,5120,"Bookkeeping, accounting, and auditing clerks",12,252,0.003293644051182183
+Afghanistan,7565,187814,3029,76511,7800,Bakers,8,252,0.003293644051182183
+Afghanistan,7565,187814,3029,76511,9610,Cleaners of vehicles and equipment,8,248,0.003241363986877704
+Afghanistan,7565,187814,3029,76511,9150,"Motor vehicle operators, all other",10,245,0.0032021539386493446
+Afghanistan,7565,187814,3029,76511,0230,Education and childcare administrators,9,239,0.003123733842192626
+Afghanistan,7565,187814,3029,76511,1430,"Industrial engineers, including health and safety",9,235,0.0030714537778881467
+Afghanistan,7565,187814,3029,76511,9141,Shuttle drivers and chauffeurs,8,234,0.003058383761812027
+Afghanistan,7565,187814,3029,76511,0530,"Purchasing agents, except wholesale, retail, and farm products",8,228,0.0029799636653553086
+Afghanistan,7565,187814,3029,76511,9365,Transportation service attendants,5,228,0.0029799636653553086
+Afghanistan,7565,187814,3029,76511,1555,"Other engineering technologists and technicians, except drafters",12,225,0.002940753617126949
+Afghanistan,7565,187814,3029,76511,5000,First-line supervisors of office and administrative support workers,12,222,0.0029015435688985896
+Afghanistan,7565,187814,3029,76511,3300,Clinical laboratory technologists and technicians,12,219,0.0028623335206702303
+Afghanistan,7565,187814,3029,76511,6660,Construction and building inspectors,9,216,0.002823123472441871
+Afghanistan,7565,187814,3029,76511,8800,Packaging and filling machine operators and tenders,9,216,0.002823123472441871
+Afghanistan,7565,187814,3029,76511,4120,"Food servers, nonrestaurant",7,215,0.0028100534563657515
+Afghanistan,7565,187814,3029,76511,0750,"Business operations specialists, all other",11,212,0.002770843408137392
+Afghanistan,7565,187814,3029,76511,8030,Machinists,6,207,0.0027054933277567933
+Afghanistan,7565,187814,3029,76511,7010,"Computer, automated teller, and office machine repairers",7,206,0.0026924233116806732
+Afghanistan,7565,187814,3029,76511,7020,Radio and telecommunications equipment installers and repairers,5,206,0.0026924233116806732
+Afghanistan,7565,187814,3029,76511,8350,"Tailors, dressmakers, and sewers",7,201,0.0026270732313000743
+Afghanistan,7565,187814,3029,76511,0220,Construction managers,7,195,0.0025486531348433558
+Afghanistan,7565,187814,3029,76511,1530,Other engineers,9,190,0.002483303054462757
+Afghanistan,7565,187814,3029,76511,4010,First-line supervisors of food preparation and serving workers,4,189,0.0024702330383866372
+Afghanistan,7565,187814,3029,76511,2145,Paralegals and legal assistants,8,184,0.0024048829580060383
+Afghanistan,7565,187814,3029,76511,0110,Computer and information systems managers,9,175,0.0022872528133209605
+Afghanistan,7565,187814,3029,76511,1460,Mechanical engineers,6,175,0.0022872528133209605
+Afghanistan,7565,187814,3029,76511,5940,Other office and administrative support workers,12,173,0.002261112781168721
+Afghanistan,7565,187814,3029,76511,9350,Parking attendants,7,169,0.0022088327168642416
+Afghanistan,7565,187814,3029,76511,7700,First-line supervisors of production and operating workers,9,167,0.0021826926847120023
+Afghanistan,7565,187814,3029,76511,7810,"Butchers and other meat, poultry, and fish processing workers",9,167,0.0021826926847120023
+Afghanistan,7565,187814,3029,76511,8810,Painting workers,4,165,0.0021565526525597627
+Afghanistan,7565,187814,3029,76511,3421,Pharmacy technicians,6,162,0.0021173426043314034
+Afghanistan,7565,187814,3029,76511,3310,Dental hygienists,7,159,0.002078132556103044
+Afghanistan,7565,187814,3029,76511,1106,Computer network architects,7,157,0.0020519925239508045
+Afghanistan,7565,187814,3029,76511,3500,Licensed practical and licensed vocational nurses,7,157,0.0020519925239508045
+Afghanistan,7565,187814,3029,76511,9600,Industrial truck and tractor operators,6,157,0.0020519925239508045
+Afghanistan,7565,187814,3029,76511,3050,Pharmacists,6,151,0.001973572427494086
+Afghanistan,7565,187814,3029,76511,4251,Landscaping and groundskeeping workers,5,150,0.001960502411417966
+Afghanistan,7565,187814,3029,76511,0600,Cost estimators,4,141,0.0018428722667328881
+Afghanistan,7565,187814,3029,76511,2060,"Religious workers, all other",4,141,0.0018428722667328881
+Afghanistan,7565,187814,3029,76511,2040,Clergy,3,139,0.0018167322345806485
+Afghanistan,7565,187814,3029,76511,4522,Skincare specialists,7,139,0.0018167322345806485
+Afghanistan,7565,187814,3029,76511,7855,"Food processing workers, all other",6,139,0.0018167322345806485
+Afghanistan,7565,187814,3029,76511,1320,Aerospace engineers,5,133,0.00173831213812393
+Afghanistan,7565,187814,3029,76511,2635,Interior designers,2,132,0.00172524212204781
+Afghanistan,7565,187814,3029,76511,5850,"Mail clerks and mail machine operators, except postal service",3,131,0.0017121721059716903
+Afghanistan,7565,187814,3029,76511,3258,"Nurse practitioners, and nurse midwives",3,130,0.0016991020898955707
+Afghanistan,7565,187814,3029,76511,9030,Aircraft pilots and flight engineers,5,130,0.0016991020898955707
+Afghanistan,7565,187814,3029,76511,1545,Other drafters,3,129,0.0016860320738194508
+Afghanistan,7565,187814,3029,76511,1105,Network and computer systems administrators,3,127,0.0016598920416672112
+Afghanistan,7565,187814,3029,76511,5350,Correspondence clerks and order clerks,3,127,0.0016598920416672112
+Afghanistan,7565,187814,3029,76511,4200,First-line supervisors of housekeeping and janitorial workers,4,125,0.0016337520095149717
+Afghanistan,7565,187814,3029,76511,8710,Cutting workers,4,124,0.001620681993438852
+Afghanistan,7565,187814,3029,76511,0150,Purchasing managers,5,123,0.001607611977362732
+Afghanistan,7565,187814,3029,76511,9005,Supervisors of transportation and material moving workers,6,121,0.0015814719452104926
+Afghanistan,7565,187814,3029,76511,0350,Medical and health services managers,5,120,0.0015684019291343728
+Afghanistan,7565,187814,3029,76511,1860,Other social scientists,6,117,0.0015291918809060136
+Afghanistan,7565,187814,3029,76511,3870,Police officers,7,117,0.0015291918809060136
+Afghanistan,7565,187814,3029,76511,7315,"Heating, air conditioning, and refrigeration mechanics and installers",7,117,0.0015291918809060136
+Afghanistan,7565,187814,3029,76511,2004,Mental health counselors,3,116,0.0015161218648298937
+Afghanistan,7565,187814,3029,76511,5600,"Production, planning, and expediting clerks",3,116,0.0015161218648298937
+Afghanistan,7565,187814,3029,76511,8365,"Textile machine setters, operators, and tenders",3,116,0.0015161218648298937
+Afghanistan,7565,187814,3029,76511,2025,Other community and social service specialists,5,114,0.0014899818326776543
+Afghanistan,7565,187814,3029,76511,0565,Compliance officers,7,113,0.0014769118166015345
+Afghanistan,7565,187814,3029,76511,1980,Occupational health and safety specialists and technicians,4,112,0.0014638418005254146
+Afghanistan,7565,187814,3029,76511,4525,Other personal appearance workers,4,112,0.0014638418005254146
+Afghanistan,7565,187814,3029,76511,2350,Tutors,6,111,0.0014507717844492948
+Afghanistan,7565,187814,3029,76511,5160,Tellers,3,110,0.0014377017683731752
+Afghanistan,7565,187814,3029,76511,2640,Other designers,4,109,0.0014246317522970554
+Afghanistan,7565,187814,3029,76511,8950,Helpers--production workers,2,107,0.0013984917201448157
+Afghanistan,7565,187814,3029,76511,3110,Physician assistants,5,104,0.0013592816719164564
+Afghanistan,7565,187814,3029,76511,4130,Dining room and cafeteria attendants and bartender helpers,6,103,0.0013462116558403366
+Afghanistan,7565,187814,3029,76511,1007,Information security analysts,4,101,0.0013200716236880972
+Afghanistan,7565,187814,3029,76511,4830,Travel agents,1,101,0.0013200716236880972
+Afghanistan,7565,187814,3029,76511,7330,Industrial and refractory machinery mechanics,4,100,0.0013070016076119774
+Afghanistan,7565,187814,3029,76511,4950,"Door-to-door sales workers, news and street vendors, and related workers",5,99,0.0012939315915358575
+Afghanistan,7565,187814,3029,76511,6050,Other agricultural workers,3,98,0.001280861575459738
+Afghanistan,7565,187814,3029,76511,9630,Machine feeders and offbearers,2,96,0.0012547215433074983
+Afghanistan,7565,187814,3029,76511,0052,Sales managers,4,95,0.0012416515272313784
+Afghanistan,7565,187814,3029,76511,8630,Miscellaneous plant and system operators,2,94,0.0012285815111552588
+Afghanistan,7565,187814,3029,76511,9720,Refuse and recyclable material collectors,2,94,0.0012285815111552588
+Afghanistan,7565,187814,3029,76511,0410,"Property, real estate, and community association managers",7,92,0.0012024414790030192
+Afghanistan,7565,187814,3029,76511,2810,"News analysts, reporters, and journalists",5,92,0.0012024414790030192
+Afghanistan,7565,187814,3029,76511,2330,Special education teachers,5,91,0.0011893714629268993
+Afghanistan,7565,187814,3029,76511,1822,School psychologists,1,90,0.0011763014468507797
+Afghanistan,7565,187814,3029,76511,5420,Other information and records clerks,3,90,0.0011763014468507797
+Afghanistan,7565,187814,3029,76511,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,90,0.0011763014468507797
+Afghanistan,7565,187814,3029,76511,7220,Heavy vehicle and mobile equipment service technicians and mechanics,2,89,0.00116323143077466
+Afghanistan,7565,187814,3029,76511,5300,"Hotel, motel, and resort desk clerks",4,88,0.00115016141469854
+Afghanistan,7565,187814,3029,76511,1920,Chemical technicians,1,87,0.0011370913986224202
+Afghanistan,7565,187814,3029,76511,8255,Printing press operators,2,86,0.0011240213825463006
+Afghanistan,7565,187814,3029,76511,9415,Passenger attendants,4,84,0.001097881350394061
+Afghanistan,7565,187814,3029,76511,0910,Credit counselors and loan officers,2,81,0.0010586713021657017
+Afghanistan,7565,187814,3029,76511,1600,Agricultural and food scientists,1,80,0.0010456012860895819
+Afghanistan,7565,187814,3029,76511,3330,Nuclear medicine technologists and medical dosimetrists,3,80,0.0010456012860895819
+Afghanistan,7565,187814,3029,76511,3649,Phlebotomists,5,80,0.0010456012860895819
+Afghanistan,7565,187814,3029,76511,7150,Automotive body and related repairers,4,80,0.0010456012860895819
+Afghanistan,7565,187814,3029,76511,2634,Graphic designers,4,79,0.001032531270013462
+Afghanistan,7565,187814,3029,76511,2710,Producers and directors,2,79,0.001032531270013462
+Afghanistan,7565,187814,3029,76511,3725,"Miscellaneous first-line supervisors, protective service workers",4,79,0.001032531270013462
+Afghanistan,7565,187814,3029,76511,3423,Surgical technologists,2,78,0.0010194612539373424
+Afghanistan,7565,187814,3029,76511,1650,Other life scientists,4,77,0.0010063912378612226
+Afghanistan,7565,187814,3029,76511,1305,"Architects, except landscape and naval",6,76,9.933212217851028e-4
+Afghanistan,7565,187814,3029,76511,4435,Other entertainment attendants and related workers,3,76,9.933212217851028e-4
+Afghanistan,7565,187814,3029,76511,4530,"Baggage porters, bellhops, and concierges",3,76,9.933212217851028e-4
+Afghanistan,7565,187814,3029,76511,4655,"Personal care and service workers, all other",4,76,9.933212217851028e-4
+Afghanistan,7565,187814,3029,76511,1541,Architectural and civil drafters,3,75,9.80251205708983e-4
+Afghanistan,7565,187814,3029,76511,5330,Loan interviewers and clerks,5,75,9.80251205708983e-4
+Afghanistan,7565,187814,3029,76511,3323,Radiologic technologists and technicians,3,73,9.541111735567435e-4
+Afghanistan,7565,187814,3029,76511,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",4,73,9.541111735567435e-4
+Afghanistan,7565,187814,3029,76511,0520,"Wholesale and retail buyers, except farm products",2,72,9.410411574806237e-4
+Afghanistan,7565,187814,3029,76511,9830,"Military, rank not specified",4,72,9.410411574806237e-4
+Afghanistan,7565,187814,3029,76511,4350,Animal caretakers,2,71,9.27971141404504e-4
+Afghanistan,7565,187814,3029,76511,2016,Social and human service assistants,3,69,9.018311092522644e-4
+Afghanistan,7565,187814,3029,76511,7140,Aircraft mechanics and service technicians,3,66,8.62621061023905e-4
+Afghanistan,7565,187814,3029,76511,0940,Tax preparers,2,65,8.495510449477853e-4
+Afghanistan,7565,187814,3029,76511,3321,Cardiovascular technologists and technicians,2,63,8.234110127955458e-4
+Afghanistan,7565,187814,3029,76511,8140,"Welding, soldering, and brazing workers",3,63,8.234110127955458e-4
+Afghanistan,7565,187814,3029,76511,4965,"Sales and related workers, all other",5,62,8.10340996719426e-4
+Afghanistan,7565,187814,3029,76511,0735,Market research analysts and marketing specialists,2,59,7.711309484910667e-4
+Afghanistan,7565,187814,3029,76511,6120,Forest and conservation workers,1,59,7.711309484910667e-4
+Afghanistan,7565,187814,3029,76511,1551,Electrical and electronic engineering technologists and technicians,3,56,7.319209002627073e-4
+Afghanistan,7565,187814,3029,76511,0725,"Meeting, convention, and event planners",2,55,7.188508841865876e-4
+Afghanistan,7565,187814,3029,76511,1340,Biomedical and agricultural engineers,2,55,7.188508841865876e-4
+Afghanistan,7565,187814,3029,76511,2865,"Media and communication workers, all other",1,55,7.188508841865876e-4
+Afghanistan,7565,187814,3029,76511,7430,Precision instrument and equipment repairers,2,55,7.188508841865876e-4
+Afghanistan,7565,187814,3029,76511,7320,Home appliance repairers,3,54,7.057808681104678e-4
+Afghanistan,7565,187814,3029,76511,1022,Software quality assurance analysts and testers,4,53,6.92710852034348e-4
+Afghanistan,7565,187814,3029,76511,5410,Reservation and transportation ticket agents and travel clerks,2,53,6.92710852034348e-4
+Afghanistan,7565,187814,3029,76511,4040,Bartenders,3,52,6.796408359582282e-4
+Afghanistan,7565,187814,3029,76511,5260,File clerks,2,52,6.796408359582282e-4
+Afghanistan,7565,187814,3029,76511,0051,Marketing managers,4,51,6.665708198821085e-4
+Afghanistan,7565,187814,3029,76511,1825,Other psychologists,3,51,6.665708198821085e-4
+Afghanistan,7565,187814,3029,76511,2910,Photographers,4,50,6.535008038059887e-4
+Afghanistan,7565,187814,3029,76511,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",2,50,6.535008038059887e-4
+Afghanistan,7565,187814,3029,76511,3910,Private detectives and investigators,1,49,6.40430787729869e-4
+Afghanistan,7565,187814,3029,76511,0205,"Farmers, ranchers, and other agricultural managers",2,48,6.273607716537491e-4
+Afghanistan,7565,187814,3029,76511,9122,"Bus drivers, transit and intercity",4,48,6.273607716537491e-4
+Afghanistan,7565,187814,3029,76511,2920,"Television, video, and film camera operators and editors",3,47,6.142907555776294e-4
+Afghanistan,7565,187814,3029,76511,6442,"Plumbers, pipefitters, and steamfitters",2,47,6.142907555776294e-4
+Afghanistan,7565,187814,3029,76511,5522,"Dispatchers, except police, fire, and ambulance",2,44,5.7508070734927e-4
+Afghanistan,7565,187814,3029,76511,5840,Insurance claims and policy processing clerks,3,44,5.7508070734927e-4
+Afghanistan,7565,187814,3029,76511,0850,Personal financial advisors,2,43,5.620106912731503e-4
+Afghanistan,7565,187814,3029,76511,7210,Bus and truck mechanics and diesel engine specialists,3,43,5.620106912731503e-4
+Afghanistan,7565,187814,3029,76511,8610,Stationary engineers and boiler operators,3,43,5.620106912731503e-4
+Afghanistan,7565,187814,3029,76511,0060,Public relations and fundraising managers,1,41,5.358706591209108e-4
+Afghanistan,7565,187814,3029,76511,5110,Billing and posting clerks,3,41,5.358706591209108e-4
+Afghanistan,7565,187814,3029,76511,5540,Postal service clerks,1,41,5.358706591209108e-4
+Afghanistan,7565,187814,3029,76511,1065,Database administrators and architects,2,40,5.228006430447909e-4
+Afghanistan,7565,187814,3029,76511,2555,Other educational instruction and library workers,3,40,5.228006430447909e-4
+Afghanistan,7565,187814,3029,76511,0700,Logisticians,2,39,5.097306269686712e-4
+Afghanistan,7565,187814,3029,76511,2600,Artists and related workers,3,39,5.097306269686712e-4
+Afghanistan,7565,187814,3029,76511,5165,Other financial clerks,3,39,5.097306269686712e-4
+Afghanistan,7565,187814,3029,76511,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,39,5.097306269686712e-4
+Afghanistan,7565,187814,3029,76511,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
+						and plastic",3,39,5.097306269686712e-4
+Afghanistan,7565,187814,3029,76511,5560,"Postal service mail sorters, processors, and processing machine operators",1,38,4.966606108925514e-4
+Afghanistan,7565,187814,3029,76511,7610,"Helpers--installation, maintenance, and repair workers",1,38,4.966606108925514e-4
+Afghanistan,7565,187814,3029,76511,7640,"Other installation, maintenance, and repair workers",2,38,4.966606108925514e-4
+Afghanistan,7565,187814,3029,76511,8555,Other woodworkers,1,37,4.835905948164316e-4
+Afghanistan,7565,187814,3029,76511,0300,Architectural and engineering managers,2,36,4.7052057874031185e-4
+Afghanistan,7565,187814,3029,76511,0726,Fundraisers,2,36,4.7052057874031185e-4
+Afghanistan,7565,187814,3029,76511,9210,Locomotive engineers and operators,2,36,4.7052057874031185e-4
+Afghanistan,7565,187814,3029,76511,2700,Actors,1,35,4.574505626641921e-4
+Afghanistan,7565,187814,3029,76511,3322,Diagnostic medical sonographers,3,35,4.574505626641921e-4
+Afghanistan,7565,187814,3029,76511,0960,Other financial specialists,3,34,4.443805465880723e-4
+Afghanistan,7565,187814,3029,76511,3515,Medical records specialists,1,34,4.443805465880723e-4
+Afghanistan,7565,187814,3029,76511,3520,"Opticians, dispensing",2,34,4.443805465880723e-4
+Afghanistan,7565,187814,3029,76511,4820,"Securities, commodities, and financial services sales agents",2,34,4.443805465880723e-4
+Afghanistan,7565,187814,3029,76511,6540,Solar photovoltaic installers,2,34,4.443805465880723e-4
+Afghanistan,7565,187814,3029,76511,0425,Emergency management directors,1,33,4.313105305119525e-4
+Afghanistan,7565,187814,3029,76511,2011,"Child, family, and school social workers",1,33,4.313105305119525e-4
+Afghanistan,7565,187814,3029,76511,3940,Crossing guards and flaggers,2,33,4.313105305119525e-4
+Afghanistan,7565,187814,3029,76511,6200,First-line supervisors of construction trades and extraction workers,2,33,4.313105305119525e-4
+Afghanistan,7565,187814,3029,76511,0140,Industrial production managers,2,32,4.1824051443583275e-4
+Afghanistan,7565,187814,3029,76511,1032,Web and digital interface designers,1,32,4.1824051443583275e-4
+Afghanistan,7565,187814,3029,76511,3160,Physical therapists,1,32,4.1824051443583275e-4
+Afghanistan,7565,187814,3029,76511,3740,Firefighters,1,32,4.1824051443583275e-4
+Afghanistan,7565,187814,3029,76511,3401,Emergency medical technicians,2,30,3.921004822835932e-4
+Afghanistan,7565,187814,3029,76511,4160,"Food preparation and serving related workers, all other",2,30,3.921004822835932e-4
+Afghanistan,7565,187814,3029,76511,0360,Natural sciences managers,2,29,3.7903046620747343e-4
+Afghanistan,7565,187814,3029,76511,1010,Computer programmers,1,29,3.7903046620747343e-4
+Afghanistan,7565,187814,3029,76511,1220,Operations research analysts,3,28,3.6596045013135366e-4
+Afghanistan,7565,187814,3029,76511,2722,Coaches and scouts,2,28,3.6596045013135366e-4
+Afghanistan,7565,187814,3029,76511,2805,Broadcast announcers and radio disc jockeys,1,28,3.6596045013135366e-4
+Afghanistan,7565,187814,3029,76511,7720,"Electrical, electronics, and electromechanical assemblers",1,28,3.6596045013135366e-4
+Afghanistan,7565,187814,3029,76511,8300,Laundry and dry-cleaning workers,2,28,3.6596045013135366e-4
+Afghanistan,7565,187814,3029,76511,8830,Photographic process workers and processing machine operators,2,28,3.6596045013135366e-4
+Afghanistan,7565,187814,3029,76511,0830,Credit analysts,2,27,3.528904340552339e-4
+Afghanistan,7565,187814,3029,76511,3422,Psychiatric technicians,2,27,3.528904340552339e-4
+Afghanistan,7565,187814,3029,76511,3230,Speech-language pathologists,1,26,3.398204179791141e-4
+Afghanistan,7565,187814,3029,76511,4400,Gambling services workers,3,26,3.398204179791141e-4
+Afghanistan,7565,187814,3029,76511,5550,Postal service mail carriers,1,26,3.398204179791141e-4
+Afghanistan,7565,187814,3029,76511,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,2,26,3.398204179791141e-4
+Afghanistan,7565,187814,3029,76511,0540,"Claims adjusters, appraisers, examiners, and investigators",1,25,3.2675040190299434e-4
+Afghanistan,7565,187814,3029,76511,4621,Exercise trainers and group fitness instructors,1,25,3.2675040190299434e-4
+Afghanistan,7565,187814,3029,76511,5710,Executive secretaries and executive administrative assistants,2,25,3.2675040190299434e-4
+Afghanistan,7565,187814,3029,76511,0340,Lodging managers,1,24,3.1368038582687456e-4
+Afghanistan,7565,187814,3029,76511,1900,Agricultural and food science technicians,1,24,3.1368038582687456e-4
+Afghanistan,7565,187814,3029,76511,2440,Library technicians,1,24,3.1368038582687456e-4
+Afghanistan,7565,187814,3029,76511,3648,Veterinary assistants and laboratory animal caretakers,1,24,3.1368038582687456e-4
+Afghanistan,7565,187814,3029,76511,0136,Human resources managers,2,23,3.006103697507548e-4
+Afghanistan,7565,187814,3029,76511,5810,Data entry keyers,2,23,3.006103697507548e-4
+Afghanistan,7565,187814,3029,76511,2850,Writers and authors,2,22,2.87540353674635e-4
+Afghanistan,7565,187814,3029,76511,3245,Other therapists,1,22,2.87540353674635e-4
+Afghanistan,7565,187814,3029,76511,6400,Insulation workers,1,22,2.87540353674635e-4
+Afghanistan,7565,187814,3029,76511,9040,Air traffic controllers and airfield operations specialists,1,22,2.87540353674635e-4
+Afghanistan,7565,187814,3029,76511,1310,"Surveyors, cartographers, and photogrammetrists",1,21,2.7447033759851524e-4
+Afghanistan,7565,187814,3029,76511,3040,Optometrists,1,21,2.7447033759851524e-4
+Afghanistan,7565,187814,3029,76511,4930,Sales engineers,1,21,2.7447033759851524e-4
+Afghanistan,7565,187814,3029,76511,9430,Other transportation workers,1,21,2.7447033759851524e-4
+Afghanistan,7565,187814,3029,76511,0500,"Agents and business managers of artists, performers, and athletes",1,20,2.6140032152239547e-4
+Afghanistan,7565,187814,3029,76511,3946,School bus monitors,1,20,2.6140032152239547e-4
+Afghanistan,7565,187814,3029,76511,9121,"Bus drivers, school",1,20,2.6140032152239547e-4
+Afghanistan,7565,187814,3029,76511,3960,Other protective service workers,2,19,2.483303054462757e-4
+Afghanistan,7565,187814,3029,76511,5310,"Interviewers, except eligibility and loan",1,19,2.483303054462757e-4
+Afghanistan,7565,187814,3029,76511,5340,New accounts clerks,1,19,2.483303054462757e-4
+Afghanistan,7565,187814,3029,76511,0160,"Transportation, storage, and distribution managers",2,18,2.3526028937015592e-4
+Afghanistan,7565,187814,3029,76511,3120,Podiatrists,2,18,2.3526028937015592e-4
+Afghanistan,7565,187814,3029,76511,6720,Hazardous materials removal workers,1,18,2.3526028937015592e-4
+Afghanistan,7565,187814,3029,76511,0650,Training and development specialists,2,17,2.2219027329403615e-4
+Afghanistan,7565,187814,3029,76511,2006,"Counselors, all other",2,17,2.2219027329403615e-4
+Afghanistan,7565,187814,3029,76511,2633,Floral designers,1,17,2.2219027329403615e-4
+Afghanistan,7565,187814,3029,76511,2012,Healthcare social workers,1,16,2.0912025721791638e-4
+Afghanistan,7565,187814,3029,76511,4800,Advertising sales agents,1,16,2.0912025721791638e-4
+Afghanistan,7565,187814,3029,76511,6305,Construction equipment operators,1,16,2.0912025721791638e-4
+Afghanistan,7565,187814,3029,76511,3324,Magnetic resonance imaging technologists,2,15,1.960502411417966e-4
+Afghanistan,7565,187814,3029,76511,3545,Miscellaneous health technologists and technicians,2,15,1.960502411417966e-4
+Afghanistan,7565,187814,3029,76511,3550,Other healthcare practitioners and technical occupations,1,15,1.960502411417966e-4
+Afghanistan,7565,187814,3029,76511,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,15,1.960502411417966e-4
+Afghanistan,7565,187814,3029,76511,8650,"Crushing, grinding, polishing, mixing, and blending workers",1,15,1.960502411417966e-4
+Afghanistan,7565,187814,3029,76511,0101,Administrative services managers,1,14,1.8298022506567683e-4
+Afghanistan,7565,187814,3029,76511,4940,Telemarketers,1,14,1.8298022506567683e-4
+Afghanistan,7565,187814,3029,76511,6240,"Carpet, floor, and tile installers and finishers",1,14,1.8298022506567683e-4
+Afghanistan,7565,187814,3029,76511,7120,Electronic home entertainment equipment installers and repairers,1,14,1.8298022506567683e-4
+Afghanistan,7565,187814,3029,76511,8250,Prepress technicians and workers,1,14,1.8298022506567683e-4
+Afghanistan,7565,187814,3029,76511,8450,Upholsterers,1,14,1.8298022506567683e-4
+Afghanistan,7565,187814,3029,76511,1031,Web developers,1,13,1.6991020898955706e-4
+Afghanistan,7565,187814,3029,76511,7030,Avionics technicians,1,13,1.6991020898955706e-4
+Afghanistan,7565,187814,3029,76511,7130,Security and fire alarm systems installers,1,13,1.6991020898955706e-4
+Afghanistan,7565,187814,3029,76511,7905,Computer numerically controlled tool operators and programmers,1,13,1.6991020898955706e-4
+Afghanistan,7565,187814,3029,76511,2170,"Title examiners, abstractors, and searchers",1,12,1.5684019291343728e-4
+Afghanistan,7565,187814,3029,76511,3655,Other healthcare support workers,1,12,1.5684019291343728e-4
+Afghanistan,7565,187814,3029,76511,3801,Bailiffs,1,12,1.5684019291343728e-4
+Afghanistan,7565,187814,3029,76511,5100,Bill and account collectors,1,12,1.5684019291343728e-4
+Afghanistan,7565,187814,3029,76511,1800,Economists,1,11,1.437701768373175e-4
+Afghanistan,7565,187814,3029,76511,3945,Transportation security screeners,1,11,1.437701768373175e-4
+Afghanistan,7565,187814,3029,76511,5820,Word processors and typists,1,11,1.437701768373175e-4
+Afghanistan,7565,187814,3029,76511,6360,Glaziers,1,11,1.437701768373175e-4
+Afghanistan,7565,187814,3029,76511,6800,"Derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining",1,11,1.437701768373175e-4
+Afghanistan,7565,187814,3029,76511,7540,Locksmiths and safe repairers,1,11,1.437701768373175e-4
+Afghanistan,7565,187814,3029,76511,7740,Structural metal fabricators and fitters,1,11,1.437701768373175e-4
+Afghanistan,7565,187814,3029,76511,1400,Computer hardware engineers,1,10,1.3070016076119774e-4
+Afghanistan,7565,187814,3029,76511,2001,Substance abuse and behavioral disorder counselors,1,10,1.3070016076119774e-4
+Afghanistan,7565,187814,3029,76511,2840,Technical writers,1,10,1.3070016076119774e-4
+Afghanistan,7565,187814,3029,76511,4330,Supervisors of personal care and service workers,1,10,1.3070016076119774e-4
+Afghanistan,7565,187814,3029,76511,8750,Jewelers and precious stone and metal workers,1,10,1.3070016076119774e-4
+Afghanistan,7565,187814,3029,76511,3430,Dietetic technicians and ophthalmic medical technicians,1,9,1.1763014468507796e-4
+Afghanistan,7565,187814,3029,76511,4240,Pest control workers,1,9,1.1763014468507796e-4
+Afghanistan,7565,187814,3029,76511,5730,Medical secretaries and administrative assistants,1,9,1.1763014468507796e-4
+Afghanistan,7565,187814,3029,76511,5900,"Office machine operators, except computer",1,9,1.1763014468507796e-4
+Afghanistan,7565,187814,3029,76511,8500,Cabinetmakers and bench carpenters,1,9,1.1763014468507796e-4
+Afghanistan,7565,187814,3029,76511,9410,Transportation inspectors,1,9,1.1763014468507796e-4
+Afghanistan,7565,187814,3029,76511,1350,Chemical engineers,1,8,1.0456012860895819e-4
+Afghanistan,7565,187814,3029,76511,1560,Surveying and mapping technicians,1,8,1.0456012860895819e-4
+Afghanistan,7565,187814,3029,76511,2770,"Entertainers and performers, sports and related workers, all other",1,8,1.0456012860895819e-4
+Afghanistan,7565,187814,3029,76511,4740,Counter and rental clerks,1,7,9.149011253283841e-5
+Afghanistan,7565,187814,3029,76511,5250,"Eligibility interviewers, government programs",1,6,7.842009645671864e-5
+Afghanistan,7565,187814,3029,76511,6005,"First-line supervisors of farming, fishing, and forestry workers",1,6,7.842009645671864e-5

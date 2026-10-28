@@ -1,174 +1,178 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-St. Vincent and the Grenadines,914,23153,420,12115,4600,Childcare workers,15,684,0.0564589352042922
-St. Vincent and the Grenadines,914,23153,420,12115,3603,Nursing assistants,16,470,0.03879488237721832
-St. Vincent and the Grenadines,914,23153,420,12115,3601,Home health aides,15,463,0.03821708625670656
-St. Vincent and the Grenadines,914,23153,420,12115,3255,Registered nurses,11,318,0.026248452331820056
-St. Vincent and the Grenadines,914,23153,420,12115,4220,Janitors and building cleaners,9,316,0.026083367725959553
-St. Vincent and the Grenadines,914,23153,420,12115,2545,Teaching assistants,5,283,0.023359471729261245
-St. Vincent and the Grenadines,914,23153,420,12115,9142,Taxi drivers,9,265,0.021873710276516713
-St. Vincent and the Grenadines,914,23153,420,12115,5000,First-line supervisors of office and administrative support workers,6,250,0.020635575732562937
-St. Vincent and the Grenadines,914,23153,420,12115,0440,Other managers,10,247,0.020387948823772182
-St. Vincent and the Grenadines,914,23153,420,12115,5940,Other office and administrative support workers,5,229,0.01890218737102765
-St. Vincent and the Grenadines,914,23153,420,12115,9130,Driver/sales workers and truck drivers,7,207,0.017086256706562112
-St. Vincent and the Grenadines,914,23153,420,12115,7750,Other assemblers and fabricators,3,196,0.016178291374329343
-St. Vincent and the Grenadines,914,23153,420,12115,4230,Maids and housekeeping cleaners,4,193,0.015930664465538587
-St. Vincent and the Grenadines,914,23153,420,12115,7340,"Maintenance and repair workers, general",5,193,0.015930664465538587
-St. Vincent and the Grenadines,914,23153,420,12115,1410,Electrical and electronics engineers,2,186,0.015352868345026827
-St. Vincent and the Grenadines,914,23153,420,12115,3870,Police officers,4,176,0.01452744531572431
-St. Vincent and the Grenadines,914,23153,420,12115,2310,Elementary and middle school teachers,6,174,0.014362360709863806
-St. Vincent and the Grenadines,914,23153,420,12115,3602,Personal care aides,9,167,0.013784564589352044
-St. Vincent and the Grenadines,914,23153,420,12115,1305,"Architects, except landscape and naval",3,158,0.013041683862979776
-St. Vincent and the Grenadines,914,23153,420,12115,9600,Industrial truck and tractor operators,3,154,0.01271151465125877
-St. Vincent and the Grenadines,914,23153,420,12115,5240,Customer service representatives,8,138,0.011390837804374741
-St. Vincent and the Grenadines,914,23153,420,12115,2014,"Social workers, all other",4,137,0.01130829550144449
-St. Vincent and the Grenadines,914,23153,420,12115,9121,"Bus drivers, school",2,134,0.011060668592653734
-St. Vincent and the Grenadines,914,23153,420,12115,5400,Receptionists and information clerks,4,133,0.010978126289723483
-St. Vincent and the Grenadines,914,23153,420,12115,6260,Construction laborers,4,130,0.010730499380932727
-St. Vincent and the Grenadines,914,23153,420,12115,5860,"Office clerks, general",3,129,0.010647957078002476
-St. Vincent and the Grenadines,914,23153,420,12115,3946,School bus monitors,2,127,0.010482872472141972
-St. Vincent and the Grenadines,914,23153,420,12115,3500,Licensed practical and licensed vocational nurses,5,124,0.010235245563351217
-St. Vincent and the Grenadines,914,23153,420,12115,4700,First-line supervisors of retail sales workers,4,122,0.010070160957490713
-St. Vincent and the Grenadines,914,23153,420,12115,6442,"Plumbers, pipefitters, and steamfitters",4,121,0.009987618654560462
-St. Vincent and the Grenadines,914,23153,420,12115,0110,Computer and information systems managers,2,120,0.00990507635163021
-St. Vincent and the Grenadines,914,23153,420,12115,9620,"Laborers and freight, stock, and material movers, hand",5,120,0.00990507635163021
-St. Vincent and the Grenadines,914,23153,420,12115,4720,Cashiers,3,117,0.009657449442839455
-St. Vincent and the Grenadines,914,23153,420,12115,0350,Medical and health services managers,4,112,0.009244737928188196
-St. Vincent and the Grenadines,914,23153,420,12115,0565,Compliance officers,2,109,0.00899711101939744
-St. Vincent and the Grenadines,914,23153,420,12115,0136,Human resources managers,2,108,0.008914568716467189
-St. Vincent and the Grenadines,914,23153,420,12115,3930,Security guards and gaming surveillance officers,5,104,0.008584399504746182
-St. Vincent and the Grenadines,914,23153,420,12115,3258,"Nurse practitioners, and nurse midwives",3,99,0.008171687990094923
-St. Vincent and the Grenadines,914,23153,420,12115,0845,Financial and investment analysts,2,97,0.00800660338423442
-St. Vincent and the Grenadines,914,23153,420,12115,2300,Preschool and kindergarten teachers,4,97,0.00800660338423442
-St. Vincent and the Grenadines,914,23153,420,12115,4510,"Hairdressers, hairstylists, and cosmetologists",4,96,0.007924061081304168
-St. Vincent and the Grenadines,914,23153,420,12115,5550,Postal service mail carriers,4,95,0.007841518778373916
-St. Vincent and the Grenadines,914,23153,420,12115,0120,Financial managers,4,87,0.007181180354931903
-St. Vincent and the Grenadines,914,23153,420,12115,3645,Medical assistants,3,87,0.007181180354931903
-St. Vincent and the Grenadines,914,23153,420,12115,4020,Cooks,4,87,0.007181180354931903
-St. Vincent and the Grenadines,914,23153,420,12115,3515,Medical records specialists,2,83,0.006851011143210896
-St. Vincent and the Grenadines,914,23153,420,12115,7315,"Heating, air conditioning, and refrigeration mechanics and installers",3,83,0.006851011143210896
-St. Vincent and the Grenadines,914,23153,420,12115,4010,First-line supervisors of food preparation and serving workers,1,77,0.006355757325629385
-St. Vincent and the Grenadines,914,23153,420,12115,3423,Surgical technologists,1,76,0.006273215022699133
-St. Vincent and the Grenadines,914,23153,420,12115,1400,Computer hardware engineers,1,75,0.006190672719768881
-St. Vincent and the Grenadines,914,23153,420,12115,0540,"Claims adjusters, appraisers, examiners, and investigators",2,74,0.006108130416838629
-St. Vincent and the Grenadines,914,23153,420,12115,6230,Carpenters,5,71,0.005860503508047874
-St. Vincent and the Grenadines,914,23153,420,12115,0220,Construction managers,3,68,0.005612876599257119
-St. Vincent and the Grenadines,914,23153,420,12115,6355,Electricians,4,67,0.005530334296326867
-St. Vincent and the Grenadines,914,23153,420,12115,3090,Physicians,2,66,0.005447791993396615
-St. Vincent and the Grenadines,914,23153,420,12115,2360,Other teachers and instructors,2,65,0.005365249690466364
-St. Vincent and the Grenadines,914,23153,420,12115,5250,"Eligibility interviewers, government programs",2,62,0.005117622781675608
-St. Vincent and the Grenadines,914,23153,420,12115,0230,Education and childcare administrators,3,61,0.005035080478745357
-St. Vincent and the Grenadines,914,23153,420,12115,2002,"Educational, guidance, and career counselors and advisors",3,61,0.005035080478745357
-St. Vincent and the Grenadines,914,23153,420,12115,0310,Food service managers,2,59,0.004869995872884853
-St. Vincent and the Grenadines,914,23153,420,12115,0710,Management analysts,2,59,0.004869995872884853
-St. Vincent and the Grenadines,914,23153,420,12115,2016,Social and human service assistants,4,59,0.004869995872884853
-St. Vincent and the Grenadines,914,23153,420,12115,2060,"Religious workers, all other",1,59,0.004869995872884853
-St. Vincent and the Grenadines,914,23153,420,12115,0010,Chief executives and legislators,3,56,0.004622368964094098
-St. Vincent and the Grenadines,914,23153,420,12115,0940,Tax preparers,1,55,0.004539826661163846
-St. Vincent and the Grenadines,914,23153,420,12115,0420,Social and community service managers,2,54,0.004457284358233594
-St. Vincent and the Grenadines,914,23153,420,12115,4760,Retail salespersons,4,54,0.004457284358233594
-St. Vincent and the Grenadines,914,23153,420,12115,2006,"Counselors, all other",2,52,0.004292199752373091
-St. Vincent and the Grenadines,914,23153,420,12115,9720,Refuse and recyclable material collectors,1,52,0.004292199752373091
-St. Vincent and the Grenadines,914,23153,420,12115,0150,Purchasing managers,1,51,0.004209657449442839
-St. Vincent and the Grenadines,914,23153,420,12115,0020,General and operations managers,3,49,0.004044572843582336
-St. Vincent and the Grenadines,914,23153,420,12115,4621,Exercise trainers and group fitness instructors,2,49,0.004044572843582336
-St. Vincent and the Grenadines,914,23153,420,12115,4920,Real estate brokers and sales agents,1,48,0.003962030540652084
-St. Vincent and the Grenadines,914,23153,420,12115,9122,"Bus drivers, transit and intercity",3,46,0.003796945934791581
-St. Vincent and the Grenadines,914,23153,420,12115,3840,Fish and game wardens and parking enforcement officers,2,45,0.003714403631861329
-St. Vincent and the Grenadines,914,23153,420,12115,0750,"Business operations specialists, all other",2,43,0.0035493190260008256
-St. Vincent and the Grenadines,914,23153,420,12115,7330,Industrial and refractory machinery mechanics,1,43,0.0035493190260008256
-St. Vincent and the Grenadines,914,23153,420,12115,2722,Coaches and scouts,2,42,0.003466776723070574
-St. Vincent and the Grenadines,914,23153,420,12115,5600,"Production, planning, and expediting clerks",1,42,0.003466776723070574
-St. Vincent and the Grenadines,914,23153,420,12115,8810,Painting workers,1,42,0.003466776723070574
-St. Vincent and the Grenadines,914,23153,420,12115,3421,Pharmacy technicians,1,41,0.003384234420140322
-St. Vincent and the Grenadines,914,23153,420,12115,9645,Stockers and order fillers,2,41,0.003384234420140322
-St. Vincent and the Grenadines,914,23153,420,12115,0850,Personal financial advisors,1,40,0.0033016921172100704
-St. Vincent and the Grenadines,914,23153,420,12115,6700,Elevator installers and repairers,1,40,0.0033016921172100704
-St. Vincent and the Grenadines,914,23153,420,12115,9005,Supervisors of transportation and material moving workers,1,40,0.0033016921172100704
-St. Vincent and the Grenadines,914,23153,420,12115,5120,"Bookkeeping, accounting, and auditing clerks",2,38,0.0031366075113495664
-St. Vincent and the Grenadines,914,23153,420,12115,5740,"Secretaries and administrative assistants, except legal, medical, and executive",3,38,0.0031366075113495664
-St. Vincent and the Grenadines,914,23153,420,12115,3610,Occupational therapy assistants and aides,1,36,0.002971522905489063
-St. Vincent and the Grenadines,914,23153,420,12115,8610,Stationary engineers and boiler operators,1,36,0.002971522905489063
-St. Vincent and the Grenadines,914,23153,420,12115,2205,Postsecondary teachers,2,35,0.002888980602558811
-St. Vincent and the Grenadines,914,23153,420,12115,5410,Reservation and transportation ticket agents and travel clerks,2,35,0.002888980602558811
-St. Vincent and the Grenadines,914,23153,420,12115,0410,"Property, real estate, and community association managers",2,34,0.0028064382996285595
-St. Vincent and the Grenadines,914,23153,420,12115,1551,Electrical and electronic engineering technologists and technicians,1,33,0.0027238959966983077
-St. Vincent and the Grenadines,914,23153,420,12115,2100,"Lawyers, and judges, magistrates, and other judicial workers",2,33,0.0027238959966983077
-St. Vincent and the Grenadines,914,23153,420,12115,2634,Graphic designers,1,33,0.0027238959966983077
-St. Vincent and the Grenadines,914,23153,420,12115,5110,Billing and posting clerks,1,33,0.0027238959966983077
-St. Vincent and the Grenadines,914,23153,420,12115,5730,Medical secretaries and administrative assistants,1,33,0.0027238959966983077
-St. Vincent and the Grenadines,914,23153,420,12115,1760,"Physical scientists, all other",2,31,0.002558811390837804
-St. Vincent and the Grenadines,914,23153,420,12115,5810,Data entry keyers,1,31,0.002558811390837804
-St. Vincent and the Grenadines,914,23153,420,12115,2025,Other community and social service specialists,1,30,0.0024762690879075525
-St. Vincent and the Grenadines,914,23153,420,12115,7350,"Maintenance workers, machinery",1,30,0.0024762690879075525
-St. Vincent and the Grenadines,914,23153,420,12115,3300,Clinical laboratory technologists and technicians,2,29,0.0023937267849773007
-St. Vincent and the Grenadines,914,23153,420,12115,9760,Other material moving workers,1,29,0.0023937267849773007
-St. Vincent and the Grenadines,914,23153,420,12115,1050,Computer support specialists,1,28,0.002311184482047049
-St. Vincent and the Grenadines,914,23153,420,12115,4055,Fast food and counter workers,1,28,0.002311184482047049
-St. Vincent and the Grenadines,914,23153,420,12115,0726,Fundraisers,1,27,0.002228642179116797
-St. Vincent and the Grenadines,914,23153,420,12115,4110,Waiters and waitresses,2,27,0.002228642179116797
-St. Vincent and the Grenadines,914,23153,420,12115,3210,Recreational therapists,1,25,0.0020635575732562937
-St. Vincent and the Grenadines,914,23153,420,12115,5920,Statistical assistants,1,25,0.0020635575732562937
-St. Vincent and the Grenadines,914,23153,420,12115,4655,"Personal care and service workers, all other",1,24,0.001981015270326042
-St. Vincent and the Grenadines,914,23153,420,12115,5710,Executive secretaries and executive administrative assistants,1,24,0.001981015270326042
-St. Vincent and the Grenadines,914,23153,420,12115,0800,Accountants and auditors,2,23,0.0018984729673957904
-St. Vincent and the Grenadines,914,23153,420,12115,1006,Computer systems analysts,1,23,0.0018984729673957904
-St. Vincent and the Grenadines,914,23153,420,12115,2145,Paralegals and legal assistants,1,23,0.0018984729673957904
-St. Vincent and the Grenadines,914,23153,420,12115,3802,Correctional officers and jailers,1,23,0.0018984729673957904
-St. Vincent and the Grenadines,914,23153,420,12115,4820,"Securities, commodities, and financial services sales agents",1,23,0.0018984729673957904
-St. Vincent and the Grenadines,914,23153,420,12115,2600,Artists and related workers,1,22,0.0018159306644655387
-St. Vincent and the Grenadines,914,23153,420,12115,4140,Dishwashers,1,22,0.0018159306644655387
-St. Vincent and the Grenadines,914,23153,420,12115,7140,Aircraft mechanics and service technicians,1,22,0.0018159306644655387
-St. Vincent and the Grenadines,914,23153,420,12115,1530,Other engineers,1,21,0.001733388361535287
-St. Vincent and the Grenadines,914,23153,420,12115,4030,Food preparation workers,2,21,0.001733388361535287
-St. Vincent and the Grenadines,914,23153,420,12115,3710,First-line supervisors of police and detectives,1,20,0.0016508460586050352
-St. Vincent and the Grenadines,914,23153,420,12115,5140,Payroll and timekeeping clerks,1,20,0.0016508460586050352
-St. Vincent and the Grenadines,914,23153,420,12115,6410,Painters and paperhangers,1,20,0.0016508460586050352
-St. Vincent and the Grenadines,914,23153,420,12115,7120,Electronic home entertainment equipment installers and repairers,1,20,0.0016508460586050352
-St. Vincent and the Grenadines,914,23153,420,12115,0640,"Compensation, benefits, and job analysis specialists",1,19,0.0015683037556747832
-St. Vincent and the Grenadines,914,23153,420,12115,3120,Podiatrists,1,19,0.0015683037556747832
-St. Vincent and the Grenadines,914,23153,420,12115,4622,Recreation workers,1,19,0.0015683037556747832
-St. Vincent and the Grenadines,914,23153,420,12115,2040,Clergy,1,18,0.0014857614527445315
-St. Vincent and the Grenadines,914,23153,420,12115,3940,Crossing guards and flaggers,1,18,0.0014857614527445315
-St. Vincent and the Grenadines,914,23153,420,12115,8990,"Miscellaneous production workers, including equipment operators and tenders",1,18,0.0014857614527445315
-St. Vincent and the Grenadines,914,23153,420,12115,1360,Civil engineers,1,17,0.0014032191498142797
-St. Vincent and the Grenadines,914,23153,420,12115,2710,Producers and directors,1,17,0.0014032191498142797
-St. Vincent and the Grenadines,914,23153,420,12115,3640,Dental assistants,1,17,0.0014032191498142797
-St. Vincent and the Grenadines,914,23153,420,12115,3647,Pharmacy aides,1,17,0.0014032191498142797
-St. Vincent and the Grenadines,914,23153,420,12115,1420,Environmental engineers,1,16,0.001320676846884028
-St. Vincent and the Grenadines,914,23153,420,12115,5610,"Shipping, receiving, and inventory clerks",1,16,0.001320676846884028
-St. Vincent and the Grenadines,914,23153,420,12115,0160,"Transportation, storage, and distribution managers",1,15,0.0012381345439537762
-St. Vincent and the Grenadines,914,23153,420,12115,5350,Correspondence clerks and order clerks,1,15,0.0012381345439537762
-St. Vincent and the Grenadines,914,23153,420,12115,0530,"Purchasing agents, except wholesale, retail, and farm products",1,14,0.0011555922410235245
-St. Vincent and the Grenadines,914,23153,420,12115,1010,Computer programmers,1,14,0.0011555922410235245
-St. Vincent and the Grenadines,914,23153,420,12115,1555,"Other engineering technologists and technicians, except drafters",1,14,0.0011555922410235245
-St. Vincent and the Grenadines,914,23153,420,12115,3649,Phlebotomists,1,14,0.0011555922410235245
-St. Vincent and the Grenadines,914,23153,420,12115,3960,Other protective service workers,1,14,0.0011555922410235245
-St. Vincent and the Grenadines,914,23153,420,12115,4240,Pest control workers,1,14,0.0011555922410235245
-St. Vincent and the Grenadines,914,23153,420,12115,4830,Travel agents,1,14,0.0011555922410235245
-St. Vincent and the Grenadines,914,23153,420,12115,4850,"Sales representatives, wholesale and manufacturing",1,14,0.0011555922410235245
-St. Vincent and the Grenadines,914,23153,420,12115,3655,Other healthcare support workers,1,13,0.0010730499380932727
-St. Vincent and the Grenadines,914,23153,420,12115,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,13,0.0010730499380932727
-St. Vincent and the Grenadines,914,23153,420,12115,4710,First-line supervisors of non-retail sales workers,1,13,0.0010730499380932727
-St. Vincent and the Grenadines,914,23153,420,12115,5420,Other information and records clerks,1,13,0.0010730499380932727
-St. Vincent and the Grenadines,914,23153,420,12115,1022,Software quality assurance analysts and testers,1,12,9.90507635163021e-4
-St. Vincent and the Grenadines,914,23153,420,12115,3945,Transportation security screeners,1,12,9.90507635163021e-4
-St. Vincent and the Grenadines,914,23153,420,12115,0860,Insurance underwriters,1,11,9.079653322327693e-4
-St. Vincent and the Grenadines,914,23153,420,12115,0910,Credit counselors and loan officers,1,11,9.079653322327693e-4
-St. Vincent and the Grenadines,914,23153,420,12115,1825,Other psychologists,1,11,9.079653322327693e-4
-St. Vincent and the Grenadines,914,23153,420,12115,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,11,9.079653322327693e-4
-St. Vincent and the Grenadines,914,23153,420,12115,7020,Radio and telecommunications equipment installers and repairers,2,11,9.079653322327693e-4
-St. Vincent and the Grenadines,914,23153,420,12115,7200,Automotive service technicians and mechanics,1,11,9.079653322327693e-4
-St. Vincent and the Grenadines,914,23153,420,12115,1007,Information security analysts,1,10,8.254230293025176e-4
-St. Vincent and the Grenadines,914,23153,420,12115,1021,Software developers,1,10,8.254230293025176e-4
-St. Vincent and the Grenadines,914,23153,420,12115,2011,"Child, family, and school social workers",1,10,8.254230293025176e-4
-St. Vincent and the Grenadines,914,23153,420,12115,3030,Dietitians and nutritionists,1,10,8.254230293025176e-4
-St. Vincent and the Grenadines,914,23153,420,12115,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",1,10,8.254230293025176e-4
-St. Vincent and the Grenadines,914,23153,420,12115,6330,"Drywall installers, ceiling tile installers, and tapers",1,10,8.254230293025176e-4
-St. Vincent and the Grenadines,914,23153,420,12115,9800,Military officer special and tactical operations leaders,1,10,8.254230293025176e-4
-St. Vincent and the Grenadines,914,23153,420,12115,2320,Secondary school teachers,1,9,7.428807263722657e-4
-St. Vincent and the Grenadines,914,23153,420,12115,3160,Physical therapists,1,9,7.428807263722657e-4
-St. Vincent and the Grenadines,914,23153,420,12115,3230,Speech-language pathologists,1,5,4.127115146512588e-4
-St. Vincent and the Grenadines,914,23153,420,12115,8710,Cutting workers,1,4,3.30169211721007e-4
-St. Vincent and the Grenadines,914,23153,420,12115,9210,Locomotive engineers and operators,1,4,3.30169211721007e-4
-St. Vincent and the Grenadines,914,23153,420,12115,3402,Paramedics,1,1,8.254230293025175e-5
-St. Vincent and the Grenadines,914,23153,420,12115,5260,File clerks,1,1,8.254230293025175e-5
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+St. Vincent and the Grenadines,914,23153,484,13454,4600,Childcare workers,17,725,0.05388731975620633
+St. Vincent and the Grenadines,914,23153,484,13454,3601,Home health aides,19,535,0.03976512561320054
+St. Vincent and the Grenadines,914,23153,484,13454,3603,Nursing assistants,18,528,0.039244834250037164
+St. Vincent and the Grenadines,914,23153,484,13454,3255,Registered nurses,17,391,0.029061988999554037
+St. Vincent and the Grenadines,914,23153,484,13454,4220,Janitors and building cleaners,13,358,0.026609186858926714
+St. Vincent and the Grenadines,914,23153,484,13454,5000,First-line supervisors of office and administrative support workers,7,306,0.022744165303998812
+St. Vincent and the Grenadines,914,23153,484,13454,0440,Other managers,12,294,0.021852237252861603
+St. Vincent and the Grenadines,914,23153,484,13454,2545,Teaching assistants,5,283,0.02103463653931916
+St. Vincent and the Grenadines,914,23153,484,13454,9142,Taxi drivers,9,265,0.01969674446261335
+St. Vincent and the Grenadines,914,23153,484,13454,2310,Elementary and middle school teachers,8,255,0.018953471086665674
+St. Vincent and the Grenadines,914,23153,484,13454,9130,Driver/sales workers and truck drivers,9,245,0.018210197710718003
+St. Vincent and the Grenadines,914,23153,484,13454,5940,Other office and administrative support workers,5,229,0.017020960309201725
+St. Vincent and the Grenadines,914,23153,484,13454,3602,Personal care aides,11,205,0.015237104206927308
+St. Vincent and the Grenadines,914,23153,484,13454,7750,Other assemblers and fabricators,3,196,0.014568158168574402
+St. Vincent and the Grenadines,914,23153,484,13454,4230,Maids and housekeeping cleaners,4,193,0.014345176155790099
+St. Vincent and the Grenadines,914,23153,484,13454,7340,"Maintenance and repair workers, general",5,193,0.014345176155790099
+St. Vincent and the Grenadines,914,23153,484,13454,1410,Electrical and electronics engineers,2,186,0.013824884792626729
+St. Vincent and the Grenadines,914,23153,484,13454,3870,Police officers,4,176,0.013081611416679054
+St. Vincent and the Grenadines,914,23153,484,13454,1305,"Architects, except landscape and naval",3,158,0.011743719339973242
+St. Vincent and the Grenadines,914,23153,484,13454,3930,Security guards and gaming surveillance officers,9,158,0.011743719339973242
+St. Vincent and the Grenadines,914,23153,484,13454,9600,Industrial truck and tractor operators,3,154,0.011446409989594173
+St. Vincent and the Grenadines,914,23153,484,13454,6260,Construction laborers,5,153,0.011372082651999406
+St. Vincent and the Grenadines,914,23153,484,13454,4020,Cooks,6,147,0.010926118626430802
+St. Vincent and the Grenadines,914,23153,484,13454,5240,Customer service representatives,8,138,0.010257172588077896
+St. Vincent and the Grenadines,914,23153,484,13454,2014,"Social workers, all other",4,137,0.010182845250483128
+St. Vincent and the Grenadines,914,23153,484,13454,3500,Licensed practical and licensed vocational nurses,6,134,0.009959863237698825
+St. Vincent and the Grenadines,914,23153,484,13454,9121,"Bus drivers, school",2,134,0.009959863237698825
+St. Vincent and the Grenadines,914,23153,484,13454,5400,Receptionists and information clerks,4,133,0.009885535900104058
+St. Vincent and the Grenadines,914,23153,484,13454,4700,First-line supervisors of retail sales workers,5,129,0.00958822654972499
+St. Vincent and the Grenadines,914,23153,484,13454,5860,"Office clerks, general",3,129,0.00958822654972499
+St. Vincent and the Grenadines,914,23153,484,13454,3946,School bus monitors,2,127,0.009439571874535454
+St. Vincent and the Grenadines,914,23153,484,13454,6442,"Plumbers, pipefitters, and steamfitters",4,121,0.00899360784896685
+St. Vincent and the Grenadines,914,23153,484,13454,0110,Computer and information systems managers,2,120,0.008919280511372083
+St. Vincent and the Grenadines,914,23153,484,13454,9620,"Laborers and freight, stock, and material movers, hand",5,120,0.008919280511372083
+St. Vincent and the Grenadines,914,23153,484,13454,4720,Cashiers,3,117,0.00869629849858778
+St. Vincent and the Grenadines,914,23153,484,13454,0845,Financial and investment analysts,3,113,0.008398989148208712
+St. Vincent and the Grenadines,914,23153,484,13454,0350,Medical and health services managers,4,112,0.008324661810613945
+St. Vincent and the Grenadines,914,23153,484,13454,3258,"Nurse practitioners, and nurse midwives",4,111,0.008250334473019176
+St. Vincent and the Grenadines,914,23153,484,13454,0565,Compliance officers,2,109,0.008101679797829641
+St. Vincent and the Grenadines,914,23153,484,13454,0136,Human resources managers,2,108,0.008027352460234874
+St. Vincent and the Grenadines,914,23153,484,13454,2300,Preschool and kindergarten teachers,5,105,0.007804370447450572
+St. Vincent and the Grenadines,914,23153,484,13454,6355,Electricians,5,104,0.007730043109855805
+St. Vincent and the Grenadines,914,23153,484,13454,0120,Financial managers,6,103,0.007655715772261038
+St. Vincent and the Grenadines,914,23153,484,13454,2145,Paralegals and legal assistants,2,99,0.007358406421881968
+St. Vincent and the Grenadines,914,23153,484,13454,4510,"Hairdressers, hairstylists, and cosmetologists",4,96,0.007135424409097666
+St. Vincent and the Grenadines,914,23153,484,13454,5550,Postal service mail carriers,4,95,0.007061097071502899
+St. Vincent and the Grenadines,914,23153,484,13454,3090,Physicians,3,88,0.006540805708339527
+St. Vincent and the Grenadines,914,23153,484,13454,3645,Medical assistants,3,87,0.00646647837074476
+St. Vincent and the Grenadines,914,23153,484,13454,6230,Carpenters,6,87,0.00646647837074476
+St. Vincent and the Grenadines,914,23153,484,13454,3515,Medical records specialists,2,83,0.00616916902036569
+St. Vincent and the Grenadines,914,23153,484,13454,7315,"Heating, air conditioning, and refrigeration mechanics and installers",3,83,0.00616916902036569
+St. Vincent and the Grenadines,914,23153,484,13454,2002,"Educational, guidance, and career counselors and advisors",4,77,0.005723204994797087
+St. Vincent and the Grenadines,914,23153,484,13454,4010,First-line supervisors of food preparation and serving workers,1,77,0.005723204994797087
+St. Vincent and the Grenadines,914,23153,484,13454,3423,Surgical technologists,1,76,0.005648877657202319
+St. Vincent and the Grenadines,914,23153,484,13454,1400,Computer hardware engineers,1,75,0.0055745503196075515
+St. Vincent and the Grenadines,914,23153,484,13454,0540,"Claims adjusters, appraisers, examiners, and investigators",2,74,0.005500222982012784
+St. Vincent and the Grenadines,914,23153,484,13454,2320,Secondary school teachers,2,74,0.005500222982012784
+St. Vincent and the Grenadines,914,23153,484,13454,3940,Crossing guards and flaggers,3,71,0.005277240969228482
+St. Vincent and the Grenadines,914,23153,484,13454,0220,Construction managers,3,68,0.00505425895644418
+St. Vincent and the Grenadines,914,23153,484,13454,8810,Painting workers,2,67,0.004979931618849413
+St. Vincent and the Grenadines,914,23153,484,13454,2360,Other teachers and instructors,2,65,0.004831276943659878
+St. Vincent and the Grenadines,914,23153,484,13454,5120,"Bookkeeping, accounting, and auditing clerks",3,62,0.004608294930875576
+St. Vincent and the Grenadines,914,23153,484,13454,5250,"Eligibility interviewers, government programs",2,62,0.004608294930875576
+St. Vincent and the Grenadines,914,23153,484,13454,9645,Stockers and order fillers,3,62,0.004608294930875576
+St. Vincent and the Grenadines,914,23153,484,13454,0230,Education and childcare administrators,3,61,0.004533967593280809
+St. Vincent and the Grenadines,914,23153,484,13454,4920,Real estate brokers and sales agents,2,60,0.004459640255686042
+St. Vincent and the Grenadines,914,23153,484,13454,0310,Food service managers,2,59,0.004385312918091274
+St. Vincent and the Grenadines,914,23153,484,13454,0420,Social and community service managers,3,59,0.004385312918091274
+St. Vincent and the Grenadines,914,23153,484,13454,0710,Management analysts,2,59,0.004385312918091274
+St. Vincent and the Grenadines,914,23153,484,13454,2016,Social and human service assistants,4,59,0.004385312918091274
+St. Vincent and the Grenadines,914,23153,484,13454,2060,"Religious workers, all other",1,59,0.004385312918091274
+St. Vincent and the Grenadines,914,23153,484,13454,0010,Chief executives and legislators,3,56,0.004162330905306972
+St. Vincent and the Grenadines,914,23153,484,13454,5740,"Secretaries and administrative assistants, except legal, medical, and executive",4,56,0.004162330905306972
+St. Vincent and the Grenadines,914,23153,484,13454,0940,Tax preparers,1,55,0.004088003567712204
+St. Vincent and the Grenadines,914,23153,484,13454,4760,Retail salespersons,4,54,0.004013676230117437
+St. Vincent and the Grenadines,914,23153,484,13454,2006,"Counselors, all other",2,52,0.0038650215549279024
+St. Vincent and the Grenadines,914,23153,484,13454,9720,Refuse and recyclable material collectors,1,52,0.0038650215549279024
+St. Vincent and the Grenadines,914,23153,484,13454,0150,Purchasing managers,1,51,0.0037906942173331353
+St. Vincent and the Grenadines,914,23153,484,13454,2205,Postsecondary teachers,3,51,0.0037906942173331353
+St. Vincent and the Grenadines,914,23153,484,13454,0020,General and operations managers,3,49,0.0036420395421436005
+St. Vincent and the Grenadines,914,23153,484,13454,4621,Exercise trainers and group fitness instructors,2,49,0.0036420395421436005
+St. Vincent and the Grenadines,914,23153,484,13454,2752,Musicians and singers,1,47,0.003493384866954066
+St. Vincent and the Grenadines,914,23153,484,13454,2025,Other community and social service specialists,2,46,0.0034190575293592982
+St. Vincent and the Grenadines,914,23153,484,13454,9122,"Bus drivers, transit and intercity",3,46,0.0034190575293592982
+St. Vincent and the Grenadines,914,23153,484,13454,3840,Fish and game wardens and parking enforcement officers,2,45,0.003344730191764531
+St. Vincent and the Grenadines,914,23153,484,13454,0750,"Business operations specialists, all other",2,43,0.0031960755165749964
+St. Vincent and the Grenadines,914,23153,484,13454,7330,Industrial and refractory machinery mechanics,1,43,0.0031960755165749964
+St. Vincent and the Grenadines,914,23153,484,13454,2722,Coaches and scouts,2,42,0.003121748178980229
+St. Vincent and the Grenadines,914,23153,484,13454,5600,"Production, planning, and expediting clerks",1,42,0.003121748178980229
+St. Vincent and the Grenadines,914,23153,484,13454,3421,Pharmacy technicians,1,41,0.0030474208413854616
+St. Vincent and the Grenadines,914,23153,484,13454,4200,First-line supervisors of housekeeping and janitorial workers,2,41,0.0030474208413854616
+St. Vincent and the Grenadines,914,23153,484,13454,0850,Personal financial advisors,1,40,0.002973093503790694
+St. Vincent and the Grenadines,914,23153,484,13454,6700,Elevator installers and repairers,1,40,0.002973093503790694
+St. Vincent and the Grenadines,914,23153,484,13454,9005,Supervisors of transportation and material moving workers,1,40,0.002973093503790694
+St. Vincent and the Grenadines,914,23153,484,13454,0800,Accountants and auditors,3,39,0.002898766166195927
+St. Vincent and the Grenadines,914,23153,484,13454,3323,Radiologic technologists and technicians,1,39,0.002898766166195927
+St. Vincent and the Grenadines,914,23153,484,13454,3610,Occupational therapy assistants and aides,1,36,0.0026757841534116246
+St. Vincent and the Grenadines,914,23153,484,13454,8610,Stationary engineers and boiler operators,1,36,0.0026757841534116246
+St. Vincent and the Grenadines,914,23153,484,13454,5410,Reservation and transportation ticket agents and travel clerks,2,35,0.0026014568158168575
+St. Vincent and the Grenadines,914,23153,484,13454,0410,"Property, real estate, and community association managers",2,34,0.00252712947822209
+St. Vincent and the Grenadines,914,23153,484,13454,1551,Electrical and electronic engineering technologists and technicians,1,33,0.0024528021406273227
+St. Vincent and the Grenadines,914,23153,484,13454,2100,"Lawyers, and judges, magistrates, and other judicial workers",2,33,0.0024528021406273227
+St. Vincent and the Grenadines,914,23153,484,13454,2634,Graphic designers,1,33,0.0024528021406273227
+St. Vincent and the Grenadines,914,23153,484,13454,5110,Billing and posting clerks,1,33,0.0024528021406273227
+St. Vincent and the Grenadines,914,23153,484,13454,5730,Medical secretaries and administrative assistants,1,33,0.0024528021406273227
+St. Vincent and the Grenadines,914,23153,484,13454,1760,"Physical scientists, all other",2,31,0.002304147465437788
+St. Vincent and the Grenadines,914,23153,484,13454,5810,Data entry keyers,1,31,0.002304147465437788
+St. Vincent and the Grenadines,914,23153,484,13454,7350,"Maintenance workers, machinery",1,30,0.002229820127843021
+St. Vincent and the Grenadines,914,23153,484,13454,3300,Clinical laboratory technologists and technicians,2,29,0.0021554927902482533
+St. Vincent and the Grenadines,914,23153,484,13454,9760,Other material moving workers,1,29,0.0021554927902482533
+St. Vincent and the Grenadines,914,23153,484,13454,1050,Computer support specialists,1,28,0.002081165452653486
+St. Vincent and the Grenadines,914,23153,484,13454,4055,Fast food and counter workers,1,28,0.002081165452653486
+St. Vincent and the Grenadines,914,23153,484,13454,0726,Fundraisers,1,27,0.0020068381150587186
+St. Vincent and the Grenadines,914,23153,484,13454,4110,Waiters and waitresses,2,27,0.0020068381150587186
+St. Vincent and the Grenadines,914,23153,484,13454,3210,Recreational therapists,1,25,0.0018581834398691838
+St. Vincent and the Grenadines,914,23153,484,13454,5920,Statistical assistants,1,25,0.0018581834398691838
+St. Vincent and the Grenadines,914,23153,484,13454,4655,"Personal care and service workers, all other",1,24,0.0017838561022744165
+St. Vincent and the Grenadines,914,23153,484,13454,4710,First-line supervisors of non-retail sales workers,2,24,0.0017838561022744165
+St. Vincent and the Grenadines,914,23153,484,13454,5710,Executive secretaries and executive administrative assistants,1,24,0.0017838561022744165
+St. Vincent and the Grenadines,914,23153,484,13454,1006,Computer systems analysts,1,23,0.0017095287646796491
+St. Vincent and the Grenadines,914,23153,484,13454,3802,Correctional officers and jailers,1,23,0.0017095287646796491
+St. Vincent and the Grenadines,914,23153,484,13454,4820,"Securities, commodities, and financial services sales agents",1,23,0.0017095287646796491
+St. Vincent and the Grenadines,914,23153,484,13454,2600,Artists and related workers,1,22,0.0016352014270848818
+St. Vincent and the Grenadines,914,23153,484,13454,4140,Dishwashers,1,22,0.0016352014270848818
+St. Vincent and the Grenadines,914,23153,484,13454,7140,Aircraft mechanics and service technicians,1,22,0.0016352014270848818
+St. Vincent and the Grenadines,914,23153,484,13454,1530,Other engineers,1,21,0.0015608740894901144
+St. Vincent and the Grenadines,914,23153,484,13454,4030,Food preparation workers,2,21,0.0015608740894901144
+St. Vincent and the Grenadines,914,23153,484,13454,3710,First-line supervisors of police and detectives,1,20,0.001486546751895347
+St. Vincent and the Grenadines,914,23153,484,13454,5140,Payroll and timekeeping clerks,1,20,0.001486546751895347
+St. Vincent and the Grenadines,914,23153,484,13454,6410,Painters and paperhangers,1,20,0.001486546751895347
+St. Vincent and the Grenadines,914,23153,484,13454,7120,Electronic home entertainment equipment installers and repairers,1,20,0.001486546751895347
+St. Vincent and the Grenadines,914,23153,484,13454,0640,"Compensation, benefits, and job analysis specialists",1,19,0.0014122194143005797
+St. Vincent and the Grenadines,914,23153,484,13454,3120,Podiatrists,1,19,0.0014122194143005797
+St. Vincent and the Grenadines,914,23153,484,13454,4622,Recreation workers,1,19,0.0014122194143005797
+St. Vincent and the Grenadines,914,23153,484,13454,2040,Clergy,1,18,0.0013378920767058123
+St. Vincent and the Grenadines,914,23153,484,13454,8990,"Miscellaneous production workers, including equipment operators and tenders",1,18,0.0013378920767058123
+St. Vincent and the Grenadines,914,23153,484,13454,1360,Civil engineers,1,17,0.001263564739111045
+St. Vincent and the Grenadines,914,23153,484,13454,2710,Producers and directors,1,17,0.001263564739111045
+St. Vincent and the Grenadines,914,23153,484,13454,3640,Dental assistants,1,17,0.001263564739111045
+St. Vincent and the Grenadines,914,23153,484,13454,3647,Pharmacy aides,1,17,0.001263564739111045
+St. Vincent and the Grenadines,914,23153,484,13454,1420,Environmental engineers,1,16,0.0011892374015162776
+St. Vincent and the Grenadines,914,23153,484,13454,5610,"Shipping, receiving, and inventory clerks",1,16,0.0011892374015162776
+St. Vincent and the Grenadines,914,23153,484,13454,0160,"Transportation, storage, and distribution managers",1,15,0.0011149100639215104
+St. Vincent and the Grenadines,914,23153,484,13454,5350,Correspondence clerks and order clerks,1,15,0.0011149100639215104
+St. Vincent and the Grenadines,914,23153,484,13454,0530,"Purchasing agents, except wholesale, retail, and farm products",1,14,0.001040582726326743
+St. Vincent and the Grenadines,914,23153,484,13454,1010,Computer programmers,1,14,0.001040582726326743
+St. Vincent and the Grenadines,914,23153,484,13454,1555,"Other engineering technologists and technicians, except drafters",1,14,0.001040582726326743
+St. Vincent and the Grenadines,914,23153,484,13454,3649,Phlebotomists,1,14,0.001040582726326743
+St. Vincent and the Grenadines,914,23153,484,13454,3960,Other protective service workers,1,14,0.001040582726326743
+St. Vincent and the Grenadines,914,23153,484,13454,4240,Pest control workers,1,14,0.001040582726326743
+St. Vincent and the Grenadines,914,23153,484,13454,4830,Travel agents,1,14,0.001040582726326743
+St. Vincent and the Grenadines,914,23153,484,13454,4850,"Sales representatives, wholesale and manufacturing",1,14,0.001040582726326743
+St. Vincent and the Grenadines,914,23153,484,13454,3655,Other healthcare support workers,1,13,9.662553887319756e-4
+St. Vincent and the Grenadines,914,23153,484,13454,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,13,9.662553887319756e-4
+St. Vincent and the Grenadines,914,23153,484,13454,5420,Other information and records clerks,1,13,9.662553887319756e-4
+St. Vincent and the Grenadines,914,23153,484,13454,1022,Software quality assurance analysts and testers,1,12,8.919280511372082e-4
+St. Vincent and the Grenadines,914,23153,484,13454,3945,Transportation security screeners,1,12,8.919280511372082e-4
+St. Vincent and the Grenadines,914,23153,484,13454,0860,Insurance underwriters,1,11,8.176007135424409e-4
+St. Vincent and the Grenadines,914,23153,484,13454,0910,Credit counselors and loan officers,1,11,8.176007135424409e-4
+St. Vincent and the Grenadines,914,23153,484,13454,1825,Other psychologists,1,11,8.176007135424409e-4
+St. Vincent and the Grenadines,914,23153,484,13454,4965,"Sales and related workers, all other",1,11,8.176007135424409e-4
+St. Vincent and the Grenadines,914,23153,484,13454,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,11,8.176007135424409e-4
+St. Vincent and the Grenadines,914,23153,484,13454,7020,Radio and telecommunications equipment installers and repairers,2,11,8.176007135424409e-4
+St. Vincent and the Grenadines,914,23153,484,13454,7200,Automotive service technicians and mechanics,1,11,8.176007135424409e-4
+St. Vincent and the Grenadines,914,23153,484,13454,1007,Information security analysts,1,10,7.432733759476735e-4
+St. Vincent and the Grenadines,914,23153,484,13454,1021,Software developers,1,10,7.432733759476735e-4
+St. Vincent and the Grenadines,914,23153,484,13454,2011,"Child, family, and school social workers",1,10,7.432733759476735e-4
+St. Vincent and the Grenadines,914,23153,484,13454,3030,Dietitians and nutritionists,1,10,7.432733759476735e-4
+St. Vincent and the Grenadines,914,23153,484,13454,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",1,10,7.432733759476735e-4
+St. Vincent and the Grenadines,914,23153,484,13454,6330,"Drywall installers, ceiling tile installers, and tapers",1,10,7.432733759476735e-4
+St. Vincent and the Grenadines,914,23153,484,13454,9800,Military officer special and tactical operations leaders,1,10,7.432733759476735e-4
+St. Vincent and the Grenadines,914,23153,484,13454,3160,Physical therapists,1,9,6.689460383529062e-4
+St. Vincent and the Grenadines,914,23153,484,13454,3230,Speech-language pathologists,1,5,3.7163668797383676e-4
+St. Vincent and the Grenadines,914,23153,484,13454,8710,Cutting workers,1,4,2.973093503790694e-4
+St. Vincent and the Grenadines,914,23153,484,13454,9210,Locomotive engineers and operators,1,4,2.973093503790694e-4
+St. Vincent and the Grenadines,914,23153,484,13454,3402,Paramedics,1,1,7.432733759476735e-5
+St. Vincent and the Grenadines,914,23153,484,13454,5260,File clerks,1,1,7.432733759476735e-5

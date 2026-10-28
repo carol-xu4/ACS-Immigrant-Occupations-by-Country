@@ -1,235 +1,263 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Barbados,2007,49805,842,23548,4220,Janitors and building cleaners,23,692,0.02938678444029217
-Barbados,2007,49805,842,23548,3603,Nursing assistants,22,667,0.02832512315270936
-Barbados,2007,49805,842,23548,3930,Security guards and gaming surveillance officers,19,663,0.02815525734669611
-Barbados,2007,49805,842,23548,0440,Other managers,27,653,0.027730592831662987
-Barbados,2007,49805,842,23548,5240,Customer service representatives,19,552,0.023441481229828434
-Barbados,2007,49805,842,23548,4230,Maids and housekeeping cleaners,10,501,0.021275692203159505
-Barbados,2007,49805,842,23548,3255,Registered nurses,29,497,0.021105826397146255
-Barbados,2007,49805,842,23548,5110,Billing and posting clerks,7,493,0.020935960591133004
-Barbados,2007,49805,842,23548,3870,Police officers,12,468,0.019874299303550197
-Barbados,2007,49805,842,23548,4760,Retail salespersons,11,454,0.01927976898250382
-Barbados,2007,49805,842,23548,4600,Childcare workers,9,431,0.018303040597927638
-Barbados,2007,49805,842,23548,0630,Human resources workers,15,380,0.016137251571258705
-Barbados,2007,49805,842,23548,4700,First-line supervisors of retail sales workers,14,376,0.015967385765245454
-Barbados,2007,49805,842,23548,5400,Receptionists and information clerks,8,364,0.015457788347205707
-Barbados,2007,49805,842,23548,0800,Accountants and auditors,13,361,0.01533038899269577
-Barbados,2007,49805,842,23548,3602,Personal care aides,14,338,0.014353660608119585
-Barbados,2007,49805,842,23548,3601,Home health aides,12,326,0.013844063190079837
-Barbados,2007,49805,842,23548,5860,"Office clerks, general",11,322,0.013674197384066587
-Barbados,2007,49805,842,23548,9130,Driver/sales workers and truck drivers,15,298,0.01265500254798709
-Barbados,2007,49805,842,23548,9620,"Laborers and freight, stock, and material movers, hand",11,293,0.012442670290470529
-Barbados,2007,49805,842,23548,4920,Real estate brokers and sales agents,7,287,0.012187871581450654
-Barbados,2007,49805,842,23548,2310,Elementary and middle school teachers,15,286,0.01214540512994734
-Barbados,2007,49805,842,23548,5740,"Secretaries and administrative assistants, except legal, medical, and executive",10,264,0.01121114319687447
-Barbados,2007,49805,842,23548,9640,"Packers and packagers, hand",5,260,0.011041277390861219
-Barbados,2007,49805,842,23548,1108,"Computer occupations, all other",6,259,0.010998810939357907
-Barbados,2007,49805,842,23548,9645,Stockers and order fillers,7,240,0.010191948360794971
-Barbados,2007,49805,842,23548,6230,Carpenters,8,236,0.010022082554781722
-Barbados,2007,49805,842,23548,1021,Software developers,10,218,0.0092576864277221
-Barbados,2007,49805,842,23548,0020,General and operations managers,5,211,0.008960421267198914
-Barbados,2007,49805,842,23548,3090,Physicians,6,208,0.008833021912688976
-Barbados,2007,49805,842,23548,5610,"Shipping, receiving, and inventory clerks",4,192,0.008153558688635978
-Barbados,2007,49805,842,23548,2545,Teaching assistants,9,191,0.0081110922371326645
-Barbados,2007,49805,842,23548,0310,Food service managers,4,186,0.007898759979616104
-Barbados,2007,49805,842,23548,4020,Cooks,8,185,0.007856293528112792
-Barbados,2007,49805,842,23548,5120,"Bookkeeping, accounting, and auditing clerks",6,184,0.007813827076609478
-Barbados,2007,49805,842,23548,6355,Electricians,7,171,0.007261763207066418
-Barbados,2007,49805,842,23548,0010,Chief executives and legislators,7,170,0.007219296755563105
-Barbados,2007,49805,842,23548,6442,"Plumbers, pipefitters, and steamfitters",2,167,0.007091897401053168
-Barbados,2007,49805,842,23548,2016,Social and human service assistants,5,164,0.006964498046543231
-Barbados,2007,49805,842,23548,3655,Other healthcare support workers,5,162,0.006879565143536606
-Barbados,2007,49805,842,23548,0750,"Business operations specialists, all other",4,161,0.006837098692033293
-Barbados,2007,49805,842,23548,4720,Cashiers,6,160,0.0067946322405299815
-Barbados,2007,49805,842,23548,4110,Waiters and waitresses,1,157,0.006667232886020044
-Barbados,2007,49805,842,23548,9122,"Bus drivers, transit and intercity",6,157,0.006667232886020044
-Barbados,2007,49805,842,23548,1006,Computer systems analysts,5,153,0.006497367080006795
-Barbados,2007,49805,842,23548,4820,"Securities, commodities, and financial services sales agents",1,145,0.006157635467980296
-Barbados,2007,49805,842,23548,6260,Construction laborers,5,141,0.005987769661967046
-Barbados,2007,49805,842,23548,2014,"Social workers, all other",7,135,0.005732970952947172
-Barbados,2007,49805,842,23548,4200,First-line supervisors of housekeeping and janitorial workers,4,134,0.005690504501443859
-Barbados,2007,49805,842,23548,0120,Financial managers,6,130,0.005520638695430609
-Barbados,2007,49805,842,23548,2205,Postsecondary teachers,5,130,0.005520638695430609
-Barbados,2007,49805,842,23548,0051,Marketing managers,2,129,0.0054781722439272975
-Barbados,2007,49805,842,23548,3945,Transportation security screeners,1,126,0.00535077288941736
-Barbados,2007,49805,842,23548,0700,Logisticians,2,122,0.005180907083404111
-Barbados,2007,49805,842,23548,0710,Management analysts,5,119,0.005053507728894174
-Barbados,2007,49805,842,23548,0220,Construction managers,3,116,0.0049261083743842365
-Barbados,2007,49805,842,23548,5940,Other office and administrative support workers,4,115,0.004883641922880924
-Barbados,2007,49805,842,23548,0850,Personal financial advisors,2,114,0.004841175471377612
-Barbados,2007,49805,842,23548,2100,"Lawyers, and judges, magistrates, and other judicial workers",7,107,0.004543910310854425
-Barbados,2007,49805,842,23548,4030,Food preparation workers,3,106,0.004501443859351113
-Barbados,2007,49805,842,23548,4850,"Sales representatives, wholesale and manufacturing",4,106,0.004501443859351113
-Barbados,2007,49805,842,23548,4000,Chefs and head cooks,2,103,0.0043740445048411755
-Barbados,2007,49805,842,23548,1050,Computer support specialists,5,102,0.004331578053337863
-Barbados,2007,49805,842,23548,2145,Paralegals and legal assistants,4,102,0.004331578053337863
-Barbados,2007,49805,842,23548,0420,Social and community service managers,5,100,0.004246645150331238
-Barbados,2007,49805,842,23548,1360,Civil engineers,2,100,0.004246645150331238
-Barbados,2007,49805,842,23548,1720,Chemists and materials scientists,1,99,0.004204178698827926
-Barbados,2007,49805,842,23548,2360,Other teachers and instructors,22,99,0.004204178698827926
-Barbados,2007,49805,842,23548,2350,Tutors,2,98,0.004161712247324614
-Barbados,2007,49805,842,23548,5540,Postal service clerks,2,97,0.004119245795821301
-Barbados,2007,49805,842,23548,1530,Other engineers,6,96,0.004076779344317989
-Barbados,2007,49805,842,23548,3323,Radiologic technologists and technicians,2,95,0.004034312892814676
-Barbados,2007,49805,842,23548,3430,Dietetic technicians and ophthalmic medical technicians,2,93,0.003949379989808052
-Barbados,2007,49805,842,23548,7200,Automotive service technicians and mechanics,3,92,0.003906913538304739
-Barbados,2007,49805,842,23548,0110,Computer and information systems managers,5,90,0.0038219806352981145
-Barbados,2007,49805,842,23548,3645,Medical assistants,4,90,0.0038219806352981145
-Barbados,2007,49805,842,23548,7140,Aircraft mechanics and service technicians,3,90,0.0038219806352981145
-Barbados,2007,49805,842,23548,3740,Firefighters,1,89,0.003779514183794802
-Barbados,2007,49805,842,23548,4810,Insurance sales agents,3,89,0.003779514183794802
-Barbados,2007,49805,842,23548,0705,Project management specialists,4,87,0.003694581280788177
-Barbados,2007,49805,842,23548,5510,Couriers and messengers,2,85,0.0036096483777815526
-Barbados,2007,49805,842,23548,2015,Probation officers and correctional treatment specialists,2,84,0.0035671819262782403
-Barbados,2007,49805,842,23548,3421,Pharmacy technicians,1,81,0.003439782571768303
-Barbados,2007,49805,842,23548,5710,Executive secretaries and executive administrative assistants,4,80,0.0033973161202649907
-Barbados,2007,49805,842,23548,7810,"Butchers and other meat, poultry, and fish processing workers",2,80,0.0033973161202649907
-Barbados,2007,49805,842,23548,0350,Medical and health services managers,5,79,0.0033548496687616784
-Barbados,2007,49805,842,23548,2011,"Child, family, and school social workers",2,79,0.0033548496687616784
-Barbados,2007,49805,842,23548,4330,Supervisors of personal care and service workers,1,79,0.0033548496687616784
-Barbados,2007,49805,842,23548,0230,Education and childcare administrators,6,78,0.0033123832172583657
-Barbados,2007,49805,842,23548,2012,Healthcare social workers,2,78,0.0033123832172583657
-Barbados,2007,49805,842,23548,8610,Stationary engineers and boiler operators,2,76,0.003227450314251741
-Barbados,2007,49805,842,23548,8140,"Welding, soldering, and brazing workers",3,75,0.003184983862748429
-Barbados,2007,49805,842,23548,9610,Cleaners of vehicles and equipment,2,75,0.003184983862748429
-Barbados,2007,49805,842,23548,0565,Compliance officers,2,73,0.003100050959741804
-Barbados,2007,49805,842,23548,2320,Secondary school teachers,5,72,0.0030575845082384916
-Barbados,2007,49805,842,23548,7010,"Computer, automated teller, and office machine repairers",3,72,0.0030575845082384916
-Barbados,2007,49805,842,23548,1106,Computer network architects,1,71,0.0030151180567351793
-Barbados,2007,49805,842,23548,3910,Private detectives and investigators,1,71,0.0030151180567351793
-Barbados,2007,49805,842,23548,9142,Taxi drivers,2,71,0.0030151180567351793
-Barbados,2007,49805,842,23548,1220,Operations research analysts,3,70,0.002972651605231867
-Barbados,2007,49805,842,23548,4251,Landscaping and groundskeeping workers,4,70,0.002972651605231867
-Barbados,2007,49805,842,23548,3422,Psychiatric technicians,2,68,0.002887718702225242
-Barbados,2007,49805,842,23548,5522,"Dispatchers, except police, fire, and ambulance",1,68,0.002887718702225242
-Barbados,2007,49805,842,23548,4120,"Food servers, nonrestaurant",2,66,0.0028027857992186174
-Barbados,2007,49805,842,23548,1430,"Industrial engineers, including health and safety",1,65,0.0027603193477153047
-Barbados,2007,49805,842,23548,0137,Training and development managers,2,61,0.0025904535417020555
-Barbados,2007,49805,842,23548,5000,First-line supervisors of office and administrative support workers,4,60,0.002547987090198743
-Barbados,2007,49805,842,23548,2721,Athletes and sports competitors,1,59,0.0025055206386954305
-Barbados,2007,49805,842,23548,2300,Preschool and kindergarten teachers,4,58,0.0024630541871921183
-Barbados,2007,49805,842,23548,3010,Dentists,1,58,0.0024630541871921183
-Barbados,2007,49805,842,23548,3300,Clinical laboratory technologists and technicians,4,58,0.0024630541871921183
-Barbados,2007,49805,842,23548,4710,First-line supervisors of non-retail sales workers,2,58,0.0024630541871921183
-Barbados,2007,49805,842,23548,5730,Medical secretaries and administrative assistants,1,58,0.0024630541871921183
-Barbados,2007,49805,842,23548,0102,Facilities managers,2,57,0.002420587735688806
-Barbados,2007,49805,842,23548,5250,"Eligibility interviewers, government programs",2,57,0.002420587735688806
-Barbados,2007,49805,842,23548,0052,Sales managers,3,54,0.0022931883811788687
-Barbados,2007,49805,842,23548,5310,"Interviewers, except eligibility and loan",2,54,0.0022931883811788687
-Barbados,2007,49805,842,23548,9210,Locomotive engineers and operators,2,52,0.002208255478172244
-Barbados,2007,49805,842,23548,1745,"Environmental scientists and specialists, including health",1,50,0.002123322575165619
-Barbados,2007,49805,842,23548,7000,"First-line supervisors of mechanics, installers, and repairers",3,50,0.002123322575165619
-Barbados,2007,49805,842,23548,7340,"Maintenance and repair workers, general",1,50,0.002123322575165619
-Barbados,2007,49805,842,23548,9430,Other transportation workers,1,50,0.002123322575165619
-Barbados,2007,49805,842,23548,8990,"Miscellaneous production workers, including equipment operators and tenders",2,49,0.002080856123662307
-Barbados,2007,49805,842,23548,1555,"Other engineering technologists and technicians, except drafters",2,48,0.0020383896721589945
-Barbados,2007,49805,842,23548,6410,Painters and paperhangers,2,48,0.0020383896721589945
-Barbados,2007,49805,842,23548,7700,First-line supervisors of production and operating workers,3,48,0.0020383896721589945
-Barbados,2007,49805,842,23548,8740,"Inspectors, testers, sorters, samplers, and weighers",4,48,0.0020383896721589945
-Barbados,2007,49805,842,23548,0910,Credit counselors and loan officers,2,47,0.001995923220655682
-Barbados,2007,49805,842,23548,2004,Mental health counselors,1,47,0.001995923220655682
-Barbados,2007,49805,842,23548,3946,School bus monitors,1,47,0.001995923220655682
-Barbados,2007,49805,842,23548,0540,"Claims adjusters, appraisers, examiners, and investigators",1,46,0.0019534567691523695
-Barbados,2007,49805,842,23548,9720,Refuse and recyclable material collectors,2,45,0.0019109903176490572
-Barbados,2007,49805,842,23548,3940,Crossing guards and flaggers,3,44,0.001868523866145745
-Barbados,2007,49805,842,23548,4655,"Personal care and service workers, all other",2,44,0.001868523866145745
-Barbados,2007,49805,842,23548,7640,"Other installation, maintenance, and repair workers",2,44,0.001868523866145745
-Barbados,2007,49805,842,23548,7840,Food batchmakers,1,43,0.0018260574146424324
-Barbados,2007,49805,842,23548,3000,Chiropractors,1,42,0.0017835909631391202
-Barbados,2007,49805,842,23548,3620,Physical therapist assistants and aides,1,42,0.0017835909631391202
-Barbados,2007,49805,842,23548,5300,"Hotel, motel, and resort desk clerks",1,41,0.0017411245116358076
-Barbados,2007,49805,842,23548,2905,Other media and communication equipment workers,1,40,0.0016986580601324954
-Barbados,2007,49805,842,23548,2040,Clergy,3,38,0.0016137251571258706
-Barbados,2007,49805,842,23548,2555,Other educational instruction and library workers,1,38,0.0016137251571258706
-Barbados,2007,49805,842,23548,4510,"Hairdressers, hairstylists, and cosmetologists",1,38,0.0016137251571258706
-Barbados,2007,49805,842,23548,5900,"Office machine operators, except computer",1,38,0.0016137251571258706
-Barbados,2007,49805,842,23548,1650,Other life scientists,2,37,0.0015712587056225583
-Barbados,2007,49805,842,23548,3801,Bailiffs,2,37,0.0015712587056225583
-Barbados,2007,49805,842,23548,5140,Payroll and timekeeping clerks,2,37,0.0015712587056225583
-Barbados,2007,49805,842,23548,8640,"Chemical processing machine setters, operators, and tenders",2,37,0.0015712587056225583
-Barbados,2007,49805,842,23548,9121,"Bus drivers, school",1,37,0.0015712587056225583
-Barbados,2007,49805,842,23548,3256,Nurse anesthetists,1,36,0.0015287922541192458
-Barbados,2007,49805,842,23548,3550,Other healthcare practitioners and technical occupations,2,36,0.0015287922541192458
-Barbados,2007,49805,842,23548,0425,Emergency management directors,1,35,0.0014863258026159335
-Barbados,2007,49805,842,23548,1970,"Other life, physical, and social science technicians",2,34,0.001443859351112621
-Barbados,2007,49805,842,23548,4530,"Baggage porters, bellhops, and concierges",1,34,0.001443859351112621
-Barbados,2007,49805,842,23548,5600,"Production, planning, and expediting clerks",2,34,0.001443859351112621
-Barbados,2007,49805,842,23548,7315,"Heating, air conditioning, and refrigeration mechanics and installers",2,34,0.001443859351112621
-Barbados,2007,49805,842,23548,3040,Optometrists,1,33,0.0014013928996093087
-Barbados,2007,49805,842,23548,3150,Occupational therapists,1,33,0.0014013928996093087
-Barbados,2007,49805,842,23548,3515,Medical records specialists,2,33,0.0014013928996093087
-Barbados,2007,49805,842,23548,3545,Miscellaneous health technologists and technicians,2,30,0.0012739935450993714
-Barbados,2007,49805,842,23548,4010,First-line supervisors of food preparation and serving workers,2,30,0.0012739935450993714
-Barbados,2007,49805,842,23548,5160,Tellers,1,30,0.0012739935450993714
-Barbados,2007,49805,842,23548,0500,"Agents and business managers of artists, performers, and athletes",1,28,0.0011890606420927466
-Barbados,2007,49805,842,23548,9150,"Motor vehicle operators, all other",1,28,0.0011890606420927466
-Barbados,2007,49805,842,23548,0300,Architectural and engineering managers,1,27,0.0011465941905894343
-Barbados,2007,49805,842,23548,2722,Coaches and scouts,2,27,0.0011465941905894343
-Barbados,2007,49805,842,23548,3245,Other therapists,1,27,0.0011465941905894343
-Barbados,2007,49805,842,23548,6200,First-line supervisors of construction trades and extraction workers,3,27,0.0011465941905894343
-Barbados,2007,49805,842,23548,5850,"Mail clerks and mail machine operators, except postal service",1,26,0.001104127739086122
-Barbados,2007,49805,842,23548,9415,Passenger attendants,1,26,0.001104127739086122
-Barbados,2007,49805,842,23548,9600,Industrial truck and tractor operators,1,25,0.0010616612875828095
-Barbados,2007,49805,842,23548,4400,Gambling services workers,1,24,0.0010191948360794973
-Barbados,2007,49805,842,23548,9240,Railroad conductors and yardmasters,1,24,0.0010191948360794973
-Barbados,2007,49805,842,23548,3725,"Miscellaneous first-line supervisors, protective service workers",2,23,9.767283845761848e-4
-Barbados,2007,49805,842,23548,9265,Other rail transportation workers,1,23,9.767283845761848e-4
-Barbados,2007,49805,842,23548,0960,Other financial specialists,1,22,9.342619330728725e-4
-Barbados,2007,49805,842,23548,1825,Other psychologists,1,22,9.342619330728725e-4
-Barbados,2007,49805,842,23548,5220,"Court, municipal, and license clerks",1,22,9.342619330728725e-4
-Barbados,2007,49805,842,23548,0845,Financial and investment analysts,1,21,8.917954815695601e-4
-Barbados,2007,49805,842,23548,3640,Dental assistants,2,21,8.917954815695601e-4
-Barbados,2007,49805,842,23548,3647,Pharmacy aides,1,21,8.917954815695601e-4
-Barbados,2007,49805,842,23548,8650,"Crushing, grinding, polishing, mixing, and blending workers",1,21,8.917954815695601e-4
-Barbados,2007,49805,842,23548,0101,Administrative services managers,1,19,8.068625785629353e-4
-Barbados,2007,49805,842,23548,0650,Training and development specialists,2,19,8.068625785629353e-4
-Barbados,2007,49805,842,23548,1800,Economists,1,19,8.068625785629353e-4
-Barbados,2007,49805,842,23548,7800,Bakers,1,19,8.068625785629353e-4
-Barbados,2007,49805,842,23548,0410,"Property, real estate, and community association managers",1,18,7.643961270596229e-4
-Barbados,2007,49805,842,23548,2850,Writers and authors,1,18,7.643961270596229e-4
-Barbados,2007,49805,842,23548,3310,Dental hygienists,1,18,7.643961270596229e-4
-Barbados,2007,49805,842,23548,4240,Pest control workers,1,18,7.643961270596229e-4
-Barbados,2007,49805,842,23548,5330,Loan interviewers and clerks,1,18,7.643961270596229e-4
-Barbados,2007,49805,842,23548,6400,Insulation workers,1,18,7.643961270596229e-4
-Barbados,2007,49805,842,23548,9830,"Military, rank not specified",1,18,7.643961270596229e-4
-Barbados,2007,49805,842,23548,0520,"Wholesale and retail buyers, except farm products",2,17,7.219296755563105e-4
-Barbados,2007,49805,842,23548,2600,Artists and related workers,1,17,7.219296755563105e-4
-Barbados,2007,49805,842,23548,3110,Physician assistants,1,17,7.219296755563105e-4
-Barbados,2007,49805,842,23548,7210,Bus and truck mechanics and diesel engine specialists,1,17,7.219296755563105e-4
-Barbados,2007,49805,842,23548,9030,Aircraft pilots and flight engineers,1,17,7.219296755563105e-4
-Barbados,2007,49805,842,23548,0640,"Compensation, benefits, and job analysis specialists",1,16,6.794632240529981e-4
-Barbados,2007,49805,842,23548,1031,Web developers,1,16,6.794632240529981e-4
-Barbados,2007,49805,842,23548,1610,Biological scientists,1,16,6.794632240529981e-4
-Barbados,2007,49805,842,23548,4640,Residential advisors,1,16,6.794632240529981e-4
-Barbados,2007,49805,842,23548,2013,Mental health and substance abuse social workers,1,15,6.369967725496857e-4
-Barbados,2007,49805,842,23548,5100,Bill and account collectors,1,15,6.369967725496857e-4
-Barbados,2007,49805,842,23548,5360,"Human resources assistants, except payroll and timekeeping",1,15,6.369967725496857e-4
-Barbados,2007,49805,842,23548,5550,Postal service mail carriers,1,15,6.369967725496857e-4
-Barbados,2007,49805,842,23548,7330,Industrial and refractory machinery mechanics,1,15,6.369967725496857e-4
-Barbados,2007,49805,842,23548,3630,Massage therapists,1,14,5.945303210463733e-4
-Barbados,2007,49805,842,23548,8600,"Power plant operators, distributors, and dispatchers",1,14,5.945303210463733e-4
-Barbados,2007,49805,842,23548,1010,Computer programmers,1,13,5.52063869543061e-4
-Barbados,2007,49805,842,23548,1545,Other drafters,1,13,5.52063869543061e-4
-Barbados,2007,49805,842,23548,1860,Other social scientists,1,13,5.52063869543061e-4
-Barbados,2007,49805,842,23548,4055,Fast food and counter workers,2,13,5.52063869543061e-4
-Barbados,2007,49805,842,23548,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",1,13,5.52063869543061e-4
-Barbados,2007,49805,842,23548,5350,Correspondence clerks and order clerks,1,13,5.52063869543061e-4
-Barbados,2007,49805,842,23548,6050,Other agricultural workers,1,13,5.52063869543061e-4
-Barbados,2007,49805,842,23548,6305,Construction equipment operators,1,13,5.52063869543061e-4
-Barbados,2007,49805,842,23548,0136,Human resources managers,1,12,5.095974180397486e-4
-Barbados,2007,49805,842,23548,0860,Insurance underwriters,1,12,5.095974180397486e-4
-Barbados,2007,49805,842,23548,3802,Correctional officers and jailers,1,12,5.095974180397486e-4
-Barbados,2007,49805,842,23548,9510,Crane and tower operators,1,12,5.095974180397486e-4
-Barbados,2007,49805,842,23548,1551,Electrical and electronic engineering technologists and technicians,1,11,4.6713096653643624e-4
-Barbados,2007,49805,842,23548,1822,School psychologists,1,11,4.6713096653643624e-4
-Barbados,2007,49805,842,23548,2752,Musicians and singers,1,11,4.6713096653643624e-4
-Barbados,2007,49805,842,23548,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,11,4.6713096653643624e-4
-Barbados,2007,49805,842,23548,5840,Insurance claims and policy processing clerks,1,11,4.6713096653643624e-4
-Barbados,2007,49805,842,23548,0340,Lodging managers,1,10,4.2466451503312384e-4
-Barbados,2007,49805,842,23548,6700,Elevator installers and repairers,1,10,4.2466451503312384e-4
-Barbados,2007,49805,842,23548,1007,Information security analysts,1,9,3.8219806352981145e-4
-Barbados,2007,49805,842,23548,2640,Other designers,1,9,3.8219806352981145e-4
-Barbados,2007,49805,842,23548,2830,Editors,1,8,3.3973161202649905e-4
-Barbados,2007,49805,842,23548,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,8,3.3973161202649905e-4
-Barbados,2007,49805,842,23548,3324,Magnetic resonance imaging technologists,1,6,2.547987090198743e-4
-Barbados,2007,49805,842,23548,6835,"Explosives workers, ordnance handling experts, and blasters",1,6,2.547987090198743e-4
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Barbados,2007,49805,1020,27252,3603,Nursing assistants,26,811,0.02975928372229561
+Barbados,2007,49805,1020,27252,3930,Security guards and gaming surveillance officers,27,789,0.028952003522677235
+Barbados,2007,49805,1020,27252,4220,Janitors and building cleaners,26,734,0.026933803023631294
+Barbados,2007,49805,1020,27252,4230,Maids and housekeeping cleaners,19,727,0.026676941141934536
+Barbados,2007,49805,1020,27252,5240,Customer service representatives,24,691,0.02535593717892265
+Barbados,2007,49805,1020,27252,0440,Other managers,29,686,0.025172464406282107
+Barbados,2007,49805,1020,27252,9645,Stockers and order fillers,11,574,0.02106267429913401
+Barbados,2007,49805,1020,27252,3255,Registered nurses,33,556,0.020402172317628062
+Barbados,2007,49805,1020,27252,4760,Retail salespersons,16,537,0.01970497578159401
+Barbados,2007,49805,1020,27252,5110,Billing and posting clerks,7,493,0.01809041538235726
+Barbados,2007,49805,1020,27252,3870,Police officers,12,468,0.017173051519154558
+Barbados,2007,49805,1020,27252,4600,Childcare workers,10,456,0.01673271686481726
+Barbados,2007,49805,1020,27252,3601,Home health aides,20,455,0.016696022310289153
+Barbados,2007,49805,1020,27252,5860,"Office clerks, general",13,446,0.01636577131953618
+Barbados,2007,49805,1020,27252,0800,Accountants and auditors,17,425,0.015595185674445912
+Barbados,2007,49805,1020,27252,9130,Driver/sales workers and truck drivers,18,398,0.014604432702186995
+Barbados,2007,49805,1020,27252,5400,Receptionists and information clerks,10,392,0.014384265375018346
+Barbados,2007,49805,1020,27252,5740,"Secretaries and administrative assistants, except legal, medical, and executive",15,389,0.014274181711434023
+Barbados,2007,49805,1020,27252,4700,First-line supervisors of retail sales workers,15,384,0.014090708938793483
+Barbados,2007,49805,1020,27252,3602,Personal care aides,16,382,0.014017319829737267
+Barbados,2007,49805,1020,27252,0630,Human resources workers,15,380,0.013943930720681052
+Barbados,2007,49805,1020,27252,2310,Elementary and middle school teachers,17,317,0.011632173785410245
+Barbados,2007,49805,1020,27252,9620,"Laborers and freight, stock, and material movers, hand",12,297,0.010898282694848084
+Barbados,2007,49805,1020,27252,4920,Real estate brokers and sales agents,7,287,0.010531337149567005
+Barbados,2007,49805,1020,27252,1108,"Computer occupations, all other",7,280,0.010274475267870248
+Barbados,2007,49805,1020,27252,9640,"Packers and packagers, hand",5,260,0.009540584177308088
+Barbados,2007,49805,1020,27252,2545,Teaching assistants,11,257,0.009430500513723763
+Barbados,2007,49805,1020,27252,5610,"Shipping, receiving, and inventory clerks",5,242,0.008880082195802143
+Barbados,2007,49805,1020,27252,4020,Cooks,10,237,0.008696609423161602
+Barbados,2007,49805,1020,27252,6230,Carpenters,8,236,0.008659914868633494
+Barbados,2007,49805,1020,27252,6442,"Plumbers, pipefitters, and steamfitters",3,230,0.008439747541464846
+Barbados,2007,49805,1020,27252,1021,Software developers,10,218,0.007999412887127551
+Barbados,2007,49805,1020,27252,4720,Cashiers,9,218,0.007999412887127551
+Barbados,2007,49805,1020,27252,3090,Physicians,7,216,0.007926023778071334
+Barbados,2007,49805,1020,27252,0020,General and operations managers,5,211,0.007742551005430794
+Barbados,2007,49805,1020,27252,5120,"Bookkeeping, accounting, and auditing clerks",8,210,0.007705856450902686
+Barbados,2007,49805,1020,27252,0310,Food service managers,5,193,0.00708204902392485
+Barbados,2007,49805,1020,27252,9122,"Bus drivers, transit and intercity",8,190,0.006971965360340526
+Barbados,2007,49805,1020,27252,2016,Social and human service assistants,6,187,0.006861881696756202
+Barbados,2007,49805,1020,27252,6355,Electricians,8,178,0.006531630706003229
+Barbados,2007,49805,1020,27252,2205,Postsecondary teachers,8,174,0.006384852487890797
+Barbados,2007,49805,1020,27252,4110,Waiters and waitresses,2,173,0.006348157933362689
+Barbados,2007,49805,1020,27252,1006,Computer systems analysts,6,171,0.006274768824306473
+Barbados,2007,49805,1020,27252,0010,Chief executives and legislators,7,170,0.006238074269778365
+Barbados,2007,49805,1020,27252,3655,Other healthcare support workers,5,162,0.0059445178335535
+Barbados,2007,49805,1020,27252,0750,"Business operations specialists, all other",4,161,0.005907823279025393
+Barbados,2007,49805,1020,27252,5540,Postal service clerks,4,148,0.005430794070159988
+Barbados,2007,49805,1020,27252,5940,Other office and administrative support workers,6,147,0.00539409951563188
+Barbados,2007,49805,1020,27252,4820,"Securities, commodities, and financial services sales agents",1,145,0.005320710406575664
+Barbados,2007,49805,1020,27252,6260,Construction laborers,5,141,0.005173932188463232
+Barbados,2007,49805,1020,27252,2100,"Lawyers, and judges, magistrates, and other judicial workers",9,138,0.005063848524878908
+Barbados,2007,49805,1020,27252,5510,Couriers and messengers,5,137,0.0050271539703508
+Barbados,2007,49805,1020,27252,9142,Taxi drivers,5,137,0.0050271539703508
+Barbados,2007,49805,1020,27252,2014,"Social workers, all other",7,135,0.004953764861294584
+Barbados,2007,49805,1020,27252,4200,First-line supervisors of housekeeping and janitorial workers,4,134,0.004917070306766476
+Barbados,2007,49805,1020,27252,0120,Financial managers,6,130,0.004770292088654044
+Barbados,2007,49805,1020,27252,0051,Marketing managers,2,129,0.004733597534125935
+Barbados,2007,49805,1020,27252,3945,Transportation security screeners,1,126,0.004623513870541612
+Barbados,2007,49805,1020,27252,0700,Logisticians,2,122,0.004476735652429179
+Barbados,2007,49805,1020,27252,0710,Management analysts,5,119,0.004366651988844855
+Barbados,2007,49805,1020,27252,1050,Computer support specialists,6,118,0.004329957434316747
+Barbados,2007,49805,1020,27252,0220,Construction managers,3,116,0.004256568325260532
+Barbados,2007,49805,1020,27252,8610,Stationary engineers and boiler operators,4,116,0.004256568325260532
+Barbados,2007,49805,1020,27252,1530,Other engineers,7,115,0.004219873770732423
+Barbados,2007,49805,1020,27252,2145,Paralegals and legal assistants,5,115,0.004219873770732423
+Barbados,2007,49805,1020,27252,0850,Personal financial advisors,2,114,0.004183179216204315
+Barbados,2007,49805,1020,27252,4810,Insurance sales agents,4,114,0.004183179216204315
+Barbados,2007,49805,1020,27252,2360,Other teachers and instructors,23,113,0.0041464846616762075
+Barbados,2007,49805,1020,27252,0350,Medical and health services managers,8,110,0.004036400998091883
+Barbados,2007,49805,1020,27252,1360,Civil engineers,3,109,0.0039997064435637756
+Barbados,2007,49805,1020,27252,0230,Education and childcare administrators,8,108,0.003963011889035667
+Barbados,2007,49805,1020,27252,4030,Food preparation workers,3,106,0.003889622779979451
+Barbados,2007,49805,1020,27252,4850,"Sales representatives, wholesale and manufacturing",4,106,0.003889622779979451
+Barbados,2007,49805,1020,27252,4000,Chefs and head cooks,2,103,0.0037795391163951268
+Barbados,2007,49805,1020,27252,0420,Social and community service managers,5,100,0.003669455452810803
+Barbados,2007,49805,1020,27252,1720,Chemists and materials scientists,1,99,0.003632760898282695
+Barbados,2007,49805,1020,27252,2350,Tutors,2,98,0.0035960663437545866
+Barbados,2007,49805,1020,27252,3323,Radiologic technologists and technicians,2,95,0.003485982680170263
+Barbados,2007,49805,1020,27252,6410,Painters and paperhangers,3,94,0.0034492881256421547
+Barbados,2007,49805,1020,27252,3430,Dietetic technicians and ophthalmic medical technicians,2,93,0.0034125935711140465
+Barbados,2007,49805,1020,27252,5710,Executive secretaries and executive administrative assistants,5,93,0.0034125935711140465
+Barbados,2007,49805,1020,27252,2300,Preschool and kindergarten teachers,6,92,0.0033758990165859387
+Barbados,2007,49805,1020,27252,7200,Automotive service technicians and mechanics,3,92,0.0033758990165859387
+Barbados,2007,49805,1020,27252,8140,"Welding, soldering, and brazing workers",4,91,0.0033392044620578305
+Barbados,2007,49805,1020,27252,0110,Computer and information systems managers,5,90,0.0033025099075297227
+Barbados,2007,49805,1020,27252,3645,Medical assistants,4,90,0.0033025099075297227
+Barbados,2007,49805,1020,27252,7140,Aircraft mechanics and service technicians,3,90,0.0033025099075297227
+Barbados,2007,49805,1020,27252,0845,Financial and investment analysts,4,89,0.0032658153530016145
+Barbados,2007,49805,1020,27252,3740,Firefighters,1,89,0.0032658153530016145
+Barbados,2007,49805,1020,27252,0705,Project management specialists,4,87,0.0031924262439453985
+Barbados,2007,49805,1020,27252,0565,Compliance officers,3,86,0.0031557316894172903
+Barbados,2007,49805,1020,27252,2015,Probation officers and correctional treatment specialists,2,84,0.0030823425803610744
+Barbados,2007,49805,1020,27252,3940,Crossing guards and flaggers,6,83,0.0030456480258329666
+Barbados,2007,49805,1020,27252,3421,Pharmacy technicians,1,81,0.00297225891677675
+Barbados,2007,49805,1020,27252,7810,"Butchers and other meat, poultry, and fish processing workers",2,80,0.0029355643622486424
+Barbados,2007,49805,1020,27252,2011,"Child, family, and school social workers",2,79,0.0028988698077205342
+Barbados,2007,49805,1020,27252,4330,Supervisors of personal care and service workers,1,79,0.0028988698077205342
+Barbados,2007,49805,1020,27252,2012,Healthcare social workers,2,78,0.0028621752531924264
+Barbados,2007,49805,1020,27252,9610,Cleaners of vehicles and equipment,2,75,0.0027520915896081023
+Barbados,2007,49805,1020,27252,2320,Secondary school teachers,5,72,0.002642007926023778
+Barbados,2007,49805,1020,27252,7010,"Computer, automated teller, and office machine repairers",3,72,0.002642007926023778
+Barbados,2007,49805,1020,27252,1106,Computer network architects,1,71,0.00260531337149567
+Barbados,2007,49805,1020,27252,3910,Private detectives and investigators,1,71,0.00260531337149567
+Barbados,2007,49805,1020,27252,1220,Operations research analysts,3,70,0.002568618816967562
+Barbados,2007,49805,1020,27252,4251,Landscaping and groundskeeping workers,4,70,0.002568618816967562
+Barbados,2007,49805,1020,27252,5000,First-line supervisors of office and administrative support workers,5,70,0.002568618816967562
+Barbados,2007,49805,1020,27252,3422,Psychiatric technicians,2,68,0.002495229707911346
+Barbados,2007,49805,1020,27252,5522,"Dispatchers, except police, fire, and ambulance",1,68,0.002495229707911346
+Barbados,2007,49805,1020,27252,3300,Clinical laboratory technologists and technicians,5,66,0.0024218405988551297
+Barbados,2007,49805,1020,27252,4120,"Food servers, nonrestaurant",2,66,0.0024218405988551297
+Barbados,2007,49805,1020,27252,1430,"Industrial engineers, including health and safety",1,65,0.002385146044327022
+Barbados,2007,49805,1020,27252,0137,Training and development managers,2,61,0.0022383678262145896
+Barbados,2007,49805,1020,27252,2060,"Religious workers, all other",1,61,0.0022383678262145896
+Barbados,2007,49805,1020,27252,3500,Licensed practical and licensed vocational nurses,3,61,0.0022383678262145896
+Barbados,2007,49805,1020,27252,0910,Credit counselors and loan officers,3,60,0.002201673271686482
+Barbados,2007,49805,1020,27252,2721,Athletes and sports competitors,1,59,0.0021649787171583736
+Barbados,2007,49805,1020,27252,3010,Dentists,1,58,0.002128284162630266
+Barbados,2007,49805,1020,27252,4710,First-line supervisors of non-retail sales workers,2,58,0.002128284162630266
+Barbados,2007,49805,1020,27252,5730,Medical secretaries and administrative assistants,1,58,0.002128284162630266
+Barbados,2007,49805,1020,27252,0102,Facilities managers,2,57,0.0020915896081021576
+Barbados,2007,49805,1020,27252,5250,"Eligibility interviewers, government programs",2,57,0.0020915896081021576
+Barbados,2007,49805,1020,27252,9121,"Bus drivers, school",2,56,0.0020548950535740494
+Barbados,2007,49805,1020,27252,0052,Sales managers,3,54,0.0019815059445178335
+Barbados,2007,49805,1020,27252,5310,"Interviewers, except eligibility and loan",2,54,0.0019815059445178335
+Barbados,2007,49805,1020,27252,9210,Locomotive engineers and operators,2,52,0.0019081168354616175
+Barbados,2007,49805,1020,27252,1745,"Environmental scientists and specialists, including health",1,50,0.0018347277264054015
+Barbados,2007,49805,1020,27252,7000,"First-line supervisors of mechanics, installers, and repairers",3,50,0.0018347277264054015
+Barbados,2007,49805,1020,27252,7340,"Maintenance and repair workers, general",1,50,0.0018347277264054015
+Barbados,2007,49805,1020,27252,9430,Other transportation workers,1,50,0.0018347277264054015
+Barbados,2007,49805,1020,27252,8990,"Miscellaneous production workers, including equipment operators and tenders",2,49,0.0017980331718772933
+Barbados,2007,49805,1020,27252,1555,"Other engineering technologists and technicians, except drafters",2,48,0.0017613386173491853
+Barbados,2007,49805,1020,27252,7700,First-line supervisors of production and operating workers,3,48,0.0017613386173491853
+Barbados,2007,49805,1020,27252,8740,"Inspectors, testers, sorters, samplers, and weighers",4,48,0.0017613386173491853
+Barbados,2007,49805,1020,27252,2004,Mental health counselors,1,47,0.0017246440628210773
+Barbados,2007,49805,1020,27252,3946,School bus monitors,1,47,0.0017246440628210773
+Barbados,2007,49805,1020,27252,0540,"Claims adjusters, appraisers, examiners, and investigators",1,46,0.0016879495082929693
+Barbados,2007,49805,1020,27252,2040,Clergy,4,46,0.0016879495082929693
+Barbados,2007,49805,1020,27252,9720,Refuse and recyclable material collectors,2,45,0.0016512549537648614
+Barbados,2007,49805,1020,27252,4655,"Personal care and service workers, all other",2,44,0.0016145603992367532
+Barbados,2007,49805,1020,27252,7640,"Other installation, maintenance, and repair workers",2,44,0.0016145603992367532
+Barbados,2007,49805,1020,27252,5220,"Court, municipal, and license clerks",2,43,0.0015778658447086452
+Barbados,2007,49805,1020,27252,7840,Food batchmakers,1,43,0.0015778658447086452
+Barbados,2007,49805,1020,27252,3000,Chiropractors,1,42,0.0015411712901805372
+Barbados,2007,49805,1020,27252,3620,Physical therapist assistants and aides,1,42,0.0015411712901805372
+Barbados,2007,49805,1020,27252,5300,"Hotel, motel, and resort desk clerks",1,41,0.0015044767356524292
+Barbados,2007,49805,1020,27252,2905,Other media and communication equipment workers,1,40,0.0014677821811243212
+Barbados,2007,49805,1020,27252,5160,Tellers,2,40,0.0014677821811243212
+Barbados,2007,49805,1020,27252,2555,Other educational instruction and library workers,1,38,0.001394393072068105
+Barbados,2007,49805,1020,27252,4510,"Hairdressers, hairstylists, and cosmetologists",1,38,0.001394393072068105
+Barbados,2007,49805,1020,27252,5900,"Office machine operators, except computer",1,38,0.001394393072068105
+Barbados,2007,49805,1020,27252,1650,Other life scientists,2,37,0.001357698517539997
+Barbados,2007,49805,1020,27252,3801,Bailiffs,2,37,0.001357698517539997
+Barbados,2007,49805,1020,27252,5140,Payroll and timekeeping clerks,2,37,0.001357698517539997
+Barbados,2007,49805,1020,27252,8640,"Chemical processing machine setters, operators, and tenders",2,37,0.001357698517539997
+Barbados,2007,49805,1020,27252,3256,Nurse anesthetists,1,36,0.001321003963011889
+Barbados,2007,49805,1020,27252,3550,Other healthcare practitioners and technical occupations,2,36,0.001321003963011889
+Barbados,2007,49805,1020,27252,8225,Other metal workers and plastic workers,1,36,0.001321003963011889
+Barbados,2007,49805,1020,27252,0425,Emergency management directors,1,35,0.001284309408483781
+Barbados,2007,49805,1020,27252,5350,Correspondence clerks and order clerks,3,35,0.001284309408483781
+Barbados,2007,49805,1020,27252,1970,"Other life, physical, and social science technicians",2,34,0.001247614853955673
+Barbados,2007,49805,1020,27252,4530,"Baggage porters, bellhops, and concierges",1,34,0.001247614853955673
+Barbados,2007,49805,1020,27252,5600,"Production, planning, and expediting clerks",2,34,0.001247614853955673
+Barbados,2007,49805,1020,27252,7315,"Heating, air conditioning, and refrigeration mechanics and installers",2,34,0.001247614853955673
+Barbados,2007,49805,1020,27252,3040,Optometrists,1,33,0.0012109202994275649
+Barbados,2007,49805,1020,27252,3150,Occupational therapists,1,33,0.0012109202994275649
+Barbados,2007,49805,1020,27252,3515,Medical records specialists,2,33,0.0012109202994275649
+Barbados,2007,49805,1020,27252,3545,Miscellaneous health technologists and technicians,2,30,0.001100836635843241
+Barbados,2007,49805,1020,27252,3646,Medical transcriptionists,1,30,0.001100836635843241
+Barbados,2007,49805,1020,27252,4010,First-line supervisors of food preparation and serving workers,2,30,0.001100836635843241
+Barbados,2007,49805,1020,27252,1821,Clinical and counseling psychologists,1,29,0.001064142081315133
+Barbados,2007,49805,1020,27252,2330,Special education teachers,1,29,0.001064142081315133
+Barbados,2007,49805,1020,27252,0410,"Property, real estate, and community association managers",2,28,0.0010274475267870247
+Barbados,2007,49805,1020,27252,0500,"Agents and business managers of artists, performers, and athletes",1,28,0.0010274475267870247
+Barbados,2007,49805,1020,27252,0520,"Wholesale and retail buyers, except farm products",3,28,0.0010274475267870247
+Barbados,2007,49805,1020,27252,3605,Orderlies and psychiatric aides,2,28,0.0010274475267870247
+Barbados,2007,49805,1020,27252,5500,Cargo and freight agents,1,28,0.0010274475267870247
+Barbados,2007,49805,1020,27252,9150,"Motor vehicle operators, all other",1,28,0.0010274475267870247
+Barbados,2007,49805,1020,27252,0300,Architectural and engineering managers,1,27,9.907529722589167e-4
+Barbados,2007,49805,1020,27252,2722,Coaches and scouts,2,27,9.907529722589167e-4
+Barbados,2007,49805,1020,27252,3245,Other therapists,1,27,9.907529722589167e-4
+Barbados,2007,49805,1020,27252,6200,First-line supervisors of construction trades and extraction workers,3,27,9.907529722589167e-4
+Barbados,2007,49805,1020,27252,5850,"Mail clerks and mail machine operators, except postal service",1,26,9.540584177308087e-4
+Barbados,2007,49805,1020,27252,9415,Passenger attendants,1,26,9.540584177308087e-4
+Barbados,2007,49805,1020,27252,9110,"Ambulance drivers and attendants, except emergency medical technicians",1,25,9.173638632027008e-4
+Barbados,2007,49805,1020,27252,9600,Industrial truck and tractor operators,1,25,9.173638632027008e-4
+Barbados,2007,49805,1020,27252,4400,Gambling services workers,1,24,8.806693086745927e-4
+Barbados,2007,49805,1020,27252,9240,Railroad conductors and yardmasters,1,24,8.806693086745927e-4
+Barbados,2007,49805,1020,27252,3725,"Miscellaneous first-line supervisors, protective service workers",2,23,8.439747541464847e-4
+Barbados,2007,49805,1020,27252,4140,Dishwashers,1,23,8.439747541464847e-4
+Barbados,2007,49805,1020,27252,9265,Other rail transportation workers,1,23,8.439747541464847e-4
+Barbados,2007,49805,1020,27252,0960,Other financial specialists,1,22,8.072801996183766e-4
+Barbados,2007,49805,1020,27252,1825,Other psychologists,1,22,8.072801996183766e-4
+Barbados,2007,49805,1020,27252,7020,Radio and telecommunications equipment installers and repairers,1,22,8.072801996183766e-4
+Barbados,2007,49805,1020,27252,3640,Dental assistants,2,21,7.705856450902686e-4
+Barbados,2007,49805,1020,27252,3647,Pharmacy aides,1,21,7.705856450902686e-4
+Barbados,2007,49805,1020,27252,8650,"Crushing, grinding, polishing, mixing, and blending workers",1,21,7.705856450902686e-4
+Barbados,2007,49805,1020,27252,0101,Administrative services managers,1,19,6.971965360340525e-4
+Barbados,2007,49805,1020,27252,0650,Training and development specialists,2,19,6.971965360340525e-4
+Barbados,2007,49805,1020,27252,1800,Economists,1,19,6.971965360340525e-4
+Barbados,2007,49805,1020,27252,7800,Bakers,1,19,6.971965360340525e-4
+Barbados,2007,49805,1020,27252,2850,Writers and authors,1,18,6.605019815059445e-4
+Barbados,2007,49805,1020,27252,3310,Dental hygienists,1,18,6.605019815059445e-4
+Barbados,2007,49805,1020,27252,4240,Pest control workers,1,18,6.605019815059445e-4
+Barbados,2007,49805,1020,27252,5330,Loan interviewers and clerks,1,18,6.605019815059445e-4
+Barbados,2007,49805,1020,27252,6400,Insulation workers,1,18,6.605019815059445e-4
+Barbados,2007,49805,1020,27252,9141,Shuttle drivers and chauffeurs,1,18,6.605019815059445e-4
+Barbados,2007,49805,1020,27252,9830,"Military, rank not specified",1,18,6.605019815059445e-4
+Barbados,2007,49805,1020,27252,2600,Artists and related workers,1,17,6.238074269778365e-4
+Barbados,2007,49805,1020,27252,3110,Physician assistants,1,17,6.238074269778365e-4
+Barbados,2007,49805,1020,27252,6210,Boilermakers,1,17,6.238074269778365e-4
+Barbados,2007,49805,1020,27252,7210,Bus and truck mechanics and diesel engine specialists,1,17,6.238074269778365e-4
+Barbados,2007,49805,1020,27252,9030,Aircraft pilots and flight engineers,1,17,6.238074269778365e-4
+Barbados,2007,49805,1020,27252,0640,"Compensation, benefits, and job analysis specialists",1,16,5.871128724497284e-4
+Barbados,2007,49805,1020,27252,1031,Web developers,1,16,5.871128724497284e-4
+Barbados,2007,49805,1020,27252,1610,Biological scientists,1,16,5.871128724497284e-4
+Barbados,2007,49805,1020,27252,4640,Residential advisors,1,16,5.871128724497284e-4
+Barbados,2007,49805,1020,27252,7430,Precision instrument and equipment repairers,1,16,5.871128724497284e-4
+Barbados,2007,49805,1020,27252,2013,Mental health and substance abuse social workers,1,15,5.504183179216205e-4
+Barbados,2007,49805,1020,27252,5100,Bill and account collectors,1,15,5.504183179216205e-4
+Barbados,2007,49805,1020,27252,5360,"Human resources assistants, except payroll and timekeeping",1,15,5.504183179216205e-4
+Barbados,2007,49805,1020,27252,5550,Postal service mail carriers,1,15,5.504183179216205e-4
+Barbados,2007,49805,1020,27252,7330,Industrial and refractory machinery mechanics,1,15,5.504183179216205e-4
+Barbados,2007,49805,1020,27252,1305,"Architects, except landscape and naval",1,14,5.137237633935124e-4
+Barbados,2007,49805,1020,27252,3630,Massage therapists,1,14,5.137237633935124e-4
+Barbados,2007,49805,1020,27252,8600,"Power plant operators, distributors, and dispatchers",1,14,5.137237633935124e-4
+Barbados,2007,49805,1020,27252,9050,Flight attendants,1,14,5.137237633935124e-4
+Barbados,2007,49805,1020,27252,9410,Transportation inspectors,2,14,5.137237633935124e-4
+Barbados,2007,49805,1020,27252,1010,Computer programmers,1,13,4.7702920886540437e-4
+Barbados,2007,49805,1020,27252,1545,Other drafters,1,13,4.7702920886540437e-4
+Barbados,2007,49805,1020,27252,1860,Other social scientists,1,13,4.7702920886540437e-4
+Barbados,2007,49805,1020,27252,4055,Fast food and counter workers,2,13,4.7702920886540437e-4
+Barbados,2007,49805,1020,27252,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",1,13,4.7702920886540437e-4
+Barbados,2007,49805,1020,27252,6050,Other agricultural workers,1,13,4.7702920886540437e-4
+Barbados,2007,49805,1020,27252,6305,Construction equipment operators,1,13,4.7702920886540437e-4
+Barbados,2007,49805,1020,27252,0136,Human resources managers,1,12,4.4033465433729633e-4
+Barbados,2007,49805,1020,27252,0860,Insurance underwriters,1,12,4.4033465433729633e-4
+Barbados,2007,49805,1020,27252,3802,Correctional officers and jailers,1,12,4.4033465433729633e-4
+Barbados,2007,49805,1020,27252,5521,Public safety telecommunicators,1,12,4.4033465433729633e-4
+Barbados,2007,49805,1020,27252,8800,Packaging and filling machine operators and tenders,1,12,4.4033465433729633e-4
+Barbados,2007,49805,1020,27252,9510,Crane and tower operators,1,12,4.4033465433729633e-4
+Barbados,2007,49805,1020,27252,1551,Electrical and electronic engineering technologists and technicians,1,11,4.036400998091883e-4
+Barbados,2007,49805,1020,27252,1822,School psychologists,1,11,4.036400998091883e-4
+Barbados,2007,49805,1020,27252,2006,"Counselors, all other",1,11,4.036400998091883e-4
+Barbados,2007,49805,1020,27252,2752,Musicians and singers,1,11,4.036400998091883e-4
+Barbados,2007,49805,1020,27252,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,11,4.036400998091883e-4
+Barbados,2007,49805,1020,27252,5840,Insurance claims and policy processing clerks,1,11,4.036400998091883e-4
+Barbados,2007,49805,1020,27252,0340,Lodging managers,1,10,3.669455452810803e-4
+Barbados,2007,49805,1020,27252,1410,Electrical and electronics engineers,1,10,3.669455452810803e-4
+Barbados,2007,49805,1020,27252,5165,Other financial clerks,1,10,3.669455452810803e-4
+Barbados,2007,49805,1020,27252,6700,Elevator installers and repairers,1,10,3.669455452810803e-4
+Barbados,2007,49805,1020,27252,7750,Other assemblers and fabricators,1,10,3.669455452810803e-4
+Barbados,2007,49805,1020,27252,1007,Information security analysts,1,9,3.3025099075297226e-4
+Barbados,2007,49805,1020,27252,1240,Other mathematical science occupations,1,9,3.3025099075297226e-4
+Barbados,2007,49805,1020,27252,2640,Other designers,1,9,3.3025099075297226e-4
+Barbados,2007,49805,1020,27252,2830,Editors,1,8,2.935564362248642e-4
+Barbados,2007,49805,1020,27252,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,8,2.935564362248642e-4
+Barbados,2007,49805,1020,27252,3160,Physical therapists,1,7,2.568618816967562e-4
+Barbados,2007,49805,1020,27252,1340,Biomedical and agricultural engineers,1,6,2.2016732716864817e-4
+Barbados,2007,49805,1020,27252,3324,Magnetic resonance imaging technologists,1,6,2.2016732716864817e-4
+Barbados,2007,49805,1020,27252,6835,"Explosives workers, ordnance handling experts, and blasters",1,6,2.2016732716864817e-4
+Barbados,2007,49805,1020,27252,6250,"Cement masons, concrete finishers, and terrazzo workers",1,1,3.669455452810803e-5
+Barbados,2007,49805,1020,27252,8030,Machinists,1,1,3.669455452810803e-5

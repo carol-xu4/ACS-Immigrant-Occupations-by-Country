@@ -1,165 +1,167 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Other Americas,692,19089,390,11767,6230,Carpenters,10,531,0.04512620039092377
-Other Americas,692,19089,390,11767,6260,Construction laborers,12,439,0.037307724993626244
-Other Americas,692,19089,390,11767,4230,Maids and housekeeping cleaners,12,349,0.029659216452791706
-Other Americas,692,19089,390,11767,4020,Cooks,7,328,0.027874564459930314
-Other Americas,692,19089,390,11767,0010,Chief executives and legislators,6,306,0.026004929038837426
-Other Americas,692,19089,390,11767,6410,Painters and paperhangers,5,300,0.02549502846944846
-Other Americas,692,19089,390,11767,1050,Computer support specialists,5,285,0.024220277045976034
-Other Americas,692,19089,390,11767,9130,Driver/sales workers and truck drivers,6,282,0.02396532676128155
-Other Americas,692,19089,390,11767,5240,Customer service representatives,11,245,0.02082093991671624
-Other Americas,692,19089,390,11767,0440,Other managers,9,239,0.02031103934732727
-Other Americas,692,19089,390,11767,3930,Security guards and gaming surveillance officers,5,232,0.019716155349706808
-Other Americas,692,19089,390,11767,4220,Janitors and building cleaners,7,211,0.017931503356845416
-Other Americas,692,19089,390,11767,3255,Registered nurses,9,206,0.01750658621568794
-Other Americas,692,19089,390,11767,0120,Financial managers,7,180,0.015297017081669074
-Other Americas,692,19089,390,11767,4720,Cashiers,7,180,0.015297017081669074
-Other Americas,692,19089,390,11767,3500,Licensed practical and licensed vocational nurses,3,169,0.014362199371122632
-Other Americas,692,19089,390,11767,4251,Landscaping and groundskeeping workers,5,154,0.013087447947650209
-Other Americas,692,19089,390,11767,0350,Medical and health services managers,3,152,0.012917481091187219
-Other Americas,692,19089,390,11767,1021,Software developers,3,150,0.01274751423472423
-Other Americas,692,19089,390,11767,4760,Retail salespersons,5,150,0.01274751423472423
-Other Americas,692,19089,390,11767,3401,Emergency medical technicians,3,149,0.012662530806492734
-Other Americas,692,19089,390,11767,4000,Chefs and head cooks,2,146,0.01240758052179825
-Other Americas,692,19089,390,11767,7210,Bus and truck mechanics and diesel engine specialists,3,143,0.012152630237103765
-Other Americas,692,19089,390,11767,4030,Food preparation workers,5,133,0.011302795954788817
-Other Americas,692,19089,390,11767,1010,Computer programmers,2,128,0.010877878813631342
-Other Americas,692,19089,390,11767,0800,Accountants and auditors,6,121,0.010282994816010877
-Other Americas,692,19089,390,11767,9620,"Laborers and freight, stock, and material movers, hand",5,121,0.010282994816010877
-Other Americas,692,19089,390,11767,2300,Preschool and kindergarten teachers,4,120,0.010198011387779383
-Other Americas,692,19089,390,11767,7340,"Maintenance and repair workers, general",4,120,0.010198011387779383
-Other Americas,692,19089,390,11767,7200,Automotive service technicians and mechanics,5,118,0.010028044531316394
-Other Americas,692,19089,390,11767,5120,"Bookkeeping, accounting, and auditing clerks",7,116,0.009858077674853404
-Other Americas,692,19089,390,11767,3602,Personal care aides,4,114,0.009688110818390414
-Other Americas,692,19089,390,11767,2861,Interpreters and translators,6,112,0.009518143961927425
-Other Americas,692,19089,390,11767,8990,"Miscellaneous production workers, including equipment operators and tenders",3,107,0.00909322682076995
-Other Americas,692,19089,390,11767,8300,Laundry and dry-cleaning workers,3,106,0.009008243392538456
-Other Americas,692,19089,390,11767,0630,Human resources workers,3,104,0.008838276536075466
-Other Americas,692,19089,390,11767,2722,Coaches and scouts,2,101,0.00858332625138098
-Other Americas,692,19089,390,11767,7700,First-line supervisors of production and operating workers,2,101,0.00858332625138098
-Other Americas,692,19089,390,11767,4200,First-line supervisors of housekeeping and janitorial workers,2,98,0.008328375966686495
-Other Americas,692,19089,390,11767,2310,Elementary and middle school teachers,2,96,0.008158409110223506
-Other Americas,692,19089,390,11767,5610,"Shipping, receiving, and inventory clerks",2,95,0.008073425681992012
-Other Americas,692,19089,390,11767,4965,"Sales and related workers, all other",2,94,0.007988442253760516
-Other Americas,692,19089,390,11767,0710,Management analysts,5,91,0.007733491969066032
-Other Americas,692,19089,390,11767,4700,First-line supervisors of retail sales workers,4,91,0.007733491969066032
-Other Americas,692,19089,390,11767,0310,Food service managers,2,88,0.007478541684371547
-Other Americas,692,19089,390,11767,7800,Bakers,2,88,0.007478541684371547
-Other Americas,692,19089,390,11767,3603,Nursing assistants,4,80,0.006798674258519589
-Other Americas,692,19089,390,11767,0910,Credit counselors and loan officers,2,79,0.006713690830288094
-Other Americas,692,19089,390,11767,4820,"Securities, commodities, and financial services sales agents",1,77,0.006543723973825104
-Other Americas,692,19089,390,11767,2755,"Disc jockeys, except radio",1,76,0.0064587405455936095
-Other Americas,692,19089,390,11767,5550,Postal service mail carriers,2,76,0.0064587405455936095
-Other Americas,692,19089,390,11767,3090,Physicians,3,75,0.006373757117362115
-Other Americas,692,19089,390,11767,5260,File clerks,1,69,0.005863856547973145
-Other Americas,692,19089,390,11767,8740,"Inspectors, testers, sorters, samplers, and weighers",3,69,0.005863856547973145
-Other Americas,692,19089,390,11767,8465,"Other textile, apparel, and furnishings workers",1,68,0.00577887311974165
-Other Americas,692,19089,390,11767,0705,Project management specialists,2,67,0.005693889691510155
-Other Americas,692,19089,390,11767,2910,Photographers,1,62,0.005268972550352681
-Other Americas,692,19089,390,11767,6355,Electricians,4,60,0.005099005693889692
-Other Americas,692,19089,390,11767,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",1,59,0.005014022265658197
-Other Americas,692,19089,390,11767,0020,General and operations managers,2,58,0.004929038837426702
-Other Americas,692,19089,390,11767,2205,Postsecondary teachers,2,57,0.004844055409195207
-Other Americas,692,19089,390,11767,6710,Fence erectors,1,57,0.004844055409195207
-Other Americas,692,19089,390,11767,1007,Information security analysts,2,56,0.004759071980963712
-Other Americas,692,19089,390,11767,6441,Pipelayers,1,54,0.004589105124500723
-Other Americas,692,19089,390,11767,4600,Childcare workers,3,52,0.004419138268037733
-Other Americas,692,19089,390,11767,6050,Other agricultural workers,1,52,0.004419138268037733
-Other Americas,692,19089,390,11767,0540,"Claims adjusters, appraisers, examiners, and investigators",1,51,0.004334154839806237
-Other Americas,692,19089,390,11767,0940,Tax preparers,1,51,0.004334154839806237
-Other Americas,692,19089,390,11767,1530,Other engineers,2,51,0.004334154839806237
-Other Americas,692,19089,390,11767,2100,"Lawyers, and judges, magistrates, and other judicial workers",3,51,0.004334154839806237
-Other Americas,692,19089,390,11767,3220,Respiratory therapists,2,51,0.004334154839806237
-Other Americas,692,19089,390,11767,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",2,50,0.0042491714115747425
-Other Americas,692,19089,390,11767,0750,"Business operations specialists, all other",1,46,0.003909237698648763
-Other Americas,692,19089,390,11767,7640,"Other installation, maintenance, and repair workers",2,46,0.003909237698648763
-Other Americas,692,19089,390,11767,0565,Compliance officers,3,44,0.0037392708421857736
-Other Americas,692,19089,390,11767,4850,"Sales representatives, wholesale and manufacturing",3,44,0.0037392708421857736
-Other Americas,692,19089,390,11767,0220,Construction managers,1,43,0.003654287413954279
-Other Americas,692,19089,390,11767,1650,Other life scientists,3,43,0.003654287413954279
-Other Americas,692,19089,390,11767,9142,Taxi drivers,2,43,0.003654287413954279
-Other Americas,692,19089,390,11767,3870,Police officers,1,42,0.003569303985722784
-Other Americas,692,19089,390,11767,9610,Cleaners of vehicles and equipment,1,42,0.003569303985722784
-Other Americas,692,19089,390,11767,3605,Orderlies and psychiatric aides,1,41,0.003484320557491289
-Other Americas,692,19089,390,11767,4710,First-line supervisors of non-retail sales workers,2,41,0.003484320557491289
-Other Americas,692,19089,390,11767,3160,Physical therapists,1,39,0.0033143537010282996
-Other Americas,692,19089,390,11767,3740,Firefighters,1,39,0.0033143537010282996
-Other Americas,692,19089,390,11767,4010,First-line supervisors of food preparation and serving workers,1,39,0.0033143537010282996
-Other Americas,692,19089,390,11767,7840,Food batchmakers,1,39,0.0033143537010282996
-Other Americas,692,19089,390,11767,1065,Database administrators and architects,1,38,0.0032293702727968047
-Other Americas,692,19089,390,11767,1860,Other social scientists,1,38,0.0032293702727968047
-Other Americas,692,19089,390,11767,5410,Reservation and transportation ticket agents and travel clerks,2,38,0.0032293702727968047
-Other Americas,692,19089,390,11767,1970,"Other life, physical, and social science technicians",2,37,0.00314438684456531
-Other Americas,692,19089,390,11767,2014,"Social workers, all other",1,36,0.003059403416333815
-Other Americas,692,19089,390,11767,6305,Construction equipment operators,1,36,0.003059403416333815
-Other Americas,692,19089,390,11767,3645,Medical assistants,2,35,0.00297441998810232
-Other Americas,692,19089,390,11767,5940,Other office and administrative support workers,2,35,0.00297441998810232
-Other Americas,692,19089,390,11767,5740,"Secretaries and administrative assistants, except legal, medical, and executive",3,34,0.002889436559870825
-Other Americas,692,19089,390,11767,7000,"First-line supervisors of mechanics, installers, and repairers",1,33,0.0028044531316393302
-Other Americas,692,19089,390,11767,0230,Education and childcare administrators,2,32,0.0027194697034078354
-Other Americas,692,19089,390,11767,0725,"Meeting, convention, and event planners",1,32,0.0027194697034078354
-Other Americas,692,19089,390,11767,6200,First-line supervisors of construction trades and extraction workers,1,31,0.0026344862751763406
-Other Americas,692,19089,390,11767,4510,"Hairdressers, hairstylists, and cosmetologists",1,30,0.002549502846944846
-Other Americas,692,19089,390,11767,2011,"Child, family, and school social workers",1,29,0.002464519418713351
-Other Americas,692,19089,390,11767,3430,Dietetic technicians and ophthalmic medical technicians,1,28,0.002379535990481856
-Other Americas,692,19089,390,11767,7120,Electronic home entertainment equipment installers and repairers,1,28,0.002379535990481856
-Other Americas,692,19089,390,11767,1006,Computer systems analysts,2,27,0.0022945525622503613
-Other Americas,692,19089,390,11767,4920,Real estate brokers and sales agents,1,27,0.0022945525622503613
-Other Americas,692,19089,390,11767,3802,Correctional officers and jailers,1,26,0.0022095691340188665
-Other Americas,692,19089,390,11767,4055,Fast food and counter workers,1,26,0.0022095691340188665
-Other Americas,692,19089,390,11767,7140,Aircraft mechanics and service technicians,1,26,0.0022095691340188665
-Other Americas,692,19089,390,11767,2012,Healthcare social workers,1,25,0.0021245857057873713
-Other Americas,692,19089,390,11767,2145,Paralegals and legal assistants,2,25,0.0021245857057873713
-Other Americas,692,19089,390,11767,3322,Diagnostic medical sonographers,1,25,0.0021245857057873713
-Other Americas,692,19089,390,11767,5860,"Office clerks, general",1,25,0.0021245857057873713
-Other Americas,692,19089,390,11767,0136,Human resources managers,1,24,0.0020396022775558765
-Other Americas,692,19089,390,11767,1106,Computer network architects,1,24,0.0020396022775558765
-Other Americas,692,19089,390,11767,5710,Executive secretaries and executive administrative assistants,1,24,0.0020396022775558765
-Other Americas,692,19089,390,11767,9122,"Bus drivers, transit and intercity",1,24,0.0020396022775558765
-Other Americas,692,19089,390,11767,9830,"Military, rank not specified",2,24,0.0020396022775558765
-Other Americas,692,19089,390,11767,0051,Marketing managers,1,22,0.0018696354210928868
-Other Americas,692,19089,390,11767,0845,Financial and investment analysts,1,21,0.001784651992861392
-Other Americas,692,19089,390,11767,4110,Waiters and waitresses,1,21,0.001784651992861392
-Other Americas,692,19089,390,11767,4522,Skincare specialists,1,20,0.0016996685646298972
-Other Americas,692,19089,390,11767,8800,Packaging and filling machine operators and tenders,1,20,0.0016996685646298972
-Other Americas,692,19089,390,11767,1750,"Geoscientists and hydrologists, except geographers",1,19,0.0016146851363984024
-Other Americas,692,19089,390,11767,2016,Social and human service assistants,2,19,0.0016146851363984024
-Other Americas,692,19089,390,11767,2545,Teaching assistants,1,19,0.0016146851363984024
-Other Americas,692,19089,390,11767,1760,"Physical scientists, all other",1,18,0.0015297017081669076
-Other Americas,692,19089,390,11767,2360,Other teachers and instructors,1,18,0.0015297017081669076
-Other Americas,692,19089,390,11767,2600,Artists and related workers,1,18,0.0015297017081669076
-Other Americas,692,19089,390,11767,3323,Radiologic technologists and technicians,1,18,0.0015297017081669076
-Other Americas,692,19089,390,11767,9600,Industrial truck and tractor operators,1,18,0.0015297017081669076
-Other Americas,692,19089,390,11767,5300,"Hotel, motel, and resort desk clerks",1,17,0.0014447182799354125
-Other Americas,692,19089,390,11767,5600,"Production, planning, and expediting clerks",1,17,0.0014447182799354125
-Other Americas,692,19089,390,11767,0110,Computer and information systems managers,1,16,0.0013597348517039177
-Other Americas,692,19089,390,11767,3321,Cardiovascular technologists and technicians,1,16,0.0013597348517039177
-Other Americas,692,19089,390,11767,6520,Sheet metal workers,1,16,0.0013597348517039177
-Other Americas,692,19089,390,11767,0410,"Property, real estate, and community association managers",2,15,0.001274751423472423
-Other Americas,692,19089,390,11767,2320,Secondary school teachers,1,14,0.001189767995240928
-Other Americas,692,19089,390,11767,4521,Manicurists and pedicurists,1,14,0.001189767995240928
-Other Americas,692,19089,390,11767,5840,Insurance claims and policy processing clerks,1,14,0.001189767995240928
-Other Americas,692,19089,390,11767,0530,"Purchasing agents, except wholesale, retail, and farm products",2,13,0.0011047845670094333
-Other Americas,692,19089,390,11767,0850,Personal financial advisors,1,13,0.0011047845670094333
-Other Americas,692,19089,390,11767,1520,"Petroleum, mining and geological engineers, including mining safety engineers",1,13,0.0011047845670094333
-Other Americas,692,19089,390,11767,5400,Receptionists and information clerks,1,13,0.0011047845670094333
-Other Americas,692,19089,390,11767,0360,Natural sciences managers,1,12,0.0010198011387779382
-Other Americas,692,19089,390,11767,1108,"Computer occupations, all other",1,12,0.0010198011387779382
-Other Americas,692,19089,390,11767,1360,Civil engineers,1,12,0.0010198011387779382
-Other Americas,692,19089,390,11767,4130,Dining room and cafeteria attendants and bartender helpers,1,12,0.0010198011387779382
-Other Americas,692,19089,390,11767,5350,Correspondence clerks and order clerks,1,12,0.0010198011387779382
-Other Americas,692,19089,390,11767,0160,"Transportation, storage, and distribution managers",1,11,9.348177105464434e-4
-Other Americas,692,19089,390,11767,0520,"Wholesale and retail buyers, except farm products",1,11,9.348177105464434e-4
-Other Americas,692,19089,390,11767,2710,Producers and directors,1,11,9.348177105464434e-4
-Other Americas,692,19089,390,11767,3030,Dietitians and nutritionists,1,11,9.348177105464434e-4
-Other Americas,692,19089,390,11767,7750,Other assemblers and fabricators,1,11,9.348177105464434e-4
-Other Americas,692,19089,390,11767,1410,Electrical and electronics engineers,1,10,8.498342823149486e-4
-Other Americas,692,19089,390,11767,6515,Roofers,1,10,8.498342823149486e-4
-Other Americas,692,19089,390,11767,7330,Industrial and refractory machinery mechanics,1,8,6.798674258519589e-4
-Other Americas,692,19089,390,11767,2632,Fashion designers,1,7,5.94883997620464e-4
-Other Americas,692,19089,390,11767,3640,Dental assistants,1,7,5.94883997620464e-4
-Other Americas,692,19089,390,11767,2920,"Television, video, and film camera operators and editors",1,6,5.099005693889691e-4
-Other Americas,692,19089,390,11767,3647,Pharmacy aides,1,6,5.099005693889691e-4
-Other Americas,692,19089,390,11767,9050,Flight attendants,1,3,2.5495028469448456e-4
-Other Americas,692,19089,390,11767,0640,"Compensation, benefits, and job analysis specialists",1,2,0.00016996685646298971
-Other Americas,692,19089,390,11767,2040,Clergy,1,1,8.498342823149486e-5
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Other Americas,692,19089,408,12178,6230,Carpenters,10,531,0.043603218919362786
+Other Americas,692,19089,408,12178,4230,Maids and housekeeping cleaners,15,452,0.0371161110198719
+Other Americas,692,19089,408,12178,6260,Construction laborers,12,439,0.03604861225160125
+Other Americas,692,19089,408,12178,4020,Cooks,7,328,0.026933815076367218
+Other Americas,692,19089,408,12178,0010,Chief executives and legislators,6,306,0.02512727869929381
+Other Americas,692,19089,408,12178,6410,Painters and paperhangers,5,300,0.024634586960091968
+Other Americas,692,19089,408,12178,1050,Computer support specialists,5,285,0.02340285761208737
+Other Americas,692,19089,408,12178,9130,Driver/sales workers and truck drivers,6,282,0.023156511742486452
+Other Americas,692,19089,408,12178,0440,Other managers,10,273,0.022417474133683692
+Other Americas,692,19089,408,12178,5240,Customer service representatives,11,245,0.020118246017408442
+Other Americas,692,19089,408,12178,3930,Security guards and gaming surveillance officers,5,232,0.01905074724913779
+Other Americas,692,19089,408,12178,3255,Registered nurses,10,230,0.018886516669403844
+Other Americas,692,19089,408,12178,4220,Janitors and building cleaners,7,211,0.017326326161931353
+Other Americas,692,19089,408,12178,0120,Financial managers,7,180,0.014780752176055182
+Other Americas,692,19089,408,12178,3500,Licensed practical and licensed vocational nurses,4,180,0.014780752176055182
+Other Americas,692,19089,408,12178,4720,Cashiers,7,180,0.014780752176055182
+Other Americas,692,19089,408,12178,4251,Landscaping and groundskeeping workers,6,169,0.013877483987518476
+Other Americas,692,19089,408,12178,0350,Medical and health services managers,3,152,0.012481524059779932
+Other Americas,692,19089,408,12178,1021,Software developers,3,150,0.012317293480045984
+Other Americas,692,19089,408,12178,4760,Retail salespersons,5,150,0.012317293480045984
+Other Americas,692,19089,408,12178,3401,Emergency medical technicians,3,149,0.01223517819017901
+Other Americas,692,19089,408,12178,4000,Chefs and head cooks,2,146,0.011988832320578091
+Other Americas,692,19089,408,12178,7210,Bus and truck mechanics and diesel engine specialists,3,143,0.011742486450977172
+Other Americas,692,19089,408,12178,1010,Computer programmers,3,142,0.011660371161110199
+Other Americas,692,19089,408,12178,4030,Food preparation workers,5,133,0.01092133355230744
+Other Americas,692,19089,408,12178,0800,Accountants and auditors,6,121,0.00993595007390376
+Other Americas,692,19089,408,12178,9620,"Laborers and freight, stock, and material movers, hand",5,121,0.00993595007390376
+Other Americas,692,19089,408,12178,2300,Preschool and kindergarten teachers,4,120,0.009853834784036787
+Other Americas,692,19089,408,12178,7340,"Maintenance and repair workers, general",4,120,0.009853834784036787
+Other Americas,692,19089,408,12178,7200,Automotive service technicians and mechanics,5,118,0.009689604204302841
+Other Americas,692,19089,408,12178,5120,"Bookkeeping, accounting, and auditing clerks",7,116,0.009525373624568895
+Other Americas,692,19089,408,12178,3602,Personal care aides,4,114,0.009361143044834949
+Other Americas,692,19089,408,12178,2861,Interpreters and translators,6,112,0.009196912465101003
+Other Americas,692,19089,408,12178,2310,Elementary and middle school teachers,3,111,0.009114797175234028
+Other Americas,692,19089,408,12178,8990,"Miscellaneous production workers, including equipment operators and tenders",3,107,0.008786336015766135
+Other Americas,692,19089,408,12178,4600,Childcare workers,4,106,0.008704220725899162
+Other Americas,692,19089,408,12178,8300,Laundry and dry-cleaning workers,3,106,0.008704220725899162
+Other Americas,692,19089,408,12178,0630,Human resources workers,3,104,0.008539990146165216
+Other Americas,692,19089,408,12178,2722,Coaches and scouts,2,101,0.008293644276564297
+Other Americas,692,19089,408,12178,7700,First-line supervisors of production and operating workers,2,101,0.008293644276564297
+Other Americas,692,19089,408,12178,4200,First-line supervisors of housekeeping and janitorial workers,2,98,0.008047298406963376
+Other Americas,692,19089,408,12178,5610,"Shipping, receiving, and inventory clerks",2,95,0.0078009525373624565
+Other Americas,692,19089,408,12178,4965,"Sales and related workers, all other",2,94,0.007718837247495483
+Other Americas,692,19089,408,12178,0710,Management analysts,5,91,0.007472491377894564
+Other Americas,692,19089,408,12178,4700,First-line supervisors of retail sales workers,4,91,0.007472491377894564
+Other Americas,692,19089,408,12178,0310,Food service managers,2,88,0.007226145508293644
+Other Americas,692,19089,408,12178,7800,Bakers,2,88,0.007226145508293644
+Other Americas,692,19089,408,12178,3603,Nursing assistants,4,80,0.006569223189357858
+Other Americas,692,19089,408,12178,0910,Credit counselors and loan officers,2,79,0.006487107899490885
+Other Americas,692,19089,408,12178,4820,"Securities, commodities, and financial services sales agents",1,77,0.006322877319756939
+Other Americas,692,19089,408,12178,2755,"Disc jockeys, except radio",1,76,0.006240762029889966
+Other Americas,692,19089,408,12178,5550,Postal service mail carriers,2,76,0.006240762029889966
+Other Americas,692,19089,408,12178,3090,Physicians,3,75,0.006158646740022992
+Other Americas,692,19089,408,12178,7840,Food batchmakers,2,72,0.005912300870422073
+Other Americas,692,19089,408,12178,5260,File clerks,1,69,0.0056659550008211525
+Other Americas,692,19089,408,12178,8740,"Inspectors, testers, sorters, samplers, and weighers",3,69,0.0056659550008211525
+Other Americas,692,19089,408,12178,8465,"Other textile, apparel, and furnishings workers",1,68,0.005583839710954179
+Other Americas,692,19089,408,12178,0705,Project management specialists,2,67,0.005501724421087206
+Other Americas,692,19089,408,12178,2910,Photographers,1,62,0.00509114797175234
+Other Americas,692,19089,408,12178,0220,Construction managers,2,60,0.004926917392018394
+Other Americas,692,19089,408,12178,6355,Electricians,4,60,0.004926917392018394
+Other Americas,692,19089,408,12178,0750,"Business operations specialists, all other",2,59,0.004844802102151421
+Other Americas,692,19089,408,12178,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",1,59,0.004844802102151421
+Other Americas,692,19089,408,12178,0020,General and operations managers,2,58,0.0047626868122844475
+Other Americas,692,19089,408,12178,2205,Postsecondary teachers,2,57,0.004680571522417474
+Other Americas,692,19089,408,12178,6710,Fence erectors,1,57,0.004680571522417474
+Other Americas,692,19089,408,12178,1007,Information security analysts,2,56,0.004598456232550501
+Other Americas,692,19089,408,12178,6441,Pipelayers,1,54,0.004434225652816554
+Other Americas,692,19089,408,12178,3870,Police officers,2,53,0.004352110362949581
+Other Americas,692,19089,408,12178,6050,Other agricultural workers,1,52,0.004269995073082608
+Other Americas,692,19089,408,12178,0540,"Claims adjusters, appraisers, examiners, and investigators",1,51,0.004187879783215635
+Other Americas,692,19089,408,12178,0940,Tax preparers,1,51,0.004187879783215635
+Other Americas,692,19089,408,12178,1530,Other engineers,2,51,0.004187879783215635
+Other Americas,692,19089,408,12178,2100,"Lawyers, and judges, magistrates, and other judicial workers",3,51,0.004187879783215635
+Other Americas,692,19089,408,12178,3220,Respiratory therapists,2,51,0.004187879783215635
+Other Americas,692,19089,408,12178,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",2,50,0.004105764493348662
+Other Americas,692,19089,408,12178,7640,"Other installation, maintenance, and repair workers",2,46,0.0037773033338807686
+Other Americas,692,19089,408,12178,0565,Compliance officers,3,44,0.003613072754146822
+Other Americas,692,19089,408,12178,4850,"Sales representatives, wholesale and manufacturing",3,44,0.003613072754146822
+Other Americas,692,19089,408,12178,1650,Other life scientists,3,43,0.003530957464279849
+Other Americas,692,19089,408,12178,6200,First-line supervisors of construction trades and extraction workers,2,43,0.003530957464279849
+Other Americas,692,19089,408,12178,9142,Taxi drivers,2,43,0.003530957464279849
+Other Americas,692,19089,408,12178,9610,Cleaners of vehicles and equipment,1,42,0.0034488421744128758
+Other Americas,692,19089,408,12178,3605,Orderlies and psychiatric aides,1,41,0.0033667268845459022
+Other Americas,692,19089,408,12178,4710,First-line supervisors of non-retail sales workers,2,41,0.0033667268845459022
+Other Americas,692,19089,408,12178,3160,Physical therapists,1,39,0.003202496304811956
+Other Americas,692,19089,408,12178,3740,Firefighters,1,39,0.003202496304811956
+Other Americas,692,19089,408,12178,4010,First-line supervisors of food preparation and serving workers,1,39,0.003202496304811956
+Other Americas,692,19089,408,12178,1065,Database administrators and architects,1,38,0.003120381014944983
+Other Americas,692,19089,408,12178,1860,Other social scientists,1,38,0.003120381014944983
+Other Americas,692,19089,408,12178,5410,Reservation and transportation ticket agents and travel clerks,2,38,0.003120381014944983
+Other Americas,692,19089,408,12178,1970,"Other life, physical, and social science technicians",2,37,0.0030382657250780094
+Other Americas,692,19089,408,12178,2014,"Social workers, all other",1,36,0.0029561504352110363
+Other Americas,692,19089,408,12178,6305,Construction equipment operators,1,36,0.0029561504352110363
+Other Americas,692,19089,408,12178,3645,Medical assistants,2,35,0.0028740351453440632
+Other Americas,692,19089,408,12178,5940,Other office and administrative support workers,2,35,0.0028740351453440632
+Other Americas,692,19089,408,12178,5740,"Secretaries and administrative assistants, except legal, medical, and executive",3,34,0.0027919198554770897
+Other Americas,692,19089,408,12178,7000,"First-line supervisors of mechanics, installers, and repairers",1,33,0.0027098045656101166
+Other Americas,692,19089,408,12178,0230,Education and childcare administrators,2,32,0.0026276892757431435
+Other Americas,692,19089,408,12178,0725,"Meeting, convention, and event planners",1,32,0.0026276892757431435
+Other Americas,692,19089,408,12178,7330,Industrial and refractory machinery mechanics,2,32,0.0026276892757431435
+Other Americas,692,19089,408,12178,4510,"Hairdressers, hairstylists, and cosmetologists",1,30,0.002463458696009197
+Other Americas,692,19089,408,12178,2011,"Child, family, and school social workers",1,29,0.0023813434061422238
+Other Americas,692,19089,408,12178,3430,Dietetic technicians and ophthalmic medical technicians,1,28,0.0022992281162752507
+Other Americas,692,19089,408,12178,7120,Electronic home entertainment equipment installers and repairers,1,28,0.0022992281162752507
+Other Americas,692,19089,408,12178,1006,Computer systems analysts,2,27,0.002217112826408277
+Other Americas,692,19089,408,12178,4920,Real estate brokers and sales agents,1,27,0.002217112826408277
+Other Americas,692,19089,408,12178,3802,Correctional officers and jailers,1,26,0.002134997536541304
+Other Americas,692,19089,408,12178,4055,Fast food and counter workers,1,26,0.002134997536541304
+Other Americas,692,19089,408,12178,7140,Aircraft mechanics and service technicians,1,26,0.002134997536541304
+Other Americas,692,19089,408,12178,2012,Healthcare social workers,1,25,0.002052882246674331
+Other Americas,692,19089,408,12178,2145,Paralegals and legal assistants,2,25,0.002052882246674331
+Other Americas,692,19089,408,12178,3322,Diagnostic medical sonographers,1,25,0.002052882246674331
+Other Americas,692,19089,408,12178,5860,"Office clerks, general",1,25,0.002052882246674331
+Other Americas,692,19089,408,12178,0136,Human resources managers,1,24,0.0019707669568073574
+Other Americas,692,19089,408,12178,1106,Computer network architects,1,24,0.0019707669568073574
+Other Americas,692,19089,408,12178,5710,Executive secretaries and executive administrative assistants,1,24,0.0019707669568073574
+Other Americas,692,19089,408,12178,9122,"Bus drivers, transit and intercity",1,24,0.0019707669568073574
+Other Americas,692,19089,408,12178,9830,"Military, rank not specified",2,24,0.0019707669568073574
+Other Americas,692,19089,408,12178,0051,Marketing managers,1,22,0.001806536377073411
+Other Americas,692,19089,408,12178,8030,Machinists,1,22,0.001806536377073411
+Other Americas,692,19089,408,12178,0845,Financial and investment analysts,1,21,0.0017244210872064379
+Other Americas,692,19089,408,12178,4110,Waiters and waitresses,1,21,0.0017244210872064379
+Other Americas,692,19089,408,12178,4522,Skincare specialists,1,20,0.0016423057973394646
+Other Americas,692,19089,408,12178,8800,Packaging and filling machine operators and tenders,1,20,0.0016423057973394646
+Other Americas,692,19089,408,12178,1750,"Geoscientists and hydrologists, except geographers",1,19,0.0015601905074724915
+Other Americas,692,19089,408,12178,2016,Social and human service assistants,2,19,0.0015601905074724915
+Other Americas,692,19089,408,12178,2545,Teaching assistants,1,19,0.0015601905074724915
+Other Americas,692,19089,408,12178,1760,"Physical scientists, all other",1,18,0.0014780752176055182
+Other Americas,692,19089,408,12178,2360,Other teachers and instructors,1,18,0.0014780752176055182
+Other Americas,692,19089,408,12178,2600,Artists and related workers,1,18,0.0014780752176055182
+Other Americas,692,19089,408,12178,3323,Radiologic technologists and technicians,1,18,0.0014780752176055182
+Other Americas,692,19089,408,12178,9600,Industrial truck and tractor operators,1,18,0.0014780752176055182
+Other Americas,692,19089,408,12178,5300,"Hotel, motel, and resort desk clerks",1,17,0.0013959599277385448
+Other Americas,692,19089,408,12178,5600,"Production, planning, and expediting clerks",1,17,0.0013959599277385448
+Other Americas,692,19089,408,12178,0110,Computer and information systems managers,1,16,0.0013138446378715717
+Other Americas,692,19089,408,12178,3321,Cardiovascular technologists and technicians,1,16,0.0013138446378715717
+Other Americas,692,19089,408,12178,6520,Sheet metal workers,1,16,0.0013138446378715717
+Other Americas,692,19089,408,12178,0410,"Property, real estate, and community association managers",2,15,0.0012317293480045984
+Other Americas,692,19089,408,12178,2320,Secondary school teachers,1,14,0.0011496140581376253
+Other Americas,692,19089,408,12178,4521,Manicurists and pedicurists,1,14,0.0011496140581376253
+Other Americas,692,19089,408,12178,5840,Insurance claims and policy processing clerks,1,14,0.0011496140581376253
+Other Americas,692,19089,408,12178,0530,"Purchasing agents, except wholesale, retail, and farm products",2,13,0.001067498768270652
+Other Americas,692,19089,408,12178,0850,Personal financial advisors,1,13,0.001067498768270652
+Other Americas,692,19089,408,12178,1520,"Petroleum, mining and geological engineers, including mining safety engineers",1,13,0.001067498768270652
+Other Americas,692,19089,408,12178,5400,Receptionists and information clerks,1,13,0.001067498768270652
+Other Americas,692,19089,408,12178,0360,Natural sciences managers,1,12,9.853834784036787e-4
+Other Americas,692,19089,408,12178,1108,"Computer occupations, all other",1,12,9.853834784036787e-4
+Other Americas,692,19089,408,12178,1360,Civil engineers,1,12,9.853834784036787e-4
+Other Americas,692,19089,408,12178,4130,Dining room and cafeteria attendants and bartender helpers,1,12,9.853834784036787e-4
+Other Americas,692,19089,408,12178,5350,Correspondence clerks and order clerks,1,12,9.853834784036787e-4
+Other Americas,692,19089,408,12178,0160,"Transportation, storage, and distribution managers",1,11,9.032681885367055e-4
+Other Americas,692,19089,408,12178,0520,"Wholesale and retail buyers, except farm products",1,11,9.032681885367055e-4
+Other Americas,692,19089,408,12178,2710,Producers and directors,1,11,9.032681885367055e-4
+Other Americas,692,19089,408,12178,3030,Dietitians and nutritionists,1,11,9.032681885367055e-4
+Other Americas,692,19089,408,12178,7750,Other assemblers and fabricators,1,11,9.032681885367055e-4
+Other Americas,692,19089,408,12178,1410,Electrical and electronics engineers,1,10,8.211528986697323e-4
+Other Americas,692,19089,408,12178,6515,Roofers,1,10,8.211528986697323e-4
+Other Americas,692,19089,408,12178,3601,Home health aides,1,9,7.390376088027591e-4
+Other Americas,692,19089,408,12178,2632,Fashion designers,1,7,5.748070290688127e-4
+Other Americas,692,19089,408,12178,3640,Dental assistants,1,7,5.748070290688127e-4
+Other Americas,692,19089,408,12178,2920,"Television, video, and film camera operators and editors",1,6,0.00049269173920183935
+Other Americas,692,19089,408,12178,3647,Pharmacy aides,1,6,0.00049269173920183935
+Other Americas,692,19089,408,12178,9050,Flight attendants,1,3,2.463458696009197e-4
+Other Americas,692,19089,408,12178,0640,"Compensation, benefits, and job analysis specialists",1,2,1.6423057973394647e-4
+Other Americas,692,19089,408,12178,2040,Clergy,1,1,8.211528986697323e-5

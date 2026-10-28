@@ -1,257 +1,268 @@
-country,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Belize,2009,47456,966,24289,3602,Personal care aides,29,715,0.02943719379142822
-Belize,2009,47456,966,24289,3255,Registered nurses,24,708,0.029148997488575076
-Belize,2009,47456,966,24289,0440,Other managers,23,653,0.026884597966157518
-Belize,2009,47456,966,24289,3603,Nursing assistants,22,585,0.02408497673844127
-Belize,2009,47456,966,24289,9130,Driver/sales workers and truck drivers,20,536,0.022067602618469268
-Belize,2009,47456,966,24289,5740,"Secretaries and administrative assistants, except legal, medical, and executive",21,411,0.016921240067520278
-Belize,2009,47456,966,24289,6230,Carpenters,10,386,0.01589196755733048
-Belize,2009,47456,966,24289,9620,"Laborers and freight, stock, and material movers, hand",16,379,0.015603771254477336
-Belize,2009,47456,966,24289,5860,"Office clerks, general",13,378,0.015562600354069743
-Belize,2009,47456,966,24289,0120,Financial managers,15,375,0.015439087652846968
-Belize,2009,47456,966,24289,4220,Janitors and building cleaners,20,372,0.015315574951624193
-Belize,2009,47456,966,24289,3601,Home health aides,14,371,0.0152744040512166
-Belize,2009,47456,966,24289,4230,Maids and housekeeping cleaners,14,346,0.014245131541026803
-Belize,2009,47456,966,24289,4720,Cashiers,13,333,0.013709909835728108
-Belize,2009,47456,966,24289,4760,Retail salespersons,11,333,0.013709909835728108
-Belize,2009,47456,966,24289,5120,"Bookkeeping, accounting, and auditing clerks",17,324,0.01333937173205978
-Belize,2009,47456,966,24289,2205,Postsecondary teachers,13,308,0.01268063732553831
-Belize,2009,47456,966,24289,3500,Licensed practical and licensed vocational nurses,11,304,0.012515953723907942
-Belize,2009,47456,966,24289,4110,Waiters and waitresses,8,301,0.012392441022685167
-Belize,2009,47456,966,24289,4700,First-line supervisors of retail sales workers,10,297,0.0122277574210548
-Belize,2009,47456,966,24289,2310,Elementary and middle school teachers,15,283,0.011651364815348512
-Belize,2009,47456,966,24289,2545,Teaching assistants,11,272,0.011198484910865001
-Belize,2009,47456,966,24289,7700,First-line supervisors of production and operating workers,5,262,0.010786775906789082
-Belize,2009,47456,966,24289,6355,Electricians,8,259,0.010663263205566306
-Belize,2009,47456,966,24289,0800,Accountants and auditors,13,247,0.010169212400675203
-Belize,2009,47456,966,24289,8740,"Inspectors, testers, sorters, samplers, and weighers",9,231,0.009510477994153731
-Belize,2009,47456,966,24289,0630,Human resources workers,9,230,0.00946930709374614
-Belize,2009,47456,966,24289,7200,Automotive service technicians and mechanics,5,230,0.00946930709374614
-Belize,2009,47456,966,24289,3870,Police officers,13,222,0.009139939890485406
-Belize,2009,47456,966,24289,5240,Customer service representatives,10,218,0.008975256288855038
-Belize,2009,47456,966,24289,1410,Electrical and electronics engineers,3,217,0.008934085388447446
-Belize,2009,47456,966,24289,9645,Stockers and order fillers,9,217,0.008934085388447446
-Belize,2009,47456,966,24289,4020,Cooks,10,208,0.008563547284779118
-Belize,2009,47456,966,24289,1108,"Computer occupations, all other",6,197,0.008110667380295608
-Belize,2009,47456,966,24289,5000,First-line supervisors of office and administrative support workers,11,197,0.008110667380295608
-Belize,2009,47456,966,24289,6260,Construction laborers,7,191,0.007863641977850055
-Belize,2009,47456,966,24289,5840,Insurance claims and policy processing clerks,6,188,0.00774012927662728
-Belize,2009,47456,966,24289,4600,Childcare workers,10,185,0.007616616575404504
-Belize,2009,47456,966,24289,2710,Producers and directors,2,179,0.007369591172958953
-Belize,2009,47456,966,24289,0220,Construction managers,6,177,0.007287249372143769
-Belize,2009,47456,966,24289,1021,Software developers,5,173,0.007122565770513401
-Belize,2009,47456,966,24289,0540,"Claims adjusters, appraisers, examiners, and investigators",3,169,0.006957882168883034
-Belize,2009,47456,966,24289,6442,"Plumbers, pipefitters, and steamfitters",4,168,0.006916711268475441
-Belize,2009,47456,966,24289,3930,Security guards and gaming surveillance officers,11,165,0.006793198567252666
-Belize,2009,47456,966,24289,5110,Billing and posting clerks,4,165,0.006793198567252666
-Belize,2009,47456,966,24289,7040,"Electric motor, power tool, and related repairers",2,162,0.00666968586602989
-Belize,2009,47456,966,24289,0410,"Property, real estate, and community association managers",6,160,0.006587344065214706
-Belize,2009,47456,966,24289,0600,Cost estimators,1,158,0.006505002264399522
-Belize,2009,47456,966,24289,0710,Management analysts,2,158,0.006505002264399522
-Belize,2009,47456,966,24289,0910,Credit counselors and loan officers,3,158,0.006505002264399522
-Belize,2009,47456,966,24289,4810,Insurance sales agents,4,157,0.00646383136399193
-Belize,2009,47456,966,24289,0420,Social and community service managers,5,152,0.006257976861953971
-Belize,2009,47456,966,24289,4510,"Hairdressers, hairstylists, and cosmetologists",2,151,0.006216805961546379
-Belize,2009,47456,966,24289,9630,Machine feeders and offbearers,2,148,0.0060932932603236034
-Belize,2009,47456,966,24289,0230,Education and childcare administrators,9,145,0.005969780559100827
-Belize,2009,47456,966,24289,0010,Chief executives and legislators,10,144,0.005928609658693236
-Belize,2009,47456,966,24289,4710,First-line supervisors of non-retail sales workers,6,144,0.005928609658693236
-Belize,2009,47456,966,24289,2014,"Social workers, all other",2,143,0.0058874387582856435
-Belize,2009,47456,966,24289,0020,General and operations managers,5,138,0.0056815842562476845
-Belize,2009,47456,966,24289,2300,Preschool and kindergarten teachers,5,132,0.005434558853802133
-Belize,2009,47456,966,24289,7750,Other assemblers and fabricators,5,131,0.005393387953394541
-Belize,2009,47456,966,24289,9142,Taxi drivers,6,131,0.005393387953394541
-Belize,2009,47456,966,24289,3300,Clinical laboratory technologists and technicians,4,124,0.005105191650541397
-Belize,2009,47456,966,24289,1360,Civil engineers,1,117,0.004816995347688254
-Belize,2009,47456,966,24289,0350,Medical and health services managers,5,116,0.004775824447280662
-Belize,2009,47456,966,24289,5400,Receptionists and information clerks,7,115,0.00473465354687307
-Belize,2009,47456,966,24289,5940,Other office and administrative support workers,6,114,0.004693482646465478
-Belize,2009,47456,966,24289,7340,"Maintenance and repair workers, general",3,109,0.004487628144427519
-Belize,2009,47456,966,24289,5510,Couriers and messengers,5,107,0.004405286343612335
-Belize,2009,47456,966,24289,0705,Project management specialists,5,104,0.004281773642389559
-Belize,2009,47456,966,24289,0565,Compliance officers,3,102,0.004199431841574375
-Belize,2009,47456,966,24289,3090,Physicians,7,101,0.004158260941166783
-Belize,2009,47456,966,24289,2006,"Counselors, all other",2,99,0.004075919140351599
-Belize,2009,47456,966,24289,5410,Reservation and transportation ticket agents and travel clerks,3,99,0.004075919140351599
-Belize,2009,47456,966,24289,6515,Roofers,1,98,0.004034748239944008
-Belize,2009,47456,966,24289,1031,Web developers,1,96,0.003952406439128824
-Belize,2009,47456,966,24289,0850,Personal financial advisors,4,95,0.003911235538721232
-Belize,2009,47456,966,24289,4055,Fast food and counter workers,6,95,0.003911235538721232
-Belize,2009,47456,966,24289,4820,"Securities, commodities, and financial services sales agents",4,94,0.00387006463831364
-Belize,2009,47456,966,24289,8030,Machinists,3,94,0.00387006463831364
-Belize,2009,47456,966,24289,5850,"Mail clerks and mail machine operators, except postal service",2,93,0.003828893737906048
-Belize,2009,47456,966,24289,1555,"Other engineering technologists and technicians, except drafters",7,91,0.003746551937090864
-Belize,2009,47456,966,24289,0650,Training and development specialists,4,89,0.00366421013627568
-Belize,2009,47456,966,24289,7210,Bus and truck mechanics and diesel engine specialists,5,88,0.0036230392358680883
-Belize,2009,47456,966,24289,2002,"Educational, guidance, and career counselors and advisors",4,86,0.0035406974350529045
-Belize,2009,47456,966,24289,1050,Computer support specialists,5,85,0.0034995265346453126
-Belize,2009,47456,966,24289,2100,"Lawyers, and judges, magistrates, and other judicial workers",3,85,0.0034995265346453126
-Belize,2009,47456,966,24289,4621,Exercise trainers and group fitness instructors,2,84,0.0034583556342377207
-Belize,2009,47456,966,24289,5710,Executive secretaries and executive administrative assistants,3,83,0.003417184733830129
-Belize,2009,47456,966,24289,7140,Aircraft mechanics and service technicians,2,81,0.003334842933014945
-Belize,2009,47456,966,24289,9122,"Bus drivers, transit and intercity",4,80,0.003293672032607353
-Belize,2009,47456,966,24289,3245,Other therapists,1,75,0.0030878175305693936
-Belize,2009,47456,966,24289,6200,First-line supervisors of construction trades and extraction workers,4,75,0.0030878175305693936
-Belize,2009,47456,966,24289,3645,Medical assistants,4,71,0.002923133928939026
-Belize,2009,47456,966,24289,9005,Supervisors of transportation and material moving workers,2,71,0.002923133928939026
-Belize,2009,47456,966,24289,0845,Financial and investment analysts,4,70,0.002881963028531434
-Belize,2009,47456,966,24289,3258,"Nurse practitioners, and nurse midwives",2,69,0.0028407921281238422
-Belize,2009,47456,966,24289,8990,"Miscellaneous production workers, including equipment operators and tenders",4,69,0.0028407921281238422
-Belize,2009,47456,966,24289,0310,Food service managers,5,68,0.0027996212277162503
-Belize,2009,47456,966,24289,3802,Correctional officers and jailers,2,65,0.002676108526493474
-Belize,2009,47456,966,24289,4740,Counter and rental clerks,1,63,0.0025937667256782904
-Belize,2009,47456,966,24289,5810,Data entry keyers,2,63,0.0025937667256782904
-Belize,2009,47456,966,24289,0052,Sales managers,2,62,0.0025525958252706985
-Belize,2009,47456,966,24289,2752,Musicians and singers,2,62,0.0025525958252706985
-Belize,2009,47456,966,24289,0205,"Farmers, ranchers, and other agricultural managers",4,61,0.0025114249248631066
-Belize,2009,47456,966,24289,0750,"Business operations specialists, all other",2,61,0.0025114249248631066
-Belize,2009,47456,966,24289,2320,Secondary school teachers,4,60,0.0024702540244555147
-Belize,2009,47456,966,24289,0520,"Wholesale and retail buyers, except farm products",2,59,0.002429083124047923
-Belize,2009,47456,966,24289,2145,Paralegals and legal assistants,6,59,0.002429083124047923
-Belize,2009,47456,966,24289,2330,Special education teachers,3,59,0.002429083124047923
-Belize,2009,47456,966,24289,9121,"Bus drivers, school",3,59,0.002429083124047923
-Belize,2009,47456,966,24289,5260,File clerks,2,58,0.002387912223640331
-Belize,2009,47456,966,24289,5610,"Shipping, receiving, and inventory clerks",2,58,0.002387912223640331
-Belize,2009,47456,966,24289,4920,Real estate brokers and sales agents,1,57,0.002346741323232739
-Belize,2009,47456,966,24289,9600,Industrial truck and tractor operators,2,57,0.002346741323232739
-Belize,2009,47456,966,24289,2435,Librarians and media collections specialists,1,56,0.002305570422825147
-Belize,2009,47456,966,24289,4200,First-line supervisors of housekeeping and janitorial workers,3,56,0.002305570422825147
-Belize,2009,47456,966,24289,3605,Orderlies and psychiatric aides,2,55,0.0022643995224175552
-Belize,2009,47456,966,24289,4010,First-line supervisors of food preparation and serving workers,2,55,0.0022643995224175552
-Belize,2009,47456,966,24289,0960,Other financial specialists,4,54,0.0022232286220099633
-Belize,2009,47456,966,24289,0160,"Transportation, storage, and distribution managers",1,53,0.0021820577216023714
-Belize,2009,47456,966,24289,6410,Painters and paperhangers,3,53,0.0021820577216023714
-Belize,2009,47456,966,24289,9825,Military enlisted tactical operations and air/weapons specialists and crew members,3,53,0.0021820577216023714
-Belize,2009,47456,966,24289,2015,Probation officers and correctional treatment specialists,2,52,0.0021408868211947795
-Belize,2009,47456,966,24289,1450,Materials engineers,2,51,0.0020997159207871876
-Belize,2009,47456,966,24289,3648,Veterinary assistants and laboratory animal caretakers,1,51,0.0020997159207871876
-Belize,2009,47456,966,24289,3649,Phlebotomists,1,51,0.0020997159207871876
-Belize,2009,47456,966,24289,4500,Barbers,1,51,0.0020997159207871876
-Belize,2009,47456,966,24289,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",2,51,0.0020997159207871876
-Belize,2009,47456,966,24289,0110,Computer and information systems managers,4,50,0.0020585450203795957
-Belize,2009,47456,966,24289,6660,Construction and building inspectors,2,50,0.0020585450203795957
-Belize,2009,47456,966,24289,1980,Occupational health and safety specialists and technicians,1,49,0.002017374119972004
-Belize,2009,47456,966,24289,5500,Cargo and freight agents,2,49,0.002017374119972004
-Belize,2009,47456,966,24289,9640,"Packers and packagers, hand",3,49,0.002017374119972004
-Belize,2009,47456,966,24289,8300,Laundry and dry-cleaning workers,2,48,0.001976203219564412
-Belize,2009,47456,966,24289,4850,"Sales representatives, wholesale and manufacturing",3,47,0.00193503231915682
-Belize,2009,47456,966,24289,0700,Logisticians,1,45,0.001852690518341636
-Belize,2009,47456,966,24289,5560,"Postal service mail sorters, processors, and processing machine operators",1,45,0.001852690518341636
-Belize,2009,47456,966,24289,8800,Packaging and filling machine operators and tenders,3,45,0.001852690518341636
-Belize,2009,47456,966,24289,5010,"Switchboard operators, including answering service",1,44,0.0018115196179340441
-Belize,2009,47456,966,24289,0640,"Compensation, benefits, and job analysis specialists",3,43,0.0017703487175264522
-Belize,2009,47456,966,24289,6240,"Carpet, floor, and tile installers and finishers",1,43,0.0017703487175264522
-Belize,2009,47456,966,24289,2360,Other teachers and instructors,2,42,0.0017291778171188603
-Belize,2009,47456,966,24289,5522,"Dispatchers, except police, fire, and ambulance",3,42,0.0017291778171188603
-Belize,2009,47456,966,24289,6050,Other agricultural workers,2,42,0.0017291778171188603
-Belize,2009,47456,966,24289,2060,"Religious workers, all other",2,41,0.0016880069167112685
-Belize,2009,47456,966,24289,2634,Graphic designers,1,41,0.0016880069167112685
-Belize,2009,47456,966,24289,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,2,41,0.0016880069167112685
-Belize,2009,47456,966,24289,0102,Facilities managers,2,39,0.0016056651158960847
-Belize,2009,47456,966,24289,0530,"Purchasing agents, except wholesale, retail, and farm products",3,39,0.0016056651158960847
-Belize,2009,47456,966,24289,2830,Editors,1,39,0.0016056651158960847
-Belize,2009,47456,966,24289,9830,"Military, rank not specified",1,39,0.0016056651158960847
-Belize,2009,47456,966,24289,0735,Market research analysts and marketing specialists,1,38,0.0015644942154884928
-Belize,2009,47456,966,24289,1006,Computer systems analysts,2,37,0.0015233233150809009
-Belize,2009,47456,966,24289,4030,Food preparation workers,2,37,0.0015233233150809009
-Belize,2009,47456,966,24289,7540,Locksmiths and safe repairers,1,37,0.0015233233150809009
-Belize,2009,47456,966,24289,0060,Public relations and fundraising managers,2,35,0.001440981514265717
-Belize,2009,47456,966,24289,4252,Tree trimmers and pruners,1,34,0.0013998106138581252
-Belize,2009,47456,966,24289,5720,Legal secretaries and administrative assistants,2,34,0.0013998106138581252
-Belize,2009,47456,966,24289,1760,"Physical scientists, all other",2,33,0.0013586397134505333
-Belize,2009,47456,966,24289,8610,Stationary engineers and boiler operators,2,33,0.0013586397134505333
-Belize,2009,47456,966,24289,4521,Manicurists and pedicurists,1,32,0.0013174688130429412
-Belize,2009,47456,966,24289,4525,Other personal appearance workers,1,32,0.0013174688130429412
-Belize,2009,47456,966,24289,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,32,0.0013174688130429412
-Belize,2009,47456,966,24289,9350,Parking attendants,1,32,0.0013174688130429412
-Belize,2009,47456,966,24289,4400,Gambling services workers,1,31,0.0012762979126353493
-Belize,2009,47456,966,24289,5420,Other information and records clerks,1,31,0.0012762979126353493
-Belize,2009,47456,966,24289,1545,Other drafters,1,29,0.0011939561118201655
-Belize,2009,47456,966,24289,4000,Chefs and head cooks,3,29,0.0011939561118201655
-Belize,2009,47456,966,24289,5550,Postal service mail carriers,2,29,0.0011939561118201655
-Belize,2009,47456,966,24289,8450,Upholsterers,1,29,0.0011939561118201655
-Belize,2009,47456,966,24289,1920,Chemical technicians,1,28,0.0011527852114125736
-Belize,2009,47456,966,24289,3424,Veterinary technologists and technicians,1,28,0.0011527852114125736
-Belize,2009,47456,966,24289,3515,Medical records specialists,1,28,0.0011527852114125736
-Belize,2009,47456,966,24289,5300,"Hotel, motel, and resort desk clerks",2,28,0.0011527852114125736
-Belize,2009,47456,966,24289,7330,Industrial and refractory machinery mechanics,2,28,0.0011527852114125736
-Belize,2009,47456,966,24289,7315,"Heating, air conditioning, and refrigeration mechanics and installers",2,27,0.0011116143110049817
-Belize,2009,47456,966,24289,8225,Other metal workers and plastic workers,1,27,0.0011116143110049817
-Belize,2009,47456,966,24289,3740,Firefighters,1,26,0.0010704434105973898
-Belize,2009,47456,966,24289,1822,School psychologists,2,25,0.0010292725101897979
-Belize,2009,47456,966,24289,8750,Jewelers and precious stone and metal workers,2,25,0.0010292725101897979
-Belize,2009,47456,966,24289,3230,Speech-language pathologists,1,24,9.88101609782206e-4
-Belize,2009,47456,966,24289,3640,Dental assistants,1,24,9.88101609782206e-4
-Belize,2009,47456,966,24289,1022,Software quality assurance analysts and testers,1,23,9.46930709374614e-4
-Belize,2009,47456,966,24289,2016,Social and human service assistants,1,23,9.46930709374614e-4
-Belize,2009,47456,966,24289,2755,"Disc jockeys, except radio",1,23,9.46930709374614e-4
-Belize,2009,47456,966,24289,4251,Landscaping and groundskeeping workers,1,22,9.057598089670221e-4
-Belize,2009,47456,966,24289,1105,Network and computer systems administrators,2,21,8.645889085594302e-4
-Belize,2009,47456,966,24289,1460,Mechanical engineers,1,21,8.645889085594302e-4
-Belize,2009,47456,966,24289,3322,Diagnostic medical sonographers,1,21,8.645889085594302e-4
-Belize,2009,47456,966,24289,7000,"First-line supervisors of mechanics, installers, and repairers",1,21,8.645889085594302e-4
-Belize,2009,47456,966,24289,3545,Miscellaneous health technologists and technicians,1,20,8.234180081518383e-4
-Belize,2009,47456,966,24289,4140,Dishwashers,1,20,8.234180081518383e-4
-Belize,2009,47456,966,24289,5600,"Production, planning, and expediting clerks",1,20,8.234180081518383e-4
-Belize,2009,47456,966,24289,8140,"Welding, soldering, and brazing workers",1,20,8.234180081518383e-4
-Belize,2009,47456,966,24289,0500,"Agents and business managers of artists, performers, and athletes",1,19,7.822471077442464e-4
-Belize,2009,47456,966,24289,1106,Computer network architects,1,19,7.822471077442464e-4
-Belize,2009,47456,966,24289,5540,Postal service clerks,1,19,7.822471077442464e-4
-Belize,2009,47456,966,24289,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,19,7.822471077442464e-4
-Belize,2009,47456,966,24289,9150,"Motor vehicle operators, all other",1,19,7.822471077442464e-4
-Belize,2009,47456,966,24289,2350,Tutors,1,18,7.410762073366545e-4
-Belize,2009,47456,966,24289,5250,"Eligibility interviewers, government programs",2,18,7.410762073366545e-4
-Belize,2009,47456,966,24289,5521,Public safety telecommunicators,1,18,7.410762073366545e-4
-Belize,2009,47456,966,24289,6330,"Drywall installers, ceiling tile installers, and tapers",1,18,7.410762073366545e-4
-Belize,2009,47456,966,24289,7020,Radio and telecommunications equipment installers and repairers,1,18,7.410762073366545e-4
-Belize,2009,47456,966,24289,9610,Cleaners of vehicles and equipment,1,18,7.410762073366545e-4
-Belize,2009,47456,966,24289,0150,Purchasing managers,1,17,6.999053069290626e-4
-Belize,2009,47456,966,24289,2011,"Child, family, and school social workers",1,17,6.999053069290626e-4
-Belize,2009,47456,966,24289,8320,Sewing machine operators,1,17,6.999053069290626e-4
-Belize,2009,47456,966,24289,0860,Insurance underwriters,1,16,6.587344065214706e-4
-Belize,2009,47456,966,24289,1220,Operations research analysts,1,16,6.587344065214706e-4
-Belize,2009,47456,966,24289,2722,Coaches and scouts,1,16,6.587344065214706e-4
-Belize,2009,47456,966,24289,4120,"Food servers, nonrestaurant",1,16,6.587344065214706e-4
-Belize,2009,47456,966,24289,5140,Payroll and timekeeping clerks,1,16,6.587344065214706e-4
-Belize,2009,47456,966,24289,9210,Locomotive engineers and operators,1,16,6.587344065214706e-4
-Belize,2009,47456,966,24289,0140,Industrial production managers,1,15,6.175635061138787e-4
-Belize,2009,47456,966,24289,0930,"Tax examiners and collectors, and revenue agents",2,15,6.175635061138787e-4
-Belize,2009,47456,966,24289,1305,"Architects, except landscape and naval",1,15,6.175635061138787e-4
-Belize,2009,47456,966,24289,2005,Rehabilitation counselors,1,15,6.175635061138787e-4
-Belize,2009,47456,966,24289,2025,Other community and social service specialists,1,15,6.175635061138787e-4
-Belize,2009,47456,966,24289,6441,Pipelayers,1,15,6.175635061138787e-4
-Belize,2009,47456,966,24289,1800,Economists,1,14,5.763926057062868e-4
-Belize,2009,47456,966,24289,4040,Bartenders,1,14,5.763926057062868e-4
-Belize,2009,47456,966,24289,7240,Small engine mechanics,1,14,5.763926057062868e-4
-Belize,2009,47456,966,24289,0340,Lodging managers,1,13,5.352217052986949e-4
-Belize,2009,47456,966,24289,2012,Healthcare social workers,1,13,5.352217052986949e-4
-Belize,2009,47456,966,24289,2640,Other designers,1,13,5.352217052986949e-4
-Belize,2009,47456,966,24289,2721,Athletes and sports competitors,1,13,5.352217052986949e-4
-Belize,2009,47456,966,24289,3030,Dietitians and nutritionists,1,13,5.352217052986949e-4
-Belize,2009,47456,966,24289,3160,Physical therapists,1,13,5.352217052986949e-4
-Belize,2009,47456,966,24289,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",1,13,5.352217052986949e-4
-Belize,2009,47456,966,24289,7410,Electrical power-line installers and repairers,1,13,5.352217052986949e-4
-Belize,2009,47456,966,24289,8950,Helpers--production workers,1,13,5.352217052986949e-4
-Belize,2009,47456,966,24289,4800,Advertising sales agents,1,12,4.94050804891103e-4
-Belize,2009,47456,966,24289,4965,"Sales and related workers, all other",1,12,4.94050804891103e-4
-Belize,2009,47456,966,24289,6010,Agricultural inspectors,1,12,4.94050804891103e-4
-Belize,2009,47456,966,24289,6850,Underground mining machine operators,1,12,4.94050804891103e-4
-Belize,2009,47456,966,24289,0136,Human resources managers,1,11,4.5287990448351104e-4
-Belize,2009,47456,966,24289,2040,Clergy,1,11,4.5287990448351104e-4
-Belize,2009,47456,966,24289,3323,Radiologic technologists and technicians,1,11,4.5287990448351104e-4
-Belize,2009,47456,966,24289,7640,"Other installation, maintenance, and repair workers",1,11,4.5287990448351104e-4
-Belize,2009,47456,966,24289,1900,Agricultural and food science technicians,1,10,4.1170900407591914e-4
-Belize,2009,47456,966,24289,3940,Crossing guards and flaggers,1,10,4.1170900407591914e-4
-Belize,2009,47456,966,24289,6710,Fence erectors,1,10,4.1170900407591914e-4
-Belize,2009,47456,966,24289,7030,Avionics technicians,1,10,4.1170900407591914e-4
-Belize,2009,47456,966,24289,3321,Cardiovascular technologists and technicians,1,9,3.7053810366832724e-4
-Belize,2009,47456,966,24289,6730,Highway maintenance workers,1,9,3.7053810366832724e-4
-Belize,2009,47456,966,24289,9050,Flight attendants,1,9,3.7053810366832724e-4
-Belize,2009,47456,966,24289,1530,Other engineers,1,8,3.293672032607353e-4
-Belize,2009,47456,966,24289,3050,Pharmacists,1,8,3.293672032607353e-4
-Belize,2009,47456,966,24289,4830,Travel agents,1,8,3.293672032607353e-4
-Belize,2009,47456,966,24289,6040,"Graders and sorters, agricultural products",1,8,3.293672032607353e-4
-Belize,2009,47456,966,24289,2861,Interpreters and translators,1,5,2.0585450203795957e-4
-Belize,2009,47456,966,24289,2905,Other media and communication equipment workers,1,5,2.0585450203795957e-4
-Belize,2009,47456,966,24289,1350,Chemical engineers,1,3,1.2351270122277575e-4
-Belize,2009,47456,966,24289,7810,"Butchers and other meat, poultry, and fish processing workers",1,3,1.2351270122277575e-4
+country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Belize,2009,47456,1093,27247,3602,Personal care aides,33,1047,0.03842624876133152
+Belize,2009,47456,1093,27247,3255,Registered nurses,27,809,0.02969134216611003
+Belize,2009,47456,1093,27247,3603,Nursing assistants,26,665,0.024406356663118876
+Belize,2009,47456,1093,27247,0440,Other managers,23,653,0.023965941204536278
+Belize,2009,47456,1093,27247,9130,Driver/sales workers and truck drivers,26,629,0.023085110287371088
+Belize,2009,47456,1093,27247,5740,"Secretaries and administrative assistants, except legal, medical, and executive",24,484,0.017763423496164714
+Belize,2009,47456,1093,27247,4760,Retail salespersons,16,462,0.016955995155429955
+Belize,2009,47456,1093,27247,4220,Janitors and building cleaners,26,460,0.016882592578999524
+Belize,2009,47456,1093,27247,4230,Maids and housekeeping cleaners,17,433,0.01589165779718868
+Belize,2009,47456,1093,27247,3601,Home health aides,16,432,0.015854956508973464
+Belize,2009,47456,1093,27247,0120,Financial managers,17,406,0.014900723015377839
+Belize,2009,47456,1093,27247,9142,Taxi drivers,9,396,0.014533710133225677
+Belize,2009,47456,1093,27247,5860,"Office clerks, general",14,388,0.014240099827503945
+Belize,2009,47456,1093,27247,9620,"Laborers and freight, stock, and material movers, hand",17,387,0.014203398539288729
+Belize,2009,47456,1093,27247,6230,Carpenters,10,386,0.014166697251073513
+Belize,2009,47456,1093,27247,5120,"Bookkeeping, accounting, and auditing clerks",19,369,0.013542775351414835
+Belize,2009,47456,1093,27247,3500,Licensed practical and licensed vocational nurses,15,366,0.013432671486769186
+Belize,2009,47456,1093,27247,2205,Postsecondary teachers,16,340,0.012478437993173561
+Belize,2009,47456,1093,27247,4720,Cashiers,13,333,0.012221528975667046
+Belize,2009,47456,1093,27247,4110,Waiters and waitresses,9,325,0.011927918669945315
+Belize,2009,47456,1093,27247,3930,Security guards and gaming surveillance officers,15,323,0.011854516093514882
+Belize,2009,47456,1093,27247,4700,First-line supervisors of retail sales workers,11,321,0.01178111351708445
+Belize,2009,47456,1093,27247,2310,Elementary and middle school teachers,16,301,0.011047087752780122
+Belize,2009,47456,1093,27247,2545,Teaching assistants,13,298,0.010936983888134473
+Belize,2009,47456,1093,27247,0800,Accountants and auditors,16,289,0.010606672294197527
+Belize,2009,47456,1093,27247,5240,Customer service representatives,13,278,0.010202958123830146
+Belize,2009,47456,1093,27247,4020,Cooks,11,271,0.009946049106323632
+Belize,2009,47456,1093,27247,7700,First-line supervisors of production and operating workers,5,262,0.009615737512386684
+Belize,2009,47456,1093,27247,6355,Electricians,8,259,0.009505633647741036
+Belize,2009,47456,1093,27247,7200,Automotive service technicians and mechanics,6,253,0.009285425918449738
+Belize,2009,47456,1093,27247,4600,Childcare workers,11,246,0.009028516900943223
+Belize,2009,47456,1093,27247,5000,First-line supervisors of office and administrative support workers,14,241,0.008845010459867141
+Belize,2009,47456,1093,27247,8740,"Inspectors, testers, sorters, samplers, and weighers",9,231,0.008477997577714978
+Belize,2009,47456,1093,27247,0630,Human resources workers,9,230,0.008441296289499762
+Belize,2009,47456,1093,27247,9645,Stockers and order fillers,10,227,0.008331192424854113
+Belize,2009,47456,1093,27247,6442,"Plumbers, pipefitters, and steamfitters",6,225,0.00825778984842368
+Belize,2009,47456,1093,27247,3870,Police officers,13,222,0.008147685983778031
+Belize,2009,47456,1093,27247,1410,Electrical and electronics engineers,3,217,0.00796417954270195
+Belize,2009,47456,1093,27247,6260,Construction laborers,8,204,0.007487062795904136
+Belize,2009,47456,1093,27247,1108,"Computer occupations, all other",6,197,0.007230153778397622
+Belize,2009,47456,1093,27247,0220,Construction managers,7,190,0.006973244760891107
+Belize,2009,47456,1093,27247,1021,Software developers,6,188,0.006899842184460675
+Belize,2009,47456,1093,27247,5840,Insurance claims and policy processing clerks,6,188,0.006899842184460675
+Belize,2009,47456,1093,27247,2710,Producers and directors,2,179,0.006569530590523728
+Belize,2009,47456,1093,27247,0540,"Claims adjusters, appraisers, examiners, and investigators",3,169,0.006202517708371564
+Belize,2009,47456,1093,27247,5110,Billing and posting clerks,4,165,0.006055712555510699
+Belize,2009,47456,1093,27247,7040,"Electric motor, power tool, and related repairers",2,162,0.005945608690865049
+Belize,2009,47456,1093,27247,0410,"Property, real estate, and community association managers",6,160,0.005872206114434617
+Belize,2009,47456,1093,27247,0600,Cost estimators,1,158,0.005798803538004184
+Belize,2009,47456,1093,27247,0710,Management analysts,2,158,0.005798803538004184
+Belize,2009,47456,1093,27247,0910,Credit counselors and loan officers,3,158,0.005798803538004184
+Belize,2009,47456,1093,27247,4810,Insurance sales agents,4,157,0.005762102249788968
+Belize,2009,47456,1093,27247,0420,Social and community service managers,5,152,0.005578595808712886
+Belize,2009,47456,1093,27247,4510,"Hairdressers, hairstylists, and cosmetologists",2,151,0.00554189452049767
+Belize,2009,47456,1093,27247,5400,Receptionists and information clerks,9,148,0.005431790655852021
+Belize,2009,47456,1093,27247,9630,Machine feeders and offbearers,2,148,0.005431790655852021
+Belize,2009,47456,1093,27247,0230,Education and childcare administrators,9,145,0.005321686791206371
+Belize,2009,47456,1093,27247,0010,Chief executives and legislators,10,144,0.005284985502991155
+Belize,2009,47456,1093,27247,4710,First-line supervisors of non-retail sales workers,6,144,0.005284985502991155
+Belize,2009,47456,1093,27247,2014,"Social workers, all other",2,143,0.005248284214775939
+Belize,2009,47456,1093,27247,0020,General and operations managers,5,138,0.005064777773699857
+Belize,2009,47456,1093,27247,3300,Clinical laboratory technologists and technicians,5,134,0.004917972620838992
+Belize,2009,47456,1093,27247,2300,Preschool and kindergarten teachers,5,132,0.004844570044408559
+Belize,2009,47456,1093,27247,7750,Other assemblers and fabricators,5,131,0.004807868756193342
+Belize,2009,47456,1093,27247,0705,Project management specialists,6,128,0.004697764891547693
+Belize,2009,47456,1093,27247,5510,Couriers and messengers,6,124,0.004550959738686828
+Belize,2009,47456,1093,27247,9122,"Bus drivers, transit and intercity",6,124,0.004550959738686828
+Belize,2009,47456,1093,27247,4055,Fast food and counter workers,7,120,0.004404154585825963
+Belize,2009,47456,1093,27247,1360,Civil engineers,1,117,0.004294050721180313
+Belize,2009,47456,1093,27247,0350,Medical and health services managers,5,116,0.0042573494329650975
+Belize,2009,47456,1093,27247,1555,"Other engineering technologists and technicians, except drafters",8,115,0.004220648144749881
+Belize,2009,47456,1093,27247,5940,Other office and administrative support workers,6,114,0.004183946856534664
+Belize,2009,47456,1093,27247,7340,"Maintenance and repair workers, general",3,109,0.0040004404154585825
+Belize,2009,47456,1093,27247,2752,Musicians and singers,3,108,0.003963739127243366
+Belize,2009,47456,1093,27247,2100,"Lawyers, and judges, magistrates, and other judicial workers",4,106,0.0038903365508129333
+Belize,2009,47456,1093,27247,0565,Compliance officers,3,102,0.003743531397952068
+Belize,2009,47456,1093,27247,7210,Bus and truck mechanics and diesel engine specialists,6,102,0.003743531397952068
+Belize,2009,47456,1093,27247,3090,Physicians,7,101,0.003706830109736852
+Belize,2009,47456,1093,27247,2006,"Counselors, all other",2,99,0.0036334275333064193
+Belize,2009,47456,1093,27247,5410,Reservation and transportation ticket agents and travel clerks,3,99,0.0036334275333064193
+Belize,2009,47456,1093,27247,6515,Roofers,1,98,0.0035967262450912027
+Belize,2009,47456,1093,27247,1031,Web developers,1,96,0.00352332366866077
+Belize,2009,47456,1093,27247,0850,Personal financial advisors,4,95,0.0034866223804455535
+Belize,2009,47456,1093,27247,4820,"Securities, commodities, and financial services sales agents",4,94,0.0034499210922303374
+Belize,2009,47456,1093,27247,8030,Machinists,3,94,0.0034499210922303374
+Belize,2009,47456,1093,27247,5850,"Mail clerks and mail machine operators, except postal service",2,93,0.003413219804015121
+Belize,2009,47456,1093,27247,0650,Training and development specialists,4,89,0.0032664146511542556
+Belize,2009,47456,1093,27247,0960,Other financial specialists,5,86,0.0031563107865086064
+Belize,2009,47456,1093,27247,2002,"Educational, guidance, and career counselors and advisors",4,86,0.0031563107865086064
+Belize,2009,47456,1093,27247,1050,Computer support specialists,5,85,0.0031196094982933902
+Belize,2009,47456,1093,27247,2145,Paralegals and legal assistants,8,84,0.0030829082100781737
+Belize,2009,47456,1093,27247,4621,Exercise trainers and group fitness instructors,2,84,0.0030829082100781737
+Belize,2009,47456,1093,27247,5710,Executive secretaries and executive administrative assistants,3,83,0.0030462069218629576
+Belize,2009,47456,1093,27247,8990,"Miscellaneous production workers, including equipment operators and tenders",5,82,0.003009505633647741
+Belize,2009,47456,1093,27247,7140,Aircraft mechanics and service technicians,2,81,0.0029728043454325245
+Belize,2009,47456,1093,27247,0520,"Wholesale and retail buyers, except farm products",3,79,0.002899401769002092
+Belize,2009,47456,1093,27247,3245,Other therapists,1,75,0.0027525966161412265
+Belize,2009,47456,1093,27247,6200,First-line supervisors of construction trades and extraction workers,4,75,0.0027525966161412265
+Belize,2009,47456,1093,27247,4850,"Sales representatives, wholesale and manufacturing",5,74,0.0027158953279260104
+Belize,2009,47456,1093,27247,5610,"Shipping, receiving, and inventory clerks",3,74,0.0027158953279260104
+Belize,2009,47456,1093,27247,3645,Medical assistants,4,71,0.0026057914632803612
+Belize,2009,47456,1093,27247,9005,Supervisors of transportation and material moving workers,2,71,0.0026057914632803612
+Belize,2009,47456,1093,27247,0845,Financial and investment analysts,4,70,0.0025690901750651447
+Belize,2009,47456,1093,27247,3258,"Nurse practitioners, and nurse midwives",2,69,0.0025323888868499286
+Belize,2009,47456,1093,27247,6410,Painters and paperhangers,4,69,0.0025323888868499286
+Belize,2009,47456,1093,27247,0310,Food service managers,5,68,0.002495687598634712
+Belize,2009,47456,1093,27247,2330,Special education teachers,4,68,0.002495687598634712
+Belize,2009,47456,1093,27247,4920,Real estate brokers and sales agents,2,67,0.002458986310419496
+Belize,2009,47456,1093,27247,5420,Other information and records clerks,3,66,0.0024222850222042794
+Belize,2009,47456,1093,27247,3802,Correctional officers and jailers,2,65,0.002385583733989063
+Belize,2009,47456,1093,27247,4030,Food preparation workers,3,63,0.00231218115755863
+Belize,2009,47456,1093,27247,4740,Counter and rental clerks,1,63,0.00231218115755863
+Belize,2009,47456,1093,27247,5810,Data entry keyers,2,63,0.00231218115755863
+Belize,2009,47456,1093,27247,0052,Sales managers,2,62,0.002275479869343414
+Belize,2009,47456,1093,27247,0205,"Farmers, ranchers, and other agricultural managers",4,61,0.0022387785811281975
+Belize,2009,47456,1093,27247,0750,"Business operations specialists, all other",2,61,0.0022387785811281975
+Belize,2009,47456,1093,27247,2320,Secondary school teachers,4,60,0.0022020772929129814
+Belize,2009,47456,1093,27247,4010,First-line supervisors of food preparation and serving workers,3,60,0.0022020772929129814
+Belize,2009,47456,1093,27247,9121,"Bus drivers, school",3,59,0.002165376004697765
+Belize,2009,47456,1093,27247,5260,File clerks,2,58,0.0021286747164825487
+Belize,2009,47456,1093,27247,9600,Industrial truck and tractor operators,2,57,0.002091973428267332
+Belize,2009,47456,1093,27247,2435,Librarians and media collections specialists,1,56,0.0020552721400521157
+Belize,2009,47456,1093,27247,4200,First-line supervisors of housekeeping and janitorial workers,3,56,0.0020552721400521157
+Belize,2009,47456,1093,27247,3605,Orderlies and psychiatric aides,2,55,0.0020185708518368995
+Belize,2009,47456,1093,27247,0160,"Transportation, storage, and distribution managers",1,53,0.0019451682754064667
+Belize,2009,47456,1093,27247,9825,Military enlisted tactical operations and air/weapons specialists and crew members,3,53,0.0019451682754064667
+Belize,2009,47456,1093,27247,2015,Probation officers and correctional treatment specialists,2,52,0.0019084669871912503
+Belize,2009,47456,1093,27247,1450,Materials engineers,2,51,0.001871765698976034
+Belize,2009,47456,1093,27247,3648,Veterinary assistants and laboratory animal caretakers,1,51,0.001871765698976034
+Belize,2009,47456,1093,27247,3649,Phlebotomists,1,51,0.001871765698976034
+Belize,2009,47456,1093,27247,4500,Barbers,1,51,0.001871765698976034
+Belize,2009,47456,1093,27247,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",2,51,0.001871765698976034
+Belize,2009,47456,1093,27247,0110,Computer and information systems managers,4,50,0.0018350644107608177
+Belize,2009,47456,1093,27247,6660,Construction and building inspectors,2,50,0.0018350644107608177
+Belize,2009,47456,1093,27247,1980,Occupational health and safety specialists and technicians,1,49,0.0017983631225456014
+Belize,2009,47456,1093,27247,5500,Cargo and freight agents,2,49,0.0017983631225456014
+Belize,2009,47456,1093,27247,9640,"Packers and packagers, hand",3,49,0.0017983631225456014
+Belize,2009,47456,1093,27247,5320,"Library assistants, clerical",2,48,0.001761661834330385
+Belize,2009,47456,1093,27247,8300,Laundry and dry-cleaning workers,2,48,0.001761661834330385
+Belize,2009,47456,1093,27247,0700,Logisticians,1,45,0.0016515579696847358
+Belize,2009,47456,1093,27247,5560,"Postal service mail sorters, processors, and processing machine operators",1,45,0.0016515579696847358
+Belize,2009,47456,1093,27247,8800,Packaging and filling machine operators and tenders,3,45,0.0016515579696847358
+Belize,2009,47456,1093,27247,5010,"Switchboard operators, including answering service",1,44,0.0016148566814695195
+Belize,2009,47456,1093,27247,0640,"Compensation, benefits, and job analysis specialists",3,43,0.0015781553932543032
+Belize,2009,47456,1093,27247,6240,"Carpet, floor, and tile installers and finishers",1,43,0.0015781553932543032
+Belize,2009,47456,1093,27247,2360,Other teachers and instructors,2,42,0.0015414541050390868
+Belize,2009,47456,1093,27247,5522,"Dispatchers, except police, fire, and ambulance",3,42,0.0015414541050390868
+Belize,2009,47456,1093,27247,6050,Other agricultural workers,2,42,0.0015414541050390868
+Belize,2009,47456,1093,27247,2060,"Religious workers, all other",2,41,0.0015047528168238705
+Belize,2009,47456,1093,27247,2634,Graphic designers,1,41,0.0015047528168238705
+Belize,2009,47456,1093,27247,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,2,41,0.0015047528168238705
+Belize,2009,47456,1093,27247,4251,Landscaping and groundskeeping workers,2,40,0.0014680515286086542
+Belize,2009,47456,1093,27247,0102,Facilities managers,2,39,0.0014313502403934379
+Belize,2009,47456,1093,27247,0530,"Purchasing agents, except wholesale, retail, and farm products",3,39,0.0014313502403934379
+Belize,2009,47456,1093,27247,2830,Editors,1,39,0.0014313502403934379
+Belize,2009,47456,1093,27247,9830,"Military, rank not specified",1,39,0.0014313502403934379
+Belize,2009,47456,1093,27247,0735,Market research analysts and marketing specialists,1,38,0.0013946489521782215
+Belize,2009,47456,1093,27247,1825,Other psychologists,1,38,0.0013946489521782215
+Belize,2009,47456,1093,27247,2012,Healthcare social workers,2,38,0.0013946489521782215
+Belize,2009,47456,1093,27247,1006,Computer systems analysts,2,37,0.0013579476639630052
+Belize,2009,47456,1093,27247,7540,Locksmiths and safe repairers,1,37,0.0013579476639630052
+Belize,2009,47456,1093,27247,5300,"Hotel, motel, and resort desk clerks",3,36,0.0013212463757477887
+Belize,2009,47456,1093,27247,0060,Public relations and fundraising managers,2,35,0.0012845450875325723
+Belize,2009,47456,1093,27247,4252,Tree trimmers and pruners,1,34,0.001247843799317356
+Belize,2009,47456,1093,27247,5720,Legal secretaries and administrative assistants,2,34,0.001247843799317356
+Belize,2009,47456,1093,27247,1760,"Physical scientists, all other",2,33,0.0012111425111021397
+Belize,2009,47456,1093,27247,8610,Stationary engineers and boiler operators,2,33,0.0012111425111021397
+Belize,2009,47456,1093,27247,4521,Manicurists and pedicurists,1,32,0.0011744412228869234
+Belize,2009,47456,1093,27247,4525,Other personal appearance workers,1,32,0.0011744412228869234
+Belize,2009,47456,1093,27247,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,32,0.0011744412228869234
+Belize,2009,47456,1093,27247,9350,Parking attendants,1,32,0.0011744412228869234
+Belize,2009,47456,1093,27247,4400,Gambling services workers,1,31,0.001137739934671707
+Belize,2009,47456,1093,27247,0860,Insurance underwriters,2,29,0.0010643373582412744
+Belize,2009,47456,1093,27247,1545,Other drafters,1,29,0.0010643373582412744
+Belize,2009,47456,1093,27247,4000,Chefs and head cooks,3,29,0.0010643373582412744
+Belize,2009,47456,1093,27247,5550,Postal service mail carriers,2,29,0.0010643373582412744
+Belize,2009,47456,1093,27247,8450,Upholsterers,1,29,0.0010643373582412744
+Belize,2009,47456,1093,27247,1920,Chemical technicians,1,28,0.0010276360700260578
+Belize,2009,47456,1093,27247,2350,Tutors,2,28,0.0010276360700260578
+Belize,2009,47456,1093,27247,3424,Veterinary technologists and technicians,1,28,0.0010276360700260578
+Belize,2009,47456,1093,27247,3515,Medical records specialists,1,28,0.0010276360700260578
+Belize,2009,47456,1093,27247,7330,Industrial and refractory machinery mechanics,2,28,0.0010276360700260578
+Belize,2009,47456,1093,27247,7315,"Heating, air conditioning, and refrigeration mechanics and installers",2,27,9.909347818108415e-4
+Belize,2009,47456,1093,27247,8225,Other metal workers and plastic workers,1,27,9.909347818108415e-4
+Belize,2009,47456,1093,27247,3740,Firefighters,1,26,9.542334935956252e-4
+Belize,2009,47456,1093,27247,1822,School psychologists,2,25,9.175322053804088e-4
+Belize,2009,47456,1093,27247,8750,Jewelers and precious stone and metal workers,2,25,9.175322053804088e-4
+Belize,2009,47456,1093,27247,1560,Surveying and mapping technicians,1,24,8.808309171651925e-4
+Belize,2009,47456,1093,27247,3230,Speech-language pathologists,1,24,8.808309171651925e-4
+Belize,2009,47456,1093,27247,3640,Dental assistants,1,24,8.808309171651925e-4
+Belize,2009,47456,1093,27247,1022,Software quality assurance analysts and testers,1,23,8.441296289499762e-4
+Belize,2009,47456,1093,27247,2016,Social and human service assistants,1,23,8.441296289499762e-4
+Belize,2009,47456,1093,27247,2755,"Disc jockeys, except radio",1,23,8.441296289499762e-4
+Belize,2009,47456,1093,27247,2040,Clergy,2,22,8.074283407347598e-4
+Belize,2009,47456,1093,27247,1105,Network and computer systems administrators,2,21,7.707270525195434e-4
+Belize,2009,47456,1093,27247,1460,Mechanical engineers,1,21,7.707270525195434e-4
+Belize,2009,47456,1093,27247,3322,Diagnostic medical sonographers,1,21,7.707270525195434e-4
+Belize,2009,47456,1093,27247,7000,"First-line supervisors of mechanics, installers, and repairers",1,21,7.707270525195434e-4
+Belize,2009,47456,1093,27247,3545,Miscellaneous health technologists and technicians,1,20,7.340257643043271e-4
+Belize,2009,47456,1093,27247,4140,Dishwashers,1,20,7.340257643043271e-4
+Belize,2009,47456,1093,27247,5600,"Production, planning, and expediting clerks",1,20,7.340257643043271e-4
+Belize,2009,47456,1093,27247,8140,"Welding, soldering, and brazing workers",1,20,7.340257643043271e-4
+Belize,2009,47456,1093,27247,0500,"Agents and business managers of artists, performers, and athletes",1,19,6.973244760891108e-4
+Belize,2009,47456,1093,27247,1106,Computer network architects,1,19,6.973244760891108e-4
+Belize,2009,47456,1093,27247,5540,Postal service clerks,1,19,6.973244760891108e-4
+Belize,2009,47456,1093,27247,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,19,6.973244760891108e-4
+Belize,2009,47456,1093,27247,7640,"Other installation, maintenance, and repair workers",2,19,6.973244760891108e-4
+Belize,2009,47456,1093,27247,9150,"Motor vehicle operators, all other",1,19,6.973244760891108e-4
+Belize,2009,47456,1093,27247,0725,"Meeting, convention, and event planners",1,18,6.606231878738943e-4
+Belize,2009,47456,1093,27247,3655,Other healthcare support workers,1,18,6.606231878738943e-4
+Belize,2009,47456,1093,27247,3940,Crossing guards and flaggers,2,18,6.606231878738943e-4
+Belize,2009,47456,1093,27247,5250,"Eligibility interviewers, government programs",2,18,6.606231878738943e-4
+Belize,2009,47456,1093,27247,5521,Public safety telecommunicators,1,18,6.606231878738943e-4
+Belize,2009,47456,1093,27247,6330,"Drywall installers, ceiling tile installers, and tapers",1,18,6.606231878738943e-4
+Belize,2009,47456,1093,27247,7020,Radio and telecommunications equipment installers and repairers,1,18,6.606231878738943e-4
+Belize,2009,47456,1093,27247,9610,Cleaners of vehicles and equipment,1,18,6.606231878738943e-4
+Belize,2009,47456,1093,27247,0150,Purchasing managers,1,17,6.23921899658678e-4
+Belize,2009,47456,1093,27247,2011,"Child, family, and school social workers",1,17,6.23921899658678e-4
+Belize,2009,47456,1093,27247,8320,Sewing machine operators,1,17,6.23921899658678e-4
+Belize,2009,47456,1093,27247,1220,Operations research analysts,1,16,5.872206114434617e-4
+Belize,2009,47456,1093,27247,2722,Coaches and scouts,1,16,5.872206114434617e-4
+Belize,2009,47456,1093,27247,2861,Interpreters and translators,2,16,5.872206114434617e-4
+Belize,2009,47456,1093,27247,4120,"Food servers, nonrestaurant",1,16,5.872206114434617e-4
+Belize,2009,47456,1093,27247,5140,Payroll and timekeeping clerks,1,16,5.872206114434617e-4
+Belize,2009,47456,1093,27247,9210,Locomotive engineers and operators,1,16,5.872206114434617e-4
+Belize,2009,47456,1093,27247,0140,Industrial production managers,1,15,5.505193232282453e-4
+Belize,2009,47456,1093,27247,0930,"Tax examiners and collectors, and revenue agents",2,15,5.505193232282453e-4
+Belize,2009,47456,1093,27247,1305,"Architects, except landscape and naval",1,15,5.505193232282453e-4
+Belize,2009,47456,1093,27247,2005,Rehabilitation counselors,1,15,5.505193232282453e-4
+Belize,2009,47456,1093,27247,2025,Other community and social service specialists,1,15,5.505193232282453e-4
+Belize,2009,47456,1093,27247,6441,Pipelayers,1,15,5.505193232282453e-4
+Belize,2009,47456,1093,27247,1800,Economists,1,14,5.138180350130289e-4
+Belize,2009,47456,1093,27247,4040,Bartenders,1,14,5.138180350130289e-4
+Belize,2009,47456,1093,27247,6765,Other construction and related workers,1,14,5.138180350130289e-4
+Belize,2009,47456,1093,27247,7240,Small engine mechanics,1,14,5.138180350130289e-4
+Belize,2009,47456,1093,27247,0340,Lodging managers,1,13,4.771167467978126e-4
+Belize,2009,47456,1093,27247,2640,Other designers,1,13,4.771167467978126e-4
+Belize,2009,47456,1093,27247,2721,Athletes and sports competitors,1,13,4.771167467978126e-4
+Belize,2009,47456,1093,27247,3030,Dietitians and nutritionists,1,13,4.771167467978126e-4
+Belize,2009,47456,1093,27247,3160,Physical therapists,1,13,4.771167467978126e-4
+Belize,2009,47456,1093,27247,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",1,13,4.771167467978126e-4
+Belize,2009,47456,1093,27247,7410,Electrical power-line installers and repairers,1,13,4.771167467978126e-4
+Belize,2009,47456,1093,27247,8950,Helpers--production workers,1,13,4.771167467978126e-4
+Belize,2009,47456,1093,27247,4800,Advertising sales agents,1,12,4.4041545858259626e-4
+Belize,2009,47456,1093,27247,4965,"Sales and related workers, all other",1,12,4.4041545858259626e-4
+Belize,2009,47456,1093,27247,6010,Agricultural inspectors,1,12,4.4041545858259626e-4
+Belize,2009,47456,1093,27247,6850,Underground mining machine operators,1,12,4.4041545858259626e-4
+Belize,2009,47456,1093,27247,0136,Human resources managers,1,11,4.037141703673799e-4
+Belize,2009,47456,1093,27247,0940,Tax preparers,1,11,4.037141703673799e-4
+Belize,2009,47456,1093,27247,1010,Computer programmers,1,11,4.037141703673799e-4
+Belize,2009,47456,1093,27247,3323,Radiologic technologists and technicians,1,11,4.037141703673799e-4
+Belize,2009,47456,1093,27247,1007,Information security analysts,1,10,3.6701288215216355e-4
+Belize,2009,47456,1093,27247,1900,Agricultural and food science technicians,1,10,3.6701288215216355e-4
+Belize,2009,47456,1093,27247,6710,Fence erectors,1,10,3.6701288215216355e-4
+Belize,2009,47456,1093,27247,7030,Avionics technicians,1,10,3.6701288215216355e-4
+Belize,2009,47456,1093,27247,3321,Cardiovascular technologists and technicians,1,9,3.3031159393694717e-4
+Belize,2009,47456,1093,27247,6730,Highway maintenance workers,1,9,3.3031159393694717e-4
+Belize,2009,47456,1093,27247,9050,Flight attendants,1,9,3.3031159393694717e-4
+Belize,2009,47456,1093,27247,1530,Other engineers,1,8,2.9361030572173084e-4
+Belize,2009,47456,1093,27247,3050,Pharmacists,1,8,2.9361030572173084e-4
+Belize,2009,47456,1093,27247,4830,Travel agents,1,8,2.9361030572173084e-4
+Belize,2009,47456,1093,27247,6040,"Graders and sorters, agricultural products",1,8,2.9361030572173084e-4
+Belize,2009,47456,1093,27247,2003,Marriage and family therapists,1,7,2.5690901750651446e-4
+Belize,2009,47456,1093,27247,8255,Printing press operators,1,7,2.5690901750651446e-4
+Belize,2009,47456,1093,27247,2905,Other media and communication equipment workers,1,5,1.8350644107608177e-4
+Belize,2009,47456,1093,27247,1350,Chemical engineers,1,3,1.1010386464564906e-4
+Belize,2009,47456,1093,27247,7810,"Butchers and other meat, poultry, and fish processing workers",1,3,1.1010386464564906e-4

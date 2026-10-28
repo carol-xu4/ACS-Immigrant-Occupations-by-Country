@@ -1,497 +1,503 @@
-bpl_region,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Middle East/Asia Minor,43461,1071783,21617,544483,0440,Other managers,830,19506,0.035824809957335675
-Middle East/Asia Minor,43461,1071783,21617,544483,4700,First-line supervisors of retail sales workers,691,19356,0.035549319262493044
-Middle East/Asia Minor,43461,1071783,21617,544483,9130,Driver/sales workers and truck drivers,585,18627,0.03421043448555786
-Middle East/Asia Minor,43461,1071783,21617,544483,3090,Physicians,744,16600,0.03048763689591778
-Middle East/Asia Minor,43461,1071783,21617,544483,4760,Retail salespersons,539,15035,0.027613350646393
-Middle East/Asia Minor,43461,1071783,21617,544483,1021,Software developers,649,14629,0.026867689165685615
-Middle East/Asia Minor,43461,1071783,21617,544483,4720,Cashiers,516,13847,0.025431464343239365
-Middle East/Asia Minor,43461,1071783,21617,544483,2205,Postsecondary teachers,689,13845,0.025427791133974798
-Middle East/Asia Minor,43461,1071783,21617,544483,9142,Taxi drivers,314,9695,0.017805881909995352
-Middle East/Asia Minor,43461,1071783,21617,544483,0010,Chief executives and legislators,399,9303,0.017085932894139944
-Middle East/Asia Minor,43461,1071783,21617,544483,2310,Elementary and middle school teachers,354,8167,0.01499955003186509
-Middle East/Asia Minor,43461,1071783,21617,544483,2545,Teaching assistants,359,8099,0.014874660916869764
-Middle East/Asia Minor,43461,1071783,21617,544483,3602,Personal care aides,256,7491,0.01375800530044097
-Middle East/Asia Minor,43461,1071783,21617,544483,0800,Accountants and auditors,289,7003,0.012861742239886278
-Middle East/Asia Minor,43461,1071783,21617,544483,4020,Cooks,212,6408,0.011768962483677176
-Middle East/Asia Minor,43461,1071783,21617,544483,5240,Customer service representatives,250,6061,0.011131660676274557
-Middle East/Asia Minor,43461,1071783,21617,544483,3255,Registered nurses,258,6017,0.011050850072454052
-Middle East/Asia Minor,43461,1071783,21617,544483,0120,Financial managers,253,5904,0.010843313749005937
-Middle East/Asia Minor,43461,1071783,21617,544483,0310,Food service managers,187,5776,0.01060822835607356
-Middle East/Asia Minor,43461,1071783,21617,544483,1530,Other engineers,234,5461,0.010029697896904036
-Middle East/Asia Minor,43461,1071783,21617,544483,1360,Civil engineers,208,5218,0.009583402971258974
-Middle East/Asia Minor,43461,1071783,21617,544483,0710,Management analysts,222,4999,0.009181186556788734
-Middle East/Asia Minor,43461,1071783,21617,544483,9645,Stockers and order fillers,171,4837,0.008883656606358693
-Middle East/Asia Minor,43461,1071783,21617,544483,0020,General and operations managers,199,4701,0.00863387837636804
-Middle East/Asia Minor,43461,1071783,21617,544483,4710,First-line supervisors of non-retail sales workers,181,4403,0.008086570195947348
-Middle East/Asia Minor,43461,1071783,21617,544483,4220,Janitors and building cleaners,150,4393,0.008068204149624506
-Middle East/Asia Minor,43461,1071783,21617,544483,0220,Construction managers,172,4329,0.007950661453158318
-Middle East/Asia Minor,43461,1071783,21617,544483,9620,"Laborers and freight, stock, and material movers, hand",160,4285,0.007869850849337813
-Middle East/Asia Minor,43461,1071783,21617,544483,7200,Automotive service technicians and mechanics,147,4207,0.007726595688019644
-Middle East/Asia Minor,43461,1071783,21617,544483,1760,"Physical scientists, all other",195,4182,0.007680680572212539
-Middle East/Asia Minor,43461,1071783,21617,544483,4920,Real estate brokers and sales agents,168,4130,0.007585177131333761
-Middle East/Asia Minor,43461,1071783,21617,544483,0705,Project management specialists,159,4069,0.007473144248764424
-Middle East/Asia Minor,43461,1071783,21617,544483,5740,"Secretaries and administrative assistants, except legal, medical, and executive",174,4030,0.0074015166681053405
-Middle East/Asia Minor,43461,1071783,21617,544483,4850,"Sales representatives, wholesale and manufacturing",153,4023,0.007388660435679351
-Middle East/Asia Minor,43461,1071783,21617,544483,4110,Waiters and waitresses,145,3953,0.0072600981114194565
-Middle East/Asia Minor,43461,1071783,21617,544483,2100,"Lawyers, and judges, magistrates, and other judicial workers",163,3930,0.00721785620487692
-Middle East/Asia Minor,43461,1071783,21617,544483,5510,Couriers and messengers,122,3834,0.007041542160177636
-Middle East/Asia Minor,43461,1071783,21617,544483,3930,Security guards and gaming surveillance officers,114,3457,0.006349142213806492
-Middle East/Asia Minor,43461,1071783,21617,544483,5000,First-line supervisors of office and administrative support workers,119,3328,0.00611222021624183
-Middle East/Asia Minor,43461,1071783,21617,544483,4510,"Hairdressers, hairstylists, and cosmetologists",113,3304,0.006068141705067008
-Middle East/Asia Minor,43461,1071783,21617,544483,3050,Pharmacists,133,3296,0.006053448868008735
-Middle East/Asia Minor,43461,1071783,21617,544483,2320,Secondary school teachers,158,3155,0.005794487614856662
-Middle East/Asia Minor,43461,1071783,21617,544483,0350,Medical and health services managers,126,3110,0.005711840406403873
-Middle East/Asia Minor,43461,1071783,21617,544483,0110,Computer and information systems managers,157,3101,0.005695310964713316
-Middle East/Asia Minor,43461,1071783,21617,544483,3010,Dentists,117,3101,0.005695310964713316
-Middle East/Asia Minor,43461,1071783,21617,544483,5120,"Bookkeeping, accounting, and auditing clerks",126,3032,0.005568585245085705
-Middle East/Asia Minor,43461,1071783,21617,544483,1108,"Computer occupations, all other",130,2944,0.005406964037444695
-Middle East/Asia Minor,43461,1071783,21617,544483,8990,"Miscellaneous production workers, including equipment operators and tenders",103,2851,0.005236159806642264
-Middle East/Asia Minor,43461,1071783,21617,544483,1410,Electrical and electronics engineers,126,2843,0.0052214669695839905
-Middle East/Asia Minor,43461,1071783,21617,544483,4600,Childcare workers,113,2781,0.00510759748238237
-Middle East/Asia Minor,43461,1071783,21617,544483,0052,Sales managers,84,2747,0.005045152924884707
-Middle East/Asia Minor,43461,1071783,21617,544483,2360,Other teachers and instructors,108,2613,0.004799047904158624
-Middle East/Asia Minor,43461,1071783,21617,544483,0230,Education and childcare administrators,122,2590,0.004756805997616087
-Middle East/Asia Minor,43461,1071783,21617,544483,1650,Other life scientists,107,2587,0.004751296183719235
-Middle East/Asia Minor,43461,1071783,21617,544483,1050,Computer support specialists,97,2581,0.0047402765559255294
-Middle East/Asia Minor,43461,1071783,21617,544483,0750,"Business operations specialists, all other",97,2568,0.004716400695705835
-Middle East/Asia Minor,43461,1071783,21617,544483,1006,Computer systems analysts,120,2533,0.004652119533575887
-Middle East/Asia Minor,43461,1071783,21617,544483,4000,Chefs and head cooks,89,2502,0.004595184789975077
-Middle East/Asia Minor,43461,1071783,21617,544483,0051,Marketing managers,106,2453,0.0045051911629931515
-Middle East/Asia Minor,43461,1071783,21617,544483,0630,Human resources workers,98,2405,0.004417034140643509
-Middle East/Asia Minor,43461,1071783,21617,544483,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",92,2364,0.004341733350719857
-Middle East/Asia Minor,43461,1071783,21617,544483,0410,"Property, real estate, and community association managers",88,2282,0.004191131770872552
-Middle East/Asia Minor,43461,1071783,21617,544483,6260,Construction laborers,88,2279,0.0041856219569757
-Middle East/Asia Minor,43461,1071783,21617,544483,2300,Preschool and kindergarten teachers,101,2268,0.0041654193060205735
-Middle East/Asia Minor,43461,1071783,21617,544483,3421,Pharmacy technicians,79,2225,0.004086445306832353
-Middle East/Asia Minor,43461,1071783,21617,544483,8740,"Inspectors, testers, sorters, samplers, and weighers",80,2215,0.004068079260509511
-Middle East/Asia Minor,43461,1071783,21617,544483,1460,Mechanical engineers,105,2130,0.003911967866765354
-Middle East/Asia Minor,43461,1071783,21617,544483,5860,"Office clerks, general",94,2112,0.0038789089833842377
-Middle East/Asia Minor,43461,1071783,21617,544483,4030,Food preparation workers,71,2081,0.0038219742397834276
-Middle East/Asia Minor,43461,1071783,21617,544483,5400,Receptionists and information clerks,90,2056,0.0037760591239763223
-Middle East/Asia Minor,43461,1071783,21617,544483,0735,Market research analysts and marketing specialists,75,2005,0.0036823922877298283
-Middle East/Asia Minor,43461,1071783,21617,544483,3645,Medical assistants,58,1994,0.0036621896367747017
-Middle East/Asia Minor,43461,1071783,21617,544483,7750,Other assemblers and fabricators,64,1962,0.0036034182885416074
-Middle East/Asia Minor,43461,1071783,21617,544483,0845,Financial and investment analysts,61,1866,0.0034271042438423238
-Middle East/Asia Minor,43461,1071783,21617,544483,1240,Other mathematical science occupations,91,1811,0.0033260909890666926
-Middle East/Asia Minor,43461,1071783,21617,544483,3601,Home health aides,65,1799,0.003304051733479282
-Middle East/Asia Minor,43461,1071783,21617,544483,4230,Maids and housekeeping cleaners,58,1751,0.0032158947111296404
-Middle East/Asia Minor,43461,1071783,21617,544483,2640,Other designers,89,1737,0.0031901822462776616
-Middle East/Asia Minor,43461,1071783,21617,544483,6230,Carpenters,59,1719,0.003157123362896546
-Middle East/Asia Minor,43461,1071783,21617,544483,6355,Electricians,61,1699,0.0031203912702508618
-Middle East/Asia Minor,43461,1071783,21617,544483,1305,"Architects, except landscape and naval",87,1669,0.003065293131282336
-Middle East/Asia Minor,43461,1071783,21617,544483,0300,Architectural and engineering managers,77,1609,0.0029550968533452837
-Middle East/Asia Minor,43461,1071783,21617,544483,3603,Nursing assistants,58,1601,0.0029404040162870097
-Middle East/Asia Minor,43461,1071783,21617,544483,7700,First-line supervisors of production and operating workers,55,1561,0.002866939830995642
-Middle East/Asia Minor,43461,1071783,21617,544483,1970,"Other life, physical, and social science technicians",59,1534,0.002817351505923968
-Middle East/Asia Minor,43461,1071783,21617,544483,0850,Personal financial advisors,62,1517,0.002786129227175137
-Middle East/Asia Minor,43461,1071783,21617,544483,1430,"Industrial engineers, including health and safety",67,1516,0.0027842926225428526
-Middle East/Asia Minor,43461,1071783,21617,544483,4965,"Sales and related workers, all other",52,1471,0.0027016454140900634
-Middle East/Asia Minor,43461,1071783,21617,544483,4055,Fast food and counter workers,57,1447,0.0026575669029152427
-Middle East/Asia Minor,43461,1071783,21617,544483,5940,Other office and administrative support workers,67,1436,0.002637364251960116
-Middle East/Asia Minor,43461,1071783,21617,544483,0160,"Transportation, storage, and distribution managers",43,1392,0.0025565536481396115
-Middle East/Asia Minor,43461,1071783,21617,544483,4810,Insurance sales agents,59,1385,0.002543697415713622
-Middle East/Asia Minor,43461,1071783,21617,544483,6200,First-line supervisors of construction trades and extraction workers,44,1375,0.0025253313693907797
-Middle East/Asia Minor,43461,1071783,21617,544483,1555,"Other engineering technologists and technicians, except drafters",56,1362,0.002501455509171085
-Middle East/Asia Minor,43461,1071783,21617,544483,3300,Clinical laboratory technologists and technicians,48,1282,0.002354527138588349
-Middle East/Asia Minor,43461,1071783,21617,544483,6410,Painters and paperhangers,43,1279,0.0023490173246914965
-Middle East/Asia Minor,43461,1071783,21617,544483,9640,"Packers and packagers, hand",29,1275,0.0023416709061623597
-Middle East/Asia Minor,43461,1071783,21617,544483,2634,Graphic designers,49,1272,0.002336161092265507
-Middle East/Asia Minor,43461,1071783,21617,544483,2861,Interpreters and translators,57,1263,0.002319631650574949
-Middle East/Asia Minor,43461,1071783,21617,544483,1010,Computer programmers,63,1253,0.002301265604252107
-Middle East/Asia Minor,43461,1071783,21617,544483,8225,Other metal workers and plastic workers,34,1247,0.0022902459764584018
-Middle East/Asia Minor,43461,1071783,21617,544483,0140,Industrial production managers,44,1226,0.0022516772791804337
-Middle East/Asia Minor,43461,1071783,21617,544483,7540,Locksmiths and safe repairers,27,1201,0.0022057621633733283
-Middle East/Asia Minor,43461,1071783,21617,544483,7340,"Maintenance and repair workers, general",48,1195,0.002194742535579623
-Middle East/Asia Minor,43461,1071783,21617,544483,7315,"Heating, air conditioning, and refrigeration mechanics and installers",34,1188,0.0021818863031536338
-Middle East/Asia Minor,43461,1071783,21617,544483,0420,Social and community service managers,58,1187,0.0021800496985213496
-Middle East/Asia Minor,43461,1071783,21617,544483,5110,Billing and posting clerks,40,1156,0.0021231149549205395
-Middle East/Asia Minor,43461,1071783,21617,544483,3870,Police officers,47,1149,0.0021102587224945497
-Middle East/Asia Minor,43461,1071783,21617,544483,4500,Barbers,36,1086,0.001994552630660645
-Middle East/Asia Minor,43461,1071783,21617,544483,2002,"Educational, guidance, and career counselors and advisors",40,1085,0.0019927160260283607
-Middle East/Asia Minor,43461,1071783,21617,544483,7330,Industrial and refractory machinery mechanics,26,1073,0.0019706767704409504
-Middle East/Asia Minor,43461,1071783,21617,544483,2040,Clergy,72,1062,0.0019504741194858242
-Middle East/Asia Minor,43461,1071783,21617,544483,0565,Compliance officers,30,1049,0.0019265982592661295
-Middle East/Asia Minor,43461,1071783,21617,544483,1105,Network and computer systems administrators,33,1042,0.00191374202684014
-Middle East/Asia Minor,43461,1071783,21617,544483,8750,Jewelers and precious stone and metal workers,41,1037,0.0019045590036787191
-Middle East/Asia Minor,43461,1071783,21617,544483,9122,"Bus drivers, transit and intercity",27,989,0.0018164019813290773
-Middle East/Asia Minor,43461,1071783,21617,544483,7800,Bakers,34,985,0.0018090555627999405
-Middle East/Asia Minor,43461,1071783,21617,544483,3640,Dental assistants,41,980,0.0017998725396385195
-Middle East/Asia Minor,43461,1071783,21617,544483,9005,Supervisors of transportation and material moving workers,46,978,0.0017961993303739511
-Middle East/Asia Minor,43461,1071783,21617,544483,5522,"Dispatchers, except police, fire, and ambulance",24,974,0.0017888529118448143
-Middle East/Asia Minor,43461,1071783,21617,544483,5610,"Shipping, receiving, and inventory clerks",32,960,0.0017631404469928354
-Middle East/Asia Minor,43461,1071783,21617,544483,4010,First-line supervisors of food preparation and serving workers,45,952,0.0017484476099345618
-Middle East/Asia Minor,43461,1071783,21617,544483,9030,Aircraft pilots and flight engineers,32,952,0.0017484476099345618
-Middle East/Asia Minor,43461,1071783,21617,544483,8140,"Welding, soldering, and brazing workers",32,948,0.001741101191405425
-Middle East/Asia Minor,43461,1071783,21617,544483,2710,Producers and directors,40,917,0.0016841664478046147
-Middle East/Asia Minor,43461,1071783,21617,544483,4820,"Securities, commodities, and financial services sales agents",36,913,0.0016768200292754777
-Middle East/Asia Minor,43461,1071783,21617,544483,9610,Cleaners of vehicles and equipment,32,912,0.0016749834246431936
-Middle East/Asia Minor,43461,1071783,21617,544483,6442,"Plumbers, pipefitters, and steamfitters",35,890,0.0016345781227329412
-Middle East/Asia Minor,43461,1071783,21617,544483,1007,Information security analysts,34,887,0.0016290683088360884
-Middle East/Asia Minor,43461,1071783,21617,544483,2330,Special education teachers,30,864,0.001586826402293552
-Middle East/Asia Minor,43461,1071783,21617,544483,9600,Industrial truck and tractor operators,32,834,0.0015317282633250258
-Middle East/Asia Minor,43461,1071783,21617,544483,4621,Exercise trainers and group fitness instructors,35,812,0.0014913229614147733
-Middle East/Asia Minor,43461,1071783,21617,544483,2014,"Social workers, all other",35,806,0.0014803033336210681
-Middle East/Asia Minor,43461,1071783,21617,544483,2145,Paralegals and legal assistants,42,790,0.0014509176595045208
-Middle East/Asia Minor,43461,1071783,21617,544483,9141,Shuttle drivers and chauffeurs,31,785,0.0014417346363430998
-Middle East/Asia Minor,43461,1071783,21617,544483,3258,"Nurse practitioners, and nurse midwives",27,771,0.0014160221714911209
-Middle East/Asia Minor,43461,1071783,21617,544483,5550,Postal service mail carriers,30,753,0.0013829632881100053
-Middle East/Asia Minor,43461,1071783,21617,544483,9365,Transportation service attendants,21,747,0.0013719436603163002
-Middle East/Asia Minor,43461,1071783,21617,544483,1032,Web and digital interface designers,25,731,0.0013425579861997528
-Middle East/Asia Minor,43461,1071783,21617,544483,3110,Physician assistants,25,722,0.001326028544509195
-Middle East/Asia Minor,43461,1071783,21617,544483,8030,Machinists,28,720,0.0013223553352446266
-Middle East/Asia Minor,43461,1071783,21617,544483,3160,Physical therapists,29,714,0.0013113357074509213
-Middle East/Asia Minor,43461,1071783,21617,544483,2600,Artists and related workers,37,704,0.0012929696611280793
-Middle East/Asia Minor,43461,1071783,21617,544483,1220,Operations research analysts,29,695,0.0012764402194375215
-Middle East/Asia Minor,43461,1071783,21617,544483,1106,Computer network architects,34,693,0.0012727670101729531
-Middle East/Asia Minor,43461,1071783,21617,544483,0910,Credit counselors and loan officers,29,686,0.0012599107777469636
-Middle East/Asia Minor,43461,1071783,21617,544483,7810,"Butchers and other meat, poultry, and fish processing workers",24,683,0.001254400963850111
-Middle East/Asia Minor,43461,1071783,21617,544483,1400,Computer hardware engineers,24,678,0.00124521794068869
-Middle East/Asia Minor,43461,1071783,21617,544483,4251,Landscaping and groundskeeping workers,25,676,0.0012415447314241216
-Middle East/Asia Minor,43461,1071783,21617,544483,1065,Database administrators and architects,26,674,0.0012378715221595532
-Middle East/Asia Minor,43461,1071783,21617,544483,5160,Tellers,28,672,0.0012341983128949848
-Middle East/Asia Minor,43461,1071783,21617,544483,7020,Radio and telecommunications equipment installers and repairers,23,653,0.0011993028248815849
-Middle East/Asia Minor,43461,1071783,21617,544483,1320,Aerospace engineers,28,643,0.001180936778558743
-Middle East/Asia Minor,43461,1071783,21617,544483,1350,Chemical engineers,27,638,0.001171753755397322
-Middle East/Asia Minor,43461,1071783,21617,544483,4950,"Door-to-door sales workers, news and street vendors, and related workers",21,631,0.0011588975229713324
-Middle East/Asia Minor,43461,1071783,21617,544483,3100,Surgeons,30,628,0.0011533877090744798
-Middle East/Asia Minor,43461,1071783,21617,544483,5600,"Production, planning, and expediting clerks",24,621,0.0011405314766484904
-Middle East/Asia Minor,43461,1071783,21617,544483,1860,Other social scientists,19,612,0.0011240020349579326
-Middle East/Asia Minor,43461,1071783,21617,544483,4350,Animal caretakers,15,599,0.0011001261747382379
-Middle East/Asia Minor,43461,1071783,21617,544483,8300,Laundry and dry-cleaning workers,13,597,0.0010964529654736695
-Middle East/Asia Minor,43461,1071783,21617,544483,0150,Purchasing managers,29,590,0.00108359673304768
-Middle East/Asia Minor,43461,1071783,21617,544483,5165,Other financial clerks,26,573,0.0010523744542988486
-Middle East/Asia Minor,43461,1071783,21617,544483,5710,Executive secretaries and executive administrative assistants,16,573,0.0010523744542988486
-Middle East/Asia Minor,43461,1071783,21617,544483,3245,Other therapists,26,572,0.0010505378496665644
-Middle East/Asia Minor,43461,1071783,21617,544483,2350,Tutors,30,569,0.0010450280357697118
-Middle East/Asia Minor,43461,1071783,21617,544483,0520,"Wholesale and retail buyers, except farm products",23,564,0.0010358450126082908
-Middle East/Asia Minor,43461,1071783,21617,544483,0530,"Purchasing agents, except wholesale, retail, and farm products",27,564,0.0010358450126082908
-Middle East/Asia Minor,43461,1071783,21617,544483,2635,Interior designers,19,563,0.0010340084079760066
-Middle East/Asia Minor,43461,1071783,21617,544483,7150,Automotive body and related repairers,18,554,0.0010174789662854488
-Middle East/Asia Minor,43461,1071783,21617,544483,2016,Social and human service assistants,21,546,0.001002786129227175
-Middle East/Asia Minor,43461,1071783,21617,544483,0540,"Claims adjusters, appraisers, examiners, and investigators",20,544,9.991129199626067e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1825,Other psychologists,32,544,9.991129199626067e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8350,"Tailors, dressmakers, and sewers",17,541,9.93603106065754e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2850,Writers and authors,26,538,9.880932921689015e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4140,Dishwashers,18,538,9.880932921689015e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4040,Bartenders,22,533,9.789102690074805e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3500,Licensed practical and licensed vocational nurses,21,532,9.770736643751963e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0700,Logisticians,23,529,9.715638504783437e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1610,Biological scientists,22,517,9.495245948909333e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3321,Cardiovascular technologists and technicians,16,514,9.440147809940806e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4522,Skincare specialists,20,508,9.329951532003754e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0205,"Farmers, ranchers, and other agricultural managers",22,507,9.311585485680912e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2910,Photographers,21,507,9.311585485680912e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4655,"Personal care and service workers, all other",17,502,9.219755254066702e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,6800,"Derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining",2,485,8.907532466578387e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3310,Dental hygienists,21,481,8.834068281287019e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4120,"Food servers, nonrestaurant",16,480,8.815702234964177e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4130,Dining room and cafeteria attendants and bartender helpers,19,479,8.797336188641335e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,9150,"Motor vehicle operators, all other",16,472,8.668773864381441e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4435,Other entertainment attendants and related workers,18,468,8.595309679090072e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1720,Chemists and materials scientists,24,466,8.558577586444388e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3515,Medical records specialists,14,459,8.430015262184495e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0650,Training and development specialists,22,457,8.39328316953881e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5840,Insurance claims and policy processing clerks,13,454,8.338185030570284e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,6050,Other agricultural workers,23,454,8.338185030570284e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1022,Software quality assurance analysts and testers,25,453,8.319818984247442e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2555,Other educational instruction and library workers,23,452,8.3014529379246e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,9350,Parking attendants,12,446,8.191256659987548e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4622,Recreation workers,11,445,8.172890613664706e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2025,Other community and social service specialists,16,442,8.117792474696179e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3322,Diagnostic medical sonographers,20,437,8.02596224308197e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5310,"Interviewers, except eligibility and loan",22,433,7.952498057790602e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5810,Data entry keyers,30,429,7.879033872499233e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4400,Gambling services workers,18,421,7.732105501916497e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2722,Coaches and scouts,19,417,7.658641316625129e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2435,Librarians and media collections specialists,21,416,7.640275270302287e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2810,"News analysts, reporters, and journalists",17,410,7.530078992365234e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7010,"Computer, automated teller, and office machine repairers",15,410,7.530078992365234e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0600,Cost estimators,15,409,7.511712946042392e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2752,Musicians and singers,24,408,7.49334689971955e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1551,Electrical and electronic engineering technologists and technicians,12,404,7.419882714428183e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3323,Radiologic technologists and technicians,19,400,7.346418529136814e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3630,Massage therapists,15,400,7.346418529136814e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4200,First-line supervisors of housekeeping and janitorial workers,16,398,7.30968643649113e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,6305,Construction equipment operators,11,394,7.236222251199762e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2006,"Counselors, all other",14,386,7.089293880617025e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0340,Lodging managers,21,385,7.070927834294183e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",19,381,6.997463649002815e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7000,"First-line supervisors of mechanics, installers, and repairers",21,377,6.923999463711448e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,9830,"Military, rank not specified",17,374,6.868901324742922e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4930,Sales engineers,17,366,6.721972954160185e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1800,Economists,21,365,6.703606907837343e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4800,Advertising sales agents,14,363,6.666874815191659e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0725,"Meeting, convention, and event planners",11,359,6.59341062990029e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2632,Fashion designers,11,355,6.519946444608922e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2170,"Title examiners, abstractors, and searchers",12,353,6.483214351963238e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3324,Magnetic resonance imaging technologists,10,353,6.483214351963238e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3402,Paramedics,12,353,6.483214351963238e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,6660,Construction and building inspectors,10,353,6.483214351963238e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,16,352,6.464848305640396e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4740,Counter and rental clerks,15,348,6.391384120349029e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0136,Human resources managers,20,345,6.336285981380502e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5360,"Human resources assistants, except payroll and timekeeping",11,342,6.281187842411976e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5330,Loan interviewers and clerks,15,337,6.189357610797766e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0940,Tax preparers,16,336,6.170991564474924e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8800,Packaging and filling machine operators and tenders,12,332,6.097527379183556e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1031,Web developers,18,330,6.060795286537871e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2830,Editors,18,330,6.060795286537871e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7140,Aircraft mechanics and service technicians,11,330,6.060795286537871e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0335,Entertainment and recreation managers,12,329,6.042429240215029e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3150,Occupational therapists,12,321,5.895500869632294e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5410,Reservation and transportation ticket agents and travel clerks,14,320,5.877134823309452e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3422,Psychiatric technicians,13,319,5.85876877698661e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7120,Electronic home entertainment equipment installers and repairers,8,319,5.85876877698661e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3520,"Opticians, dispensing",15,317,5.822036684340926e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7220,Heavy vehicle and mobile equipment service technicians and mechanics,9,317,5.822036684340926e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8255,Printing press operators,12,316,5.803670638018083e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7720,"Electrical, electronics, and electromechanical assemblers",9,313,5.748572499049557e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2633,Floral designers,12,312,5.730206452726715e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1450,Materials engineers,11,308,5.656742267435347e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,6240,"Carpet, floor, and tile installers and finishers",13,306,5.620010174789663e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2060,"Religious workers, all other",11,300,5.50981389685261e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3740,Firefighters,13,294,5.399617618915559e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4521,Manicurists and pedicurists,9,294,5.399617618915559e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3655,Other healthcare support workers,13,285,5.23432320200998e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8320,Sewing machine operators,11,285,5.23432320200998e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0360,Natural sciences managers,11,280,5.14249297039577e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,9121,"Bus drivers, school",16,278,5.105760877750086e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3230,Speech-language pathologists,16,277,5.087394831427244e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5300,"Hotel, motel, and resort desk clerks",10,277,5.087394831427244e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2825,Public relations specialists,13,272,4.995564599813033e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3545,Miscellaneous health technologists and technicians,8,271,4.977198553490191e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0060,Public relations and fundraising managers,15,268,4.922100414521665e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3030,Dietitians and nutritionists,14,267,4.903734368198824e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",12,264,4.848636229230297e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8630,Miscellaneous plant and system operators,5,262,4.811904136584613e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3550,Other healthcare practitioners and technical occupations,14,261,4.793538090261771e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0640,"Compensation, benefits, and job analysis specialists",8,259,4.7568059976160873e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4525,Other personal appearance workers,8,259,4.7568059976160873e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1545,Other drafters,12,253,4.646609719679035e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3802,Correctional officers and jailers,10,249,4.5731455343876666e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3820,Detectives and criminal investigators,6,247,4.5364134417419827e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,6520,Sheet metal workers,7,247,4.5364134417419827e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8810,Painting workers,9,247,4.5364134417419827e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,9415,Passenger attendants,4,246,4.518047395419141e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,9825,Military enlisted tactical operations and air/weapons specialists and crew members,14,244,4.481315302773457e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,6120,Forest and conservation workers,12,242,4.4445832101277724e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5260,File clerks,11,239,4.3894850711592465e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3647,Pharmacy aides,7,236,4.3343869321907206e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7320,Home appliance repairers,8,236,4.3343869321907206e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,9430,Other transportation workers,6,234,4.297654839545036e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0102,Facilities managers,12,233,4.279288793222194e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3910,Private detectives and investigators,7,232,4.260922746899352e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,9720,Refuse and recyclable material collectors,6,225,4.132360422639458e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4750,Parts salespersons,6,223,4.095628329993774e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4640,Residential advisors,17,219,4.0221641447024057e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4830,Travel agents,13,217,3.985432052056722e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2905,Other media and communication equipment workers,11,216,3.96706600573388e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1005,Computer and information research scientists,9,215,3.948699959411038e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0960,Other financial specialists,13,207,3.801771588828301e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4530,"Baggage porters, bellhops, and concierges",8,204,3.746673449859775e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3646,Medical transcriptionists,10,202,3.7099413572140913e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8830,Photographic process workers and processing machine operators,3,202,3.7099413572140913e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5350,Correspondence clerks and order clerks,8,201,3.6915753108912494e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2805,Broadcast announcers and radio disc jockeys,3,200,3.673209264568407e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8640,"Chemical processing machine setters, operators, and tenders",3,200,3.673209264568407e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2700,Actors,5,199,3.654843218245565e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,9050,Flight attendants,9,199,3.654843218245565e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7855,"Food processing workers, all other",7,198,3.636477171922723e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,9410,Transportation inspectors,5,197,3.618111125599881e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1420,Environmental engineers,10,195,3.581379032954197e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3430,Dietetic technicians and ophthalmic medical technicians,5,195,3.581379032954197e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,6330,"Drywall installers, ceiling tile installers, and tapers",4,195,3.581379032954197e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3330,Nuclear medicine technologists and medical dosimetrists,10,194,3.563012986631355e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7840,Food batchmakers,8,194,3.563012986631355e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3220,Respiratory therapists,8,193,3.5446469403085126e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3649,Phlebotomists,8,193,3.5446469403085126e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7640,"Other installation, maintenance, and repair workers",12,192,3.5262808939856707e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1980,Occupational health and safety specialists and technicians,10,189,3.471182755017145e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5140,Payroll and timekeeping clerks,8,185,3.3977185697257764e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2050,"Directors, religious activities and education",6,184,3.3793525234029345e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4240,Pest control workers,6,184,3.3793525234029345e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7420,Telecommunications line installers and repairers,6,183,3.3609864770800925e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8650,"Crushing, grinding, polishing, mixing, and blending workers",6,182,3.3426204307572505e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1520,"Petroleum, mining and geological engineers, including mining safety engineers",6,180,3.3058883381115666e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3424,Veterinary technologists and technicians,9,178,3.269156245465882e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7300,Control and valve installers and repairers,7,172,3.15895996752883e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1900,Agricultural and food science technicians,4,171,3.140593921205988e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0860,Insurance underwriters,7,169,3.103861828560304e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2004,Mental health counselors,12,169,3.103861828560304e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3401,Emergency medical technicians,11,168,3.085495782237462e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2751,Music directors and composers,7,166,3.048763689591778e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3423,Surgical technologists,3,165,3.0303976432689356e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8950,Helpers--production workers,8,165,3.0303976432689356e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5420,Other information and records clerks,10,164,3.0120315969460937e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7430,Precision instrument and equipment repairers,10,162,2.97529950430041e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7410,Electrical power-line installers and repairers,4,161,2.956933457977568e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2920,"Television, video, and film camera operators and editors",9,160,2.938567411654726e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,6515,Roofers,4,160,2.938567411654726e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1340,Biomedical and agricultural engineers,8,156,2.8651032263633574e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8610,Stationary engineers and boiler operators,9,155,2.8467371800405155e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0101,Administrative services managers,9,153,2.8100050873948316e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3620,Physical therapist assistants and aides,8,151,2.773272994749147e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0040,Advertising and promotions managers,8,150,2.754906948426305e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7210,Bus and truck mechanics and diesel engine specialists,8,150,2.754906948426305e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0137,Training and development managers,6,149,2.736540902103463e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1750,"Geoscientists and hydrologists, except geographers",5,149,2.736540902103463e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",6,148,2.718174855780621e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1745,"Environmental scientists and specialists, including health",6,145,2.6630767168120954e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5100,Bill and account collectors,4,145,2.6630767168120954e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0500,"Agents and business managers of artists, performers, and athletes",5,143,2.626344624166411e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3725,"Miscellaneous first-line supervisors, protective service workers",6,142,2.607978577843569e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0820,Budget analysts,8,137,2.5161483462293586e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5320,"Library assistants, clerical",11,134,2.461050207260833e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2001,Substance abuse and behavioral disorder counselors,6,132,2.4243181146151485e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1821,Clinical and counseling psychologists,6,129,2.3692199756466227e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5730,Medical secretaries and administrative assistants,4,129,2.3692199756466227e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",6,129,2.3692199756466227e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2636,Merchandise displayers and window trimmers,5,126,2.3141218366780965e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0726,Fundraisers,8,123,2.2590236977095704e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0930,"Tax examiners and collectors, and revenue agents",6,123,2.2590236977095704e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2180,"Legal support workers, all other",2,121,2.2222916050638862e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3940,Crossing guards and flaggers,5,120,2.2039255587410442e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2105,Judicial law clerks,4,118,2.1671934660953603e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",5,117,2.148827419772518e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1920,Chemical technicians,3,116,2.130461373449676e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1310,"Surveyors, cartographers, and photogrammetrists",7,115,2.1120953271268342e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,9310,Ship and boat captains and operators,3,115,2.1120953271268342e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2840,Technical writers,8,114,2.093729280803992e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5540,Postal service clerks,7,113,2.07536323448115e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2770,"Entertainers and performers, sports and related workers, all other",4,111,2.038631141835466e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5250,"Eligibility interviewers, government programs",6,111,2.038631141835466e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,9510,Crane and tower operators,4,108,1.98353300286694e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,6441,Pipelayers,2,105,1.9284348638984138e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,6700,Elevator installers and repairers,3,103,1.8917027712527296e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4540,Tour and travel guides,7,102,1.8733367249298876e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,9760,Other material moving workers,4,102,1.8733367249298876e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1541,Architectural and civil drafters,4,101,1.8549706786070457e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1910,Biological technicians,3,99,1.8182385859613615e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3000,Chiropractors,6,99,1.8182385859613615e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5230,"Credit authorizers, checkers, and clerks",4,99,1.8182385859613615e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8730,"Furnace, kiln, oven, drier, and kettle operators and tenders",1,99,1.8182385859613615e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,9240,Railroad conductors and yardmasters,3,98,1.7998725396385195e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1840,Urban and regional planners,6,97,1.7815064933156776e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7100,"Other electrical and electronic equipment mechanics, installers, and repairers",2,96,1.7631404469928353e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2012,Healthcare social workers,5,95,1.7447744006699934e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3710,First-line supervisors of police and detectives,4,95,1.7447744006699934e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5820,Word processors and typists,2,94,1.7264083543471514e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2440,Library technicians,4,93,1.7080423080243092e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4160,"Food preparation and serving related workers, all other",3,93,1.7080423080243092e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5850,"Mail clerks and mail machine operators, except postal service",4,91,1.6713102153786253e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,6765,Other construction and related workers,3,88,1.616212076410099e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8130,Tool and die makers,3,88,1.616212076410099e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,5150,Procurement clerks,5,87,1.5978460300872572e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2011,"Child, family, and school social workers",4,86,1.579479983764415e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7830,"Food and tobacco roasting, baking, and drying machine operators and tenders",1,84,1.542747891118731e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7925,"Forming machine setters, operators, and tenders, metal and plastic",2,84,1.542747891118731e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8335,Shoe and leather workers,5,84,1.542747891118731e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2400,"Archivists, curators, and museum technicians",5,83,1.524381844795889e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4330,Supervisors of personal care and service workers,2,80,1.469283705827363e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3960,Other protective service workers,7,79,1.4509176595045207e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1306,Landscape architects,4,78,1.4325516131816787e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7905,Computer numerically controlled tool operators and programmers,6,78,1.4325516131816787e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8450,Upholsterers,3,78,1.4325516131816787e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8930,"Paper goods machine setters, operators, and tenders",2,78,1.4325516131816787e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1200,Actuaries,5,75,1.3774534742131526e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7510,"Coin, vending, and amusement machine servicers and repairers",4,75,1.3774534742131526e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2865,"Media and communication workers, all other",3,74,1.3590874278903106e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8500,Cabinetmakers and bench carpenters,4,74,1.3590874278903106e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7740,Structural metal fabricators and fitters,2,73,1.3407213815674687e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,2003,Marriage and family therapists,5,72,1.3223553352446264e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,6130,Logging workers,1,72,1.3223553352446264e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,6360,Glaziers,4,72,1.3223553352446264e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8465,"Other textile, apparel, and furnishings workers",4,72,1.3223553352446264e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1560,Surveying and mapping technicians,2,70,1.2856232425989425e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0830,Credit analysts,2,69,1.2672571962761006e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3140,Audiologists,4,69,1.2672571962761006e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3256,Nurse anesthetists,4,69,1.2672571962761006e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7360,Millwrights,3,68,1.2488911499532583e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,0810,Property appraisers and assessors,4,67,1.2305251036304164e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1935,"Environmental science and geoscience technicians, and nuclear technicians",2,67,1.2305251036304164e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3120,Podiatrists,4,65,1.1937930109847323e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
-						and plastic",3,65,1.1937930109847323e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,4940,Telemarketers,2,62,1.1386948720162062e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1600,Agricultural and food scientists,3,60,1.1019627793705221e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8920,"Molders, shapers, and casters, except metal and plastic",2,59,1.0835967330476802e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,8250,Prepress technicians and workers,1,58,1.065230686724838e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,1822,School psychologists,3,57,1.046864640401996e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,3648,Veterinary assistants and laboratory animal caretakers,4,56,1.028498594079154e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,6850,Underground mining machine operators,2,55,1.0101325477563119e-4
-Middle East/Asia Minor,43461,1071783,21617,544483,7610,"Helpers--installation, maintenance, and repair workers",2,54,9.9176650143347e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,3250,Veterinarians,5,53,9.734004551106279e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,4900,"Models, demonstrators, and product promoters",3,53,9.734004551106279e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,7160,Automotive glass installers and repairers,3,52,9.550344087877859e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,8510,Furniture finishers,2,52,9.550344087877859e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,9040,Air traffic controllers and airfield operations specialists,2,52,9.550344087877859e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,2721,Athletes and sports competitors,2,50,9.183023161421017e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,3946,School bus monitors,2,50,9.183023161421017e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,5521,Public safety telecommunicators,3,50,9.183023161421017e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,5900,"Office machine operators, except computer",4,50,9.183023161421017e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,7040,"Electric motor, power tool, and related repairers",3,50,9.183023161421017e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,2740,Dancers and choreographers,2,49,8.999362698192598e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,3605,Orderlies and psychiatric aides,3,49,8.999362698192598e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,5920,Statistical assistants,2,49,8.999362698192598e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,3040,Optometrists,3,48,8.815702234964177e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,3210,Recreational therapists,2,47,8.632041771735757e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,9300,"Sailors and marine oilers, and ship engineers",2,46,8.448381308507336e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,1710,Atmospheric and space scientists,1,45,8.264720845278917e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,9810,First-line enlisted military supervisors,3,45,8.264720845278917e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,1440,Marine engineers and naval architects,2,44,8.081060382050496e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,3900,Animal control workers,1,44,8.081060382050496e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,7030,Avionics technicians,1,44,8.081060382050496e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,1700,Astronomers and physicists,3,43,7.897399918822075e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,2723,"Umpires, referees, and other sports officials",3,43,7.897399918822075e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,3945,Transportation security screeners,2,40,7.346418529136815e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,6010,Agricultural inspectors,1,40,7.346418529136815e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,6600,"Helpers, construction trades",3,40,7.346418529136815e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,8620,Water and wastewater treatment plant and system operators,3,40,7.346418529136815e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,5020,Telephone operators,2,39,7.162758065908394e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,6400,Insulation workers,2,39,7.162758065908394e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,2015,Probation officers and correctional treatment specialists,3,37,6.795437139451553e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,9110,"Ambulance drivers and attendants, except emergency medical technicians",3,36,6.611776676223132e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,2013,Mental health and substance abuse social workers,2,35,6.428116212994713e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,8040,"Metal furnace operators, tenders, pourers, and casters",2,32,5.877134823309451e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,2631,Commercial and industrial designers,2,31,5.693474360081031e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,3270,"Healthcare diagnosing or treating practitioners, all other",2,31,5.693474360081031e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,7130,Security and fire alarm systems installers,3,31,5.693474360081031e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,0135,Compensation and benefits managers,2,28,5.14249297039577e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,1640,Conservation scientists and foresters,2,28,5.14249297039577e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,3610,Occupational therapy assistants and aides,3,28,5.14249297039577e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",2,28,5.14249297039577e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,9630,Machine feeders and offbearers,1,28,5.14249297039577e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,6730,Highway maintenance workers,1,27,4.95883250716735e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,8600,"Power plant operators, distributors, and dispatchers",2,27,4.95883250716735e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,4420,"Ushers, lobby attendants, and ticket takers",2,24,4.407851117482088e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,8530,"Sawing machine setters, operators, and tenders, wood",1,24,4.407851117482088e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,9210,Locomotive engineers and operators,2,24,4.407851117482088e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,0900,Financial examiners,2,23,4.224190654253668e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,2755,"Disc jockeys, except radio",1,23,4.224190654253668e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,5220,"Court, municipal, and license clerks",2,22,4.040530191025248e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,2862,Court reporters and simultaneous captioners,1,21,3.8568697277968275e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,3840,Fish and game wardens and parking enforcement officers,1,21,3.8568697277968275e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,6250,"Cement masons, concrete finishers, and terrazzo workers",2,21,3.8568697277968275e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,21,3.8568697277968275e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,4255,Other grounds maintenance workers,2,19,3.489548801339987e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,5720,Legal secretaries and administrative assistants,1,19,3.489548801339987e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,5910,Proofreaders and copy markers,1,19,3.489548801339987e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,6460,Plasterers and stucco masons,1,18,3.305888338111566e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,6005,"First-line supervisors of farming, fishing, and forestry workers",1,17,3.122227874883146e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,7730,Engine and other machine assemblers,1,17,3.122227874883146e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,8720,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",1,17,3.122227874883146e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,9650,Pumping station operators,1,17,3.122227874883146e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,9800,Military officer special and tactical operations leaders,1,17,3.122227874883146e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,0425,Emergency management directors,1,16,2.9385674116547256e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,8555,Other woodworkers,1,16,2.9385674116547256e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,5500,Cargo and freight agents,1,12,2.203925558741044e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,8256,Print binding and finishing workers,1,12,2.203925558741044e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,0510,"Buyers and purchasing agents, farm products",1,11,2.020265095512624e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,5560,"Postal service mail sorters, processors, and processing machine operators",1,11,2.020265095512624e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,6115,Fishing and hunting workers,1,11,2.020265095512624e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,8310,"Pressers, textile, garment, and related materials",1,11,2.020265095512624e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,6710,Fence erectors,1,9,1.652944169055783e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,8365,"Textile machine setters, operators, and tenders",1,9,1.652944169055783e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,3200,Radiation therapists,1,8,1.4692837058273628e-5
-Middle East/Asia Minor,43461,1071783,21617,544483,8910,Etchers and engravers,1,4,7.346418529136814e-6
+bpl_region,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Middle East/Asia Minor,43461,1071783,23505,581059,0440,Other managers,898,20917,0.03599806560091144
+Middle East/Asia Minor,43461,1071783,23505,581059,4700,First-line supervisors of retail sales workers,762,20704,0.03563149353163792
+Middle East/Asia Minor,43461,1071783,23505,581059,9130,Driver/sales workers and truck drivers,610,19315,0.033241030601023305
+Middle East/Asia Minor,43461,1071783,23505,581059,3090,Physicians,846,18302,0.03149766202743611
+Middle East/Asia Minor,43461,1071783,23505,581059,4760,Retail salespersons,600,16273,0.02800576189337055
+Middle East/Asia Minor,43461,1071783,23505,581059,4720,Cashiers,576,15193,0.02614708661254709
+Middle East/Asia Minor,43461,1071783,23505,581059,2205,Postsecondary teachers,758,14932,0.025697906753014754
+Middle East/Asia Minor,43461,1071783,23505,581059,1021,Software developers,669,14877,0.02560325199334319
+Middle East/Asia Minor,43461,1071783,23505,581059,9142,Taxi drivers,344,10304,0.017733138975560142
+Middle East/Asia Minor,43461,1071783,23505,581059,0010,Chief executives and legislators,455,10250,0.017640205211518968
+Middle East/Asia Minor,43461,1071783,23505,581059,2310,Elementary and middle school teachers,378,8510,0.014645672814636723
+Middle East/Asia Minor,43461,1071783,23505,581059,3602,Personal care aides,288,8441,0.01452692411613967
+Middle East/Asia Minor,43461,1071783,23505,581059,2545,Teaching assistants,379,8410,0.014473573251597514
+Middle East/Asia Minor,43461,1071783,23505,581059,0800,Accountants and auditors,319,7499,0.012905746232310316
+Middle East/Asia Minor,43461,1071783,23505,581059,4020,Cooks,233,6875,0.01183184495894565
+Middle East/Asia Minor,43461,1071783,23505,581059,5240,Customer service representatives,276,6564,0.011296615317893707
+Middle East/Asia Minor,43461,1071783,23505,581059,0310,Food service managers,205,6225,0.010713197799190787
+Middle East/Asia Minor,43461,1071783,23505,581059,0120,Financial managers,267,6176,0.010628869013301576
+Middle East/Asia Minor,43461,1071783,23505,581059,3255,Registered nurses,269,6173,0.010623706026410398
+Middle East/Asia Minor,43461,1071783,23505,581059,1530,Other engineers,255,5771,0.009931865782992776
+Middle East/Asia Minor,43461,1071783,23505,581059,1360,Civil engineers,231,5579,0.009601434621957495
+Middle East/Asia Minor,43461,1071783,23505,581059,0710,Management analysts,239,5300,0.0091212768410781
+Middle East/Asia Minor,43461,1071783,23505,581059,9645,Stockers and order fillers,177,4954,0.008525812352962436
+Middle East/Asia Minor,43461,1071783,23505,581059,0020,General and operations managers,209,4911,0.008451809540855575
+Middle East/Asia Minor,43461,1071783,23505,581059,4710,First-line supervisors of non-retail sales workers,205,4803,0.008265942012773229
+Middle East/Asia Minor,43461,1071783,23505,581059,4920,Real estate brokers and sales agents,200,4800,0.008260779025882053
+Middle East/Asia Minor,43461,1071783,23505,581059,4220,Janitors and building cleaners,167,4743,0.008162682274949705
+Middle East/Asia Minor,43461,1071783,23505,581059,0220,Construction managers,198,4737,0.008152356301167351
+Middle East/Asia Minor,43461,1071783,23505,581059,7200,Automotive service technicians and mechanics,167,4635,0.007976814746867358
+Middle East/Asia Minor,43461,1071783,23505,581059,9620,"Laborers and freight, stock, and material movers, hand",173,4502,0.007747922328025209
+Middle East/Asia Minor,43461,1071783,23505,581059,4850,"Sales representatives, wholesale and manufacturing",174,4493,0.007732433367351681
+Middle East/Asia Minor,43461,1071783,23505,581059,2100,"Lawyers, and judges, magistrates, and other judicial workers",184,4443,0.007646383585832075
+Middle East/Asia Minor,43461,1071783,23505,581059,5740,"Secretaries and administrative assistants, except legal, medical, and executive",189,4349,0.007484609996575219
+Middle East/Asia Minor,43461,1071783,23505,581059,1760,"Physical scientists, all other",199,4255,0.0073228364073183614
+Middle East/Asia Minor,43461,1071783,23505,581059,0705,Project management specialists,169,4207,0.007240228617059541
+Middle East/Asia Minor,43461,1071783,23505,581059,4110,Waiters and waitresses,152,4137,0.007119758922932095
+Middle East/Asia Minor,43461,1071783,23505,581059,5510,Couriers and messengers,131,4005,0.006892587499720338
+Middle East/Asia Minor,43461,1071783,23505,581059,3930,Security guards and gaming surveillance officers,124,3705,0.00637628881060271
+Middle East/Asia Minor,43461,1071783,23505,581059,3050,Pharmacists,147,3617,0.006224841195128205
+Middle East/Asia Minor,43461,1071783,23505,581059,4510,"Hairdressers, hairstylists, and cosmetologists",124,3509,0.006038973667045859
+Middle East/Asia Minor,43461,1071783,23505,581059,5000,First-line supervisors of office and administrative support workers,126,3476,0.00598218081124292
+Middle East/Asia Minor,43461,1071783,23505,581059,3010,Dentists,132,3431,0.005904736007875276
+Middle East/Asia Minor,43461,1071783,23505,581059,2320,Secondary school teachers,171,3359,0.005780824322487045
+Middle East/Asia Minor,43461,1071783,23505,581059,5120,"Bookkeeping, accounting, and auditing clerks",140,3312,0.005699937527858617
+Middle East/Asia Minor,43461,1071783,23505,581059,0350,Medical and health services managers,134,3225,0.005550210908014505
+Middle East/Asia Minor,43461,1071783,23505,581059,0110,Computer and information systems managers,159,3128,0.005383274331866471
+Middle East/Asia Minor,43461,1071783,23505,581059,1108,"Computer occupations, all other",138,3065,0.0052748516071517695
+Middle East/Asia Minor,43461,1071783,23505,581059,1410,Electrical and electronics engineers,140,3051,0.00525075766832628
+Middle East/Asia Minor,43461,1071783,23505,581059,8990,"Miscellaneous production workers, including equipment operators and tenders",109,3021,0.005199127799414518
+Middle East/Asia Minor,43461,1071783,23505,581059,4600,Childcare workers,123,2899,0.004989166332506682
+Middle East/Asia Minor,43461,1071783,23505,581059,2360,Other teachers and instructors,121,2821,0.004854928673336098
+Middle East/Asia Minor,43461,1071783,23505,581059,0052,Sales managers,87,2811,0.004837718717032177
+Middle East/Asia Minor,43461,1071783,23505,581059,1050,Computer support specialists,105,2760,0.004749947939882181
+Middle East/Asia Minor,43461,1071783,23505,581059,0750,"Business operations specialists, all other",106,2745,0.004724133005426299
+Middle East/Asia Minor,43461,1071783,23505,581059,0230,Education and childcare administrators,128,2719,0.004679387119036105
+Middle East/Asia Minor,43461,1071783,23505,581059,0410,"Property, real estate, and community association managers",106,2627,0.004521055521040032
+Middle East/Asia Minor,43461,1071783,23505,581059,1650,Other life scientists,109,2611,0.004493519590953759
+Middle East/Asia Minor,43461,1071783,23505,581059,1006,Computer systems analysts,127,2604,0.004481472621541014
+Middle East/Asia Minor,43461,1071783,23505,581059,4000,Chefs and head cooks,93,2604,0.004481472621541014
+Middle East/Asia Minor,43461,1071783,23505,581059,4030,Food preparation workers,80,2503,0.004307652062871412
+Middle East/Asia Minor,43461,1071783,23505,581059,0051,Marketing managers,108,2485,0.004276674141524355
+Middle East/Asia Minor,43461,1071783,23505,581059,0630,Human resources workers,99,2472,0.004254301198329258
+Middle East/Asia Minor,43461,1071783,23505,581059,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",95,2395,0.004121784534789066
+Middle East/Asia Minor,43461,1071783,23505,581059,6260,Construction laborers,98,2376,0.004089085617811616
+Middle East/Asia Minor,43461,1071783,23505,581059,5860,"Office clerks, general",111,2369,0.004077038648398872
+Middle East/Asia Minor,43461,1071783,23505,581059,2300,Preschool and kindergarten teachers,104,2307,0.003970336919314562
+Middle East/Asia Minor,43461,1071783,23505,581059,8740,"Inspectors, testers, sorters, samplers, and weighers",82,2243,0.0038601931989694677
+Middle East/Asia Minor,43461,1071783,23505,581059,3421,Pharmacy technicians,80,2241,0.0038567512077086834
+Middle East/Asia Minor,43461,1071783,23505,581059,1460,Mechanical engineers,110,2212,0.003806842334427313
+Middle East/Asia Minor,43461,1071783,23505,581059,5400,Receptionists and information clerks,95,2114,0.0036381847626488877
+Middle East/Asia Minor,43461,1071783,23505,581059,7750,Other assemblers and fabricators,67,2062,0.003548692989868499
+Middle East/Asia Minor,43461,1071783,23505,581059,0735,Market research analysts and marketing specialists,77,2028,0.0034901791384351673
+Middle East/Asia Minor,43461,1071783,23505,581059,3645,Medical assistants,58,1994,0.0034316652870018363
+Middle East/Asia Minor,43461,1071783,23505,581059,1305,"Architects, except landscape and naval",99,1939,0.003337010527330271
+Middle East/Asia Minor,43461,1071783,23505,581059,0845,Financial and investment analysts,63,1900,0.0032698916977449794
+Middle East/Asia Minor,43461,1071783,23505,581059,6355,Electricians,68,1870,0.0032182618288332165
+Middle East/Asia Minor,43461,1071783,23505,581059,1240,Other mathematical science occupations,92,1863,0.003206214859420472
+Middle East/Asia Minor,43461,1071783,23505,581059,3601,Home health aides,68,1859,0.0031993308768989035
+Middle East/Asia Minor,43461,1071783,23505,581059,2640,Other designers,95,1832,0.003152863994878317
+Middle East/Asia Minor,43461,1071783,23505,581059,6230,Carpenters,65,1781,0.0030650932177283203
+Middle East/Asia Minor,43461,1071783,23505,581059,4230,Maids and housekeeping cleaners,60,1769,0.003044441270163615
+Middle East/Asia Minor,43461,1071783,23505,581059,7700,First-line supervisors of production and operating workers,59,1733,0.0029824854274694995
+Middle East/Asia Minor,43461,1071783,23505,581059,4055,Fast food and counter workers,68,1707,0.002937739541079305
+Middle East/Asia Minor,43461,1071783,23505,581059,3603,Nursing assistants,61,1629,0.0028035018819087217
+Middle East/Asia Minor,43461,1071783,23505,581059,0300,Architectural and engineering managers,78,1614,0.0027776869474528403
+Middle East/Asia Minor,43461,1071783,23505,581059,0850,Personal financial advisors,69,1607,0.002765639978040096
+Middle East/Asia Minor,43461,1071783,23505,581059,1970,"Other life, physical, and social science technicians",62,1580,0.0027191730960195093
+Middle East/Asia Minor,43461,1071783,23505,581059,4810,Insurance sales agents,65,1577,0.002714010109128333
+Middle East/Asia Minor,43461,1071783,23505,581059,4965,"Sales and related workers, all other",55,1574,0.0027088471222371565
+Middle East/Asia Minor,43461,1071783,23505,581059,1430,"Industrial engineers, including health and safety",70,1571,0.0027036841353459806
+Middle East/Asia Minor,43461,1071783,23505,581059,6200,First-line supervisors of construction trades and extraction workers,51,1560,0.002684753183411667
+Middle East/Asia Minor,43461,1071783,23505,581059,5940,Other office and administrative support workers,72,1539,0.0026486122751734334
+Middle East/Asia Minor,43461,1071783,23505,581059,2861,Interpreters and translators,69,1474,0.0025367475591979473
+Middle East/Asia Minor,43461,1071783,23505,581059,1555,"Other engineering technologists and technicians, except drafters",63,1471,0.002531584572306771
+Middle East/Asia Minor,43461,1071783,23505,581059,9640,"Packers and packagers, hand",35,1458,0.0025092116291116737
+Middle East/Asia Minor,43461,1071783,23505,581059,0160,"Transportation, storage, and distribution managers",46,1424,0.0024506977776783427
+Middle East/Asia Minor,43461,1071783,23505,581059,7340,"Maintenance and repair workers, general",53,1399,0.00240767288691854
+Middle East/Asia Minor,43461,1071783,23505,581059,2040,Clergy,88,1364,0.002347438039854817
+Middle East/Asia Minor,43461,1071783,23505,581059,0420,Social and community service managers,65,1353,0.002328507087920504
+Middle East/Asia Minor,43461,1071783,23505,581059,1010,Computer programmers,65,1320,0.0022717142321175645
+Middle East/Asia Minor,43461,1071783,23505,581059,3300,Clinical laboratory technologists and technicians,50,1310,0.0022545042758136437
+Middle East/Asia Minor,43461,1071783,23505,581059,6410,Painters and paperhangers,44,1287,0.0022149213763146256
+Middle East/Asia Minor,43461,1071783,23505,581059,2634,Graphic designers,50,1285,0.0022114793850538414
+Middle East/Asia Minor,43461,1071783,23505,581059,0140,Industrial production managers,47,1281,0.002204595402532273
+Middle East/Asia Minor,43461,1071783,23505,581059,5110,Billing and posting clerks,45,1280,0.0022028744069018807
+Middle East/Asia Minor,43461,1071783,23505,581059,8225,Other metal workers and plastic workers,36,1279,0.0022011534112714886
+Middle East/Asia Minor,43461,1071783,23505,581059,7540,Locksmiths and safe repairers,28,1213,0.0020875676996656104
+Middle East/Asia Minor,43461,1071783,23505,581059,7315,"Heating, air conditioning, and refrigeration mechanics and installers",35,1204,0.0020720787389920817
+Middle East/Asia Minor,43461,1071783,23505,581059,7330,Industrial and refractory machinery mechanics,30,1197,0.0020600317695793373
+Middle East/Asia Minor,43461,1071783,23505,581059,8750,Jewelers and precious stone and metal workers,52,1179,0.0020290538482322794
+Middle East/Asia Minor,43461,1071783,23505,581059,3870,Police officers,48,1161,0.0019980759268852216
+Middle East/Asia Minor,43461,1071783,23505,581059,7800,Bakers,41,1127,0.0019395620754518903
+Middle East/Asia Minor,43461,1071783,23505,581059,8140,"Welding, soldering, and brazing workers",37,1117,0.0019223521191479695
+Middle East/Asia Minor,43461,1071783,23505,581059,2002,"Educational, guidance, and career counselors and advisors",42,1106,0.0019034211672136565
+Middle East/Asia Minor,43461,1071783,23505,581059,4500,Barbers,38,1103,0.0018982581803224801
+Middle East/Asia Minor,43461,1071783,23505,581059,9005,Supervisors of transportation and material moving workers,52,1075,0.0018500703026715015
+Middle East/Asia Minor,43461,1071783,23505,581059,9122,"Bus drivers, transit and intercity",30,1074,0.0018483493070411093
+Middle East/Asia Minor,43461,1071783,23505,581059,5522,"Dispatchers, except police, fire, and ambulance",25,1052,0.0018104874031724834
+Middle East/Asia Minor,43461,1071783,23505,581059,0565,Compliance officers,30,1049,0.001805324416281307
+Middle East/Asia Minor,43461,1071783,23505,581059,3640,Dental assistants,45,1049,0.001805324416281307
+Middle East/Asia Minor,43461,1071783,23505,581059,5610,"Shipping, receiving, and inventory clerks",35,1043,0.0017949984424989545
+Middle East/Asia Minor,43461,1071783,23505,581059,1105,Network and computer systems administrators,33,1042,0.0017932774468685624
+Middle East/Asia Minor,43461,1071783,23505,581059,4010,First-line supervisors of food preparation and serving workers,49,1040,0.001789835455607778
+Middle East/Asia Minor,43461,1071783,23505,581059,2014,"Social workers, all other",43,994,0.0017106696566097418
+Middle East/Asia Minor,43461,1071783,23505,581059,4820,"Securities, commodities, and financial services sales agents",40,986,0.0016969016915666052
+Middle East/Asia Minor,43461,1071783,23505,581059,2710,Producers and directors,42,977,0.0016814127308930763
+Middle East/Asia Minor,43461,1071783,23505,581059,9030,Aircraft pilots and flight engineers,33,962,0.0016555977964371948
+Middle East/Asia Minor,43461,1071783,23505,581059,9610,Cleaners of vehicles and equipment,34,959,0.0016504348095460186
+Middle East/Asia Minor,43461,1071783,23505,581059,9141,Shuttle drivers and chauffeurs,40,952,0.001638387840133274
+Middle East/Asia Minor,43461,1071783,23505,581059,6442,"Plumbers, pipefitters, and steamfitters",37,909,0.0015643850280264138
+Middle East/Asia Minor,43461,1071783,23505,581059,1007,Information security analysts,35,894,0.0015385700935705324
+Middle East/Asia Minor,43461,1071783,23505,581059,9365,Transportation service attendants,24,881,0.0015161971503754351
+Middle East/Asia Minor,43461,1071783,23505,581059,2330,Special education teachers,31,875,0.0015058711765930826
+Middle East/Asia Minor,43461,1071783,23505,581059,4621,Exercise trainers and group fitness instructors,39,875,0.0015058711765930826
+Middle East/Asia Minor,43461,1071783,23505,581059,9600,Industrial truck and tractor operators,34,858,0.001476614250876417
+Middle East/Asia Minor,43461,1071783,23505,581059,3100,Surgeons,36,846,0.001455962303311712
+Middle East/Asia Minor,43461,1071783,23505,581059,2600,Artists and related workers,42,812,0.0013974484518783808
+Middle East/Asia Minor,43461,1071783,23505,581059,2145,Paralegals and legal assistants,43,796,0.0013699125217921072
+Middle East/Asia Minor,43461,1071783,23505,581059,3258,"Nurse practitioners, and nurse midwives",28,786,0.0013527025654881861
+Middle East/Asia Minor,43461,1071783,23505,581059,8030,Machinists,33,785,0.0013509815698577942
+Middle East/Asia Minor,43461,1071783,23505,581059,7810,"Butchers and other meat, poultry, and fish processing workers",28,780,0.0013423765917058336
+Middle East/Asia Minor,43461,1071783,23505,581059,8350,"Tailors, dressmakers, and sewers",31,760,0.0013079566790979917
+Middle East/Asia Minor,43461,1071783,23505,581059,2350,Tutors,34,753,0.001295909709685247
+Middle East/Asia Minor,43461,1071783,23505,581059,5550,Postal service mail carriers,30,753,0.001295909709685247
+Middle East/Asia Minor,43461,1071783,23505,581059,4950,"Door-to-door sales workers, news and street vendors, and related workers",27,749,0.0012890257271636787
+Middle East/Asia Minor,43461,1071783,23505,581059,1032,Web and digital interface designers,25,731,0.001258047805816621
+Middle East/Asia Minor,43461,1071783,23505,581059,3110,Physician assistants,26,730,0.001256326810186229
+Middle East/Asia Minor,43461,1071783,23505,581059,3160,Physical therapists,30,717,0.0012339538669911318
+Middle East/Asia Minor,43461,1071783,23505,581059,5160,Tellers,30,713,0.0012270698844695632
+Middle East/Asia Minor,43461,1071783,23505,581059,1220,Operations research analysts,30,707,0.0012167439106872107
+Middle East/Asia Minor,43461,1071783,23505,581059,1065,Database administrators and architects,28,704,0.0012115809237960345
+Middle East/Asia Minor,43461,1071783,23505,581059,1106,Computer network architects,34,693,0.0011926499718617214
+Middle East/Asia Minor,43461,1071783,23505,581059,1400,Computer hardware engineers,25,688,0.001184044993709761
+Middle East/Asia Minor,43461,1071783,23505,581059,4251,Landscaping and groundskeeping workers,27,688,0.001184044993709761
+Middle East/Asia Minor,43461,1071783,23505,581059,0910,Credit counselors and loan officers,29,686,0.0011806030024489767
+Middle East/Asia Minor,43461,1071783,23505,581059,1860,Other social scientists,22,674,0.0011599510548842716
+Middle East/Asia Minor,43461,1071783,23505,581059,1320,Aerospace engineers,29,659,0.0011341361204283901
+Middle East/Asia Minor,43461,1071783,23505,581059,7020,Radio and telecommunications equipment installers and repairers,23,653,0.0011238101466460376
+Middle East/Asia Minor,43461,1071783,23505,581059,1350,Chemical engineers,28,651,0.0011203681553852536
+Middle East/Asia Minor,43461,1071783,23505,581059,1825,Other psychologists,42,650,0.0011186471597548614
+Middle East/Asia Minor,43461,1071783,23505,581059,0205,"Farmers, ranchers, and other agricultural managers",29,632,0.0010876692384078038
+Middle East/Asia Minor,43461,1071783,23505,581059,4655,"Personal care and service workers, all other",20,622,0.0010704592821038827
+Middle East/Asia Minor,43461,1071783,23505,581059,5600,"Production, planning, and expediting clerks",24,621,0.0010687382864734906
+Middle East/Asia Minor,43461,1071783,23505,581059,0530,"Purchasing agents, except wholesale, retail, and farm products",30,618,0.0010635752995823144
+Middle East/Asia Minor,43461,1071783,23505,581059,4350,Animal caretakers,16,612,0.0010532493257999617
+Middle East/Asia Minor,43461,1071783,23505,581059,8300,Laundry and dry-cleaning workers,14,609,0.0010480863389087855
+Middle East/Asia Minor,43461,1071783,23505,581059,0520,"Wholesale and retail buyers, except farm products",25,596,0.0010257133957136883
+Middle East/Asia Minor,43461,1071783,23505,581059,3245,Other therapists,28,591,0.0010171084175617279
+Middle East/Asia Minor,43461,1071783,23505,581059,0150,Purchasing managers,29,590,0.0010153874219313358
+Middle East/Asia Minor,43461,1071783,23505,581059,5165,Other financial clerks,26,573,9.8613049621467e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5710,Executive secretaries and executive administrative assistants,16,573,9.8613049621467e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4130,Dining room and cafeteria attendants and bartender helpers,23,570,9.809675093234939e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0540,"Claims adjusters, appraisers, examiners, and investigators",22,569,9.792465136931018e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4140,Dishwashers,19,564,9.706415355411412e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2635,Interior designers,19,563,9.689205399107492e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2850,Writers and authors,27,554,9.534315792372203e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7150,Automotive body and related repairers,18,554,9.534315792372203e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2016,Social and human service assistants,21,546,9.396636141940836e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0700,Logisticians,24,543,9.345006273029073e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4040,Bartenders,22,533,9.172906709989864e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1610,Biological scientists,23,532,9.155696753685942e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3500,Licensed practical and licensed vocational nurses,21,532,9.155696753685942e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",23,527,9.069646972166337e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3321,Cardiovascular technologists and technicians,17,524,9.018017103254575e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3515,Medical records specialists,15,519,8.93196732173497e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4522,Skincare specialists,21,519,8.93196732173497e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2910,Photographers,22,513,8.828707583911445e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4120,"Food servers, nonrestaurant",17,508,8.74265780239184e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,9150,"Motor vehicle operators, all other",20,506,8.708237889783998e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2555,Other educational instruction and library workers,26,492,8.467298501529105e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,6800,"Derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining",2,485,8.346828807401658e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5810,Data entry keyers,33,482,8.295198938489895e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3310,Dental hygienists,21,481,8.277988982185974e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4435,Other entertainment attendants and related workers,19,478,8.226359113274211e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1551,Electrical and electronic engineering technologists and technicians,16,473,8.140309331754607e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,9121,"Bus drivers, school",25,473,8.140309331754607e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1720,Chemists and materials scientists,25,468,8.054259550235002e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5840,Insurance claims and policy processing clerks,14,466,8.01983963762716e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0650,Training and development specialists,23,465,8.002629681323239e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,9350,Parking attendants,13,462,7.950999812411476e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3322,Diagnostic medical sonographers,22,461,7.933789856107555e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4400,Gambling services workers,19,461,7.933789856107555e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4622,Recreation workers,12,460,7.916579899803634e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5310,"Interviewers, except eligibility and loan",23,460,7.916579899803634e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,6050,Other agricultural workers,24,460,7.916579899803634e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7010,"Computer, automated teller, and office machine repairers",18,460,7.916579899803634e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2752,Musicians and singers,27,459,7.899369943499714e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2025,Other community and social service specialists,17,458,7.882159987195792e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1022,Software quality assurance analysts and testers,25,453,7.796110205676188e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4200,First-line supervisors of housekeeping and janitorial workers,20,453,7.796110205676188e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0600,Cost estimators,17,444,7.641220598940899e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2435,Librarians and media collections specialists,22,436,7.503540948509532e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2722,Coaches and scouts,20,434,7.46912103590169e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2810,"News analysts, reporters, and journalists",19,433,7.451911079597769e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2006,"Counselors, all other",15,418,7.193761735038955e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,6660,Construction and building inspectors,12,403,6.93561239048014e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3323,Radiologic technologists and technicians,19,400,6.883982521568377e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3630,Massage therapists,15,400,6.883982521568377e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,6305,Construction equipment operators,11,394,6.780722783744852e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3150,Occupational therapists,14,393,6.763512827440931e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3520,"Opticians, dispensing",17,387,6.660253089617405e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0340,Lodging managers,21,385,6.625833177009564e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4800,Advertising sales agents,16,384,6.608623220705642e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4740,Counter and rental clerks,18,383,6.591413264401721e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7000,"First-line supervisors of mechanics, installers, and repairers",21,377,6.488153526578196e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,9830,"Military, rank not specified",17,374,6.436523657666433e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,17,372,6.402103745058592e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2170,"Title examiners, abstractors, and searchers",13,371,6.38489378875467e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7720,"Electrical, electronics, and electromechanical assemblers",10,370,6.367683832450749e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4930,Sales engineers,17,366,6.298844007235066e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8255,Printing press operators,14,366,6.298844007235066e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0940,Tax preparers,19,365,6.281634050931145e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1800,Economists,21,365,6.281634050931145e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5410,Reservation and transportation ticket agents and travel clerks,17,361,6.212794225715461e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0725,"Meeting, convention, and event planners",11,359,6.178374313107619e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2632,Fashion designers,11,355,6.109534487891935e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3324,Magnetic resonance imaging technologists,10,353,6.075114575284093e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3402,Paramedics,12,353,6.075114575284093e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3545,Miscellaneous health technologists and technicians,9,349,6.00627475006841e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3230,Speech-language pathologists,18,347,5.971854837460567e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0136,Human resources managers,20,345,5.937434924852726e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5360,"Human resources assistants, except payroll and timekeeping",11,342,5.885805055940963e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7140,Aircraft mechanics and service technicians,12,342,5.885805055940963e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2830,Editors,19,340,5.851385143333121e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,6240,"Carpet, floor, and tile installers and finishers",15,338,5.816965230725279e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5330,Loan interviewers and clerks,15,337,5.799755274421358e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3030,Dietitians and nutritionists,18,336,5.782545318117438e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8800,Packaging and filling machine operators and tenders,12,332,5.713705492901754e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1031,Web developers,18,330,5.679285580293911e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0335,Entertainment and recreation managers,12,329,5.662075623989991e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0102,Facilities managers,16,328,5.64486566768607e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7220,Heavy vehicle and mobile equipment service technicians and mechanics,10,325,5.593235798774307e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3422,Psychiatric technicians,13,319,5.489976060950782e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7120,Electronic home entertainment equipment installers and repairers,8,319,5.489976060950782e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3655,Other healthcare support workers,14,318,5.47276610464686e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2633,Floral designers,12,312,5.369506366823335e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2060,"Religious workers, all other",12,309,5.317876497911572e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1450,Materials engineers,11,308,5.300666541607651e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3740,Firefighters,14,301,5.180196847480204e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3550,Other healthcare practitioners and technical occupations,17,297,5.11135702226452e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0060,Public relations and fundraising managers,16,296,5.094147065960599e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4521,Manicurists and pedicurists,9,294,5.059727153352758e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0360,Natural sciences managers,12,292,5.025307240744916e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5300,"Hotel, motel, and resort desk clerks",11,291,5.008097284440995e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2825,Public relations specialists,15,287,4.939257459225311e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3802,Correctional officers and jailers,12,285,4.904837546617469e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8320,Sewing machine operators,11,285,4.904837546617469e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4750,Parts salespersons,8,278,4.7843678524900227e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",13,277,4.7671578961861014e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7640,"Other installation, maintenance, and repair workers",17,271,4.663898158362576e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4830,Travel agents,16,267,4.595058333146892e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8630,Miscellaneous plant and system operators,5,262,4.509008551627287e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,9825,Military enlisted tactical operations and air/weapons specialists and crew members,15,260,4.474588639019445e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0640,"Compensation, benefits, and job analysis specialists",8,259,4.4573786827155245e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4525,Other personal appearance workers,8,259,4.4573786827155245e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,9050,Flight attendants,13,254,4.37132890119592e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1545,Other drafters,12,253,4.354118944891999e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3820,Detectives and criminal investigators,6,247,4.250859207068473e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,6520,Sheet metal workers,7,247,4.250859207068473e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8810,Painting workers,9,247,4.250859207068473e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,9430,Other transportation workers,7,247,4.250859207068473e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,9415,Passenger attendants,4,246,4.2336492507645524e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,6120,Forest and conservation workers,12,242,4.1648094255488684e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5260,File clerks,11,239,4.1131795566371057e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3647,Pharmacy aides,7,236,4.061549687725343e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7320,Home appliance repairers,8,236,4.061549687725343e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4530,"Baggage porters, bellhops, and concierges",11,235,4.0443397314214217e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8650,"Crushing, grinding, polishing, mixing, and blending workers",7,235,4.0443397314214217e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3910,Private detectives and investigators,7,232,3.992709862509659e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,9720,Refuse and recyclable material collectors,6,225,3.872240168382212e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2751,Music directors and composers,9,224,3.8550302120782915e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4640,Residential advisors,17,219,3.768980430558687e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1420,Environmental engineers,12,218,3.751770474254766e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2905,Other media and communication equipment workers,11,216,3.717350561646924e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1005,Computer and information research scientists,9,215,3.700140605343003e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7430,Precision instrument and equipment repairers,13,215,3.700140605343003e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8950,Helpers--production workers,9,214,3.682930649039082e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2050,"Directors, religious activities and education",8,213,3.6657206927351614e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2805,Broadcast announcers and radio disc jockeys,4,210,3.614090823823398e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7210,Bus and truck mechanics and diesel engine specialists,11,208,3.5796709112155566e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0960,Other financial specialists,13,207,3.5624609549116354e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5420,Other information and records clerks,13,207,3.5624609549116354e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3646,Medical transcriptionists,10,202,3.4764111733920307e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8830,Photographic process workers and processing machine operators,3,202,3.4764111733920307e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5350,Correspondence clerks and order clerks,8,201,3.45920121708811e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8640,"Chemical processing machine setters, operators, and tenders",3,200,3.4419912607841887e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2700,Actors,5,199,3.424781304480268e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1520,"Petroleum, mining and geological engineers, including mining safety engineers",7,198,3.407571348176347e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7855,"Food processing workers, all other",7,198,3.407571348176347e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,9410,Transportation inspectors,5,197,3.390361391872426e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3430,Dietetic technicians and ophthalmic medical technicians,5,195,3.355941479264584e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,6330,"Drywall installers, ceiling tile installers, and tapers",4,195,3.355941479264584e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3330,Nuclear medicine technologists and medical dosimetrists,10,194,3.338731522960663e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7840,Food batchmakers,8,194,3.338731522960663e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3220,Respiratory therapists,8,193,3.3215215666567425e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3649,Phlebotomists,8,193,3.3215215666567425e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1980,Occupational health and safety specialists and technicians,10,189,3.2526817414410585e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2004,Mental health counselors,14,189,3.2526817414410585e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0860,Insurance underwriters,8,187,3.2182618288332165e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5140,Payroll and timekeeping clerks,8,185,3.1838419162253745e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4240,Pest control workers,6,184,3.166631959921454e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7420,Telecommunications line installers and repairers,6,183,3.149422003617533e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1821,Clinical and counseling psychologists,7,179,3.080582178401849e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8610,Stationary engineers and boiler operators,11,179,3.080582178401849e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3424,Veterinary technologists and technicians,9,178,3.0633722220979283e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7300,Control and valve installers and repairers,7,172,2.9601124842744024e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1900,Agricultural and food science technicians,4,171,2.9429025279704816e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3940,Crossing guards and flaggers,8,171,2.9429025279704816e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3401,Emergency medical technicians,11,168,2.891272659058719e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5320,"Library assistants, clerical",14,168,2.891272659058719e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0101,Administrative services managers,10,165,2.8396427901469556e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3423,Surgical technologists,3,165,2.8396427901469556e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7410,Electrical power-line installers and repairers,4,161,2.770802964931272e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0500,"Agents and business managers of artists, performers, and athletes",6,160,2.753593008627351e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2920,"Television, video, and film camera operators and editors",9,160,2.753593008627351e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,6515,Roofers,4,160,2.753593008627351e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1340,Biomedical and agricultural engineers,8,156,2.6847531834116675e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3620,Physical therapist assistants and aides,9,156,2.6847531834116675e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0040,Advertising and promotions managers,8,150,2.5814934455881415e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0137,Training and development managers,6,149,2.564283489284221e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1750,"Geoscientists and hydrologists, except geographers",5,149,2.564283489284221e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",6,148,2.5470735329802995e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1745,"Environmental scientists and specialists, including health",6,145,2.495443664068537e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5100,Bill and account collectors,4,145,2.495443664068537e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3120,Podiatrists,6,143,2.461023751460695e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3725,"Miscellaneous first-line supervisors, protective service workers",6,142,2.443813795156774e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8130,Tool and die makers,5,139,2.3921839262450113e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0820,Budget analysts,8,137,2.3577640136371693e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1310,"Surveyors, cartographers, and photogrammetrists",8,136,2.3405540573332483e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4160,"Food preparation and serving related workers, all other",4,134,2.3061341447254066e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2001,Substance abuse and behavioral disorder counselors,6,132,2.2717142321175646e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2180,"Legal support workers, all other",3,132,2.2717142321175646e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5250,"Eligibility interviewers, government programs",7,132,2.2717142321175646e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3960,Other protective service workers,9,129,2.220084363205802e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5540,Postal service clerks,8,129,2.220084363205802e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5730,Medical secretaries and administrative assistants,4,129,2.220084363205802e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",6,129,2.220084363205802e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2636,Merchandise displayers and window trimmers,5,126,2.168454494294039e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0726,Fundraisers,8,123,2.1168246253822762e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0930,"Tax examiners and collectors, and revenue agents",6,123,2.1168246253822762e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1920,Chemical technicians,4,119,2.0479848001665925e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2105,Judicial law clerks,4,118,2.0307748438626715e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",5,117,2.0135648875587505e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,9310,Ship and boat captains and operators,3,115,1.9791449749509085e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2840,Technical writers,8,114,1.9619350186469878e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8450,Upholsterers,4,113,1.9447250623430668e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2770,"Entertainers and performers, sports and related workers, all other",4,111,1.9103051497352248e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,9510,Crane and tower operators,4,108,1.858675280823462e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,6441,Pipelayers,2,105,1.807045411911699e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3250,Veterinarians,8,104,1.7898354556077783e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,6700,Elevator installers and repairers,3,103,1.7726254993038573e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4540,Tour and travel guides,7,102,1.7554155429999363e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,9760,Other material moving workers,4,102,1.7554155429999363e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1541,Architectural and civil drafters,4,101,1.7382055866960153e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7925,"Forming machine setters, operators, and tenders, metal and plastic",3,100,1.7209956303920943e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1910,Biological technicians,3,99,1.7037856740881736e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3000,Chiropractors,6,99,1.7037856740881736e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5230,"Credit authorizers, checkers, and clerks",4,99,1.7037856740881736e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8730,"Furnace, kiln, oven, drier, and kettle operators and tenders",1,99,1.7037856740881736e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,9240,Railroad conductors and yardmasters,3,98,1.6865757177842526e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1840,Urban and regional planners,6,97,1.6693657614803316e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2400,"Archivists, curators, and museum technicians",6,97,1.6693657614803316e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7100,"Other electrical and electronic equipment mechanics, installers, and repairers",2,96,1.6521558051764106e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2012,Healthcare social workers,5,95,1.6349458488724896e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3710,First-line supervisors of police and detectives,4,95,1.6349458488724896e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5820,Word processors and typists,2,94,1.617735892568569e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2440,Library technicians,4,93,1.600525936264648e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3210,Recreational therapists,3,93,1.600525936264648e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4330,Supervisors of personal care and service workers,3,91,1.566106023656806e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5850,"Mail clerks and mail machine operators, except postal service",4,91,1.566106023656806e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,6765,Other construction and related workers,3,88,1.5144761547450432e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,5150,Procurement clerks,5,87,1.4972661984411222e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7610,"Helpers--installation, maintenance, and repair workers",3,87,1.4972661984411222e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2011,"Child, family, and school social workers",4,86,1.4800562421372012e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7830,"Food and tobacco roasting, baking, and drying machine operators and tenders",1,84,1.4456363295293595e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8335,Shoe and leather workers,5,84,1.4456363295293595e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1306,Landscape architects,4,78,1.3423765917058337e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4940,Telemarketers,3,78,1.3423765917058337e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7905,Computer numerically controlled tool operators and programmers,6,78,1.3423765917058337e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8930,"Paper goods machine setters, operators, and tenders",2,78,1.3423765917058337e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1200,Actuaries,5,75,1.2907467227940707e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7510,"Coin, vending, and amusement machine servicers and repairers",4,75,1.2907467227940707e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2865,"Media and communication workers, all other",3,74,1.2735367664901498e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8500,Cabinetmakers and bench carpenters,4,74,1.2735367664901498e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7740,Structural metal fabricators and fitters,2,73,1.256326810186229e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2003,Marriage and family therapists,5,72,1.239116853882308e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,6130,Logging workers,1,72,1.239116853882308e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,6360,Glaziers,4,72,1.239116853882308e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8465,"Other textile, apparel, and furnishings workers",4,72,1.239116853882308e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1560,Surveying and mapping technicians,2,70,1.2046969412744662e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2631,Commercial and industrial designers,4,70,1.2046969412744662e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0830,Credit analysts,2,69,1.1874869849705452e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3140,Audiologists,4,69,1.1874869849705452e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,3256,Nurse anesthetists,4,69,1.1874869849705452e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,7360,Millwrights,3,68,1.1702770286666242e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,0810,Property appraisers and assessors,4,67,1.1530670723627033e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1935,"Environmental science and geoscience technicians, and nuclear technicians",2,67,1.1530670723627033e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,4900,"Models, demonstrators, and product promoters",4,67,1.1530670723627033e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,2721,Athletes and sports competitors,3,65,1.1186471597548613e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
+						and plastic",3,65,1.1186471597548613e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,1600,Agricultural and food scientists,3,60,1.0325973782352566e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8920,"Molders, shapers, and casters, except metal and plastic",2,59,1.0153874219313357e-4
+Middle East/Asia Minor,43461,1071783,23505,581059,8250,Prepress technicians and workers,1,58,9.981774656274147e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,1822,School psychologists,3,57,9.809675093234939e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,3648,Veterinary assistants and laboratory animal caretakers,4,56,9.637575530195729e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,6850,Underground mining machine operators,2,55,9.465475967156519e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,1700,Astronomers and physicists,5,54,9.29337640411731e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,9110,"Ambulance drivers and attendants, except emergency medical technicians",4,54,9.29337640411731e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,7160,Automotive glass installers and repairers,3,52,8.949177278038892e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,8510,Furniture finishers,2,52,8.949177278038892e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,9040,Air traffic controllers and airfield operations specialists,2,52,8.949177278038892e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,9300,"Sailors and marine oilers, and ship engineers",3,52,8.949177278038892e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,6600,"Helpers, construction trades",4,51,8.777077714999682e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,3946,School bus monitors,2,50,8.604978151960472e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,5521,Public safety telecommunicators,3,50,8.604978151960472e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,5900,"Office machine operators, except computer",4,50,8.604978151960472e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,7040,"Electric motor, power tool, and related repairers",3,50,8.604978151960472e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,8040,"Metal furnace operators, tenders, pourers, and casters",3,50,8.604978151960472e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,2740,Dancers and choreographers,2,49,8.432878588921263e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,3605,Orderlies and psychiatric aides,3,49,8.432878588921263e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,4465,"Morticians, undertakers, and funeral arrangers",2,49,8.432878588921263e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,5920,Statistical assistants,2,49,8.432878588921263e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,3040,Optometrists,3,48,8.260779025882053e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,1710,Atmospheric and space scientists,1,45,7.744480336764424e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,9810,First-line enlisted military supervisors,3,45,7.744480336764424e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,1440,Marine engineers and naval architects,2,44,7.572380773725216e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,3900,Animal control workers,1,44,7.572380773725216e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,5020,Telephone operators,3,44,7.572380773725216e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,7030,Avionics technicians,1,44,7.572380773725216e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,2723,"Umpires, referees, and other sports officials",3,43,7.400281210686006e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,3270,"Healthcare diagnosing or treating practitioners, all other",3,42,7.228181647646797e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,3945,Transportation security screeners,2,40,6.883982521568377e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,6010,Agricultural inspectors,1,40,6.883982521568377e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,8620,Water and wastewater treatment plant and system operators,3,40,6.883982521568377e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,6400,Insulation workers,2,39,6.711882958529169e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,2015,Probation officers and correctional treatment specialists,3,37,6.367683832450749e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,2013,Mental health and substance abuse social workers,2,35,6.023484706372331e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,8555,Other woodworkers,3,33,5.6792855802939116e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,2862,Court reporters and simultaneous captioners,2,31,5.335086454215493e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,4340,Animal trainers,1,31,5.335086454215493e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,7130,Security and fire alarm systems installers,3,31,5.335086454215493e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,0510,"Buyers and purchasing agents, farm products",2,30,5.162986891176283e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,0135,Compensation and benefits managers,2,28,4.8187877650978644e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,1640,Conservation scientists and foresters,2,28,4.8187877650978644e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,3610,Occupational therapy assistants and aides,3,28,4.8187877650978644e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",2,28,4.8187877650978644e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,9630,Machine feeders and offbearers,1,28,4.8187877650978644e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,6730,Highway maintenance workers,1,27,4.646688202058655e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,8600,"Power plant operators, distributors, and dispatchers",2,27,4.646688202058655e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,4420,"Ushers, lobby attendants, and ticket takers",2,24,4.1303895129410265e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,8530,"Sawing machine setters, operators, and tenders, wood",1,24,4.1303895129410265e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,9210,Locomotive engineers and operators,2,24,4.1303895129410265e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,0900,Financial examiners,2,23,3.958289949901817e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,2755,"Disc jockeys, except radio",1,23,3.958289949901817e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,5220,"Court, municipal, and license clerks",2,22,3.786190386862608e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,3840,Fish and game wardens and parking enforcement officers,1,21,3.6140908238233986e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,6250,"Cement masons, concrete finishers, and terrazzo workers",2,21,3.6140908238233986e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,7240,Small engine mechanics,1,21,3.6140908238233986e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,21,3.6140908238233986e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,4255,Other grounds maintenance workers,2,19,3.2698916977449794e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,5720,Legal secretaries and administrative assistants,1,19,3.2698916977449794e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,5910,Proofreaders and copy markers,1,19,3.2698916977449794e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,6460,Plasterers and stucco masons,1,18,3.09779213470577e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,6005,"First-line supervisors of farming, fishing, and forestry workers",1,17,2.9256925716665604e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,7730,Engine and other machine assemblers,1,17,2.9256925716665604e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,8720,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",1,17,2.9256925716665604e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,9650,Pumping station operators,1,17,2.9256925716665604e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,9800,Military officer special and tactical operations leaders,1,17,2.9256925716665604e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,0425,Emergency management directors,1,16,2.753593008627351e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,4461,"Embalmers, crematory operators, and funeral attendants",1,14,2.4093938825489322e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,5500,Cargo and freight agents,1,12,2.0651947564705133e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,8256,Print binding and finishing workers,1,12,2.0651947564705133e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,9265,Other rail transportation workers,1,12,2.0651947564705133e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,5560,"Postal service mail sorters, processors, and processing machine operators",1,11,1.893095193431304e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,6115,Fishing and hunting workers,1,11,1.893095193431304e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,6720,Hazardous materials removal workers,1,11,1.893095193431304e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,8310,"Pressers, textile, garment, and related materials",1,11,1.893095193431304e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,6710,Fence erectors,1,9,1.548896067352885e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,8365,"Textile machine setters, operators, and tenders",1,9,1.548896067352885e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,3200,Radiation therapists,1,8,1.3767965043136756e-5
+Middle East/Asia Minor,43461,1071783,23505,581059,8910,Etchers and engravers,1,4,6.883982521568378e-6

@@ -19,15 +19,15 @@ immig = acs %>%
 # Country totals
 country_totals = immig %>%
   group_by(country) %>%
-  summarise(n               = n(),                                              # unweighted, all ages
-            pop             = sum(perwt),                                       # weighted, all ages
-            n_workers_18_64 = sum(empstat == 1 & age >= 18 & age <= 64),        # unweighted
-            workers_18_64   = sum(perwt[empstat == 1 & age >= 18 & age <= 64]), # weighted
+  summarise(n         = n(),                      # unweighted, all ages
+            pop       = sum(perwt),               # weighted, all ages
+            n_workers = sum(empstat == 1),        # unweighted
+            workers   = sum(perwt[empstat == 1]), # weighted
             .groups = "drop")
 
-# All occupations for employed 18-64, sorted largest to smallest within each country
+# All occupations for employed, sorted largest to smallest within each country
 occ_by_country = immig %>%
-  filter(empstat == 1, age >= 18, age <= 64) %>%
+  filter(empstat == 1) %>%
   mutate(occ = sprintf("%04d", as.integer(zap_labels(occ)))) %>%
   group_by(country, occ) %>%
   summarise(occ_n       = n(),            # unweighted workers in that occupation

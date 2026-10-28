@@ -1,430 +1,437 @@
-bpl_region,n,pop,n_workers_18_64,workers_18_64,occ,occ_title,occ_n,occ_workers,occ_share
-Western Europe,18106,341789,8568,175174,0440,Other managers,566,11737,0.06700195234452601
-Western Europe,18106,341789,8568,175174,1021,Software developers,353,7246,0.041364586068708825
-Western Europe,18106,341789,8568,175174,0010,Chief executives and legislators,357,6917,0.03948645346912213
-Western Europe,18106,341789,8568,175174,2205,Postsecondary teachers,341,6011,0.03431445305810223
-Western Europe,18106,341789,8568,175174,2310,Elementary and middle school teachers,187,4241,0.024210213844520306
-Western Europe,18106,341789,8568,175174,0120,Financial managers,174,4066,0.02321120714261249
-Western Europe,18106,341789,8568,175174,1760,"Physical scientists, all other",176,3718,0.02122461095824723
-Western Europe,18106,341789,8568,175174,4700,First-line supervisors of retail sales workers,135,3027,0.017279961638142646
-Western Europe,18106,341789,8568,175174,0710,Management analysts,153,2974,0.01697740532270771
-Western Europe,18106,341789,8568,175174,0705,Project management specialists,123,2805,0.016012650279151015
-Western Europe,18106,341789,8568,175174,0020,General and operations managers,108,2272,0.012969961295626064
-Western Europe,18106,341789,8568,175174,1530,Other engineers,108,2207,0.012598901663488874
-Western Europe,18106,341789,8568,175174,0800,Accountants and auditors,104,2150,0.012273510909153185
-Western Europe,18106,341789,8568,175174,0051,Marketing managers,119,2146,0.012250676470252434
-Western Europe,18106,341789,8568,175174,5240,Customer service representatives,103,2139,0.012210716202176121
-Western Europe,18106,341789,8568,175174,2100,"Lawyers, and judges, magistrates, and other judicial workers",108,2136,0.01219359037300056
-Western Europe,18106,341789,8568,175174,2320,Secondary school teachers,106,2114,0.012068000959046433
-Western Europe,18106,341789,8568,175174,4760,Retail salespersons,98,2037,0.011628438010206995
-Western Europe,18106,341789,8568,175174,4710,First-line supervisors of non-retail sales workers,94,2006,0.01145147110872618
-Western Europe,18106,341789,8568,175174,0110,Computer and information systems managers,100,1921,0.010966239282085241
-Western Europe,18106,341789,8568,175174,4600,Childcare workers,75,1872,0.010686517405551052
-Western Europe,18106,341789,8568,175174,2545,Teaching assistants,84,1859,0.010612305479123615
-Western Europe,18106,341789,8568,175174,3255,Registered nurses,83,1760,0.01004715311633005
-Western Europe,18106,341789,8568,175174,0052,Sales managers,71,1576,0.008996768926895543
-Western Europe,18106,341789,8568,175174,4850,"Sales representatives, wholesale and manufacturing",91,1561,0.008911139781017732
-Western Europe,18106,341789,8568,175174,0310,Food service managers,56,1560,0.008905431171292543
-Western Europe,18106,341789,8568,175174,2360,Other teachers and instructors,73,1401,0.007997762224987727
-Western Europe,18106,341789,8568,175174,0300,Architectural and engineering managers,71,1385,0.007906424469384726
-Western Europe,18106,341789,8568,175174,3090,Physicians,75,1353,0.0077237489581787255
-Western Europe,18106,341789,8568,175174,0230,Education and childcare administrators,73,1315,0.007506821788621599
-Western Europe,18106,341789,8568,175174,4920,Real estate brokers and sales agents,72,1314,0.007501113178896412
-Western Europe,18106,341789,8568,175174,5740,"Secretaries and administrative assistants, except legal, medical, and executive",68,1284,0.0073298548871407855
-Western Europe,18106,341789,8568,175174,1006,Computer systems analysts,52,1240,0.007078676059232535
-Western Europe,18106,341789,8568,175174,0735,Market research analysts and marketing specialists,57,1198,0.006838914450774659
-Western Europe,18106,341789,8568,175174,1650,Other life scientists,62,1194,0.0068160800118739085
-Western Europe,18106,341789,8568,175174,4110,Waiters and waitresses,58,1192,0.006804662792423533
-Western Europe,18106,341789,8568,175174,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",39,1163,0.006639113110393095
-Western Europe,18106,341789,8568,175174,2640,Other designers,47,1094,0.006245219039355155
-Western Europe,18106,341789,8568,175174,1240,Other mathematical science occupations,60,1092,0.00623380181990478
-Western Europe,18106,341789,8568,175174,1305,"Architects, except landscape and naval",49,1052,0.006005457430897279
-Western Europe,18106,341789,8568,175174,9130,Driver/sales workers and truck drivers,50,1037,0.005919828285019467
-Western Europe,18106,341789,8568,175174,4000,Chefs and head cooks,49,1016,0.005799947480790529
-Western Europe,18106,341789,8568,175174,1108,"Computer occupations, all other",46,1015,0.005794238871065341
-Western Europe,18106,341789,8568,175174,5000,First-line supervisors of office and administrative support workers,44,1015,0.005794238871065341
-Western Europe,18106,341789,8568,175174,0750,"Business operations specialists, all other",54,985,0.005622980579309715
-Western Europe,18106,341789,8568,175174,5120,"Bookkeeping, accounting, and auditing clerks",46,936,0.005343258702775526
-Western Europe,18106,341789,8568,175174,9620,"Laborers and freight, stock, and material movers, hand",25,923,0.0052690467763480886
-Western Europe,18106,341789,8568,175174,1430,"Industrial engineers, including health and safety",31,920,0.0052519209471725255
-Western Europe,18106,341789,8568,175174,4720,Cashiers,36,906,0.0051720004110199
-Western Europe,18106,341789,8568,175174,0410,"Property, real estate, and community association managers",44,875,0.0049950335095390866
-Western Europe,18106,341789,8568,175174,0845,Financial and investment analysts,44,862,0.004920821583111649
-Western Europe,18106,341789,8568,175174,2300,Preschool and kindergarten teachers,31,856,0.004886569924760524
-Western Europe,18106,341789,8568,175174,9030,Aircraft pilots and flight engineers,50,843,0.004812357998333086
-Western Europe,18106,341789,8568,175174,0850,Personal financial advisors,32,823,0.004698185803829335
-Western Europe,18106,341789,8568,175174,0220,Construction managers,42,814,0.004646808316302648
-Western Europe,18106,341789,8568,175174,1360,Civil engineers,42,812,0.004635391096852273
-Western Europe,18106,341789,8568,175174,0630,Human resources workers,46,794,0.004532636121798897
-Western Europe,18106,341789,8568,175174,1800,Economists,21,778,0.004441298366195896
-Western Europe,18106,341789,8568,175174,4220,Janitors and building cleaners,25,775,0.004424172537020334
-Western Europe,18106,341789,8568,175174,2722,Coaches and scouts,33,774,0.004418463927295146
-Western Europe,18106,341789,8568,175174,2600,Artists and related workers,48,754,0.004304291732791396
-Western Europe,18106,341789,8568,175174,4820,"Securities, commodities, and financial services sales agents",36,753,0.004298583123066208
-Western Europe,18106,341789,8568,175174,0350,Medical and health services managers,43,740,0.004224371196638771
-Western Europe,18106,341789,8568,175174,1050,Computer support specialists,43,733,0.004184410928562458
-Western Europe,18106,341789,8568,175174,4510,"Hairdressers, hairstylists, and cosmetologists",32,731,0.004172993709112083
-Western Europe,18106,341789,8568,175174,4965,"Sales and related workers, all other",23,729,0.004161576489661708
-Western Europe,18106,341789,8568,175174,3160,Physical therapists,43,715,0.0040816559535090825
-Western Europe,18106,341789,8568,175174,1410,Electrical and electronics engineers,41,696,0.00397319236873052
-Western Europe,18106,341789,8568,175174,6355,Electricians,24,682,0.003893271832577894
-Western Europe,18106,341789,8568,175174,0140,Industrial production managers,33,666,0.0038019340769748933
-Western Europe,18106,341789,8568,175174,0420,Social and community service managers,37,650,0.003710596321371893
-Western Europe,18106,341789,8568,175174,0205,"Farmers, ranchers, and other agricultural managers",41,643,0.0036706360532955803
-Western Europe,18106,341789,8568,175174,5710,Executive secretaries and executive administrative assistants,34,570,0.003253907543356891
-Western Europe,18106,341789,8568,175174,2920,"Television, video, and film camera operators and editors",20,561,0.003202530055830203
-Western Europe,18106,341789,8568,175174,5400,Receptionists and information clerks,25,547,0.0031226095196775776
-Western Europe,18106,341789,8568,175174,4621,Exercise trainers and group fitness instructors,26,546,0.00311690090995239
-Western Europe,18106,341789,8568,175174,1460,Mechanical engineers,28,542,0.00309406647105164
-Western Europe,18106,341789,8568,175174,1970,"Other life, physical, and social science technicians",23,528,0.0030141459348990147
-Western Europe,18106,341789,8568,175174,2710,Producers and directors,25,510,0.002911390959845639
-Western Europe,18106,341789,8568,175174,7800,Bakers,25,506,0.0028885565209448892
-Western Europe,18106,341789,8568,175174,2350,Tutors,30,487,0.002780092936166326
-Western Europe,18106,341789,8568,175174,5940,Other office and administrative support workers,19,482,0.0027515498875403882
-Western Europe,18106,341789,8568,175174,0136,Human resources managers,23,481,0.0027458412778152007
-Western Europe,18106,341789,8568,175174,1825,Other psychologists,23,471,0.0026887551805633257
-Western Europe,18106,341789,8568,175174,3930,Security guards and gaming surveillance officers,21,457,0.0026088346444107
-Western Europe,18106,341789,8568,175174,2861,Interpreters and translators,29,456,0.0026031260346855126
-Western Europe,18106,341789,8568,175174,0150,Purchasing managers,27,452,0.0025802915957847624
-Western Europe,18106,341789,8568,175174,1320,Aerospace engineers,25,440,0.0025117882790825123
-Western Europe,18106,341789,8568,175174,4020,Cooks,30,437,0.0024946624499069497
-Western Europe,18106,341789,8568,175174,5860,"Office clerks, general",27,437,0.0024946624499069497
-Western Europe,18106,341789,8568,175174,2634,Graphic designers,24,436,0.002488953840181762
-Western Europe,18106,341789,8568,175174,8740,"Inspectors, testers, sorters, samplers, and weighers",18,435,0.0024832452304565746
-Western Europe,18106,341789,8568,175174,9645,Stockers and order fillers,22,435,0.0024832452304565746
-Western Europe,18106,341789,8568,175174,1400,Computer hardware engineers,12,429,0.0024489935721054494
-Western Europe,18106,341789,8568,175174,0520,"Wholesale and retail buyers, except farm products",10,414,0.0023633644262276367
-Western Europe,18106,341789,8568,175174,3602,Personal care aides,27,411,0.002346238597052074
-Western Europe,18106,341789,8568,175174,4040,Bartenders,16,405,0.002311986938700949
-Western Europe,18106,341789,8568,175174,2752,Musicians and singers,15,391,0.0022320664025483232
-Western Europe,18106,341789,8568,175174,0530,"Purchasing agents, except wholesale, retail, and farm products",13,386,0.002203523353922386
-Western Europe,18106,341789,8568,175174,1007,Information security analysts,17,385,0.0021978147441971984
-Western Europe,18106,341789,8568,175174,0340,Lodging managers,20,379,0.002163563085846073
-Western Europe,18106,341789,8568,175174,3050,Pharmacists,18,376,0.0021464372566705105
-Western Europe,18106,341789,8568,175174,2910,Photographers,24,373,0.002129311427494948
-Western Europe,18106,341789,8568,175174,2006,"Counselors, all other",14,351,0.0020037220135408224
-Western Europe,18106,341789,8568,175174,1105,Network and computer systems administrators,16,350,0.001998013403815635
-Western Europe,18106,341789,8568,175174,6260,Construction laborers,20,350,0.001998013403815635
-Western Europe,18106,341789,8568,175174,2040,Clergy,20,348,0.00198659618436526
-Western Europe,18106,341789,8568,175174,2830,Editors,18,345,0.001969470355189697
-Western Europe,18106,341789,8568,175174,7200,Automotive service technicians and mechanics,16,336,0.0019180928676630093
-Western Europe,18106,341789,8568,175174,1010,Computer programmers,19,331,0.0018895498190370718
-Western Europe,18106,341789,8568,175174,5600,"Production, planning, and expediting clerks",16,317,0.0018096292828844462
-Western Europe,18106,341789,8568,175174,0565,Compliance officers,21,314,0.0017925034537088838
-Western Europe,18106,341789,8568,175174,3500,Licensed practical and licensed vocational nurses,6,313,0.0017867948439836963
-Western Europe,18106,341789,8568,175174,1065,Database administrators and architects,21,304,0.0017354173564570084
-Western Europe,18106,341789,8568,175174,6230,Carpenters,14,301,0.001718291527281446
-Western Europe,18106,341789,8568,175174,8990,"Miscellaneous production workers, including equipment operators and tenders",15,299,0.001706874307831071
-Western Europe,18106,341789,8568,175174,2025,Other community and social service specialists,13,298,0.0017011656981058834
-Western Europe,18106,341789,8568,175174,4800,Advertising sales agents,8,297,0.0016954570883806958
-Western Europe,18106,341789,8568,175174,3630,Massage therapists,17,294,0.0016783312592051332
-Western Europe,18106,341789,8568,175174,1005,Computer and information research scientists,11,293,0.0016726226494799456
-Western Europe,18106,341789,8568,175174,4030,Food preparation workers,16,291,0.0016612054300295706
-Western Europe,18106,341789,8568,175174,7700,First-line supervisors of production and operating workers,18,291,0.0016612054300295706
-Western Europe,18106,341789,8568,175174,0650,Training and development specialists,11,285,0.0016269537716784455
-Western Europe,18106,341789,8568,175174,1720,Chemists and materials scientists,5,279,0.0015927021133273203
-Western Europe,18106,341789,8568,175174,2850,Writers and authors,14,279,0.0015927021133273203
-Western Europe,18106,341789,8568,175174,2635,Interior designers,16,277,0.0015812848938769452
-Western Europe,18106,341789,8568,175174,1031,Web developers,9,274,0.0015641590647013826
-Western Europe,18106,341789,8568,175174,5110,Billing and posting clerks,10,272,0.0015527418452510075
-Western Europe,18106,341789,8568,175174,0060,Public relations and fundraising managers,12,268,0.0015299074063502575
-Western Europe,18106,341789,8568,175174,0910,Credit counselors and loan officers,15,267,0.00152419879662507
-Western Europe,18106,341789,8568,175174,2145,Paralegals and legal assistants,14,266,0.0015184901868998825
-Western Europe,18106,341789,8568,175174,3870,Police officers,13,264,0.0015070729674495074
-Western Europe,18106,341789,8568,175174,9050,Flight attendants,13,260,0.0014842385285487572
-Western Europe,18106,341789,8568,175174,4010,First-line supervisors of food preparation and serving workers,16,259,0.0014785299188235697
-Western Europe,18106,341789,8568,175174,0500,"Agents and business managers of artists, performers, and athletes",8,256,0.001461404089648007
-Western Europe,18106,341789,8568,175174,1200,Actuaries,6,255,0.0014556954799228195
-Western Europe,18106,341789,8568,175174,1350,Chemical engineers,16,255,0.0014556954799228195
-Western Europe,18106,341789,8568,175174,2435,Librarians and media collections specialists,13,252,0.001438569650747257
-Western Europe,18106,341789,8568,175174,6200,First-line supervisors of construction trades and extraction workers,11,251,0.0014328610410220695
-Western Europe,18106,341789,8568,175174,5510,Couriers and messengers,12,250,0.001427152431296882
-Western Europe,18106,341789,8568,175174,0160,"Transportation, storage, and distribution managers",16,249,0.0014214438215716945
-Western Europe,18106,341789,8568,175174,2002,"Educational, guidance, and career counselors and advisors",18,249,0.0014214438215716945
-Western Europe,18106,341789,8568,175174,8750,Jewelers and precious stone and metal workers,4,241,0.0013757749437701941
-Western Europe,18106,341789,8568,175174,1610,Biological scientists,16,240,0.0013700663340450066
-Western Europe,18106,341789,8568,175174,4251,Landscaping and groundskeeping workers,9,237,0.0013529405048694442
-Western Europe,18106,341789,8568,175174,3230,Speech-language pathologists,12,236,0.0013472318951442566
-Western Europe,18106,341789,8568,175174,1555,"Other engineering technologists and technicians, except drafters",14,235,0.001341523285419069
-Western Europe,18106,341789,8568,175174,4655,"Personal care and service workers, all other",9,233,0.001330106065968694
-Western Europe,18106,341789,8568,175174,3424,Veterinary technologists and technicians,8,232,0.0013243974562435065
-Western Europe,18106,341789,8568,175174,9830,"Military, rank not specified",9,230,0.0013129802367931314
-Western Europe,18106,341789,8568,175174,7000,"First-line supervisors of mechanics, installers, and repairers",14,228,0.0013015630173427563
-Western Europe,18106,341789,8568,175174,1860,Other social scientists,10,225,0.0012844371881671937
-Western Europe,18106,341789,8568,175174,8320,Sewing machine operators,4,221,0.0012616027492664437
-Western Europe,18106,341789,8568,175174,5165,Other financial clerks,14,215,0.0012273510909153185
-Western Europe,18106,341789,8568,175174,3603,Nursing assistants,10,213,0.0012159338714649434
-Western Europe,18106,341789,8568,175174,2004,Mental health counselors,8,210,0.0011988080422893808
-Western Europe,18106,341789,8568,175174,4930,Sales engineers,11,210,0.0011988080422893808
-Western Europe,18106,341789,8568,175174,4810,Insurance sales agents,9,209,0.0011930994325641932
-Western Europe,18106,341789,8568,175174,1700,Astronomers and physicists,14,207,0.0011816822131138183
-Western Europe,18106,341789,8568,175174,7750,Other assemblers and fabricators,6,207,0.0011816822131138183
-Western Europe,18106,341789,8568,175174,3645,Medical assistants,9,201,0.001147430554762693
-Western Europe,18106,341789,8568,175174,0101,Administrative services managers,7,199,0.001136013335312318
-Western Europe,18106,341789,8568,175174,3601,Home health aides,9,198,0.0011303047255871305
-Western Europe,18106,341789,8568,175174,9142,Taxi drivers,8,197,0.001124596115861943
-Western Europe,18106,341789,8568,175174,2810,"News analysts, reporters, and journalists",14,196,0.0011188875061367554
-Western Europe,18106,341789,8568,175174,2016,Social and human service assistants,10,187,0.0010675100186100677
-Western Europe,18106,341789,8568,175174,6442,"Plumbers, pipefitters, and steamfitters",3,187,0.0010675100186100677
-Western Europe,18106,341789,8568,175174,2400,"Archivists, curators, and museum technicians",9,183,0.0010446755797093176
-Western Europe,18106,341789,8568,175174,3250,Veterinarians,9,183,0.0010446755797093176
-Western Europe,18106,341789,8568,175174,0700,Logisticians,11,178,0.0010161325310833799
-Western Europe,18106,341789,8568,175174,0725,"Meeting, convention, and event planners",12,178,0.0010161325310833799
-Western Europe,18106,341789,8568,175174,4350,Animal caretakers,11,178,0.0010161325310833799
-Western Europe,18106,341789,8568,175174,8030,Machinists,8,178,0.0010161325310833799
-Western Europe,18106,341789,8568,175174,0960,Other financial specialists,10,177,0.0010104239213581925
-Western Europe,18106,341789,8568,175174,1022,Software quality assurance analysts and testers,9,176,0.001004715311633005
-Western Europe,18106,341789,8568,175174,2633,Floral designers,4,176,0.001004715311633005
-Western Europe,18106,341789,8568,175174,2330,Special education teachers,12,172,9.818808727322548e-4
-Western Europe,18106,341789,8568,175174,4055,Fast food and counter workers,16,171,9.761722630070673e-4
-Western Europe,18106,341789,8568,175174,6800,"Derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining",1,171,9.761722630070673e-4
-Western Europe,18106,341789,8568,175174,6050,Other agricultural workers,11,170,9.704636532818797e-4
-Western Europe,18106,341789,8568,175174,4435,Other entertainment attendants and related workers,8,169,9.647550435566922e-4
-Western Europe,18106,341789,8568,175174,0040,Advertising and promotions managers,6,165,9.419206046559421e-4
-Western Europe,18106,341789,8568,175174,0335,Entertainment and recreation managers,2,165,9.419206046559421e-4
-Western Europe,18106,341789,8568,175174,3820,Detectives and criminal investigators,9,165,9.419206046559421e-4
-Western Europe,18106,341789,8568,175174,1106,Computer network architects,10,163,9.30503385205567e-4
-Western Europe,18106,341789,8568,175174,7340,"Maintenance and repair workers, general",11,158,9.019603365796294e-4
-Western Europe,18106,341789,8568,175174,1032,Web and digital interface designers,8,157,8.962517268544419e-4
-Western Europe,18106,341789,8568,175174,2555,Other educational instruction and library workers,9,157,8.962517268544419e-4
-Western Europe,18106,341789,8568,175174,9005,Supervisors of transportation and material moving workers,4,157,8.962517268544419e-4
-Western Europe,18106,341789,8568,175174,4230,Maids and housekeeping cleaners,11,155,8.848345074040668e-4
-Western Europe,18106,341789,8568,175174,4830,Travel agents,11,155,8.848345074040668e-4
-Western Europe,18106,341789,8568,175174,1750,"Geoscientists and hydrologists, except geographers",9,150,8.562914587781292e-4
-Western Europe,18106,341789,8568,175174,3258,"Nurse practitioners, and nurse midwives",11,144,8.22039800427004e-4
-Western Europe,18106,341789,8568,175174,1745,"Environmental scientists and specialists, including health",5,142,8.10622580976629e-4
-Western Europe,18106,341789,8568,175174,0540,"Claims adjusters, appraisers, examiners, and investigators",8,140,7.992053615262539e-4
-Western Europe,18106,341789,8568,175174,3300,Clinical laboratory technologists and technicians,9,139,7.934967518010664e-4
-Western Europe,18106,341789,8568,175174,3421,Pharmacy technicians,6,137,7.820795323506913e-4
-Western Europe,18106,341789,8568,175174,5320,"Library assistants, clerical",11,136,7.763709226255037e-4
-Western Europe,18106,341789,8568,175174,4130,Dining room and cafeteria attendants and bartender helpers,5,134,7.649537031751288e-4
-Western Europe,18106,341789,8568,175174,5220,"Court, municipal, and license clerks",6,131,7.478278739995661e-4
-Western Europe,18106,341789,8568,175174,5610,"Shipping, receiving, and inventory clerks",6,129,7.364106545491911e-4
-Western Europe,18106,341789,8568,175174,5410,Reservation and transportation ticket agents and travel clerks,6,127,7.249934350988161e-4
-Western Europe,18106,341789,8568,175174,7330,Industrial and refractory machinery mechanics,7,127,7.249934350988161e-4
-Western Europe,18106,341789,8568,175174,2060,"Religious workers, all other",8,126,7.192848253736285e-4
-Western Europe,18106,341789,8568,175174,3010,Dentists,7,125,7.13576215648441e-4
-Western Europe,18106,341789,8568,175174,3740,Firefighters,4,125,7.13576215648441e-4
-Western Europe,18106,341789,8568,175174,7020,Radio and telecommunications equipment installers and repairers,7,125,7.13576215648441e-4
-Western Europe,18106,341789,8568,175174,2014,"Social workers, all other",9,124,7.078676059232535e-4
-Western Europe,18106,341789,8568,175174,1220,Operations research analysts,8,117,6.679073378469408e-4
-Western Europe,18106,341789,8568,175174,4522,Skincare specialists,6,117,6.679073378469408e-4
-Western Europe,18106,341789,8568,175174,0726,Fundraisers,8,116,6.621987281217532e-4
-Western Europe,18106,341789,8568,175174,8140,"Welding, soldering, and brazing workers",2,116,6.621987281217532e-4
-Western Europe,18106,341789,8568,175174,2180,"Legal support workers, all other",7,113,6.450728989461906e-4
-Western Europe,18106,341789,8568,175174,2905,Other media and communication equipment workers,7,113,6.450728989461906e-4
-Western Europe,18106,341789,8568,175174,5140,Payroll and timekeeping clerks,4,113,6.450728989461906e-4
-Western Europe,18106,341789,8568,175174,3110,Physician assistants,3,111,6.336556794958156e-4
-Western Europe,18106,341789,8568,175174,7010,"Computer, automated teller, and office machine repairers",6,110,6.279470697706281e-4
-Western Europe,18106,341789,8568,175174,2751,Music directors and composers,4,108,6.16529850320253e-4
-Western Europe,18106,341789,8568,175174,0860,Insurance underwriters,4,107,6.108212405950655e-4
-Western Europe,18106,341789,8568,175174,3030,Dietitians and nutritionists,4,107,6.108212405950655e-4
-Western Europe,18106,341789,8568,175174,1600,Agricultural and food scientists,1,103,5.879868016943154e-4
-Western Europe,18106,341789,8568,175174,8465,"Other textile, apparel, and furnishings workers",2,103,5.879868016943154e-4
-Western Europe,18106,341789,8568,175174,8830,Photographic process workers and processing machine operators,4,102,5.822781919691279e-4
-Western Europe,18106,341789,8568,175174,9610,Cleaners of vehicles and equipment,2,102,5.822781919691279e-4
-Western Europe,18106,341789,8568,175174,1520,"Petroleum, mining and geological engineers, including mining safety engineers",3,101,5.765695822439403e-4
-Western Europe,18106,341789,8568,175174,3310,Dental hygienists,6,100,5.708609725187528e-4
-Western Europe,18106,341789,8568,175174,9825,Military enlisted tactical operations and air/weapons specialists and crew members,7,100,5.708609725187528e-4
-Western Europe,18106,341789,8568,175174,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",8,99,5.651523627935652e-4
-Western Europe,18106,341789,8568,175174,6410,Painters and paperhangers,7,99,5.651523627935652e-4
-Western Europe,18106,341789,8568,175174,4900,"Models, demonstrators, and product promoters",4,98,5.594437530683777e-4
-Western Europe,18106,341789,8568,175174,2700,Actors,6,96,5.480265336180027e-4
-Western Europe,18106,341789,8568,175174,3245,Other therapists,6,94,5.366093141676276e-4
-Western Europe,18106,341789,8568,175174,5310,"Interviewers, except eligibility and loan",6,92,5.251920947172526e-4
-Western Europe,18106,341789,8568,175174,3150,Occupational therapists,5,91,5.19483484992065e-4
-Western Europe,18106,341789,8568,175174,5300,"Hotel, motel, and resort desk clerks",5,91,5.19483484992065e-4
-Western Europe,18106,341789,8568,175174,8225,Other metal workers and plastic workers,3,91,5.19483484992065e-4
-Western Europe,18106,341789,8568,175174,1420,Environmental engineers,5,90,5.137748752668775e-4
-Western Europe,18106,341789,8568,175174,8640,"Chemical processing machine setters, operators, and tenders",3,89,5.080662655416899e-4
-Western Europe,18106,341789,8568,175174,9121,"Bus drivers, school",6,89,5.080662655416899e-4
-Western Europe,18106,341789,8568,175174,4540,Tour and travel guides,6,88,5.023576558165025e-4
-Western Europe,18106,341789,8568,175174,8130,Tool and die makers,3,86,4.909404363661274e-4
-Western Europe,18106,341789,8568,175174,8255,Printing press operators,3,86,4.909404363661274e-4
-Western Europe,18106,341789,8568,175174,7720,"Electrical, electronics, and electromechanical assemblers",4,85,4.8523182664093987e-4
-Western Europe,18106,341789,8568,175174,2840,Technical writers,5,82,4.681059974653773e-4
-Western Europe,18106,341789,8568,175174,4530,"Baggage porters, bellhops, and concierges",4,81,4.6239738774018975e-4
-Western Europe,18106,341789,8568,175174,9300,"Sailors and marine oilers, and ship engineers",6,81,4.6239738774018975e-4
-Western Europe,18106,341789,8568,175174,1980,Occupational health and safety specialists and technicians,2,80,4.566887780150022e-4
-Western Europe,18106,341789,8568,175174,3323,Radiologic technologists and technicians,2,79,4.509801682898147e-4
-Western Europe,18106,341789,8568,175174,4940,Telemarketers,2,79,4.509801682898147e-4
-Western Europe,18106,341789,8568,175174,4525,Other personal appearance workers,3,78,4.452715585646272e-4
-Western Europe,18106,341789,8568,175174,5330,Loan interviewers and clerks,4,77,4.3956294883943964e-4
-Western Europe,18106,341789,8568,175174,0360,Natural sciences managers,4,76,4.338543391142521e-4
-Western Europe,18106,341789,8568,175174,4622,Recreation workers,4,76,4.338543391142521e-4
-Western Europe,18106,341789,8568,175174,3322,Diagnostic medical sonographers,5,75,4.281457293890646e-4
-Western Europe,18106,341789,8568,175174,4340,Animal trainers,4,75,4.281457293890646e-4
-Western Europe,18106,341789,8568,175174,5420,Other information and records clerks,5,75,4.281457293890646e-4
-Western Europe,18106,341789,8568,175174,7210,Bus and truck mechanics and diesel engine specialists,4,75,4.281457293890646e-4
-Western Europe,18106,341789,8568,175174,1310,"Surveyors, cartographers, and photogrammetrists",5,74,4.2243711966387707e-4
-Western Europe,18106,341789,8568,175174,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",3,73,4.167285099386895e-4
-Western Europe,18106,341789,8568,175174,5920,Statistical assistants,2,73,4.167285099386895e-4
-Western Europe,18106,341789,8568,175174,2740,Dancers and choreographers,4,72,4.11019900213502e-4
-Western Europe,18106,341789,8568,175174,3100,Surgeons,6,72,4.11019900213502e-4
-Western Europe,18106,341789,8568,175174,3910,Private detectives and investigators,3,72,4.11019900213502e-4
-Western Europe,18106,341789,8568,175174,1450,Materials engineers,5,71,4.053112904883145e-4
-Western Europe,18106,341789,8568,175174,4120,"Food servers, nonrestaurant",5,71,4.053112904883145e-4
-Western Europe,18106,341789,8568,175174,2011,"Child, family, and school social workers",1,69,3.938940710379394e-4
-Western Europe,18106,341789,8568,175174,9415,Passenger attendants,2,69,3.938940710379394e-4
-Western Europe,18106,341789,8568,175174,8710,Cutting workers,1,68,3.8818546131275187e-4
-Western Europe,18106,341789,8568,175174,3802,Correctional officers and jailers,3,67,3.824768515875644e-4
-Western Europe,18106,341789,8568,175174,5250,"Eligibility interviewers, government programs",2,67,3.824768515875644e-4
-Western Europe,18106,341789,8568,175174,5810,Data entry keyers,4,67,3.824768515875644e-4
-Western Europe,18106,341789,8568,175174,2631,Commercial and industrial designers,1,66,3.7676824186237684e-4
-Western Europe,18106,341789,8568,175174,5260,File clerks,3,66,3.7676824186237684e-4
-Western Europe,18106,341789,8568,175174,3545,Miscellaneous health technologists and technicians,4,65,3.710596321371893e-4
-Western Europe,18106,341789,8568,175174,9122,"Bus drivers, transit and intercity",4,65,3.710596321371893e-4
-Western Europe,18106,341789,8568,175174,9365,Transportation service attendants,2,65,3.710596321371893e-4
-Western Europe,18106,341789,8568,175174,3401,Emergency medical technicians,3,64,3.6535102241200176e-4
-Western Europe,18106,341789,8568,175174,7430,Precision instrument and equipment repairers,5,63,3.5964241268681427e-4
-Western Europe,18106,341789,8568,175174,9600,Industrial truck and tractor operators,5,63,3.5964241268681427e-4
-Western Europe,18106,341789,8568,175174,2050,"Directors, religious activities and education",4,62,3.5393380296162673e-4
-Western Europe,18106,341789,8568,175174,3960,Other protective service workers,5,62,3.5393380296162673e-4
-Western Europe,18106,341789,8568,175174,2632,Fashion designers,4,60,3.4251658351125164e-4
-Western Europe,18106,341789,8568,175174,2636,Merchandise displayers and window trimmers,4,60,3.4251658351125164e-4
-Western Europe,18106,341789,8568,175174,7240,Small engine mechanics,2,60,3.4251658351125164e-4
-Western Europe,18106,341789,8568,175174,7315,"Heating, air conditioning, and refrigeration mechanics and installers",4,60,3.4251658351125164e-4
-Western Europe,18106,341789,8568,175174,3640,Dental assistants,3,59,3.3680797378606416e-4
-Western Europe,18106,341789,8568,175174,2770,"Entertainers and performers, sports and related workers, all other",3,58,3.310993640608766e-4
-Western Europe,18106,341789,8568,175174,3655,Other healthcare support workers,5,58,3.310993640608766e-4
-Western Europe,18106,341789,8568,175174,7810,"Butchers and other meat, poultry, and fish processing workers",2,58,3.310993640608766e-4
-Western Europe,18106,341789,8568,175174,3402,Paramedics,3,57,3.253907543356891e-4
-Western Europe,18106,341789,8568,175174,4740,Counter and rental clerks,2,57,3.253907543356891e-4
-Western Europe,18106,341789,8568,175174,5150,Procurement clerks,3,55,3.1397353488531404e-4
-Western Europe,18106,341789,8568,175174,5840,Insurance claims and policy processing clerks,4,55,3.1397353488531404e-4
-Western Europe,18106,341789,8568,175174,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,2,55,3.1397353488531404e-4
-Western Europe,18106,341789,8568,175174,8810,Painting workers,3,55,3.1397353488531404e-4
-Western Europe,18106,341789,8568,175174,9310,Ship and boat captains and operators,3,55,3.1397353488531404e-4
-Western Europe,18106,341789,8568,175174,9810,First-line enlisted military supervisors,1,55,3.1397353488531404e-4
-Western Europe,18106,341789,8568,175174,5160,Tellers,3,54,3.082649251601265e-4
-Western Europe,18106,341789,8568,175174,2001,Substance abuse and behavioral disorder counselors,3,52,2.9684770570975147e-4
-Western Europe,18106,341789,8568,175174,9430,Other transportation workers,2,52,2.9684770570975147e-4
-Western Europe,18106,341789,8568,175174,1545,Other drafters,5,51,2.9113909598456393e-4
-Western Europe,18106,341789,8568,175174,9210,Locomotive engineers and operators,1,50,2.854304862593764e-4
-Western Europe,18106,341789,8568,175174,4200,First-line supervisors of housekeeping and janitorial workers,5,49,2.7972187653418885e-4
-Western Europe,18106,341789,8568,175174,5550,Postal service mail carriers,4,48,2.7401326680900136e-4
-Western Europe,18106,341789,8568,175174,1551,Electrical and electronic engineering technologists and technicians,4,47,2.683046570838138e-4
-Western Europe,18106,341789,8568,175174,3647,Pharmacy aides,2,47,2.683046570838138e-4
-Western Europe,18106,341789,8568,175174,8920,"Molders, shapers, and casters, except metal and plastic",3,47,2.683046570838138e-4
-Western Europe,18106,341789,8568,175174,0102,Facilities managers,3,46,2.625960473586263e-4
-Western Europe,18106,341789,8568,175174,1541,Architectural and civil drafters,3,46,2.625960473586263e-4
-Western Europe,18106,341789,8568,175174,1840,Urban and regional planners,4,46,2.625960473586263e-4
-Western Europe,18106,341789,8568,175174,8250,Prepress technicians and workers,1,46,2.625960473586263e-4
-Western Europe,18106,341789,8568,175174,0940,Tax preparers,3,45,2.5688743763343873e-4
-Western Europe,18106,341789,8568,175174,4240,Pest control workers,1,45,2.5688743763343873e-4
-Western Europe,18106,341789,8568,175174,6730,Highway maintenance workers,2,45,2.5688743763343873e-4
-Western Europe,18106,341789,8568,175174,8800,Packaging and filling machine operators and tenders,4,45,2.5688743763343873e-4
-Western Europe,18106,341789,8568,175174,3550,Other healthcare practitioners and technical occupations,3,44,2.5117882790825125e-4
-Western Europe,18106,341789,8568,175174,4330,Supervisors of personal care and service workers,2,43,2.454702181830637e-4
-Western Europe,18106,341789,8568,175174,7925,"Forming machine setters, operators, and tenders, metal and plastic",1,43,2.454702181830637e-4
-Western Europe,18106,341789,8568,175174,8555,Other woodworkers,3,42,2.3976160845787616e-4
-Western Europe,18106,341789,8568,175174,2865,"Media and communication workers, all other",2,41,2.3405299873268865e-4
-Western Europe,18106,341789,8568,175174,1340,Biomedical and agricultural engineers,3,40,2.283443890075011e-4
-Western Europe,18106,341789,8568,175174,1822,School psychologists,3,40,2.283443890075011e-4
-Western Europe,18106,341789,8568,175174,0930,"Tax examiners and collectors, and revenue agents",2,39,2.226357792823136e-4
-Western Europe,18106,341789,8568,175174,3515,Medical records specialists,3,39,2.226357792823136e-4
-Western Europe,18106,341789,8568,175174,4950,"Door-to-door sales workers, news and street vendors, and related workers",2,39,2.226357792823136e-4
-Western Europe,18106,341789,8568,175174,6040,"Graders and sorters, agricultural products",2,39,2.226357792823136e-4
-Western Europe,18106,341789,8568,175174,0640,"Compensation, benefits, and job analysis specialists",3,38,2.1692716955712605e-4
-Western Europe,18106,341789,8568,175174,2721,Athletes and sports competitors,1,38,2.1692716955712605e-4
-Western Europe,18106,341789,8568,175174,4640,Residential advisors,2,38,2.1692716955712605e-4
-Western Europe,18106,341789,8568,175174,0137,Training and development managers,3,37,2.1121855983193853e-4
-Western Europe,18106,341789,8568,175174,2825,Public relations specialists,3,37,2.1121855983193853e-4
-Western Europe,18106,341789,8568,175174,0600,Cost estimators,3,34,1.9409273065637594e-4
-Western Europe,18106,341789,8568,175174,3620,Physical therapist assistants and aides,3,34,1.9409273065637594e-4
-Western Europe,18106,341789,8568,175174,6765,Other construction and related workers,4,34,1.9409273065637594e-4
-Western Europe,18106,341789,8568,175174,5350,Correspondence clerks and order clerks,1,33,1.8838412093118842e-4
-Western Europe,18106,341789,8568,175174,5360,"Human resources assistants, except payroll and timekeeping",2,33,1.8838412093118842e-4
-Western Europe,18106,341789,8568,175174,7410,Electrical power-line installers and repairers,2,33,1.8838412093118842e-4
-Western Europe,18106,341789,8568,175174,7420,Telecommunications line installers and repairers,2,33,1.8838412093118842e-4
-Western Europe,18106,341789,8568,175174,3725,"Miscellaneous first-line supervisors, protective service workers",2,32,1.8267551120600088e-4
-Western Europe,18106,341789,8568,175174,5522,"Dispatchers, except police, fire, and ambulance",2,32,1.8267551120600088e-4
-Western Europe,18106,341789,8568,175174,7640,"Other installation, maintenance, and repair workers",3,32,1.8267551120600088e-4
-Western Europe,18106,341789,8568,175174,9350,Parking attendants,1,31,1.7696690148081336e-4
-Western Europe,18106,341789,8568,175174,3321,Cardiovascular technologists and technicians,2,30,1.7125829175562582e-4
-Western Europe,18106,341789,8568,175174,4465,"Morticians, undertakers, and funeral arrangers",2,30,1.7125829175562582e-4
-Western Europe,18106,341789,8568,175174,6240,"Carpet, floor, and tile installers and finishers",1,30,1.7125829175562582e-4
-Western Europe,18106,341789,8568,175174,7220,Heavy vehicle and mobile equipment service technicians and mechanics,2,30,1.7125829175562582e-4
-Western Europe,18106,341789,8568,175174,8500,Cabinetmakers and bench carpenters,3,30,1.7125829175562582e-4
-Western Europe,18106,341789,8568,175174,1920,Chemical technicians,2,29,1.655496820304383e-4
-Western Europe,18106,341789,8568,175174,4140,Dishwashers,1,29,1.655496820304383e-4
-Western Europe,18106,341789,8568,175174,1821,Clinical and counseling psychologists,2,28,1.5984107230525077e-4
-Western Europe,18106,341789,8568,175174,2012,Healthcare social workers,2,28,1.5984107230525077e-4
-Western Europe,18106,341789,8568,175174,3648,Veterinary assistants and laboratory animal caretakers,2,27,1.5413246258006325e-4
-Western Europe,18106,341789,8568,175174,5100,Bill and account collectors,2,27,1.5413246258006325e-4
-Western Europe,18106,341789,8568,175174,5730,Medical secretaries and administrative assistants,2,27,1.5413246258006325e-4
-Western Europe,18106,341789,8568,175174,6360,Glaziers,1,27,1.5413246258006325e-4
-Western Europe,18106,341789,8568,175174,9640,"Packers and packagers, hand",2,26,1.4842385285487574e-4
-Western Europe,18106,341789,8568,175174,5521,Public safety telecommunicators,2,25,1.427152431296882e-4
-Western Europe,18106,341789,8568,175174,7855,"Food processing workers, all other",2,25,1.427152431296882e-4
-Western Europe,18106,341789,8568,175174,0810,Property appraisers and assessors,2,24,1.3700663340450068e-4
-Western Europe,18106,341789,8568,175174,8350,"Tailors, dressmakers, and sewers",1,24,1.3700663340450068e-4
-Western Europe,18106,341789,8568,175174,0820,Budget analysts,1,23,1.3129802367931314e-4
-Western Europe,18106,341789,8568,175174,5540,Postal service clerks,1,23,1.3129802367931314e-4
-Western Europe,18106,341789,8568,175174,5900,"Office machine operators, except computer",1,23,1.3129802367931314e-4
-Western Europe,18106,341789,8568,175174,4400,Gambling services workers,1,22,1.2558941395412562e-4
-Western Europe,18106,341789,8568,175174,6520,Sheet metal workers,2,22,1.2558941395412562e-4
-Western Europe,18106,341789,8568,175174,4521,Manicurists and pedicurists,2,21,1.1988080422893808e-4
-Western Europe,18106,341789,8568,175174,2105,Judicial law clerks,2,20,1.1417219450375055e-4
-Western Europe,18106,341789,8568,175174,6005,"First-line supervisors of farming, fishing, and forestry workers",2,20,1.1417219450375055e-4
-Western Europe,18106,341789,8568,175174,1440,Marine engineers and naval architects,1,19,1.0846358477856302e-4
-Western Europe,18106,341789,8568,175174,2805,Broadcast announcers and radio disc jockeys,1,19,1.0846358477856302e-4
-Western Europe,18106,341789,8568,175174,3646,Medical transcriptionists,1,19,1.0846358477856302e-4
-Western Europe,18106,341789,8568,175174,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",2,19,1.0846358477856302e-4
-Western Europe,18106,341789,8568,175174,7850,Food cooking machine operators and tenders,1,19,1.0846358477856302e-4
-Western Europe,18106,341789,8568,175174,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",2,19,1.0846358477856302e-4
-Western Europe,18106,341789,8568,175174,3261,Acupuncturists,2,18,1.027549750533755e-4
-Western Europe,18106,341789,8568,175174,3270,"Healthcare diagnosing or treating practitioners, all other",1,18,1.027549750533755e-4
-Western Europe,18106,341789,8568,175174,3330,Nuclear medicine technologists and medical dosimetrists,1,18,1.027549750533755e-4
-Western Europe,18106,341789,8568,175174,3423,Surgical technologists,2,18,1.027549750533755e-4
-Western Europe,18106,341789,8568,175174,4750,Parts salespersons,1,18,1.027549750533755e-4
-Western Europe,18106,341789,8568,175174,8630,Miscellaneous plant and system operators,1,18,1.027549750533755e-4
-Western Europe,18106,341789,8568,175174,7140,Aircraft mechanics and service technicians,3,17,9.704636532818797e-5
-Western Europe,18106,341789,8568,175174,2723,"Umpires, referees, and other sports officials",1,16,9.133775560300044e-5
-Western Europe,18106,341789,8568,175174,3945,Transportation security screeners,1,16,9.133775560300044e-5
-Western Europe,18106,341789,8568,175174,5820,Word processors and typists,1,16,9.133775560300044e-5
-Western Europe,18106,341789,8568,175174,3422,Psychiatric technicians,1,15,8.562914587781291e-5
-Western Europe,18106,341789,8568,175174,3700,First-line supervisors of correctional officers,1,15,8.562914587781291e-5
-Western Europe,18106,341789,8568,175174,8610,Stationary engineers and boiler operators,1,15,8.562914587781291e-5
-Western Europe,18106,341789,8568,175174,1560,Surveying and mapping technicians,1,14,7.992053615262538e-5
-Western Europe,18106,341789,8568,175174,7840,Food batchmakers,3,14,7.992053615262538e-5
-Western Europe,18106,341789,8568,175174,9800,Military officer special and tactical operations leaders,1,14,7.992053615262538e-5
-Western Europe,18106,341789,8568,175174,1306,Landscape architects,1,13,7.421192642743787e-5
-Western Europe,18106,341789,8568,175174,1710,Atmospheric and space scientists,1,13,7.421192642743787e-5
-Western Europe,18106,341789,8568,175174,5010,"Switchboard operators, including answering service",1,13,7.421192642743787e-5
-Western Europe,18106,341789,8568,175174,5850,"Mail clerks and mail machine operators, except postal service",1,13,7.421192642743787e-5
-Western Europe,18106,341789,8568,175174,9040,Air traffic controllers and airfield operations specialists,1,13,7.421192642743787e-5
-Western Europe,18106,341789,8568,175174,2003,Marriage and family therapists,1,12,6.850331670225034e-5
-Western Europe,18106,341789,8568,175174,2013,Mental health and substance abuse social workers,1,12,6.850331670225034e-5
-Western Europe,18106,341789,8568,175174,3520,"Opticians, dispensing",1,12,6.850331670225034e-5
-Western Europe,18106,341789,8568,175174,9141,Shuttle drivers and chauffeurs,1,12,6.850331670225034e-5
-Western Europe,18106,341789,8568,175174,0135,Compensation and benefits managers,1,11,6.279470697706281e-5
-Western Europe,18106,341789,8568,175174,3750,Fire inspectors,1,11,6.279470697706281e-5
-Western Europe,18106,341789,8568,175174,6115,Fishing and hunting workers,1,11,6.279470697706281e-5
-Western Europe,18106,341789,8568,175174,6305,Construction equipment operators,1,11,6.279470697706281e-5
-Western Europe,18106,341789,8568,175174,7040,"Electric motor, power tool, and related repairers",1,11,6.279470697706281e-5
-Western Europe,18106,341789,8568,175174,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",2,11,6.279470697706281e-5
-Western Europe,18106,341789,8568,175174,8620,Water and wastewater treatment plant and system operators,1,11,6.279470697706281e-5
-Western Europe,18106,341789,8568,175174,9630,Machine feeders and offbearers,1,11,6.279470697706281e-5
-Western Europe,18106,341789,8568,175174,9650,Pumping station operators,1,11,6.279470697706281e-5
-Western Europe,18106,341789,8568,175174,0510,"Buyers and purchasing agents, farm products",1,10,5.7086097251875276e-5
-Western Europe,18106,341789,8568,175174,0830,Credit analysts,1,10,5.7086097251875276e-5
-Western Europe,18106,341789,8568,175174,1640,Conservation scientists and foresters,1,10,5.7086097251875276e-5
-Western Europe,18106,341789,8568,175174,4500,Barbers,1,10,5.7086097251875276e-5
-Western Europe,18106,341789,8568,175174,5230,"Credit authorizers, checkers, and clerks",1,10,5.7086097251875276e-5
-Western Europe,18106,341789,8568,175174,5500,Cargo and freight agents,2,10,5.7086097251875276e-5
-Western Europe,18106,341789,8568,175174,6120,Forest and conservation workers,1,10,5.7086097251875276e-5
-Western Europe,18106,341789,8568,175174,6250,"Cement masons, concrete finishers, and terrazzo workers",1,10,5.7086097251875276e-5
-Western Europe,18106,341789,8568,175174,6330,"Drywall installers, ceiling tile installers, and tapers",1,10,5.7086097251875276e-5
-Western Europe,18106,341789,8568,175174,3000,Chiropractors,1,9,5.137748752668775e-5
-Western Europe,18106,341789,8568,175174,2170,"Title examiners, abstractors, and searchers",1,8,4.566887780150022e-5
-Western Europe,18106,341789,8568,175174,9510,Crane and tower operators,1,8,4.566887780150022e-5
-Western Europe,18106,341789,8568,175174,8300,Laundry and dry-cleaning workers,1,6,3.425165835112517e-5
-Western Europe,18106,341789,8568,175174,2440,Library technicians,1,5,2.8543048625937638e-5
-Western Europe,18106,341789,8568,175174,8950,Helpers--production workers,1,5,2.8543048625937638e-5
-Western Europe,18106,341789,8568,175174,1900,Agricultural and food science technicians,1,4,2.283443890075011e-5
-Western Europe,18106,341789,8568,175174,3430,Dietetic technicians and ophthalmic medical technicians,1,4,2.283443890075011e-5
-Western Europe,18106,341789,8568,175174,6600,"Helpers, construction trades",1,4,2.283443890075011e-5
-Western Europe,18106,341789,8568,175174,8510,Furniture finishers,1,4,2.283443890075011e-5
-Western Europe,18106,341789,8568,175174,5910,Proofreaders and copy markers,1,2,1.1417219450375055e-5
-Western Europe,18106,341789,8568,175174,9570,"Conveyor, dredge, and hoist and winch operators",1,2,1.1417219450375055e-5
+bpl_region,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
+Western Europe,18106,341789,9611,192307,0440,Other managers,612,12479,0.06489103360772099
+Western Europe,18106,341789,9611,192307,0010,Chief executives and legislators,399,7522,0.03911454081234692
+Western Europe,18106,341789,9611,192307,1021,Software developers,362,7439,0.03868293925858133
+Western Europe,18106,341789,9611,192307,2205,Postsecondary teachers,389,6704,0.0348609254993318
+Western Europe,18106,341789,9611,192307,2310,Elementary and middle school teachers,203,4544,0.023628885063986232
+Western Europe,18106,341789,9611,192307,0120,Financial managers,188,4282,0.022266480159328573
+Western Europe,18106,341789,9611,192307,1760,"Physical scientists, all other",187,3912,0.020342473232903637
+Western Europe,18106,341789,9611,192307,0710,Management analysts,174,3360,0.01747206289942644
+Western Europe,18106,341789,9611,192307,4700,First-line supervisors of retail sales workers,155,3344,0.01738886259990536
+Western Europe,18106,341789,9611,192307,0705,Project management specialists,128,2892,0.015038454138434899
+Western Europe,18106,341789,9611,192307,4760,Retail salespersons,134,2602,0.013530448709615355
+Western Europe,18106,341789,9611,192307,2320,Secondary school teachers,123,2476,0.012875246350886863
+Western Europe,18106,341789,9611,192307,2100,"Lawyers, and judges, magistrates, and other judicial workers",122,2434,0.012656845564644033
+Western Europe,18106,341789,9611,192307,1530,Other engineers,114,2348,0.012209643954718238
+Western Europe,18106,341789,9611,192307,0020,General and operations managers,111,2307,0.011996443187195473
+Western Europe,18106,341789,9611,192307,5240,Customer service representatives,113,2298,0.011949643018714868
+Western Europe,18106,341789,9611,192307,0800,Accountants and auditors,112,2277,0.011840442625593452
+Western Europe,18106,341789,9611,192307,0051,Marketing managers,119,2146,0.011159240173264624
+Western Europe,18106,341789,9611,192307,4710,First-line supervisors of non-retail sales workers,101,2103,0.010935639368301726
+Western Europe,18106,341789,9611,192307,0110,Computer and information systems managers,106,1973,0.010259636934692964
+Western Europe,18106,341789,9611,192307,4600,Childcare workers,79,1922,0.009994435979969529
+Western Europe,18106,341789,9611,192307,2545,Teaching assistants,89,1915,0.009958035848929056
+Western Europe,18106,341789,9611,192307,3255,Registered nurses,89,1825,0.00949003416412299
+Western Europe,18106,341789,9611,192307,5740,"Secretaries and administrative assistants, except legal, medical, and executive",89,1714,0.00891283208619551
+Western Europe,18106,341789,9611,192307,4850,"Sales representatives, wholesale and manufacturing",104,1706,0.008871231936434971
+Western Europe,18106,341789,9611,192307,0052,Sales managers,77,1699,0.008834831805394499
+Western Europe,18106,341789,9611,192307,0310,Food service managers,64,1684,0.008756831524593488
+Western Europe,18106,341789,9611,192307,3090,Physicians,95,1649,0.00857483086939113
+Western Europe,18106,341789,9611,192307,2360,Other teachers and instructors,91,1645,0.00855403079451086
+Western Europe,18106,341789,9611,192307,4920,Real estate brokers and sales agents,87,1506,0.007831228192421493
+Western Europe,18106,341789,9611,192307,0300,Architectural and engineering managers,75,1451,0.007545227162817786
+Western Europe,18106,341789,9611,192307,0230,Education and childcare administrators,77,1360,0.007072025459291653
+Western Europe,18106,341789,9611,192307,4110,Waiters and waitresses,65,1313,0.006827624579448486
+Western Europe,18106,341789,9611,192307,0735,Market research analysts and marketing specialists,67,1308,0.006801624485848149
+Western Europe,18106,341789,9611,192307,1006,Computer systems analysts,53,1244,0.006468823287763836
+Western Europe,18106,341789,9611,192307,9130,Driver/sales workers and truck drivers,66,1244,0.006468823287763836
+Western Europe,18106,341789,9611,192307,4000,Chefs and head cooks,58,1233,0.006411623081843095
+Western Europe,18106,341789,9611,192307,1650,Other life scientists,63,1223,0.006359622894642421
+Western Europe,18106,341789,9611,192307,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",41,1183,0.006151622145839725
+Western Europe,18106,341789,9611,192307,1305,"Architects, except landscape and naval",52,1178,0.006125622052239388
+Western Europe,18106,341789,9611,192307,2640,Other designers,51,1169,0.006078821883758781
+Western Europe,18106,341789,9611,192307,1240,Other mathematical science occupations,62,1122,0.005834421003915614
+Western Europe,18106,341789,9611,192307,0220,Construction managers,52,1106,0.005751220704394536
+Western Europe,18106,341789,9611,192307,5120,"Bookkeeping, accounting, and auditing clerks",57,1098,0.005709620554633997
+Western Europe,18106,341789,9611,192307,4720,Cashiers,48,1050,0.005460019656070762
+Western Europe,18106,341789,9611,192307,5000,First-line supervisors of office and administrative support workers,48,1049,0.005454819637350694
+Western Europe,18106,341789,9611,192307,9620,"Laborers and freight, stock, and material movers, hand",36,1045,0.005434019562470425
+Western Europe,18106,341789,9611,192307,1108,"Computer occupations, all other",48,1026,0.005335219206789144
+Western Europe,18106,341789,9611,192307,0750,"Business operations specialists, all other",57,1018,0.005293619057028605
+Western Europe,18106,341789,9611,192307,4220,Janitors and building cleaners,37,975,0.005070018252065708
+Western Europe,18106,341789,9611,192307,0410,"Property, real estate, and community association managers",47,920,0.004784017222462001
+Western Europe,18106,341789,9611,192307,1430,"Industrial engineers, including health and safety",31,920,0.004784017222462001
+Western Europe,18106,341789,9611,192307,0845,Financial and investment analysts,46,897,0.004664416791900451
+Western Europe,18106,341789,9611,192307,0850,Personal financial advisors,38,885,0.0046020165672596425
+Western Europe,18106,341789,9611,192307,2300,Preschool and kindergarten teachers,32,883,0.0045916165298195075
+Western Europe,18106,341789,9611,192307,0630,Human resources workers,51,879,0.0045708164549392374
+Western Europe,18106,341789,9611,192307,1360,Civil engineers,46,875,0.004550016380058968
+Western Europe,18106,341789,9611,192307,9030,Aircraft pilots and flight engineers,51,855,0.004446016005657621
+Western Europe,18106,341789,9611,192307,4510,"Hairdressers, hairstylists, and cosmetologists",39,853,0.004435615968217486
+Western Europe,18106,341789,9611,192307,0205,"Farmers, ranchers, and other agricultural managers",55,851,0.004425215930777351
+Western Europe,18106,341789,9611,192307,2600,Artists and related workers,54,850,0.004420015912057283
+Western Europe,18106,341789,9611,192307,0140,Industrial production managers,35,832,0.004326415575096071
+Western Europe,18106,341789,9611,192307,0350,Medical and health services managers,49,816,0.004243215275574992
+Western Europe,18106,341789,9611,192307,1800,Economists,23,803,0.004175615032214116
+Western Europe,18106,341789,9611,192307,2722,Coaches and scouts,36,794,0.00412881486373351
+Western Europe,18106,341789,9611,192307,4820,"Securities, commodities, and financial services sales agents",38,785,0.004082014695252903
+Western Europe,18106,341789,9611,192307,1050,Computer support specialists,46,772,0.004014414451892026
+Western Europe,18106,341789,9611,192307,4965,"Sales and related workers, all other",26,766,0.003983214339571622
+Western Europe,18106,341789,9611,192307,3160,Physical therapists,46,748,0.0038896140026104093
+Western Europe,18106,341789,9611,192307,1410,Electrical and electronics engineers,44,722,0.003754413515888657
+Western Europe,18106,341789,9611,192307,6355,Electricians,26,697,0.0036244130478869725
+Western Europe,18106,341789,9611,192307,0420,Social and community service managers,40,695,0.0036140130104468375
+Western Europe,18106,341789,9611,192307,5940,Other office and administrative support workers,21,688,0.003577612879406366
+Western Europe,18106,341789,9611,192307,5400,Receptionists and information clerks,32,667,0.003468412486284951
+Western Europe,18106,341789,9611,192307,7800,Bakers,30,635,0.003302011887242794
+Western Europe,18106,341789,9611,192307,1460,Mechanical engineers,35,622,0.003234411643881918
+Western Europe,18106,341789,9611,192307,1825,Other psychologists,32,615,0.003198011512841446
+Western Europe,18106,341789,9611,192307,5710,Executive secretaries and executive administrative assistants,37,603,0.0031356112882006374
+Western Europe,18106,341789,9611,192307,3602,Personal care aides,37,593,0.0030836111009999636
+Western Europe,18106,341789,9611,192307,4621,Exercise trainers and group fitness instructors,30,590,0.0030680110448397615
+Western Europe,18106,341789,9611,192307,2920,"Television, video, and film camera operators and editors",21,572,0.0029744107078785486
+Western Europe,18106,341789,9611,192307,5860,"Office clerks, general",34,569,0.002958810651718346
+Western Europe,18106,341789,9611,192307,1970,"Other life, physical, and social science technicians",26,553,0.002875610352197268
+Western Europe,18106,341789,9611,192307,2710,Producers and directors,26,522,0.002714409771875179
+Western Europe,18106,341789,9611,192307,4020,Cooks,37,518,0.0026936096969949093
+Western Europe,18106,341789,9611,192307,2350,Tutors,32,517,0.002688409678274842
+Western Europe,18106,341789,9611,192307,2861,Interpreters and translators,34,517,0.002688409678274842
+Western Europe,18106,341789,9611,192307,0136,Human resources managers,23,481,0.0025012090043524155
+Western Europe,18106,341789,9611,192307,2752,Musicians and singers,21,481,0.0025012090043524155
+Western Europe,18106,341789,9611,192307,8740,"Inspectors, testers, sorters, samplers, and weighers",20,479,0.002490808966912281
+Western Europe,18106,341789,9611,192307,3930,Security guards and gaming surveillance officers,22,468,0.0024336087609915396
+Western Europe,18106,341789,9611,192307,1320,Aerospace engineers,27,465,0.0024180087048313375
+Western Europe,18106,341789,9611,192307,0530,"Purchasing agents, except wholesale, retail, and farm products",15,461,0.002397208629951068
+Western Europe,18106,341789,9611,192307,0150,Purchasing managers,27,452,0.0023504084614704612
+Western Europe,18106,341789,9611,192307,9645,Stockers and order fillers,24,452,0.0023504084614704612
+Western Europe,18106,341789,9611,192307,0520,"Wholesale and retail buyers, except farm products",13,448,0.0023296083865901917
+Western Europe,18106,341789,9611,192307,2634,Graphic designers,25,446,0.002319208349150057
+Western Europe,18106,341789,9611,192307,3050,Pharmacists,22,442,0.0022984082742697875
+Western Europe,18106,341789,9611,192307,7200,Automotive service technicians and mechanics,20,437,0.0022724081806694504
+Western Europe,18106,341789,9611,192307,2910,Photographers,25,433,0.002251608105789181
+Western Europe,18106,341789,9611,192307,1400,Computer hardware engineers,12,429,0.002230808030908911
+Western Europe,18106,341789,9611,192307,2040,Clergy,27,429,0.002230808030908911
+Western Europe,18106,341789,9611,192307,4040,Bartenders,17,420,0.002184007862428305
+Western Europe,18106,341789,9611,192307,0340,Lodging managers,24,405,0.0021060075816272937
+Western Europe,18106,341789,9611,192307,1007,Information security analysts,18,401,0.0020852075067470245
+Western Europe,18106,341789,9611,192307,6260,Construction laborers,23,392,0.002038407338266418
+Western Europe,18106,341789,9611,192307,2006,"Counselors, all other",17,387,0.0020124072446660807
+Western Europe,18106,341789,9611,192307,1010,Computer programmers,21,378,0.0019656070761854745
+Western Europe,18106,341789,9611,192307,6200,First-line supervisors of construction trades and extraction workers,17,362,0.001882406776664396
+Western Europe,18106,341789,9611,192307,6230,Carpenters,18,362,0.001882406776664396
+Western Europe,18106,341789,9611,192307,1105,Network and computer systems administrators,16,350,0.0018200065520235873
+Western Europe,18106,341789,9611,192307,3630,Massage therapists,21,346,0.0017992064771433177
+Western Europe,18106,341789,9611,192307,2830,Editors,18,345,0.0017940064584232504
+Western Europe,18106,341789,9611,192307,4030,Food preparation workers,20,342,0.0017784064022630481
+Western Europe,18106,341789,9611,192307,7700,First-line supervisors of production and operating workers,20,341,0.0017732063835429808
+Western Europe,18106,341789,9611,192307,0565,Compliance officers,23,336,0.0017472062899426437
+Western Europe,18106,341789,9611,192307,8990,"Miscellaneous production workers, including equipment operators and tenders",18,336,0.0017472062899426437
+Western Europe,18106,341789,9611,192307,0650,Training and development specialists,13,335,0.0017420062712225765
+Western Europe,18106,341789,9611,192307,9142,Taxi drivers,11,334,0.001736806252502509
+Western Europe,18106,341789,9611,192307,1720,Chemists and materials scientists,8,319,0.001658805971701498
+Western Europe,18106,341789,9611,192307,5600,"Production, planning, and expediting clerks",16,317,0.0016484059342613633
+Western Europe,18106,341789,9611,192307,3500,Licensed practical and licensed vocational nurses,7,315,0.0016380058968212285
+Western Europe,18106,341789,9611,192307,7330,Industrial and refractory machinery mechanics,11,315,0.0016380058968212285
+Western Europe,18106,341789,9611,192307,2145,Paralegals and legal assistants,17,309,0.001606805784500824
+Western Europe,18106,341789,9611,192307,1005,Computer and information research scientists,12,306,0.001591205728340622
+Western Europe,18106,341789,9611,192307,1065,Database administrators and architects,21,304,0.0015808056909004872
+Western Europe,18106,341789,9611,192307,4251,Landscaping and groundskeeping workers,12,303,0.00157560567218042
+Western Europe,18106,341789,9611,192307,4800,Advertising sales agents,9,300,0.0015600056160202176
+Western Europe,18106,341789,9611,192307,2025,Other community and social service specialists,13,298,0.0015496055785800828
+Western Europe,18106,341789,9611,192307,0910,Credit counselors and loan officers,18,295,0.0015340055224198808
+Western Europe,18106,341789,9611,192307,1031,Web developers,10,293,0.001523605484979746
+Western Europe,18106,341789,9611,192307,2850,Writers and authors,16,292,0.0015184054662596785
+Western Europe,18106,341789,9611,192307,2060,"Religious workers, all other",21,291,0.0015132054475396112
+Western Europe,18106,341789,9611,192307,5110,Billing and posting clerks,11,291,0.0015132054475396112
+Western Europe,18106,341789,9611,192307,0500,"Agents and business managers of artists, performers, and athletes",11,284,0.0014768053164991395
+Western Europe,18106,341789,9611,192307,9050,Flight attendants,14,283,0.001471605297779072
+Western Europe,18106,341789,9611,192307,2635,Interior designers,16,277,0.0014404051854586676
+Western Europe,18106,341789,9611,192307,2435,Librarians and media collections specialists,15,274,0.0014248051292984655
+Western Europe,18106,341789,9611,192307,3870,Police officers,14,274,0.0014248051292984655
+Western Europe,18106,341789,9611,192307,2014,"Social workers, all other",14,273,0.001419605110578398
+Western Europe,18106,341789,9611,192307,8750,Jewelers and precious stone and metal workers,7,271,0.0014092050731382632
+Western Europe,18106,341789,9611,192307,0060,Public relations and fundraising managers,12,268,0.0013936050169780611
+Western Europe,18106,341789,9611,192307,0160,"Transportation, storage, and distribution managers",17,268,0.0013936050169780611
+Western Europe,18106,341789,9611,192307,7750,Other assemblers and fabricators,9,268,0.0013936050169780611
+Western Europe,18106,341789,9611,192307,4810,Insurance sales agents,14,267,0.0013884049982579938
+Western Europe,18106,341789,9611,192307,1610,Biological scientists,18,264,0.0013728049420977915
+Western Europe,18106,341789,9611,192307,3601,Home health aides,12,263,0.0013676049233777242
+Western Europe,18106,341789,9611,192307,5510,Couriers and messengers,13,262,0.0013624049046576567
+Western Europe,18106,341789,9611,192307,2002,"Educational, guidance, and career counselors and advisors",19,260,0.001352004867217522
+Western Europe,18106,341789,9611,192307,4010,First-line supervisors of food preparation and serving workers,16,259,0.0013468048484974546
+Western Europe,18106,341789,9611,192307,8320,Sewing machine operators,6,256,0.0013312047923372523
+Western Europe,18106,341789,9611,192307,1200,Actuaries,6,255,0.001326004773617185
+Western Europe,18106,341789,9611,192307,1350,Chemical engineers,16,255,0.001326004773617185
+Western Europe,18106,341789,9611,192307,9415,Passenger attendants,4,252,0.0013104047174569828
+Western Europe,18106,341789,9611,192307,4230,Maids and housekeeping cleaners,18,249,0.0012948046612967807
+Western Europe,18106,341789,9611,192307,3230,Speech-language pathologists,13,248,0.0012896046425767134
+Western Europe,18106,341789,9611,192307,3424,Veterinary technologists and technicians,9,244,0.0012688045676964438
+Western Europe,18106,341789,9611,192307,1022,Software quality assurance analysts and testers,10,243,0.0012636045489763763
+Western Europe,18106,341789,9611,192307,3603,Nursing assistants,12,242,0.001258404530256309
+Western Europe,18106,341789,9611,192307,6050,Other agricultural workers,15,236,0.0012272044179359046
+Western Europe,18106,341789,9611,192307,1555,"Other engineering technologists and technicians, except drafters",14,235,0.001222004399215837
+Western Europe,18106,341789,9611,192307,4655,"Personal care and service workers, all other",9,233,0.0012116043617757023
+Western Europe,18106,341789,9611,192307,9830,"Military, rank not specified",9,230,0.0011960043056155002
+Western Europe,18106,341789,9611,192307,1700,Astronomers and physicists,17,228,0.0011856042681753654
+Western Europe,18106,341789,9611,192307,7000,"First-line supervisors of mechanics, installers, and repairers",14,228,0.0011856042681753654
+Western Europe,18106,341789,9611,192307,1860,Other social scientists,10,225,0.0011700042120151633
+Western Europe,18106,341789,9611,192307,5165,Other financial clerks,15,222,0.001154404155854961
+Western Europe,18106,341789,9611,192307,4930,Sales engineers,12,218,0.0011336040809746914
+Western Europe,18106,341789,9611,192307,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",14,212,0.001102403968654287
+Western Europe,18106,341789,9611,192307,2004,Mental health counselors,8,210,0.0010920039312141525
+Western Europe,18106,341789,9611,192307,3010,Dentists,11,207,0.0010764038750539502
+Western Europe,18106,341789,9611,192307,3645,Medical assistants,9,201,0.0010452037627335458
+Western Europe,18106,341789,9611,192307,0101,Administrative services managers,7,199,0.001034803725293411
+Western Europe,18106,341789,9611,192307,2330,Special education teachers,14,198,0.0010296037065733437
+Western Europe,18106,341789,9611,192307,6442,"Plumbers, pipefitters, and steamfitters",4,198,0.0010296037065733437
+Western Europe,18106,341789,9611,192307,2810,"News analysts, reporters, and journalists",14,196,0.001019203669133209
+Western Europe,18106,341789,9611,192307,4350,Animal caretakers,13,193,0.0010036036129730066
+Western Europe,18106,341789,9611,192307,0725,"Meeting, convention, and event planners",13,190,9.880035568128045e-4
+Western Europe,18106,341789,9611,192307,2016,Social and human service assistants,10,187,9.724035006526023e-4
+Western Europe,18106,341789,9611,192307,2633,Floral designers,5,186,9.672034819325349e-4
+Western Europe,18106,341789,9611,192307,9121,"Bus drivers, school",12,186,9.672034819325349e-4
+Western Europe,18106,341789,9611,192307,2400,"Archivists, curators, and museum technicians",9,183,9.516034257723327e-4
+Western Europe,18106,341789,9611,192307,3250,Veterinarians,9,183,9.516034257723327e-4
+Western Europe,18106,341789,9611,192307,4435,Other entertainment attendants and related workers,10,183,9.516034257723327e-4
+Western Europe,18106,341789,9611,192307,0700,Logisticians,11,178,9.256033321719958e-4
+Western Europe,18106,341789,9611,192307,8030,Machinists,8,178,9.256033321719958e-4
+Western Europe,18106,341789,9611,192307,0960,Other financial specialists,10,177,9.204033134519285e-4
+Western Europe,18106,341789,9611,192307,9005,Supervisors of transportation and material moving workers,5,177,9.204033134519285e-4
+Western Europe,18106,341789,9611,192307,9610,Cleaners of vehicles and equipment,3,176,0.00091520329473186105
+Western Europe,18106,341789,9611,192307,7340,"Maintenance and repair workers, general",13,175,9.100032760117937e-4
+Western Europe,18106,341789,9611,192307,2555,Other educational instruction and library workers,10,172,8.944032198515915e-4
+Western Europe,18106,341789,9611,192307,4055,Fast food and counter workers,16,171,8.892032011315241e-4
+Western Europe,18106,341789,9611,192307,6800,"Derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining",1,171,8.892032011315241e-4
+Western Europe,18106,341789,9611,192307,4830,Travel agents,13,170,8.840031824114567e-4
+Western Europe,18106,341789,9611,192307,9150,"Motor vehicle operators, all other",2,170,8.840031824114567e-4
+Western Europe,18106,341789,9611,192307,5610,"Shipping, receiving, and inventory clerks",8,166,8.632031075311871e-4
+Western Europe,18106,341789,9611,192307,0040,Advertising and promotions managers,6,165,8.580030888111197e-4
+Western Europe,18106,341789,9611,192307,0335,Entertainment and recreation managers,2,165,8.580030888111197e-4
+Western Europe,18106,341789,9611,192307,3820,Detectives and criminal investigators,9,165,8.580030888111197e-4
+Western Europe,18106,341789,9611,192307,1106,Computer network architects,10,163,8.476030513709849e-4
+Western Europe,18106,341789,9611,192307,5810,Data entry keyers,9,163,8.476030513709849e-4
+Western Europe,18106,341789,9611,192307,3258,"Nurse practitioners, and nurse midwives",13,161,8.372030139308502e-4
+Western Europe,18106,341789,9611,192307,1032,Web and digital interface designers,8,157,8.164029390505806e-4
+Western Europe,18106,341789,9611,192307,1750,"Geoscientists and hydrologists, except geographers",9,150,7.800028080101088e-4
+Western Europe,18106,341789,9611,192307,3421,Pharmacy technicians,7,149,7.748027892900414e-4
+Western Europe,18106,341789,9611,192307,5410,Reservation and transportation ticket agents and travel clerks,8,148,7.69602770569974e-4
+Western Europe,18106,341789,9611,192307,5320,"Library assistants, clerical",12,147,7.644027518499066e-4
+Western Europe,18106,341789,9611,192307,1745,"Environmental scientists and specialists, including health",5,142,7.384026582495697e-4
+Western Europe,18106,341789,9611,192307,0540,"Claims adjusters, appraisers, examiners, and investigators",8,140,7.28002620809435e-4
+Western Europe,18106,341789,9611,192307,3300,Clinical laboratory technologists and technicians,9,139,7.228026020893675e-4
+Western Europe,18106,341789,9611,192307,4522,Skincare specialists,7,135,7.02002527209098e-4
+Western Europe,18106,341789,9611,192307,4130,Dining room and cafeteria attendants and bartender helpers,5,134,6.968025084890306e-4
+Western Europe,18106,341789,9611,192307,1220,Operations research analysts,9,133,6.916024897689632e-4
+Western Europe,18106,341789,9611,192307,5140,Payroll and timekeeping clerks,6,132,6.864024710488958e-4
+Western Europe,18106,341789,9611,192307,5220,"Court, municipal, and license clerks",6,131,6.812024523288284e-4
+Western Europe,18106,341789,9611,192307,2180,"Legal support workers, all other",8,126,6.552023587284914e-4
+Western Europe,18106,341789,9611,192307,3245,Other therapists,9,126,6.552023587284914e-4
+Western Europe,18106,341789,9611,192307,3740,Firefighters,4,125,6.50002340008424e-4
+Western Europe,18106,341789,9611,192307,7020,Radio and telecommunications equipment installers and repairers,7,125,6.50002340008424e-4
+Western Europe,18106,341789,9611,192307,3310,Dental hygienists,7,122,6.344022838482219e-4
+Western Europe,18106,341789,9611,192307,5250,"Eligibility interviewers, government programs",5,122,6.344022838482219e-4
+Western Europe,18106,341789,9611,192307,3150,Occupational therapists,7,121,6.292022651281545e-4
+Western Europe,18106,341789,9611,192307,4540,Tour and travel guides,8,121,6.292022651281545e-4
+Western Europe,18106,341789,9611,192307,7430,Precision instrument and equipment repairers,7,119,6.188022276880197e-4
+Western Europe,18106,341789,9611,192307,2751,Music directors and composers,6,118,6.136022089679523e-4
+Western Europe,18106,341789,9611,192307,9122,"Bus drivers, transit and intercity",7,118,6.136022089679523e-4
+Western Europe,18106,341789,9611,192307,0726,Fundraisers,8,116,6.032021715278175e-4
+Western Europe,18106,341789,9611,192307,1600,Agricultural and food scientists,2,116,6.032021715278175e-4
+Western Europe,18106,341789,9611,192307,8140,"Welding, soldering, and brazing workers",2,116,6.032021715278175e-4
+Western Europe,18106,341789,9611,192307,6410,Painters and paperhangers,8,114,5.928021340876827e-4
+Western Europe,18106,341789,9611,192307,8465,"Other textile, apparel, and furnishings workers",3,114,5.928021340876827e-4
+Western Europe,18106,341789,9611,192307,2905,Other media and communication equipment workers,7,113,5.876021153676153e-4
+Western Europe,18106,341789,9611,192307,3110,Physician assistants,3,111,5.772020779274805e-4
+Western Europe,18106,341789,9611,192307,5300,"Hotel, motel, and resort desk clerks",6,110,5.720020592074131e-4
+Western Europe,18106,341789,9611,192307,7010,"Computer, automated teller, and office machine repairers",6,110,5.720020592074131e-4
+Western Europe,18106,341789,9611,192307,0860,Insurance underwriters,5,108,5.616020217672783e-4
+Western Europe,18106,341789,9611,192307,3030,Dietitians and nutritionists,4,107,5.564020030472109e-4
+Western Europe,18106,341789,9611,192307,5310,"Interviewers, except eligibility and loan",7,103,5.356019281669414e-4
+Western Europe,18106,341789,9611,192307,7315,"Heating, air conditioning, and refrigeration mechanics and installers",6,102,5.30401909446874e-4
+Western Europe,18106,341789,9611,192307,8830,Photographic process workers and processing machine operators,4,102,5.30401909446874e-4
+Western Europe,18106,341789,9611,192307,1520,"Petroleum, mining and geological engineers, including mining safety engineers",3,101,5.252018907268066e-4
+Western Europe,18106,341789,9611,192307,9825,Military enlisted tactical operations and air/weapons specialists and crew members,7,100,5.200018720067392e-4
+Western Europe,18106,341789,9611,192307,4740,Counter and rental clerks,4,98,5.096018345666045e-4
+Western Europe,18106,341789,9611,192307,4900,"Models, demonstrators, and product promoters",4,98,5.096018345666045e-4
+Western Europe,18106,341789,9611,192307,7720,"Electrical, electronics, and electromechanical assemblers",5,98,5.096018345666045e-4
+Western Europe,18106,341789,9611,192307,0810,Property appraisers and assessors,3,97,5.04401815846537e-4
+Western Europe,18106,341789,9611,192307,2700,Actors,6,96,4.992017971264697e-4
+Western Europe,18106,341789,9611,192307,3323,Radiologic technologists and technicians,3,93,4.8360174096626746e-4
+Western Europe,18106,341789,9611,192307,8225,Other metal workers and plastic workers,3,91,4.732017035261327e-4
+Western Europe,18106,341789,9611,192307,1420,Environmental engineers,5,90,4.680016848060653e-4
+Western Europe,18106,341789,9611,192307,8130,Tool and die makers,4,90,4.680016848060653e-4
+Western Europe,18106,341789,9611,192307,9300,"Sailors and marine oilers, and ship engineers",7,90,4.680016848060653e-4
+Western Europe,18106,341789,9611,192307,8640,"Chemical processing machine setters, operators, and tenders",3,89,4.628016660859979e-4
+Western Europe,18106,341789,9611,192307,4622,Recreation workers,5,87,4.5240162864586313e-4
+Western Europe,18106,341789,9611,192307,9141,Shuttle drivers and chauffeurs,3,87,4.5240162864586313e-4
+Western Europe,18106,341789,9611,192307,8255,Printing press operators,3,86,4.4720160992579573e-4
+Western Europe,18106,341789,9611,192307,3960,Other protective service workers,7,84,4.3680157248566094e-4
+Western Europe,18106,341789,9611,192307,2840,Technical writers,5,82,4.2640153504552614e-4
+Western Europe,18106,341789,9611,192307,4240,Pest control workers,3,82,4.2640153504552614e-4
+Western Europe,18106,341789,9611,192307,4530,"Baggage porters, bellhops, and concierges",4,81,4.212015163254588e-4
+Western Europe,18106,341789,9611,192307,1980,Occupational health and safety specialists and technicians,2,80,4.160014976053914e-4
+Western Europe,18106,341789,9611,192307,4940,Telemarketers,2,79,4.10801478885324e-4
+Western Europe,18106,341789,9611,192307,3550,Other healthcare practitioners and technical occupations,6,78,4.056014601652566e-4
+Western Europe,18106,341789,9611,192307,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",4,78,4.056014601652566e-4
+Western Europe,18106,341789,9611,192307,4525,Other personal appearance workers,3,78,4.056014601652566e-4
+Western Europe,18106,341789,9611,192307,1551,Electrical and electronic engineering technologists and technicians,6,77,4.004014414451892e-4
+Western Europe,18106,341789,9611,192307,5330,Loan interviewers and clerks,4,77,4.004014414451892e-4
+Western Europe,18106,341789,9611,192307,0360,Natural sciences managers,4,76,3.952014227251218e-4
+Western Europe,18106,341789,9611,192307,3322,Diagnostic medical sonographers,5,75,3.900014040050544e-4
+Western Europe,18106,341789,9611,192307,4340,Animal trainers,4,75,3.900014040050544e-4
+Western Europe,18106,341789,9611,192307,5420,Other information and records clerks,5,75,3.900014040050544e-4
+Western Europe,18106,341789,9611,192307,7210,Bus and truck mechanics and diesel engine specialists,4,75,3.900014040050544e-4
+Western Europe,18106,341789,9611,192307,1310,"Surveyors, cartographers, and photogrammetrists",5,74,3.84801385284987e-4
+Western Europe,18106,341789,9611,192307,5920,Statistical assistants,2,73,3.796013665649196e-4
+Western Europe,18106,341789,9611,192307,7810,"Butchers and other meat, poultry, and fish processing workers",3,73,3.796013665649196e-4
+Western Europe,18106,341789,9611,192307,2740,Dancers and choreographers,4,72,3.744013478448522e-4
+Western Europe,18106,341789,9611,192307,3100,Surgeons,6,72,3.744013478448522e-4
+Western Europe,18106,341789,9611,192307,3910,Private detectives and investigators,3,72,3.744013478448522e-4
+Western Europe,18106,341789,9611,192307,6240,"Carpet, floor, and tile installers and finishers",2,72,3.744013478448522e-4
+Western Europe,18106,341789,9611,192307,1450,Materials engineers,5,71,3.6920132912478487e-4
+Western Europe,18106,341789,9611,192307,4120,"Food servers, nonrestaurant",5,71,3.6920132912478487e-4
+Western Europe,18106,341789,9611,192307,0640,"Compensation, benefits, and job analysis specialists",4,70,3.640013104047175e-4
+Western Europe,18106,341789,9611,192307,2011,"Child, family, and school social workers",1,69,3.588012916846501e-4
+Western Europe,18106,341789,9611,192307,8710,Cutting workers,1,68,3.536012729645827e-4
+Western Europe,18106,341789,9611,192307,2050,"Directors, religious activities and education",5,67,3.484012542445153e-4
+Western Europe,18106,341789,9611,192307,3802,Correctional officers and jailers,3,67,3.484012542445153e-4
+Western Europe,18106,341789,9611,192307,2631,Commercial and industrial designers,1,66,3.432012355244479e-4
+Western Europe,18106,341789,9611,192307,5260,File clerks,3,66,3.432012355244479e-4
+Western Europe,18106,341789,9611,192307,8810,Painting workers,4,66,3.432012355244479e-4
+Western Europe,18106,341789,9611,192307,3515,Medical records specialists,4,65,3.380012168043805e-4
+Western Europe,18106,341789,9611,192307,3545,Miscellaneous health technologists and technicians,4,65,3.380012168043805e-4
+Western Europe,18106,341789,9611,192307,5160,Tellers,4,65,3.380012168043805e-4
+Western Europe,18106,341789,9611,192307,9365,Transportation service attendants,2,65,3.380012168043805e-4
+Western Europe,18106,341789,9611,192307,0102,Facilities managers,4,64,3.328011980843131e-4
+Western Europe,18106,341789,9611,192307,3401,Emergency medical technicians,3,64,3.328011980843131e-4
+Western Europe,18106,341789,9611,192307,9600,Industrial truck and tractor operators,5,63,3.276011793642457e-4
+Western Europe,18106,341789,9611,192307,0600,Cost estimators,5,62,3.2240116064417834e-4
+Western Europe,18106,341789,9611,192307,1821,Clinical and counseling psychologists,5,61,3.1720114192411095e-4
+Western Europe,18106,341789,9611,192307,2632,Fashion designers,4,60,3.1200112320404355e-4
+Western Europe,18106,341789,9611,192307,2636,Merchandise displayers and window trimmers,4,60,3.1200112320404355e-4
+Western Europe,18106,341789,9611,192307,2721,Athletes and sports competitors,2,60,3.1200112320404355e-4
+Western Europe,18106,341789,9611,192307,7240,Small engine mechanics,2,60,3.1200112320404355e-4
+Western Europe,18106,341789,9611,192307,3640,Dental assistants,3,59,3.0680110448397615e-4
+Western Europe,18106,341789,9611,192307,2770,"Entertainers and performers, sports and related workers, all other",3,58,3.0160108576390875e-4
+Western Europe,18106,341789,9611,192307,3655,Other healthcare support workers,5,58,3.0160108576390875e-4
+Western Europe,18106,341789,9611,192307,3402,Paramedics,3,57,2.9640106704384135e-4
+Western Europe,18106,341789,9611,192307,5150,Procurement clerks,3,55,2.8600102960370656e-4
+Western Europe,18106,341789,9611,192307,5840,Insurance claims and policy processing clerks,4,55,2.8600102960370656e-4
+Western Europe,18106,341789,9611,192307,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,2,55,2.8600102960370656e-4
+Western Europe,18106,341789,9611,192307,9310,Ship and boat captains and operators,3,55,2.8600102960370656e-4
+Western Europe,18106,341789,9611,192307,9810,First-line enlisted military supervisors,1,55,2.8600102960370656e-4
+Western Europe,18106,341789,9611,192307,2001,Substance abuse and behavioral disorder counselors,3,52,2.704009734435044e-4
+Western Europe,18106,341789,9611,192307,9430,Other transportation workers,2,52,2.704009734435044e-4
+Western Europe,18106,341789,9611,192307,1545,Other drafters,5,51,2.65200954723437e-4
+Western Europe,18106,341789,9611,192307,9210,Locomotive engineers and operators,1,50,2.600009360033696e-4
+Western Europe,18106,341789,9611,192307,0930,"Tax examiners and collectors, and revenue agents",3,49,2.548009172833022e-4
+Western Europe,18106,341789,9611,192307,4200,First-line supervisors of housekeeping and janitorial workers,5,49,2.548009172833022e-4
+Western Europe,18106,341789,9611,192307,0940,Tax preparers,4,48,2.4960089856323483e-4
+Western Europe,18106,341789,9611,192307,5550,Postal service mail carriers,4,48,2.4960089856323483e-4
+Western Europe,18106,341789,9611,192307,3647,Pharmacy aides,2,47,2.4440087984316743e-4
+Western Europe,18106,341789,9611,192307,8920,"Molders, shapers, and casters, except metal and plastic",3,47,2.4440087984316743e-4
+Western Europe,18106,341789,9611,192307,1541,Architectural and civil drafters,3,46,2.3920086112310003e-4
+Western Europe,18106,341789,9611,192307,1840,Urban and regional planners,4,46,2.3920086112310003e-4
+Western Europe,18106,341789,9611,192307,8250,Prepress technicians and workers,1,46,2.3920086112310003e-4
+Western Europe,18106,341789,9611,192307,6730,Highway maintenance workers,2,45,2.3400084240303266e-4
+Western Europe,18106,341789,9611,192307,8800,Packaging and filling machine operators and tenders,4,45,2.3400084240303266e-4
+Western Europe,18106,341789,9611,192307,4330,Supervisors of personal care and service workers,2,43,2.2360080496289787e-4
+Western Europe,18106,341789,9611,192307,7925,"Forming machine setters, operators, and tenders, metal and plastic",1,43,2.2360080496289787e-4
+Western Europe,18106,341789,9611,192307,3725,"Miscellaneous first-line supervisors, protective service workers",3,42,2.1840078624283047e-4
+Western Europe,18106,341789,9611,192307,8555,Other woodworkers,3,42,2.1840078624283047e-4
+Western Europe,18106,341789,9611,192307,2865,"Media and communication workers, all other",2,41,2.1320076752276307e-4
+Western Europe,18106,341789,9611,192307,1340,Biomedical and agricultural engineers,3,40,2.080007488026957e-4
+Western Europe,18106,341789,9611,192307,1822,School psychologists,3,40,2.080007488026957e-4
+Western Europe,18106,341789,9611,192307,4750,Parts salespersons,2,39,2.028007300826283e-4
+Western Europe,18106,341789,9611,192307,4950,"Door-to-door sales workers, news and street vendors, and related workers",2,39,2.028007300826283e-4
+Western Europe,18106,341789,9611,192307,6040,"Graders and sorters, agricultural products",2,39,2.028007300826283e-4
+Western Europe,18106,341789,9611,192307,4640,Residential advisors,2,38,1.976007113625609e-4
+Western Europe,18106,341789,9611,192307,5540,Postal service clerks,2,38,1.976007113625609e-4
+Western Europe,18106,341789,9611,192307,0137,Training and development managers,3,37,1.924006926424935e-4
+Western Europe,18106,341789,9611,192307,2825,Public relations specialists,3,37,1.924006926424935e-4
+Western Europe,18106,341789,9611,192307,4140,Dishwashers,2,37,1.924006926424935e-4
+Western Europe,18106,341789,9611,192307,3330,Nuclear medicine technologists and medical dosimetrists,2,36,1.872006739224261e-4
+Western Europe,18106,341789,9611,192307,3620,Physical therapist assistants and aides,3,34,1.7680063648229134e-4
+Western Europe,18106,341789,9611,192307,6765,Other construction and related workers,4,34,1.7680063648229134e-4
+Western Europe,18106,341789,9611,192307,4400,Gambling services workers,2,33,1.7160061776222394e-4
+Western Europe,18106,341789,9611,192307,5350,Correspondence clerks and order clerks,1,33,1.7160061776222394e-4
+Western Europe,18106,341789,9611,192307,5360,"Human resources assistants, except payroll and timekeeping",2,33,1.7160061776222394e-4
+Western Europe,18106,341789,9611,192307,7410,Electrical power-line installers and repairers,2,33,1.7160061776222394e-4
+Western Europe,18106,341789,9611,192307,7420,Telecommunications line installers and repairers,2,33,1.7160061776222394e-4
+Western Europe,18106,341789,9611,192307,5522,"Dispatchers, except police, fire, and ambulance",2,32,1.6640059904215654e-4
+Western Europe,18106,341789,9611,192307,7640,"Other installation, maintenance, and repair workers",3,32,1.6640059904215654e-4
+Western Europe,18106,341789,9611,192307,9350,Parking attendants,1,31,1.6120058032208917e-4
+Western Europe,18106,341789,9611,192307,0820,Budget analysts,2,30,1.5600056160202177e-4
+Western Europe,18106,341789,9611,192307,2012,Healthcare social workers,3,30,1.5600056160202177e-4
+Western Europe,18106,341789,9611,192307,3321,Cardiovascular technologists and technicians,2,30,1.5600056160202177e-4
+Western Europe,18106,341789,9611,192307,4465,"Morticians, undertakers, and funeral arrangers",2,30,1.5600056160202177e-4
+Western Europe,18106,341789,9611,192307,6250,"Cement masons, concrete finishers, and terrazzo workers",2,30,1.5600056160202177e-4
+Western Europe,18106,341789,9611,192307,7220,Heavy vehicle and mobile equipment service technicians and mechanics,2,30,1.5600056160202177e-4
+Western Europe,18106,341789,9611,192307,8500,Cabinetmakers and bench carpenters,3,30,1.5600056160202177e-4
+Western Europe,18106,341789,9611,192307,1306,Landscape architects,2,29,1.5080054288195438e-4
+Western Europe,18106,341789,9611,192307,1920,Chemical technicians,2,29,1.5080054288195438e-4
+Western Europe,18106,341789,9611,192307,8350,"Tailors, dressmakers, and sewers",2,29,1.5080054288195438e-4
+Western Europe,18106,341789,9611,192307,2723,"Umpires, referees, and other sports officials",2,28,1.4560052416188698e-4
+Western Europe,18106,341789,9611,192307,8610,Stationary engineers and boiler operators,2,28,1.4560052416188698e-4
+Western Europe,18106,341789,9611,192307,3648,Veterinary assistants and laboratory animal caretakers,2,27,1.4040050544181958e-4
+Western Europe,18106,341789,9611,192307,5100,Bill and account collectors,2,27,1.4040050544181958e-4
+Western Europe,18106,341789,9611,192307,5730,Medical secretaries and administrative assistants,2,27,1.4040050544181958e-4
+Western Europe,18106,341789,9611,192307,6360,Glaziers,1,27,1.4040050544181958e-4
+Western Europe,18106,341789,9611,192307,9640,"Packers and packagers, hand",2,26,1.352004867217522e-4
+Western Europe,18106,341789,9611,192307,5521,Public safety telecommunicators,2,25,1.300004680016848e-4
+Western Europe,18106,341789,9611,192307,7855,"Food processing workers, all other",2,25,1.300004680016848e-4
+Western Europe,18106,341789,9611,192307,5900,"Office machine operators, except computer",1,23,1.1960043056155002e-4
+Western Europe,18106,341789,9611,192307,5850,"Mail clerks and mail machine operators, except postal service",2,22,1.1440041184148263e-4
+Western Europe,18106,341789,9611,192307,6520,Sheet metal workers,2,22,1.1440041184148263e-4
+Western Europe,18106,341789,9611,192307,4521,Manicurists and pedicurists,2,21,1.0920039312141523e-4
+Western Europe,18106,341789,9611,192307,2105,Judicial law clerks,2,20,1.0400037440134785e-4
+Western Europe,18106,341789,9611,192307,6005,"First-line supervisors of farming, fishing, and forestry workers",2,20,1.0400037440134785e-4
+Western Europe,18106,341789,9611,192307,1440,Marine engineers and naval architects,1,19,9.880035568128045e-5
+Western Europe,18106,341789,9611,192307,2805,Broadcast announcers and radio disc jockeys,1,19,9.880035568128045e-5
+Western Europe,18106,341789,9611,192307,3646,Medical transcriptionists,1,19,9.880035568128045e-5
+Western Europe,18106,341789,9611,192307,4500,Barbers,2,19,9.880035568128045e-5
+Western Europe,18106,341789,9611,192307,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",2,19,9.880035568128045e-5
+Western Europe,18106,341789,9611,192307,7850,Food cooking machine operators and tenders,1,19,9.880035568128045e-5
+Western Europe,18106,341789,9611,192307,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",2,19,9.880035568128045e-5
+Western Europe,18106,341789,9611,192307,3261,Acupuncturists,2,18,9.360033696121305e-5
+Western Europe,18106,341789,9611,192307,3270,"Healthcare diagnosing or treating practitioners, all other",1,18,9.360033696121305e-5
+Western Europe,18106,341789,9611,192307,3423,Surgical technologists,2,18,9.360033696121305e-5
+Western Europe,18106,341789,9611,192307,8630,Miscellaneous plant and system operators,1,18,9.360033696121305e-5
+Western Europe,18106,341789,9611,192307,7140,Aircraft mechanics and service technicians,3,17,8.840031824114567e-5
+Western Europe,18106,341789,9611,192307,3945,Transportation security screeners,1,16,8.320029952107827e-5
+Western Europe,18106,341789,9611,192307,5820,Word processors and typists,1,16,8.320029952107827e-5
+Western Europe,18106,341789,9611,192307,3120,Podiatrists,1,15,7.800028080101089e-5
+Western Europe,18106,341789,9611,192307,3422,Psychiatric technicians,1,15,7.800028080101089e-5
+Western Europe,18106,341789,9611,192307,3700,First-line supervisors of correctional officers,1,15,7.800028080101089e-5
+Western Europe,18106,341789,9611,192307,1560,Surveying and mapping technicians,1,14,7.280026208094349e-5
+Western Europe,18106,341789,9611,192307,7840,Food batchmakers,3,14,7.280026208094349e-5
+Western Europe,18106,341789,9611,192307,9720,Refuse and recyclable material collectors,1,14,7.280026208094349e-5
+Western Europe,18106,341789,9611,192307,9800,Military officer special and tactical operations leaders,1,14,7.280026208094349e-5
+Western Europe,18106,341789,9611,192307,1710,Atmospheric and space scientists,1,13,6.76002433608761e-5
+Western Europe,18106,341789,9611,192307,1910,Biological technicians,1,13,6.76002433608761e-5
+Western Europe,18106,341789,9611,192307,5010,"Switchboard operators, including answering service",1,13,6.76002433608761e-5
+Western Europe,18106,341789,9611,192307,9040,Air traffic controllers and airfield operations specialists,1,13,6.76002433608761e-5
+Western Europe,18106,341789,9611,192307,2003,Marriage and family therapists,1,12,6.240022464080871e-5
+Western Europe,18106,341789,9611,192307,2013,Mental health and substance abuse social workers,1,12,6.240022464080871e-5
+Western Europe,18106,341789,9611,192307,3520,"Opticians, dispensing",1,12,6.240022464080871e-5
+Western Europe,18106,341789,9611,192307,4420,"Ushers, lobby attendants, and ticket takers",1,12,6.240022464080871e-5
+Western Europe,18106,341789,9611,192307,0135,Compensation and benefits managers,1,11,5.7200205920741316e-5
+Western Europe,18106,341789,9611,192307,3750,Fire inspectors,1,11,5.7200205920741316e-5
+Western Europe,18106,341789,9611,192307,6115,Fishing and hunting workers,1,11,5.7200205920741316e-5
+Western Europe,18106,341789,9611,192307,6305,Construction equipment operators,1,11,5.7200205920741316e-5
+Western Europe,18106,341789,9611,192307,7040,"Electric motor, power tool, and related repairers",1,11,5.7200205920741316e-5
+Western Europe,18106,341789,9611,192307,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",2,11,5.7200205920741316e-5
+Western Europe,18106,341789,9611,192307,8620,Water and wastewater treatment plant and system operators,1,11,5.7200205920741316e-5
+Western Europe,18106,341789,9611,192307,9630,Machine feeders and offbearers,1,11,5.7200205920741316e-5
+Western Europe,18106,341789,9611,192307,9650,Pumping station operators,1,11,5.7200205920741316e-5
+Western Europe,18106,341789,9611,192307,0510,"Buyers and purchasing agents, farm products",1,10,5.2000187200673925e-5
+Western Europe,18106,341789,9611,192307,0830,Credit analysts,1,10,5.2000187200673925e-5
+Western Europe,18106,341789,9611,192307,1640,Conservation scientists and foresters,1,10,5.2000187200673925e-5
+Western Europe,18106,341789,9611,192307,5230,"Credit authorizers, checkers, and clerks",1,10,5.2000187200673925e-5
+Western Europe,18106,341789,9611,192307,5500,Cargo and freight agents,2,10,5.2000187200673925e-5
+Western Europe,18106,341789,9611,192307,6120,Forest and conservation workers,1,10,5.2000187200673925e-5
+Western Europe,18106,341789,9611,192307,6330,"Drywall installers, ceiling tile installers, and tapers",1,10,5.2000187200673925e-5
+Western Europe,18106,341789,9611,192307,3000,Chiropractors,1,9,4.680016848060653e-5
+Western Europe,18106,341789,9611,192307,2170,"Title examiners, abstractors, and searchers",1,8,4.1600149760539136e-5
+Western Europe,18106,341789,9611,192307,9510,Crane and tower operators,1,8,4.1600149760539136e-5
+Western Europe,18106,341789,9611,192307,7905,Computer numerically controlled tool operators and programmers,1,7,3.6400131040471745e-5
+Western Europe,18106,341789,9611,192307,8300,Laundry and dry-cleaning workers,1,6,3.1200112320404353e-05
+Western Europe,18106,341789,9611,192307,2440,Library technicians,1,5,2.6000093600336962e-5
+Western Europe,18106,341789,9611,192307,8950,Helpers--production workers,1,5,2.6000093600336962e-5
+Western Europe,18106,341789,9611,192307,1900,Agricultural and food science technicians,1,4,2.0800074880269568e-5
+Western Europe,18106,341789,9611,192307,3430,Dietetic technicians and ophthalmic medical technicians,1,4,2.0800074880269568e-5
+Western Europe,18106,341789,9611,192307,6600,"Helpers, construction trades",1,4,2.0800074880269568e-5
+Western Europe,18106,341789,9611,192307,8510,Furniture finishers,1,4,2.0800074880269568e-5
+Western Europe,18106,341789,9611,192307,3940,Crossing guards and flaggers,1,2,1.0400037440134784e-5
+Western Europe,18106,341789,9611,192307,5910,Proofreaders and copy markers,1,2,1.0400037440134784e-5
+Western Europe,18106,341789,9611,192307,9570,"Conveyor, dredge, and hoist and winch operators",1,2,1.0400037440134784e-5
