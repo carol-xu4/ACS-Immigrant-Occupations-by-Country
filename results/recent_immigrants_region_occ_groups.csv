@@ -1,0 +1,255 @@
+bpl_region,occ_group,occ_n,occ_workers,occ_share
+Africa,"Education, legal, community service, arts & media",214,6444.75,0.13133721552264355
+Africa,Transportation & material moving,152,6336,0.1291210050896419
+Africa,"Management, business & financial",131,5394.5,0.10993422695013781
+Africa,Healthcare support,99,4724.5,0.09628033278819652
+Africa,"Computer, engineering & science",100,4127.25,0.08410900698488391
+Africa,Food preparation & serving,81,3181.25,0.06483052358608321
+Africa,Sales,79,3175,0.06470315517039346
+Africa,Office & administrative support,87,3085.75,0.06288433419434382
+Africa,Production,68,2787,0.05679612392437373
+Africa,Healthcare practitioners & technical,76,2668.25,0.054376124026268464
+Africa,Building & grounds cleaning,47,1768.25,0.03603507216694433
+Africa,Personal care & service,74,1733.25,0.03532180903908173
+Africa,Protective service,39,1580,0.032198735486369034
+Africa,"Installation, maintenance & repair",21,745.75,0.01519759936010108
+Africa,Construction & extraction,13,525.5,0.010709136391194257
+Africa,Food processing,12,411,0.008375747015758021
+Africa,"Farming, fishing & forestry",14,205,0.00417768403462383
+Africa,Military,8,177.25,0.003612168268961336
+Central America and Caribbean,Construction & extraction,1317,58885.25,0.21849834740106439
+Central America and Caribbean,Food preparation & serving,718,30113.75,0.11173943575086805
+Central America and Caribbean,Building & grounds cleaning,761,29252.5,0.1085436999477736
+Central America and Caribbean,Transportation & material moving,742,29080.25,0.10790455278715472
+Central America and Caribbean,Production,474,18202.75,0.06754273426969784
+Central America and Caribbean,"Management, business & financial",461,14810.25,0.05495459643283528
+Central America and Caribbean,Sales,410,14220.75,0.05276721035919328
+Central America and Caribbean,"Farming, fishing & forestry",587,13436.5,0.04985718910685446
+Central America and Caribbean,Office & administrative support,381,13038.5,0.04838037883152025
+Central America and Caribbean,"Education, legal, community service, arts & media",323,10162.5,0.03770875483186904
+Central America and Caribbean,"Computer, engineering & science",271,8752.75,0.032477766676963525
+Central America and Caribbean,"Installation, maintenance & repair",205,7655,0.028404479039405416
+Central America and Caribbean,Healthcare support,208,6822.5,0.02531542237052168
+Central America and Caribbean,Personal care & service,195,5831,0.021636383707220506
+Central America and Caribbean,Healthcare practitioners & technical,112,3593,0.013332108842401524
+Central America and Caribbean,Food processing,79,2987,0.011083498222169037
+Central America and Caribbean,Protective service,86,2585.25,0.009592773277155174
+Central America and Caribbean,Military,2,70.25,2.606681453322313e-4
+Central/Eastern Europe,"Management, business & financial",234,6849.25,0.172870276307238
+Central/Eastern Europe,"Computer, engineering & science",198,5143.25,0.12981203031239943
+Central/Eastern Europe,"Education, legal, community service, arts & media",182,4287,0.10820087958960899
+Central/Eastern Europe,Transportation & material moving,117,4271.5,0.10780967043783876
+Central/Eastern Europe,Office & administrative support,115,3519.5,0.08882971675195447
+Central/Eastern Europe,Sales,104,3338,0.08424878378122574
+Central/Eastern Europe,Personal care & service,80,2265,0.05716701475868074
+Central/Eastern Europe,Construction & extraction,59,2066,0.05214439403595338
+Central/Eastern Europe,Food preparation & serving,59,1637.5,0.041329353937015326
+Central/Eastern Europe,Building & grounds cleaning,34,1407.25,0.03551800508571897
+Central/Eastern Europe,"Installation, maintenance & repair",39,1307,0.032987765249269635
+Central/Eastern Europe,Healthcare support,29,967.5,0.02441902286049608
+Central/Eastern Europe,Healthcare practitioners & technical,37,888.25,0.02241880832644511
+Central/Eastern Europe,Production,31,875.5,0.02209700724998896
+Central/Eastern Europe,Protective service,13,398,0.010045241445454718
+Central/Eastern Europe,Food processing,8,230.5,0.005817658676324906
+Central/Eastern Europe,"Farming, fishing & forestry",4,117.5,0.0029656177634194204
+Central/Eastern Europe,Military,3,52.25,0.0013187534309673592
+East Asia,"Computer, engineering & science",482,12337.75,0.2443203477348225
+East Asia,"Management, business & financial",412,10275.25,0.2034773482249385
+East Asia,"Education, legal, community service, arts & media",450,9796,0.19398692033882362
+East Asia,Food preparation & serving,139,3269.5,0.06474481788972886
+East Asia,Office & administrative support,128,2772.5,0.05490289267449862
+East Asia,Sales,112,2762.75,0.054709816676815536
+East Asia,Healthcare practitioners & technical,77,1890.5,0.037436940884090046
+East Asia,Transportation & material moving,69,1809.5,0.03583292490333823
+East Asia,Personal care & service,75,1543,0.030555514300000496
+East Asia,"Installation, maintenance & repair",27,898,0.017782794453273132
+East Asia,Production,34,893.25,0.01768873178773522
+East Asia,Healthcare support,48,821,0.016257989138237464
+East Asia,Building & grounds cleaning,19,510.25,0.01010431054541494
+East Asia,Food processing,7,273.75,0.005420979934948241
+East Asia,Protective service,11,254.75,0.005044729272796582
+East Asia,Construction & extraction,11,209.5,0.004148658616882763
+East Asia,"Farming, fishing & forestry",6,106,0.002099082641477675
+East Asia,Military,5,75,0.0014851999821776003
+India/Southwest Asia,"Computer, engineering & science",1244,37905.25,0.3738429978253044
+India/Southwest Asia,"Management, business & financial",560,16257.75,0.16034311864172754
+India/Southwest Asia,"Education, legal, community service, arts & media",614,13693.25,0.13505057030283008
+India/Southwest Asia,Sales,184,6272.25,0.061860474290758284
+India/Southwest Asia,Food preparation & serving,171,5429.25,0.053546331865454884
+India/Southwest Asia,Office & administrative support,187,4820.25,0.047540029686321116
+India/Southwest Asia,Transportation & material moving,135,3974.5,0.03919876520684265
+India/Southwest Asia,Healthcare practitioners & technical,131,3463.25,0.0341565287715682
+India/Southwest Asia,Production,91,2730.25,0.026927268513267617
+India/Southwest Asia,Personal care & service,56,1477,0.014567008733301445
+India/Southwest Asia,Healthcare support,45,1321.5,0.013033379851765645
+India/Southwest Asia,Protective service,41,1104.25,0.010890737571935085
+India/Southwest Asia,"Installation, maintenance & repair",24,989.25,0.009756542579159413
+India/Southwest Asia,Construction & extraction,20,656,0.00646984274139861
+India/Southwest Asia,Building & grounds cleaning,24,519.75,0.005126068239088305
+India/Southwest Asia,Food processing,11,417.75,0.0041200865933220575
+India/Southwest Asia,Military,7,202.75,0.0019996350850892807
+India/Southwest Asia,"Farming, fishing & forestry",7,159.25,0.00157061350086544
+Middle East/Asia Minor,"Management, business & financial",93,3023,0.1895713792995328
+Middle East/Asia Minor,"Education, legal, community service, arts & media",124,2920.5,0.18314363653466278
+Middle East/Asia Minor,"Computer, engineering & science",82,2272,0.14247640548082652
+Middle East/Asia Minor,Healthcare practitioners & technical,47,1505.5,0.09440943153670084
+Middle East/Asia Minor,Transportation & material moving,38,1239.5,0.07772865519079422
+Middle East/Asia Minor,Sales,44,1191.5,0.07471859028626972
+Middle East/Asia Minor,Food preparation & serving,31,1013.5,0.06355626626532468
+Middle East/Asia Minor,Office & administrative support,37,1003.5,0.06292916941021541
+Middle East/Asia Minor,Production,16,460,0.028846455335026496
+Middle East/Asia Minor,Personal care & service,10,271.5,0.017025679616216725
+Middle East/Asia Minor,Building & grounds cleaning,9,243.5,0.015269808421910764
+Middle East/Asia Minor,Healthcare support,8,210,0.013169033957294704
+Middle East/Asia Minor,"Installation, maintenance & repair",8,207,0.012980904900761923
+Middle East/Asia Minor,Construction & extraction,5,197.25,0.012369485467030383
+Middle East/Asia Minor,Protective service,3,65.75,0.004123161822343461
+Middle East/Asia Minor,"Farming, fishing & forestry",3,60,0.0037625811306556296
+Middle East/Asia Minor,Food processing,2,37.75,0.0023672906280375002
+Middle East/Asia Minor,Military,2,24.75,0.0015520647163954472
+Northern Europe,"Management, business & financial",165,4163,0.36714805423878294
+Northern Europe,"Computer, engineering & science",80,2266.5,0.1998897585712711
+Northern Europe,"Education, legal, community service, arts & media",58,1466.75,0.12935729247051042
+Northern Europe,Sales,29,1003.75,0.08852386726931981
+Northern Europe,Healthcare practitioners & technical,13,478.25,0.042178370631683386
+Northern Europe,Office & administrative support,25,468.75,0.04134053577334362
+Northern Europe,Transportation & material moving,18,450.75,0.03975305919964723
+Northern Europe,Personal care & service,19,361,0.031837724616911034
+Northern Europe,Protective service,5,191,0.016844890309778416
+Northern Europe,Food preparation & serving,6,110.25,0.00972329401389042
+Northern Europe,Production,3,96.5,0.00851063829787234
+Northern Europe,Healthcare support,4,79.25,0.006989306581413295
+Northern Europe,Military,3,77.25,0.006812920295447029
+Northern Europe,Food processing,2,41.25,0.0036379671480542388
+Northern Europe,Construction & extraction,2,29,0.0025576011465108586
+Northern Europe,"Installation, maintenance & repair",2,26.25,0.0023150700033072427
+Northern Europe,"Farming, fishing & forestry",2,21.5,0.0018961525741373608
+Northern Europe,Building & grounds cleaning,1,7.75,6.834968581192813e-4
+Oceania,"Management, business & financial",44,1074.25,0.21616862863467148
+Oceania,"Education, legal, community service, arts & media",39,907.75,0.18266425193681457
+Oceania,"Computer, engineering & science",31,802,0.16138444511520272
+Oceania,Production,9,397,0.0798873126069021
+Oceania,Transportation & material moving,12,309,0.06217929369151826
+Oceania,Office & administrative support,15,302.5,0.060871315021631955
+Oceania,Sales,12,274.5,0.055236945366737095
+Oceania,Food preparation & serving,7,209,0.042056544924036626
+Oceania,Personal care & service,8,161,0.032397625515645435
+Oceania,Construction & extraction,5,155.5,0.03129087433343395
+Oceania,"Installation, maintenance & repair",3,133.5,0.026863869604587986
+Oceania,Food processing,4,105,0.02112888620585572
+Oceania,Healthcare practitioners & technical,3,52.75,0.010614749974846564
+Oceania,Military,2,47.5,0.009558305664553778
+Oceania,Protective service,2,16.75,0.003370560418553174
+Oceania,Building & grounds cleaning,1,13.75,0.002766877955528725
+Oceania,Healthcare support,1,7.75,0.001559513029479827
+Other Asia,"Computer, engineering & science",7,146.25,0.13925255891454416
+Other Asia,Transportation & material moving,1,134.5,0.1280647464889312
+Other Asia,Healthcare practitioners & technical,5,122,0.116162818376577
+Other Asia,"Education, legal, community service, arts & media",8,110.25,0.10497500595096405
+Other Asia,Sales,2,102.25,0.09735777195905737
+Other Asia,Healthcare support,4,95.5,0.09093073077838609
+Other Asia,Production,1,86.5,0.08236134253749107
+Other Asia,Food preparation & serving,3,85,0.08093311116400857
+Other Asia,"Management, business & financial",3,71.5,0.06807902880266603
+Other Asia,Office & administrative support,1,43,0.04094263270649845
+Other Asia,"Installation, maintenance & repair",1,35,0.03332539871459177
+Other Asia,Building & grounds cleaning,1,18.5,0.017614853606284217
+Other Europe,"Education, legal, community service, arts & media",4,80.25,0.36811926605504586
+Other Europe,"Computer, engineering & science",3,55.75,0.25573394495412843
+Other Europe,"Management, business & financial",2,38,0.1743119266055046
+Other Europe,Personal care & service,1,26,0.11926605504587157
+Other Europe,Transportation & material moving,1,18,0.08256880733944955
+Other North America,"Computer, engineering & science",95,2839.75,0.23639466400283032
+Other North America,"Management, business & financial",114,2567.75,0.2137520551081143
+Other North America,"Education, legal, community service, arts & media",75,1600.5,0.13323343947056251
+Other North America,Healthcare practitioners & technical,32,924.5,0.07695989677634181
+Other North America,Office & administrative support,27,916.5,0.0762939376912031
+Other North America,Food preparation & serving,25,791.25,0.06586751576450021
+Other North America,Sales,34,703,0.05852115460656386
+Other North America,Transportation & material moving,20,563.5,0.04690849305945766
+Other North America,Production,9,408.75,0.0340263470063058
+Other North America,Personal care & service,12,205.5,0.01710682399950053
+Other North America,Building & grounds cleaning,7,172.25,0.01433893155189278
+Other North America,Healthcare support,3,103.75,0.008636656885392604
+Other North America,Construction & extraction,2,66,0.005494162452394331
+Other North America,"Installation, maintenance & repair",4,54.5,0.0045368462675074404
+Other North America,Protective service,5,49.5,0.004120621839295748
+Other North America,"Farming, fishing & forestry",3,17,0.001415163055919752
+Other North America,Military,1,15.5,0.0012902957274562444
+Other North America,Food processing,1,13.25,0.0011029947347609831
+Other/Unknown,"Management, business & financial",3,107.25,0.3857913669064748
+Other/Unknown,Sales,2,97.5,0.35071942446043164
+Other/Unknown,Military,1,35,0.12589928057553956
+Other/Unknown,Office & administrative support,2,19,0.0683453237410072
+Other/Unknown,"Computer, engineering & science",1,17,0.06115107913669065
+Other/Unknown,Building & grounds cleaning,1,2.25,0.008093525179856115
+South America,Building & grounds cleaning,386,17272.25,0.15138149389776287
+South America,Construction & extraction,374,16809,0.14732136988102282
+South America,Food preparation & serving,309,12266,0.1075045465500997
+South America,"Management, business & financial",374,11584.75,0.10153377593724665
+South America,Transportation & material moving,297,11130,0.09754814960888714
+South America,"Education, legal, community service, arts & media",243,6874.75,0.06025329214049387
+South America,Office & administrative support,203,6620.5,0.058024934814522665
+South America,Personal care & service,245,6503.5,0.05699949604504919
+South America,Production,144,5284.75,0.04631784219636714
+South America,Sales,169,5123.25,0.04490238611713666
+South America,"Computer, engineering & science",171,5110.25,0.04478844847608405
+South America,"Installation, maintenance & repair",99,4151.75,0.03638773855693595
+South America,Healthcare practitioners & technical,52,1654.25,0.014498564823944434
+South America,Healthcare support,49,1553.5,0.013615548105786718
+South America,Protective service,26,812,0.00711672034882447
+South America,Food processing,18,675.75,0.005922566226253862
+South America,"Farming, fishing & forestry",19,628.75,0.0055106378316790465
+South America,Military,3,42.5,3.724884419027586e-4
+Southeast Asia,Healthcare practitioners & technical,250,6087.75,0.1700156394001173
+Southeast Asia,"Education, legal, community service, arts & media",184,4498.75,0.1256388415672913
+Southeast Asia,"Management, business & financial",145,3430,0.09579132571843495
+Southeast Asia,Food preparation & serving,130,3226.5,0.09010807942581059
+Southeast Asia,Personal care & service,107,2710.25,0.0756905074426788
+Southeast Asia,"Computer, engineering & science",109,2671.5,0.07460831680956237
+Southeast Asia,Office & administrative support,114,2523.5,0.07047504677856285
+Southeast Asia,Production,79,2517.25,0.07030049990225375
+Southeast Asia,Sales,68,2148.75,0.06000921607506912
+Southeast Asia,Transportation & material moving,72,2077,0.05800541793504063
+Southeast Asia,Healthcare support,71,1914.5,0.053467199151003994
+Southeast Asia,Building & grounds cleaning,31,736,0.020554640154159802
+Southeast Asia,Construction & extraction,13,501.5,0.01400564135504231
+Southeast Asia,"Installation, maintenance & repair",15,367.75,0.010270338202027536
+Southeast Asia,Food processing,8,194.75,0.005438880665791605
+Southeast Asia,"Farming, fishing & forestry",4,80.25,0.0022411818918088642
+Southeast Asia,Protective service,4,63.25,0.001766414388248108
+Southeast Asia,Military,4,57.75,0.0016128131370960986
+Southern Europe,"Education, legal, community service, arts & media",72,2195.75,0.19206210365186968
+Southern Europe,"Management, business & financial",80,2095.5,0.18329324294773672
+Southern Europe,"Computer, engineering & science",65,1783.25,0.15598075661491362
+Southern Europe,Personal care & service,28,897.25,0.07848239667614258
+Southern Europe,Office & administrative support,27,792.5,0.069319921277061
+Southern Europe,Food preparation & serving,32,789.5,0.0690575114804286
+Southern Europe,Transportation & material moving,13,537.75,0.04703695604635907
+Southern Europe,Healthcare support,6,423.25,0.037021648808222174
+Southern Europe,Construction & extraction,10,391,0.03420074349442379
+Southern Europe,Healthcare practitioners & technical,13,334.5,0.02925869232451345
+Southern Europe,Sales,13,331.25,0.02897441504482834
+Southern Europe,"Installation, maintenance & repair",4,275.75,0.024119833807128798
+Southern Europe,Building & grounds cleaning,9,237.5,0.0207741089000656
+Southern Europe,Production,4,155.5,0.013601574458779794
+Southern Europe,Protective service,2,92.75,0.008112836212551936
+Southern Europe,Military,4,80.25,0.007019462059916904
+Southern Europe,Food processing,1,19.25,0.0016837961950579487
+Western Europe,"Management, business & financial",110,2645.25,0.3339224287562723
+Western Europe,"Education, legal, community service, arts & media",72,1599.25,0.2018808975289551
+Western Europe,"Computer, engineering & science",54,1472,0.18581752769274465
+Western Europe,Personal care & service,29,785,0.09909426578723135
+Western Europe,Sales,18,384,0.04847413765897687
+Western Europe,Office & administrative support,12,369.5,0.046643734023416546
+Western Europe,Food preparation & serving,10,193,0.024363303562975353
+Western Europe,Transportation & material moving,4,98.5,0.012434121248461515
+Western Europe,Healthcare practitioners & technical,6,93,0.01173983021428346
+Western Europe,Food processing,3,91.5,0.011550478114053082
+Western Europe,Protective service,3,52,0.006564206141319784
+Western Europe,"Installation, maintenance & repair",2,42,0.005301858806450595
+Western Europe,Production,1,33.25,0.004197304888440054
+Western Europe,Healthcare support,1,22.75,0.0028718401868274056
+Western Europe,Building & grounds cleaning,1,22.5,0.0028402815034556756
+Western Europe,Military,1,11.25,0.0014201407517278378
+Western Europe,"Farming, fishing & forestry",1,7,8.836431344084324e-4
