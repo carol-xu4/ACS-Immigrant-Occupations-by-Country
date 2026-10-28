@@ -421,3 +421,19 @@ iv_country = iv_totals %>%
 print(iv_country, n = 20, width = Inf)
 
 write_csv(iv_country, "results/iv_totals_by_country.csv")
+
+# monthly totals by country 
+iv_country_monthly = iv_totals %>%
+    filter(country != "ALL COUNTRIES") %>%
+    mutate(acs_country = recode_visa_country(country)) %>%
+    group_by(acs_country, date, year, month) %>%
+    summarise(issuances = sum(issuances), .groups = "drop") %>%
+    arrange(acs_country, date)
+
+write_csv(iv_country_monthly, "results/iv_monthly_by_country.csv")
+
+iv_country_monthly_wide = iv_country_monthly %>%
+    select(acs_country, date, issuances) %>%
+    pivot_wider(names_from = date, values_from = issuances, values_fill = 0)
+
+write_csv(iv_country_monthly_wide, "results/iv_monthly_by_country_wide.csv")
