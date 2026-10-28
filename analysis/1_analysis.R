@@ -337,3 +337,87 @@ occ_group_totals = occ_totals %>%
     arrange(desc(immig_workers))
 
 print(occ_group_totals, n = Inf)
+
+write_csv(occ_group_totals, "results/occupation_groups_all_immigrants.csv")
+
+### VISA ISUANCES ###
+iv_totals = read_csv("data/output/iv_issuances_monthly_totals.csv")
+
+# recode State Dept country names to match ACS country names
+recode_visa_country = function(x) {
+    case_when(
+        # same country, different spelling
+        x == "Bahamas, The"                                   ~ "Bahamas",
+        x %in% c("Bosnia-Herzegovina", "Bosnia and Herzegovina") ~ "Bosnia and Herzegovina",
+        x == "Cabo Verde"                                     ~ "Cape Verde",
+        str_detect(x, "^China") & !str_detect(x, "Taiwan")    ~ "China",
+        x %in% c("China - Taiwan born", "Taiwan")             ~ "Taiwan",
+        x == "Congo, Democratic Republic of the"              ~ "DR Congo",
+        x == "Congo, Republic of the"                         ~ "Republic of the Congo",
+        x %in% c("Gambia, The", "The Gambia")                 ~ "Gambia",
+        x %in% c("Great Britain and Northern Ireland", "United Kingdom",
+            "Northern Ireland", "Northern Ireland (DV only)") ~ "United Kingdom",
+        str_detect(x, "^Hong Kong")                           ~ "Hong Kong",      # incl. Hong Kong-BNO
+        str_detect(x, "^Korea")                               ~ "Korea",          # ACS Korea incl. North Korea
+        x %in% c("Macedonia", "North Macedonia")              ~ "North Macedonia",
+        str_detect(x, "^Micronesia")                          ~ "Micronesia",
+        x %in% c("Saint Kitts and Nevis", "St. Kitts and Nevis") ~ "St. Kitts and Nevis",
+        x == "Saint Lucia"                                    ~ "St. Lucia",
+        x == "Saint Vincent and the Grenadines"               ~ "St. Vincent and the Grenadines",
+        x %in% c("Israel", "Jerusalem",
+            "Palestinian Authority Travel Document")         ~ "Israel/Palestine",
+
+        # no own ACS code: assign to the ACS catch-all they fall into
+        x %in% c("Anguilla", "Aruba", "British Virgin Islands", "Cayman Islands",
+            "Curacao", "Guadeloupe", "Montserrat", "Saint Maarten",
+            "Saint Martin", "Sint Maarten", "Turks and Caicos Islands") ~ "Other Caribbean",
+        x %in% c("Suriname", "Falkland Islands")              ~ "Other South America",
+        x %in% c("Greenland", "St. Pierre and Miquelon")      ~ "Other Americas",
+        x %in% c("Andorra", "Estonia", "Faroe Islands", "Gibraltar", "Luxembourg",
+            "Malta", "Monaco", "San Marino", "Slovenia", "Vatican City") ~ "Other Europe",
+        x %in% c("Bahrain", "Brunei", "Cyprus", "Macau", "Macau S.A.R.", "Maldives",
+            "Oman", "Qatar", "Timor-Leste", "Tajikistan", "Turkmenistan") ~ "Other Asia",
+        x == "Western Sahara"                                 ~ "Other North Africa",
+        x %in% c("Benin", "Burkina Faso", "Guinea-Bissau", "Mali",
+            "Mauritania", "Niger")                           ~ "Other West Africa",
+        x %in% c("Burundi", "Comoros", "Djibouti", "Madagascar", "Malawi", "Mauritius",
+            "Mozambique", "Seychelles", "British Indian Ocean Territory") ~ "Other East Africa",
+        x %in% c("Angola", "Central African Republic", "Chad", "Equatorial Guinea",
+            "Gabon", "Sao Tome and Principe", "Botswana", "Eswatini", "Lesotho",
+            "Namibia", "St. Helena")                         ~ "Other Africa",
+        x %in% c("Christmas Island", "Cocos Islands", "Cocos (Keeling) Islands",
+            "Cook Islands", "French Polynesia", "Kiribati", "Nauru", "New Caledonia",
+            "Niue", "Palau", "Papua New Guinea", "Pitcairn", "Solomon Islands",
+            "Tuvalu", "Vanuatu", "Wallis and Futuna")        ~ "Other, n.e.c.",
+        x %in% c("No Nationality", "Other")                   ~ NA_character_,
+        TRUE ~ x)}
+
+# monthly totals, all countries
+iv_monthly = iv_totals %>%
+    filter(country == "ALL COUNTRIES") %>%
+    select(date, year, month, issuances) %>%
+    arrange(date) %>%
+    mutate(issuances_last_year = lag(issuances, 12),
+        pct_change_yoy = issuances / issuances_last_year - 1)
+
+print(iv_monthly, n = Inf)
+
+write_csv(iv_monthly, "results/iv_monthly_totals.csv")
+
+# totals by country, 12-month periods ending in February (Mar 2021-Feb 2022 ... Mar 2025-Feb 2026)
+iv_country = iv_totals %>%
+    filter(country != "ALL COUNTRIES", date >= "2021-03") %>%
+    mutate(acs_country = recode_visa_country(country),
+        period_end = if_else(month >= 3, year + 1, year),
+        period = paste0("mar", period_end - 1, "_feb", period_end)) %>%
+    group_by(acs_country, period) %>%
+    summarise(issuances = sum(issuances), .groups = "drop") %>%
+    pivot_wider(names_from = period, values_from = issuances, values_fill = 0) %>%
+    mutate(total = rowSums(across(starts_with("mar"))),
+        change_last_year = mar2025_feb2026 - mar2024_feb2025,
+        pct_change_last_year = change_last_year / mar2024_feb2025) %>%
+    arrange(desc(total))
+
+print(iv_country, n = 20, width = Inf)
+
+write_csv(iv_country, "results/iv_totals_by_country.csv")
