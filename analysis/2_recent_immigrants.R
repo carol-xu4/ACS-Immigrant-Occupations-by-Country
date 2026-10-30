@@ -103,3 +103,24 @@ recent_region_occ_wide = recent_region_occ %>%
 write_csv(recent_region, "results/recent_immigrants_region_totals.csv")
 write_csv(recent_region_occ, "results/recent_immigrants_region_occ_groups.csv")
 write_csv(recent_region_occ_wide, "results/recent_immigrants_region_occ_groups_wide.csv")
+
+# all recent immigrants by occ group
+recent_total_occ = recent %>%
+    filter(empstat == 1) %>%
+    mutate(occ_group = occ_group_fn(as.integer(zap_labels(occ)))) %>%
+    group_by(occ_group) %>%
+    summarise(occ_n = n(),
+        occ_workers = sum(wt),
+        .groups = "drop") %>%
+    mutate(occ_share = occ_workers / sum(occ_workers)) %>%
+    arrange(desc(occ_workers))
+
+print(recent_total_occ, n = Inf)
+
+write_csv(recent_total_occ, "results/recent_immigrants_occ_groups_total.csv")
+
+sum(recent_total_occ$occ_workers)
+
+recent %>%
+    summarise(recent_immigrants = sum(wt),
+        workers = sum(wt[empstat == 1]))
