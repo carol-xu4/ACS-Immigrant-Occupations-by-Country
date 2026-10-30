@@ -22,7 +22,7 @@ occ_labels = read_csv("data/output/occ2018_labels.csv")
 
 # counts by country, immigrants only (naturalized citizens and noncitizens)
 bpl_table = acs %>%
-    filter(bpld > 15000, citizen %in% c(2, 3)) %>%
+    filter(bpld >= 15000, citizen %in% c(2, 3)) %>%
     group_by(country) %>%
     summarise(n = n(), 
         pop = sum(perwt)) %>%
@@ -48,7 +48,7 @@ acs %>%
 # workers by country
 # empstat universe: persons age 16+
 bpl_work_table = acs %>%
-    filter(bpld > 15000, citizen %in% c(2, 3)) %>%
+    filter(bpld >= 15000, citizen %in% c(2, 3)) %>%
     mutate(employed = empstat == 1) %>%
     group_by(country) %>%
     summarise(n = n(),
@@ -377,11 +377,12 @@ recode_visa_country = function(x) {
             "Malta", "Monaco", "San Marino", "Slovenia", "Vatican City") ~ "Other Europe",
         x %in% c("Bahrain", "Brunei", "Cyprus", "Macau", "Macau S.A.R.", "Maldives",
             "Oman", "Qatar", "Timor-Leste", "Tajikistan", "Turkmenistan") ~ "Other Asia",
-        x == "Western Sahara"                                 ~ "Other North Africa",
+        x %in% c("Tunisia", "Western Sahara")                 ~ "Other North Africa",
         x %in% c("Benin", "Burkina Faso", "Guinea-Bissau", "Mali",
             "Mauritania", "Niger")                           ~ "Other West Africa",
         x %in% c("Burundi", "Comoros", "Djibouti", "Madagascar", "Malawi", "Mauritius",
-            "Mozambique", "Seychelles", "British Indian Ocean Territory") ~ "Other East Africa",
+            "Mozambique", "Seychelles", "South Sudan",
+            "British Indian Ocean Territory")                ~ "Other East Africa",
         x %in% c("Angola", "Central African Republic", "Chad", "Equatorial Guinea",
             "Gabon", "Sao Tome and Principe", "Botswana", "Eswatini", "Lesotho",
             "Namibia", "St. Helena")                         ~ "Other Africa",
@@ -560,3 +561,78 @@ ggplot(iv_regions, aes(month_date, issuances)) +
         plot.title.position = "plot")
 
 ggsave("results/iv_region_monthly.png", width = 11, height = 8, dpi = 300, bg = "white")
+
+# decline in iv visas, 2021-2026 (march-september 2026 projected based on february 2025-2026 rate)
+iv_monthly = iv_totals %>%
+    filter(country == "ALL COUNTRIES") %>%
+    mutate(month_date = as.Date(paste0(date, "-01"))) %>%
+    select(month_date, year, month, issuances) %>%
+    arrange(month_date)
+
+# year-over-year decline?
+yoy_decline = iv_monthly %>%
+    filter(month %in% c(1, 2), year %in% c(2025, 2026)) %>%
+    select(year, month, issuances) %>%
+    pivot_wider(names_from = year, values_from = issuances, names_prefix = "visas_") %>%
+    mutate(change = visas_2026 - visas_2025,
+        pct_change = change / visas_2025)
+
+print(yoy_decline)
+
+write_csv(yoy_decline, "results/iv_yoy_decline_jan_feb.csv")
+
+# march-september projection, based on february decline
+feb_pct_change = yoy_decline$pct_change[yoy_decline$month == 2]
+
+iv_projection = iv_monthly %>%
+    filter(year == 2025, month >= 3, month <= 9) %>%
+    transmute(month,
+        visas_2025 = issuances,
+        visas_2026_projected = round(issuances * (1 + feb_pct_change)),
+        change = visas_2026_projected - visas_2025,
+        pct_change = change / visas_2025,
+        month_date = as.Date(paste0("2026-", sprintf("%02d", month), "-01")))
+
+print(iv_projection) 
+
+projection_total = bind_rows(
+        yoy_decline %>% select(month, visas_2025, visas_2026),
+        iv_projection %>% select(month, visas_2025, visas_2026 = visas_2026_projected)) %>%
+    summarise(visas_2025 = sum(visas_2025),
+        visas_2026 = sum(visas_2026)) %>%
+    mutate(change = visas_2026 - visas_2025,
+        pct_change = change / visas_2025)
+
+print(projection_total)
+
+write_csv(iv_projection, "results/iv_projection_mar_sep_2026.csv")
+
+write_csv(projection_total, "results/iv_projection_total_jan_sep_2026.csv")
+
+plot_data = bind_rows(
+    iv_monthly %>%
+        transmute(month_date, issuances, series = "Actual"),
+    iv_monthly %>%
+        filter(month_date == max(month_date)) %>%
+        transmute(month_date, issuances, series = "Projected"),   # connects the two lines
+    iv_projection %>%
+        transmute(month_date, issuances = visas_2026_projected, series = "Projected"))
+
+ggplot(plot_data, aes(month_date, issuances, linetype = series)) +
+    geom_line(color = "#3043B4", linewidth = 0.8) +
+    scale_linetype_manual(values = c("Actual" = "solid", "Projected" = "dotted")) +
+    scale_x_date(date_breaks = "1 year", date_labels = "%Y") +
+    scale_y_continuous(labels = scales::comma, limits = c(0, NA)) +
+    labs(x = NULL, y = "Immigrant visas issued per month", linetype = NULL,
+        title = "Immigrant visas issued per month, 2021-2026",
+        subtitle = "Mar-Sep 2026 projected by applying February's year-over-year decline to 2025 levels",
+        caption = "Source: U.S. Department of State, Monthly Immigrant Visa Issuance Statistics, Feb 2021-Feb 2026.") +
+    theme_minimal(base_size = 11) +
+    theme(legend.position = "top",
+        panel.grid.minor = element_blank(),
+        panel.grid.major.x = element_blank(),
+        plot.title.position = "plot",
+        plot.caption = element_text(hjust = 0))
+
+ggsave("results/iv_monthly_projection.png", width = 9, height = 5, dpi = 300, bg = "white")
+
