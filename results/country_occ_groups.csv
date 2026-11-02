@@ -1,0 +1,2736 @@
+country,occ_group,occ_n,occ_workers,occ_share
+Afghanistan,Transportation & material moving,558,15754,0.2059050332631909
+Afghanistan,"Management, business & financial",405,9156,0.11966906719295264
+Afghanistan,"Computer, engineering & science",292,7039,0.09199984315980708
+Afghanistan,Sales,280,7019,0.0917384428382847
+Afghanistan,"Education, legal, community service, arts & media",255,6460,0.08443230385173374
+Afghanistan,Office & administrative support,229,5084,0.06644796173099293
+Afghanistan,Production,176,4854,0.06344185803348538
+Afghanistan,Food preparation & serving,142,3664,0.04788853890290285
+Afghanistan,"Installation, maintenance & repair",99,2998,0.03918390819620708
+Afghanistan,Healthcare practitioners & technical,132,2889,0.03775927644391003
+Afghanistan,Healthcare support,117,2694,0.03521062330906667
+Afghanistan,Protective service,98,2654,0.03468782266602188
+Afghanistan,Personal care & service,90,2036,0.02661055273097986
+Afghanistan,Construction & extraction,57,1831,0.023931199435375305
+Afghanistan,Building & grounds cleaning,67,1586,0.02072904549672596
+Afghanistan,Food processing,23,558,0.007293068970474834
+Afghanistan,"Farming, fishing & forestry",5,163,0.002130412620407523
+Afghanistan,Military,4,72,9.410411574806237e-4
+Albania,"Management, business & financial",540,14191,0.18723859033394466
+Albania,Construction & extraction,240,6858,0.09048567771899038
+Albania,"Education, legal, community service, arts & media",286,6453,0.08514203533401063
+Albania,Building & grounds cleaning,211,5827,0.07688247945006663
+Albania,Office & administrative support,215,5401,0.07126175931179164
+Albania,Food preparation & serving,189,5252,0.06929582668126823
+Albania,Sales,189,5135,0.06775210777005185
+Albania,Transportation & material moving,185,5090,0.06715836972727633
+Albania,"Computer, engineering & science",214,4669,0.061603620482643055
+Albania,Healthcare practitioners & technical,182,4353,0.057434260004486024
+Albania,Healthcare support,118,3263,0.04305260519058991
+Albania,Production,141,3103,0.0409415365940547
+Albania,Personal care & service,94,2527,0.03334168964652795
+Albania,"Installation, maintenance & repair",82,2235,0.029488989457851195
+Albania,Protective service,33,913,0.012046285178979035
+Albania,Food processing,15,397,0.005238088955152986
+Albania,"Farming, fishing & forestry",3,89,0.00117428190682271
+Albania,Military,2,35,4.6179625549207687e-4
+Algeria,Transportation & material moving,156,5063,0.2040709391374446
+Algeria,"Education, legal, community service, arts & media",137,3396,0.13688029020556228
+Algeria,"Computer, engineering & science",125,3075,0.12394195888754535
+Algeria,"Management, business & financial",122,2658,0.10713422007255138
+Algeria,Office & administrative support,69,2025,0.08162031438935913
+Algeria,Sales,67,1862,0.07505038291011688
+Algeria,Production,61,1544,0.06223297057638049
+Algeria,Food preparation & serving,41,1011,0.0407496977025393
+Algeria,Healthcare practitioners & technical,39,778,0.03135832325675131
+Algeria,Protective service,19,669,0.026964933494558644
+Algeria,"Installation, maintenance & repair",26,628,0.025312374042724708
+Algeria,Construction & extraction,17,595,0.023982265215638857
+Algeria,Healthcare support,16,542,0.021846029826682788
+Algeria,Building & grounds cleaning,12,362,0.014590890769850866
+Algeria,Personal care & service,17,332,0.013381700927045546
+Algeria,Food processing,9,232,0.009351068117694478
+Algeria,"Farming, fishing & forestry",3,38,0.0015316404675534058
+Antigua and Barbuda,"Management, business & financial",68,2321,0.19514040692786278
+Antigua and Barbuda,Office & administrative support,61,2118,0.17807297797208677
+Antigua and Barbuda,"Education, legal, community service, arts & media",53,1456,0.12241466285522112
+Antigua and Barbuda,Transportation & material moving,31,1032,0.08676643685892046
+Antigua and Barbuda,Sales,27,836,0.07028753993610223
+Antigua and Barbuda,Healthcare support,27,802,0.06742895577602152
+Antigua and Barbuda,Construction & extraction,21,762,0.06406591558769127
+Antigua and Barbuda,Healthcare practitioners & technical,22,575,0.04834370270724735
+Antigua and Barbuda,Building & grounds cleaning,13,382,0.03211703379855389
+Antigua and Barbuda,"Computer, engineering & science",14,367,0.03085589372793005
+Antigua and Barbuda,Protective service,14,347,0.029174373633764922
+Antigua and Barbuda,"Installation, maintenance & repair",14,325,0.027324701530183286
+Antigua and Barbuda,Personal care & service,11,279,0.0234572053136035
+Antigua and Barbuda,Food preparation & serving,11,260,0.02185976122414663
+Antigua and Barbuda,Production,1,21,0.0017655960988733816
+Antigua and Barbuda,Military,2,11,9.248360517908189e-4
+Argentina,"Management, business & financial",1308,27463,0.2148568299170709
+Argentina,"Education, legal, community service, arts & media",901,19326,0.15119699577530904
+Argentina,Sales,484,11745,0.09188702863401658
+Argentina,Office & administrative support,461,10585,0.0828117665467063
+Argentina,"Computer, engineering & science",489,10580,0.08277264903770928
+Argentina,Construction & extraction,270,7231,0.056571741511500545
+Argentina,Transportation & material moving,276,7144,0.05589109685495228
+Argentina,Food preparation & serving,232,5882,0.04601783758410265
+Argentina,Healthcare practitioners & technical,259,5242,0.041010796432483176
+Argentina,Building & grounds cleaning,178,4701,0.03677828195900485
+Argentina,Production,175,4331,0.03388358629322485
+Argentina,"Installation, maintenance & repair",157,4269,0.03339852918166171
+Argentina,Personal care & service,184,3953,0.0309263026130496
+Argentina,Healthcare support,96,2155,0.016859646377718668
+Argentina,Protective service,63,1742,0.013628540134564231
+Argentina,Food processing,18,685,0.005359098732592708
+Argentina,"Farming, fishing & forestry",15,429,0.0033562822719449227
+Argentina,Military,12,357,0.0027929901423877327
+Armenia,"Management, business & financial",435,10249,0.1813276246417324
+Armenia,"Education, legal, community service, arts & media",316,7380,0.13056862814479317
+Armenia,Sales,198,5892,0.10424259580340399
+Armenia,Office & administrative support,229,5621,0.09944800254768055
+Armenia,Transportation & material moving,172,5088,0.09001804607055659
+Armenia,Healthcare support,170,5003,0.08851420685750681
+Armenia,Healthcare practitioners & technical,159,4354,0.0770319521602208
+Armenia,"Computer, engineering & science",171,4164,0.07367042921340362
+Armenia,Personal care & service,63,1692,0.029935246452708678
+Armenia,Food preparation & serving,63,1675,0.029634478610098724
+Armenia,Construction & extraction,68,1585,0.028042178266869538
+Armenia,Production,62,1413,0.024999115388698204
+Armenia,"Installation, maintenance & repair",40,948,0.01677223028201408
+Armenia,Protective service,23,652,0.011535331375393651
+Armenia,Building & grounds cleaning,23,462,0.008173808428576483
+Armenia,Food processing,12,291,0.005148437776441032
+Armenia,Military,3,33,5.838434591840346e-4
+Armenia,"Farming, fishing & forestry",1,20,3.5384452071759667e-4
+Australia,"Management, business & financial",1035,21534,0.3276129621177544
+Australia,"Education, legal, community service, arts & media",552,11331,0.17238703788224555
+Australia,"Computer, engineering & science",499,10151,0.15443480906739693
+Australia,Sales,231,5005,0.07614483493077742
+Australia,Office & administrative support,206,4220,0.06420203864293321
+Australia,Healthcare practitioners & technical,149,2811,0.04276586033774532
+Australia,Transportation & material moving,103,2202,0.03350068461889548
+Australia,Personal care & service,74,1541,0.023444393731933667
+Australia,Food preparation & serving,64,1386,0.021086261980830672
+Australia,Production,66,1282,0.019504031644606724
+Australia,Construction & extraction,57,1260,0.019169329073482427
+Australia,"Installation, maintenance & repair",51,1232,0.018743343982960597
+Australia,Protective service,33,549,0.008352350524874487
+Australia,Building & grounds cleaning,26,428,0.006511486383690856
+Australia,Healthcare support,33,428,0.006511486383690856
+Australia,Food processing,7,199,0.0030275368933515897
+Australia,Military,6,90,0.0013692377909630307
+Australia,"Farming, fishing & forestry",2,81,0.0012323140118667274
+Austria,"Management, business & financial",215,4036,0.2642917949053762
+Austria,"Education, legal, community service, arts & media",120,2118,0.1386942570885993
+Austria,"Computer, engineering & science",103,1988,0.13018138956191475
+Austria,Sales,85,1706,0.11171501538864514
+Austria,Office & administrative support,58,1211,0.07930063519088468
+Austria,Healthcare practitioners & technical,44,846,0.05539912251980879
+Austria,Transportation & material moving,41,748,0.048981730076615805
+Austria,Personal care & service,28,692,0.04531464868050553
+Austria,Food preparation & serving,16,381,0.024949250212821687
+Austria,Construction & extraction,11,367,0.02403247986379412
+Austria,Production,17,324,0.0212166852203523
+Austria,Healthcare support,12,294,0.01925217732957894
+Austria,"Installation, maintenance & repair",10,209,0.013686071639054416
+Austria,Building & grounds cleaning,8,145,0.009495121472071245
+Austria,Food processing,2,109,0.007137712003143212
+Austria,"Farming, fishing & forestry",1,66,0.004321917359701395
+Austria,Protective service,3,31,0.0020299914871324733
+Azerbaijan,"Management, business & financial",141,2964,0.18408794484814608
+Azerbaijan,"Computer, engineering & science",109,2314,0.1437177815042544
+Azerbaijan,"Education, legal, community service, arts & media",97,2141,0.1329731072604186
+Azerbaijan,Office & administrative support,55,1493,0.0927271598037389
+Azerbaijan,Healthcare practitioners & technical,66,1453,0.09024284205949941
+Azerbaijan,Transportation & material moving,46,1325,0.08229302527793304
+Azerbaijan,Sales,51,1198,0.07440531643997267
+Azerbaijan,Healthcare support,41,1171,0.07272840196261102
+Azerbaijan,Food preparation & serving,18,437,0.02714117135581641
+Azerbaijan,"Installation, maintenance & repair",15,403,0.025029501273212844
+Azerbaijan,Production,16,368,0.02285572324700329
+Azerbaijan,Construction & extraction,14,255,0.015837525619526737
+Azerbaijan,Protective service,12,245,0.015216446183466865
+Azerbaijan,Personal care & service,8,234,0.014533258803801007
+Azerbaijan,Building & grounds cleaning,5,87,0.0054033910937208865
+Azerbaijan,Food processing,1,13,8.074032668778337e-4
+Bahamas,"Management, business & financial",164,4764,0.20399075104907083
+Bahamas,"Education, legal, community service, arts & media",93,2804,0.12006508521024235
+Bahamas,Office & administrative support,83,2612,0.11184379549541834
+Bahamas,Transportation & material moving,69,2341,0.10023978761668237
+Bahamas,Healthcare practitioners & technical,69,1986,0.08503896548771088
+Bahamas,"Computer, engineering & science",48,1488,0.0637149952898861
+Bahamas,Sales,45,1193,0.051083326196797126
+Bahamas,Food preparation & serving,36,1047,0.044831720476149695
+Bahamas,Healthcare support,38,989,0.04234820587479661
+Bahamas,Construction & extraction,25,920,0.03939367988353173
+Bahamas,Protective service,23,886,0.03793782649653164
+Bahamas,Building & grounds cleaning,25,769,0.03292797807656076
+Bahamas,"Installation, maintenance & repair",23,656,0.028089406525648713
+Bahamas,Personal care & service,27,575,0.02462104992720733
+Bahamas,Production,17,246,0.010533527447118267
+Bahamas,"Farming, fishing & forestry",1,53,0.002269418515029545
+Bahamas,Food processing,1,25,0.00107048043161771
+Bangladesh,"Computer, engineering & science",1246,28282,0.15728912345878127
+Bangladesh,Sales,1052,24364,0.13549933540590292
+Bangladesh,"Management, business & financial",1040,22944,0.12760206663737633
+Bangladesh,Transportation & material moving,803,19020,0.10577890984322252
+Bangladesh,"Education, legal, community service, arts & media",916,18734,0.10418833317575872
+Bangladesh,Office & administrative support,623,13676,0.07605848428054213
+Bangladesh,Food preparation & serving,504,12731,0.07080290752965647
+Bangladesh,Healthcare practitioners & technical,432,9632,0.05356795266087904
+Bangladesh,Healthcare support,426,9203,0.05118208765968333
+Bangladesh,Production,325,7745,0.04307348352974545
+Bangladesh,Protective service,189,3629,0.02018252701477679
+Bangladesh,Personal care & service,174,3032,0.016862337257868072
+Bangladesh,Building & grounds cleaning,94,2400,0.013347496510185809
+Bangladesh,Construction & extraction,94,2297,0.012774666451623668
+Bangladesh,"Installation, maintenance & repair",54,1175,0.006534711833111802
+Bangladesh,Food processing,24,590,0.0032812595587540113
+Bangladesh,"Farming, fishing & forestry",6,219,0.001217959056554455
+Bangladesh,Military,8,136,7.563581355771958e-4
+Barbados,"Management, business & financial",166,4160,0.1526493468369294
+Barbados,Office & administrative support,136,4124,0.1513283428739175
+Barbados,"Education, legal, community service, arts & media",124,2375,0.08714956700425656
+Barbados,Transportation & material moving,80,2360,0.08659914868633495
+Barbados,Healthcare support,79,2056,0.0754440041097901
+Barbados,Sales,58,1849,0.06784823132247174
+Barbados,Protective service,54,1745,0.06403199765154852
+Barbados,Building & grounds cleaning,55,1696,0.062233964479671215
+Barbados,"Computer, engineering & science",67,1696,0.062233964479671215
+Barbados,Healthcare practitioners & technical,71,1612,0.05915162189931014
+Barbados,Construction & extraction,37,979,0.03592396888301776
+Barbados,Food preparation & serving,24,751,0.02755761045060913
+Barbados,Personal care & service,17,691,0.02535593717892265
+Barbados,"Installation, maintenance & repair",21,502,0.01842066637311023
+Barbados,Production,25,483,0.017723469837076178
+Barbados,Food processing,4,142,0.00521062674299134
+Barbados,Military,1,18,6.605019815059445e-4
+Barbados,"Farming, fishing & forestry",1,13,4.7702920886540437e-4
+Belarus,"Management, business & financial",496,10953,0.22697695623342176
+Belarus,"Computer, engineering & science",383,8153,0.16895308355437666
+Belarus,"Education, legal, community service, arts & media",243,5305,0.10993451591511937
+Belarus,Transportation & material moving,130,3883,0.0804666777188329
+Belarus,Healthcare practitioners & technical,175,3698,0.07663295755968169
+Belarus,Office & administrative support,146,3266,0.06768070291777188
+Belarus,Sales,118,2533,0.05249088196286472
+Belarus,Healthcare support,104,2401,0.04975547082228117
+Belarus,Construction & extraction,68,1689,0.03500082891246684
+Belarus,Production,62,1481,0.030690484084880638
+Belarus,"Installation, maintenance & repair",57,1453,0.030110245358090187
+Belarus,Food preparation & serving,50,1131,0.0234375
+Belarus,Building & grounds cleaning,36,993,0.02057775198938992
+Belarus,Personal care & service,34,675,0.013987897877984086
+Belarus,Protective service,15,328,0.006797082228116711
+Belarus,Food processing,7,167,0.003460709549071618
+Belarus,Military,3,108,0.0022380636604774538
+Belarus,"Farming, fishing & forestry",2,39,8.081896551724138e-4
+Belgium,"Management, business & financial",319,6383,0.33106846473029045
+Belgium,"Education, legal, community service, arts & media",180,3240,0.16804979253112035
+Belgium,"Computer, engineering & science",142,2717,0.14092323651452282
+Belgium,Sales,65,1738,0.09014522821576763
+Belgium,Office & administrative support,71,1601,0.08303941908713693
+Belgium,Healthcare practitioners & technical,59,1044,0.054149377593361
+Belgium,Transportation & material moving,19,440,0.022821576763485476
+Belgium,Personal care & service,15,405,0.021006224066390043
+Belgium,Construction & extraction,11,404,0.020954356846473027
+Belgium,Production,13,404,0.020954356846473027
+Belgium,Food preparation & serving,12,232,0.012033195020746889
+Belgium,Protective service,10,192,0.00995850622406639
+Belgium,Building & grounds cleaning,7,173,0.008973029045643153
+Belgium,Healthcare support,6,106,0.00549792531120332
+Belgium,"Farming, fishing & forestry",4,73,0.0037863070539419087
+Belgium,"Installation, maintenance & repair",5,57,0.0029564315352697094
+Belgium,Military,4,46,0.002385892116182573
+Belgium,Food processing,3,25,0.0012966804979253112
+Belize,"Management, business & financial",191,4657,0.17091789921826256
+Belize,Office & administrative support,156,3472,0.1274268726832312
+Belize,"Education, legal, community service, arts & media",110,2526,0.09270745403163651
+Belize,Healthcare support,85,2414,0.08859690975153228
+Belize,Transportation & material moving,85,2241,0.08224758689029985
+Belize,Sales,67,1798,0.06598891621095901
+Belize,Healthcare practitioners & technical,67,1729,0.06345652732410907
+Belize,"Computer, engineering & science",56,1500,0.05505193232282453
+Belize,Construction & extraction,50,1487,0.05457481557602672
+Belize,Production,44,1105,0.04055492347781407
+Belize,Building & grounds cleaning,50,1036,0.03802253459096414
+Belize,"Installation, maintenance & repair",32,926,0.03398539288729034
+Belize,Food preparation & serving,39,918,0.033691782581568616
+Belize,Protective service,33,654,0.024002642492751497
+Belize,Personal care & service,19,627,0.023011707710940653
+Belize,Military,4,92,0.0033765185157999048
+Belize,"Farming, fishing & forestry",4,62,0.002275479869343414
+Belize,Food processing,1,3,1.1010386464564906e-4
+Bermuda,"Management, business & financial",34,1053,0.27153171738009285
+Bermuda,Sales,21,421,0.10856111397627644
+Bermuda,Healthcare practitioners & technical,12,364,0.09386281588447654
+Bermuda,"Computer, engineering & science",19,342,0.08818978855079938
+Bermuda,Office & administrative support,16,293,0.07555440948942754
+Bermuda,"Education, legal, community service, arts & media",18,282,0.07271789582258896
+Bermuda,Food preparation & serving,9,221,0.05698813821557504
+Bermuda,Transportation & material moving,13,186,0.0479628674574523
+Bermuda,Construction & extraction,10,168,0.04332129963898917
+Bermuda,Building & grounds cleaning,7,132,0.03403816400206292
+Bermuda,Healthcare support,5,92,0.02372356884992264
+Bermuda,Food processing,3,74,0.019082001031459517
+Bermuda,Production,4,74,0.019082001031459517
+Bermuda,Protective service,3,63,0.016245487364620937
+Bermuda,Personal care & service,8,62,0.01598762248581743
+Bermuda,"Installation, maintenance & repair",3,41,0.010572460030943786
+Bermuda,"Farming, fishing & forestry",1,10,0.0025786487880350697
+Bhutan,Transportation & material moving,162,5545,0.20486200908855803
+Bhutan,Production,133,4093,0.1512173495400303
+Bhutan,Healthcare support,112,3344,0.12354527653600325
+Bhutan,"Management, business & financial",48,2160,0.07980197288210736
+Bhutan,Sales,67,2069,0.07643994532087044
+Bhutan,Building & grounds cleaning,64,2065,0.07629216388960727
+Bhutan,Office & administrative support,51,1472,0.05438356670484354
+Bhutan,Food preparation & serving,40,1251,0.046218642627553846
+Bhutan,"Computer, engineering & science",36,1048,0.03871873499094839
+Bhutan,Healthcare practitioners & technical,39,863,0.03188384379502716
+Bhutan,Personal care & service,29,748,0.027635127646211254
+Bhutan,"Education, legal, community service, arts & media",37,723,0.02671149370081649
+Bhutan,"Installation, maintenance & repair",19,594,0.021945542542579525
+Bhutan,Food processing,18,524,0.019359367495474195
+Bhutan,"Farming, fishing & forestry",3,265,0.009790519821184469
+Bhutan,Protective service,3,237,0.008756049802342335
+Bhutan,Construction & extraction,4,66,0.0024383936158421694
+Bolivia,"Management, business & financial",391,9356,0.17146208261554816
+Bolivia,"Education, legal, community service, arts & media",239,5143,0.09425283143349339
+Bolivia,Office & administrative support,189,4915,0.09007440530733424
+Bolivia,Building & grounds cleaning,151,4598,0.08426492687754279
+Bolivia,Sales,152,4078,0.07473518308103948
+Bolivia,Transportation & material moving,139,3929,0.07200454495473371
+Bolivia,Construction & extraction,129,3791,0.06947549756258475
+Bolivia,"Computer, engineering & science",170,3771,0.06910896895502694
+Bolivia,Food preparation & serving,126,3667,0.06720302019572627
+Bolivia,Healthcare practitioners & technical,98,2499,0.045797749514349596
+Bolivia,Production,73,2131,0.03905362313528571
+Bolivia,Healthcare support,66,2030,0.03720265366711872
+Bolivia,Personal care & service,80,1786,0.03273100465491332
+Bolivia,"Installation, maintenance & repair",59,1610,0.029505552908404502
+Bolivia,Protective service,27,577,0.010574350328043105
+Bolivia,Food processing,15,492,0.009016603745922369
+Bolivia,"Farming, fishing & forestry",6,104,0.0019059487593006633
+Bolivia,Military,5,89,0.0016310523036322986
+Bosnia and Herzegovina,"Management, business & financial",537,13722,0.181237039874262
+Bosnia and Herzegovina,Transportation & material moving,373,9871,0.1303739120098266
+Bosnia and Herzegovina,Production,318,7757,0.10245268315877062
+Bosnia and Herzegovina,Office & administrative support,279,6722,0.08878263970520255
+Bosnia and Herzegovina,"Computer, engineering & science",236,5289,0.0698559032134508
+Bosnia and Herzegovina,Sales,224,5058,0.06680490800787184
+Bosnia and Herzegovina,Healthcare practitioners & technical,192,4735,0.06253879782864237
+Bosnia and Herzegovina,"Education, legal, community service, arts & media",187,4321,0.05707078044721514
+Bosnia and Herzegovina,Building & grounds cleaning,158,3947,0.05213107392389682
+Bosnia and Herzegovina,Construction & extraction,128,3231,0.042674309563747306
+Bosnia and Herzegovina,Food preparation & serving,90,2652,0.035027009892620815
+Bosnia and Herzegovina,Healthcare support,98,2592,0.034234543605457454
+Bosnia and Herzegovina,"Installation, maintenance & repair",102,2579,0.03406284257657206
+Bosnia and Herzegovina,Personal care & service,62,1448,0.01912485306354259
+Bosnia and Herzegovina,Protective service,36,865,0.011424722306605207
+Bosnia and Herzegovina,Food processing,22,599,0.007911455100180946
+Bosnia and Herzegovina,"Farming, fishing & forestry",4,185,0.0024434377187537147
+Bosnia and Herzegovina,Military,4,140,0.0018490880033811895
+Brazil,"Management, business & financial",3316,77061,0.18669822680172596
+Brazil,Construction & extraction,1434,50476,0.12228987031110314
+Brazil,Building & grounds cleaning,1530,49635,0.12025235186804827
+Brazil,"Education, legal, community service, arts & media",1847,42624,0.10326657088795586
+Brazil,"Computer, engineering & science",1395,29860,0.07234280702689476
+Brazil,Office & administrative support,1227,29093,0.07048457082496482
+Brazil,Sales,1094,28000,0.06783652366888993
+Brazil,Transportation & material moving,896,25025,0.060628893029070374
+Brazil,Personal care & service,744,18411,0.0446049370452833
+Brazil,Healthcare practitioners & technical,718,15917,0.03856264097277575
+Brazil,Food preparation & serving,557,14825,0.03591701654968904
+Brazil,Production,363,10312,0.02498322257405689
+Brazil,Healthcare support,340,8693,0.021060817866202147
+Brazil,"Installation, maintenance & repair",263,7505,0.018182611076250674
+Brazil,Protective service,117,2839,0.0068781389534278035
+Brazil,Food processing,52,1340,0.0032464622041540178
+Brazil,Military,26,601,0.001456062525892959
+Brazil,"Farming, fishing & forestry",22,540,0.0013082758136143057
+Bulgaria,"Management, business & financial",583,12798,0.2418184566548258
+Bulgaria,"Computer, engineering & science",367,7648,0.14450910739928954
+Bulgaria,"Education, legal, community service, arts & media",285,5548,0.10482956692615826
+Bulgaria,Transportation & material moving,207,4944,0.093416975285314785
+Bulgaria,Office & administrative support,189,4039,0.0763169828433225
+Bulgaria,Sales,162,3866,0.0730481445091074
+Bulgaria,Food preparation & serving,108,2571,0.04857909455067644
+Bulgaria,Healthcare practitioners & technical,111,2237,0.042268158113521276
+Bulgaria,Production,66,1602,0.030269820875217294
+Bulgaria,Healthcare support,63,1518,0.028682639256292043
+Bulgaria,Building & grounds cleaning,59,1494,0.02822915879374197
+Bulgaria,Construction & extraction,67,1384,0.026150706673720808
+Bulgaria,"Installation, maintenance & repair",64,1334,0.025205955710074824
+Bulgaria,Personal care & service,65,1250,0.023618774091149573
+Bulgaria,Protective service,22,435,0.008219333383720051
+Bulgaria,Military,3,141,0.002664197717481672
+Bulgaria,Food processing,3,115,0.0021729272163857607
+Burma,Production,654,17287,0.17275080194665682
+Burma,Transportation & material moving,524,14378,0.14368086020645754
+Burma,Food preparation & serving,413,10127,0.10120017188140183
+Burma,"Management, business & financial",405,8416,0.08410196964094775
+Burma,Office & administrative support,336,8005,0.07999480358552599
+Burma,"Computer, engineering & science",347,7871,0.07865572754799188
+Burma,Sales,246,5389,0.05385284153933786
+Burma,Food processing,159,5231,0.052273930987618546
+Burma,"Education, legal, community service, arts & media",238,5206,0.05202410336867561
+Burma,Healthcare practitioners & technical,260,4810,0.04806683388461961
+Burma,Healthcare support,157,3223,0.032207776634122456
+Burma,Building & grounds cleaning,124,2641,0.02639178966513106
+Burma,"Installation, maintenance & repair",85,2164,0.021625078695699965
+Burma,Personal care & service,83,2017,0.020156092296315542
+Burma,Construction & extraction,70,1948,0.01946656806803306
+Burma,Protective service,31,694,0.00693521470185572
+Burma,"Farming, fishing & forestry",15,466,0.004656786817096204
+Burma,Military,9,196,0.0019586485325125665
+Cambodia,Production,752,17103,0.19324331958646404
+Cambodia,"Management, business & financial",452,8920,0.10078526636913168
+Cambodia,Sales,360,7628,0.08618722106095701
+Cambodia,Personal care & service,312,7387,0.08346421106152195
+Cambodia,Office & administrative support,322,7207,0.08143042765945427
+Cambodia,"Computer, engineering & science",314,6999,0.07908027795039828
+Cambodia,Transportation & material moving,270,6204,0.07009773459126603
+Cambodia,"Education, legal, community service, arts & media",224,4817,0.05442630359866674
+Cambodia,Food preparation & serving,211,4415,0.049884187334048924
+Cambodia,Healthcare support,195,4239,0.04789559911869386
+Cambodia,Healthcare practitioners & technical,188,3996,0.04514999152590249
+Cambodia,"Installation, maintenance & repair",120,2581,0.029162194226314896
+Cambodia,Building & grounds cleaning,104,2189,0.024733065928478615
+Cambodia,Food processing,103,2160,0.024405400824812157
+Cambodia,Construction & extraction,60,1728,0.019524320659849725
+Cambodia,Protective service,35,663,0.007491102197615954
+Cambodia,Military,5,143,0.00161572792497599
+Cambodia,"Farming, fishing & forestry",8,126,0.0014236483814473759
+Cameroon,Healthcare practitioners & technical,328,11428,0.1804687006506222
+Cameroon,Healthcare support,275,9467,0.1495009790916556
+Cameroon,"Management, business & financial",223,7807,0.12328658960267828
+Cameroon,"Computer, engineering & science",212,7450,0.11764891668245847
+Cameroon,"Education, legal, community service, arts & media",192,5630,0.08890783904996526
+Cameroon,Transportation & material moving,120,4789,0.07562693449560988
+Cameroon,Office & administrative support,101,3508,0.05539763754658581
+Cameroon,Sales,86,3273,0.05168656433579685
+Cameroon,Production,61,2010,0.031741519802918325
+Cameroon,Protective service,56,1829,0.028883203840565978
+Cameroon,Food preparation & serving,41,1379,0.021776893436927548
+Cameroon,Personal care & service,32,1259,0.019881877329290632
+Cameroon,Building & grounds cleaning,42,1114,0.01759206619922936
+Cameroon,"Installation, maintenance & repair",34,944,0.014907460046743731
+Cameroon,Military,30,696,0.010991093424294107
+Cameroon,Construction & extraction,18,430,0.006790474385698945
+Cameroon,Food processing,9,308,0.004863874676268081
+Cameroon,"Farming, fishing & forestry",1,3,4.737540269092287e-5
+Canada,"Management, business & financial",6180,122553,0.27416717188552153
+Canada,"Education, legal, community service, arts & media",3779,73188,0.16373117733517376
+Canada,"Computer, engineering & science",2899,58628,0.13115854326947815
+Canada,Healthcare practitioners & technical,2355,47154,0.10548969689105842
+Canada,Sales,1811,36421,0.08147856492491068
+Canada,Office & administrative support,1749,33447,0.07482533596121708
+Canada,Transportation & material moving,694,13976,0.03126614929273089
+Canada,Food preparation & serving,463,9928,0.022210241140400135
+Canada,Construction & extraction,433,8967,0.0200603578068058
+Canada,Personal care & service,409,8305,0.01857937677991772
+Canada,Production,414,7854,0.017570430491206955
+Canada,Healthcare support,323,7337,0.016413833526099493
+Canada,"Installation, maintenance & repair",338,6652,0.014881398475618623
+Canada,Building & grounds cleaning,277,5605,0.012539121836416473
+Canada,Protective service,234,4843,0.01083442766347279
+Canada,Food processing,35,810,0.0018120764830503735
+Canada,"Farming, fishing & forestry",49,779,0.001742725407773137
+Canada,Military,28,554,0.0012393708291480333
+Cape Verde,Transportation & material moving,120,3819,0.1359849024355505
+Cape Verde,Building & grounds cleaning,95,3069,0.10927930494231591
+Cape Verde,"Management, business & financial",109,3065,0.10913687508901866
+Cape Verde,Healthcare support,111,3033,0.10799743626264065
+Cape Verde,Office & administrative support,87,2566,0.09136875089018659
+Cape Verde,Production,77,2160,0.0769121207805156
+Cape Verde,Food preparation & serving,55,1618,0.05761287565873807
+Cape Verde,"Education, legal, community service, arts & media",60,1486,0.052912690499928784
+Cape Verde,Sales,40,1316,0.04685942173479561
+Cape Verde,Healthcare practitioners & technical,41,1242,0.04422446944879647
+Cape Verde,Construction & extraction,38,1087,0.038705312633527986
+Cape Verde,"Installation, maintenance & repair",27,929,0.03307933342828657
+Cape Verde,"Computer, engineering & science",36,880,0.031334567725395245
+Cape Verde,Personal care & service,25,712,0.025352513886910698
+Cape Verde,Protective service,16,688,0.02449793476712719
+Cape Verde,Food processing,9,297,0.010575416607320894
+Cape Verde,"Farming, fishing & forestry",1,95,0.0033827090158097136
+Cape Verde,Military,3,22,7.833641931348811e-4
+Chile,"Management, business & financial",554,12820,0.18372026368586988
+Chile,"Education, legal, community service, arts & media",395,8494,0.12172542275723704
+Chile,"Computer, engineering & science",268,6797,0.0974061335626254
+Chile,Office & administrative support,241,5651,0.08098308971051878
+Chile,Transportation & material moving,171,4405,0.06312697047864718
+Chile,Food preparation & serving,131,4369,0.06261106334193178
+Chile,Sales,192,4269,0.06117798796216681
+Chile,Construction & extraction,148,4214,0.060389796503296074
+Chile,Building & grounds cleaning,153,4105,0.05882774433935225
+Chile,Healthcare practitioners & technical,149,3873,0.0555030094582975
+Chile,Production,114,2970,0.04256233877901978
+Chile,"Installation, maintenance & repair",83,2509,0.03595586127830324
+Chile,Healthcare support,84,2073,0.029707652622527943
+Chile,Personal care & service,77,1577,0.022599598738893667
+Chile,Protective service,35,1011,0.014488392089423903
+Chile,Food processing,18,572,0.00819719117225566
+Chile,"Farming, fishing & forestry",5,56,8.025222126683863e-4
+Chile,Military,1,15,2.1496130696474635e-4
+China,"Computer, engineering & science",15751,310631,0.24050111528423296
+China,"Management, business & financial",11734,233464,0.1807557918518054
+China,"Education, legal, community service, arts & media",7365,142944,0.11067212037172527
+China,Food preparation & serving,5377,115751,0.08961837226569547
+China,Sales,4652,93250,0.07219733059564153
+China,Office & administrative support,4092,79587,0.06161896997442705
+China,Healthcare support,3322,67549,0.05229873977914198
+China,Healthcare practitioners & technical,3270,64644,0.05004958969463433
+China,Transportation & material moving,2577,53805,0.041657666195158094
+China,Personal care & service,1927,37979,0.02940463719776804
+China,Production,1539,30737,0.023797633785718322
+China,Building & grounds cleaning,971,19360,0.014989172335995924
+China,Construction & extraction,761,18036,0.013964086376654054
+China,"Installation, maintenance & repair",553,11482,0.008889756031090145
+China,Protective service,296,5464,0.004230415167555875
+China,Food processing,206,4306,0.0033338520701858706
+China,Military,75,1466,0.0011350272027153938
+China,"Farming, fishing & forestry",60,1144,8.857238198543046e-4
+Colombia,"Management, business & financial",3833,94141,0.15252768119558138
+Colombia,"Education, legal, community service, arts & media",2638,62382,0.10107160332206751
+Colombia,Office & administrative support,2338,57633,0.09337725167934206
+Colombia,Transportation & material moving,2001,56609,0.09171816216951877
+Colombia,Building & grounds cleaning,1857,53086,0.08601018136570286
+Colombia,Sales,1943,50252,0.08141852153089892
+Colombia,Construction & extraction,1358,42630,0.06906932207399151
+Colombia,"Computer, engineering & science",1500,36804,0.05963001007767261
+Colombia,Food preparation & serving,1283,36585,0.05927518527039594
+Colombia,Production,1147,30226,0.04897230422257723
+Colombia,Healthcare practitioners & technical,1100,25613,0.041498300405375194
+Colombia,Personal care & service,906,23565,0.03818012138572859
+Colombia,Healthcare support,757,17908,0.029014623966714517
+Colombia,"Installation, maintenance & repair",608,17189,0.027849696859719445
+Colombia,Protective service,266,6963,0.011281484625878555
+Colombia,Food processing,98,2726,0.004416677738064763
+Colombia,"Farming, fishing & forestry",61,1647,0.0026684769752724374
+Colombia,Military,53,1247,0.0020203951354977106
+Costa Rica,"Management, business & financial",446,10724,0.1699982562655549
+Costa Rica,Building & grounds cleaning,231,6966,0.11042594676854303
+Costa Rica,"Education, legal, community service, arts & media",294,6312,0.1000586528858805
+Costa Rica,Office & administrative support,263,6306,0.09996354009796617
+Costa Rica,Construction & extraction,211,6264,0.09929775058256582
+Costa Rica,Transportation & material moving,171,4526,0.07174674635004677
+Costa Rica,"Computer, engineering & science",158,4239,0.06719718466147774
+Costa Rica,Sales,153,3493,0.055371494697462074
+Costa Rica,Food preparation & serving,119,3030,0.04803195789673922
+Costa Rica,"Installation, maintenance & repair",76,2391,0.03790244598386253
+Costa Rica,Healthcare practitioners & technical,102,2305,0.036539162690423725
+Costa Rica,Production,74,2042,0.03237005215351204
+Costa Rica,Healthcare support,73,1945,0.030832395415563624
+Costa Rica,Personal care & service,61,1433,0.022716104180207027
+Costa Rica,Protective service,28,821,0.01301459981294485
+Costa Rica,Military,6,208,0.0032972433143636164
+Costa Rica,"Farming, fishing & forestry",4,53,8.401629599099599e-4
+Costa Rica,Food processing,4,25,3.963032829763962e-4
+Cote d'Ivoire,Transportation & material moving,82,2846,0.12935187710208162
+Cote d'Ivoire,Office & administrative support,73,2649,0.12039814562312517
+Cote d'Ivoire,"Management, business & financial",77,2317,0.1053086083083356
+Cote d'Ivoire,Sales,53,1949,0.08858285610399054
+Cote d'Ivoire,"Computer, engineering & science",58,1853,0.08421961639850922
+Cote d'Ivoire,"Education, legal, community service, arts & media",57,1531,0.0695845832197073
+Cote d'Ivoire,Healthcare support,54,1473,0.066948459230979
+Cote d'Ivoire,Production,41,1416,0.06435778565584947
+Cote d'Ivoire,Healthcare practitioners & technical,41,1374,0.06244886828470139
+Cote d'Ivoire,Food preparation & serving,36,1180,0.05363148804654122
+Cote d'Ivoire,Personal care & service,32,1091,0.04958640123625125
+Cote d'Ivoire,Building & grounds cleaning,17,588,0.026724843196073083
+Cote d'Ivoire,"Installation, maintenance & repair",11,459,0.02086173984183256
+Cote d'Ivoire,Protective service,11,344,0.01563494227797473
+Cote d'Ivoire,Construction & extraction,10,324,0.014725934005999454
+Cote d'Ivoire,Food processing,5,288,0.01308971911644396
+Cote d'Ivoire,"Farming, fishing & forestry",3,177,0.008044723206981184
+Cote d'Ivoire,Military,9,143,0.0064994091446232164
+Croatia,"Management, business & financial",205,4777,0.22401988369911838
+Croatia,"Computer, engineering & science",119,2254,0.10570249484149315
+Croatia,Office & administrative support,90,2168,0.10166948039767398
+Croatia,"Education, legal, community service, arts & media",100,1921,0.09008628775089102
+Croatia,Healthcare practitioners & technical,66,1755,0.08230163196398424
+Croatia,Transportation & material moving,63,1520,0.07128118551866441
+Croatia,Sales,61,1317,0.061761395610579625
+Croatia,Production,56,1257,0.05894766460326393
+Croatia,Construction & extraction,33,1125,0.05275745638716939
+Croatia,"Installation, maintenance & repair",32,770,0.036109547927218155
+Croatia,Building & grounds cleaning,21,564,0.026449071468767585
+Croatia,Food preparation & serving,28,480,0.022509848058525603
+Croatia,Personal care & service,20,471,0.02208778840742825
+Croatia,Protective service,12,419,0.01964922153442131
+Croatia,Healthcare support,18,398,0.018664415681860815
+Croatia,"Farming, fishing & forestry",2,53,0.0024854623897955356
+Croatia,Food processing,3,47,0.0022040892890639657
+Croatia,Military,1,28,0.0013130744700806604
+Cuba,Transportation & material moving,3916,118231,0.14751805437023063
+Cuba,"Management, business & financial",3751,93249,0.11634775187530881
+Cuba,Office & administrative support,3083,74864,0.09340859522775706
+Cuba,Construction & extraction,2223,66428,0.08288290986040615
+Cuba,Sales,2576,66288,0.0827082303972211
+Cuba,Building & grounds cleaning,1851,53318,0.06652542584357704
+Cuba,"Education, legal, community service, arts & media",2382,53213,0.06639441624618825
+Cuba,Healthcare practitioners & technical,2048,48329,0.060300598401932456
+Cuba,Production,1574,43531,0.05431408365649034
+Cuba,Healthcare support,1450,40421,0.05043370415287947
+Cuba,"Installation, maintenance & repair",1286,36985,0.04614657104213768
+Cuba,Food preparation & serving,1165,33336,0.04159367560526434
+Cuba,"Computer, engineering & science",1303,29306,0.03656540248643739
+Cuba,Personal care & service,745,21865,0.027281189018151693
+Cuba,Protective service,479,12332,0.01538676528570074
+Cuba,Food processing,185,6110,0.007623510857576348
+Cuba,"Farming, fishing & forestry",105,3009,0.0037543607480273696
+Cuba,Military,29,653,8.147549247131513e-4
+Czech Republic,"Management, business & financial",186,4235,0.2393872590582782
+Czech Republic,"Education, legal, community service, arts & media",97,2089,0.11808264089084845
+Czech Republic,Office & administrative support,80,1957,0.11062121982929173
+Czech Republic,"Computer, engineering & science",102,1705,0.09637668871177435
+Czech Republic,Sales,56,1234,0.06975298174212877
+Czech Republic,Healthcare practitioners & technical,62,1125,0.06359165677463118
+Czech Republic,Building & grounds cleaning,39,996,0.056299813464473464
+Czech Republic,Construction & extraction,33,826,0.04669040755186253
+Czech Republic,Personal care & service,31,805,0.045503363292069415
+Czech Republic,Food preparation & serving,17,651,0.03679837205358657
+Czech Republic,Transportation & material moving,31,533,0.030128313831891924
+Czech Republic,"Installation, maintenance & repair",24,516,0.029167373240630828
+Czech Republic,Production,15,376,0.02125374484201006
+Czech Republic,Healthcare support,19,271,0.015318523543044487
+Czech Republic,Protective service,9,271,0.015318523543044487
+Czech Republic,Food processing,3,63,0.0035611327793793456
+Czech Republic,Military,1,21,0.0011870442597931151
+Czech Republic,"Farming, fishing & forestry",1,17,9.609405912610932e-4
+Czechoslovakia,"Management, business & financial",59,1274,0.17437722419928825
+Czechoslovakia,"Education, legal, community service, arts & media",68,1182,0.16178483438269914
+Czechoslovakia,"Computer, engineering & science",43,861,0.11784834382699151
+Czechoslovakia,Sales,40,780,0.10676156583629894
+Czechoslovakia,Office & administrative support,30,579,0.07924993156309883
+Czechoslovakia,Healthcare practitioners & technical,35,536,0.07336435806186696
+Czechoslovakia,Construction & extraction,22,492,0.06734191075828086
+Czechoslovakia,Transportation & material moving,15,400,0.05474952094169176
+Czechoslovakia,Building & grounds cleaning,8,201,0.02751163427320011
+Czechoslovakia,Protective service,7,193,0.026416643854366276
+Czechoslovakia,"Installation, maintenance & repair",7,187,0.025595401040240898
+Czechoslovakia,Production,9,177,0.024226663016698603
+Czechoslovakia,Personal care & service,9,167,0.02285792499315631
+Czechoslovakia,Food preparation & serving,6,115,0.015740487270736382
+Czechoslovakia,Healthcare support,7,96,0.013139885026006022
+Czechoslovakia,"Farming, fishing & forestry",1,66,0.009033670955379141
+DR Congo,Transportation & material moving,202,6793,0.16635239377984573
+DR Congo,Production,169,5979,0.14641851353006
+DR Congo,"Management, business & financial",101,3625,0.08877188686176074
+DR Congo,Office & administrative support,99,3104,0.07601322395004285
+DR Congo,"Education, legal, community service, arts & media",105,3086,0.075572425615281
+DR Congo,Healthcare support,104,3034,0.07429900820374678
+DR Congo,Healthcare practitioners & technical,63,2503,0.06129545732827232
+DR Congo,Food preparation & serving,45,2098,0.05137749479613077
+DR Congo,"Computer, engineering & science",61,2084,0.05103465164687156
+DR Congo,Sales,63,1990,0.04873270478755969
+DR Congo,Food processing,40,1859,0.045524672462348474
+DR Congo,Building & grounds cleaning,50,1148,0.028113138239255542
+DR Congo,Personal care & service,28,755,0.018489041263621893
+DR Congo,Construction & extraction,17,723,0.017705399779600832
+DR Congo,"Farming, fishing & forestry",6,703,0.01721562385208767
+DR Congo,"Installation, maintenance & repair",14,654,0.01601567282968042
+DR Congo,Protective service,20,601,0.01471776662177054
+DR Congo,Military,6,96,0.002350924452063181
+Denmark,"Management, business & financial",264,5136,0.40623269793561656
+Denmark,"Education, legal, community service, arts & media",90,2080,0.16451791505180732
+Denmark,"Computer, engineering & science",87,1520,0.12022463023016688
+Denmark,Sales,65,1162,0.0919085660049039
+Denmark,Office & administrative support,37,646,0.05109546784782093
+Denmark,Healthcare practitioners & technical,31,619,0.048959898758206125
+Denmark,Transportation & material moving,22,391,0.03092620422368109
+Denmark,Food preparation & serving,16,333,0.026338685438582615
+Denmark,Healthcare support,6,144,0.011389701811278968
+Denmark,Personal care & service,10,143,0.011310606659811753
+Denmark,Production,11,142,0.011231511508344538
+Denmark,"Installation, maintenance & repair",7,108,0.008542276358459227
+Denmark,Construction & extraction,7,83,0.00656489757177885
+Denmark,Building & grounds cleaning,3,80,0.006327612117377205
+Denmark,Food processing,4,40,0.0031638060586886025
+Denmark,"Farming, fishing & forestry",2,16,0.001265522423475441
+Dominica,"Management, business & financial",91,2730,0.1385083713850837
+Dominica,Transportation & material moving,60,2598,0.13181126331811263
+Dominica,Healthcare support,48,1790,0.09081684424150177
+Dominica,Healthcare practitioners & technical,49,1783,0.09046169457128361
+Dominica,"Education, legal, community service, arts & media",59,1672,0.08483003551496703
+Dominica,Office & administrative support,56,1623,0.08234398782343988
+Dominica,Sales,36,1324,0.0671740233384069
+Dominica,Production,30,994,0.0504312531709792
+Dominica,Building & grounds cleaning,24,978,0.04961948249619483
+Dominica,Food preparation & serving,26,975,0.04946727549467275
+Dominica,"Computer, engineering & science",34,887,0.0450025367833587
+Dominica,Construction & extraction,23,693,0.03515981735159817
+Dominica,Personal care & service,14,437,0.0221714865550482
+Dominica,Food processing,7,370,0.018772196854388634
+Dominica,Protective service,13,369,0.01872146118721461
+Dominica,"Installation, maintenance & repair",8,308,0.01562658548959919
+Dominica,Military,5,179,0.009081684424150178
+Dominican Republic,Transportation & material moving,3292,114984,0.1601205388039977
+Dominican Republic,Healthcare support,2152,70760,0.09853657313861823
+Dominican Republic,Office & administrative support,2303,68826,0.0958433886777634
+Dominican Republic,"Management, business & financial",2297,65602,0.09135381954550076
+Dominican Republic,Building & grounds cleaning,1761,57487,0.08005330667071434
+Dominican Republic,Sales,1729,54093,0.07532700467477778
+Dominican Republic,Production,1606,51656,0.07193336944669959
+Dominican Republic,"Education, legal, community service, arts & media",1677,44706,0.06225517296120784
+Dominican Republic,Food preparation & serving,1192,37453,0.05215503495987378
+Dominican Republic,Construction & extraction,1043,34887,0.048581761264654806
+Dominican Republic,Personal care & service,943,30693,0.04274142226319403
+Dominican Republic,"Installation, maintenance & repair",710,24254,0.033774816914980875
+Dominican Republic,"Computer, engineering & science",749,21275,0.02962642161566002
+Dominican Republic,Healthcare practitioners & technical,682,18454,0.0256980486249302
+Dominican Republic,Protective service,407,12777,0.017792563524478874
+Dominican Republic,Food processing,211,6962,0.009694907040574621
+Dominican Republic,"Farming, fishing & forestry",55,1680,0.002339477711600885
+Dominican Republic,Military,51,1560,0.0021723721607722507
+Ecuador,Construction & extraction,1563,54376,0.16102819237147595
+Ecuador,"Management, business & financial",1407,36907,0.10929578298981284
+Ecuador,Transportation & material moving,1185,35802,0.10602345415778251
+Ecuador,Building & grounds cleaning,997,32579,0.0964789149490642
+Ecuador,Office & administrative support,1091,29052,0.08603411513859276
+Ecuador,Food preparation & serving,729,23829,0.07056680881307748
+Ecuador,Sales,834,23486,0.06955105425254679
+Ecuador,Production,705,21218,0.06283463634209903
+Ecuador,"Education, legal, community service, arts & media",841,19351,0.05730573323856906
+Ecuador,Healthcare support,456,12828,0.03798862828713575
+Ecuador,"Computer, engineering & science",488,12287,0.03638651978204217
+Ecuador,Personal care & service,379,10435,0.030902037431888178
+Ecuador,"Installation, maintenance & repair",319,10228,0.03028903103529969
+Ecuador,Healthcare practitioners & technical,318,8106,0.02400497512437811
+Ecuador,Protective service,118,3335,0.009876214167258944
+Ecuador,Food processing,80,2053,0.006079720445392087
+Ecuador,"Farming, fishing & forestry",35,1009,0.00298803601042407
+Ecuador,Military,34,799,0.0023661454631603886
+Egypt,"Management, business & financial",946,22532,0.17690193923215827
+Egypt,"Education, legal, community service, arts & media",761,18006,0.14136766899583889
+Egypt,Healthcare practitioners & technical,655,16005,0.1256575331710764
+Egypt,"Computer, engineering & science",594,14253,0.11190233178927533
+Egypt,Sales,501,13628,0.10699536782601869
+Egypt,Transportation & material moving,393,10825,0.08498861584360524
+Egypt,Office & administrative support,325,7457,0.058545968438407786
+Egypt,Food preparation & serving,230,7317,0.0574468085106383
+Egypt,Production,128,3364,0.026411242835832613
+Egypt,Healthcare support,107,2631,0.02065635549972521
+Egypt,"Installation, maintenance & repair",91,2625,0.020609248645677945
+Egypt,Protective service,82,2348,0.018434482217162595
+Egypt,Construction & extraction,81,2109,0.016558059197613252
+Egypt,Building & grounds cleaning,56,2080,0.016330376069718145
+Egypt,Personal care & service,73,1616,0.012687446023396404
+Egypt,Food processing,17,352,0.0027636021041061473
+Egypt,Military,6,222,0.0017429535997487634
+El Salvador,Construction & extraction,4953,165170,0.17129357397607053
+El Salvador,Building & grounds cleaning,4823,150697,0.15628399659424777
+El Salvador,Transportation & material moving,3884,115710,0.1199998755510754
+El Salvador,Food preparation & serving,3014,93300,0.09675903888095527
+El Salvador,Production,2463,70469,0.07308159390034337
+El Salvador,"Management, business & financial",2482,68914,0.07146894325232746
+El Salvador,Office & administrative support,2252,57900,0.060046606122264846
+El Salvador,Sales,1876,50035,0.051890016188730945
+El Salvador,"Installation, maintenance & repair",1333,39611,0.04107955293797984
+El Salvador,"Education, legal, community service, arts & media",1492,36041,0.037377197430959366
+El Salvador,Healthcare support,1175,29906,0.031014746160491408
+El Salvador,Personal care & service,827,21330,0.02212079634866855
+El Salvador,"Computer, engineering & science",688,17140,0.017775454731185136
+El Salvador,Healthcare practitioners & technical,634,15804,0.016389923370574672
+El Salvador,Food processing,379,12918,0.01339692673380686
+El Salvador,"Farming, fishing & forestry",410,11018,0.011426485427549466
+El Salvador,Protective service,284,7240,0.0075084184512123914
+El Salvador,Military,43,1048,0.0010868539415567109
+Eritrea,Transportation & material moving,208,6973,0.22988922590003957
+Eritrea,"Management, business & financial",102,2850,0.09396017407358566
+Eritrea,Office & administrative support,94,2679,0.08832256362917051
+Eritrea,"Computer, engineering & science",82,2672,0.08809178425425293
+Eritrea,Healthcare practitioners & technical,82,2308,0.07609125675853884
+Eritrea,Sales,75,1964,0.06475009890544639
+Eritrea,Healthcare support,64,1950,0.06428854015561124
+Eritrea,Food preparation & serving,43,1443,0.047573519715152314
+Eritrea,Building & grounds cleaning,47,1372,0.04523275748384544
+Eritrea,Production,39,1354,0.04463932480548596
+Eritrea,"Education, legal, community service, arts & media",49,1273,0.041968877752868256
+Eritrea,"Installation, maintenance & repair",22,1013,0.03339707239878676
+Eritrea,Personal care & service,25,726,0.023935118027166028
+Eritrea,Food processing,11,666,0.021957009099301067
+Eritrea,Protective service,20,593,0.019550309903732032
+Eritrea,Construction & extraction,9,257,0.00847289990768825
+Eritrea,"Farming, fishing & forestry",2,239,0.007879467229328762
+Ethiopia,Transportation & material moving,1008,37286,0.2016734908022912
+Ethiopia,"Management, business & financial",623,18720,0.10125322501257553
+Ethiopia,"Computer, engineering & science",524,16523,0.0893700340215163
+Ethiopia,Healthcare support,506,16117,0.08717405061579485
+Ethiopia,Healthcare practitioners & technical,510,15478,0.08371781072353868
+Ethiopia,Office & administrative support,461,15312,0.0828199455872092
+Ethiopia,Sales,484,15282,0.08265768080353521
+Ethiopia,"Education, legal, community service, arts & media",355,10695,0.057847395379780724
+Ethiopia,Food preparation & serving,267,8514,0.04605074560668098
+Ethiopia,Production,223,8189,0.04429287711687933
+Ethiopia,Building & grounds cleaning,223,7572,0.040955631399317405
+Ethiopia,Personal care & service,149,4021,0.021748889838438364
+Ethiopia,Protective service,121,3837,0.0207536658319045
+Ethiopia,"Installation, maintenance & repair",113,3424,0.018519820643325777
+Ethiopia,Construction & extraction,56,1848,0.009995510674318352
+Ethiopia,Food processing,32,1419,0.007675124267780164
+Ethiopia,Military,19,404,0.002185165753476523
+Ethiopia,"Farming, fishing & forestry",8,242,0.0013089359216369272
+Fiji,"Management, business & financial",186,4347,0.165960371091513
+Fiji,Healthcare support,127,2714,0.10361546978200283
+Fiji,Office & administrative support,137,2599,0.09922498377429084
+Fiji,Healthcare practitioners & technical,95,2334,0.08910777688695452
+Fiji,"Computer, engineering & science",80,2171,0.08288474019776276
+Fiji,Transportation & material moving,102,2028,0.0774252662925209
+Fiji,Sales,82,1939,0.0740274119039438
+Fiji,Production,84,1931,0.07372198679036383
+Fiji,"Education, legal, community service, arts & media",80,1573,0.06005421295766045
+Fiji,Building & grounds cleaning,53,1125,0.04295040659718245
+Fiji,"Installation, maintenance & repair",47,1109,0.04233955637002253
+Fiji,Food preparation & serving,50,883,0.033711296911388536
+Fiji,Protective service,19,604,0.023059596075287292
+Fiji,Personal care & service,24,382,0.014584049173443286
+Fiji,Construction & extraction,17,321,0.01225518268239606
+Fiji,Food processing,7,103,0.0039323483373420376
+Fiji,"Farming, fishing & forestry",1,17,6.490283663574237e-4
+Fiji,Military,1,13,4.963158095674417e-4
+Finland,"Management, business & financial",156,3253,0.33197265027043577
+Finland,"Education, legal, community service, arts & media",78,1480,0.1510358199816308
+Finland,"Computer, engineering & science",71,1334,0.13613634044290235
+Finland,Office & administrative support,32,666,0.06796611899173385
+Finland,Healthcare practitioners & technical,38,663,0.06765996530258189
+Finland,Sales,37,623,0.06357791611388917
+Finland,Transportation & material moving,16,419,0.04275946525155628
+Finland,Personal care & service,19,352,0.035922032860495966
+Finland,Production,14,270,0.027553832023675884
+Finland,"Installation, maintenance & repair",10,202,0.020614348402898254
+Finland,Healthcare support,10,159,0.016226145525053578
+Finland,Food preparation & serving,10,145,0.014797428309011124
+Finland,Construction & extraction,8,80,0.008164098377385447
+Finland,Building & grounds cleaning,4,54,0.005510766404735177
+Finland,Protective service,3,47,0.004796407796713951
+Finland,Food processing,1,31,0.003163588121236861
+Finland,Military,1,21,0.00214307582406368
+France,"Management, business & financial",1821,37333,0.32818200198669095
+France,"Education, legal, community service, arts & media",991,20071,0.17643749395641586
+France,"Computer, engineering & science",930,19680,0.17300034283604526
+France,Sales,448,9431,0.08290478827676538
+France,Office & administrative support,300,5695,0.0500628532749633
+France,Healthcare practitioners & technical,195,4122,0.03623513278303753
+France,Food preparation & serving,179,3481,0.030600314705908207
+France,Personal care & service,156,3312,0.029114691843139324
+France,Transportation & material moving,128,3288,0.028903715815290488
+France,Production,74,1686,0.014821065956380707
+France,Construction & extraction,55,1314,0.011550937524723753
+France,Healthcare support,57,1039,0.009133503872289178
+France,Building & grounds cleaning,39,989,0.008693970480937436
+France,"Installation, maintenance & repair",39,779,0.006847930237260125
+France,Protective service,32,702,0.006171048814578444
+France,Food processing,28,575,0.005054634000545021
+France,Military,9,167,0.001468041527114815
+France,"Farming, fishing & forestry",7,93,8.175321079142382e-4
+Gambia,Healthcare support,71,3144,0.2074973600844773
+Gambia,"Management, business & financial",57,1746,0.11523231256599789
+Gambia,Healthcare practitioners & technical,43,1510,0.09965681098204858
+Gambia,Office & administrative support,35,1345,0.08876715945089757
+Gambia,Transportation & material moving,35,1267,0.08361932418162618
+Gambia,"Education, legal, community service, arts & media",29,1056,0.06969376979936642
+Gambia,Production,18,980,0.0646779303062302
+Gambia,"Computer, engineering & science",27,894,0.05900211193241816
+Gambia,Sales,30,834,0.05504223864836325
+Gambia,Food preparation & serving,22,713,0.04705649419218585
+Gambia,Building & grounds cleaning,12,421,0.027785110876451954
+Gambia,Protective service,10,364,0.02402323125659979
+Gambia,Construction & extraction,6,343,0.02263727560718057
+Gambia,Personal care & service,8,262,0.01729144667370644
+Gambia,"Installation, maintenance & repair",5,154,0.010163674762407603
+Gambia,"Farming, fishing & forestry",1,63,0.004157866948257656
+Gambia,Food processing,3,42,0.0027719112988384372
+Gambia,Military,1,14,9.239704329461457e-4
+Georgia,"Management, business & financial",137,3529,0.16860965121834687
+Georgia,Transportation & material moving,93,2599,0.12417582417582418
+Georgia,"Education, legal, community service, arts & media",120,2498,0.11935021500238892
+Georgia,Healthcare support,91,2301,0.10993788819875776
+Georgia,"Computer, engineering & science",78,1803,0.08614429049211658
+Georgia,Office & administrative support,69,1595,0.07620640229335882
+Georgia,Healthcare practitioners & technical,67,1544,0.07376970855231725
+Georgia,Sales,55,1451,0.06932632584806497
+Georgia,Construction & extraction,30,1097,0.05241280458671763
+Georgia,Personal care & service,28,608,0.02904921165790731
+Georgia,Production,15,497,0.02374581939799331
+Georgia,Food preparation & serving,15,426,0.020353559483994265
+Georgia,Protective service,10,351,0.016770186335403725
+Georgia,Building & grounds cleaning,13,278,0.013282369804108934
+Georgia,"Installation, maintenance & repair",12,265,0.012661251791686574
+Georgia,"Farming, fishing & forestry",2,41,0.0019589106545628283
+Georgia,Military,3,25,0.0011944577161968467
+Georgia,Food processing,1,22,0.001051122790253225
+Germany,"Management, business & financial",2907,57692,0.24080172633283664
+Germany,"Education, legal, community service, arts & media",1814,35277,0.1472433352950752
+Germany,"Computer, engineering & science",1507,29878,0.12470834742030945
+Germany,Office & administrative support,1254,25938,0.10826310714867081
+Germany,Sales,1029,21504,0.08975595096480134
+Germany,Healthcare practitioners & technical,723,14778,0.06168217277519691
+Germany,Transportation & material moving,528,11314,0.04722371787647704
+Germany,Healthcare support,286,6226,0.025986818764269583
+Germany,Personal care & service,321,6154,0.025686296607021368
+Germany,Food preparation & serving,294,5870,0.02450090365343117
+Germany,Production,318,5652,0.023590989343985173
+Germany,"Installation, maintenance & repair",237,4590,0.019158287524573946
+Germany,Construction & extraction,215,4410,0.0184069821314534
+Germany,Building & grounds cleaning,244,4260,0.017780894303852945
+Germany,Protective service,189,3736,0.015593760826102018
+Germany,Food processing,36,959,0.004002788177792247
+Germany,Military,36,688,0.002871656169260757
+Germany,"Farming, fishing & forestry",29,657,0.002742264684889996
+Ghana,Healthcare support,716,22043,0.1466922211796336
+Ghana,Healthcare practitioners & technical,690,20504,0.13645045152961063
+Ghana,"Management, business & financial",602,19819,0.13189189908629306
+Ghana,Transportation & material moving,443,15338,0.10207164580380257
+Ghana,"Education, legal, community service, arts & media",465,13226,0.08801666367199718
+Ghana,"Computer, engineering & science",405,12777,0.0850286490047715
+Ghana,Office & administrative support,360,10933,0.07275715892378233
+Ghana,Sales,211,7235,0.048147630550952634
+Ghana,Production,175,5846,0.03890408406369995
+Ghana,Protective service,150,5814,0.038691129788975626
+Ghana,Building & grounds cleaning,150,4541,0.030219542547598607
+Ghana,Food preparation & serving,116,3489,0.023218670766036457
+Ghana,Personal care & service,102,2769,0.018427199584739165
+Ghana,"Installation, maintenance & repair",90,2767,0.018413889942568894
+Ghana,Construction & extraction,51,1769,0.011772378499604039
+Ghana,Military,32,911,0.0060625420085581
+Ghana,Food processing,14,396,0.00263530914971351
+Ghana,"Farming, fishing & forestry",2,90,5.989338976621614e-4
+Greece,"Management, business & financial",512,10608,0.2150066885564879
+Greece,"Education, legal, community service, arts & media",340,6990,0.14167578742551382
+Greece,"Computer, engineering & science",270,5257,0.10655073168754307
+Greece,Sales,213,4756,0.09639628683773156
+Greece,Food preparation & serving,168,3835,0.07772913373059305
+Greece,Office & administrative support,177,3499,0.07091896712473145
+Greece,Healthcare practitioners & technical,132,2979,0.06037942356804086
+Greece,Transportation & material moving,100,2498,0.05063034577810207
+Greece,Construction & extraction,89,2353,0.04769143459402489
+Greece,Healthcare support,54,1421,0.028801329603956382
+Greece,Production,58,1178,0.0238761198265029
+Greece,Building & grounds cleaning,34,1055,0.021383112408285703
+Greece,"Installation, maintenance & repair",49,1045,0.021180428878349346
+Greece,Personal care & service,45,969,0.01964003405083303
+Greece,Protective service,28,612,0.012404232032105071
+Greece,Food processing,11,195,0.003952328833758969
+Greece,Military,4,63,0.0012769062385990515
+Greece,"Farming, fishing & forestry",1,25,5.067088248408934e-4
+Grenada,"Management, business & financial",88,2616,0.14335032056551045
+Grenada,Healthcare support,72,2485,0.13617184503260452
+Grenada,Healthcare practitioners & technical,75,2245,0.12302043947613568
+Grenada,"Education, legal, community service, arts & media",64,1968,0.10784152556304455
+Grenada,Transportation & material moving,47,1346,0.07375746616252946
+Grenada,Office & administrative support,50,1287,0.0705244122965642
+Grenada,Construction & extraction,36,1138,0.06235958134692312
+Grenada,Sales,27,1030,0.056441448846512136
+Grenada,Personal care & service,27,938,0.05140007671653241
+Grenada,Building & grounds cleaning,29,754,0.041317332456572965
+Grenada,"Computer, engineering & science",27,704,0.038577456298975285
+Grenada,Food preparation & serving,13,522,0.028604307085319743
+Grenada,"Installation, maintenance & repair",16,501,0.027453559099128718
+Grenada,Production,13,412,0.022576579538604855
+Grenada,Protective service,9,231,0.012658227848101266
+Grenada,"Farming, fishing & forestry",1,72,0.003945421666940654
+Guatemala,Construction & extraction,5012,173684,0.23054306720876488
+Guatemala,Building & grounds cleaning,3879,126730,0.16821769942750497
+Guatemala,Food preparation & serving,2385,78327,0.10396897138055854
+Guatemala,Transportation & material moving,2481,71517,0.09492957634306694
+Guatemala,Production,1799,53681,0.07125459104369837
+Guatemala,"Management, business & financial",1652,45016,0.059752923202308565
+Guatemala,Office & administrative support,1374,35629,0.04729289365503492
+Guatemala,Sales,1285,35612,0.04727032835171078
+Guatemala,"Installation, maintenance & repair",839,25216,0.033470981683610554
+Guatemala,"Education, legal, community service, arts & media",990,23460,0.031140118587305823
+Guatemala,"Farming, fishing & forestry",605,18859,0.025032885611167968
+Guatemala,Healthcare support,603,14783,0.01962252229651074
+Guatemala,Personal care & service,540,13960,0.01853009614146587
+Guatemala,Food processing,345,11841,0.015717397450651673
+Guatemala,"Computer, engineering & science",424,10880,0.014441794127446178
+Guatemala,Healthcare practitioners & technical,362,8365,0.011103456606258022
+Guatemala,Protective service,179,4997,0.006632871806511816
+Guatemala,Military,41,812,0.001077825076423373
+Guinea,Transportation & material moving,76,3106,0.20419433304845178
+Guinea,Healthcare support,66,2505,0.1646834527644468
+Guinea,"Management, business & financial",51,1827,0.12011044638748274
+Guinea,Office & administrative support,44,1236,0.08125698507658931
+Guinea,Production,22,1143,0.07514298862665177
+Guinea,Sales,25,959,0.06304647952139898
+Guinea,"Education, legal, community service, arts & media",21,810,0.05325093682203669
+Guinea,Healthcare practitioners & technical,24,806,0.05298796923279206
+Guinea,Personal care & service,18,568,0.03734139767273684
+Guinea,Building & grounds cleaning,15,522,0.03431727039642364
+Guinea,"Computer, engineering & science",19,498,0.032739464860955886
+Guinea,Protective service,14,420,0.02761159687068569
+Guinea,Food preparation & serving,12,365,0.023995792518572086
+Guinea,Military,6,164,0.01078167115902965
+Guinea,Construction & extraction,3,148,0.009729800802051148
+Guinea,"Installation, maintenance & repair",7,134,0.008809414239694958
+Guyana,"Management, business & financial",1048,24522,0.14675923155185827
+Guyana,Office & administrative support,843,20608,0.12333472978634269
+Guyana,Healthcare support,734,18170,0.10874379077144054
+Guyana,"Education, legal, community service, arts & media",585,14706,0.08801244838111198
+Guyana,Transportation & material moving,506,13848,0.08287749117242205
+Guyana,Sales,497,12332,0.07380453647734754
+Guyana,Healthcare practitioners & technical,495,11591,0.06936980070620624
+Guyana,"Computer, engineering & science",358,8797,0.052648273385600575
+Guyana,"Installation, maintenance & repair",301,7593,0.0454425758573224
+Guyana,Production,290,7099,0.0424860853432282
+Guyana,Construction & extraction,263,6611,0.03956550362080316
+Guyana,Building & grounds cleaning,252,6462,0.03867376862768568
+Guyana,Protective service,206,4815,0.028816805314501166
+Guyana,Food preparation & serving,166,4382,0.026225387515710095
+Guyana,Personal care & service,177,4284,0.02563887725178048
+Guyana,Military,23,595,0.0035609551738583997
+Guyana,Food processing,17,434,0.0025974025974025974
+Guyana,"Farming, fishing & forestry",10,241,0.00144233646537794
+Haiti,Transportation & material moving,1826,65331,0.14105675434088877
+Haiti,Healthcare support,1835,60639,0.13092621460680465
+Haiti,Healthcare practitioners & technical,1459,46174,0.09969470197817573
+Haiti,"Management, business & financial",1191,37643,0.0812753425426532
+Haiti,Office & administrative support,1154,37547,0.08106806807239061
+Haiti,Food preparation & serving,889,34013,0.07343777663584898
+Haiti,Building & grounds cleaning,886,32326,0.069795359642797
+Haiti,Sales,900,30949,0.06682226645996796
+Haiti,"Education, legal, community service, arts & media",1028,28731,0.06203336255327602
+Haiti,Production,580,20829,0.044972082719786505
+Haiti,Protective service,496,16916,0.036523488947520694
+Haiti,"Computer, engineering & science",475,13578,0.029316382887765193
+Haiti,Construction & extraction,372,13224,0.02855205827867189
+Haiti,"Installation, maintenance & repair",284,9802,0.02116358705743662
+Haiti,Personal care & service,236,8296,0.017911968805192226
+Haiti,Food processing,122,4571,0.009869287537190654
+Haiti,"Farming, fishing & forestry",46,1532,0.0033077550879405124
+Haiti,Military,60,1053,0.002273541845692793
+Honduras,Construction & extraction,3851,146446,0.29634141405965436
+Honduras,Building & grounds cleaning,2109,73547,0.14882633858108382
+Honduras,Transportation & material moving,1356,42688,0.08638148043223116
+Honduras,Food preparation & serving,1125,37327,0.07553320652393865
+Honduras,Production,1047,34697,0.07021125905540491
+Honduras,"Management, business & financial",1093,30512,0.06174268485167348
+Honduras,Office & administrative support,958,25808,0.05222388603342912
+Honduras,Sales,779,23327,0.04720344813630661
+Honduras,"Installation, maintenance & repair",550,18292,0.037014852887611804
+Honduras,"Education, legal, community service, arts & media",562,15028,0.030409972074952447
+Honduras,Healthcare support,385,10488,0.021223036140677484
+Honduras,Personal care & service,337,9221,0.018659193006596787
+Honduras,"Computer, engineering & science",327,8759,0.017724310979804928
+Honduras,Healthcare practitioners & technical,231,5895,0.011928851835363633
+Honduras,"Farming, fishing & forestry",186,5144,0.010409162653284228
+Honduras,Food processing,101,3333,0.00674450605042697
+Honduras,Protective service,85,3018,0.006107086486705249
+Honduras,Military,24,650,0.0013153102108543445
+Hong Kong,"Management, business & financial",2202,40109,0.27624610001859595
+Hong Kong,"Computer, engineering & science",1482,25898,0.17836948062234406
+Hong Kong,Office & administrative support,923,15816,0.10893087132299767
+Hong Kong,"Education, legal, community service, arts & media",842,14502,0.09988084825026
+Hong Kong,Sales,561,10768,0.07416335498267823
+Hong Kong,Healthcare practitioners & technical,626,10492,0.07226243689434064
+Hong Kong,Food preparation & serving,306,6079,0.04186840963407327
+Hong Kong,Transportation & material moving,301,5071,0.034925926181014234
+Hong Kong,Healthcare support,206,3794,0.026130736330263856
+Hong Kong,Production,190,3776,0.02600676341145923
+Hong Kong,Personal care & service,145,2341,0.016123366828979357
+Hong Kong,"Installation, maintenance & repair",106,1871,0.012886296171303024
+Hong Kong,Building & grounds cleaning,101,1853,0.012762323252498398
+Hong Kong,Protective service,73,1088,0.007493474203301812
+Hong Kong,Construction & extraction,62,1065,0.007335064362607013
+Hong Kong,Food processing,21,464,0.003195746351408126
+Hong Kong,Military,5,106,7.300627440716839e-4
+Hong Kong,"Farming, fishing & forestry",7,100,6.887384378034754e-4
+Hungary,"Management, business & financial",289,5720,0.1947565543071161
+Hungary,"Education, legal, community service, arts & media",223,4488,0.15280898876404495
+Hungary,"Computer, engineering & science",183,3565,0.12138236295539666
+Hungary,Office & administrative support,125,2500,0.08512087163772557
+Hungary,Sales,103,2464,0.08389513108614233
+Hungary,Healthcare practitioners & technical,91,1886,0.06421518556350017
+Hungary,Transportation & material moving,69,1493,0.05083418454204971
+Hungary,Personal care & service,61,1317,0.04484167517875383
+Hungary,Construction & extraction,54,1217,0.04143684031324481
+Hungary,Production,45,1046,0.03561457269322438
+Hungary,Healthcare support,36,1044,0.0355464759959142
+Hungary,Building & grounds cleaning,51,994,0.03384405856315969
+Hungary,"Installation, maintenance & repair",40,739,0.02516172965611168
+Hungary,Food preparation & serving,38,625,0.021280217909431392
+Hungary,Protective service,12,267,0.00909090909090909
+Hungary,Military,1,5,1.7024174327545113e-4
+Iceland,"Management, business & financial",34,1083,0.31657410114001755
+Iceland,"Education, legal, community service, arts & media",25,665,0.19438760596316867
+Iceland,"Computer, engineering & science",26,517,0.15112540192926044
+Iceland,Office & administrative support,8,256,0.07483192049108447
+Iceland,Sales,12,233,0.06810874013446361
+Iceland,Food preparation & serving,2,156,0.0456007015492546
+Iceland,Healthcare practitioners & technical,8,130,0.03800058462437884
+Iceland,Personal care & service,6,112,0.03273896521484946
+Iceland,Transportation & material moving,5,76,0.022215726395790704
+Iceland,Production,3,66,0.01929260450160772
+Iceland,"Installation, maintenance & repair",3,47,0.01373867290266004
+Iceland,Healthcare support,3,44,0.012861736334405145
+Iceland,Military,1,24,0.0070154925460391695
+Iceland,Protective service,1,12,0.0035077462730195848
+India,"Computer, engineering & science",31750,771962,0.3991677047089112
+India,"Management, business & financial",20334,450044,0.23270968065528777
+India,Healthcare practitioners & technical,7488,163159,0.08436659256880681
+India,"Education, legal, community service, arts & media",6841,137174,0.07093021512165132
+India,Sales,4864,109600,0.05667219427393663
+India,Office & administrative support,3770,81173,0.04197310242516659
+India,Transportation & material moving,2624,65833,0.034041063555073636
+India,Production,1801,40266,0.020820826410897195
+India,Food preparation & serving,1344,31409,0.016241030565237916
+India,Healthcare support,1180,24333,0.01258215787653011
+India,Personal care & service,903,19502,0.010084134422721826
+India,"Installation, maintenance & repair",446,10193,0.005270617483889016
+India,Building & grounds cleaning,417,9046,0.004677524355857945
+India,Protective service,330,8217,0.004248863324351618
+India,Construction & extraction,265,6963,0.003600442415414423
+India,Food processing,116,2689,0.0013904336715567117
+India,"Farming, fishing & forestry",74,1323,6.840995713906767e-4
+India,Military,54,1043,5.393165933185758e-4
+Indonesia,"Management, business & financial",637,12719,0.20916311730171522
+Indonesia,"Computer, engineering & science",446,8719,0.14338338074956009
+Indonesia,Office & administrative support,301,6489,0.10671117762173363
+Indonesia,"Education, legal, community service, arts & media",315,6153,0.10118567975135259
+Indonesia,Food preparation & serving,241,5194,0.0854149879129734
+Indonesia,Sales,223,4828,0.07939614201845122
+Indonesia,Healthcare practitioners & technical,195,4018,0.06607574536663981
+Indonesia,Transportation & material moving,162,3269,0.053758489697248765
+Indonesia,Production,112,2500,0.041112335345096944
+Indonesia,Healthcare support,101,1792,0.02946932197536549
+Indonesia,Personal care & service,74,1779,0.029255537831570984
+Indonesia,Building & grounds cleaning,55,1433,0.02356559061980957
+Indonesia,Protective service,30,759,0.012481705010771432
+Indonesia,"Installation, maintenance & repair",35,520,0.008551365751780164
+Indonesia,Construction & extraction,16,365,0.006002400960384154
+Indonesia,Food processing,13,201,0.003305431761745794
+Indonesia,Military,3,63,0.001036030850696443
+Indonesia,"Farming, fishing & forestry",1,8,1.315594731043102e-4
+Iran,"Management, business & financial",2243,48624,0.1984037604661411
+Iran,"Computer, engineering & science",1992,42195,0.1721710816236596
+Iran,"Education, legal, community service, arts & media",1703,36358,0.1483539799898807
+Iran,Sales,1133,26151,0.10670567497429369
+Iran,Healthcare practitioners & technical,1202,25706,0.10488991170086014
+Iran,Office & administrative support,695,15896,0.06486151234719026
+Iran,Transportation & material moving,460,11096,0.045275751195547505
+Iran,Healthcare support,354,8574,0.03498506585712187
+Iran,Personal care & service,257,6204,0.02531459628849826
+Iran,Food preparation & serving,206,5434,0.022172713770422237
+Iran,Production,224,5237,0.021368881489823566
+Iran,Construction & extraction,192,4914,0.02005092297899427
+Iran,"Installation, maintenance & repair",171,4557,0.018594231993340843
+Iran,Protective service,69,1667,0.006801971633289265
+Iran,Building & grounds cleaning,49,1157,0.0047209845109272225
+Iran,Food processing,27,877,0.003578481777081395
+Iran,"Farming, fishing & forestry",8,369,0.001505655388532537
+Iran,Military,4,60,2.4482201439553447e-4
+Iraq,Transportation & material moving,526,16822,0.1413708484604007
+Iraq,Sales,561,14367,0.12073920935861235
+Iraq,"Management, business & financial",514,13214,0.11104948231813903
+Iraq,"Computer, engineering & science",448,10956,0.09207341670028237
+Iraq,"Education, legal, community service, arts & media",430,10321,0.08673692349065483
+Iraq,Office & administrative support,311,8644,0.0726435390614495
+Iraq,Healthcare practitioners & technical,332,8602,0.0722905741562458
+Iraq,Healthcare support,236,7391,0.06211341938953879
+Iraq,Production,188,5974,0.05020505580207073
+Iraq,Food preparation & serving,147,4978,0.041834745192954145
+Iraq,"Installation, maintenance & repair",156,4714,0.039616108645959394
+Iraq,Construction & extraction,101,3602,0.03027094258437542
+Iraq,Personal care & service,115,3151,0.026480771816592714
+Iraq,Building & grounds cleaning,84,2690,0.022606561785666262
+Iraq,Protective service,78,2471,0.02076610192281834
+Iraq,Food processing,25,774,0.006504638967325535
+Iraq,"Farming, fishing & forestry",3,175,0.0014706871050154632
+Iraq,Military,11,146,0.001226973241898615
+Ireland,"Management, business & financial",987,20949,0.3183738601823708
+Ireland,"Education, legal, community service, arts & media",412,8532,0.12966565349544074
+Ireland,"Computer, engineering & science",297,5957,0.09053191489361702
+Ireland,Construction & extraction,245,5743,0.08727963525835866
+Ireland,Sales,223,5453,0.08287234042553192
+Ireland,Office & administrative support,224,5085,0.07727963525835867
+Ireland,Healthcare practitioners & technical,189,3464,0.052644376899696047
+Ireland,Transportation & material moving,99,2084,0.031671732522796356
+Ireland,Food preparation & serving,84,1912,0.02905775075987842
+Ireland,Personal care & service,60,1378,0.020942249240121582
+Ireland,"Installation, maintenance & repair",55,1129,0.0171580547112462
+Ireland,Building & grounds cleaning,53,1097,0.016671732522796353
+Ireland,Production,57,1048,0.01592705167173252
+Ireland,Healthcare support,43,917,0.013936170212765957
+Ireland,Protective service,44,862,0.01310030395136778
+Ireland,"Farming, fishing & forestry",6,117,0.0017781155015197567
+Ireland,Military,3,38,5.775075987841945e-4
+Ireland,Food processing,2,35,5.319148936170213e-4
+Israel/Palestine,"Management, business & financial",1098,25028,0.291705031527174
+Israel/Palestine,"Education, legal, community service, arts & media",718,15236,0.1775778272474038
+Israel/Palestine,"Computer, engineering & science",523,11319,0.13192461450599657
+Israel/Palestine,Sales,398,9531,0.11108521078334246
+Israel/Palestine,Office & administrative support,268,5888,0.0686255084558095
+Israel/Palestine,Healthcare practitioners & technical,221,4247,0.04949941141505146
+Israel/Palestine,Transportation & material moving,117,2738,0.03191179384375109
+Israel/Palestine,"Installation, maintenance & repair",85,2313,0.02695835615799718
+Israel/Palestine,Food preparation & serving,75,1849,0.021550367719903495
+Israel/Palestine,Personal care & service,70,1835,0.021387195654961014
+Israel/Palestine,Construction & extraction,74,1468,0.01710975652396881
+Israel/Palestine,Production,53,1282,0.014941899089732981
+Israel/Palestine,Healthcare support,47,1119,0.013042110047902657
+Israel/Palestine,Protective service,34,747,0.008706395179430997
+Israel/Palestine,Building & grounds cleaning,29,725,0.008449981934521381
+Israel/Palestine,Food processing,10,324,0.0037762677886688657
+Israel/Palestine,Military,3,80,9.324117996713249e-4
+Israel/Palestine,"Farming, fishing & forestry",2,70,8.158603247124093e-4
+Italy,"Management, business & financial",1510,31106,0.24939867226836857
+Italy,"Education, legal, community service, arts & media",919,17700,0.14191334466502037
+Italy,"Computer, engineering & science",673,13070,0.10479137936563933
+Italy,Office & administrative support,549,11785,0.09448863089702063
+Italy,Sales,559,11217,0.0899345755427985
+Italy,Food preparation & serving,373,8333,0.06681151983579744
+Italy,Construction & extraction,219,5225,0.041892498636990474
+Italy,Transportation & material moving,245,4887,0.039182514993104774
+Italy,Healthcare practitioners & technical,233,4796,0.03845290401205863
+Italy,Personal care & service,202,4154,0.03330553862929348
+Italy,Production,168,3215,0.025776915429267824
+Italy,"Installation, maintenance & repair",135,2740,0.02196850646226869
+Italy,Building & grounds cleaning,131,2702,0.02166383374490876
+Italy,Healthcare support,82,1679,0.013461723485455887
+Italy,Protective service,64,1366,0.010952182418780668
+Italy,Food processing,28,524,0.004201276418331676
+Italy,"Farming, fishing & forestry",8,162,0.0012988679003239152
+Italy,Military,4,63,5.051152945704115e-4
+Jamaica,"Management, business & financial",2442,69239,0.13027264705273633
+Jamaica,Healthcare support,2179,67918,0.12778719569213517
+Jamaica,Office & administrative support,1809,53867,0.10135034704125924
+Jamaica,"Education, legal, community service, arts & media",1833,53403,0.10047733460271349
+Jamaica,Transportation & material moving,1493,49302,0.09276133458013558
+Jamaica,Healthcare practitioners & technical,1666,48629,0.09149509024577934
+Jamaica,Sales,1092,34726,0.06533670245892231
+Jamaica,"Computer, engineering & science",827,23170,0.04359417715755429
+Jamaica,Building & grounds cleaning,658,21811,0.041037229088623936
+Jamaica,Construction & extraction,637,21545,0.04053675213031968
+Jamaica,Food preparation & serving,639,21172,0.03983495549329907
+Jamaica,"Installation, maintenance & repair",534,18242,0.03432218298265452
+Jamaica,Protective service,496,16442,0.03093549679864081
+Jamaica,Production,454,14126,0.026577960575209832
+Jamaica,Personal care & service,411,11740,0.022088719889067212
+Jamaica,Military,97,2375,0.004468544270573648
+Jamaica,"Farming, fishing & forestry",122,1965,0.0036971324175483025
+Jamaica,Food processing,65,1821,0.0034261975228272058
+Japan,"Management, business & financial",2144,44714,0.25612033313858246
+Japan,"Education, legal, community service, arts & media",1501,28839,0.16518885108430423
+Japan,"Computer, engineering & science",1203,24951,0.14291851393614463
+Japan,Office & administrative support,887,16903,0.096819832514234
+Japan,Sales,760,14661,0.08397772966285184
+Japan,Food preparation & serving,502,10603,0.0607336380611976
+Japan,Healthcare practitioners & technical,451,8996,0.05152879449198657
+Japan,Personal care & service,269,5876,0.03365753628667331
+Japan,Transportation & material moving,262,5503,0.031521004456358616
+Japan,Production,180,3599,0.02061495457721873
+Japan,Healthcare support,191,3421,0.019595376384736112
+Japan,Building & grounds cleaning,98,1673,0.009582889415861887
+Japan,"Installation, maintenance & repair",75,1636,0.009370954623042467
+Japan,Construction & extraction,66,1263,0.007234422792727772
+Japan,Food processing,37,699,0.004003849194074991
+Japan,Protective service,40,680,0.0038950178139785315
+Japan,Military,22,365,0.002090708091326712
+Japan,"Farming, fishing & forestry",7,200,0.0011455934746995682
+Jordan,"Management, business & financial",366,9055,0.18681273338697366
+Jordan,Sales,286,7030,0.14503517567205132
+Jordan,Transportation & material moving,174,5827,0.12021621175548267
+Jordan,"Computer, engineering & science",194,4691,0.0967795176497287
+Jordan,Healthcare practitioners & technical,171,4586,0.09461327391636236
+Jordan,"Education, legal, community service, arts & media",202,4546,0.09378803820841328
+Jordan,Office & administrative support,131,3344,0.06898970518454334
+Jordan,"Installation, maintenance & repair",57,1927,0.039755730230447074
+Jordan,Food preparation & serving,59,1698,0.03503125580243857
+Jordan,Healthcare support,52,1607,0.033153844566854405
+Jordan,Production,51,1520,0.03135895690206515
+Jordan,Construction & extraction,39,1013,0.020899094303810525
+Jordan,Building & grounds cleaning,19,518,0.010686802417940624
+Jordan,Protective service,18,480,0.009902828495388996
+Jordan,Personal care & service,24,464,0.009572734212209362
+Jordan,Food processing,5,108,0.002228136411462524
+Jordan,Military,4,57,0.0011759608838274433
+Kazakhstan,"Management, business & financial",220,4531,0.17232723538584413
+Kazakhstan,"Computer, engineering & science",152,3917,0.14897501236070437
+Kazakhstan,"Education, legal, community service, arts & media",155,3058,0.11630471988742251
+Kazakhstan,Sales,86,2037,0.07747309169740996
+Kazakhstan,Office & administrative support,99,1877,0.07138782185372533
+Kazakhstan,Transportation & material moving,83,1819,0.06918191153538965
+Kazakhstan,Healthcare practitioners & technical,74,1579,0.0600540067698627
+Kazakhstan,Healthcare support,61,1474,0.056060548434944665
+Kazakhstan,Construction & extraction,49,1285,0.04887232343209219
+Kazakhstan,Food preparation & serving,58,1087,0.04134180200053246
+Kazakhstan,Personal care & service,46,965,0.03670178374472293
+Kazakhstan,"Installation, maintenance & repair",31,810,0.030806678583653446
+Kazakhstan,Production,39,740,0.028144373027041418
+Kazakhstan,Building & grounds cleaning,27,653,0.0248355075495379
+Kazakhstan,Protective service,21,312,0.01186627619518503
+Kazakhstan,Food processing,3,116,0.0044118206366713575
+Kazakhstan,Military,2,33,0.0012550869052599552
+Kenya,Healthcare practitioners & technical,696,21822,0.18519272875400988
+Kenya,Healthcare support,518,18194,0.15440365259602493
+Kenya,"Management, business & financial",582,17078,0.1449327019366227
+Kenya,"Education, legal, community service, arts & media",391,11226,0.09526961657925556
+Kenya,"Computer, engineering & science",355,10433,0.08853981024152621
+Kenya,Office & administrative support,269,9797,0.08314238674745829
+Kenya,Transportation & material moving,271,9223,0.07827112717891271
+Kenya,Production,128,4511,0.03828266883921449
+Kenya,Sales,153,3903,0.0331228677631244
+Kenya,Food preparation & serving,91,2546,0.021606667006127265
+Kenya,Protective service,70,2233,0.0189503878337322
+Kenya,"Installation, maintenance & repair",52,1441,0.01222906801093063
+Kenya,Personal care & service,52,1439,0.012212094981075072
+Kenya,Building & grounds cleaning,56,1364,0.01157560636149159
+Kenya,Construction & extraction,35,1307,0.011091875010608144
+Kenya,Military,27,794,0.006738292852657128
+Kenya,Food processing,19,380,0.003224875672556308
+Kenya,"Farming, fishing & forestry",7,143,0.0012135716346725054
+Korea,"Management, business & financial",6468,135676,0.22798972268386497
+Korea,"Education, legal, community service, arts & media",4266,83823,0.14085602851299872
+Korea,"Computer, engineering & science",3671,75090,0.12618110997030735
+Korea,Sales,2924,62140,0.10441995170535223
+Korea,Healthcare practitioners & technical,2669,55561,0.09336461114742639
+Korea,Office & administrative support,2228,45497,0.07645308243866127
+Korea,Food preparation & serving,1252,25941,0.043591212861096594
+Korea,Production,1175,25033,0.042065411185067306
+Korea,Transportation & material moving,944,20109,0.0337911298494195
+Korea,Personal care & service,947,18308,0.030764732472185207
+Korea,Healthcare support,860,16473,0.02768120155201589
+Korea,Building & grounds cleaning,365,8145,0.013686844329579884
+Korea,"Installation, maintenance & repair",371,7789,0.01308862252708382
+Korea,Construction & extraction,296,6132,0.010304202508162535
+Korea,Protective service,204,4534,0.007618925990216721
+Korea,Military,102,2223,0.0037355254689571617
+Korea,Food processing,108,2216,0.0037237626807058344
+Korea,"Farming, fishing & forestry",26,407,6.839221168985897e-4
+Kosovo,"Management, business & financial",89,2577,0.20718765074770865
+Kosovo,Transportation & material moving,52,1243,0.09993568097764914
+Kosovo,Production,39,1081,0.08691107895159994
+Kosovo,Construction & extraction,39,1050,0.0844187168355041
+Kosovo,Sales,44,1039,0.08353433027817977
+Kosovo,Food preparation & serving,40,920,0.07396687570348931
+Kosovo,"Education, legal, community service, arts & media",34,848,0.06817816369191189
+Kosovo,Office & administrative support,32,827,0.0664897893552018
+Kosovo,"Computer, engineering & science",31,609,0.048962855764592375
+Kosovo,Healthcare support,18,471,0.03786782440906898
+Kosovo,Building & grounds cleaning,30,466,0.0374658305193761
+Kosovo,Healthcare practitioners & technical,20,414,0.03328509406657019
+Kosovo,Personal care & service,15,328,0.02637079916385271
+Kosovo,"Installation, maintenance & repair",10,287,0.02307444926837112
+Kosovo,Protective service,10,224,0.018009326258240876
+Kosovo,Food processing,2,54,0.004341534008683068
+Kuwait,"Management, business & financial",218,5668,0.25428443248093313
+Kuwait,"Computer, engineering & science",141,3116,0.13979362943023776
+Kuwait,Sales,95,2589,0.1161507402422611
+Kuwait,Healthcare practitioners & technical,98,2340,0.10497981157469717
+Kuwait,Office & administrative support,75,1855,0.08322117541498429
+Kuwait,"Education, legal, community service, arts & media",92,1852,0.08308658591296546
+Kuwait,Transportation & material moving,48,1491,0.06689098250336474
+Kuwait,Healthcare support,19,608,0.027276805742485418
+Kuwait,Production,23,571,0.025616868550919696
+Kuwait,Food preparation & serving,22,565,0.02534768954688201
+Kuwait,"Installation, maintenance & repair",19,477,0.02139973082099596
+Kuwait,Construction & extraction,13,415,0.018618214445939883
+Kuwait,Personal care & service,13,315,0.014131897711978465
+Kuwait,Protective service,9,200,0.008972633467922835
+Kuwait,Building & grounds cleaning,11,159,0.0071332436069986545
+Kuwait,Military,2,69,0.003095558546433378
+Kyrgyzstan,"Computer, engineering & science",68,1520,0.17042269312703218
+Kyrgyzstan,"Management, business & financial",60,1411,0.15820159210673843
+Kyrgyzstan,Transportation & material moving,49,1249,0.14003812086556788
+Kyrgyzstan,"Education, legal, community service, arts & media",40,868,0.09732032739096311
+Kyrgyzstan,Office & administrative support,33,664,0.07444780805022985
+Kyrgyzstan,Sales,21,660,0.07399932727884292
+Kyrgyzstan,Healthcare practitioners & technical,28,575,0.06446911088687073
+Kyrgyzstan,Construction & extraction,15,400,0.044848077138692675
+Kyrgyzstan,Healthcare support,13,324,0.03632694248234107
+Kyrgyzstan,Food preparation & serving,14,298,0.03341181746832605
+Kyrgyzstan,Production,14,263,0.029487610718690434
+Kyrgyzstan,Personal care & service,12,243,0.027245206861755803
+Kyrgyzstan,Protective service,7,157,0.017602870276936876
+Kyrgyzstan,Building & grounds cleaning,8,155,0.017378629891243412
+Kyrgyzstan,"Installation, maintenance & repair",3,68,0.007624173113577755
+Kyrgyzstan,Military,2,64,0.007175692342190829
+Laos,Production,1088,27106,0.27955569765163313
+Laos,"Management, business & financial",502,11519,0.11880034240570951
+Laos,Office & administrative support,358,7644,0.07883582058765895
+Laos,Transportation & material moving,276,6739,0.06950217097595941
+Laos,"Computer, engineering & science",291,6516,0.06720227720423676
+Laos,Sales,229,5426,0.05596064397025608
+Laos,"Education, legal, community service, arts & media",229,5328,0.05494992832169635
+Laos,Food preparation & serving,239,5267,0.054320809397592845
+Laos,Personal care & service,161,3855,0.03975825331834449
+Laos,Healthcare practitioners & technical,151,3634,0.037478986396592445
+Laos,"Installation, maintenance & repair",153,3271,0.03373521312692732
+Laos,Healthcare support,149,3132,0.03230164705397015
+Laos,Building & grounds cleaning,120,2731,0.0281659636348635
+Laos,Construction & extraction,78,1893,0.019523313497179277
+Laos,Food processing,58,1812,0.018687926073369707
+Laos,Protective service,36,748,0.00771444188900692
+Laos,"Farming, fishing & forestry",11,243,0.0025061622714287186
+Laos,Military,4,97,0.0010004022235744268
+Latvia,"Management, business & financial",106,2132,0.20289303387894936
+Latvia,"Computer, engineering & science",87,1651,0.15711838599162542
+Latvia,"Education, legal, community service, arts & media",68,1207,0.11486486486486487
+Latvia,Office & administrative support,47,910,0.08660068519223449
+Latvia,Healthcare practitioners & technical,41,811,0.07717929196802437
+Latvia,Sales,28,556,0.05291206699657404
+Latvia,Personal care & service,19,523,0.049771602588503994
+Latvia,Construction & extraction,22,514,0.048915112295393984
+Latvia,Healthcare support,22,503,0.0478682908260373
+Latvia,Transportation & material moving,24,413,0.03930338789493719
+Latvia,"Installation, maintenance & repair",20,390,0.037114579368100496
+Latvia,Building & grounds cleaning,12,296,0.028169014084507043
+Latvia,Food preparation & serving,13,286,0.027217358203273697
+Latvia,Production,15,204,0.019413779977160258
+Latvia,Protective service,3,65,0.006185763228016749
+Latvia,Military,5,47,0.004472782641796727
+Lebanon,"Management, business & financial",841,19379,0.23800692687480043
+Lebanon,Sales,471,11885,0.14596792021812285
+Lebanon,"Computer, engineering & science",408,8916,0.1095035739726364
+Lebanon,"Education, legal, community service, arts & media",449,8730,0.107219179091646
+Lebanon,Healthcare practitioners & technical,350,7732,0.09496204956891258
+Lebanon,Office & administrative support,242,5534,0.06796688855591855
+Lebanon,Transportation & material moving,151,4112,0.050502321239959715
+Lebanon,Production,111,2556,0.031392007074255115
+Lebanon,Food preparation & serving,99,2489,0.03056913364938223
+Lebanon,Healthcare support,75,2107,0.025877526958315935
+Lebanon,"Installation, maintenance & repair",79,1984,0.024366878730564222
+Lebanon,Construction & extraction,68,1966,0.024145808258210312
+Lebanon,Personal care & service,70,1812,0.022254427550293533
+Lebanon,Protective service,34,914,0.01122546731841517
+Lebanon,Building & grounds cleaning,27,627,0.007700621453661172
+Lebanon,Food processing,22,615,0.007553241138758567
+Lebanon,Military,5,47,5.772395667018742e-4
+Lebanon,"Farming, fishing & forestry",1,17,2.0878877944535874e-4
+Liberia,Healthcare support,356,17270,0.252083667839262
+Liberia,Healthcare practitioners & technical,181,6437,0.09395845801281584
+Liberia,"Management, business & financial",188,6128,0.08944810170926448
+Liberia,Transportation & material moving,153,6125,0.08940431184223971
+Liberia,"Education, legal, community service, arts & media",178,5995,0.08750675093783299
+Liberia,Office & administrative support,122,4762,0.06950911559065233
+Liberia,Production,95,4714,0.06880847771825599
+Liberia,"Computer, engineering & science",97,2957,0.04316221226408209
+Liberia,Sales,82,2628,0.03835992351369893
+Liberia,Building & grounds cleaning,63,2532,0.036958647768906276
+Liberia,Protective service,59,2056,0.03001065553430936
+Liberia,Personal care & service,44,1959,0.028594783167175116
+Liberia,"Installation, maintenance & repair",34,1640,0.023938460640207857
+Liberia,Food preparation & serving,51,1626,0.023734107927425592
+Liberia,Military,16,680,0.009925703192281306
+Liberia,Construction & extraction,11,511,0.00745887401655257
+Liberia,Food processing,8,471,0.006875009122888963
+Liberia,"Farming, fishing & forestry",1,18,2.627392021486228e-4
+Libya,"Computer, engineering & science",47,1248,0.1727096595626903
+Libya,"Management, business & financial",41,1025,0.14184887904788265
+Libya,"Education, legal, community service, arts & media",42,976,0.1350678106836424
+Libya,Healthcare practitioners & technical,27,762,0.10545253252145032
+Libya,Sales,25,687,0.09507334624965402
+Libya,Transportation & material moving,28,641,0.08870744533628563
+Libya,Office & administrative support,28,640,0.08856905618599502
+Libya,Production,8,364,0.050373650705784666
+Libya,Food preparation & serving,7,189,0.026155549404926655
+Libya,"Installation, maintenance & repair",5,178,0.024633268751729866
+Libya,Personal care & service,4,137,0.01895931358981456
+Libya,Protective service,9,131,0.018128978688070854
+Libya,Building & grounds cleaning,4,122,0.0168834763354553
+Libya,Construction & extraction,4,98,0.013562136728480487
+Libya,Healthcare support,1,28,0.0038748962081372822
+Lithuania,"Management, business & financial",209,5419,0.24632937860811854
+Lithuania,"Computer, engineering & science",107,2387,0.10850493204236557
+Lithuania,Office & administrative support,76,2008,0.09127687622164644
+Lithuania,"Education, legal, community service, arts & media",84,1781,0.08095822537388063
+Lithuania,Healthcare practitioners & technical,89,1673,0.07604891131415065
+Lithuania,Transportation & material moving,68,1667,0.07577617164416564
+Lithuania,Sales,56,1229,0.0558661757352607
+Lithuania,Food preparation & serving,29,1050,0.04772944224737488
+Lithuania,Healthcare support,46,943,0.04286558479930906
+Lithuania,Building & grounds cleaning,28,768,0.03491067775807991
+Lithuania,Construction & extraction,34,740,0.03363789263148325
+Lithuania,"Installation, maintenance & repair",25,707,0.03213782444656575
+Lithuania,Production,30,615,0.02795581617346243
+Lithuania,Personal care & service,32,558,0.025364789308604935
+Lithuania,Protective service,11,328,0.01490976862584663
+Lithuania,Food processing,2,67,0.003045592981499159
+Lithuania,"Farming, fishing & forestry",2,43,0.001954634301559162
+Lithuania,Military,1,16,7.273057866266649e-4
+Malaysia,"Management, business & financial",564,11527,0.24838925162152262
+Malaysia,"Computer, engineering & science",502,9884,0.21298511000495615
+Malaysia,"Education, legal, community service, arts & media",240,4035,0.08694808972784278
+Malaysia,Office & administrative support,202,4008,0.08636628094899476
+Malaysia,Healthcare practitioners & technical,182,3624,0.0780916672053785
+Malaysia,Sales,169,3458,0.07451462063912771
+Malaysia,Food preparation & serving,132,2937,0.06328786605469003
+Malaysia,Transportation & material moving,81,1584,0.03413278169241709
+Malaysia,Personal care & service,70,1337,0.028810308789622256
+Malaysia,Production,39,1164,0.025082422910336803
+Malaysia,Healthcare support,41,804,0.017324972525696553
+Malaysia,Construction & extraction,26,548,0.011808563363285712
+Malaysia,"Installation, maintenance & repair",24,528,0.011377593897472364
+Malaysia,Building & grounds cleaning,22,434,0.009352037408149633
+Malaysia,Protective service,21,394,0.008490098476522939
+Malaysia,Food processing,5,114,0.0024565259551360785
+Malaysia,Military,1,27,5.818087788480186e-4
+Marshall Islands,Transportation & material moving,78,3070,0.24150409062303335
+Marshall Islands,Production,71,2455,0.19312460667086218
+Marshall Islands,Office & administrative support,42,1130,0.08889238514789176
+Marshall Islands,Building & grounds cleaning,40,965,0.07591252359974827
+Marshall Islands,"Management, business & financial",31,748,0.05884203901825047
+Marshall Islands,Food preparation & serving,30,714,0.05616740088105727
+Marshall Islands,Healthcare support,21,653,0.051368785399622405
+Marshall Islands,Construction & extraction,12,644,0.05066079295154185
+Marshall Islands,Food processing,22,585,0.046019509125235995
+Marshall Islands,"Education, legal, community service, arts & media",21,461,0.03626494650723726
+Marshall Islands,Sales,24,345,0.027139710509754562
+Marshall Islands,Healthcare practitioners & technical,10,237,0.018643801132787918
+Marshall Islands,Personal care & service,6,212,0.01667715544367527
+Marshall Islands,"Installation, maintenance & repair",13,205,0.016126494650723727
+Marshall Islands,"Computer, engineering & science",7,192,0.015103838892385148
+Marshall Islands,Military,4,50,0.0039332913782252985
+Marshall Islands,"Farming, fishing & forestry",1,27,0.0021239773442416616
+Marshall Islands,Protective service,2,19,0.0014946507237256137
+Mexico,Construction & extraction,37013,1175984,0.17149168589412112
+Mexico,Building & grounds cleaning,28318,821713,0.11982896679811625
+Mexico,Transportation & material moving,26531,726274,0.10591126467797769
+Mexico,Production,22189,617865,0.09010217018681474
+Mexico,Food preparation & serving,19954,603365,0.08798766059700334
+Mexico,"Management, business & financial",20730,544243,0.07936600294398066
+Mexico,Office & administrative support,16853,423125,0.06170357725440992
+Mexico,Sales,14134,374844,0.05466284363332829
+Mexico,"Farming, fishing & forestry",12661,310950,0.0453452935828863
+Mexico,"Education, legal, community service, arts & media",12167,285080,0.041572716818167633
+Mexico,"Installation, maintenance & repair",9510,266835,0.03891208044119461
+Mexico,Healthcare support,7954,197050,0.028735456184298905
+Mexico,"Computer, engineering & science",6007,149793,0.02184405068873223
+Mexico,Personal care & service,4810,125012,0.01823028088562078
+Mexico,Healthcare practitioners & technical,3995,94322,0.013754811967599296
+Mexico,Food processing,2911,84314,0.012295362865886719
+Mexico,Protective service,1983,50631,0.007383430002878649
+Mexico,Military,218,5982,8.723445769828778e-4
+Micronesia,Transportation & material moving,131,3921,0.18738351254480287
+Micronesia,Production,104,3273,0.156415770609319
+Micronesia,Food preparation & serving,72,2289,0.10939068100358423
+Micronesia,Office & administrative support,68,2270,0.1084826762246117
+Micronesia,Sales,55,1269,0.06064516129032258
+Micronesia,Building & grounds cleaning,31,1139,0.05443249701314217
+Micronesia,"Management, business & financial",50,1129,0.053954599761051374
+Micronesia,Food processing,32,912,0.043584229390681004
+Micronesia,"Education, legal, community service, arts & media",38,902,0.043106332138590206
+Micronesia,Healthcare support,32,865,0.04133811230585424
+Micronesia,Healthcare practitioners & technical,19,667,0.03187574671445639
+Micronesia,Military,16,435,0.02078853046594982
+Micronesia,"Installation, maintenance & repair",16,393,0.01878136200716846
+Micronesia,"Computer, engineering & science",14,388,0.018542413381123057
+Micronesia,Personal care & service,13,338,0.016152927120669056
+Micronesia,"Farming, fishing & forestry",10,264,0.012616487455197133
+Micronesia,Construction & extraction,7,263,0.012568697729988053
+Micronesia,Protective service,9,208,0.00994026284348865
+Moldova,"Management, business & financial",276,6773,0.17994633226174978
+Moldova,Transportation & material moving,164,4826,0.12821807168096921
+Moldova,Office & administrative support,132,3739,0.09933845213741066
+Moldova,"Education, legal, community service, arts & media",148,3738,0.09931188395015808
+Moldova,"Computer, engineering & science",169,3729,0.09907277026488483
+Moldova,Sales,101,2766,0.07348760594064667
+Moldova,Healthcare practitioners & technical,105,2365,0.06283376285236059
+Moldova,Construction & extraction,81,2301,0.06113339886819522
+Moldova,Healthcare support,86,1886,0.05010760115837296
+Moldova,Food preparation & serving,45,1379,0.036637530221313
+Moldova,"Installation, maintenance & repair",51,1090,0.028959324105316295
+Moldova,Building & grounds cleaning,45,919,0.02441616408512447
+Moldova,Production,40,813,0.021599936236350595
+Moldova,Personal care & service,33,741,0.019687026754164564
+Moldova,Protective service,18,296,0.007864183426764792
+Moldova,Food processing,5,185,0.0049151146417279945
+Moldova,"Farming, fishing & forestry",2,59,0.0015675230479024417
+Moldova,Military,3,34,9.033183665878477e-4
+Mongolia,"Management, business & financial",96,2158,0.16105679528323008
+Mongolia,Transportation & material moving,68,1709,0.12754683185312338
+Mongolia,"Computer, engineering & science",66,1577,0.11769535039928353
+Mongolia,Food preparation & serving,46,1381,0.1030673930890365
+Mongolia,Office & administrative support,47,1087,0.08112545712366595
+Mongolia,Sales,50,1038,0.07746846779610418
+Mongolia,Healthcare support,32,839,0.06261661318008807
+Mongolia,"Education, legal, community service, arts & media",42,817,0.060974699604448096
+Mongolia,Healthcare practitioners & technical,33,804,0.06000447794611538
+Mongolia,Personal care & service,27,685,0.05112321815060825
+Mongolia,Construction & extraction,12,379,0.028285692962161355
+Mongolia,Production,15,374,0.027912530785879543
+Mongolia,"Installation, maintenance & repair",6,162,0.01209045451153071
+Mongolia,Building & grounds cleaning,6,115,0.008582730054481678
+Mongolia,Military,3,106,0.007911038137174416
+Mongolia,Food processing,4,71,0.005298902903201732
+Mongolia,"Farming, fishing & forestry",5,49,0.0036569893275617583
+Mongolia,Protective service,3,48,0.003582356892305396
+Montenegro,"Management, business & financial",75,2337,0.24625922023182298
+Montenegro,Construction & extraction,34,1133,0.11938883034773445
+Montenegro,Building & grounds cleaning,39,983,0.1035827186512118
+Montenegro,Office & administrative support,28,660,0.06954689146469968
+Montenegro,Food preparation & serving,29,627,0.0660695468914647
+Montenegro,Sales,22,613,0.06459430979978925
+Montenegro,Personal care & service,22,592,0.06238145416227608
+Montenegro,"Computer, engineering & science",17,477,0.050263435194942044
+Montenegro,"Installation, maintenance & repair",14,468,0.049315068493150684
+Montenegro,Healthcare support,16,377,0.03972602739726028
+Montenegro,Transportation & material moving,18,361,0.03804004214963119
+Montenegro,"Education, legal, community service, arts & media",20,338,0.03561643835616438
+Montenegro,Production,10,298,0.03140147523709168
+Montenegro,Healthcare practitioners & technical,10,146,0.015384615384615385
+Montenegro,"Farming, fishing & forestry",3,63,0.0066385669125395156
+Montenegro,Protective service,1,17,0.001791359325605901
+Morocco,Transportation & material moving,338,10035,0.16300110454161523
+Morocco,"Management, business & financial",340,8786,0.1427132739912936
+Morocco,Sales,252,6688,0.1086349165096485
+Morocco,"Education, legal, community service, arts & media",240,5843,0.09490936261451498
+Morocco,Office & administrative support,212,4919,0.07990059125462932
+Morocco,Food preparation & serving,171,4904,0.0796569423689169
+Morocco,"Computer, engineering & science",202,4899,0.07957572607367942
+Morocco,Healthcare practitioners & technical,84,2425,0.03938990319017608
+Morocco,Building & grounds cleaning,82,2330,0.03784679358066403
+Morocco,Production,88,2167,0.035199142355922294
+Morocco,Healthcare support,64,1996,0.0324215450588006
+Morocco,"Installation, maintenance & repair",72,1983,0.03221038269118316
+Morocco,Personal care & service,59,1600,0.025989214475992464
+Morocco,Construction & extraction,52,1480,0.024040023390293028
+Morocco,Protective service,34,793,0.012880904424663765
+Morocco,Food processing,21,593,0.009632252615164707
+Morocco,Military,6,105,0.0017055421999870055
+Morocco,"Farming, fishing & forestry",2,18,2.923786628549152e-4
+Nepal,"Computer, engineering & science",1042,23952,0.19759115657482262
+Nepal,"Management, business & financial",586,14265,0.11767860089094209
+Nepal,Sales,539,12867,0.10614585051971621
+Nepal,Transportation & material moving,472,12229,0.10088269262497937
+Nepal,Healthcare practitioners & technical,451,9896,0.08163669361491503
+Nepal,"Education, legal, community service, arts & media",400,9628,0.07942583732057416
+Nepal,Office & administrative support,384,9018,0.07439366441181323
+Nepal,Production,247,6641,0.05478468899521531
+Nepal,Food preparation & serving,268,6222,0.05132816366936149
+Nepal,Healthcare support,194,4663,0.03846724962877413
+Nepal,Personal care & service,182,4411,0.03638838475499093
+Nepal,Building & grounds cleaning,109,2322,0.019155254908430952
+Nepal,"Installation, maintenance & repair",62,1314,0.010839795413298136
+Nepal,Protective service,57,1141,0.009412638178518395
+Nepal,Construction & extraction,37,1051,0.008670186437881538
+Nepal,Military,29,784,0.006467579607325523
+Nepal,Food processing,20,592,0.004883682560633559
+Nepal,"Farming, fishing & forestry",10,224,0.0018478798878072925
+Netherlands,"Management, business & financial",631,11604,0.2948170731707317
+Netherlands,"Computer, engineering & science",317,6531,0.16592987804878048
+Netherlands,"Education, legal, community service, arts & media",337,5890,0.14964430894308944
+Netherlands,Sales,194,3561,0.09047256097560975
+Netherlands,Office & administrative support,159,3199,0.08127540650406503
+Netherlands,Healthcare practitioners & technical,107,1702,0.04324186991869919
+Netherlands,Transportation & material moving,80,1386,0.03521341463414634
+Netherlands,Production,45,1089,0.02766768292682927
+Netherlands,"Installation, maintenance & repair",45,860,0.02184959349593496
+Netherlands,Food preparation & serving,41,674,0.0171239837398374
+Netherlands,Personal care & service,31,638,0.016209349593495934
+Netherlands,Healthcare support,35,600,0.01524390243902439
+Netherlands,Construction & extraction,29,516,0.013109756097560975
+Netherlands,Building & grounds cleaning,24,379,0.009629065040650406
+Netherlands,Protective service,20,365,0.009273373983739838
+Netherlands,Military,5,186,0.004725609756097561
+Netherlands,"Farming, fishing & forestry",8,111,0.002820121951219512
+Netherlands,Food processing,5,69,0.001753048780487805
+New Zealand,"Management, business & financial",305,6417,0.3005479837009976
+New Zealand,"Education, legal, community service, arts & media",181,3521,0.16491030865064868
+New Zealand,"Computer, engineering & science",135,2366,0.11081448175729475
+New Zealand,Sales,86,1718,0.08046461524050395
+New Zealand,Office & administrative support,71,1311,0.06140227623998876
+New Zealand,Healthcare practitioners & technical,49,1097,0.051379326495246125
+New Zealand,Transportation & material moving,36,906,0.04243360966699452
+New Zealand,Construction & extraction,39,867,0.04060699733033581
+New Zealand,Food preparation & serving,33,565,0.026462460774670977
+New Zealand,"Installation, maintenance & repair",26,509,0.023839632804084118
+New Zealand,Production,21,490,0.022949744742635007
+New Zealand,Healthcare support,21,397,0.0185939768629104
+New Zealand,Building & grounds cleaning,15,388,0.018172450939066085
+New Zealand,Personal care & service,21,357,0.01672052831249122
+New Zealand,Protective service,15,298,0.013957191700622922
+New Zealand,Food processing,4,71,0.003325371176994052
+New Zealand,"Farming, fishing & forestry",2,63,0.002950681466910215
+New Zealand,Military,1,10,4.6836213760479605e-4
+Nicaragua,Construction & extraction,819,27637,0.14430798792777552
+Nicaragua,Building & grounds cleaning,764,23251,0.12140626794907944
+Nicaragua,Transportation & material moving,738,20950,0.10939148051839552
+Nicaragua,"Management, business & financial",860,20743,0.10831061958916842
+Nicaragua,Office & administrative support,715,17420,0.09095940766732458
+Nicaragua,Sales,557,14087,0.07355598024165336
+Nicaragua,Food preparation & serving,408,11721,0.06120179203609136
+Nicaragua,"Education, legal, community service, arts & media",468,11286,0.058930417619599613
+Nicaragua,Production,390,10532,0.05499336863101392
+Nicaragua,"Installation, maintenance & repair",261,7270,0.037960671282517205
+Nicaragua,Healthcare support,252,6291,0.032848773457815096
+Nicaragua,"Computer, engineering & science",236,5772,0.03013878880917322
+Nicaragua,Healthcare practitioners & technical,238,4728,0.024687490209593033
+Nicaragua,Personal care & service,134,3789,0.019784454400200508
+Nicaragua,Protective service,95,2423,0.012651816577378155
+Nicaragua,"Farming, fishing & forestry",81,1810,0.009451006192758755
+Nicaragua,Food processing,53,1500,0.007832325574109464
+Nicaragua,Military,17,304,0.0015873513163528516
+Nigeria,Healthcare practitioners & technical,1854,58694,0.17995241657571037
+Nigeria,"Management, business & financial",1438,45137,0.138387436994886
+Nigeria,Healthcare support,1124,38299,0.11742252363841503
+Nigeria,"Education, legal, community service, arts & media",1352,37460,0.11485019805987172
+Nigeria,"Computer, engineering & science",1010,33720,0.10338357390760476
+Nigeria,Transportation & material moving,714,25194,0.07724334997118014
+Nigeria,Office & administrative support,677,23022,0.07058412332446254
+Nigeria,Sales,479,16077,0.049291154143314406
+Nigeria,Protective service,370,13205,0.04048576789590513
+Nigeria,Production,261,10674,0.032725867968261366
+Nigeria,Personal care & service,208,5750,0.017629168148538772
+Nigeria,Food preparation & serving,174,5382,0.01650090138703229
+Nigeria,"Installation, maintenance & repair",118,4444,0.013625047522105443
+Nigeria,Building & grounds cleaning,120,4053,0.012426264088004808
+Nigeria,Construction & extraction,80,2867,0.008790056535975766
+Nigeria,Military,45,1339,0.004105296721894507
+Nigeria,Food processing,23,737,0.0022595994652996653
+Nigeria,"Farming, fishing & forestry",5,110,3.3725365153726346e-4
+North Macedonia,"Management, business & financial",150,3513,0.20004555549228403
+North Macedonia,Transportation & material moving,62,1885,0.10734012869426571
+North Macedonia,"Computer, engineering & science",67,1735,0.09879847389100849
+North Macedonia,Food preparation & serving,61,1723,0.09811514150674791
+North Macedonia,Sales,57,1250,0.07118045669381015
+North Macedonia,"Education, legal, community service, arts & media",54,1193,0.0679346278685724
+North Macedonia,Production,55,1134,0.06457491031262456
+North Macedonia,Office & administrative support,54,1082,0.061613803314162066
+North Macedonia,Building & grounds cleaning,33,807,0.04595410284152383
+North Macedonia,Construction & extraction,27,785,0.04470132680371277
+North Macedonia,Healthcare practitioners & technical,31,688,0.0391777233642731
+North Macedonia,"Installation, maintenance & repair",20,637,0.03627356073116565
+North Macedonia,Healthcare support,22,425,0.02420135527589545
+North Macedonia,Personal care & service,15,387,0.02203746939240362
+North Macedonia,Protective service,10,196,0.01116109560958943
+North Macedonia,Food processing,5,121,0.006890268207960822
+Norway,"Management, business & financial",167,3250,0.33038528006506046
+Norway,"Computer, engineering & science",82,1603,0.16295618582901292
+Norway,"Education, legal, community service, arts & media",82,1466,0.149029175561655
+Norway,Sales,49,741,0.07532784385483379
+Norway,Office & administrative support,40,600,0.060994205550472705
+Norway,Transportation & material moving,25,522,0.053064958828911254
+Norway,Healthcare practitioners & technical,23,496,0.05042187658839077
+Norway,Personal care & service,15,279,0.028362305580969808
+Norway,Production,11,233,0.023686083155433565
+Norway,Construction & extraction,9,184,0.018704889702144963
+Norway,"Installation, maintenance & repair",7,114,0.011588899054589813
+Norway,Protective service,5,114,0.011588899054589813
+Norway,Healthcare support,8,91,0.009250787841821694
+Norway,Food processing,1,43,0.0043712513977838775
+Norway,"Farming, fishing & forestry",2,39,0.003964623360780726
+Norway,Military,2,35,0.0035579953237775746
+Norway,Food preparation & serving,2,20,0.0020331401850157567
+Norway,Building & grounds cleaning,1,7,7.115990647555149e-4
+Other Africa,Transportation & material moving,287,12617,0.1511633479500635
+Other Africa,"Management, business & financial",270,10112,0.12115112740517096
+Other Africa,Healthcare support,216,9336,0.11185392854575515
+Other Africa,Office & administrative support,171,7689,0.09212134282222702
+Other Africa,Healthcare practitioners & technical,155,6411,0.07680971892746748
+Other Africa,Production,115,5720,0.06853089880909592
+Other Africa,"Education, legal, community service, arts & media",178,5354,0.064145879759423
+Other Africa,Sales,130,4947,0.05926964272877579
+Other Africa,"Computer, engineering & science",119,4289,0.051386193180456716
+Other Africa,Building & grounds cleaning,100,4224,0.050607432966716985
+Other Africa,Food preparation & serving,79,3256,0.03900989624517768
+Other Africa,Protective service,50,2134,0.025567296863393478
+Other Africa,Personal care & service,58,2006,0.02403373828864448
+Other Africa,"Installation, maintenance & repair",54,1753,0.021002563918242158
+Other Africa,Construction & extraction,48,1723,0.020643136127285362
+Other Africa,Food processing,23,1435,0.017192629334100113
+Other Africa,Military,10,323,0.0038698392159681786
+Other Africa,"Farming, fishing & forestry",4,137,0.0016413869120360386
+Other Americas,"Management, business & financial",73,2008,0.16488750205288225
+Other Americas,Construction & extraction,40,1596,0.13105600262768927
+Other Americas,Building & grounds cleaning,31,989,0.08121202167843652
+Other Americas,"Computer, engineering & science",31,975,0.0800624076202989
+Other Americas,"Education, legal, community service, arts & media",37,918,0.07538183609788142
+Other Americas,Office & administrative support,37,830,0.06815569058958779
+Other Americas,Healthcare practitioners & technical,28,822,0.067498768270652
+Other Americas,Food preparation & serving,18,705,0.05789127935621613
+Other Americas,Sales,25,704,0.05780916406634915
+Other Americas,"Installation, maintenance & repair",19,546,0.044834948267367385
+Other Americas,Transportation & material moving,17,533,0.04376744949909673
+Other Americas,Production,15,504,0.04138610609295451
+Other Americas,Protective service,9,350,0.02874035145344063
+Other Americas,Healthcare support,14,292,0.023977664641156183
+Other Americas,Personal care & service,7,170,0.01395959927738545
+Other Americas,Food processing,4,160,0.013138446378715717
+Other Americas,"Farming, fishing & forestry",1,52,0.004269995073082608
+Other Americas,Military,2,24,0.0019707669568073574
+Other Asia,"Management, business & financial",427,9572,0.17582982788074725
+Other Asia,Sales,263,7280,0.13372765848013374
+Other Asia,"Computer, engineering & science",311,6912,0.1269677988206984
+Other Asia,Transportation & material moving,197,6644,0.12204485754697919
+Other Asia,"Education, legal, community service, arts & media",256,5665,0.10406142655081835
+Other Asia,Healthcare practitioners & technical,193,4566,0.08387369349179816
+Other Asia,Office & administrative support,139,3201,0.058799757526773085
+Other Asia,Production,65,1943,0.035691324234464264
+Other Asia,Food preparation & serving,79,1886,0.03464428075460607
+Other Asia,Healthcare support,78,1758,0.032293025220889435
+Other Asia,Personal care & service,46,1309,0.024045261669024046
+Other Asia,"Installation, maintenance & repair",40,1056,0.019397858153162254
+Other Asia,Construction & extraction,41,1046,0.019214166314590643
+Other Asia,Building & grounds cleaning,22,788,0.014474916879443047
+Other Asia,Protective service,18,586,0.010764341740296479
+Other Asia,Food processing,5,99,0.0018185492018589614
+Other Asia,Military,6,99,0.0018185492018589614
+Other Asia,"Farming, fishing & forestry",2,29,5.327063318576755e-4
+Other Caribbean,"Management, business & financial",159,5091,0.19085285848172445
+Other Caribbean,"Education, legal, community service, arts & media",103,2957,0.11085285848172446
+Other Caribbean,Office & administrative support,84,2497,0.09360824742268041
+Other Caribbean,Healthcare practitioners & technical,79,2360,0.08847235238987816
+Other Caribbean,Transportation & material moving,72,2325,0.08716026241799438
+Other Caribbean,"Computer, engineering & science",52,1856,0.06957825679475164
+Other Caribbean,Sales,53,1853,0.06946579194001874
+Other Caribbean,Healthcare support,59,1751,0.06564198687910028
+Other Caribbean,Production,28,1030,0.03861293345829428
+Other Caribbean,Construction & extraction,30,974,0.03651358950328022
+Other Caribbean,Protective service,24,925,0.03467666354264293
+Other Caribbean,Building & grounds cleaning,27,843,0.03160262417994377
+Other Caribbean,"Installation, maintenance & repair",21,682,0.02556701030927835
+Other Caribbean,Food preparation & serving,29,666,0.024967197750702906
+Other Caribbean,Personal care & service,30,628,0.023542642924086223
+Other Caribbean,Food processing,3,142,0.0053233364573570755
+Other Caribbean,Military,1,52,0.0019493908153701968
+Other Caribbean,"Farming, fishing & forestry",2,43,0.0016119962511715088
+Other East Africa,"Management, business & financial",136,4554,0.2137927796817051
+Other East Africa,"Education, legal, community service, arts & media",104,2753,0.12924275855593634
+Other East Africa,Transportation & material moving,69,2395,0.11243603586686071
+Other East Africa,Healthcare practitioners & technical,51,1819,0.0853950518754988
+Other East Africa,Office & administrative support,55,1618,0.07595887517017981
+Other East Africa,"Computer, engineering & science",73,1602,0.0752077367259753
+Other East Africa,Healthcare support,52,1567,0.07356462137927797
+Other East Africa,Sales,49,1341,0.06295479085488945
+Other East Africa,Production,27,818,0.03840195295995493
+Other East Africa,Building & grounds cleaning,24,728,0.034176799211304634
+Other East Africa,Food preparation & serving,22,697,0.03272146847565842
+Other East Africa,Personal care & service,23,586,0.027510445518989717
+Other East Africa,Construction & extraction,10,349,0.0163842073142106
+Other East Africa,"Installation, maintenance & repair",11,291,0.013661330453969297
+Other East Africa,Protective service,6,122,0.005727430637059293
+Other East Africa,Food processing,2,40,0.0018778461105112437
+Other East Africa,"Farming, fishing & forestry",1,21,9.85869208018403e-4
+Other Europe,"Management, business & financial",210,4863,0.2273917516132049
+Other Europe,"Computer, engineering & science",127,2795,0.13069297671373795
+Other Europe,"Education, legal, community service, arts & media",138,2617,0.12236977461890956
+Other Europe,Office & administrative support,83,2037,0.09524922846722154
+Other Europe,Sales,79,1791,0.08374637613391939
+Other Europe,Transportation & material moving,56,1664,0.07780791171794632
+Other Europe,Healthcare practitioners & technical,46,864,0.04040026185354905
+Other Europe,Building & grounds cleaning,28,820,0.0383428411110072
+Other Europe,Production,34,791,0.0369868138034228
+Other Europe,Construction & extraction,30,760,0.035537267371177406
+Other Europe,Personal care & service,26,648,0.03030019639016179
+Other Europe,"Installation, maintenance & repair",22,560,0.02618535490507809
+Other Europe,Healthcare support,21,482,0.022538109043299354
+Other Europe,Food preparation & serving,21,429,0.020059852239783037
+Other Europe,Protective service,7,234,0.010941737585336201
+Other Europe,"Farming, fishing & forestry",1,16,7.481529972879453e-4
+Other Europe,Military,1,15,7.013934349574488e-4
+Other North Africa,Transportation & material moving,84,3327,0.21068963333544424
+Other North Africa,"Management, business & financial",86,2158,0.1366601228547907
+Other North Africa,"Education, legal, community service, arts & media",54,1499,0.09492749034260022
+Other North Africa,Production,32,1250,0.0791590146285859
+Other North Africa,"Computer, engineering & science",53,1071,0.0678234437337724
+Other North Africa,Sales,34,956,0.060540814387942496
+Other North Africa,Office & administrative support,24,943,0.0597175606358052
+Other North Africa,Building & grounds cleaning,21,870,0.05509467418149579
+Other North Africa,Healthcare support,22,855,0.054144766005952756
+Other North Africa,Food processing,16,555,0.03514660249509214
+Other North Africa,Healthcare practitioners & technical,26,552,0.034956620859983537
+Other North Africa,"Installation, maintenance & repair",11,508,0.03217022354505731
+Other North Africa,Food preparation & serving,18,420,0.026597428915204863
+Other North Africa,Construction & extraction,11,390,0.0246976125641188
+Other North Africa,Protective service,6,187,0.01184218858843645
+Other North Africa,Personal care & service,7,155,0.009815717813944653
+Other North Africa,"Farming, fishing & forestry",3,83,0.005256158571338104
+Other North Africa,Military,1,12,7.599265404344247e-4
+Other South America,"Management, business & financial",36,1202,0.2006677796327212
+Other South America,Office & administrative support,25,652,0.10884808013355593
+Other South America,Production,15,554,0.09248747913188647
+Other South America,Construction & extraction,15,510,0.08514190317195326
+Other South America,"Education, legal, community service, arts & media",15,482,0.08046744574290485
+Other South America,Sales,15,447,0.07462437395659433
+Other South America,Transportation & material moving,12,398,0.0664440734557596
+Other South America,Food preparation & serving,10,356,0.05943238731218698
+Other South America,Healthcare practitioners & technical,12,328,0.054757929883138566
+Other South America,Building & grounds cleaning,10,327,0.05459098497495826
+Other South America,Healthcare support,10,264,0.04407345575959933
+Other South America,"Computer, engineering & science",9,174,0.02904841402337229
+Other South America,Personal care & service,5,96,0.016026711185308847
+Other South America,Protective service,4,93,0.015525876460767947
+Other South America,"Installation, maintenance & repair",3,68,0.011352253756260434
+Other South America,Food processing,1,39,0.00651085141903172
+Other West Africa,Transportation & material moving,186,7083,0.2197641948495191
+Other West Africa,Healthcare support,73,2986,0.09264660254421346
+Other West Africa,Office & administrative support,82,2976,0.09233633260937016
+Other West Africa,"Management, business & financial",95,2948,0.09146757679180888
+Other West Africa,"Education, legal, community service, arts & media",61,2697,0.0836798014272417
+Other West Africa,"Computer, engineering & science",71,2091,0.06487744337573689
+Other West Africa,Production,51,1767,0.054824697486813526
+Other West Africa,Sales,58,1570,0.04871237977040025
+Other West Africa,Protective service,32,1411,0.04377908780639156
+Other West Africa,Healthcare practitioners & technical,45,1409,0.0437170338194229
+Other West Africa,Food preparation & serving,39,1250,0.03878374185541421
+Other West Africa,Personal care & service,24,1164,0.03611542041576171
+Other West Africa,Building & grounds cleaning,27,888,0.027551970214086254
+Other West Africa,Construction & extraction,18,827,0.02565932361154204
+Other West Africa,"Installation, maintenance & repair",17,554,0.017188954390319578
+Other West Africa,Food processing,11,430,0.013341607198262488
+Other West Africa,Military,6,179,0.0055538318336953146
+"Other, n.e.c.","Management, business & financial",39,823,0.131490653459019
+"Other, n.e.c.","Education, legal, community service, arts & media",26,709,0.11327688129094104
+"Other, n.e.c.",Food preparation & serving,22,571,0.09122863077168877
+"Other, n.e.c.",Transportation & material moving,27,555,0.08867231187090589
+"Other, n.e.c.",Sales,21,516,0.08244128455024764
+"Other, n.e.c.",Office & administrative support,21,460,0.0734941683975076
+"Other, n.e.c.",Healthcare practitioners & technical,14,371,0.05927464451190286
+"Other, n.e.c.",Production,13,336,0.05368269691644033
+"Other, n.e.c.",Construction & extraction,11,329,0.05256430739734782
+"Other, n.e.c.",Healthcare support,17,326,0.05208499760345103
+"Other, n.e.c.","Computer, engineering & science",14,296,0.04729189966448315
+"Other, n.e.c.",Building & grounds cleaning,11,273,0.043617191244607764
+"Other, n.e.c.",Military,11,265,0.04233903179421633
+"Other, n.e.c.","Installation, maintenance & repair",8,229,0.036587314267454867
+"Other, n.e.c.",Personal care & service,7,112,0.01789423230548011
+"Other, n.e.c.",Protective service,3,51,0.008148266496245407
+"Other, n.e.c.",Food processing,1,37,0.005911487458060393
+Pakistan,"Management, business & financial",1921,43716,0.18128812603414599
+Pakistan,"Computer, engineering & science",1742,39685,0.16457176506691107
+Pakistan,Sales,1305,31457,0.13045064920523677
+Pakistan,Healthcare practitioners & technical,1277,28809,0.11946952198091573
+Pakistan,Transportation & material moving,923,22315,0.09253921979256949
+Pakistan,"Education, legal, community service, arts & media",983,20346,0.08437387254759664
+Pakistan,Office & administrative support,791,17447,0.07235186052973157
+Pakistan,Food preparation & serving,328,7479,0.031015049286517018
+Pakistan,Healthcare support,311,7289,0.03022712852646377
+Pakistan,Production,290,6756,0.028016803446945977
+Pakistan,Personal care & service,206,4466,0.018520284812620004
+Pakistan,"Installation, maintenance & repair",151,3531,0.014642885282884287
+Pakistan,Protective service,163,3434,0.014240631000120262
+Pakistan,Building & grounds cleaning,81,1823,0.007559892345142469
+Pakistan,Construction & extraction,81,1656,0.006867351466569352
+Pakistan,Food processing,18,581,0.0024093787452154547
+Pakistan,"Farming, fishing & forestry",8,203,8.418311278463637e-4
+Pakistan,Military,9,148,6.137488025677923e-4
+Panama,"Management, business & financial",394,9227,0.16683844137058132
+Panama,Office & administrative support,276,6871,0.12423831479974685
+Panama,"Education, legal, community service, arts & media",272,6650,0.12024229274025856
+Panama,Transportation & material moving,168,4794,0.0866829400596691
+Panama,"Computer, engineering & science",176,4168,0.07536389114908236
+Panama,Sales,157,4147,0.07498417864569207
+Panama,Healthcare practitioners & technical,139,2918,0.05276195642346985
+Panama,Building & grounds cleaning,109,2701,0.04883826055510352
+Panama,Healthcare support,93,2591,0.04684929029924961
+Panama,Production,86,2434,0.04401048729771268
+Panama,Construction & extraction,74,2135,0.038604104511346174
+Panama,Food preparation & serving,79,1878,0.033957146731760236
+Panama,Personal care & service,66,1601,0.028948557996564504
+Panama,"Installation, maintenance & repair",52,1356,0.024518578790344452
+Panama,Protective service,59,1273,0.023017810324563782
+Panama,"Farming, fishing & forestry",11,290,0.005243648856342103
+Panama,Military,13,174,0.003146189313805262
+Panama,Food processing,4,97,0.001753910134707531
+Paraguay,"Management, business & financial",98,2469,0.17125615592703058
+Paraguay,Building & grounds cleaning,53,1690,0.11722272317403065
+Paraguay,"Education, legal, community service, arts & media",73,1612,0.11181244364292155
+Paraguay,Office & administrative support,53,1334,0.09252965249358397
+Paraguay,Personal care & service,40,1118,0.0775473399458972
+Paraguay,Transportation & material moving,39,968,0.06714295623222584
+Paraguay,Construction & extraction,37,958,0.06644933065131442
+Paraguay,Healthcare practitioners & technical,37,924,0.06409100367621558
+Paraguay,Sales,45,908,0.0629812027467573
+Paraguay,"Computer, engineering & science",33,807,0.05597558437955192
+Paraguay,Food preparation & serving,19,465,0.03225358951238122
+Paraguay,Healthcare support,15,457,0.03169868904765208
+Paraguay,Production,16,404,0.02802247346882153
+Paraguay,"Installation, maintenance & repair",12,162,0.01123673441076507
+Paraguay,Protective service,7,115,0.007976694180481376
+Paraguay,Military,1,20,0.001387251161822848
+Paraguay,Food processing,1,6,4.1617534854685443e-4
+Peru,"Management, business & financial",1920,46969,0.1486125613035912
+Peru,Office & administrative support,1227,30595,0.09680430311659548
+Peru,Transportation & material moving,1096,29749,0.09412751146970416
+Peru,"Education, legal, community service, arts & media",1255,28942,0.09157411801930074
+Peru,Sales,1044,26448,0.08368296155671572
+Peru,Building & grounds cleaning,989,26239,0.08302167378579339
+Peru,Food preparation & serving,784,20986,0.06640088593576966
+Peru,Construction & extraction,643,19335,0.06117702895111533
+Peru,Production,649,17137,0.05422243315931024
+Peru,"Computer, engineering & science",685,16735,0.05295048251858883
+Peru,Healthcare practitioners & technical,638,14221,0.04499604492959975
+Peru,Healthcare support,525,13645,0.043173548489163105
+Peru,Personal care & service,371,9244,0.029248536623951906
+Peru,"Installation, maintenance & repair",328,8562,0.027090650213573802
+Peru,Protective service,139,3658,0.011574118019300743
+Peru,Food processing,81,2048,0.006479987343774719
+Peru,"Farming, fishing & forestry",48,1119,0.003540579022306597
+Peru,Military,21,418,0.0013225755418446448
+Philippines,Healthcare practitioners & technical,13038,260118,0.20497823882213045
+Philippines,"Management, business & financial",8463,166708,0.13136927178265143
+Philippines,Office & administrative support,6708,130117,0.102534824582763
+Philippines,Healthcare support,5590,108182,0.08524960145878299
+Philippines,"Computer, engineering & science",4927,98140,0.07733630259345328
+Philippines,Sales,3999,81903,0.06454121857867948
+Philippines,"Education, legal, community service, arts & media",4152,78977,0.06223547146854657
+Philippines,Food preparation & serving,3351,69315,0.054621620279857494
+Philippines,Production,3290,66688,0.05255149121002866
+Philippines,Transportation & material moving,3250,65219,0.05139388953375209
+Philippines,Building & grounds cleaning,2153,44107,0.03475720703575957
+Philippines,Personal care & service,1425,29478,0.023229259505296678
+Philippines,"Installation, maintenance & repair",1267,25786,0.02031988892067237
+Philippines,Construction & extraction,659,14471,0.01140344033859652
+Philippines,Protective service,694,14049,0.011070895813485075
+Philippines,Food processing,353,7040,0.0055476622198686685
+Philippines,Military,328,5853,0.004612282240467516
+Philippines,"Farming, fishing & forestry",170,2852,0.0022474336152081597
+Poland,"Management, business & financial",2030,44361,0.18252100425433868
+Poland,Construction & extraction,904,22964,0.09448417172057964
+Poland,"Education, legal, community service, arts & media",1160,22315,0.09181389531199856
+Poland,Office & administrative support,919,20919,0.08607012664269316
+Poland,"Computer, engineering & science",986,20259,0.08335459131193272
+Poland,Building & grounds cleaning,662,17173,0.07065740641689228
+Poland,Healthcare practitioners & technical,777,17091,0.07032002172428264
+Poland,Production,719,16478,0.06779786542465212
+Poland,Sales,682,16016,0.06589699069311981
+Poland,Transportation & material moving,624,14874,0.061198291681410104
+Poland,Healthcare support,346,8473,0.03486171342050476
+Poland,"Installation, maintenance & repair",348,7513,0.030911843848489585
+Poland,Personal care & service,256,6147,0.02529150860330966
+Poland,Food preparation & serving,195,4119,0.016947409132427607
+Poland,Protective service,127,2942,0.01210470445923817
+Poland,Food processing,41,1085,0.004464175505871317
+Poland,"Farming, fishing & forestry",7,186,7.6528722957794e-4
+Poland,Military,7,131,5.389926186812373e-4
+Portugal,"Management, business & financial",628,13035,0.1642825634885626
+Portugal,Construction & extraction,388,9294,0.11713403491083244
+Portugal,Office & administrative support,360,7359,0.09274686495683408
+Portugal,Transportation & material moving,283,6474,0.0815930430398891
+Portugal,"Education, legal, community service, arts & media",307,6293,0.07931186590207323
+Portugal,Production,261,6113,0.07704329195286408
+Portugal,Sales,278,5906,0.07443443191127355
+Portugal,Building & grounds cleaning,240,5484,0.06911588631923876
+Portugal,"Computer, engineering & science",204,3764,0.047438401915684665
+Portugal,"Installation, maintenance & repair",150,3419,0.043090301846367134
+Portugal,Healthcare support,110,2970,0.037431470161950975
+Portugal,Healthcare practitioners & technical,113,2570,0.03239019471926397
+Portugal,Food preparation & serving,108,2213,0.027890856386665826
+Portugal,Personal care & service,79,1684,0.02122376961371227
+Portugal,Protective service,54,1391,0.01753103535194404
+Portugal,Food processing,30,781,0.009843090301846368
+Portugal,"Farming, fishing & forestry",31,554,0.006982166488121494
+Portugal,Military,2,41,5.167307328754174e-4
+Republic of the Congo,Production,103,5452,0.22315910114199172
+Republic of the Congo,Transportation & material moving,102,4856,0.1987638655806148
+Republic of the Congo,Healthcare support,43,1960,0.08022594245016577
+Republic of the Congo,Office & administrative support,47,1584,0.06483565961278703
+Republic of the Congo,"Computer, engineering & science",29,1533,0.06274814784495109
+Republic of the Congo,"Management, business & financial",36,1522,0.06229790020875118
+Republic of the Congo,"Education, legal, community service, arts & media",43,1410,0.057713560640170275
+Republic of the Congo,Sales,37,1068,0.043714952314682164
+Republic of the Congo,Food preparation & serving,27,892,0.036510990135483604
+Republic of the Congo,Healthcare practitioners & technical,25,887,0.0363063321190291
+Republic of the Congo,Food processing,17,880,0.03601981089599279
+Republic of the Congo,Building & grounds cleaning,31,796,0.03258155621955712
+Republic of the Congo,Personal care & service,15,540,0.022103065777086487
+Republic of the Congo,"Installation, maintenance & repair",9,414,0.016945683762432974
+Republic of the Congo,Protective service,8,392,0.016045188490033155
+Republic of the Congo,Construction & extraction,6,179,0.007326756989071262
+Republic of the Congo,Military,3,66,0.0027014858171994596
+Romania,"Management, business & financial",1120,24193,0.22890962077056998
+Romania,"Computer, engineering & science",709,14588,0.13802891529785785
+Romania,"Education, legal, community service, arts & media",561,12038,0.11390129437589887
+Romania,Healthcare practitioners & technical,471,9141,0.08649042464612823
+Romania,Sales,326,7820,0.07399137082734085
+Romania,Office & administrative support,343,7303,0.06909961395806524
+Romania,Construction & extraction,231,5647,0.053430853076981304
+Romania,Transportation & material moving,242,5643,0.05339300582847627
+Romania,Healthcare support,186,4035,0.038178411929452725
+Romania,Production,167,3803,0.03598327151616078
+Romania,Food preparation & serving,122,2643,0.025007569449701006
+Romania,Personal care & service,108,2511,0.023758610249034896
+Romania,Building & grounds cleaning,124,2444,0.02312466883657558
+Romania,"Installation, maintenance & repair",95,2231,0.021109302853682538
+Romania,Protective service,52,1066,0.010086291726591477
+Romania,Military,14,275,0.002601998334721066
+Romania,Food processing,13,217,0.0020532132313980773
+Romania,"Farming, fishing & forestry",3,90,8.515630913632578e-4
+Russia,"Management, business & financial",2202,48428,0.19483032607165127
+Russia,"Computer, engineering & science",1903,39459,0.1587472089795426
+Russia,"Education, legal, community service, arts & media",1506,31888,0.1282883752740732
+Russia,Office & administrative support,836,20092,0.08083197553959728
+Russia,Sales,770,18862,0.075883571701567
+Russia,Healthcare practitioners & technical,813,18544,0.07460422827027136
+Russia,Transportation & material moving,572,15708,0.06319473779494297
+Russia,Healthcare support,442,11268,0.045332206867418984
+Russia,Food preparation & serving,384,8448,0.03398708587291051
+Russia,Personal care & service,337,7799,0.03137609880715306
+Russia,Construction & extraction,306,7711,0.031022066662643573
+Russia,Production,256,6132,0.024669603524229075
+Russia,"Installation, maintenance & repair",234,5500,0.022127009031842778
+Russia,Building & grounds cleaning,193,4948,0.019906261943556013
+Russia,Protective service,84,1923,0.007736406976042484
+Russia,Military,32,829,0.003335143724981393
+Russia,"Farming, fishing & forestry",26,709,0.0028523726188320964
+Russia,Food processing,18,317,0.001275320338744393
+Rwanda,Transportation & material moving,55,2200,0.182648401826484
+Rwanda,"Education, legal, community service, arts & media",41,1206,0.10012453300124532
+Rwanda,Healthcare practitioners & technical,33,1175,0.09755085097550852
+Rwanda,Production,30,1093,0.09074304690743047
+Rwanda,Healthcare support,32,1082,0.08982980489829805
+Rwanda,"Management, business & financial",43,1069,0.0887505188875052
+Rwanda,Food preparation & serving,28,975,0.08094645080946451
+Rwanda,"Computer, engineering & science",26,891,0.07397260273972603
+Rwanda,Office & administrative support,23,645,0.053549190535491904
+Rwanda,Building & grounds cleaning,13,411,0.034122042341220425
+Rwanda,Sales,13,319,0.026484018264840183
+Rwanda,Food processing,4,266,0.022083852220838522
+Rwanda,Construction & extraction,5,258,0.021419676214196763
+Rwanda,Personal care & service,11,189,0.01569115815691158
+Rwanda,Protective service,5,143,0.011872146118721462
+Rwanda,Military,4,62,0.00514736405147364
+Rwanda,"Installation, maintenance & repair",2,59,0.004898298048982981
+Rwanda,"Farming, fishing & forestry",1,2,1.6604400166044003e-4
+Saudi Arabia,"Management, business & financial",233,6393,0.22150999618862827
+Saudi Arabia,"Computer, engineering & science",212,5487,0.19011815252416756
+Saudi Arabia,Healthcare practitioners & technical,181,4570,0.1583451716849728
+Saudi Arabia,"Education, legal, community service, arts & media",145,3284,0.11378677107515332
+Saudi Arabia,Office & administrative support,89,2221,0.07695506046221545
+Saudi Arabia,Transportation & material moving,59,1871,0.06482796853885867
+Saudi Arabia,Sales,68,1715,0.059422750424448216
+Saudi Arabia,Food preparation & serving,29,738,0.025570839541249436
+Saudi Arabia,Production,25,591,0.02047746093343959
+Saudi Arabia,Healthcare support,21,499,0.017289768199300094
+Saudi Arabia,Personal care & service,19,467,0.016181005509164615
+Saudi Arabia,Protective service,16,328,0.011364817573888639
+Saudi Arabia,"Installation, maintenance & repair",8,312,0.0108104362288209
+Saudi Arabia,Construction & extraction,7,185,0.006410034302345726
+Saudi Arabia,Building & grounds cleaning,7,128,0.0044350507605419075
+Saudi Arabia,Food processing,1,34,0.0011780603582689443
+Saudi Arabia,"Farming, fishing & forestry",2,31,0.0010741138560687433
+Saudi Arabia,Military,1,7,2.4254183846713557e-4
+Senegal,Transportation & material moving,104,3651,0.14522095382045264
+Senegal,"Management, business & financial",96,3456,0.13746469909709239
+Senegal,Office & administrative support,73,2446,0.09729127719661111
+Senegal,Sales,58,2252,0.08957479813849886
+Senegal,Healthcare support,48,1772,0.07048247881945825
+Senegal,Personal care & service,41,1670,0.06642536096416213
+Senegal,"Education, legal, community service, arts & media",48,1628,0.06475478302374607
+Senegal,Healthcare practitioners & technical,43,1563,0.06216936478262599
+Senegal,"Computer, engineering & science",50,1533,0.06097609482518595
+Senegal,Food preparation & serving,43,1286,0.051151505508929634
+Senegal,Production,42,1280,0.050912851517441626
+Senegal,Building & grounds cleaning,14,729,0.028996459965792927
+Senegal,Protective service,16,489,0.019450300306272622
+Senegal,Construction & extraction,13,405,0.016109144425440515
+Senegal,"Installation, maintenance & repair",11,332,0.013205520862336423
+Senegal,Food processing,5,286,0.011375840260928364
+Senegal,Military,9,235,0.0093472813332803
+Senegal,"Farming, fishing & forestry",2,128,0.005091285151744163
+Serbia,"Management, business & financial",260,6378,0.22997043340304318
+Serbia,"Computer, engineering & science",169,3483,0.12558592341530253
+Serbia,"Education, legal, community service, arts & media",157,3440,0.12403547991634817
+Serbia,Transportation & material moving,92,2572,0.0927381553328045
+Serbia,Office & administrative support,95,1993,0.07186125333525636
+Serbia,Sales,73,1908,0.06879642316290474
+Serbia,Healthcare practitioners & technical,63,1407,0.05073195355880868
+Serbia,Food preparation & serving,49,1364,0.04918151005985433
+Serbia,Construction & extraction,37,1177,0.04243888368068075
+Serbia,Personal care & service,24,934,0.03367707507031081
+Serbia,Production,41,818,0.029494483305689767
+Serbia,Healthcare support,28,787,0.02837672171342035
+Serbia,Building & grounds cleaning,25,665,0.02397778899545684
+Serbia,"Installation, maintenance & repair",17,389,0.014026105141703325
+Serbia,Protective service,12,307,0.011069445446022933
+Serbia,Food processing,4,90,0.003245114300137016
+Serbia,"Farming, fishing & forestry",1,22,7.932501622557151e-4
+Sierra Leone,Healthcare support,218,6886,0.2079043507140485
+Sierra Leone,Healthcare practitioners & technical,161,5004,0.15108239485522781
+Sierra Leone,"Management, business & financial",123,4152,0.12535853386069262
+Sierra Leone,"Education, legal, community service, arts & media",88,2655,0.08016062316959029
+Sierra Leone,Transportation & material moving,83,2597,0.07840946831315479
+Sierra Leone,Office & administrative support,80,2408,0.07270311886718396
+Sierra Leone,Sales,54,2231,0.0673590773225446
+Sierra Leone,"Computer, engineering & science",59,1500,0.045288487666435194
+Sierra Leone,Protective service,36,1224,0.03695540593581112
+Sierra Leone,Production,30,1062,0.03206424926783612
+Sierra Leone,Building & grounds cleaning,27,812,0.024516167990096916
+Sierra Leone,Food preparation & serving,33,803,0.024244437064098307
+Sierra Leone,"Installation, maintenance & repair",19,669,0.020198665499230096
+Sierra Leone,Construction & extraction,17,449,0.0135563539748196
+Sierra Leone,Personal care & service,21,447,0.013495969324597687
+Sierra Leone,Military,6,104,0.0031400018115395065
+Sierra Leone,"Farming, fishing & forestry",1,65,0.0019625011322121915
+Sierra Leone,Food processing,1,53,0.0016001932308807101
+Singapore,"Management, business & financial",336,7373,0.33223684210526316
+Singapore,"Computer, engineering & science",209,4355,0.19624188896899783
+Singapore,"Education, legal, community service, arts & media",208,3810,0.17168348954578228
+Singapore,Office & administrative support,90,1860,0.08381398702235039
+Singapore,Sales,73,1287,0.05799387166546503
+Singapore,Healthcare practitioners & technical,57,856,0.03857245854361932
+Singapore,Transportation & material moving,29,595,0.026811463590483055
+Singapore,Food preparation & serving,23,450,0.020277577505407353
+Singapore,Healthcare support,19,441,0.019872025955299206
+Singapore,Production,19,378,0.017033165104542176
+Singapore,Personal care & service,25,297,0.013383201153568853
+Singapore,"Installation, maintenance & repair",6,178,0.008020908435472242
+Singapore,Construction & extraction,3,111,0.005001802451333814
+Singapore,Building & grounds cleaning,6,76,0.003424657534246575
+Singapore,Food processing,4,56,0.0025234318673395817
+Singapore,Protective service,3,51,0.0022981254506128333
+Singapore,Military,1,18,8.111031002162941e-4
+Slovakia,"Management, business & financial",137,3081,0.25391462007582
+Slovakia,"Computer, engineering & science",69,1588,0.13087193011373002
+Slovakia,"Education, legal, community service, arts & media",77,1427,0.11760342838305587
+Slovakia,Office & administrative support,67,1162,0.09576396901269162
+Slovakia,Healthcare practitioners & technical,57,1110,0.09147849019284655
+Slovakia,Construction & extraction,38,888,0.07318279215427724
+Slovakia,Transportation & material moving,30,638,0.05257952859732982
+Slovakia,Building & grounds cleaning,22,556,0.04582165815065106
+Slovakia,Sales,32,529,0.04359650568650074
+Slovakia,Production,15,286,0.02357013350914785
+Slovakia,"Installation, maintenance & repair",9,191,0.015740893357507828
+Slovakia,Food preparation & serving,12,190,0.01565848030328004
+Slovakia,Personal care & service,9,187,0.01541124114059667
+Slovakia,Healthcare support,10,124,0.01021921872424592
+Slovakia,Food processing,2,94,0.00774682709741223
+Slovakia,Protective service,4,55,0.004532717982528432
+Slovakia,Military,1,16,0.001318608867644635
+Slovakia,"Farming, fishing & forestry",1,12,9.889566507334763e-4
+Somalia,Transportation & material moving,326,17151,0.2867053375904783
+Somalia,Healthcare support,133,7629,0.12753046588990488
+Somalia,Production,90,4774,0.07980475084000602
+Somalia,"Management, business & financial",100,4080,0.06820347369652797
+Somalia,"Education, legal, community service, arts & media",90,3883,0.0649103157753966
+Somalia,Building & grounds cleaning,75,3474,0.058073251868073085
+Somalia,Office & administrative support,73,3425,0.05725414152220792
+Somalia,Sales,63,3140,0.052489928286053394
+Somalia,Healthcare practitioners & technical,61,2959,0.0494642349676535
+Somalia,Food preparation & serving,36,1924,0.03216261847846074
+Somalia,"Computer, engineering & science",42,1848,0.0308921616154862
+Somalia,Personal care & service,43,1772,0.02962170475251166
+Somalia,Protective service,34,1382,0.02310225506093178
+Somalia,Food processing,29,1272,0.02126343591715284
+Somalia,"Installation, maintenance & repair",15,562,0.009394694170943314
+Somalia,Construction & extraction,8,394,0.006586315842262751
+Somalia,"Farming, fishing & forestry",4,140,0.00234031527390047
+Somalia,Military,1,12,2.005984520486117e-4
+South Africa,"Management, business & financial",1150,26605,0.30484800568331555
+South Africa,"Education, legal, community service, arts & media",574,11428,0.13094542412888294
+South Africa,"Computer, engineering & science",464,9795,0.11223402426867415
+South Africa,Healthcare practitioners & technical,339,7304,0.08369140513102563
+South Africa,Sales,274,6753,0.07737788319411502
+South Africa,Office & administrative support,256,6304,0.07223310760487207
+South Africa,Transportation & material moving,154,3822,0.04379361314495892
+South Africa,Personal care & service,161,3595,0.04119257960652206
+South Africa,Food preparation & serving,116,2521,0.028886368063433136
+South Africa,Healthcare support,64,1720,0.01970827174498413
+South Africa,Production,79,1692,0.01938743941425183
+South Africa,Construction & extraction,78,1435,0.016442656950030363
+South Africa,"Farming, fishing & forestry",84,1363,0.015617659528147308
+South Africa,"Installation, maintenance & repair",64,1277,0.014632245940898101
+South Africa,Protective service,34,744,0.008524973359458251
+South Africa,Building & grounds cleaning,27,509,0.005832273440812164
+South Africa,Food processing,10,311,0.0035635305306337584
+South Africa,Military,7,95,0.0010885382649845885
+Spain,"Management, business & financial",762,18077,0.2511601411620863
+Spain,"Education, legal, community service, arts & media",757,16889,0.23465418067635535
+Spain,"Computer, engineering & science",463,10563,0.14676133048045129
+Spain,Sales,188,4669,0.06487064773390391
+Spain,Office & administrative support,180,4303,0.05978547808931003
+Spain,Transportation & material moving,103,3118,0.04332119932197738
+Spain,Food preparation & serving,105,2445,0.03397060049462306
+Spain,Healthcare practitioners & technical,111,2198,0.030538805679828827
+Spain,Production,69,1771,0.024606107761135965
+Spain,"Installation, maintenance & repair",41,1683,0.02338344402145219
+Spain,Building & grounds cleaning,64,1649,0.022911051212938006
+Spain,Construction & extraction,72,1576,0.021896796065245784
+Spain,Personal care & service,64,1568,0.02178564481618362
+Spain,Healthcare support,30,592,0.008225192430599939
+Spain,Protective service,28,587,0.008155722899936088
+Spain,"Farming, fishing & forestry",7,175,0.0024314335732347793
+Spain,Military,3,62,8.614221802317503e-4
+Spain,Food processing,3,49,6.808014005057381e-4
+Sri Lanka,"Management, business & financial",383,7727,0.20144953984931044
+Sri Lanka,"Computer, engineering & science",392,7559,0.19706963526866023
+Sri Lanka,"Education, legal, community service, arts & media",328,6097,0.15895403707276376
+Sri Lanka,Sales,140,3310,0.08629454858304873
+Sri Lanka,Healthcare practitioners & technical,144,3013,0.07855150298511354
+Sri Lanka,Office & administrative support,131,2796,0.07289412623510702
+Sri Lanka,Transportation & material moving,87,2094,0.05459238209453294
+Sri Lanka,Food preparation & serving,61,1471,0.03835023594128842
+Sri Lanka,Production,47,1095,0.028547592356023672
+Sri Lanka,Personal care & service,29,876,0.022838073884818937
+Sri Lanka,Building & grounds cleaning,35,820,0.02137810569126887
+Sri Lanka,Healthcare support,40,740,0.0192924368433402
+Sri Lanka,"Installation, maintenance & repair",19,297,0.007743045597935188
+Sri Lanka,Protective service,14,186,0.004849180071434158
+Sri Lanka,Construction & extraction,8,130,0.003389211877884089
+Sri Lanka,Military,4,74,0.0019292436843340198
+Sri Lanka,Food processing,3,72,0.001877101963135803
+St. Kitts and Nevis,"Management, business & financial",62,1519,0.1640920384573836
+St. Kitts and Nevis,"Education, legal, community service, arts & media",42,1274,0.13762558064167657
+St. Kitts and Nevis,Office & administrative support,38,1267,0.13686939613265636
+St. Kitts and Nevis,Healthcare support,24,825,0.08912174570595226
+St. Kitts and Nevis,Healthcare practitioners & technical,26,630,0.06805660581181808
+St. Kitts and Nevis,"Computer, engineering & science",20,622,0.06719239494436642
+St. Kitts and Nevis,Sales,21,553,0.05973857621259587
+St. Kitts and Nevis,Transportation & material moving,14,531,0.057361996327103815
+St. Kitts and Nevis,Building & grounds cleaning,14,476,0.05142054661337366
+St. Kitts and Nevis,"Installation, maintenance & repair",12,365,0.03942962082748191
+St. Kitts and Nevis,Production,8,331,0.03575672464081236
+St. Kitts and Nevis,Protective service,11,322,0.03478448741492924
+St. Kitts and Nevis,Construction & extraction,8,245,0.026466457815707032
+St. Kitts and Nevis,Food preparation & serving,8,212,0.02290158798746894
+St. Kitts and Nevis,Personal care & service,3,69,0.007453818731770552
+St. Kitts and Nevis,Food processing,1,16,0.0017284217349033163
+St. Lucia,"Management, business & financial",91,3067,0.16988866116434942
+St. Lucia,Office & administrative support,63,1814,0.10048191436326373
+St. Lucia,"Education, legal, community service, arts & media",53,1740,0.0963828726527447
+St. Lucia,Transportation & material moving,43,1609,0.089126460976015065
+St. Lucia,Sales,38,1348,0.07466903007810337
+St. Lucia,Healthcare practitioners & technical,45,1342,0.07433667534481804
+St. Lucia,Construction & extraction,35,1295,0.07173322993408297
+St. Lucia,Healthcare support,51,1284,0.07112391292305988
+St. Lucia,Building & grounds cleaning,30,792,0.0438708247936631
+St. Lucia,Personal care & service,29,714,0.039550213260953856
+St. Lucia,"Computer, engineering & science",34,676,0.03744529995014679
+St. Lucia,"Installation, maintenance & repair",16,624,0.03456489226167396
+St. Lucia,Food preparation & serving,20,548,0.030355065640059825
+St. Lucia,Protective service,19,523,0.028970254251370963
+St. Lucia,Production,17,474,0.026256023929540795
+St. Lucia,Food processing,4,167,0.009250540076441589
+St. Lucia,Military,1,36,0.0019941283997119592
+St. Vincent and the Grenadines,"Management, business & financial",68,1803,0.13401218968336553
+St. Vincent and the Grenadines,"Education, legal, community service, arts & media",54,1584,0.11773450275011149
+St. Vincent and the Grenadines,Office & administrative support,53,1498,0.1113423517169615
+St. Vincent and the Grenadines,Healthcare support,56,1452,0.1079232941876022
+St. Vincent and the Grenadines,Transportation & material moving,38,1151,0.08555076557157723
+St. Vincent and the Grenadines,Healthcare practitioners & technical,43,1061,0.07886130518804817
+St. Vincent and the Grenadines,Personal care & service,25,913,0.0678608592240226
+St. Vincent and the Grenadines,"Computer, engineering & science",20,659,0.048981715474951684
+St. Vincent and the Grenadines,Protective service,24,646,0.048015460086219715
+St. Vincent and the Grenadines,Building & grounds cleaning,20,606,0.045042366582429015
+St. Vincent and the Grenadines,Construction & extraction,24,546,0.04058272632674298
+St. Vincent and the Grenadines,Sales,21,456,0.033893265943213916
+St. Vincent and the Grenadines,"Installation, maintenance & repair",15,413,0.030697190426638918
+St. Vincent and the Grenadines,Food preparation & serving,14,335,0.024899658094247063
+St. Vincent and the Grenadines,Production,8,321,0.02385907536792032
+St. Vincent and the Grenadines,Military,1,10,7.432733759476735e-4
+Sudan,Transportation & material moving,242,8633,0.23113788487282463
+Sudan,"Management, business & financial",120,3977,0.10647925033467202
+Sudan,Production,88,3521,0.09427041499330656
+Sudan,"Education, legal, community service, arts & media",105,3233,0.08655957161981258
+Sudan,Office & administrative support,83,3156,0.08449799196787149
+Sudan,"Computer, engineering & science",81,2412,0.06457831325301205
+Sudan,Sales,61,2226,0.059598393574297186
+Sudan,Healthcare practitioners & technical,71,1953,0.052289156626506024
+Sudan,Healthcare support,36,1372,0.036733601070950465
+Sudan,Food preparation & serving,33,1258,0.033681392235609106
+Sudan,Protective service,30,1102,0.029504685408299865
+Sudan,Building & grounds cleaning,32,1022,0.027362784471218204
+Sudan,Food processing,19,983,0.0263186077643909
+Sudan,"Installation, maintenance & repair",24,918,0.02457831325301205
+Sudan,Personal care & service,21,807,0.021606425702811245
+Sudan,Construction & extraction,17,462,0.012369477911646587
+Sudan,Military,2,180,0.004819277108433735
+Sudan,"Farming, fishing & forestry",3,135,0.0036144578313253013
+Sweden,"Management, business & financial",435,8497,0.33218655928691504
+Sweden,"Education, legal, community service, arts & media",204,3941,0.15407169944094765
+Sweden,"Computer, engineering & science",215,3920,0.1532507134758982
+Sweden,Sales,100,2128,0.08319324445834474
+Sweden,Office & administrative support,96,1788,0.06990109073849643
+Sweden,Healthcare practitioners & technical,62,1208,0.04722624027522577
+Sweden,Personal care & service,46,1177,0.04601430861253372
+Sweden,Transportation & material moving,39,649,0.025372375777004574
+Sweden,Protective service,15,477,0.018648109777551897
+Sweden,Food preparation & serving,23,361,0.014113139684897767
+Sweden,Production,22,355,0.013878572266312209
+Sweden,"Installation, maintenance & repair",18,329,0.012862113452441455
+Sweden,Construction & extraction,13,310,0.01211931662692052
+Sweden,Healthcare support,14,223,0.008718089057429924
+Sweden,Building & grounds cleaning,11,121,0.004730442941475429
+Sweden,Military,3,52,0.0020329176277415067
+Sweden,"Farming, fishing & forestry",3,43,0.001681066499863169
+Switzerland,"Management, business & financial",309,6354,0.31913611250627827
+Switzerland,"Education, legal, community service, arts & media",205,3779,0.1898041185334003
+Switzerland,"Computer, engineering & science",173,3165,0.15896534404821697
+Switzerland,Sales,89,1623,0.08151682571572075
+Switzerland,Office & administrative support,76,1349,0.067754897036665
+Switzerland,Healthcare practitioners & technical,47,773,0.03882471120040181
+Switzerland,Transportation & material moving,40,756,0.03797086891009543
+Switzerland,Personal care & service,22,392,0.019688598694123555
+Switzerland,Food preparation & serving,23,323,0.016223003515821195
+Switzerland,Construction & extraction,18,317,0.01592164741336012
+Switzerland,Production,19,316,0.015871421396283274
+Switzerland,"Installation, maintenance & repair",14,206,0.010346559517830235
+Switzerland,Building & grounds cleaning,9,195,0.009794073329984932
+Switzerland,Healthcare support,9,144,0.007232546459065796
+Switzerland,Food processing,3,97,0.004871923656454043
+Switzerland,Protective service,7,82,0.004118533400301356
+Switzerland,"Farming, fishing & forestry",2,39,0.0019588146659969864
+Syria,Sales,347,9134,0.16396208803044446
+Syria,"Management, business & financial",362,9011,0.16175414662167015
+Syria,Healthcare practitioners & technical,324,7283,0.13073526243986502
+Syria,"Education, legal, community service, arts & media",234,5295,0.0950491850362605
+Syria,Transportation & material moving,180,4560,0.08185538881309687
+Syria,"Computer, engineering & science",191,4185,0.07512386012780929
+Syria,Office & administrative support,147,3642,0.06537660659151288
+Syria,Food preparation & serving,96,2696,0.048395203561427444
+Syria,Production,76,2386,0.042830473181589716
+Syria,Healthcare support,69,1657,0.02974438141739068
+Syria,Construction & extraction,59,1554,0.027895454871831694
+Syria,"Installation, maintenance & repair",53,1368,0.02455661664392906
+Syria,Building & grounds cleaning,39,1111,0.019943275651611976
+Syria,Personal care & service,48,1109,0.019907374165290443
+Syria,Protective service,15,410,0.0073598046959144105
+Syria,Food processing,8,232,0.004164572413297911
+Syria,"Farming, fishing & forestry",4,75,0.001346305737057514
+Taiwan,"Management, business & financial",3172,59655,0.2699528923039329
+Taiwan,"Computer, engineering & science",2823,51563,0.2333346909038252
+Taiwan,"Education, legal, community service, arts & media",1729,30897,0.13981618495540382
+Taiwan,Healthcare practitioners & technical,1019,18457,0.08352226189344882
+Taiwan,Office & administrative support,979,17265,0.07812818180584027
+Taiwan,Sales,885,15726,0.07116384518266111
+Taiwan,Food preparation & serving,308,5616,0.025413719607390615
+Taiwan,Transportation & material moving,275,5207,0.023562898503504796
+Taiwan,Healthcare support,250,4289,0.01940873279845056
+Taiwan,Production,197,3449,0.01560753542127675
+Taiwan,Personal care & service,159,2721,0.012313164361059448
+Taiwan,"Installation, maintenance & repair",101,2058,0.009312933574075834
+Taiwan,Protective service,51,1372,0.006208622382717223
+Taiwan,Construction & extraction,65,1188,0.005375979147717245
+Taiwan,Building & grounds cleaning,62,1063,0.004810324776114
+Taiwan,Food processing,19,312,0.0014118733115217007
+Taiwan,Military,5,79,3.5749356285325116e-4
+Taiwan,"Farming, fishing & forestry",6,66,2.9866550820651364e-4
+Tanzania,"Management, business & financial",120,3104,0.1647820778255561
+Tanzania,Office & administrative support,62,2133,0.11323459149546106
+Tanzania,"Education, legal, community service, arts & media",92,2019,0.10718267240006371
+Tanzania,"Computer, engineering & science",66,1907,0.10123692732388384
+Tanzania,Transportation & material moving,60,1904,0.1010776662950576
+Tanzania,Healthcare practitioners & technical,88,1821,0.09667144449753146
+Tanzania,Healthcare support,55,1517,0.08053299357647184
+Tanzania,Sales,50,1316,0.06986250464511334
+Tanzania,Production,30,1063,0.05643149121409991
+Tanzania,Food preparation & serving,22,502,0.026649678823591868
+Tanzania,Building & grounds cleaning,14,349,0.018527366353453308
+Tanzania,"Installation, maintenance & repair",13,317,0.016828582045973352
+Tanzania,Protective service,14,301,0.015979189892233372
+Tanzania,Personal care & service,11,284,0.015076710728884642
+Tanzania,Construction & extraction,8,208,0.011042097998619738
+Tanzania,Food processing,3,44,0.0023358284227849445
+Tanzania,"Farming, fishing & forestry",1,34,0.0018049583266974572
+Tanzania,Military,1,14,7.432181345224824e-4
+Thailand,"Management, business & financial",1095,23196,0.15043777158051755
+Thailand,Food preparation & serving,963,20451,0.13263506063947078
+Thailand,Production,532,15458,0.10025293469096569
+Thailand,Office & administrative support,621,13656,0.08856605486737143
+Thailand,"Computer, engineering & science",563,11700,0.0758804072897075
+Thailand,Sales,454,11296,0.0732602633114988
+Thailand,Transportation & material moving,448,10962,0.07109410467604903
+Thailand,"Education, legal, community service, arts & media",519,10900,0.07069200337246255
+Thailand,Healthcare practitioners & technical,494,10115,0.06560088202866593
+Thailand,Healthcare support,379,7940,0.0514949088786562
+Thailand,Personal care & service,277,5639,0.036571762111680395
+Thailand,Building & grounds cleaning,149,3242,0.02102600687463519
+Thailand,"Installation, maintenance & repair",135,3227,0.02092872430118685
+Thailand,Food processing,72,2320,0.015046371360010377
+Thailand,Construction & extraction,86,1913,0.012406770867112005
+Thailand,Protective service,74,1694,0.010986445294766197
+Thailand,"Farming, fishing & forestry",19,279,0.001809455866139179
+Thailand,Military,24,202,0.0013100719891043517
+Togo,Transportation & material moving,101,3294,0.12808647976046972
+Togo,"Management, business & financial",89,3086,0.11999844460862465
+Togo,Healthcare support,73,2472,0.09612318699692811
+Togo,Office & administrative support,79,2280,0.08865730839522495
+Togo,Production,65,2186,0.08500213866314112
+Togo,"Computer, engineering & science",60,2063,0.08021931018392503
+Togo,"Education, legal, community service, arts & media",58,1803,0.07010926624411867
+Togo,Building & grounds cleaning,35,1500,0.05832717657580589
+Togo,Food preparation & serving,40,1488,0.05786055916319944
+Togo,Sales,42,1371,0.05331103939028658
+Togo,Protective service,35,1285,0.04996694793327371
+Togo,Healthcare practitioners & technical,31,1057,0.04110121709375122
+Togo,"Installation, maintenance & repair",14,468,0.018198079091651435
+Togo,Personal care & service,22,414,0.016098300734922424
+Togo,Food processing,14,383,0.014892872419022436
+Togo,Military,10,306,0.0118987440214644
+Togo,Construction & extraction,12,224,0.008710191701987013
+Togo,"Farming, fishing & forestry",1,37,0.001438737022203212
+Tonga,Healthcare support,54,1345,0.1568879038842879
+Tonga,"Management, business & financial",43,1137,0.13262568529102997
+Tonga,Transportation & material moving,44,1031,0.12026128543100431
+Tonga,Office & administrative support,33,864,0.10078152338737897
+Tonga,Construction & extraction,26,726,0.08468447451300595
+Tonga,Production,19,708,0.08258485944243556
+Tonga,"Education, legal, community service, arts & media",26,533,0.06217193514522337
+Tonga,Building & grounds cleaning,21,464,0.05412341070803686
+Tonga,Healthcare practitioners & technical,12,356,0.04152572028461449
+Tonga,"Installation, maintenance & repair",10,299,0.03487693922780823
+Tonga,Food preparation & serving,8,291,0.03394377697422139
+Tonga,Sales,12,188,0.021929312959290796
+Tonga,"Computer, engineering & science",10,183,0.02134608655079902
+Tonga,Personal care & service,10,177,0.02064621486060889
+Tonga,Protective service,5,145,0.016913565846261518
+Tonga,Food processing,3,104,0.012131109296628952
+Tonga,"Farming, fishing & forestry",1,19,0.002216260352268751
+Tonga,Military,1,3,3.499358450950659e-4
+Trinidad and Tobago,"Management, business & financial",913,23429,0.16552917903066272
+Trinidad and Tobago,Office & administrative support,653,18003,0.12719372615515048
+Trinidad and Tobago,"Education, legal, community service, arts & media",564,14849,0.10491027271442702
+Trinidad and Tobago,Healthcare practitioners & technical,459,12063,0.08522679101314116
+Trinidad and Tobago,Transportation & material moving,380,11350,0.08018934576798079
+Trinidad and Tobago,Healthcare support,368,10197,0.07204323866044934
+Trinidad and Tobago,Sales,346,9758,0.06894164193867458
+Trinidad and Tobago,"Computer, engineering & science",316,8936,0.06313409636851773
+Trinidad and Tobago,Construction & extraction,187,5822,0.04113324855164618
+Trinidad and Tobago,Building & grounds cleaning,196,5727,0.04046206019499788
+Trinidad and Tobago,"Installation, maintenance & repair",186,5269,0.037226225801893456
+Trinidad and Tobago,Personal care & service,186,5257,0.03714144411473788
+Trinidad and Tobago,Protective service,139,3930,0.027766002543450616
+Trinidad and Tobago,Food preparation & serving,135,3539,0.025003532570298147
+Trinidad and Tobago,Production,121,3052,0.02156280909990109
+Trinidad and Tobago,Military,11,191,0.0013494418538928924
+Trinidad and Tobago,Food processing,6,95,6.711883566482973e-4
+Trinidad and Tobago,"Farming, fishing & forestry",4,73,5.157552635297443e-4
+Turkey,"Management, business & financial",914,20095,0.209022446899249
+Turkey,"Computer, engineering & science",819,17619,0.18326780253385758
+Turkey,"Education, legal, community service, arts & media",730,15287,0.15901100501362625
+Turkey,Sales,356,9607,0.099929268343423
+Turkey,Transportation & material moving,296,8057,0.08380661132954711
+Turkey,Office & administrative support,258,6046,0.06288876406831846
+Turkey,Healthcare practitioners & technical,202,4282,0.04454014021510745
+Turkey,Food preparation & serving,172,3850,0.040046599679627204
+Turkey,Personal care & service,93,2926,0.030435415756516673
+Turkey,Production,97,2547,0.026493166073768958
+Turkey,Construction & extraction,56,1552,0.016143460442280887
+Turkey,Building & grounds cleaning,41,1152,0.01198277476128066
+Turkey,Healthcare support,43,1067,0.01109862905406811
+Turkey,"Installation, maintenance & repair",44,1029,0.010703363914373088
+Turkey,Protective service,26,558,0.005804156524995319
+Turkey,"Farming, fishing & forestry",26,212,0.002205163410930121
+Turkey,Military,6,171,0.0017786931286275977
+Turkey,Food processing,6,81,8.425388504025463e-4
+"USSR, n.s.","Management, business & financial",406,8784,0.21688888888888888
+"USSR, n.s.","Computer, engineering & science",429,8085,0.19962962962962963
+"USSR, n.s.","Education, legal, community service, arts & media",307,6125,0.15123456790123457
+"USSR, n.s.",Healthcare practitioners & technical,160,3347,0.08264197530864198
+"USSR, n.s.",Sales,102,2682,0.06622222222222222
+"USSR, n.s.",Office & administrative support,102,2322,0.05733333333333333
+"USSR, n.s.",Transportation & material moving,73,2120,0.05234567901234568
+"USSR, n.s.",Healthcare support,78,1983,0.048962962962962965
+"USSR, n.s.",Construction & extraction,40,1161,0.028666666666666667
+"USSR, n.s.",Production,44,869,0.02145679012345679
+"USSR, n.s.","Installation, maintenance & repair",31,780,0.01925925925925926
+"USSR, n.s.",Personal care & service,29,695,0.017160493827160495
+"USSR, n.s.",Building & grounds cleaning,23,594,0.014666666666666666
+"USSR, n.s.",Protective service,23,438,0.010814814814814815
+"USSR, n.s.",Food preparation & serving,14,399,0.009851851851851851
+"USSR, n.s.",Food processing,4,59,0.00145679012345679
+"USSR, n.s.",Military,2,40,9.876543209876543e-4
+"USSR, n.s.","Farming, fishing & forestry",1,17,4.197530864197531e-4
+Uganda,Healthcare support,122,3725,0.15789919884701792
+Uganda,Healthcare practitioners & technical,100,3094,0.13115171039803314
+Uganda,"Management, business & financial",127,3082,0.13064304183798905
+Uganda,"Education, legal, community service, arts & media",138,2661,0.11279725318977576
+Uganda,"Computer, engineering & science",81,2120,0.08986477894112162
+Uganda,Transportation & material moving,55,1869,0.07922512822686618
+Uganda,Office & administrative support,72,1828,0.07748717731338223
+Uganda,Sales,65,1813,0.07685134161332711
+Uganda,Production,30,1271,0.05387647831800263
+Uganda,Food preparation & serving,25,505,0.021406468568521894
+Uganda,Protective service,14,413,0.01750667627485058
+Uganda,"Installation, maintenance & repair",15,363,0.01538722394133356
+Uganda,Personal care & service,15,302,0.012801492094442797
+Uganda,Building & grounds cleaning,11,251,0.010639650714255437
+Uganda,Construction & extraction,4,165,0.006994192700606163
+Uganda,"Farming, fishing & forestry",2,66,0.002797677080242465
+Uganda,Military,5,63,0.002670509940231444
+Ukraine,"Management, business & financial",2008,45157,0.17466899264685973
+Ukraine,"Computer, engineering & science",1564,32250,0.124744225986253
+Ukraine,"Education, legal, community service, arts & media",1127,25138,0.09723473962302101
+Ukraine,Transportation & material moving,827,23311,0.09016783416947421
+Ukraine,Office & administrative support,837,20711,0.08011093533027243
+Ukraine,Sales,741,18663,0.07218919347539347
+Ukraine,Healthcare practitioners & technical,872,18193,0.070371215608307
+Ukraine,Healthcare support,682,16426,0.06353639243566486
+Ukraine,Construction & extraction,543,13915,0.05382374897980497
+Ukraine,Production,406,10102,0.03907492002831404
+Ukraine,"Installation, maintenance & repair",368,9261,0.03582190005763377
+Ukraine,Building & grounds cleaning,322,8536,0.0330175724967025
+Ukraine,Food preparation & serving,294,6573,0.025424613873105146
+Ukraine,Personal care & service,234,5589,0.021618464466268774
+Ukraine,Protective service,117,2768,0.01070672922573483
+Ukraine,Food processing,47,1113,0.004305126310781383
+Ukraine,Military,19,567,0.0021931775545490063
+Ukraine,"Farming, fishing & forestry",8,256,9.902177318598688e-4
+United Arab Emirates,"Management, business & financial",163,3862,0.2594906940804945
+United Arab Emirates,"Computer, engineering & science",158,3248,0.2182355707854599
+United Arab Emirates,Healthcare practitioners & technical,84,2131,0.143183497950682
+United Arab Emirates,"Education, legal, community service, arts & media",69,1357,0.0911778539272996
+United Arab Emirates,Office & administrative support,43,914,0.06141234966068669
+United Arab Emirates,Sales,44,802,0.053886985150843246
+United Arab Emirates,Transportation & material moving,18,751,0.05046025666868239
+United Arab Emirates,Food preparation & serving,21,481,0.03231875293959551
+United Arab Emirates,Personal care & service,23,324,0.02176980447490425
+United Arab Emirates,"Installation, maintenance & repair",6,306,0.020560370892965127
+United Arab Emirates,Production,10,228,0.015319492037895585
+United Arab Emirates,Healthcare support,17,175,0.011758382046630383
+United Arab Emirates,Military,3,107,0.0071894107370825775
+United Arab Emirates,Building & grounds cleaning,4,106,0.007122219982530404
+United Arab Emirates,Protective service,4,61,0.004098636027682591
+United Arab Emirates,Construction & extraction,1,30,0.0020157226365652087
+United Kingdom,"Management, business & financial",6379,128630,0.3239169193267323
+United Kingdom,"Education, legal, community service, arts & media",3142,61676,0.15531291235633632
+United Kingdom,"Computer, engineering & science",2555,50821,0.1279777793446619
+United Kingdom,Sales,1598,32275,0.08127511911117379
+United Kingdom,Office & administrative support,1516,30089,0.07577031940932945
+United Kingdom,Healthcare practitioners & technical,1144,24119,0.06073662580456702
+United Kingdom,Transportation & material moving,618,13230,0.033315873767337856
+United Kingdom,Construction & extraction,406,9005,0.022676450738841825
+United Kingdom,Personal care & service,422,8386,0.021117680832418384
+United Kingdom,Production,395,8216,0.02068958570464458
+United Kingdom,Food preparation & serving,359,7482,0.01884122203531533
+United Kingdom,"Installation, maintenance & repair",304,5766,0.014519979451433867
+United Kingdom,Healthcare support,272,5424,0.013658752782618331
+United Kingdom,Building & grounds cleaning,227,5350,0.013472405491705027
+United Kingdom,Protective service,213,4219,0.010624313788692245
+United Kingdom,Food processing,36,943,0.002374668855827634
+United Kingdom,Military,36,930,0.0023419321695861074
+United Kingdom,"Farming, fishing & forestry",32,547,0.0013774590287780654
+Uruguay,"Management, business & financial",226,5523,0.15451112043642468
+Uruguay,Construction & extraction,127,3728,0.10429430689606937
+Uruguay,Building & grounds cleaning,104,3311,0.09262833962791998
+Uruguay,Office & administrative support,124,3154,0.08823611693943209
+Uruguay,Transportation & material moving,121,3143,0.08792838159183103
+Uruguay,"Education, legal, community service, arts & media",129,2843,0.07953559938452931
+Uruguay,Food preparation & serving,76,2332,0.06523989369142537
+Uruguay,Production,74,1994,0.055784025737865436
+Uruguay,"Computer, engineering & science",76,1950,0.054553084347461187
+Uruguay,"Installation, maintenance & repair",51,1923,0.05379773394880403
+Uruguay,Sales,84,1913,0.05351797454189397
+Uruguay,Healthcare practitioners & technical,48,1155,0.03231221149811162
+Uruguay,Personal care & service,32,1027,0.02873129108966289
+Uruguay,Healthcare support,28,916,0.025625961672961252
+Uruguay,Protective service,20,429,0.01200167855644146
+Uruguay,Food processing,7,220,0.0061547069520212615
+Uruguay,"Farming, fishing & forestry",4,168,0.004699958036088963
+Uruguay,Military,1,16,4.4761505105609176e-4
+Uzbekistan,Transportation & material moving,235,8359,0.18100125590056731
+Uzbekistan,"Management, business & financial",294,6955,0.15059980078818588
+Uzbekistan,Healthcare support,191,5914,0.1280585509505868
+Uzbekistan,"Computer, engineering & science",191,4083,0.08841106924775886
+Uzbekistan,"Education, legal, community service, arts & media",166,3928,0.08505478324888485
+Uzbekistan,Healthcare practitioners & technical,140,3689,0.07987960677320168
+Uzbekistan,Office & administrative support,150,3523,0.0762851327356979
+Uzbekistan,Sales,113,2603,0.05636395132302629
+Uzbekistan,Construction & extraction,59,1624,0.03516521588497683
+Uzbekistan,Production,42,1448,0.031354207266900525
+Uzbekistan,Personal care & service,50,1115,0.024143605733835692
+Uzbekistan,Food preparation & serving,45,977,0.021155428521934954
+Uzbekistan,Building & grounds cleaning,34,785,0.01699796457494262
+Uzbekistan,"Installation, maintenance & repair",35,567,0.012277510718461738
+Uzbekistan,Protective service,15,305,0.006604304707461782
+Uzbekistan,Military,5,152,0.003291325624702265
+Uzbekistan,Food processing,5,135,0.0029232168377289853
+Uzbekistan,"Farming, fishing & forestry",1,20,4.330691611450349e-4
+Venezuela,"Management, business & financial",2750,71356,0.1619166046435638
+Venezuela,Transportation & material moving,1582,52313,0.11870541144008569
+Venezuela,Office & administrative support,1565,45916,0.10418973623540945
+Venezuela,Sales,1488,42051,0.09541951821663913
+Venezuela,"Education, legal, community service, arts & media",1539,38547,0.08746845898306316
+Venezuela,Construction & extraction,963,32470,0.07367890790930709
+Venezuela,Food preparation & serving,902,29783,0.0675817343474867
+Venezuela,Building & grounds cleaning,796,26809,0.06083331820574727
+Venezuela,"Computer, engineering & science",1046,26783,0.060774320620110005
+Venezuela,Production,684,21353,0.04845290177355819
+Venezuela,"Installation, maintenance & repair",439,13520,0.03067874453137764
+Venezuela,Healthcare practitioners & technical,511,12542,0.028459527656252835
+Venezuela,Personal care & service,364,10404,0.02360811080654238
+Venezuela,Healthcare support,345,10350,0.0234855773594496
+Venezuela,Protective service,108,2722,0.006176593388639788
+Venezuela,Food processing,74,2497,0.005666037359086536
+Venezuela,"Farming, fishing & forestry",28,828,0.0018788461887559679
+Venezuela,Military,18,452,0.0010256503349247554
+Vietnam,Personal care & service,7413,164321,0.1996551740896985
+Vietnam,"Management, business & financial",4947,97095,0.11797347343455356
+Vietnam,Production,4610,96130,0.11680096813701667
+Vietnam,"Computer, engineering & science",4776,93628,0.11376095958319563
+Vietnam,Office & administrative support,2943,57267,0.06958120297828496
+Vietnam,Healthcare practitioners & technical,2753,54498,0.06621678104162211
+Vietnam,Sales,2325,48307,0.05869452166643986
+Vietnam,"Education, legal, community service, arts & media",2282,43773,0.053185569315111106
+Vietnam,Food preparation & serving,1981,41755,0.050733635957153134
+Vietnam,Transportation & material moving,1691,35258,0.04283957697466902
+Vietnam,Healthcare support,1407,27476,0.03338420264779642
+Vietnam,"Installation, maintenance & repair",1013,21279,0.025854653084235697
+Vietnam,Building & grounds cleaning,711,14599,0.017738243356208324
+Vietnam,Construction & extraction,586,13100,0.01591691129298781
+Vietnam,Food processing,237,6231,0.007570860631038706
+Vietnam,Protective service,237,5059,0.006146843834444682
+Vietnam,"Farming, fishing & forestry",82,2070,0.0025151149905713564
+Vietnam,Military,46,1178,0.0014313069849724916
+Yemen,Sales,255,8710,0.3056676609931567
+Yemen,Transportation & material moving,138,4337,0.15220214072644322
+Yemen,"Management, business & financial",101,2720,0.09545534304263906
+Yemen,Food preparation & serving,63,2358,0.08275135988769959
+Yemen,Production,62,1834,0.06436216880154413
+Yemen,"Education, legal, community service, arts & media",59,1436,0.05039480610633444
+Yemen,Office & administrative support,46,1286,0.04513072468854185
+Yemen,"Computer, engineering & science",44,1017,0.0356904720126338
+Yemen,Construction & extraction,32,948,0.033268994560449204
+Yemen,Healthcare practitioners & technical,36,790,0.027724162133707667
+Yemen,Building & grounds cleaning,27,788,0.027653974381470433
+Yemen,"Installation, maintenance & repair",18,495,0.017371468678715564
+Yemen,Protective service,10,454,0.015932619757852255
+Yemen,Personal care & service,17,453,0.015897525881733637
+Yemen,Healthcare support,14,380,0.013335672925074574
+Yemen,"Farming, fishing & forestry",2,262,0.009194595543077734
+Yemen,Food processing,8,215,0.00754518336550272
+Yemen,Military,1,12,4.211265134234076e-4
+Yugoslavia,"Management, business & financial",114,2640,0.17323971389198767
+Yugoslavia,"Education, legal, community service, arts & media",70,1719,0.11280267734103287
+Yugoslavia,Transportation & material moving,40,1568,0.10289389067524116
+Yugoslavia,Sales,60,1553,0.10190957411903669
+Yugoslavia,"Computer, engineering & science",64,1398,0.0917383030382571
+Yugoslavia,Office & administrative support,47,1364,0.08950718551086029
+Yugoslavia,Building & grounds cleaning,22,1015,0.0666054203031695
+Yugoslavia,Production,37,821,0.05387492617625828
+Yugoslavia,Construction & extraction,31,777,0.05098759761139182
+Yugoslavia,Healthcare practitioners & technical,32,626,0.041078810945600105
+Yugoslavia,Food preparation & serving,21,460,0.030185707723603912
+Yugoslavia,Healthcare support,17,438,0.02874204344117068
+Yugoslavia,Protective service,10,367,0.024082945075136163
+Yugoslavia,"Installation, maintenance & repair",14,326,0.021392479821510598
+Yugoslavia,Personal care & service,7,138,0.009055712317081173
+Yugoslavia,Food processing,1,18,0.0011811798674453704
+Yugoslavia,"Farming, fishing & forestry",1,11,7.218321412166153e-4
+Zambia,"Management, business & financial",110,2558,0.2124761192790099
+Zambia,Healthcare practitioners & technical,64,1816,0.15084309328017279
+Zambia,"Computer, engineering & science",54,1591,0.13215383337486503
+Zambia,Sales,29,1106,0.0918680953567572
+Zambia,Transportation & material moving,30,1057,0.08779798986626797
+Zambia,Healthcare support,34,1032,0.08572140543234488
+Zambia,"Education, legal, community service, arts & media",42,932,0.07741506769665255
+Zambia,Office & administrative support,34,918,0.07625218041365561
+Zambia,Construction & extraction,6,307,0.025500456848575465
+Zambia,Food preparation & serving,9,182,0.015117534678960046
+Zambia,Protective service,5,133,0.011047429188470802
+Zambia,Production,9,127,0.010549048924329263
+Zambia,Personal care & service,4,106,0.008804717999833874
+Zambia,"Installation, maintenance & repair",4,92,0.007641830716836946
+Zambia,Building & grounds cleaning,3,82,0.006811196943267713
+Zimbabwe,"Management, business & financial",190,5443,0.26077999233422766
+Zimbabwe,Healthcare practitioners & technical,98,2629,0.12595822154082023
+Zimbabwe,"Computer, engineering & science",109,2613,0.12519164430816404
+Zimbabwe,"Education, legal, community service, arts & media",99,2287,0.10957263319279417
+Zimbabwe,Office & administrative support,82,1833,0.08782100421617478
+Zimbabwe,Sales,57,1287,0.061661556151782294
+Zimbabwe,Healthcare support,32,1147,0.05495400536604063
+Zimbabwe,Transportation & material moving,32,931,0.044605212725182065
+Zimbabwe,Food preparation & serving,14,565,0.027069758528171714
+Zimbabwe,"Installation, maintenance & repair",14,525,0.025153315446531238
+Zimbabwe,Protective service,10,446,0.0213683403602913
+Zimbabwe,Production,10,398,0.01906860866232273
+Zimbabwe,Construction & extraction,7,308,0.01475661172863166
+Zimbabwe,Building & grounds cleaning,10,217,0.010396703717899579
+Zimbabwe,Personal care & service,12,199,0.009534304331161364
+Zimbabwe,Food processing,2,27,0.0012935990801073208
+Zimbabwe,"Farming, fishing & forestry",2,17,8.14488309697202e-4

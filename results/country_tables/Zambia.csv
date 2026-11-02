@@ -1,159 +1,159 @@
-country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
-Zambia,676,17874,437,12039,3255,Registered nurses,26,732,0.06080239222526788
-Zambia,676,17874,437,12039,0440,Other managers,13,572,0.047512251848160145
-Zambia,676,17874,437,12039,3603,Nursing assistants,16,513,0.04261151258410167
-Zambia,676,17874,437,12039,3602,Personal care aides,17,502,0.041697815433175515
-Zambia,676,17874,437,12039,1021,Software developers,18,441,0.03663094941440319
-Zambia,676,17874,437,12039,3090,Physicians,10,362,0.030068942603206247
-Zambia,676,17874,437,12039,1530,Other engineers,2,336,0.02790929479192624
-Zambia,676,17874,437,12039,4700,First-line supervisors of retail sales workers,6,331,0.027493977905141624
-Zambia,676,17874,437,12039,9620,"Laborers and freight, stock, and material movers, hand",6,275,0.022842428773153917
-Zambia,676,17874,437,12039,0010,Chief executives and legislators,14,274,0.022759365395796993
-Zambia,676,17874,437,12039,9640,"Packers and packagers, hand",4,255,0.02118116122601545
-Zambia,676,17874,437,12039,9130,Driver/sales workers and truck drivers,7,227,0.018855386660021598
-Zambia,676,17874,437,12039,5740,"Secretaries and administrative assistants, except legal, medical, and executive",4,181,0.015034471301603123
-Zambia,676,17874,437,12039,4720,Cashiers,5,172,0.014286900905390813
-Zambia,676,17874,437,12039,2205,Postsecondary teachers,9,169,0.014037710773320044
-Zambia,676,17874,437,12039,4760,Retail salespersons,7,162,0.01345626713182158
-Zambia,676,17874,437,12039,3300,Clinical laboratory technologists and technicians,1,157,0.013040950245036964
-Zambia,676,17874,437,12039,5120,"Bookkeeping, accounting, and auditing clerks",6,152,0.012625633358252347
-Zambia,676,17874,437,12039,3500,Licensed practical and licensed vocational nurses,4,151,0.012542569980895424
-Zambia,676,17874,437,12039,1108,"Computer occupations, all other",2,145,0.012044189716753884
-Zambia,676,17874,437,12039,0800,Accountants and auditors,9,143,0.011878062962040036
-Zambia,676,17874,437,12039,5240,Customer service representatives,9,143,0.011878062962040036
-Zambia,676,17874,437,12039,0150,Purchasing managers,1,132,0.01096436581111388
-Zambia,676,17874,437,12039,3050,Pharmacists,8,131,0.010881302433756956
-Zambia,676,17874,437,12039,0750,"Business operations specialists, all other",3,128,0.010632112301686187
-Zambia,676,17874,437,12039,0340,Lodging managers,8,125,0.010382922169615416
-Zambia,676,17874,437,12039,5400,Receptionists and information clerks,4,125,0.010382922169615416
-Zambia,676,17874,437,12039,0710,Management analysts,3,120,0.0099676052828308
-Zambia,676,17874,437,12039,0110,Computer and information systems managers,5,119,0.009884541905473877
-Zambia,676,17874,437,12039,0940,Tax preparers,1,109,0.009053908131904643
-Zambia,676,17874,437,12039,4710,First-line supervisors of non-retail sales workers,2,109,0.009053908131904643
-Zambia,676,17874,437,12039,9142,Taxi drivers,3,102,0.00847246449040618
-Zambia,676,17874,437,12039,0230,Education and childcare administrators,5,99,0.008223274358335409
-Zambia,676,17874,437,12039,2310,Elementary and middle school teachers,4,99,0.008223274358335409
-Zambia,676,17874,437,12039,5840,Insurance claims and policy processing clerks,1,96,0.00797408422626464
-Zambia,676,17874,437,12039,6410,Painters and paperhangers,1,94,0.007807957471550793
-Zambia,676,17874,437,12039,6200,First-line supervisors of construction trades and extraction workers,2,92,0.007641830716836946
-Zambia,676,17874,437,12039,2300,Preschool and kindergarten teachers,4,88,0.007309577207409253
-Zambia,676,17874,437,12039,2640,Other designers,2,87,0.00722651383005233
-Zambia,676,17874,437,12039,9645,Stockers and order fillers,6,86,0.007143450452695406
-Zambia,676,17874,437,12039,2360,Other teachers and instructors,4,84,0.00697732369798156
-Zambia,676,17874,437,12039,2850,Writers and authors,2,84,0.00697732369798156
-Zambia,676,17874,437,12039,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",1,84,0.00697732369798156
-Zambia,676,17874,437,12039,0020,General and operations managers,5,82,0.006811196943267713
-Zambia,676,17874,437,12039,1006,Computer systems analysts,2,81,0.00672813356591079
-Zambia,676,17874,437,12039,3010,Dentists,3,81,0.00672813356591079
-Zambia,676,17874,437,12039,4810,Insurance sales agents,3,79,0.006562006811196943
-Zambia,676,17874,437,12039,0735,Market research analysts and marketing specialists,2,77,0.0063958800564830965
-Zambia,676,17874,437,12039,0120,Financial managers,5,76,0.0063128166791261734
-Zambia,676,17874,437,12039,0220,Construction managers,3,73,0.0060636265470554035
-Zambia,676,17874,437,12039,2100,"Lawyers, and judges, magistrates, and other judicial workers",2,68,0.005648309660270787
-Zambia,676,17874,437,12039,5522,"Dispatchers, except police, fire, and ambulance",2,68,0.005648309660270787
-Zambia,676,17874,437,12039,4020,Cooks,2,65,0.005399119528200017
-Zambia,676,17874,437,12039,4230,Maids and housekeeping cleaners,2,65,0.005399119528200017
-Zambia,676,17874,437,12039,4621,Exercise trainers and group fitness instructors,2,64,0.005316056150843094
-Zambia,676,17874,437,12039,3870,Police officers,1,60,0.0049838026414154
-Zambia,676,17874,437,12039,6515,Roofers,1,58,0.004817675886701553
-Zambia,676,17874,437,12039,1430,"Industrial engineers, including health and safety",1,57,0.00473461250934463
-Zambia,676,17874,437,12039,4800,Advertising sales agents,1,57,0.00473461250934463
-Zambia,676,17874,437,12039,9141,Shuttle drivers and chauffeurs,1,56,0.004651549131987707
-Zambia,676,17874,437,12039,0850,Personal financial advisors,4,55,0.004568485754630783
-Zambia,676,17874,437,12039,1555,"Other engineering technologists and technicians, except drafters",1,55,0.004568485754630783
-Zambia,676,17874,437,12039,1106,Computer network architects,3,51,0.00423623224520309
-Zambia,676,17874,437,12039,1305,"Architects, except landscape and naval",3,51,0.00423623224520309
-Zambia,676,17874,437,12039,3930,Security guards and gaming surveillance officers,2,51,0.00423623224520309
-Zambia,676,17874,437,12039,7200,Automotive service technicians and mechanics,2,49,0.004070105490489243
-Zambia,676,17874,437,12039,8740,"Inspectors, testers, sorters, samplers, and weighers",3,49,0.004070105490489243
-Zambia,676,17874,437,12039,0960,Other financial specialists,2,45,0.00373785198106155
-Zambia,676,17874,437,12039,4965,"Sales and related workers, all other",1,45,0.00373785198106155
-Zambia,676,17874,437,12039,1650,Other life scientists,2,44,0.0036547886037046266
-Zambia,676,17874,437,12039,4110,Waiters and waitresses,2,43,0.003571725226347703
-Zambia,676,17874,437,12039,1340,Biomedical and agricultural engineers,1,42,0.00348866184899078
-Zambia,676,17874,437,12039,4920,Real estate brokers and sales agents,1,42,0.00348866184899078
-Zambia,676,17874,437,12039,5860,"Office clerks, general",2,41,0.0034055984716338567
-Zambia,676,17874,437,12039,0420,Social and community service managers,3,40,0.003322535094276933
-Zambia,676,17874,437,12039,1022,Software quality assurance analysts and testers,2,40,0.003322535094276933
-Zambia,676,17874,437,12039,0860,Insurance underwriters,2,39,0.00323947171692001
-Zambia,676,17874,437,12039,5420,Other information and records clerks,1,39,0.00323947171692001
-Zambia,676,17874,437,12039,0410,"Property, real estate, and community association managers",5,38,0.0031564083395630867
-Zambia,676,17874,437,12039,1760,"Physical scientists, all other",1,36,0.00299028158484924
-Zambia,676,17874,437,12039,9030,Aircraft pilots and flight engineers,2,36,0.00299028158484924
-Zambia,676,17874,437,12039,3250,Veterinarians,1,34,0.0028241548301353933
-Zambia,676,17874,437,12039,1360,Civil engineers,2,33,0.00274109145277847
-Zambia,676,17874,437,12039,2740,Dancers and choreographers,1,33,0.00274109145277847
-Zambia,676,17874,437,12039,3330,Nuclear medicine technologists and medical dosimetrists,1,33,0.00274109145277847
-Zambia,676,17874,437,12039,6355,Electricians,1,33,0.00274109145277847
-Zambia,676,17874,437,12039,1410,Electrical and electronics engineers,2,31,0.0025749646980646234
-Zambia,676,17874,437,12039,2011,"Child, family, and school social workers",1,30,0.0024919013207077
-Zambia,676,17874,437,12039,3230,Speech-language pathologists,1,30,0.0024919013207077
-Zambia,676,17874,437,12039,4600,Childcare workers,1,30,0.0024919013207077
-Zambia,676,17874,437,12039,6260,Construction laborers,1,30,0.0024919013207077
-Zambia,676,17874,437,12039,0630,Human resources workers,2,29,0.0024088379433507764
-Zambia,676,17874,437,12039,2710,Producers and directors,1,28,0.0023257745659938534
-Zambia,676,17874,437,12039,0350,Medical and health services managers,2,27,0.00224271118863693
-Zambia,676,17874,437,12039,2025,Other community and social service specialists,2,27,0.00224271118863693
-Zambia,676,17874,437,12039,0640,"Compensation, benefits, and job analysis specialists",1,23,0.0019104576792092366
-Zambia,676,17874,437,12039,1105,Network and computer systems administrators,3,23,0.0019104576792092366
-Zambia,676,17874,437,12039,7315,"Heating, air conditioning, and refrigeration mechanics and installers",1,23,0.0019104576792092366
-Zambia,676,17874,437,12039,0160,"Transportation, storage, and distribution managers",1,22,0.0018273943018523133
-Zambia,676,17874,437,12039,1320,Aerospace engineers,1,21,0.00174433092449539
-Zambia,676,17874,437,12039,2016,Social and human service assistants,1,21,0.00174433092449539
-Zambia,676,17874,437,12039,8255,Printing press operators,1,21,0.00174433092449539
-Zambia,676,17874,437,12039,1010,Computer programmers,1,20,0.0016612675471384666
-Zambia,676,17874,437,12039,1050,Computer support specialists,2,20,0.0016612675471384666
-Zambia,676,17874,437,12039,2002,"Educational, guidance, and career counselors and advisors",2,20,0.0016612675471384666
-Zambia,676,17874,437,12039,3160,Physical therapists,2,20,0.0016612675471384666
-Zambia,676,17874,437,12039,7330,Industrial and refractory machinery mechanics,1,20,0.0016612675471384666
-Zambia,676,17874,437,12039,8620,Water and wastewater treatment plant and system operators,1,20,0.0016612675471384666
-Zambia,676,17874,437,12039,9760,Other material moving workers,1,20,0.0016612675471384666
-Zambia,676,17874,437,12039,2320,Secondary school teachers,1,19,0.0015782041697815434
-Zambia,676,17874,437,12039,2905,Other media and communication equipment workers,1,19,0.0015782041697815434
-Zambia,676,17874,437,12039,5710,Executive secretaries and executive administrative assistants,1,19,0.0015782041697815434
-Zambia,676,17874,437,12039,0310,Food service managers,2,18,0.00149514079242462
-Zambia,676,17874,437,12039,5850,"Mail clerks and mail machine operators, except postal service",1,18,0.00149514079242462
-Zambia,676,17874,437,12039,0540,"Claims adjusters, appraisers, examiners, and investigators",1,17,0.0014120774150676967
-Zambia,676,17874,437,12039,1240,Other mathematical science occupations,1,17,0.0014120774150676967
-Zambia,676,17874,437,12039,3630,Massage therapists,1,17,0.0014120774150676967
-Zambia,676,17874,437,12039,4251,Landscaping and groundskeeping workers,1,17,0.0014120774150676967
-Zambia,676,17874,437,12039,0102,Facilities managers,1,16,0.0013290140377107734
-Zambia,676,17874,437,12039,0650,Training and development specialists,1,16,0.0013290140377107734
-Zambia,676,17874,437,12039,1640,Conservation scientists and foresters,1,16,0.0013290140377107734
-Zambia,676,17874,437,12039,1745,"Environmental scientists and specialists, including health",1,16,0.0013290140377107734
-Zambia,676,17874,437,12039,2014,"Social workers, all other",1,16,0.0013290140377107734
-Zambia,676,17874,437,12039,3545,Miscellaneous health technologists and technicians,1,16,0.0013290140377107734
-Zambia,676,17874,437,12039,4030,Food preparation workers,1,16,0.0013290140377107734
-Zambia,676,17874,437,12039,4055,Fast food and counter workers,1,16,0.0013290140377107734
-Zambia,676,17874,437,12039,4950,"Door-to-door sales workers, news and street vendors, and related workers",1,16,0.0013290140377107734
-Zambia,676,17874,437,12039,5550,Postal service mail carriers,1,16,0.0013290140377107734
-Zambia,676,17874,437,12039,3422,Psychiatric technicians,1,15,0.00124595066035385
-Zambia,676,17874,437,12039,3910,Private detectives and investigators,1,15,0.00124595066035385
-Zambia,676,17874,437,12039,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,15,0.00124595066035385
-Zambia,676,17874,437,12039,2330,Special education teachers,1,14,0.0011628872829969267
-Zambia,676,17874,437,12039,3310,Dental hygienists,1,14,0.0011628872829969267
-Zambia,676,17874,437,12039,4120,"Food servers, nonrestaurant",1,14,0.0011628872829969267
-Zambia,676,17874,437,12039,4000,Chefs and head cooks,1,13,0.0010798239056400032
-Zambia,676,17874,437,12039,5610,"Shipping, receiving, and inventory clerks",1,13,0.0010798239056400032
-Zambia,676,17874,437,12039,0705,Project management specialists,2,12,9.9676052828308e-4
-Zambia,676,17874,437,12039,2634,Graphic designers,1,12,9.9676052828308e-4
-Zambia,676,17874,437,12039,3258,"Nurse practitioners, and nurse midwives",1,12,9.9676052828308e-4
-Zambia,676,17874,437,12039,4640,Residential advisors,1,12,9.9676052828308e-4
-Zambia,676,17874,437,12039,8225,Other metal workers and plastic workers,1,12,9.9676052828308e-4
-Zambia,676,17874,437,12039,2600,Artists and related workers,1,11,9.136971509261567e-4
-Zambia,676,17874,437,12039,3150,Occupational therapists,1,10,8.306337735692333e-4
-Zambia,676,17874,437,12039,3515,Medical records specialists,1,10,8.306337735692333e-4
-Zambia,676,17874,437,12039,8990,"Miscellaneous production workers, including equipment operators and tenders",1,10,8.306337735692333e-4
-Zambia,676,17874,437,12039,0140,Industrial production managers,1,9,7.4757039621231e-4
-Zambia,676,17874,437,12039,0360,Natural sciences managers,1,9,7.4757039621231e-4
-Zambia,676,17874,437,12039,1400,Computer hardware engineers,1,9,7.4757039621231e-4
-Zambia,676,17874,437,12039,4820,"Securities, commodities, and financial services sales agents",1,9,7.4757039621231e-4
-Zambia,676,17874,437,12039,3323,Radiologic technologists and technicians,1,8,6.645070188553867e-4
-Zambia,676,17874,437,12039,8750,Jewelers and precious stone and metal workers,1,8,6.645070188553867e-4
-Zambia,676,17874,437,12039,0051,Marketing managers,1,7,5.814436414984634e-4
-Zambia,676,17874,437,12039,0725,"Meeting, convention, and event planners",1,7,5.814436414984634e-4
-Zambia,676,17874,437,12039,3820,Detectives and criminal investigators,1,7,5.814436414984634e-4
-Zambia,676,17874,437,12039,5000,First-line supervisors of office and administrative support workers,1,7,5.814436414984634e-4
-Zambia,676,17874,437,12039,8365,"Textile machine setters, operators, and tenders",1,7,5.814436414984634e-4
-Zambia,676,17874,437,12039,1800,Economists,1,6,4.9838026414154e-4
-Zambia,676,17874,437,12039,2545,Teaching assistants,1,3,2.4919013207077e-4
+country,n_workers,workers,occ,occ_title,occ_share
+Zambia,26,732,3255,Registered nurses,0.06080239222526788
+Zambia,13,572,0440,Other managers,0.047512251848160145
+Zambia,16,513,3603,Nursing assistants,0.04261151258410167
+Zambia,17,502,3602,Personal care aides,0.041697815433175515
+Zambia,18,441,1021,Software developers,0.03663094941440319
+Zambia,10,362,3090,Physicians,0.030068942603206247
+Zambia,2,336,1530,Other engineers,0.02790929479192624
+Zambia,6,331,4700,First-line supervisors of retail sales workers,0.027493977905141624
+Zambia,6,275,9620,"Laborers and freight, stock, and material movers, hand",0.022842428773153917
+Zambia,14,274,0010,Chief executives and legislators,0.022759365395796993
+Zambia,4,255,9640,"Packers and packagers, hand",0.02118116122601545
+Zambia,7,227,9130,Driver/sales workers and truck drivers,0.018855386660021598
+Zambia,4,181,5740,"Secretaries and administrative assistants, except legal, medical, and executive",0.015034471301603123
+Zambia,5,172,4720,Cashiers,0.014286900905390813
+Zambia,9,169,2205,Postsecondary teachers,0.014037710773320044
+Zambia,7,162,4760,Retail salespersons,0.01345626713182158
+Zambia,1,157,3300,Clinical laboratory technologists and technicians,0.013040950245036964
+Zambia,6,152,5120,"Bookkeeping, accounting, and auditing clerks",0.012625633358252347
+Zambia,4,151,3500,Licensed practical and licensed vocational nurses,0.012542569980895424
+Zambia,2,145,1108,"Computer occupations, all other",0.012044189716753884
+Zambia,9,143,0800,Accountants and auditors,0.011878062962040036
+Zambia,9,143,5240,Customer service representatives,0.011878062962040036
+Zambia,1,132,0150,Purchasing managers,0.01096436581111388
+Zambia,8,131,3050,Pharmacists,0.010881302433756956
+Zambia,3,128,0750,"Business operations specialists, all other",0.010632112301686187
+Zambia,8,125,0340,Lodging managers,0.010382922169615416
+Zambia,4,125,5400,Receptionists and information clerks,0.010382922169615416
+Zambia,3,120,0710,Management analysts,0.0099676052828308
+Zambia,5,119,0110,Computer and information systems managers,0.009884541905473877
+Zambia,1,109,0940,Tax preparers,0.009053908131904643
+Zambia,2,109,4710,First-line supervisors of non-retail sales workers,0.009053908131904643
+Zambia,3,102,9142,Taxi drivers,0.00847246449040618
+Zambia,5,99,0230,Education and childcare administrators,0.008223274358335409
+Zambia,4,99,2310,Elementary and middle school teachers,0.008223274358335409
+Zambia,1,96,5840,Insurance claims and policy processing clerks,0.00797408422626464
+Zambia,1,94,6410,Painters and paperhangers,0.007807957471550793
+Zambia,2,92,6200,First-line supervisors of construction trades and extraction workers,0.007641830716836946
+Zambia,4,88,2300,Preschool and kindergarten teachers,0.007309577207409253
+Zambia,2,87,2640,Other designers,0.00722651383005233
+Zambia,6,86,9645,Stockers and order fillers,0.007143450452695406
+Zambia,4,84,2360,Other teachers and instructors,0.00697732369798156
+Zambia,2,84,2850,Writers and authors,0.00697732369798156
+Zambia,1,84,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",0.00697732369798156
+Zambia,5,82,0020,General and operations managers,0.006811196943267713
+Zambia,2,81,1006,Computer systems analysts,0.00672813356591079
+Zambia,3,81,3010,Dentists,0.00672813356591079
+Zambia,3,79,4810,Insurance sales agents,0.006562006811196943
+Zambia,2,77,0735,Market research analysts and marketing specialists,0.0063958800564830965
+Zambia,5,76,0120,Financial managers,0.0063128166791261734
+Zambia,3,73,0220,Construction managers,0.0060636265470554035
+Zambia,2,68,2100,"Lawyers, and judges, magistrates, and other judicial workers",0.005648309660270787
+Zambia,2,68,5522,"Dispatchers, except police, fire, and ambulance",0.005648309660270787
+Zambia,2,65,4020,Cooks,0.005399119528200017
+Zambia,2,65,4230,Maids and housekeeping cleaners,0.005399119528200017
+Zambia,2,64,4621,Exercise trainers and group fitness instructors,0.005316056150843094
+Zambia,1,60,3870,Police officers,0.0049838026414154
+Zambia,1,58,6515,Roofers,0.004817675886701553
+Zambia,1,57,1430,"Industrial engineers, including health and safety",0.00473461250934463
+Zambia,1,57,4800,Advertising sales agents,0.00473461250934463
+Zambia,1,56,9141,Shuttle drivers and chauffeurs,0.004651549131987707
+Zambia,4,55,0850,Personal financial advisors,0.004568485754630783
+Zambia,1,55,1555,"Other engineering technologists and technicians, except drafters",0.004568485754630783
+Zambia,3,51,1106,Computer network architects,0.00423623224520309
+Zambia,3,51,1305,"Architects, except landscape and naval",0.00423623224520309
+Zambia,2,51,3930,Security guards and gaming surveillance officers,0.00423623224520309
+Zambia,2,49,7200,Automotive service technicians and mechanics,0.004070105490489243
+Zambia,3,49,8740,"Inspectors, testers, sorters, samplers, and weighers",0.004070105490489243
+Zambia,2,45,0960,Other financial specialists,0.00373785198106155
+Zambia,1,45,4965,"Sales and related workers, all other",0.00373785198106155
+Zambia,2,44,1650,Other life scientists,0.0036547886037046266
+Zambia,2,43,4110,Waiters and waitresses,0.003571725226347703
+Zambia,1,42,1340,Biomedical and agricultural engineers,0.00348866184899078
+Zambia,1,42,4920,Real estate brokers and sales agents,0.00348866184899078
+Zambia,2,41,5860,"Office clerks, general",0.0034055984716338567
+Zambia,3,40,0420,Social and community service managers,0.003322535094276933
+Zambia,2,40,1022,Software quality assurance analysts and testers,0.003322535094276933
+Zambia,2,39,0860,Insurance underwriters,0.00323947171692001
+Zambia,1,39,5420,Other information and records clerks,0.00323947171692001
+Zambia,5,38,0410,"Property, real estate, and community association managers",0.0031564083395630867
+Zambia,1,36,1760,"Physical scientists, all other",0.00299028158484924
+Zambia,2,36,9030,Aircraft pilots and flight engineers,0.00299028158484924
+Zambia,1,34,3250,Veterinarians,0.0028241548301353933
+Zambia,2,33,1360,Civil engineers,0.00274109145277847
+Zambia,1,33,2740,Dancers and choreographers,0.00274109145277847
+Zambia,1,33,3330,Nuclear medicine technologists and medical dosimetrists,0.00274109145277847
+Zambia,1,33,6355,Electricians,0.00274109145277847
+Zambia,2,31,1410,Electrical and electronics engineers,0.0025749646980646234
+Zambia,1,30,2011,"Child, family, and school social workers",0.0024919013207077
+Zambia,1,30,3230,Speech-language pathologists,0.0024919013207077
+Zambia,1,30,4600,Childcare workers,0.0024919013207077
+Zambia,1,30,6260,Construction laborers,0.0024919013207077
+Zambia,2,29,0630,Human resources workers,0.0024088379433507764
+Zambia,1,28,2710,Producers and directors,0.0023257745659938534
+Zambia,2,27,0350,Medical and health services managers,0.00224271118863693
+Zambia,2,27,2025,Other community and social service specialists,0.00224271118863693
+Zambia,1,23,0640,"Compensation, benefits, and job analysis specialists",0.0019104576792092366
+Zambia,3,23,1105,Network and computer systems administrators,0.0019104576792092366
+Zambia,1,23,7315,"Heating, air conditioning, and refrigeration mechanics and installers",0.0019104576792092366
+Zambia,1,22,0160,"Transportation, storage, and distribution managers",0.0018273943018523133
+Zambia,1,21,1320,Aerospace engineers,0.00174433092449539
+Zambia,1,21,2016,Social and human service assistants,0.00174433092449539
+Zambia,1,21,8255,Printing press operators,0.00174433092449539
+Zambia,1,20,1010,Computer programmers,0.0016612675471384666
+Zambia,2,20,1050,Computer support specialists,0.0016612675471384666
+Zambia,2,20,2002,"Educational, guidance, and career counselors and advisors",0.0016612675471384666
+Zambia,2,20,3160,Physical therapists,0.0016612675471384666
+Zambia,1,20,7330,Industrial and refractory machinery mechanics,0.0016612675471384666
+Zambia,1,20,8620,Water and wastewater treatment plant and system operators,0.0016612675471384666
+Zambia,1,20,9760,Other material moving workers,0.0016612675471384666
+Zambia,1,19,2320,Secondary school teachers,0.0015782041697815434
+Zambia,1,19,2905,Other media and communication equipment workers,0.0015782041697815434
+Zambia,1,19,5710,Executive secretaries and executive administrative assistants,0.0015782041697815434
+Zambia,2,18,0310,Food service managers,0.00149514079242462
+Zambia,1,18,5850,"Mail clerks and mail machine operators, except postal service",0.00149514079242462
+Zambia,1,17,0540,"Claims adjusters, appraisers, examiners, and investigators",0.0014120774150676967
+Zambia,1,17,1240,Other mathematical science occupations,0.0014120774150676967
+Zambia,1,17,3630,Massage therapists,0.0014120774150676967
+Zambia,1,17,4251,Landscaping and groundskeeping workers,0.0014120774150676967
+Zambia,1,16,0102,Facilities managers,0.0013290140377107734
+Zambia,1,16,0650,Training and development specialists,0.0013290140377107734
+Zambia,1,16,1640,Conservation scientists and foresters,0.0013290140377107734
+Zambia,1,16,1745,"Environmental scientists and specialists, including health",0.0013290140377107734
+Zambia,1,16,2014,"Social workers, all other",0.0013290140377107734
+Zambia,1,16,3545,Miscellaneous health technologists and technicians,0.0013290140377107734
+Zambia,1,16,4030,Food preparation workers,0.0013290140377107734
+Zambia,1,16,4055,Fast food and counter workers,0.0013290140377107734
+Zambia,1,16,4950,"Door-to-door sales workers, news and street vendors, and related workers",0.0013290140377107734
+Zambia,1,16,5550,Postal service mail carriers,0.0013290140377107734
+Zambia,1,15,3422,Psychiatric technicians,0.00124595066035385
+Zambia,1,15,3910,Private detectives and investigators,0.00124595066035385
+Zambia,1,15,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",0.00124595066035385
+Zambia,1,14,2330,Special education teachers,0.0011628872829969267
+Zambia,1,14,3310,Dental hygienists,0.0011628872829969267
+Zambia,1,14,4120,"Food servers, nonrestaurant",0.0011628872829969267
+Zambia,1,13,4000,Chefs and head cooks,0.0010798239056400032
+Zambia,1,13,5610,"Shipping, receiving, and inventory clerks",0.0010798239056400032
+Zambia,2,12,0705,Project management specialists,9.9676052828308e-4
+Zambia,1,12,2634,Graphic designers,9.9676052828308e-4
+Zambia,1,12,3258,"Nurse practitioners, and nurse midwives",9.9676052828308e-4
+Zambia,1,12,4640,Residential advisors,9.9676052828308e-4
+Zambia,1,12,8225,Other metal workers and plastic workers,9.9676052828308e-4
+Zambia,1,11,2600,Artists and related workers,9.136971509261567e-4
+Zambia,1,10,3150,Occupational therapists,8.306337735692333e-4
+Zambia,1,10,3515,Medical records specialists,8.306337735692333e-4
+Zambia,1,10,8990,"Miscellaneous production workers, including equipment operators and tenders",8.306337735692333e-4
+Zambia,1,9,0140,Industrial production managers,7.4757039621231e-4
+Zambia,1,9,0360,Natural sciences managers,7.4757039621231e-4
+Zambia,1,9,1400,Computer hardware engineers,7.4757039621231e-4
+Zambia,1,9,4820,"Securities, commodities, and financial services sales agents",7.4757039621231e-4
+Zambia,1,8,3323,Radiologic technologists and technicians,6.645070188553867e-4
+Zambia,1,8,8750,Jewelers and precious stone and metal workers,6.645070188553867e-4
+Zambia,1,7,0051,Marketing managers,5.814436414984634e-4
+Zambia,1,7,0725,"Meeting, convention, and event planners",5.814436414984634e-4
+Zambia,1,7,3820,Detectives and criminal investigators,5.814436414984634e-4
+Zambia,1,7,5000,First-line supervisors of office and administrative support workers,5.814436414984634e-4
+Zambia,1,7,8365,"Textile machine setters, operators, and tenders",5.814436414984634e-4
+Zambia,1,6,1800,Economists,4.9838026414154e-4
+Zambia,1,3,2545,Teaching assistants,2.4919013207077e-4

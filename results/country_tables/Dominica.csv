@@ -1,195 +1,195 @@
-country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
-Dominica,959,30517,583,19710,3255,Registered nurses,23,757,0.038406900050735666
-Dominica,959,30517,583,19710,3603,Nursing assistants,21,664,0.0336884830035515
-Dominica,959,30517,583,19710,9130,Driver/sales workers and truck drivers,17,655,0.033231861998985285
-Dominica,959,30517,583,19710,9620,"Laborers and freight, stock, and material movers, hand",12,651,0.033028919330289196
-Dominica,959,30517,583,19710,4220,Janitors and building cleaners,8,614,0.03115169964485033
-Dominica,959,30517,583,19710,5240,Customer service representatives,12,611,0.03099949264332826
-Dominica,959,30517,583,19710,3601,Home health aides,11,585,0.02968036529680365
-Dominica,959,30517,583,19710,4020,Cooks,8,466,0.023642820903094875
-Dominica,959,30517,583,19710,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",3,389,0.01973617453069508
-Dominica,959,30517,583,19710,3090,Physicians,8,386,0.019583967529173008
-Dominica,959,30517,583,19710,6260,Construction laborers,10,361,0.018315575849822425
-Dominica,959,30517,583,19710,0120,Financial managers,8,341,0.017300862506341958
-Dominica,959,30517,583,19710,2310,Elementary and middle school teachers,11,340,0.017250126839167934
-Dominica,959,30517,583,19710,9142,Taxi drivers,7,335,0.016996448503297817
-Dominica,959,30517,583,19710,3602,Personal care aides,11,329,0.016692034500253677
-Dominica,959,30517,583,19710,0440,Other managers,9,326,0.016539827498731608
-Dominica,959,30517,583,19710,9645,Stockers and order fillers,5,314,0.015930999492643327
-Dominica,959,30517,583,19710,0800,Accountants and auditors,13,291,0.014764079147640791
-Dominica,959,30517,583,19710,4720,Cashiers,9,288,0.014611872146118721
-Dominica,959,30517,583,19710,4760,Retail salespersons,7,277,0.014053779807204465
-Dominica,959,30517,583,19710,4230,Maids and housekeeping cleaners,13,274,0.013901572805682395
-Dominica,959,30517,583,19710,9640,"Packers and packagers, hand",5,248,0.012582445459157788
-Dominica,959,30517,583,19710,5740,"Secretaries and administrative assistants, except legal, medical, and executive",7,230,0.011669203450025367
-Dominica,959,30517,583,19710,2145,Paralegals and legal assistants,7,223,0.011314053779807204
-Dominica,959,30517,583,19710,2100,"Lawyers, and judges, magistrates, and other judicial workers",9,203,0.010299340436326737
-Dominica,959,30517,583,19710,4600,Childcare workers,6,200,0.010147133434804667
-Dominica,959,30517,583,19710,3930,Security guards and gaming surveillance officers,5,196,0.009944190766108574
-Dominica,959,30517,583,19710,0910,Credit counselors and loan officers,3,189,0.009589041095890411
-Dominica,959,30517,583,19710,2545,Teaching assistants,6,188,0.009538305428716387
-Dominica,959,30517,583,19710,8990,"Miscellaneous production workers, including equipment operators and tenders",6,185,0.009386098427194317
-Dominica,959,30517,583,19710,0735,Market research analysts and marketing specialists,2,179,0.009081684424150178
-Dominica,959,30517,583,19710,4700,First-line supervisors of retail sales workers,8,179,0.009081684424150178
-Dominica,959,30517,583,19710,4510,"Hairdressers, hairstylists, and cosmetologists",4,177,0.00898021308980213
-Dominica,959,30517,583,19710,0220,Construction managers,7,172,0.008726534753932013
-Dominica,959,30517,583,19710,4000,Chefs and head cooks,5,151,0.007661085743277524
-Dominica,959,30517,583,19710,2205,Postsecondary teachers,2,146,0.007407407407407408
-Dominica,959,30517,583,19710,7840,Food batchmakers,1,141,0.007153729071537291
-Dominica,959,30517,583,19710,2920,"Television, video, and film camera operators and editors",1,139,0.007052257737189244
-Dominica,959,30517,583,19710,0750,"Business operations specialists, all other",2,134,0.006798579401319127
-Dominica,959,30517,583,19710,1010,Computer programmers,2,132,0.006697108066971081
-Dominica,959,30517,583,19710,9810,First-line enlisted military supervisors,2,132,0.006697108066971081
-Dominica,959,30517,583,19710,0230,Education and childcare administrators,8,129,0.0065449010654490105
-Dominica,959,30517,583,19710,8225,Other metal workers and plastic workers,2,127,0.006443429731100964
-Dominica,959,30517,583,19710,7700,First-line supervisors of production and operating workers,2,122,0.0061897513952308475
-Dominica,959,30517,583,19710,9600,Industrial truck and tractor operators,4,119,0.006037544393708777
-Dominica,959,30517,583,19710,0160,"Transportation, storage, and distribution managers",4,118,0.005986808726534754
-Dominica,959,30517,583,19710,5860,"Office clerks, general",6,118,0.005986808726534754
-Dominica,959,30517,583,19710,0020,General and operations managers,5,111,0.005631659056316591
-Dominica,959,30517,583,19710,1555,"Other engineering technologists and technicians, except drafters",3,108,0.005479452054794521
-Dominica,959,30517,583,19710,0520,"Wholesale and retail buyers, except farm products",1,105,0.00532724505327245
-Dominica,959,30517,583,19710,4055,Fast food and counter workers,3,100,0.0050735667174023336
-Dominica,959,30517,583,19710,1970,"Other life, physical, and social science technicians",3,99,0.00502283105022831
-Dominica,959,30517,583,19710,7200,Automotive service technicians and mechanics,2,99,0.00502283105022831
-Dominica,959,30517,583,19710,6355,Electricians,3,95,0.004819888381532217
-Dominica,959,30517,583,19710,2014,"Social workers, all other",4,94,0.004769152714358194
-Dominica,959,30517,583,19710,8255,Printing press operators,4,93,0.0047184170471841706
-Dominica,959,30517,583,19710,7800,Bakers,3,92,0.004667681380010147
-Dominica,959,30517,583,19710,1920,Chemical technicians,2,91,0.004616945712836123
-Dominica,959,30517,583,19710,1825,Other psychologists,2,89,0.004515474378488077
-Dominica,959,30517,583,19710,7750,Other assemblers and fabricators,3,87,0.004414003044140031
-Dominica,959,30517,583,19710,7855,"Food processing workers, all other",1,86,0.004363267376966007
-Dominica,959,30517,583,19710,3322,Diagnostic medical sonographers,1,85,0.0043125317097919835
-Dominica,959,30517,583,19710,0350,Medical and health services managers,4,84,0.00426179604261796
-Dominica,959,30517,583,19710,9150,"Motor vehicle operators, all other",2,84,0.00426179604261796
-Dominica,959,30517,583,19710,5120,"Bookkeeping, accounting, and auditing clerks",3,83,0.004211060375443937
-Dominica,959,30517,583,19710,5540,Postal service clerks,1,82,0.004160324708269914
-Dominica,959,30517,583,19710,0010,Chief executives and legislators,3,81,0.00410958904109589
-Dominica,959,30517,583,19710,1006,Computer systems analysts,5,81,0.00410958904109589
-Dominica,959,30517,583,19710,8740,"Inspectors, testers, sorters, samplers, and weighers",2,81,0.00410958904109589
-Dominica,959,30517,583,19710,6200,First-line supervisors of construction trades and extraction workers,2,80,0.004058853373921867
-Dominica,959,30517,583,19710,3050,Pharmacists,2,79,0.004008117706747844
-Dominica,959,30517,583,19710,3645,Medical assistants,2,78,0.0039573820395738205
-Dominica,959,30517,583,19710,7340,"Maintenance and repair workers, general",2,78,0.0039573820395738205
-Dominica,959,30517,583,19710,3500,Licensed practical and licensed vocational nurses,3,76,0.0038559107052257738
-Dominica,959,30517,583,19710,3870,Police officers,4,75,0.00380517503805175
-Dominica,959,30517,583,19710,4010,First-line supervisors of food preparation and serving workers,3,75,0.00380517503805175
-Dominica,959,30517,583,19710,3620,Physical therapist assistants and aides,1,72,0.0036529680365296802
-Dominica,959,30517,583,19710,2350,Tutors,2,71,0.003602232369355657
-Dominica,959,30517,583,19710,5940,Other office and administrative support workers,3,71,0.003602232369355657
-Dominica,959,30517,583,19710,1021,Software developers,3,69,0.0035007610350076103
-Dominica,959,30517,583,19710,6230,Carpenters,3,68,0.003450025367833587
-Dominica,959,30517,583,19710,3802,Correctional officers and jailers,2,67,0.0033992897006595636
-Dominica,959,30517,583,19710,4251,Landscaping and groundskeeping workers,2,65,0.003297818366311517
-Dominica,959,30517,583,19710,5720,Legal secretaries and administrative assistants,1,64,0.0032470826991374937
-Dominica,959,30517,583,19710,3330,Nuclear medicine technologists and medical dosimetrists,1,62,0.003145611364789447
-Dominica,959,30517,583,19710,3655,Other healthcare support workers,2,62,0.003145611364789447
-Dominica,959,30517,583,19710,8800,Packaging and filling machine operators and tenders,2,62,0.003145611364789447
-Dominica,959,30517,583,19710,5400,Receptionists and information clerks,2,60,0.0030441400304414
-Dominica,959,30517,583,19710,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,60,0.0030441400304414
-Dominica,959,30517,583,19710,8810,Painting workers,1,59,0.002993404363267377
-Dominica,959,30517,583,19710,3245,Other therapists,1,58,0.002942668696093354
-Dominica,959,30517,583,19710,0137,Training and development managers,1,56,0.002841197361745307
-Dominica,959,30517,583,19710,0310,Food service managers,2,54,0.0027397260273972603
-Dominica,959,30517,583,19710,3300,Clinical laboratory technologists and technicians,1,53,0.002688990360223237
-Dominica,959,30517,583,19710,4920,Real estate brokers and sales agents,3,53,0.002688990360223237
-Dominica,959,30517,583,19710,4950,"Door-to-door sales workers, news and street vendors, and related workers",1,53,0.002688990360223237
-Dominica,959,30517,583,19710,0600,Cost estimators,1,52,0.0026382546930492135
-Dominica,959,30517,583,19710,7810,"Butchers and other meat, poultry, and fish processing workers",2,51,0.0025875190258751904
-Dominica,959,30517,583,19710,0530,"Purchasing agents, except wholesale, retail, and farm products",2,49,0.0024860476915271436
-Dominica,959,30517,583,19710,7320,Home appliance repairers,1,49,0.0024860476915271436
-Dominica,959,30517,583,19710,0110,Computer and information systems managers,1,47,0.002384576357179097
-Dominica,959,30517,583,19710,6410,Painters and paperhangers,2,46,0.0023338406900050737
-Dominica,959,30517,583,19710,8300,Laundry and dry-cleaning workers,1,45,0.00228310502283105
-Dominica,959,30517,583,19710,9365,Transportation service attendants,1,43,0.0021816336884830033
-Dominica,959,30517,583,19710,3030,Dietitians and nutritionists,1,42,0.00213089802130898
-Dominica,959,30517,583,19710,0940,Tax preparers,2,41,0.002080162354134957
-Dominica,959,30517,583,19710,2300,Preschool and kindergarten teachers,2,41,0.002080162354134957
-Dominica,959,30517,583,19710,7150,Automotive body and related repairers,1,40,0.0020294266869609334
-Dominica,959,30517,583,19710,8140,"Welding, soldering, and brazing workers",2,40,0.0020294266869609334
-Dominica,959,30517,583,19710,0930,"Tax examiners and collectors, and revenue agents",1,39,0.0019786910197869103
-Dominica,959,30517,583,19710,1650,Other life scientists,3,39,0.0019786910197869103
-Dominica,959,30517,583,19710,3515,Medical records specialists,1,39,0.0019786910197869103
-Dominica,959,30517,583,19710,4030,Food preparation workers,2,39,0.0019786910197869103
-Dominica,959,30517,583,19710,1108,"Computer occupations, all other",3,38,0.0019279553526128869
-Dominica,959,30517,583,19710,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,38,0.0019279553526128869
-Dominica,959,30517,583,19710,0850,Personal financial advisors,3,37,0.0018772196854388635
-Dominica,959,30517,583,19710,9141,Shuttle drivers and chauffeurs,1,37,0.0018772196854388635
-Dominica,959,30517,583,19710,2002,"Educational, guidance, and career counselors and advisors",2,36,0.0018264840182648401
-Dominica,959,30517,583,19710,4800,Advertising sales agents,1,36,0.0018264840182648401
-Dominica,959,30517,583,19710,1007,Information security analysts,1,34,0.0017250126839167936
-Dominica,959,30517,583,19710,4140,Dishwashers,1,34,0.0017250126839167936
-Dominica,959,30517,583,19710,8950,Helpers--production workers,2,34,0.0017250126839167936
-Dominica,959,30517,583,19710,9005,Supervisors of transportation and material moving workers,1,34,0.0017250126839167936
-Dominica,959,30517,583,19710,0630,Human resources workers,3,31,0.0015728056823947234
-Dominica,959,30517,583,19710,4965,"Sales and related workers, all other",2,31,0.0015728056823947234
-Dominica,959,30517,583,19710,3422,Psychiatric technicians,1,30,0.0015220700152207
-Dominica,959,30517,583,19710,3423,Surgical technologists,2,30,0.0015220700152207
-Dominica,959,30517,583,19710,4130,Dining room and cafeteria attendants and bartender helpers,1,30,0.0015220700152207
-Dominica,959,30517,583,19710,8930,"Paper goods machine setters, operators, and tenders",1,30,0.0015220700152207
-Dominica,959,30517,583,19710,1240,Other mathematical science occupations,2,29,0.001471334348046677
-Dominica,959,30517,583,19710,3545,Miscellaneous health technologists and technicians,1,29,0.001471334348046677
-Dominica,959,30517,583,19710,4521,Manicurists and pedicurists,2,29,0.001471334348046677
-Dominica,959,30517,583,19710,1821,Clinical and counseling psychologists,1,28,0.0014205986808726535
-Dominica,959,30517,583,19710,2710,Producers and directors,2,28,0.0014205986808726535
-Dominica,959,30517,583,19710,2830,Editors,1,28,0.0014205986808726535
-Dominica,959,30517,583,19710,5000,First-line supervisors of office and administrative support workers,2,28,0.0014205986808726535
-Dominica,959,30517,583,19710,5010,"Switchboard operators, including answering service",2,28,0.0014205986808726535
-Dominica,959,30517,583,19710,5260,File clerks,2,28,0.0014205986808726535
-Dominica,959,30517,583,19710,2004,Mental health counselors,1,26,0.0013191273465246068
-Dominica,959,30517,583,19710,4120,"Food servers, nonrestaurant",1,26,0.0013191273465246068
-Dominica,959,30517,583,19710,4350,Animal caretakers,1,26,0.0013191273465246068
-Dominica,959,30517,583,19710,9300,"Sailors and marine oilers, and ship engineers",1,26,0.0013191273465246068
-Dominica,959,30517,583,19710,9830,"Military, rank not specified",1,26,0.0013191273465246068
-Dominica,959,30517,583,19710,1430,"Industrial engineers, including health and safety",1,25,0.0012683916793505834
-Dominica,959,30517,583,19710,3401,Emergency medical technicians,1,25,0.0012683916793505834
-Dominica,959,30517,583,19710,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",1,25,0.0012683916793505834
-Dominica,959,30517,583,19710,7420,Telecommunications line installers and repairers,1,25,0.0012683916793505834
-Dominica,959,30517,583,19710,2640,Other designers,1,24,0.0012176560121765602
-Dominica,959,30517,583,19710,5320,"Library assistants, clerical",1,24,0.0012176560121765602
-Dominica,959,30517,583,19710,0710,Management analysts,1,22,0.0011161846778285135
-Dominica,959,30517,583,19710,5300,"Hotel, motel, and resort desk clerks",1,22,0.0011161846778285135
-Dominica,959,30517,583,19710,9825,Military enlisted tactical operations and air/weapons specialists and crew members,2,21,0.00106544901065449
-Dominica,959,30517,583,19710,5165,Other financial clerks,1,20,0.0010147133434804667
-Dominica,959,30517,583,19710,9350,Parking attendants,1,19,9.639776763064434e-4
-Dominica,959,30517,583,19710,3720,First-line supervisors of firefighting and prevention workers,1,18,9.132420091324201e-4
-Dominica,959,30517,583,19710,4710,First-line supervisors of non-retail sales workers,2,18,9.132420091324201e-4
-Dominica,959,30517,583,19710,8450,Upholsterers,1,18,9.132420091324201e-4
-Dominica,959,30517,583,19710,9510,Crane and tower operators,1,18,9.132420091324201e-4
-Dominica,959,30517,583,19710,2016,Social and human service assistants,1,17,8.625063419583968e-4
-Dominica,959,30517,583,19710,6441,Pipelayers,1,17,8.625063419583968e-4
-Dominica,959,30517,583,19710,7315,"Heating, air conditioning, and refrigeration mechanics and installers",1,17,8.625063419583968e-4
-Dominica,959,30517,583,19710,2600,Artists and related workers,1,16,8.117706747843734e-4
-Dominica,959,30517,583,19710,3150,Occupational therapists,1,16,8.117706747843734e-4
-Dominica,959,30517,583,19710,3258,"Nurse practitioners, and nurse midwives",1,16,8.117706747843734e-4
-Dominica,959,30517,583,19710,4110,Waiters and waitresses,1,16,8.117706747843734e-4
-Dominica,959,30517,583,19710,5550,Postal service mail carriers,2,16,8.117706747843734e-4
-Dominica,959,30517,583,19710,0650,Training and development specialists,2,15,7.6103500761035e-4
-Dominica,959,30517,583,19710,5560,"Postal service mail sorters, processors, and processing machine operators",1,15,7.6103500761035e-4
-Dominica,959,30517,583,19710,6515,Roofers,1,15,7.6103500761035e-4
-Dominica,959,30517,583,19710,2825,Public relations specialists,1,14,7.102993404363268e-4
-Dominica,959,30517,583,19710,5410,Reservation and transportation ticket agents and travel clerks,2,14,7.102993404363268e-4
-Dominica,959,30517,583,19710,2001,Substance abuse and behavioral disorder counselors,1,13,6.595636732623034e-4
-Dominica,959,30517,583,19710,3820,Detectives and criminal investigators,1,13,6.595636732623034e-4
-Dominica,959,30517,583,19710,1360,Civil engineers,1,12,6.088280060882801e-4
-Dominica,959,30517,583,19710,6520,Sheet metal workers,1,11,5.580923389142567e-4
-Dominica,959,30517,583,19710,8610,Stationary engineers and boiler operators,1,11,5.580923389142567e-4
-Dominica,959,30517,583,19710,0340,Lodging managers,1,10,5.073566717402334e-4
-Dominica,959,30517,583,19710,5100,Bill and account collectors,1,10,5.073566717402334e-4
-Dominica,959,30517,583,19710,0960,Other financial specialists,1,9,4.5662100456621003e-4
-Dominica,959,30517,583,19710,5110,Billing and posting clerks,1,9,4.5662100456621003e-4
-Dominica,959,30517,583,19710,5160,Tellers,1,9,4.5662100456621003e-4
-Dominica,959,30517,583,19710,5610,"Shipping, receiving, and inventory clerks",1,9,4.5662100456621003e-4
-Dominica,959,30517,583,19710,0140,Industrial production managers,1,8,4.058853373921867e-4
-Dominica,959,30517,583,19710,2320,Secondary school teachers,1,8,4.058853373921867e-4
-Dominica,959,30517,583,19710,2905,Other media and communication equipment workers,1,8,4.058853373921867e-4
-Dominica,959,30517,583,19710,5500,Cargo and freight agents,1,8,4.058853373921867e-4
-Dominica,959,30517,583,19710,9415,Passenger attendants,1,8,4.058853373921867e-4
-Dominica,959,30517,583,19710,1105,Network and computer systems administrators,1,7,3.551496702181634e-4
-Dominica,959,30517,583,19710,9121,"Bus drivers, school",1,7,3.551496702181634e-4
-Dominica,959,30517,583,19710,1050,Computer support specialists,1,6,3.0441400304414006e-4
-Dominica,959,30517,583,19710,2634,Graphic designers,1,6,3.0441400304414006e-4
-Dominica,959,30517,583,19710,4640,Residential advisors,1,5,2.536783358701167e-4
-Dominica,959,30517,583,19710,5840,Insurance claims and policy processing clerks,1,4,2.0294266869609335e-4
-Dominica,959,30517,583,19710,2360,Other teachers and instructors,1,3,1.5220700152207003e-4
+country,n_workers,workers,occ,occ_title,occ_share
+Dominica,23,757,3255,Registered nurses,0.038406900050735666
+Dominica,21,664,3603,Nursing assistants,0.0336884830035515
+Dominica,17,655,9130,Driver/sales workers and truck drivers,0.033231861998985285
+Dominica,12,651,9620,"Laborers and freight, stock, and material movers, hand",0.033028919330289196
+Dominica,8,614,4220,Janitors and building cleaners,0.03115169964485033
+Dominica,12,611,5240,Customer service representatives,0.03099949264332826
+Dominica,11,585,3601,Home health aides,0.02968036529680365
+Dominica,8,466,4020,Cooks,0.023642820903094875
+Dominica,3,389,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",0.01973617453069508
+Dominica,8,386,3090,Physicians,0.019583967529173008
+Dominica,10,361,6260,Construction laborers,0.018315575849822425
+Dominica,8,341,0120,Financial managers,0.017300862506341958
+Dominica,11,340,2310,Elementary and middle school teachers,0.017250126839167934
+Dominica,7,335,9142,Taxi drivers,0.016996448503297817
+Dominica,11,329,3602,Personal care aides,0.016692034500253677
+Dominica,9,326,0440,Other managers,0.016539827498731608
+Dominica,5,314,9645,Stockers and order fillers,0.015930999492643327
+Dominica,13,291,0800,Accountants and auditors,0.014764079147640791
+Dominica,9,288,4720,Cashiers,0.014611872146118721
+Dominica,7,277,4760,Retail salespersons,0.014053779807204465
+Dominica,13,274,4230,Maids and housekeeping cleaners,0.013901572805682395
+Dominica,5,248,9640,"Packers and packagers, hand",0.012582445459157788
+Dominica,7,230,5740,"Secretaries and administrative assistants, except legal, medical, and executive",0.011669203450025367
+Dominica,7,223,2145,Paralegals and legal assistants,0.011314053779807204
+Dominica,9,203,2100,"Lawyers, and judges, magistrates, and other judicial workers",0.010299340436326737
+Dominica,6,200,4600,Childcare workers,0.010147133434804667
+Dominica,5,196,3930,Security guards and gaming surveillance officers,0.009944190766108574
+Dominica,3,189,0910,Credit counselors and loan officers,0.009589041095890411
+Dominica,6,188,2545,Teaching assistants,0.009538305428716387
+Dominica,6,185,8990,"Miscellaneous production workers, including equipment operators and tenders",0.009386098427194317
+Dominica,2,179,0735,Market research analysts and marketing specialists,0.009081684424150178
+Dominica,8,179,4700,First-line supervisors of retail sales workers,0.009081684424150178
+Dominica,4,177,4510,"Hairdressers, hairstylists, and cosmetologists",0.00898021308980213
+Dominica,7,172,0220,Construction managers,0.008726534753932013
+Dominica,5,151,4000,Chefs and head cooks,0.007661085743277524
+Dominica,2,146,2205,Postsecondary teachers,0.007407407407407408
+Dominica,1,141,7840,Food batchmakers,0.007153729071537291
+Dominica,1,139,2920,"Television, video, and film camera operators and editors",0.007052257737189244
+Dominica,2,134,0750,"Business operations specialists, all other",0.006798579401319127
+Dominica,2,132,1010,Computer programmers,0.006697108066971081
+Dominica,2,132,9810,First-line enlisted military supervisors,0.006697108066971081
+Dominica,8,129,0230,Education and childcare administrators,0.0065449010654490105
+Dominica,2,127,8225,Other metal workers and plastic workers,0.006443429731100964
+Dominica,2,122,7700,First-line supervisors of production and operating workers,0.0061897513952308475
+Dominica,4,119,9600,Industrial truck and tractor operators,0.006037544393708777
+Dominica,4,118,0160,"Transportation, storage, and distribution managers",0.005986808726534754
+Dominica,6,118,5860,"Office clerks, general",0.005986808726534754
+Dominica,5,111,0020,General and operations managers,0.005631659056316591
+Dominica,3,108,1555,"Other engineering technologists and technicians, except drafters",0.005479452054794521
+Dominica,1,105,0520,"Wholesale and retail buyers, except farm products",0.00532724505327245
+Dominica,3,100,4055,Fast food and counter workers,0.0050735667174023336
+Dominica,3,99,1970,"Other life, physical, and social science technicians",0.00502283105022831
+Dominica,2,99,7200,Automotive service technicians and mechanics,0.00502283105022831
+Dominica,3,95,6355,Electricians,0.004819888381532217
+Dominica,4,94,2014,"Social workers, all other",0.004769152714358194
+Dominica,4,93,8255,Printing press operators,0.0047184170471841706
+Dominica,3,92,7800,Bakers,0.004667681380010147
+Dominica,2,91,1920,Chemical technicians,0.004616945712836123
+Dominica,2,89,1825,Other psychologists,0.004515474378488077
+Dominica,3,87,7750,Other assemblers and fabricators,0.004414003044140031
+Dominica,1,86,7855,"Food processing workers, all other",0.004363267376966007
+Dominica,1,85,3322,Diagnostic medical sonographers,0.0043125317097919835
+Dominica,4,84,0350,Medical and health services managers,0.00426179604261796
+Dominica,2,84,9150,"Motor vehicle operators, all other",0.00426179604261796
+Dominica,3,83,5120,"Bookkeeping, accounting, and auditing clerks",0.004211060375443937
+Dominica,1,82,5540,Postal service clerks,0.004160324708269914
+Dominica,3,81,0010,Chief executives and legislators,0.00410958904109589
+Dominica,5,81,1006,Computer systems analysts,0.00410958904109589
+Dominica,2,81,8740,"Inspectors, testers, sorters, samplers, and weighers",0.00410958904109589
+Dominica,2,80,6200,First-line supervisors of construction trades and extraction workers,0.004058853373921867
+Dominica,2,79,3050,Pharmacists,0.004008117706747844
+Dominica,2,78,3645,Medical assistants,0.0039573820395738205
+Dominica,2,78,7340,"Maintenance and repair workers, general",0.0039573820395738205
+Dominica,3,76,3500,Licensed practical and licensed vocational nurses,0.0038559107052257738
+Dominica,4,75,3870,Police officers,0.00380517503805175
+Dominica,3,75,4010,First-line supervisors of food preparation and serving workers,0.00380517503805175
+Dominica,1,72,3620,Physical therapist assistants and aides,0.0036529680365296802
+Dominica,2,71,2350,Tutors,0.003602232369355657
+Dominica,3,71,5940,Other office and administrative support workers,0.003602232369355657
+Dominica,3,69,1021,Software developers,0.0035007610350076103
+Dominica,3,68,6230,Carpenters,0.003450025367833587
+Dominica,2,67,3802,Correctional officers and jailers,0.0033992897006595636
+Dominica,2,65,4251,Landscaping and groundskeeping workers,0.003297818366311517
+Dominica,1,64,5720,Legal secretaries and administrative assistants,0.0032470826991374937
+Dominica,1,62,3330,Nuclear medicine technologists and medical dosimetrists,0.003145611364789447
+Dominica,2,62,3655,Other healthcare support workers,0.003145611364789447
+Dominica,2,62,8800,Packaging and filling machine operators and tenders,0.003145611364789447
+Dominica,2,60,5400,Receptionists and information clerks,0.0030441400304414
+Dominica,1,60,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",0.0030441400304414
+Dominica,1,59,8810,Painting workers,0.002993404363267377
+Dominica,1,58,3245,Other therapists,0.002942668696093354
+Dominica,1,56,0137,Training and development managers,0.002841197361745307
+Dominica,2,54,0310,Food service managers,0.0027397260273972603
+Dominica,1,53,3300,Clinical laboratory technologists and technicians,0.002688990360223237
+Dominica,3,53,4920,Real estate brokers and sales agents,0.002688990360223237
+Dominica,1,53,4950,"Door-to-door sales workers, news and street vendors, and related workers",0.002688990360223237
+Dominica,1,52,0600,Cost estimators,0.0026382546930492135
+Dominica,2,51,7810,"Butchers and other meat, poultry, and fish processing workers",0.0025875190258751904
+Dominica,2,49,0530,"Purchasing agents, except wholesale, retail, and farm products",0.0024860476915271436
+Dominica,1,49,7320,Home appliance repairers,0.0024860476915271436
+Dominica,1,47,0110,Computer and information systems managers,0.002384576357179097
+Dominica,2,46,6410,Painters and paperhangers,0.0023338406900050737
+Dominica,1,45,8300,Laundry and dry-cleaning workers,0.00228310502283105
+Dominica,1,43,9365,Transportation service attendants,0.0021816336884830033
+Dominica,1,42,3030,Dietitians and nutritionists,0.00213089802130898
+Dominica,2,41,0940,Tax preparers,0.002080162354134957
+Dominica,2,41,2300,Preschool and kindergarten teachers,0.002080162354134957
+Dominica,1,40,7150,Automotive body and related repairers,0.0020294266869609334
+Dominica,2,40,8140,"Welding, soldering, and brazing workers",0.0020294266869609334
+Dominica,1,39,0930,"Tax examiners and collectors, and revenue agents",0.0019786910197869103
+Dominica,3,39,1650,Other life scientists,0.0019786910197869103
+Dominica,1,39,3515,Medical records specialists,0.0019786910197869103
+Dominica,2,39,4030,Food preparation workers,0.0019786910197869103
+Dominica,3,38,1108,"Computer occupations, all other",0.0019279553526128869
+Dominica,1,38,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",0.0019279553526128869
+Dominica,3,37,0850,Personal financial advisors,0.0018772196854388635
+Dominica,1,37,9141,Shuttle drivers and chauffeurs,0.0018772196854388635
+Dominica,2,36,2002,"Educational, guidance, and career counselors and advisors",0.0018264840182648401
+Dominica,1,36,4800,Advertising sales agents,0.0018264840182648401
+Dominica,1,34,1007,Information security analysts,0.0017250126839167936
+Dominica,1,34,4140,Dishwashers,0.0017250126839167936
+Dominica,2,34,8950,Helpers--production workers,0.0017250126839167936
+Dominica,1,34,9005,Supervisors of transportation and material moving workers,0.0017250126839167936
+Dominica,3,31,0630,Human resources workers,0.0015728056823947234
+Dominica,2,31,4965,"Sales and related workers, all other",0.0015728056823947234
+Dominica,1,30,3422,Psychiatric technicians,0.0015220700152207
+Dominica,2,30,3423,Surgical technologists,0.0015220700152207
+Dominica,1,30,4130,Dining room and cafeteria attendants and bartender helpers,0.0015220700152207
+Dominica,1,30,8930,"Paper goods machine setters, operators, and tenders",0.0015220700152207
+Dominica,2,29,1240,Other mathematical science occupations,0.001471334348046677
+Dominica,1,29,3545,Miscellaneous health technologists and technicians,0.001471334348046677
+Dominica,2,29,4521,Manicurists and pedicurists,0.001471334348046677
+Dominica,1,28,1821,Clinical and counseling psychologists,0.0014205986808726535
+Dominica,2,28,2710,Producers and directors,0.0014205986808726535
+Dominica,1,28,2830,Editors,0.0014205986808726535
+Dominica,2,28,5000,First-line supervisors of office and administrative support workers,0.0014205986808726535
+Dominica,2,28,5010,"Switchboard operators, including answering service",0.0014205986808726535
+Dominica,2,28,5260,File clerks,0.0014205986808726535
+Dominica,1,26,2004,Mental health counselors,0.0013191273465246068
+Dominica,1,26,4120,"Food servers, nonrestaurant",0.0013191273465246068
+Dominica,1,26,4350,Animal caretakers,0.0013191273465246068
+Dominica,1,26,9300,"Sailors and marine oilers, and ship engineers",0.0013191273465246068
+Dominica,1,26,9830,"Military, rank not specified",0.0013191273465246068
+Dominica,1,25,1430,"Industrial engineers, including health and safety",0.0012683916793505834
+Dominica,1,25,3401,Emergency medical technicians,0.0012683916793505834
+Dominica,1,25,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",0.0012683916793505834
+Dominica,1,25,7420,Telecommunications line installers and repairers,0.0012683916793505834
+Dominica,1,24,2640,Other designers,0.0012176560121765602
+Dominica,1,24,5320,"Library assistants, clerical",0.0012176560121765602
+Dominica,1,22,0710,Management analysts,0.0011161846778285135
+Dominica,1,22,5300,"Hotel, motel, and resort desk clerks",0.0011161846778285135
+Dominica,2,21,9825,Military enlisted tactical operations and air/weapons specialists and crew members,0.00106544901065449
+Dominica,1,20,5165,Other financial clerks,0.0010147133434804667
+Dominica,1,19,9350,Parking attendants,9.639776763064434e-4
+Dominica,1,18,3720,First-line supervisors of firefighting and prevention workers,9.132420091324201e-4
+Dominica,2,18,4710,First-line supervisors of non-retail sales workers,9.132420091324201e-4
+Dominica,1,18,8450,Upholsterers,9.132420091324201e-4
+Dominica,1,18,9510,Crane and tower operators,9.132420091324201e-4
+Dominica,1,17,2016,Social and human service assistants,8.625063419583968e-4
+Dominica,1,17,6441,Pipelayers,8.625063419583968e-4
+Dominica,1,17,7315,"Heating, air conditioning, and refrigeration mechanics and installers",8.625063419583968e-4
+Dominica,1,16,2600,Artists and related workers,8.117706747843734e-4
+Dominica,1,16,3150,Occupational therapists,8.117706747843734e-4
+Dominica,1,16,3258,"Nurse practitioners, and nurse midwives",8.117706747843734e-4
+Dominica,1,16,4110,Waiters and waitresses,8.117706747843734e-4
+Dominica,2,16,5550,Postal service mail carriers,8.117706747843734e-4
+Dominica,2,15,0650,Training and development specialists,7.6103500761035e-4
+Dominica,1,15,5560,"Postal service mail sorters, processors, and processing machine operators",7.6103500761035e-4
+Dominica,1,15,6515,Roofers,7.6103500761035e-4
+Dominica,1,14,2825,Public relations specialists,7.102993404363268e-4
+Dominica,2,14,5410,Reservation and transportation ticket agents and travel clerks,7.102993404363268e-4
+Dominica,1,13,2001,Substance abuse and behavioral disorder counselors,6.595636732623034e-4
+Dominica,1,13,3820,Detectives and criminal investigators,6.595636732623034e-4
+Dominica,1,12,1360,Civil engineers,6.088280060882801e-4
+Dominica,1,11,6520,Sheet metal workers,5.580923389142567e-4
+Dominica,1,11,8610,Stationary engineers and boiler operators,5.580923389142567e-4
+Dominica,1,10,0340,Lodging managers,5.073566717402334e-4
+Dominica,1,10,5100,Bill and account collectors,5.073566717402334e-4
+Dominica,1,9,0960,Other financial specialists,4.5662100456621003e-4
+Dominica,1,9,5110,Billing and posting clerks,4.5662100456621003e-4
+Dominica,1,9,5160,Tellers,4.5662100456621003e-4
+Dominica,1,9,5610,"Shipping, receiving, and inventory clerks",4.5662100456621003e-4
+Dominica,1,8,0140,Industrial production managers,4.058853373921867e-4
+Dominica,1,8,2320,Secondary school teachers,4.058853373921867e-4
+Dominica,1,8,2905,Other media and communication equipment workers,4.058853373921867e-4
+Dominica,1,8,5500,Cargo and freight agents,4.058853373921867e-4
+Dominica,1,8,9415,Passenger attendants,4.058853373921867e-4
+Dominica,1,7,1105,Network and computer systems administrators,3.551496702181634e-4
+Dominica,1,7,9121,"Bus drivers, school",3.551496702181634e-4
+Dominica,1,6,1050,Computer support specialists,3.0441400304414006e-4
+Dominica,1,6,2634,Graphic designers,3.0441400304414006e-4
+Dominica,1,5,4640,Residential advisors,2.536783358701167e-4
+Dominica,1,4,5840,Insurance claims and policy processing clerks,2.0294266869609335e-4
+Dominica,1,3,2360,Other teachers and instructors,1.5220700152207003e-4

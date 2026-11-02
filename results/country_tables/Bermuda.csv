@@ -1,114 +1,114 @@
-country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
-Bermuda,369,7295,186,3878,0800,Accountants and auditors,1,275,0.07091284167096441
-Bermuda,369,7295,186,3878,3255,Registered nurses,6,154,0.039711191335740074
-Bermuda,369,7295,186,3878,0440,Other managers,7,143,0.0368746776689015
-Bermuda,369,7295,186,3878,0410,"Property, real estate, and community association managers",1,127,0.03274883960804539
-Bermuda,369,7295,186,3878,4700,First-line supervisors of retail sales workers,1,107,0.027591542031975246
-Bermuda,369,7295,186,3878,5240,Customer service representatives,4,105,0.02707581227436823
-Bermuda,369,7295,186,3878,4020,Cooks,2,100,0.025786487880350695
-Bermuda,369,7295,186,3878,3110,Physician assistants,1,97,0.025012893243940175
-Bermuda,369,7295,186,3878,0010,Chief executives and legislators,4,96,0.02475502836513667
-Bermuda,369,7295,186,3878,2310,Elementary and middle school teachers,6,89,0.02294997421351212
-Bermuda,369,7295,186,3878,5740,"Secretaries and administrative assistants, except legal, medical, and executive",4,79,0.02037132542547705
-Bermuda,369,7295,186,3878,4760,Retail salespersons,5,74,0.019082001031459517
-Bermuda,369,7295,186,3878,7810,"Butchers and other meat, poultry, and fish processing workers",3,74,0.019082001031459517
-Bermuda,369,7295,186,3878,0630,Human resources workers,1,73,0.018824136152656008
-Bermuda,369,7295,186,3878,4220,Janitors and building cleaners,3,69,0.01779267663744198
-Bermuda,369,7295,186,3878,2060,"Religious workers, all other",1,66,0.01701908200103146
-Bermuda,369,7295,186,3878,4720,Cashiers,4,64,0.016503352243424446
-Bermuda,369,7295,186,3878,4920,Real estate brokers and sales agents,3,60,0.015471892728210418
-Bermuda,369,7295,186,3878,1022,Software quality assurance analysts and testers,2,58,0.014956162970603403
-Bermuda,369,7295,186,3878,0710,Management analysts,3,55,0.014182568334192883
-Bermuda,369,7295,186,3878,0850,Personal financial advisors,2,54,0.013924703455389376
-Bermuda,369,7295,186,3878,3602,Personal care aides,2,51,0.013151108818978855
-Bermuda,369,7295,186,3878,9130,Driver/sales workers and truck drivers,4,50,0.012893243940175348
-Bermuda,369,7295,186,3878,1840,Urban and regional planners,1,48,0.012377514182568335
-Bermuda,369,7295,186,3878,2013,Mental health and substance abuse social workers,1,46,0.01186178442496132
-Bermuda,369,7295,186,3878,3500,Licensed practical and licensed vocational nurses,1,45,0.011603919546157814
-Bermuda,369,7295,186,3878,4030,Food preparation workers,1,45,0.011603919546157814
-Bermuda,369,7295,186,3878,0340,Lodging managers,2,44,0.011346054667354307
-Bermuda,369,7295,186,3878,6230,Carpenters,3,44,0.011346054667354307
-Bermuda,369,7295,186,3878,6355,Electricians,2,43,0.0110881897885508
-Bermuda,369,7295,186,3878,0230,Education and childcare administrators,2,42,0.010830324909747292
-Bermuda,369,7295,186,3878,5510,Couriers and messengers,2,42,0.010830324909747292
-Bermuda,369,7295,186,3878,9640,"Packers and packagers, hand",4,42,0.010830324909747292
-Bermuda,369,7295,186,3878,3603,Nursing assistants,3,41,0.010572460030943786
-Bermuda,369,7295,186,3878,4830,Travel agents,3,38,0.009798865394533264
-Bermuda,369,7295,186,3878,9410,Transportation inspectors,1,38,0.009798865394533264
-Bermuda,369,7295,186,3878,4130,Dining room and cafeteria attendants and bartender helpers,1,37,0.009541000515729758
-Bermuda,369,7295,186,3878,1970,"Other life, physical, and social science technicians",1,36,0.009283135636926251
-Bermuda,369,7295,186,3878,8300,Laundry and dry-cleaning workers,2,35,0.009025270758122744
-Bermuda,369,7295,186,3878,9645,Stockers and order fillers,2,35,0.009025270758122744
-Bermuda,369,7295,186,3878,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",1,33,0.00850954100051573
-Bermuda,369,7295,186,3878,4200,First-line supervisors of housekeeping and janitorial workers,1,32,0.008251676121712223
-Bermuda,369,7295,186,3878,3870,Police officers,1,31,0.007993811242908716
-Bermuda,369,7295,186,3878,1410,Electrical and electronics engineers,2,30,0.007735946364105209
-Bermuda,369,7295,186,3878,3245,Other therapists,1,30,0.007735946364105209
-Bermuda,369,7295,186,3878,2545,Teaching assistants,3,29,0.007478081485301702
-Bermuda,369,7295,186,3878,4350,Animal caretakers,5,28,0.007220216606498195
-Bermuda,369,7295,186,3878,1305,"Architects, except landscape and naval",1,27,0.006962351727694688
-Bermuda,369,7295,186,3878,1530,Other engineers,1,27,0.006962351727694688
-Bermuda,369,7295,186,3878,6520,Sheet metal workers,1,25,0.006446621970087674
-Bermuda,369,7295,186,3878,3740,Firefighters,1,23,0.00593089221248066
-Bermuda,369,7295,186,3878,0750,"Business operations specialists, all other",1,22,0.005673027333677153
-Bermuda,369,7295,186,3878,3401,Emergency medical technicians,1,22,0.005673027333677153
-Bermuda,369,7295,186,3878,5320,"Library assistants, clerical",1,22,0.005673027333677153
-Bermuda,369,7295,186,3878,4110,Waiters and waitresses,3,21,0.005415162454873646
-Bermuda,369,7295,186,3878,4810,Insurance sales agents,1,21,0.005415162454873646
-Bermuda,369,7295,186,3878,0845,Financial and investment analysts,2,20,0.005157297576070139
-Bermuda,369,7295,186,3878,1240,Other mathematical science occupations,1,20,0.005157297576070139
-Bermuda,369,7295,186,3878,8030,Machinists,1,20,0.005157297576070139
-Bermuda,369,7295,186,3878,1010,Computer programmers,1,19,0.004899432697266632
-Bermuda,369,7295,186,3878,7700,First-line supervisors of production and operating workers,1,19,0.004899432697266632
-Bermuda,369,7295,186,3878,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,18,0.0046415678184631255
-Bermuda,369,7295,186,3878,7210,Bus and truck mechanics and diesel engine specialists,1,18,0.0046415678184631255
-Bermuda,369,7295,186,3878,0500,"Agents and business managers of artists, performers, and athletes",1,17,0.004383702939659618
-Bermuda,369,7295,186,3878,1745,"Environmental scientists and specialists, including health",1,17,0.004383702939659618
-Bermuda,369,7295,186,3878,6850,Underground mining machine operators,1,17,0.004383702939659618
-Bermuda,369,7295,186,3878,0110,Computer and information systems managers,1,16,0.0041258380608561115
-Bermuda,369,7295,186,3878,0960,Other financial specialists,1,16,0.0041258380608561115
-Bermuda,369,7295,186,3878,2360,Other teachers and instructors,1,15,0.0038679731820526046
-Bermuda,369,7295,186,3878,4510,"Hairdressers, hairstylists, and cosmetologists",1,15,0.0038679731820526046
-Bermuda,369,7295,186,3878,4710,First-line supervisors of non-retail sales workers,1,15,0.0038679731820526046
-Bermuda,369,7295,186,3878,5940,Other office and administrative support workers,1,15,0.0038679731820526046
-Bermuda,369,7295,186,3878,1007,Information security analysts,1,14,0.0036101083032490976
-Bermuda,369,7295,186,3878,2006,"Counselors, all other",1,14,0.0036101083032490976
-Bermuda,369,7295,186,3878,4230,Maids and housekeeping cleaners,1,14,0.0036101083032490976
-Bermuda,369,7295,186,3878,5550,Postal service mail carriers,1,14,0.0036101083032490976
-Bermuda,369,7295,186,3878,6410,Painters and paperhangers,1,14,0.0036101083032490976
-Bermuda,369,7295,186,3878,7320,Home appliance repairers,1,14,0.0036101083032490976
-Bermuda,369,7295,186,3878,0120,Financial managers,1,13,0.0033522434244455906
-Bermuda,369,7295,186,3878,0205,"Farmers, ranchers, and other agricultural managers",1,13,0.0033522434244455906
-Bermuda,369,7295,186,3878,4655,"Personal care and service workers, all other",1,13,0.0033522434244455906
-Bermuda,369,7295,186,3878,1760,"Physical scientists, all other",1,12,0.0030943785456420837
-Bermuda,369,7295,186,3878,4010,First-line supervisors of food preparation and serving workers,1,12,0.0030943785456420837
-Bermuda,369,7295,186,3878,9300,"Sailors and marine oilers, and ship engineers",1,12,0.0030943785456420837
-Bermuda,369,7295,186,3878,0102,Facilities managers,1,11,0.0028365136668385767
-Bermuda,369,7295,186,3878,4251,Landscaping and groundskeeping workers,1,11,0.0028365136668385767
-Bermuda,369,7295,186,3878,1825,Other psychologists,1,10,0.0025786487880350697
-Bermuda,369,7295,186,3878,3422,Psychiatric technicians,1,10,0.0025786487880350697
-Bermuda,369,7295,186,3878,5860,"Office clerks, general",1,10,0.0025786487880350697
-Bermuda,369,7295,186,3878,6050,Other agricultural workers,1,10,0.0025786487880350697
-Bermuda,369,7295,186,3878,3940,Crossing guards and flaggers,1,9,0.0023207839092315627
-Bermuda,369,7295,186,3878,7150,Automotive body and related repairers,1,9,0.0023207839092315627
-Bermuda,369,7295,186,3878,9030,Aircraft pilots and flight engineers,1,9,0.0023207839092315627
-Bermuda,369,7295,186,3878,0137,Training and development managers,1,8,0.0020629190304280558
-Bermuda,369,7295,186,3878,0140,Industrial production managers,1,8,0.0020629190304280558
-Bermuda,369,7295,186,3878,1021,Software developers,1,8,0.0020629190304280558
-Bermuda,369,7295,186,3878,1050,Computer support specialists,2,8,0.0020629190304280558
-Bermuda,369,7295,186,3878,2861,Interpreters and translators,1,7,0.0018050541516245488
-Bermuda,369,7295,186,3878,4850,"Sales representatives, wholesale and manufacturing",1,7,0.0018050541516245488
-Bermuda,369,7295,186,3878,6442,"Plumbers, pipefitters, and steamfitters",1,7,0.0018050541516245488
-Bermuda,369,7295,186,3878,2751,Music directors and composers,1,6,0.0015471892728210418
-Bermuda,369,7295,186,3878,3090,Physicians,1,6,0.0015471892728210418
-Bermuda,369,7295,186,3878,4120,"Food servers, nonrestaurant",1,6,0.0015471892728210418
-Bermuda,369,7295,186,3878,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",1,6,0.0015471892728210418
-Bermuda,369,7295,186,3878,4435,Other entertainment attendants and related workers,1,6,0.0015471892728210418
-Bermuda,369,7295,186,3878,1360,Civil engineers,1,5,0.0012893243940175349
-Bermuda,369,7295,186,3878,2205,Postsecondary teachers,1,4,0.0010314595152140279
-Bermuda,369,7295,186,3878,2330,Special education teachers,1,4,0.0010314595152140279
-Bermuda,369,7295,186,3878,5522,"Dispatchers, except police, fire, and ambulance",1,4,0.0010314595152140279
-Bermuda,369,7295,186,3878,1700,Astronomers and physicists,1,3,7.735946364105209e-4
-Bermuda,369,7295,186,3878,2320,Secondary school teachers,1,2,5.157297576070139e-4
-Bermuda,369,7295,186,3878,4800,Advertising sales agents,1,2,5.157297576070139e-4
-Bermuda,369,7295,186,3878,5000,First-line supervisors of office and administrative support workers,1,2,5.157297576070139e-4
+country,n_workers,workers,occ,occ_title,occ_share
+Bermuda,1,275,0800,Accountants and auditors,0.07091284167096441
+Bermuda,6,154,3255,Registered nurses,0.039711191335740074
+Bermuda,7,143,0440,Other managers,0.0368746776689015
+Bermuda,1,127,0410,"Property, real estate, and community association managers",0.03274883960804539
+Bermuda,1,107,4700,First-line supervisors of retail sales workers,0.027591542031975246
+Bermuda,4,105,5240,Customer service representatives,0.02707581227436823
+Bermuda,2,100,4020,Cooks,0.025786487880350695
+Bermuda,1,97,3110,Physician assistants,0.025012893243940175
+Bermuda,4,96,0010,Chief executives and legislators,0.02475502836513667
+Bermuda,6,89,2310,Elementary and middle school teachers,0.02294997421351212
+Bermuda,4,79,5740,"Secretaries and administrative assistants, except legal, medical, and executive",0.02037132542547705
+Bermuda,5,74,4760,Retail salespersons,0.019082001031459517
+Bermuda,3,74,7810,"Butchers and other meat, poultry, and fish processing workers",0.019082001031459517
+Bermuda,1,73,0630,Human resources workers,0.018824136152656008
+Bermuda,3,69,4220,Janitors and building cleaners,0.01779267663744198
+Bermuda,1,66,2060,"Religious workers, all other",0.01701908200103146
+Bermuda,4,64,4720,Cashiers,0.016503352243424446
+Bermuda,3,60,4920,Real estate brokers and sales agents,0.015471892728210418
+Bermuda,2,58,1022,Software quality assurance analysts and testers,0.014956162970603403
+Bermuda,3,55,0710,Management analysts,0.014182568334192883
+Bermuda,2,54,0850,Personal financial advisors,0.013924703455389376
+Bermuda,2,51,3602,Personal care aides,0.013151108818978855
+Bermuda,4,50,9130,Driver/sales workers and truck drivers,0.012893243940175348
+Bermuda,1,48,1840,Urban and regional planners,0.012377514182568335
+Bermuda,1,46,2013,Mental health and substance abuse social workers,0.01186178442496132
+Bermuda,1,45,3500,Licensed practical and licensed vocational nurses,0.011603919546157814
+Bermuda,1,45,4030,Food preparation workers,0.011603919546157814
+Bermuda,2,44,0340,Lodging managers,0.011346054667354307
+Bermuda,3,44,6230,Carpenters,0.011346054667354307
+Bermuda,2,43,6355,Electricians,0.0110881897885508
+Bermuda,2,42,0230,Education and childcare administrators,0.010830324909747292
+Bermuda,2,42,5510,Couriers and messengers,0.010830324909747292
+Bermuda,4,42,9640,"Packers and packagers, hand",0.010830324909747292
+Bermuda,3,41,3603,Nursing assistants,0.010572460030943786
+Bermuda,3,38,4830,Travel agents,0.009798865394533264
+Bermuda,1,38,9410,Transportation inspectors,0.009798865394533264
+Bermuda,1,37,4130,Dining room and cafeteria attendants and bartender helpers,0.009541000515729758
+Bermuda,1,36,1970,"Other life, physical, and social science technicians",0.009283135636926251
+Bermuda,2,35,8300,Laundry and dry-cleaning workers,0.009025270758122744
+Bermuda,2,35,9645,Stockers and order fillers,0.009025270758122744
+Bermuda,1,33,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",0.00850954100051573
+Bermuda,1,32,4200,First-line supervisors of housekeeping and janitorial workers,0.008251676121712223
+Bermuda,1,31,3870,Police officers,0.007993811242908716
+Bermuda,2,30,1410,Electrical and electronics engineers,0.007735946364105209
+Bermuda,1,30,3245,Other therapists,0.007735946364105209
+Bermuda,3,29,2545,Teaching assistants,0.007478081485301702
+Bermuda,5,28,4350,Animal caretakers,0.007220216606498195
+Bermuda,1,27,1305,"Architects, except landscape and naval",0.006962351727694688
+Bermuda,1,27,1530,Other engineers,0.006962351727694688
+Bermuda,1,25,6520,Sheet metal workers,0.006446621970087674
+Bermuda,1,23,3740,Firefighters,0.00593089221248066
+Bermuda,1,22,0750,"Business operations specialists, all other",0.005673027333677153
+Bermuda,1,22,3401,Emergency medical technicians,0.005673027333677153
+Bermuda,1,22,5320,"Library assistants, clerical",0.005673027333677153
+Bermuda,3,21,4110,Waiters and waitresses,0.005415162454873646
+Bermuda,1,21,4810,Insurance sales agents,0.005415162454873646
+Bermuda,2,20,0845,Financial and investment analysts,0.005157297576070139
+Bermuda,1,20,1240,Other mathematical science occupations,0.005157297576070139
+Bermuda,1,20,8030,Machinists,0.005157297576070139
+Bermuda,1,19,1010,Computer programmers,0.004899432697266632
+Bermuda,1,19,7700,First-line supervisors of production and operating workers,0.004899432697266632
+Bermuda,1,18,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",0.0046415678184631255
+Bermuda,1,18,7210,Bus and truck mechanics and diesel engine specialists,0.0046415678184631255
+Bermuda,1,17,0500,"Agents and business managers of artists, performers, and athletes",0.004383702939659618
+Bermuda,1,17,1745,"Environmental scientists and specialists, including health",0.004383702939659618
+Bermuda,1,17,6850,Underground mining machine operators,0.004383702939659618
+Bermuda,1,16,0110,Computer and information systems managers,0.0041258380608561115
+Bermuda,1,16,0960,Other financial specialists,0.0041258380608561115
+Bermuda,1,15,2360,Other teachers and instructors,0.0038679731820526046
+Bermuda,1,15,4510,"Hairdressers, hairstylists, and cosmetologists",0.0038679731820526046
+Bermuda,1,15,4710,First-line supervisors of non-retail sales workers,0.0038679731820526046
+Bermuda,1,15,5940,Other office and administrative support workers,0.0038679731820526046
+Bermuda,1,14,1007,Information security analysts,0.0036101083032490976
+Bermuda,1,14,2006,"Counselors, all other",0.0036101083032490976
+Bermuda,1,14,4230,Maids and housekeeping cleaners,0.0036101083032490976
+Bermuda,1,14,5550,Postal service mail carriers,0.0036101083032490976
+Bermuda,1,14,6410,Painters and paperhangers,0.0036101083032490976
+Bermuda,1,14,7320,Home appliance repairers,0.0036101083032490976
+Bermuda,1,13,0120,Financial managers,0.0033522434244455906
+Bermuda,1,13,0205,"Farmers, ranchers, and other agricultural managers",0.0033522434244455906
+Bermuda,1,13,4655,"Personal care and service workers, all other",0.0033522434244455906
+Bermuda,1,12,1760,"Physical scientists, all other",0.0030943785456420837
+Bermuda,1,12,4010,First-line supervisors of food preparation and serving workers,0.0030943785456420837
+Bermuda,1,12,9300,"Sailors and marine oilers, and ship engineers",0.0030943785456420837
+Bermuda,1,11,0102,Facilities managers,0.0028365136668385767
+Bermuda,1,11,4251,Landscaping and groundskeeping workers,0.0028365136668385767
+Bermuda,1,10,1825,Other psychologists,0.0025786487880350697
+Bermuda,1,10,3422,Psychiatric technicians,0.0025786487880350697
+Bermuda,1,10,5860,"Office clerks, general",0.0025786487880350697
+Bermuda,1,10,6050,Other agricultural workers,0.0025786487880350697
+Bermuda,1,9,3940,Crossing guards and flaggers,0.0023207839092315627
+Bermuda,1,9,7150,Automotive body and related repairers,0.0023207839092315627
+Bermuda,1,9,9030,Aircraft pilots and flight engineers,0.0023207839092315627
+Bermuda,1,8,0137,Training and development managers,0.0020629190304280558
+Bermuda,1,8,0140,Industrial production managers,0.0020629190304280558
+Bermuda,1,8,1021,Software developers,0.0020629190304280558
+Bermuda,2,8,1050,Computer support specialists,0.0020629190304280558
+Bermuda,1,7,2861,Interpreters and translators,0.0018050541516245488
+Bermuda,1,7,4850,"Sales representatives, wholesale and manufacturing",0.0018050541516245488
+Bermuda,1,7,6442,"Plumbers, pipefitters, and steamfitters",0.0018050541516245488
+Bermuda,1,6,2751,Music directors and composers,0.0015471892728210418
+Bermuda,1,6,3090,Physicians,0.0015471892728210418
+Bermuda,1,6,4120,"Food servers, nonrestaurant",0.0015471892728210418
+Bermuda,1,6,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",0.0015471892728210418
+Bermuda,1,6,4435,Other entertainment attendants and related workers,0.0015471892728210418
+Bermuda,1,5,1360,Civil engineers,0.0012893243940175349
+Bermuda,1,4,2205,Postsecondary teachers,0.0010314595152140279
+Bermuda,1,4,2330,Special education teachers,0.0010314595152140279
+Bermuda,1,4,5522,"Dispatchers, except police, fire, and ambulance",0.0010314595152140279
+Bermuda,1,3,1700,Astronomers and physicists,7.735946364105209e-4
+Bermuda,1,2,2320,Secondary school teachers,5.157297576070139e-4
+Bermuda,1,2,4800,Advertising sales agents,5.157297576070139e-4
+Bermuda,1,2,5000,First-line supervisors of office and administrative support workers,5.157297576070139e-4

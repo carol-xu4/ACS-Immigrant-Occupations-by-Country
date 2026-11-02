@@ -1,314 +1,314 @@
-country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
-Malaysia,4003,82671,2321,46407,1021,Software developers,112,2310,0.049776973301441596
-Malaysia,4003,82671,2321,46407,0440,Other managers,97,1910,0.04115758398517465
-Malaysia,4003,82671,2321,46407,3090,Physicians,53,1287,0.027732885125088886
-Malaysia,4003,82671,2321,46407,2205,Postsecondary teachers,60,1241,0.02674165535371819
-Malaysia,4003,82671,2321,46407,0800,Accountants and auditors,61,1218,0.02624604046803284
-Malaysia,4003,82671,2321,46407,0710,Management analysts,42,992,0.02137608550434202
-Malaysia,4003,82671,2321,46407,3255,Registered nurses,52,891,0.019199689701984615
-Malaysia,4003,82671,2321,46407,4720,Cashiers,31,761,0.016398388174197857
-Malaysia,4003,82671,2321,46407,4110,Waiters and waitresses,45,760,0.01637683970090719
-Malaysia,4003,82671,2321,46407,1530,Other engineers,41,706,0.015213222143211153
-Malaysia,4003,82671,2321,46407,1006,Computer systems analysts,30,667,0.014372831684875126
-Malaysia,4003,82671,2321,46407,0010,Chief executives and legislators,28,629,0.013553989699829768
-Malaysia,4003,82671,2321,46407,1360,Civil engineers,25,600,0.012929083974400414
-Malaysia,4003,82671,2321,46407,4700,First-line supervisors of retail sales workers,31,598,0.012885987027819078
-Malaysia,4003,82671,2321,46407,4030,Food preparation workers,14,588,0.012670502294912405
-Malaysia,4003,82671,2321,46407,0120,Financial managers,29,534,0.011506884737216368
-Malaysia,4003,82671,2321,46407,2545,Teaching assistants,28,521,0.011226754584437693
-Malaysia,4003,82671,2321,46407,0705,Project management specialists,19,510,0.010989721378240351
-Malaysia,4003,82671,2321,46407,5240,Customer service representatives,26,496,0.01068804275217101
-Malaysia,4003,82671,2321,46407,1760,"Physical scientists, all other",25,493,0.010623397332299007
-Malaysia,4003,82671,2321,46407,0310,Food service managers,19,464,0.009998491606869653
-Malaysia,4003,82671,2321,46407,1108,"Computer occupations, all other",22,460,0.009912297713706985
-Malaysia,4003,82671,2321,46407,4521,Manicurists and pedicurists,18,457,0.009847652293834983
-Malaysia,4003,82671,2321,46407,4920,Real estate brokers and sales agents,22,449,0.009675264507509643
-Malaysia,4003,82671,2321,46407,0020,General and operations managers,21,445,0.009589070614346974
-Malaysia,4003,82671,2321,46407,1410,Electrical and electronics engineers,24,432,0.009308940461568297
-Malaysia,4003,82671,2321,46407,4010,First-line supervisors of food preparation and serving workers,10,415,0.008942616415626953
-Malaysia,4003,82671,2321,46407,4760,Retail salespersons,23,415,0.008942616415626953
-Malaysia,4003,82671,2321,46407,1240,Other mathematical science occupations,19,404,0.008705583209429612
-Malaysia,4003,82671,2321,46407,3050,Pharmacists,15,384,0.008274613743616264
-Malaysia,4003,82671,2321,46407,9130,Driver/sales workers and truck drivers,17,381,0.008209968323744262
-Malaysia,4003,82671,2321,46407,5860,"Office clerks, general",21,380,0.008188419850453595
-Malaysia,4003,82671,2321,46407,5610,"Shipping, receiving, and inventory clerks",11,379,0.008166871377162929
-Malaysia,4003,82671,2321,46407,0300,Architectural and engineering managers,13,373,0.008037580537418924
-Malaysia,4003,82671,2321,46407,5740,"Secretaries and administrative assistants, except legal, medical, and executive",28,372,0.008016032064128256
-Malaysia,4003,82671,2321,46407,0520,"Wholesale and retail buyers, except farm products",9,369,0.007951386644256254
-Malaysia,4003,82671,2321,46407,0110,Computer and information systems managers,22,368,0.007929838170965587
-Malaysia,4003,82671,2321,46407,5000,First-line supervisors of office and administrative support workers,11,350,0.0075419656517335745
-Malaysia,4003,82671,2321,46407,1460,Mechanical engineers,13,333,0.00717564160579223
-Malaysia,4003,82671,2321,46407,3601,Home health aides,13,332,0.007154093132501562
-Malaysia,4003,82671,2321,46407,4020,Cooks,20,332,0.007154093132501562
-Malaysia,4003,82671,2321,46407,1010,Computer programmers,17,322,0.006938608399594889
-Malaysia,4003,82671,2321,46407,4710,First-line supervisors of non-retail sales workers,15,319,0.006873962979722887
-Malaysia,4003,82671,2321,46407,9620,"Laborers and freight, stock, and material movers, hand",13,314,0.00676622061326955
-Malaysia,4003,82671,2321,46407,4850,"Sales representatives, wholesale and manufacturing",16,300,0.006464541987200207
-Malaysia,4003,82671,2321,46407,0735,Market research analysts and marketing specialists,16,298,0.0064214450406188724
-Malaysia,4003,82671,2321,46407,4000,Chefs and head cooks,18,287,0.006184411834421531
-Malaysia,4003,82671,2321,46407,0350,Medical and health services managers,11,284,0.006119766414549529
-Malaysia,4003,82671,2321,46407,0845,Financial and investment analysts,11,284,0.006119766414549529
-Malaysia,4003,82671,2321,46407,5940,Other office and administrative support workers,11,284,0.006119766414549529
-Malaysia,4003,82671,2321,46407,9142,Taxi drivers,14,282,0.006076669467968194
-Malaysia,4003,82671,2321,46407,2310,Elementary and middle school teachers,20,273,0.005882733208352188
-Malaysia,4003,82671,2321,46407,1050,Computer support specialists,18,272,0.0058611847350615205
-Malaysia,4003,82671,2321,46407,0230,Education and childcare administrators,16,269,0.0057965393151895184
-Malaysia,4003,82671,2321,46407,4220,Janitors and building cleaners,12,267,0.005753442368608184
-Malaysia,4003,82671,2321,46407,4510,"Hairdressers, hairstylists, and cosmetologists",18,263,0.005667248475445514
-Malaysia,4003,82671,2321,46407,6260,Construction laborers,9,252,0.005430215269248174
-Malaysia,4003,82671,2321,46407,1430,"Industrial engineers, including health and safety",13,242,0.005214730536341501
-Malaysia,4003,82671,2321,46407,8300,Laundry and dry-cleaning workers,3,231,0.004977697330144159
-Malaysia,4003,82671,2321,46407,0220,Construction managers,14,218,0.004697567177365484
-Malaysia,4003,82671,2321,46407,0750,"Business operations specialists, all other",13,218,0.004697567177365484
-Malaysia,4003,82671,2321,46407,0051,Marketing managers,13,217,0.004676018704074816
-Malaysia,4003,82671,2321,46407,5120,"Bookkeeping, accounting, and auditing clerks",20,213,0.004589824810912147
-Malaysia,4003,82671,2321,46407,5840,Insurance claims and policy processing clerks,2,213,0.004589824810912147
-Malaysia,4003,82671,2321,46407,0850,Personal financial advisors,13,211,0.004546727864330812
-Malaysia,4003,82671,2321,46407,8740,"Inspectors, testers, sorters, samplers, and weighers",6,209,0.004503630917749478
-Malaysia,4003,82671,2321,46407,1650,Other life scientists,11,206,0.004438985497877476
-Malaysia,4003,82671,2321,46407,4600,Childcare workers,12,203,0.004374340078005474
-Malaysia,4003,82671,2321,46407,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",10,202,0.004352791604714806
-Malaysia,4003,82671,2321,46407,4040,Bartenders,5,201,0.004331243131424138
-Malaysia,4003,82671,2321,46407,5250,"Eligibility interviewers, government programs",2,200,0.0043096946581334715
-Malaysia,4003,82671,2321,46407,2360,Other teachers and instructors,12,199,0.004288146184842804
-Malaysia,4003,82671,2321,46407,2040,Clergy,13,197,0.0042450492382614695
-Malaysia,4003,82671,2321,46407,8990,"Miscellaneous production workers, including equipment operators and tenders",4,194,0.004180403818389467
-Malaysia,4003,82671,2321,46407,5400,Receptionists and information clerks,14,190,0.004094209925226798
-Malaysia,4003,82671,2321,46407,0630,Human resources workers,8,189,0.00407266145193613
-Malaysia,4003,82671,2321,46407,1305,"Architects, except landscape and naval",9,189,0.00407266145193613
-Malaysia,4003,82671,2321,46407,0052,Sales managers,11,182,0.003921822138901459
-Malaysia,4003,82671,2321,46407,1105,Network and computer systems administrators,8,180,0.003878725192320124
-Malaysia,4003,82671,2321,46407,1220,Operations research analysts,9,167,0.0035985950395414487
-Malaysia,4003,82671,2321,46407,1065,Database administrators and architects,9,160,0.003447755726506777
-Malaysia,4003,82671,2321,46407,1970,"Other life, physical, and social science technicians",6,160,0.003447755726506777
-Malaysia,4003,82671,2321,46407,1555,"Other engineering technologists and technicians, except drafters",9,159,0.0034262072532161097
-Malaysia,4003,82671,2321,46407,3930,Security guards and gaming surveillance officers,7,157,0.003383110306634775
-Malaysia,4003,82671,2321,46407,3602,Personal care aides,9,149,0.0032107225203094362
-Malaysia,4003,82671,2321,46407,9640,"Packers and packagers, hand",9,141,0.003038334733984097
-Malaysia,4003,82671,2321,46407,1200,Actuaries,7,136,0.0029305923675307603
-Malaysia,4003,82671,2321,46407,2640,Other designers,11,135,0.002909043894240093
-Malaysia,4003,82671,2321,46407,4230,Maids and housekeeping cleaners,8,134,0.002887495420949426
-Malaysia,4003,82671,2321,46407,0530,"Purchasing agents, except wholesale, retail, and farm products",9,133,0.002865946947658758
-Malaysia,4003,82671,2321,46407,2320,Secondary school teachers,10,133,0.002865946947658758
-Malaysia,4003,82671,2321,46407,1032,Web and digital interface designers,8,131,0.0028228500010774238
-Malaysia,4003,82671,2321,46407,9645,Stockers and order fillers,9,131,0.0028228500010774238
-Malaysia,4003,82671,2321,46407,4120,"Food servers, nonrestaurant",7,128,0.0027582045812054217
-Malaysia,4003,82671,2321,46407,3421,Pharmacy technicians,4,126,0.002715107634624087
-Malaysia,4003,82671,2321,46407,2300,Preschool and kindergarten teachers,12,125,0.0026935591613334196
-Malaysia,4003,82671,2321,46407,7330,Industrial and refractory machinery mechanics,3,119,0.0025642683215894154
-Malaysia,4003,82671,2321,46407,7200,Automotive service technicians and mechanics,5,115,0.002478074428426746
-Malaysia,4003,82671,2321,46407,9122,"Bus drivers, transit and intercity",6,115,0.002478074428426746
-Malaysia,4003,82671,2321,46407,1610,Biological scientists,5,114,0.0024565259551360785
-Malaysia,4003,82671,2321,46407,0410,"Property, real estate, and community association managers",6,113,0.0024349774818454113
-Malaysia,4003,82671,2321,46407,0725,"Meeting, convention, and event planners",4,113,0.0024349774818454113
-Malaysia,4003,82671,2321,46407,1350,Chemical engineers,7,112,0.002413429008554744
-Malaysia,4003,82671,2321,46407,4810,Insurance sales agents,4,110,0.002370332061973409
-Malaysia,4003,82671,2321,46407,0140,Industrial production managers,7,108,0.0023272351153920743
-Malaysia,4003,82671,2321,46407,0910,Credit counselors and loan officers,4,107,0.002305686642101407
-Malaysia,4003,82671,2321,46407,3870,Police officers,7,106,0.00228413816881074
-Malaysia,4003,82671,2321,46407,4130,Dining room and cafeteria attendants and bartender helpers,6,104,0.002241041222229405
-Malaysia,4003,82671,2321,46407,5330,Loan interviewers and clerks,3,104,0.002241041222229405
-Malaysia,4003,82671,2321,46407,1822,School psychologists,2,99,0.002133298855776068
-Malaysia,4003,82671,2321,46407,3010,Dentists,1,99,0.002133298855776068
-Malaysia,4003,82671,2321,46407,0565,Compliance officers,6,97,0.0020902019091947337
-Malaysia,4003,82671,2321,46407,0136,Human resources managers,4,95,0.002047104962613399
-Malaysia,4003,82671,2321,46407,3603,Nursing assistants,7,93,0.002004008016032064
-Malaysia,4003,82671,2321,46407,7750,Other assemblers and fabricators,2,93,0.002004008016032064
-Malaysia,4003,82671,2321,46407,0700,Logisticians,5,92,0.0019824595427413967
-Malaysia,4003,82671,2321,46407,1450,Materials engineers,5,92,0.0019824595427413967
-Malaysia,4003,82671,2321,46407,2710,Producers and directors,5,92,0.0019824595427413967
-Malaysia,4003,82671,2321,46407,5510,Couriers and messengers,3,92,0.0019824595427413967
-Malaysia,4003,82671,2321,46407,1320,Aerospace engineers,8,88,0.0018962656495787272
-Malaysia,4003,82671,2321,46407,2722,Coaches and scouts,3,86,0.0018531687029973926
-Malaysia,4003,82671,2321,46407,2634,Graphic designers,6,85,0.0018316202297067254
-Malaysia,4003,82671,2321,46407,3160,Physical therapists,5,84,0.001810071756416058
-Malaysia,4003,82671,2321,46407,8140,"Welding, soldering, and brazing workers",4,84,0.001810071756416058
-Malaysia,4003,82671,2321,46407,5540,Postal service clerks,4,81,0.0017454263365440559
-Malaysia,4003,82671,2321,46407,2600,Artists and related workers,6,80,0.0017238778632533884
-Malaysia,4003,82671,2321,46407,5140,Payroll and timekeeping clerks,3,80,0.0017238778632533884
-Malaysia,4003,82671,2321,46407,2752,Musicians and singers,3,79,0.0017023293899627212
-Malaysia,4003,82671,2321,46407,3300,Clinical laboratory technologists and technicians,7,79,0.0017023293899627212
-Malaysia,4003,82671,2321,46407,3640,Dental assistants,3,79,0.0017023293899627212
-Malaysia,4003,82671,2321,46407,2100,"Lawyers, and judges, magistrates, and other judicial workers",7,78,0.0016807809166720538
-Malaysia,4003,82671,2321,46407,3630,Massage therapists,3,78,0.0016807809166720538
-Malaysia,4003,82671,2321,46407,4055,Fast food and counter workers,4,77,0.0016592324433813864
-Malaysia,4003,82671,2321,46407,0040,Advertising and promotions managers,2,76,0.0016376839700907191
-Malaysia,4003,82671,2321,46407,6230,Carpenters,4,76,0.0016376839700907191
-Malaysia,4003,82671,2321,46407,3230,Speech-language pathologists,2,75,0.0016161354968000517
-Malaysia,4003,82671,2321,46407,4750,Parts salespersons,1,75,0.0016161354968000517
-Malaysia,4003,82671,2321,46407,2350,Tutors,5,74,0.0015945870235093843
-Malaysia,4003,82671,2321,46407,7140,Aircraft mechanics and service technicians,3,74,0.0015945870235093843
-Malaysia,4003,82671,2321,46407,1910,Biological technicians,1,72,0.0015514900769280496
-Malaysia,4003,82671,2321,46407,0150,Purchasing managers,4,71,0.0015299416036373822
-Malaysia,4003,82671,2321,46407,3258,"Nurse practitioners, and nurse midwives",5,71,0.0015299416036373822
-Malaysia,4003,82671,2321,46407,7810,"Butchers and other meat, poultry, and fish processing workers",2,71,0.0015299416036373822
-Malaysia,4003,82671,2321,46407,3100,Surgeons,4,69,0.0014868446570560476
-Malaysia,4003,82671,2321,46407,9050,Flight attendants,3,69,0.0014868446570560476
-Malaysia,4003,82671,2321,46407,4820,"Securities, commodities, and financial services sales agents",2,67,0.001443747710474713
-Malaysia,4003,82671,2321,46407,5320,"Library assistants, clerical",6,67,0.001443747710474713
-Malaysia,4003,82671,2321,46407,4400,Gambling services workers,4,66,0.0014221992371840455
-Malaysia,4003,82671,2321,46407,5550,Postal service mail carriers,4,66,0.0014221992371840455
-Malaysia,4003,82671,2321,46407,6410,Painters and paperhangers,1,66,0.0014221992371840455
-Malaysia,4003,82671,2321,46407,3423,Surgical technologists,3,65,0.001400650763893378
-Malaysia,4003,82671,2321,46407,6355,Electricians,4,65,0.001400650763893378
-Malaysia,4003,82671,2321,46407,7640,"Other installation, maintenance, and repair workers",2,65,0.001400650763893378
-Malaysia,4003,82671,2321,46407,2830,Editors,5,62,0.0013360053440213762
-Malaysia,4003,82671,2321,46407,1031,Web developers,3,61,0.0013144568707307088
-Malaysia,4003,82671,2321,46407,7315,"Heating, air conditioning, and refrigeration mechanics and installers",5,60,0.0012929083974400413
-Malaysia,4003,82671,2321,46407,9150,"Motor vehicle operators, all other",1,60,0.0012929083974400413
-Malaysia,4003,82671,2321,46407,5600,"Production, planning, and expediting clerks",5,57,0.0012282629775680393
-Malaysia,4003,82671,2321,46407,1825,Other psychologists,3,56,0.001206714504277372
-Malaysia,4003,82671,2321,46407,2555,Other educational instruction and library workers,3,55,0.0011851660309867046
-Malaysia,4003,82671,2321,46407,2001,Substance abuse and behavioral disorder counselors,2,54,0.0011636175576960372
-Malaysia,4003,82671,2321,46407,0420,Social and community service managers,5,53,0.00114206908440537
-Malaysia,4003,82671,2321,46407,5560,"Postal service mail sorters, processors, and processing machine operators",5,53,0.00114206908440537
-Malaysia,4003,82671,2321,46407,7700,First-line supervisors of production and operating workers,3,53,0.00114206908440537
-Malaysia,4003,82671,2321,46407,0340,Lodging managers,3,52,0.0011205206111147025
-Malaysia,4003,82671,2321,46407,4330,Supervisors of personal care and service workers,2,52,0.0011205206111147025
-Malaysia,4003,82671,2321,46407,4830,Travel agents,4,52,0.0011205206111147025
-Malaysia,4003,82671,2321,46407,8320,Sewing machine operators,2,52,0.0011205206111147025
-Malaysia,4003,82671,2321,46407,1005,Computer and information research scientists,2,51,0.001098972137824035
-Malaysia,4003,82671,2321,46407,2850,Writers and authors,4,51,0.001098972137824035
-Malaysia,4003,82671,2321,46407,7010,"Computer, automated teller, and office machine repairers",2,51,0.001098972137824035
-Malaysia,4003,82671,2321,46407,1106,Computer network architects,3,50,0.0010774236645333679
-Malaysia,4003,82671,2321,46407,4740,Counter and rental clerks,2,48,0.001034326717952033
-Malaysia,4003,82671,2321,46407,4435,Other entertainment attendants and related workers,2,47,0.0010127782446613658
-Malaysia,4003,82671,2321,46407,4621,Exercise trainers and group fitness instructors,2,47,0.0010127782446613658
-Malaysia,4003,82671,2321,46407,1745,"Environmental scientists and specialists, including health",2,46,9.912297713706984e-4
-Malaysia,4003,82671,2321,46407,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",3,45,9.69681298080031e-4
-Malaysia,4003,82671,2321,46407,4525,Other personal appearance workers,1,45,9.69681298080031e-4
-Malaysia,4003,82671,2321,46407,0810,Property appraisers and assessors,2,44,9.481328247893636e-4
-Malaysia,4003,82671,2321,46407,7720,"Electrical, electronics, and electromechanical assemblers",3,44,9.481328247893636e-4
-Malaysia,4003,82671,2321,46407,3321,Cardiovascular technologists and technicians,4,41,8.834874049173617e-4
-Malaysia,4003,82671,2321,46407,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",2,41,8.834874049173617e-4
-Malaysia,4003,82671,2321,46407,3110,Physician assistants,2,40,8.619389316266942e-4
-Malaysia,4003,82671,2321,46407,4420,"Ushers, lobby attendants, and ticket takers",1,40,8.619389316266942e-4
-Malaysia,4003,82671,2321,46407,2825,Public relations specialists,1,39,8.403904583360269e-4
-Malaysia,4003,82671,2321,46407,2861,Interpreters and translators,3,39,8.403904583360269e-4
-Malaysia,4003,82671,2321,46407,3802,Correctional officers and jailers,1,39,8.403904583360269e-4
-Malaysia,4003,82671,2321,46407,2003,Marriage and family therapists,2,37,7.972935117546921e-4
-Malaysia,4003,82671,2321,46407,2723,"Umpires, referees, and other sports officials",1,36,7.757450384640248e-4
-Malaysia,4003,82671,2321,46407,3550,Other healthcare practitioners and technical occupations,2,36,7.757450384640248e-4
-Malaysia,4003,82671,2321,46407,3960,Other protective service workers,2,36,7.757450384640248e-4
-Malaysia,4003,82671,2321,46407,5020,Telephone operators,1,36,7.757450384640248e-4
-Malaysia,4003,82671,2321,46407,5160,Tellers,3,36,7.757450384640248e-4
-Malaysia,4003,82671,2321,46407,8610,Stationary engineers and boiler operators,2,36,7.757450384640248e-4
-Malaysia,4003,82671,2321,46407,5260,File clerks,2,34,7.326480918826901e-4
-Malaysia,4003,82671,2321,46407,8800,Packaging and filling machine operators and tenders,1,34,7.326480918826901e-4
-Malaysia,4003,82671,2321,46407,5710,Executive secretaries and executive administrative assistants,3,33,7.110996185920227e-4
-Malaysia,4003,82671,2321,46407,5720,Legal secretaries and administrative assistants,2,33,7.110996185920227e-4
-Malaysia,4003,82671,2321,46407,3261,Acupuncturists,2,32,6.895511453013554e-4
-Malaysia,4003,82671,2321,46407,1920,Chemical technicians,2,31,6.680026720106881e-4
-Malaysia,4003,82671,2321,46407,5110,Billing and posting clerks,2,31,6.680026720106881e-4
-Malaysia,4003,82671,2321,46407,7740,Structural metal fabricators and fitters,1,31,6.680026720106881e-4
-Malaysia,4003,82671,2321,46407,1007,Information security analysts,2,30,6.464541987200207e-4
-Malaysia,4003,82671,2321,46407,1400,Computer hardware engineers,3,30,6.464541987200207e-4
-Malaysia,4003,82671,2321,46407,2014,"Social workers, all other",1,30,6.464541987200207e-4
-Malaysia,4003,82671,2321,46407,4540,Tour and travel guides,3,30,6.464541987200207e-4
-Malaysia,4003,82671,2321,46407,5420,Other information and records clerks,2,30,6.464541987200207e-4
-Malaysia,4003,82671,2321,46407,7800,Bakers,2,30,6.464541987200207e-4
-Malaysia,4003,82671,2321,46407,3323,Radiologic technologists and technicians,3,29,6.249057254293533e-4
-Malaysia,4003,82671,2321,46407,4965,"Sales and related workers, all other",4,28,6.03357252138686e-4
-Malaysia,4003,82671,2321,46407,0160,"Transportation, storage, and distribution managers",1,27,5.818087788480186e-4
-Malaysia,4003,82671,2321,46407,3430,Dietetic technicians and ophthalmic medical technicians,2,27,5.818087788480186e-4
-Malaysia,4003,82671,2321,46407,9825,Military enlisted tactical operations and air/weapons specialists and crew members,1,27,5.818087788480186e-4
-Malaysia,4003,82671,2321,46407,2060,"Religious workers, all other",2,26,5.602603055573513e-4
-Malaysia,4003,82671,2321,46407,2633,Floral designers,2,26,5.602603055573513e-4
-Malaysia,4003,82671,2321,46407,3150,Occupational therapists,2,26,5.602603055573513e-4
-Malaysia,4003,82671,2321,46407,3310,Dental hygienists,2,26,5.602603055573513e-4
-Malaysia,4003,82671,2321,46407,4655,"Personal care and service workers, all other",2,26,5.602603055573513e-4
-Malaysia,4003,82671,2321,46407,9030,Aircraft pilots and flight engineers,2,26,5.602603055573513e-4
-Malaysia,4003,82671,2321,46407,3000,Chiropractors,2,25,5.387118322666839e-4
-Malaysia,4003,82671,2321,46407,0060,Public relations and fundraising managers,2,24,5.171633589760165e-4
-Malaysia,4003,82671,2321,46407,0640,"Compensation, benefits, and job analysis specialists",1,24,5.171633589760165e-4
-Malaysia,4003,82671,2321,46407,0940,Tax preparers,2,24,5.171633589760165e-4
-Malaysia,4003,82671,2321,46407,1306,Landscape architects,1,24,5.171633589760165e-4
-Malaysia,4003,82671,2321,46407,4240,Pest control workers,1,24,5.171633589760165e-4
-Malaysia,4003,82671,2321,46407,6200,First-line supervisors of construction trades and extraction workers,2,24,5.171633589760165e-4
-Malaysia,4003,82671,2321,46407,1520,"Petroleum, mining and geological engineers, including mining safety engineers",3,23,4.956148856853492e-4
-Malaysia,4003,82671,2321,46407,1720,Chemists and materials scientists,3,23,4.956148856853492e-4
-Malaysia,4003,82671,2321,46407,2002,"Educational, guidance, and career counselors and advisors",2,23,4.956148856853492e-4
-Malaysia,4003,82671,2321,46407,3040,Optometrists,1,23,4.956148856853492e-4
-Malaysia,4003,82671,2321,46407,3645,Medical assistants,2,23,4.956148856853492e-4
-Malaysia,4003,82671,2321,46407,9410,Transportation inspectors,1,23,4.956148856853492e-4
-Malaysia,4003,82671,2321,46407,1022,Software quality assurance analysts and testers,1,22,4.740664123946818e-4
-Malaysia,4003,82671,2321,46407,4622,Recreation workers,1,22,4.740664123946818e-4
-Malaysia,4003,82671,2321,46407,0860,Insurance underwriters,2,21,4.525179391040145e-4
-Malaysia,4003,82671,2321,46407,2006,"Counselors, all other",2,21,4.525179391040145e-4
-Malaysia,4003,82671,2321,46407,3330,Nuclear medicine technologists and medical dosimetrists,2,21,4.525179391040145e-4
-Malaysia,4003,82671,2321,46407,9300,"Sailors and marine oilers, and ship engineers",3,21,4.525179391040145e-4
-Malaysia,4003,82671,2321,46407,0600,Cost estimators,2,20,4.309694658133471e-4
-Malaysia,4003,82671,2321,46407,2004,Mental health counselors,1,20,4.309694658133471e-4
-Malaysia,4003,82671,2321,46407,2330,Special education teachers,1,20,4.309694658133471e-4
-Malaysia,4003,82671,2321,46407,5350,Correspondence clerks and order clerks,1,20,4.309694658133471e-4
-Malaysia,4003,82671,2321,46407,1545,Other drafters,1,19,4.094209925226798e-4
-Malaysia,4003,82671,2321,46407,1980,Occupational health and safety specialists and technicians,1,19,4.094209925226798e-4
-Malaysia,4003,82671,2321,46407,2050,"Directors, religious activities and education",1,19,4.094209925226798e-4
-Malaysia,4003,82671,2321,46407,2635,Interior designers,2,19,4.094209925226798e-4
-Malaysia,4003,82671,2321,46407,5100,Bill and account collectors,1,19,4.094209925226798e-4
-Malaysia,4003,82671,2321,46407,6530,Structural iron and steel workers,1,19,4.094209925226798e-4
-Malaysia,4003,82671,2321,46407,8600,"Power plant operators, distributors, and dispatchers",1,19,4.094209925226798e-4
-Malaysia,4003,82671,2321,46407,1551,Electrical and electronic engineering technologists and technicians,1,18,3.878725192320124e-4
-Malaysia,4003,82671,2321,46407,3820,Detectives and criminal investigators,1,18,3.878725192320124e-4
-Malaysia,4003,82671,2321,46407,6305,Construction equipment operators,1,18,3.878725192320124e-4
-Malaysia,4003,82671,2321,46407,1860,Other social scientists,1,17,3.6632404594134503e-4
-Malaysia,4003,82671,2321,46407,2016,Social and human service assistants,1,17,3.6632404594134503e-4
-Malaysia,4003,82671,2321,46407,3646,Medical transcriptionists,1,17,3.6632404594134503e-4
-Malaysia,4003,82671,2321,46407,3940,Crossing guards and flaggers,1,16,3.447755726506777e-4
-Malaysia,4003,82671,2321,46407,0650,Training and development specialists,2,15,3.2322709936001033e-4
-Malaysia,4003,82671,2321,46407,0726,Fundraisers,1,15,3.2322709936001033e-4
-Malaysia,4003,82671,2321,46407,2810,"News analysts, reporters, and journalists",1,15,3.2322709936001033e-4
-Malaysia,4003,82671,2321,46407,2905,Other media and communication equipment workers,1,15,3.2322709936001033e-4
-Malaysia,4003,82671,2321,46407,3545,Miscellaneous health technologists and technicians,1,15,3.2322709936001033e-4
-Malaysia,4003,82671,2321,46407,1340,Biomedical and agricultural engineers,1,14,3.01678626069343e-4
-Malaysia,4003,82671,2321,46407,1750,"Geoscientists and hydrologists, except geographers",1,14,3.01678626069343e-4
-Malaysia,4003,82671,2321,46407,5300,"Hotel, motel, and resort desk clerks",1,14,3.01678626069343e-4
-Malaysia,4003,82671,2321,46407,7430,Precision instrument and equipment repairers,1,14,3.01678626069343e-4
-Malaysia,4003,82671,2321,46407,2910,Photographers,1,13,2.8013015277867563e-4
-Malaysia,4003,82671,2321,46407,3649,Phlebotomists,1,13,2.8013015277867563e-4
-Malaysia,4003,82671,2321,46407,4930,Sales engineers,1,13,2.8013015277867563e-4
-Malaysia,4003,82671,2321,46407,5310,"Interviewers, except eligibility and loan",1,13,2.8013015277867563e-4
-Malaysia,4003,82671,2321,46407,7840,Food batchmakers,1,13,2.8013015277867563e-4
-Malaysia,4003,82671,2321,46407,3424,Veterinary technologists and technicians,1,12,2.5858167948800825e-4
-Malaysia,4003,82671,2321,46407,3515,Medical records specialists,2,12,2.5858167948800825e-4
-Malaysia,4003,82671,2321,46407,3655,Other healthcare support workers,1,12,2.5858167948800825e-4
-Malaysia,4003,82671,2321,46407,3725,"Miscellaneous first-line supervisors, protective service workers",1,12,2.5858167948800825e-4
-Malaysia,4003,82671,2321,46407,4465,"Morticians, undertakers, and funeral arrangers",1,12,2.5858167948800825e-4
-Malaysia,4003,82671,2321,46407,5165,Other financial clerks,1,12,2.5858167948800825e-4
-Malaysia,4003,82671,2321,46407,7150,Automotive body and related repairers,1,12,2.5858167948800825e-4
-Malaysia,4003,82671,2321,46407,8810,Painting workers,1,12,2.5858167948800825e-4
-Malaysia,4003,82671,2321,46407,1935,"Environmental science and geoscience technicians, and nuclear technicians",1,11,2.370332061973409e-4
-Malaysia,4003,82671,2321,46407,3030,Dietitians and nutritionists,1,11,2.370332061973409e-4
-Malaysia,4003,82671,2321,46407,4500,Barbers,1,11,2.370332061973409e-4
-Malaysia,4003,82671,2321,46407,6660,Construction and building inspectors,2,11,2.370332061973409e-4
-Malaysia,4003,82671,2321,46407,0540,"Claims adjusters, appraisers, examiners, and investigators",2,10,2.1548473290667355e-4
-Malaysia,4003,82671,2321,46407,3910,Private detectives and investigators,1,10,2.1548473290667355e-4
-Malaysia,4003,82671,2321,46407,4950,"Door-to-door sales workers, news and street vendors, and related workers",1,10,2.1548473290667355e-4
-Malaysia,4003,82671,2321,46407,5820,Word processors and typists,1,10,2.1548473290667355e-4
-Malaysia,4003,82671,2321,46407,6442,"Plumbers, pipefitters, and steamfitters",1,10,2.1548473290667355e-4
-Malaysia,4003,82671,2321,46407,7210,Bus and truck mechanics and diesel engine specialists,1,10,2.1548473290667355e-4
-Malaysia,4003,82671,2321,46407,8225,Other metal workers and plastic workers,1,10,2.1548473290667355e-4
-Malaysia,4003,82671,2321,46407,0137,Training and development managers,1,9,1.939362596160062e-4
-Malaysia,4003,82671,2321,46407,3245,Other therapists,1,9,1.939362596160062e-4
-Malaysia,4003,82671,2321,46407,3256,Nurse anesthetists,1,9,1.939362596160062e-4
-Malaysia,4003,82671,2321,46407,4251,Landscaping and groundskeeping workers,1,9,1.939362596160062e-4
-Malaysia,4003,82671,2321,46407,8250,Prepress technicians and workers,1,9,1.939362596160062e-4
-Malaysia,4003,82671,2321,46407,3648,Veterinary assistants and laboratory animal caretakers,1,8,1.7238778632533885e-4
-Malaysia,4003,82671,2321,46407,4522,Skincare specialists,1,8,1.7238778632533885e-4
-Malaysia,4003,82671,2321,46407,4530,"Baggage porters, bellhops, and concierges",1,8,1.7238778632533885e-4
-Malaysia,4003,82671,2321,46407,7000,"First-line supervisors of mechanics, installers, and repairers",1,8,1.7238778632533885e-4
-Malaysia,4003,82671,2321,46407,8350,"Tailors, dressmakers, and sewers",1,8,1.7238778632533885e-4
-Malaysia,4003,82671,2321,46407,9610,Cleaners of vehicles and equipment,1,8,1.7238778632533885e-4
-Malaysia,4003,82671,2321,46407,1800,Economists,1,7,1.508393130346715e-4
-Malaysia,4003,82671,2321,46407,4900,"Models, demonstrators, and product promoters",1,7,1.508393130346715e-4
-Malaysia,4003,82671,2321,46407,6240,"Carpet, floor, and tile installers and finishers",1,7,1.508393130346715e-4
-Malaysia,4003,82671,2321,46407,9350,Parking attendants,1,7,1.508393130346715e-4
-Malaysia,4003,82671,2321,46407,1840,Urban and regional planners,1,6,1.2929083974400413e-4
-Malaysia,4003,82671,2321,46407,5810,Data entry keyers,1,6,1.2929083974400413e-4
-Malaysia,4003,82671,2321,46407,9005,Supervisors of transportation and material moving workers,1,6,1.2929083974400413e-4
-Malaysia,4003,82671,2321,46407,1600,Agricultural and food scientists,1,5,1.0774236645333678e-4
-Malaysia,4003,82671,2321,46407,4800,Advertising sales agents,1,4,8.619389316266943e-5
-Malaysia,4003,82671,2321,46407,5500,Cargo and freight agents,1,4,8.619389316266943e-5
-Malaysia,4003,82671,2321,46407,8255,Printing press operators,1,4,8.619389316266943e-5
-Malaysia,4003,82671,2321,46407,0205,"Farmers, ranchers, and other agricultural managers",1,2,4.3096946581334714e-5
-Malaysia,4003,82671,2321,46407,1821,Clinical and counseling psychologists,1,1,2.1548473290667357e-5
+country,n_workers,workers,occ,occ_title,occ_share
+Malaysia,112,2310,1021,Software developers,0.049776973301441596
+Malaysia,97,1910,0440,Other managers,0.04115758398517465
+Malaysia,53,1287,3090,Physicians,0.027732885125088886
+Malaysia,60,1241,2205,Postsecondary teachers,0.02674165535371819
+Malaysia,61,1218,0800,Accountants and auditors,0.02624604046803284
+Malaysia,42,992,0710,Management analysts,0.02137608550434202
+Malaysia,52,891,3255,Registered nurses,0.019199689701984615
+Malaysia,31,761,4720,Cashiers,0.016398388174197857
+Malaysia,45,760,4110,Waiters and waitresses,0.01637683970090719
+Malaysia,41,706,1530,Other engineers,0.015213222143211153
+Malaysia,30,667,1006,Computer systems analysts,0.014372831684875126
+Malaysia,28,629,0010,Chief executives and legislators,0.013553989699829768
+Malaysia,25,600,1360,Civil engineers,0.012929083974400414
+Malaysia,31,598,4700,First-line supervisors of retail sales workers,0.012885987027819078
+Malaysia,14,588,4030,Food preparation workers,0.012670502294912405
+Malaysia,29,534,0120,Financial managers,0.011506884737216368
+Malaysia,28,521,2545,Teaching assistants,0.011226754584437693
+Malaysia,19,510,0705,Project management specialists,0.010989721378240351
+Malaysia,26,496,5240,Customer service representatives,0.01068804275217101
+Malaysia,25,493,1760,"Physical scientists, all other",0.010623397332299007
+Malaysia,19,464,0310,Food service managers,0.009998491606869653
+Malaysia,22,460,1108,"Computer occupations, all other",0.009912297713706985
+Malaysia,18,457,4521,Manicurists and pedicurists,0.009847652293834983
+Malaysia,22,449,4920,Real estate brokers and sales agents,0.009675264507509643
+Malaysia,21,445,0020,General and operations managers,0.009589070614346974
+Malaysia,24,432,1410,Electrical and electronics engineers,0.009308940461568297
+Malaysia,10,415,4010,First-line supervisors of food preparation and serving workers,0.008942616415626953
+Malaysia,23,415,4760,Retail salespersons,0.008942616415626953
+Malaysia,19,404,1240,Other mathematical science occupations,0.008705583209429612
+Malaysia,15,384,3050,Pharmacists,0.008274613743616264
+Malaysia,17,381,9130,Driver/sales workers and truck drivers,0.008209968323744262
+Malaysia,21,380,5860,"Office clerks, general",0.008188419850453595
+Malaysia,11,379,5610,"Shipping, receiving, and inventory clerks",0.008166871377162929
+Malaysia,13,373,0300,Architectural and engineering managers,0.008037580537418924
+Malaysia,28,372,5740,"Secretaries and administrative assistants, except legal, medical, and executive",0.008016032064128256
+Malaysia,9,369,0520,"Wholesale and retail buyers, except farm products",0.007951386644256254
+Malaysia,22,368,0110,Computer and information systems managers,0.007929838170965587
+Malaysia,11,350,5000,First-line supervisors of office and administrative support workers,0.0075419656517335745
+Malaysia,13,333,1460,Mechanical engineers,0.00717564160579223
+Malaysia,13,332,3601,Home health aides,0.007154093132501562
+Malaysia,20,332,4020,Cooks,0.007154093132501562
+Malaysia,17,322,1010,Computer programmers,0.006938608399594889
+Malaysia,15,319,4710,First-line supervisors of non-retail sales workers,0.006873962979722887
+Malaysia,13,314,9620,"Laborers and freight, stock, and material movers, hand",0.00676622061326955
+Malaysia,16,300,4850,"Sales representatives, wholesale and manufacturing",0.006464541987200207
+Malaysia,16,298,0735,Market research analysts and marketing specialists,0.0064214450406188724
+Malaysia,18,287,4000,Chefs and head cooks,0.006184411834421531
+Malaysia,11,284,0350,Medical and health services managers,0.006119766414549529
+Malaysia,11,284,0845,Financial and investment analysts,0.006119766414549529
+Malaysia,11,284,5940,Other office and administrative support workers,0.006119766414549529
+Malaysia,14,282,9142,Taxi drivers,0.006076669467968194
+Malaysia,20,273,2310,Elementary and middle school teachers,0.005882733208352188
+Malaysia,18,272,1050,Computer support specialists,0.0058611847350615205
+Malaysia,16,269,0230,Education and childcare administrators,0.0057965393151895184
+Malaysia,12,267,4220,Janitors and building cleaners,0.005753442368608184
+Malaysia,18,263,4510,"Hairdressers, hairstylists, and cosmetologists",0.005667248475445514
+Malaysia,9,252,6260,Construction laborers,0.005430215269248174
+Malaysia,13,242,1430,"Industrial engineers, including health and safety",0.005214730536341501
+Malaysia,3,231,8300,Laundry and dry-cleaning workers,0.004977697330144159
+Malaysia,14,218,0220,Construction managers,0.004697567177365484
+Malaysia,13,218,0750,"Business operations specialists, all other",0.004697567177365484
+Malaysia,13,217,0051,Marketing managers,0.004676018704074816
+Malaysia,20,213,5120,"Bookkeeping, accounting, and auditing clerks",0.004589824810912147
+Malaysia,2,213,5840,Insurance claims and policy processing clerks,0.004589824810912147
+Malaysia,13,211,0850,Personal financial advisors,0.004546727864330812
+Malaysia,6,209,8740,"Inspectors, testers, sorters, samplers, and weighers",0.004503630917749478
+Malaysia,11,206,1650,Other life scientists,0.004438985497877476
+Malaysia,12,203,4600,Childcare workers,0.004374340078005474
+Malaysia,10,202,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",0.004352791604714806
+Malaysia,5,201,4040,Bartenders,0.004331243131424138
+Malaysia,2,200,5250,"Eligibility interviewers, government programs",0.0043096946581334715
+Malaysia,12,199,2360,Other teachers and instructors,0.004288146184842804
+Malaysia,13,197,2040,Clergy,0.0042450492382614695
+Malaysia,4,194,8990,"Miscellaneous production workers, including equipment operators and tenders",0.004180403818389467
+Malaysia,14,190,5400,Receptionists and information clerks,0.004094209925226798
+Malaysia,8,189,0630,Human resources workers,0.00407266145193613
+Malaysia,9,189,1305,"Architects, except landscape and naval",0.00407266145193613
+Malaysia,11,182,0052,Sales managers,0.003921822138901459
+Malaysia,8,180,1105,Network and computer systems administrators,0.003878725192320124
+Malaysia,9,167,1220,Operations research analysts,0.0035985950395414487
+Malaysia,9,160,1065,Database administrators and architects,0.003447755726506777
+Malaysia,6,160,1970,"Other life, physical, and social science technicians",0.003447755726506777
+Malaysia,9,159,1555,"Other engineering technologists and technicians, except drafters",0.0034262072532161097
+Malaysia,7,157,3930,Security guards and gaming surveillance officers,0.003383110306634775
+Malaysia,9,149,3602,Personal care aides,0.0032107225203094362
+Malaysia,9,141,9640,"Packers and packagers, hand",0.003038334733984097
+Malaysia,7,136,1200,Actuaries,0.0029305923675307603
+Malaysia,11,135,2640,Other designers,0.002909043894240093
+Malaysia,8,134,4230,Maids and housekeeping cleaners,0.002887495420949426
+Malaysia,9,133,0530,"Purchasing agents, except wholesale, retail, and farm products",0.002865946947658758
+Malaysia,10,133,2320,Secondary school teachers,0.002865946947658758
+Malaysia,8,131,1032,Web and digital interface designers,0.0028228500010774238
+Malaysia,9,131,9645,Stockers and order fillers,0.0028228500010774238
+Malaysia,7,128,4120,"Food servers, nonrestaurant",0.0027582045812054217
+Malaysia,4,126,3421,Pharmacy technicians,0.002715107634624087
+Malaysia,12,125,2300,Preschool and kindergarten teachers,0.0026935591613334196
+Malaysia,3,119,7330,Industrial and refractory machinery mechanics,0.0025642683215894154
+Malaysia,5,115,7200,Automotive service technicians and mechanics,0.002478074428426746
+Malaysia,6,115,9122,"Bus drivers, transit and intercity",0.002478074428426746
+Malaysia,5,114,1610,Biological scientists,0.0024565259551360785
+Malaysia,6,113,0410,"Property, real estate, and community association managers",0.0024349774818454113
+Malaysia,4,113,0725,"Meeting, convention, and event planners",0.0024349774818454113
+Malaysia,7,112,1350,Chemical engineers,0.002413429008554744
+Malaysia,4,110,4810,Insurance sales agents,0.002370332061973409
+Malaysia,7,108,0140,Industrial production managers,0.0023272351153920743
+Malaysia,4,107,0910,Credit counselors and loan officers,0.002305686642101407
+Malaysia,7,106,3870,Police officers,0.00228413816881074
+Malaysia,6,104,4130,Dining room and cafeteria attendants and bartender helpers,0.002241041222229405
+Malaysia,3,104,5330,Loan interviewers and clerks,0.002241041222229405
+Malaysia,2,99,1822,School psychologists,0.002133298855776068
+Malaysia,1,99,3010,Dentists,0.002133298855776068
+Malaysia,6,97,0565,Compliance officers,0.0020902019091947337
+Malaysia,4,95,0136,Human resources managers,0.002047104962613399
+Malaysia,7,93,3603,Nursing assistants,0.002004008016032064
+Malaysia,2,93,7750,Other assemblers and fabricators,0.002004008016032064
+Malaysia,5,92,0700,Logisticians,0.0019824595427413967
+Malaysia,5,92,1450,Materials engineers,0.0019824595427413967
+Malaysia,5,92,2710,Producers and directors,0.0019824595427413967
+Malaysia,3,92,5510,Couriers and messengers,0.0019824595427413967
+Malaysia,8,88,1320,Aerospace engineers,0.0018962656495787272
+Malaysia,3,86,2722,Coaches and scouts,0.0018531687029973926
+Malaysia,6,85,2634,Graphic designers,0.0018316202297067254
+Malaysia,5,84,3160,Physical therapists,0.001810071756416058
+Malaysia,4,84,8140,"Welding, soldering, and brazing workers",0.001810071756416058
+Malaysia,4,81,5540,Postal service clerks,0.0017454263365440559
+Malaysia,6,80,2600,Artists and related workers,0.0017238778632533884
+Malaysia,3,80,5140,Payroll and timekeeping clerks,0.0017238778632533884
+Malaysia,3,79,2752,Musicians and singers,0.0017023293899627212
+Malaysia,7,79,3300,Clinical laboratory technologists and technicians,0.0017023293899627212
+Malaysia,3,79,3640,Dental assistants,0.0017023293899627212
+Malaysia,7,78,2100,"Lawyers, and judges, magistrates, and other judicial workers",0.0016807809166720538
+Malaysia,3,78,3630,Massage therapists,0.0016807809166720538
+Malaysia,4,77,4055,Fast food and counter workers,0.0016592324433813864
+Malaysia,2,76,0040,Advertising and promotions managers,0.0016376839700907191
+Malaysia,4,76,6230,Carpenters,0.0016376839700907191
+Malaysia,2,75,3230,Speech-language pathologists,0.0016161354968000517
+Malaysia,1,75,4750,Parts salespersons,0.0016161354968000517
+Malaysia,5,74,2350,Tutors,0.0015945870235093843
+Malaysia,3,74,7140,Aircraft mechanics and service technicians,0.0015945870235093843
+Malaysia,1,72,1910,Biological technicians,0.0015514900769280496
+Malaysia,4,71,0150,Purchasing managers,0.0015299416036373822
+Malaysia,5,71,3258,"Nurse practitioners, and nurse midwives",0.0015299416036373822
+Malaysia,2,71,7810,"Butchers and other meat, poultry, and fish processing workers",0.0015299416036373822
+Malaysia,4,69,3100,Surgeons,0.0014868446570560476
+Malaysia,3,69,9050,Flight attendants,0.0014868446570560476
+Malaysia,2,67,4820,"Securities, commodities, and financial services sales agents",0.001443747710474713
+Malaysia,6,67,5320,"Library assistants, clerical",0.001443747710474713
+Malaysia,4,66,4400,Gambling services workers,0.0014221992371840455
+Malaysia,4,66,5550,Postal service mail carriers,0.0014221992371840455
+Malaysia,1,66,6410,Painters and paperhangers,0.0014221992371840455
+Malaysia,3,65,3423,Surgical technologists,0.001400650763893378
+Malaysia,4,65,6355,Electricians,0.001400650763893378
+Malaysia,2,65,7640,"Other installation, maintenance, and repair workers",0.001400650763893378
+Malaysia,5,62,2830,Editors,0.0013360053440213762
+Malaysia,3,61,1031,Web developers,0.0013144568707307088
+Malaysia,5,60,7315,"Heating, air conditioning, and refrigeration mechanics and installers",0.0012929083974400413
+Malaysia,1,60,9150,"Motor vehicle operators, all other",0.0012929083974400413
+Malaysia,5,57,5600,"Production, planning, and expediting clerks",0.0012282629775680393
+Malaysia,3,56,1825,Other psychologists,0.001206714504277372
+Malaysia,3,55,2555,Other educational instruction and library workers,0.0011851660309867046
+Malaysia,2,54,2001,Substance abuse and behavioral disorder counselors,0.0011636175576960372
+Malaysia,5,53,0420,Social and community service managers,0.00114206908440537
+Malaysia,5,53,5560,"Postal service mail sorters, processors, and processing machine operators",0.00114206908440537
+Malaysia,3,53,7700,First-line supervisors of production and operating workers,0.00114206908440537
+Malaysia,3,52,0340,Lodging managers,0.0011205206111147025
+Malaysia,2,52,4330,Supervisors of personal care and service workers,0.0011205206111147025
+Malaysia,4,52,4830,Travel agents,0.0011205206111147025
+Malaysia,2,52,8320,Sewing machine operators,0.0011205206111147025
+Malaysia,2,51,1005,Computer and information research scientists,0.001098972137824035
+Malaysia,4,51,2850,Writers and authors,0.001098972137824035
+Malaysia,2,51,7010,"Computer, automated teller, and office machine repairers",0.001098972137824035
+Malaysia,3,50,1106,Computer network architects,0.0010774236645333679
+Malaysia,2,48,4740,Counter and rental clerks,0.001034326717952033
+Malaysia,2,47,4435,Other entertainment attendants and related workers,0.0010127782446613658
+Malaysia,2,47,4621,Exercise trainers and group fitness instructors,0.0010127782446613658
+Malaysia,2,46,1745,"Environmental scientists and specialists, including health",9.912297713706984e-4
+Malaysia,3,45,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",9.69681298080031e-4
+Malaysia,1,45,4525,Other personal appearance workers,9.69681298080031e-4
+Malaysia,2,44,0810,Property appraisers and assessors,9.481328247893636e-4
+Malaysia,3,44,7720,"Electrical, electronics, and electromechanical assemblers",9.481328247893636e-4
+Malaysia,4,41,3321,Cardiovascular technologists and technicians,8.834874049173617e-4
+Malaysia,2,41,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",8.834874049173617e-4
+Malaysia,2,40,3110,Physician assistants,8.619389316266942e-4
+Malaysia,1,40,4420,"Ushers, lobby attendants, and ticket takers",8.619389316266942e-4
+Malaysia,1,39,2825,Public relations specialists,8.403904583360269e-4
+Malaysia,3,39,2861,Interpreters and translators,8.403904583360269e-4
+Malaysia,1,39,3802,Correctional officers and jailers,8.403904583360269e-4
+Malaysia,2,37,2003,Marriage and family therapists,7.972935117546921e-4
+Malaysia,1,36,2723,"Umpires, referees, and other sports officials",7.757450384640248e-4
+Malaysia,2,36,3550,Other healthcare practitioners and technical occupations,7.757450384640248e-4
+Malaysia,2,36,3960,Other protective service workers,7.757450384640248e-4
+Malaysia,1,36,5020,Telephone operators,7.757450384640248e-4
+Malaysia,3,36,5160,Tellers,7.757450384640248e-4
+Malaysia,2,36,8610,Stationary engineers and boiler operators,7.757450384640248e-4
+Malaysia,2,34,5260,File clerks,7.326480918826901e-4
+Malaysia,1,34,8800,Packaging and filling machine operators and tenders,7.326480918826901e-4
+Malaysia,3,33,5710,Executive secretaries and executive administrative assistants,7.110996185920227e-4
+Malaysia,2,33,5720,Legal secretaries and administrative assistants,7.110996185920227e-4
+Malaysia,2,32,3261,Acupuncturists,6.895511453013554e-4
+Malaysia,2,31,1920,Chemical technicians,6.680026720106881e-4
+Malaysia,2,31,5110,Billing and posting clerks,6.680026720106881e-4
+Malaysia,1,31,7740,Structural metal fabricators and fitters,6.680026720106881e-4
+Malaysia,2,30,1007,Information security analysts,6.464541987200207e-4
+Malaysia,3,30,1400,Computer hardware engineers,6.464541987200207e-4
+Malaysia,1,30,2014,"Social workers, all other",6.464541987200207e-4
+Malaysia,3,30,4540,Tour and travel guides,6.464541987200207e-4
+Malaysia,2,30,5420,Other information and records clerks,6.464541987200207e-4
+Malaysia,2,30,7800,Bakers,6.464541987200207e-4
+Malaysia,3,29,3323,Radiologic technologists and technicians,6.249057254293533e-4
+Malaysia,4,28,4965,"Sales and related workers, all other",6.03357252138686e-4
+Malaysia,1,27,0160,"Transportation, storage, and distribution managers",5.818087788480186e-4
+Malaysia,2,27,3430,Dietetic technicians and ophthalmic medical technicians,5.818087788480186e-4
+Malaysia,1,27,9825,Military enlisted tactical operations and air/weapons specialists and crew members,5.818087788480186e-4
+Malaysia,2,26,2060,"Religious workers, all other",5.602603055573513e-4
+Malaysia,2,26,2633,Floral designers,5.602603055573513e-4
+Malaysia,2,26,3150,Occupational therapists,5.602603055573513e-4
+Malaysia,2,26,3310,Dental hygienists,5.602603055573513e-4
+Malaysia,2,26,4655,"Personal care and service workers, all other",5.602603055573513e-4
+Malaysia,2,26,9030,Aircraft pilots and flight engineers,5.602603055573513e-4
+Malaysia,2,25,3000,Chiropractors,5.387118322666839e-4
+Malaysia,2,24,0060,Public relations and fundraising managers,5.171633589760165e-4
+Malaysia,1,24,0640,"Compensation, benefits, and job analysis specialists",5.171633589760165e-4
+Malaysia,2,24,0940,Tax preparers,5.171633589760165e-4
+Malaysia,1,24,1306,Landscape architects,5.171633589760165e-4
+Malaysia,1,24,4240,Pest control workers,5.171633589760165e-4
+Malaysia,2,24,6200,First-line supervisors of construction trades and extraction workers,5.171633589760165e-4
+Malaysia,3,23,1520,"Petroleum, mining and geological engineers, including mining safety engineers",4.956148856853492e-4
+Malaysia,3,23,1720,Chemists and materials scientists,4.956148856853492e-4
+Malaysia,2,23,2002,"Educational, guidance, and career counselors and advisors",4.956148856853492e-4
+Malaysia,1,23,3040,Optometrists,4.956148856853492e-4
+Malaysia,2,23,3645,Medical assistants,4.956148856853492e-4
+Malaysia,1,23,9410,Transportation inspectors,4.956148856853492e-4
+Malaysia,1,22,1022,Software quality assurance analysts and testers,4.740664123946818e-4
+Malaysia,1,22,4622,Recreation workers,4.740664123946818e-4
+Malaysia,2,21,0860,Insurance underwriters,4.525179391040145e-4
+Malaysia,2,21,2006,"Counselors, all other",4.525179391040145e-4
+Malaysia,2,21,3330,Nuclear medicine technologists and medical dosimetrists,4.525179391040145e-4
+Malaysia,3,21,9300,"Sailors and marine oilers, and ship engineers",4.525179391040145e-4
+Malaysia,2,20,0600,Cost estimators,4.309694658133471e-4
+Malaysia,1,20,2004,Mental health counselors,4.309694658133471e-4
+Malaysia,1,20,2330,Special education teachers,4.309694658133471e-4
+Malaysia,1,20,5350,Correspondence clerks and order clerks,4.309694658133471e-4
+Malaysia,1,19,1545,Other drafters,4.094209925226798e-4
+Malaysia,1,19,1980,Occupational health and safety specialists and technicians,4.094209925226798e-4
+Malaysia,1,19,2050,"Directors, religious activities and education",4.094209925226798e-4
+Malaysia,2,19,2635,Interior designers,4.094209925226798e-4
+Malaysia,1,19,5100,Bill and account collectors,4.094209925226798e-4
+Malaysia,1,19,6530,Structural iron and steel workers,4.094209925226798e-4
+Malaysia,1,19,8600,"Power plant operators, distributors, and dispatchers",4.094209925226798e-4
+Malaysia,1,18,1551,Electrical and electronic engineering technologists and technicians,3.878725192320124e-4
+Malaysia,1,18,3820,Detectives and criminal investigators,3.878725192320124e-4
+Malaysia,1,18,6305,Construction equipment operators,3.878725192320124e-4
+Malaysia,1,17,1860,Other social scientists,3.6632404594134503e-4
+Malaysia,1,17,2016,Social and human service assistants,3.6632404594134503e-4
+Malaysia,1,17,3646,Medical transcriptionists,3.6632404594134503e-4
+Malaysia,1,16,3940,Crossing guards and flaggers,3.447755726506777e-4
+Malaysia,2,15,0650,Training and development specialists,3.2322709936001033e-4
+Malaysia,1,15,0726,Fundraisers,3.2322709936001033e-4
+Malaysia,1,15,2810,"News analysts, reporters, and journalists",3.2322709936001033e-4
+Malaysia,1,15,2905,Other media and communication equipment workers,3.2322709936001033e-4
+Malaysia,1,15,3545,Miscellaneous health technologists and technicians,3.2322709936001033e-4
+Malaysia,1,14,1340,Biomedical and agricultural engineers,3.01678626069343e-4
+Malaysia,1,14,1750,"Geoscientists and hydrologists, except geographers",3.01678626069343e-4
+Malaysia,1,14,5300,"Hotel, motel, and resort desk clerks",3.01678626069343e-4
+Malaysia,1,14,7430,Precision instrument and equipment repairers,3.01678626069343e-4
+Malaysia,1,13,2910,Photographers,2.8013015277867563e-4
+Malaysia,1,13,3649,Phlebotomists,2.8013015277867563e-4
+Malaysia,1,13,4930,Sales engineers,2.8013015277867563e-4
+Malaysia,1,13,5310,"Interviewers, except eligibility and loan",2.8013015277867563e-4
+Malaysia,1,13,7840,Food batchmakers,2.8013015277867563e-4
+Malaysia,1,12,3424,Veterinary technologists and technicians,2.5858167948800825e-4
+Malaysia,2,12,3515,Medical records specialists,2.5858167948800825e-4
+Malaysia,1,12,3655,Other healthcare support workers,2.5858167948800825e-4
+Malaysia,1,12,3725,"Miscellaneous first-line supervisors, protective service workers",2.5858167948800825e-4
+Malaysia,1,12,4465,"Morticians, undertakers, and funeral arrangers",2.5858167948800825e-4
+Malaysia,1,12,5165,Other financial clerks,2.5858167948800825e-4
+Malaysia,1,12,7150,Automotive body and related repairers,2.5858167948800825e-4
+Malaysia,1,12,8810,Painting workers,2.5858167948800825e-4
+Malaysia,1,11,1935,"Environmental science and geoscience technicians, and nuclear technicians",2.370332061973409e-4
+Malaysia,1,11,3030,Dietitians and nutritionists,2.370332061973409e-4
+Malaysia,1,11,4500,Barbers,2.370332061973409e-4
+Malaysia,2,11,6660,Construction and building inspectors,2.370332061973409e-4
+Malaysia,2,10,0540,"Claims adjusters, appraisers, examiners, and investigators",2.1548473290667355e-4
+Malaysia,1,10,3910,Private detectives and investigators,2.1548473290667355e-4
+Malaysia,1,10,4950,"Door-to-door sales workers, news and street vendors, and related workers",2.1548473290667355e-4
+Malaysia,1,10,5820,Word processors and typists,2.1548473290667355e-4
+Malaysia,1,10,6442,"Plumbers, pipefitters, and steamfitters",2.1548473290667355e-4
+Malaysia,1,10,7210,Bus and truck mechanics and diesel engine specialists,2.1548473290667355e-4
+Malaysia,1,10,8225,Other metal workers and plastic workers,2.1548473290667355e-4
+Malaysia,1,9,0137,Training and development managers,1.939362596160062e-4
+Malaysia,1,9,3245,Other therapists,1.939362596160062e-4
+Malaysia,1,9,3256,Nurse anesthetists,1.939362596160062e-4
+Malaysia,1,9,4251,Landscaping and groundskeeping workers,1.939362596160062e-4
+Malaysia,1,9,8250,Prepress technicians and workers,1.939362596160062e-4
+Malaysia,1,8,3648,Veterinary assistants and laboratory animal caretakers,1.7238778632533885e-4
+Malaysia,1,8,4522,Skincare specialists,1.7238778632533885e-4
+Malaysia,1,8,4530,"Baggage porters, bellhops, and concierges",1.7238778632533885e-4
+Malaysia,1,8,7000,"First-line supervisors of mechanics, installers, and repairers",1.7238778632533885e-4
+Malaysia,1,8,8350,"Tailors, dressmakers, and sewers",1.7238778632533885e-4
+Malaysia,1,8,9610,Cleaners of vehicles and equipment,1.7238778632533885e-4
+Malaysia,1,7,1800,Economists,1.508393130346715e-4
+Malaysia,1,7,4900,"Models, demonstrators, and product promoters",1.508393130346715e-4
+Malaysia,1,7,6240,"Carpet, floor, and tile installers and finishers",1.508393130346715e-4
+Malaysia,1,7,9350,Parking attendants,1.508393130346715e-4
+Malaysia,1,6,1840,Urban and regional planners,1.2929083974400413e-4
+Malaysia,1,6,5810,Data entry keyers,1.2929083974400413e-4
+Malaysia,1,6,9005,Supervisors of transportation and material moving workers,1.2929083974400413e-4
+Malaysia,1,5,1600,Agricultural and food scientists,1.0774236645333678e-4
+Malaysia,1,4,4800,Advertising sales agents,8.619389316266943e-5
+Malaysia,1,4,5500,Cargo and freight agents,8.619389316266943e-5
+Malaysia,1,4,8255,Printing press operators,8.619389316266943e-5
+Malaysia,1,2,0205,"Farmers, ranchers, and other agricultural managers",4.3096946581334714e-5
+Malaysia,1,1,1821,Clinical and counseling psychologists,2.1548473290667357e-5

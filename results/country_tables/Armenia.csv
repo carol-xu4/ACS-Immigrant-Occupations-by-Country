@@ -1,324 +1,324 @@
-country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
-Armenia,4116,106158,2208,56522,3602,Personal care aides,122,3494,0.06181663776936414
-Armenia,4116,106158,2208,56522,9130,Driver/sales workers and truck drivers,75,2200,0.038922897278935636
-Armenia,4116,106158,2208,56522,0440,Other managers,76,1738,0.030749088850359152
-Armenia,4116,106158,2208,56522,9142,Taxi drivers,52,1526,0.02699833693075263
-Armenia,4116,106158,2208,56522,4700,First-line supervisors of retail sales workers,38,1233,0.021814514702239836
-Armenia,4116,106158,2208,56522,3255,Registered nurses,41,1210,0.0214075935034146
-Armenia,4116,106158,2208,56522,1021,Software developers,44,1186,0.020982980078553485
-Armenia,4116,106158,2208,56522,0800,Accountants and auditors,37,885,0.015657620041753653
-Armenia,4116,106158,2208,56522,3601,Home health aides,24,880,0.015569158911574255
-Armenia,4116,106158,2208,56522,4760,Retail salespersons,32,878,0.015533774459502495
-Armenia,4116,106158,2208,56522,2100,"Lawyers, and judges, magistrates, and other judicial workers",35,866,0.015321467747071937
-Armenia,4116,106158,2208,56522,5740,"Secretaries and administrative assistants, except legal, medical, and executive",32,814,0.014401471993206185
-Armenia,4116,106158,2208,56522,4920,Real estate brokers and sales agents,26,812,0.014366087541134425
-Armenia,4116,106158,2208,56522,5860,"Office clerks, general",29,769,0.013605321821591593
-Armenia,4116,106158,2208,56522,3010,Dentists,16,736,0.013021478362407558
-Armenia,4116,106158,2208,56522,4510,"Hairdressers, hairstylists, and cosmetologists",25,720,0.012738402745833481
-Armenia,4116,106158,2208,56522,0350,Medical and health services managers,22,702,0.012419942677187644
-Armenia,4116,106158,2208,56522,4720,Cashiers,24,701,0.012402250451151764
-Armenia,4116,106158,2208,56522,0010,Chief executives and legislators,35,698,0.012349173773044125
-Armenia,4116,106158,2208,56522,5240,Customer service representatives,30,655,0.011588408053501292
-Armenia,4116,106158,2208,56522,2205,Postsecondary teachers,33,634,0.011216871306747814
-Armenia,4116,106158,2208,56522,2014,"Social workers, all other",24,558,0.009872262128020948
-Armenia,4116,106158,2208,56522,0120,Financial managers,22,556,0.009836877675949188
-Armenia,4116,106158,2208,56522,5120,"Bookkeeping, accounting, and auditing clerks",21,536,0.009483033155231592
-Armenia,4116,106158,2208,56522,4810,Insurance sales agents,18,529,0.009359187572980432
-Armenia,4116,106158,2208,56522,2310,Elementary and middle school teachers,26,517,0.009146880860549874
-Armenia,4116,106158,2208,56522,4020,Cooks,13,505,0.008934574148119316
-Armenia,4116,106158,2208,56522,4710,First-line supervisors of non-retail sales workers,17,501,0.008863805243975797
-Armenia,4116,106158,2208,56522,6260,Construction laborers,18,498,0.008810728565868158
-Armenia,4116,106158,2208,56522,0630,Human resources workers,19,473,0.008368422914971162
-Armenia,4116,106158,2208,56522,4850,"Sales representatives, wholesale and manufacturing",13,466,0.008244577332720002
-Armenia,4116,106158,2208,56522,2600,Artists and related workers,14,461,0.008156116202540604
-Armenia,4116,106158,2208,56522,6355,Electricians,16,436,0.007713810551643608
-Armenia,4116,106158,2208,56522,3500,Licensed practical and licensed vocational nurses,12,407,0.007200735996603092
-Armenia,4116,106158,2208,56522,5000,First-line supervisors of office and administrative support workers,16,394,0.006970737058136655
-Armenia,4116,106158,2208,56522,3050,Pharmacists,15,389,0.0068822759279572555
-Armenia,4116,106158,2208,56522,3090,Physicians,18,377,0.006669969215526698
-Armenia,4116,106158,2208,56522,3930,Security guards and gaming surveillance officers,14,375,0.006634584763454938
-Armenia,4116,106158,2208,56522,2360,Other teachers and instructors,16,373,0.006599200311383178
-Armenia,4116,106158,2208,56522,5510,Couriers and messengers,13,372,0.0065815080853472985
-Armenia,4116,106158,2208,56522,4600,Childcare workers,13,369,0.006528431407239659
-Armenia,4116,106158,2208,56522,9141,Shuttle drivers and chauffeurs,8,367,0.006493046955167899
-Armenia,4116,106158,2208,56522,0310,Food service managers,11,354,0.006263048016701462
-Armenia,4116,106158,2208,56522,1530,Other engineers,11,338,0.005979972400127384
-Armenia,4116,106158,2208,56522,0051,Marketing managers,13,326,0.005767665687696826
-Armenia,4116,106158,2208,56522,4110,Waiters and waitresses,13,321,0.0056792045575174265
-Armenia,4116,106158,2208,56522,5110,Billing and posting clerks,11,321,0.0056792045575174265
-Armenia,4116,106158,2208,56522,0410,"Property, real estate, and community association managers",13,319,0.005643820105445667
-Armenia,4116,106158,2208,56522,0020,General and operations managers,13,314,0.005555358975266268
-Armenia,4116,106158,2208,56522,0220,Construction managers,16,312,0.005519974523194508
-Armenia,4116,106158,2208,56522,0420,Social and community service managers,12,311,0.005502282297158628
-Armenia,4116,106158,2208,56522,2545,Teaching assistants,14,307,0.005431513393015109
-Armenia,4116,106158,2208,56522,2300,Preschool and kindergarten teachers,14,305,0.005396128940943349
-Armenia,4116,106158,2208,56522,9645,Stockers and order fillers,12,289,0.005113053324369272
-Armenia,4116,106158,2208,56522,2320,Secondary school teachers,13,272,0.004812285481759315
-Armenia,4116,106158,2208,56522,5250,"Eligibility interviewers, government programs",14,265,0.004688439899508156
-Armenia,4116,106158,2208,56522,5400,Receptionists and information clerks,12,261,0.004617670995364637
-Armenia,4116,106158,2208,56522,2640,Other designers,12,257,0.004546902091221118
-Armenia,4116,106158,2208,56522,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",10,254,0.004493825413113478
-Armenia,4116,106158,2208,56522,7200,Automotive service technicians and mechanics,12,251,0.004440748735005839
-Armenia,4116,106158,2208,56522,8750,Jewelers and precious stone and metal workers,11,242,0.00428151870068292
-Armenia,4116,106158,2208,56522,1760,"Physical scientists, all other",11,241,0.0042638264746470405
-Armenia,4116,106158,2208,56522,2145,Paralegals and legal assistants,11,241,0.0042638264746470405
-Armenia,4116,106158,2208,56522,0565,Compliance officers,8,227,0.004016135310144722
-Armenia,4116,106158,2208,56522,0230,Education and childcare administrators,13,225,0.003980750858072962
-Armenia,4116,106158,2208,56522,0540,"Claims adjusters, appraisers, examiners, and investigators",9,223,0.003945366406001203
-Armenia,4116,106158,2208,56522,2752,Musicians and singers,7,223,0.003945366406001203
-Armenia,4116,106158,2208,56522,0705,Project management specialists,11,222,0.003927674179965323
-Armenia,4116,106158,2208,56522,9620,"Laborers and freight, stock, and material movers, hand",8,221,0.003909981953929443
-Armenia,4116,106158,2208,56522,3421,Pharmacy technicians,10,220,0.0038922897278935637
-Armenia,4116,106158,2208,56522,0710,Management analysts,10,208,0.0036799830154630054
-Armenia,4116,106158,2208,56522,2710,Producers and directors,10,208,0.0036799830154630054
-Armenia,4116,106158,2208,56522,8740,"Inspectors, testers, sorters, samplers, and weighers",7,205,0.003626906337355366
-Armenia,4116,106158,2208,56522,1360,Civil engineers,8,201,0.0035561374332118466
-Armenia,4116,106158,2208,56522,7800,Bakers,7,193,0.003414599624924808
-Armenia,4116,106158,2208,56522,0750,"Business operations specialists, all other",8,191,0.0033792151728530484
-Armenia,4116,106158,2208,56522,3645,Medical assistants,7,184,0.0032553695906018896
-Armenia,4116,106158,2208,56522,4220,Janitors and building cleaners,7,179,0.0031669084604224905
-Armenia,4116,106158,2208,56522,0052,Sales managers,6,178,0.0031492162343866106
-Armenia,4116,106158,2208,56522,0110,Computer and information systems managers,7,177,0.003131524008350731
-Armenia,4116,106158,2208,56522,0910,Credit counselors and loan officers,7,176,0.003113831782314851
-Armenia,4116,106158,2208,56522,3322,Diagnostic medical sonographers,5,167,0.0029546017479919326
-Armenia,4116,106158,2208,56522,6230,Carpenters,8,160,0.0028307561657407733
-Armenia,4116,106158,2208,56522,3323,Radiologic technologists and technicians,5,159,0.0028130639397048935
-Armenia,4116,106158,2208,56522,0845,Financial and investment analysts,7,156,0.002759987261597254
-Armenia,4116,106158,2208,56522,6442,"Plumbers, pipefitters, and steamfitters",8,148,0.0026184494533102154
-Armenia,4116,106158,2208,56522,2001,Substance abuse and behavioral disorder counselors,6,147,0.0026007572272743356
-Armenia,4116,106158,2208,56522,4000,Chefs and head cooks,7,142,0.0025122960970949365
-Armenia,4116,106158,2208,56522,4965,"Sales and related workers, all other",6,138,0.002441527192951417
-Armenia,4116,106158,2208,56522,8990,"Miscellaneous production workers, including equipment operators and tenders",4,135,0.0023884505148437777
-Armenia,4116,106158,2208,56522,2861,Interpreters and translators,5,134,0.002370758288807898
-Armenia,4116,106158,2208,56522,1450,Materials engineers,3,131,0.0023176816107002584
-Armenia,4116,106158,2208,56522,2004,Mental health counselors,4,131,0.0023176816107002584
-Armenia,4116,106158,2208,56522,2040,Clergy,6,131,0.0023176816107002584
-Armenia,4116,106158,2208,56522,4055,Fast food and counter workers,4,131,0.0023176816107002584
-Armenia,4116,106158,2208,56522,4230,Maids and housekeeping cleaners,6,130,0.0022999893846643786
-Armenia,4116,106158,2208,56522,7315,"Heating, air conditioning, and refrigeration mechanics and installers",4,128,0.002264604932592619
-Armenia,4116,106158,2208,56522,9150,"Motor vehicle operators, all other",4,128,0.002264604932592619
-Armenia,4116,106158,2208,56522,1108,"Computer occupations, all other",5,126,0.0022292204805208593
-Armenia,4116,106158,2208,56522,1825,Other psychologists,6,126,0.0022292204805208593
-Armenia,4116,106158,2208,56522,6410,Painters and paperhangers,7,125,0.0022115282544849795
-Armenia,4116,106158,2208,56522,2025,Other community and social service specialists,5,123,0.00217614380241322
-Armenia,4116,106158,2208,56522,1320,Aerospace engineers,5,122,0.00215845157637734
-Armenia,4116,106158,2208,56522,0735,Market research analysts and marketing specialists,4,121,0.00214075935034146
-Armenia,4116,106158,2208,56522,2633,Floral designers,5,121,0.00214075935034146
-Armenia,4116,106158,2208,56522,4130,Dining room and cafeteria attendants and bartender helpers,5,120,0.0021230671243055803
-Armenia,4116,106158,2208,56522,1650,Other life scientists,4,119,0.0021053748982697005
-Armenia,4116,106158,2208,56522,8810,Painting workers,4,116,0.0020522982201620606
-Armenia,4116,106158,2208,56522,9410,Transportation inspectors,2,116,0.0020522982201620606
-Armenia,4116,106158,2208,56522,6240,"Carpet, floor, and tile installers and finishers",4,111,0.0019638370899826615
-Armenia,4116,106158,2208,56522,5710,Executive secretaries and executive administrative assistants,3,110,0.0019461448639467819
-Armenia,4116,106158,2208,56522,1410,Electrical and electronics engineers,5,109,0.001928452637910902
-Armenia,4116,106158,2208,56522,4400,Gambling services workers,2,109,0.001928452637910902
-Armenia,4116,106158,2208,56522,7340,"Maintenance and repair workers, general",3,109,0.001928452637910902
-Armenia,4116,106158,2208,56522,1555,"Other engineering technologists and technicians, except drafters",5,108,0.0019107604118750222
-Armenia,4116,106158,2208,56522,2770,"Entertainers and performers, sports and related workers, all other",2,107,0.0018930681858391422
-Armenia,4116,106158,2208,56522,7140,Aircraft mechanics and service technicians,4,107,0.0018930681858391422
-Armenia,4116,106158,2208,56522,1970,"Other life, physical, and social science technicians",4,106,0.0018753759598032623
-Armenia,4116,106158,2208,56522,5522,"Dispatchers, except police, fire, and ambulance",2,106,0.0018753759598032623
-Armenia,4116,106158,2208,56522,0160,"Transportation, storage, and distribution managers",4,105,0.0018576837337673825
-Armenia,4116,106158,2208,56522,1240,Other mathematical science occupations,6,104,0.0018399915077315027
-Armenia,4116,106158,2208,56522,4830,Travel agents,2,104,0.0018399915077315027
-Armenia,4116,106158,2208,56522,3515,Medical records specialists,4,102,0.001804607055659743
-Armenia,4116,106158,2208,56522,4010,First-line supervisors of food preparation and serving workers,5,101,0.0017869148296238632
-Armenia,4116,106158,2208,56522,8030,Machinists,4,101,0.0017869148296238632
-Armenia,4116,106158,2208,56522,1822,School psychologists,3,100,0.0017692226035879834
-Armenia,4116,106158,2208,56522,2016,Social and human service assistants,5,100,0.0017692226035879834
-Armenia,4116,106158,2208,56522,5260,File clerks,5,99,0.0017515303775521036
-Armenia,4116,106158,2208,56522,5410,Reservation and transportation ticket agents and travel clerks,4,98,0.0017338381515162237
-Armenia,4116,106158,2208,56522,4621,Exercise trainers and group fitness instructors,5,93,0.0016453770213368246
-Armenia,4116,106158,2208,56522,3649,Phlebotomists,2,92,0.0016276847953009448
-Armenia,4116,106158,2208,56522,4750,Parts salespersons,3,92,0.0016276847953009448
-Armenia,4116,106158,2208,56522,2700,Actors,3,91,0.001609992569265065
-Armenia,4116,106158,2208,56522,4040,Bartenders,3,89,0.0015746081171933053
-Armenia,4116,106158,2208,56522,4030,Food preparation workers,6,88,0.0015569158911574255
-Armenia,4116,106158,2208,56522,7700,First-line supervisors of production and operating workers,6,88,0.0015569158911574255
-Armenia,4116,106158,2208,56522,0205,"Farmers, ranchers, and other agricultural managers",3,87,0.0015392236651215457
-Armenia,4116,106158,2208,56522,2830,Editors,2,87,0.0015392236651215457
-Armenia,4116,106158,2208,56522,3603,Nursing assistants,2,87,0.0015392236651215457
-Armenia,4116,106158,2208,56522,2002,"Educational, guidance, and career counselors and advisors",4,86,0.0015215314390856658
-Armenia,4116,106158,2208,56522,3160,Physical therapists,3,84,0.0014861469870139062
-Armenia,4116,106158,2208,56522,0520,"Wholesale and retail buyers, except farm products",3,82,0.0014507625349421463
-Armenia,4116,106158,2208,56522,1460,Mechanical engineers,4,82,0.0014507625349421463
-Armenia,4116,106158,2208,56522,1006,Computer systems analysts,5,81,0.0014330703089062665
-Armenia,4116,106158,2208,56522,8350,"Tailors, dressmakers, and sewers",4,80,0.0014153780828703867
-Armenia,4116,106158,2208,56522,4120,"Food servers, nonrestaurant",3,79,0.0013976858568345068
-Armenia,4116,106158,2208,56522,1910,Biological technicians,2,78,0.001379993630798627
-Armenia,4116,106158,2208,56522,5310,"Interviewers, except eligibility and loan",1,78,0.001379993630798627
-Armenia,4116,106158,2208,56522,7000,"First-line supervisors of mechanics, installers, and repairers",3,78,0.001379993630798627
-Armenia,4116,106158,2208,56522,0136,Human resources managers,4,76,0.0013446091787268674
-Armenia,4116,106158,2208,56522,0725,"Meeting, convention, and event planners",4,76,0.0013446091787268674
-Armenia,4116,106158,2208,56522,1032,Web and digital interface designers,3,75,0.0013269169526909875
-Armenia,4116,106158,2208,56522,2003,Marriage and family therapists,3,75,0.0013269169526909875
-Armenia,4116,106158,2208,56522,2435,Librarians and media collections specialists,2,75,0.0013269169526909875
-Armenia,4116,106158,2208,56522,5330,Loan interviewers and clerks,2,75,0.0013269169526909875
-Armenia,4116,106158,2208,56522,5540,Postal service clerks,2,75,0.0013269169526909875
-Armenia,4116,106158,2208,56522,0810,Property appraisers and assessors,3,74,0.0013092247266551077
-Armenia,4116,106158,2208,56522,1065,Database administrators and architects,3,74,0.0013092247266551077
-Armenia,4116,106158,2208,56522,1305,"Architects, except landscape and naval",3,73,0.001291532500619228
-Armenia,4116,106158,2208,56522,4251,Landscaping and groundskeeping workers,6,73,0.001291532500619228
-Armenia,4116,106158,2208,56522,7840,Food batchmakers,3,73,0.001291532500619228
-Armenia,4116,106158,2208,56522,3640,Dental assistants,4,71,0.0012561480485474682
-Armenia,4116,106158,2208,56522,8500,Cabinetmakers and bench carpenters,3,71,0.0012561480485474682
-Armenia,4116,106158,2208,56522,9110,"Ambulance drivers and attendants, except emergency medical technicians",3,71,0.0012561480485474682
-Armenia,4116,106158,2208,56522,1010,Computer programmers,4,70,0.0012384558225115884
-Armenia,4116,106158,2208,56522,2751,Music directors and composers,2,70,0.0012384558225115884
-Armenia,4116,106158,2208,56522,5610,"Shipping, receiving, and inventory clerks",3,70,0.0012384558225115884
-Armenia,4116,106158,2208,56522,3725,"Miscellaneous first-line supervisors, protective service workers",2,66,0.0011676869183680691
-Armenia,4116,106158,2208,56522,0340,Lodging managers,1,65,0.0011499946923321893
-Armenia,4116,106158,2208,56522,3630,Massage therapists,3,64,0.0011323024662963095
-Armenia,4116,106158,2208,56522,4435,Other entertainment attendants and related workers,2,64,0.0011323024662963095
-Armenia,4116,106158,2208,56522,5940,Other office and administrative support workers,5,64,0.0011323024662963095
-Armenia,4116,106158,2208,56522,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,3,64,0.0011323024662963095
-Armenia,4116,106158,2208,56522,7540,Locksmiths and safe repairers,1,63,0.0011146102402604296
-Armenia,4116,106158,2208,56522,0060,Public relations and fundraising managers,2,61,0.00107922578818867
-Armenia,4116,106158,2208,56522,2722,Coaches and scouts,2,61,0.00107922578818867
-Armenia,4116,106158,2208,56522,4522,Skincare specialists,1,61,0.00107922578818867
-Armenia,4116,106158,2208,56522,4525,Other personal appearance workers,2,61,0.00107922578818867
-Armenia,4116,106158,2208,56522,2005,Rehabilitation counselors,1,60,0.0010615335621527902
-Armenia,4116,106158,2208,56522,3300,Clinical laboratory technologists and technicians,3,60,0.0010615335621527902
-Armenia,4116,106158,2208,56522,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",2,60,0.0010615335621527902
-Armenia,4116,106158,2208,56522,4350,Animal caretakers,4,60,0.0010615335621527902
-Armenia,4116,106158,2208,56522,2905,Other media and communication equipment workers,3,59,0.0010438413361169101
-Armenia,4116,106158,2208,56522,4200,First-line supervisors of housekeeping and janitorial workers,3,59,0.0010438413361169101
-Armenia,4116,106158,2208,56522,2634,Graphic designers,4,58,0.0010261491100810303
-Armenia,4116,106158,2208,56522,7330,Industrial and refractory machinery mechanics,2,58,0.0010261491100810303
-Armenia,4116,106158,2208,56522,3423,Surgical technologists,3,57,0.0010084568840451505
-Armenia,4116,106158,2208,56522,3750,Fire inspectors,1,57,0.0010084568840451505
-Armenia,4116,106158,2208,56522,5350,Correspondence clerks and order clerks,1,57,0.0010084568840451505
-Armenia,4116,106158,2208,56522,1105,Network and computer systems administrators,3,55,9.730724319733909e-4
-Armenia,4116,106158,2208,56522,3620,Physical therapist assistants and aides,2,55,9.730724319733909e-4
-Armenia,4116,106158,2208,56522,1430,"Industrial engineers, including health and safety",2,54,9.553802059375111e-4
-Armenia,4116,106158,2208,56522,1050,Computer support specialists,4,52,9.199957538657513e-4
-Armenia,4116,106158,2208,56522,7150,Automotive body and related repairers,3,52,9.199957538657513e-4
-Armenia,4116,106158,2208,56522,2840,Technical writers,1,51,9.023035278298715e-4
-Armenia,4116,106158,2208,56522,0300,Architectural and engineering managers,2,50,8.846113017939917e-4
-Armenia,4116,106158,2208,56522,0850,Personal financial advisors,2,50,8.846113017939917e-4
-Armenia,4116,106158,2208,56522,5550,Postal service mail carriers,2,50,8.846113017939917e-4
-Armenia,4116,106158,2208,56522,0135,Compensation and benefits managers,2,49,8.669190757581119e-4
-Armenia,4116,106158,2208,56522,3000,Chiropractors,2,49,8.669190757581119e-4
-Armenia,4116,106158,2208,56522,0930,"Tax examiners and collectors, and revenue agents",4,48,8.49226849722232e-4
-Armenia,4116,106158,2208,56522,6660,Construction and building inspectors,3,47,8.315346236863522e-4
-Armenia,4116,106158,2208,56522,0140,Industrial production managers,2,46,8.138423976504724e-4
-Armenia,4116,106158,2208,56522,0600,Cost estimators,3,46,8.138423976504724e-4
-Armenia,4116,106158,2208,56522,4800,Advertising sales agents,1,46,8.138423976504724e-4
-Armenia,4116,106158,2208,56522,3870,Police officers,1,45,7.961501716145926e-4
-Armenia,4116,106158,2208,56522,8950,Helpers--production workers,1,45,7.961501716145926e-4
-Armenia,4116,106158,2208,56522,1980,Occupational health and safety specialists and technicians,2,44,7.784579455787127e-4
-Armenia,4116,106158,2208,56522,2015,Probation officers and correctional treatment specialists,1,44,7.784579455787127e-4
-Armenia,4116,106158,2208,56522,2350,Tutors,3,44,7.784579455787127e-4
-Armenia,4116,106158,2208,56522,5100,Bill and account collectors,2,44,7.784579455787127e-4
-Armenia,4116,106158,2208,56522,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,44,7.784579455787127e-4
-Armenia,4116,106158,2208,56522,3245,Other therapists,3,43,7.607657195428329e-4
-Armenia,4116,106158,2208,56522,4500,Barbers,2,43,7.607657195428329e-4
-Armenia,4116,106158,2208,56522,0940,Tax preparers,2,42,7.430734935069531e-4
-Armenia,4116,106158,2208,56522,2920,"Television, video, and film camera operators and editors",2,42,7.430734935069531e-4
-Armenia,4116,106158,2208,56522,4950,"Door-to-door sales workers, news and street vendors, and related workers",2,42,7.430734935069531e-4
-Armenia,4116,106158,2208,56522,5600,"Production, planning, and expediting clerks",3,42,7.430734935069531e-4
-Armenia,4116,106158,2208,56522,8510,Furniture finishers,1,42,7.430734935069531e-4
-Armenia,4116,106158,2208,56522,1022,Software quality assurance analysts and testers,1,41,7.253812674710732e-4
-Armenia,4116,106158,2208,56522,2635,Interior designers,3,41,7.253812674710732e-4
-Armenia,4116,106158,2208,56522,5420,Other information and records clerks,3,41,7.253812674710732e-4
-Armenia,4116,106158,2208,56522,2105,Judicial law clerks,1,40,7.076890414351933e-4
-Armenia,4116,106158,2208,56522,3324,Magnetic resonance imaging technologists,1,40,7.076890414351933e-4
-Armenia,4116,106158,2208,56522,9630,Machine feeders and offbearers,1,40,7.076890414351933e-4
-Armenia,4116,106158,2208,56522,4140,Dishwashers,2,39,6.899968153993135e-4
-Armenia,4116,106158,2208,56522,1745,"Environmental scientists and specialists, including health",1,38,6.723045893634337e-4
-Armenia,4116,106158,2208,56522,3258,"Nurse practitioners, and nurse midwives",3,38,6.723045893634337e-4
-Armenia,4116,106158,2208,56522,4740,Counter and rental clerks,3,38,6.723045893634337e-4
-Armenia,4116,106158,2208,56522,8140,"Welding, soldering, and brazing workers",2,38,6.723045893634337e-4
-Armenia,4116,106158,2208,56522,4655,"Personal care and service workers, all other",1,37,6.546123633275539e-4
-Armenia,4116,106158,2208,56522,9005,Supervisors of transportation and material moving workers,2,37,6.546123633275539e-4
-Armenia,4116,106158,2208,56522,0960,Other financial specialists,2,36,6.36920137291674e-4
-Armenia,4116,106158,2208,56522,7905,Computer numerically controlled tool operators and programmers,2,36,6.36920137291674e-4
-Armenia,4116,106158,2208,56522,2012,Healthcare social workers,1,35,6.192279112557942e-4
-Armenia,4116,106158,2208,56522,3545,Miscellaneous health technologists and technicians,3,35,6.192279112557942e-4
-Armenia,4116,106158,2208,56522,4820,"Securities, commodities, and financial services sales agents",1,35,6.192279112557942e-4
-Armenia,4116,106158,2208,56522,0137,Training and development managers,1,33,5.838434591840346e-4
-Armenia,4116,106158,2208,56522,3740,Firefighters,1,33,5.838434591840346e-4
-Armenia,4116,106158,2208,56522,4530,"Baggage porters, bellhops, and concierges",2,33,5.838434591840346e-4
-Armenia,4116,106158,2208,56522,5840,Insurance claims and policy processing clerks,2,33,5.838434591840346e-4
-Armenia,4116,106158,2208,56522,9825,Military enlisted tactical operations and air/weapons specialists and crew members,3,33,5.838434591840346e-4
-Armenia,4116,106158,2208,56522,0101,Administrative services managers,3,32,5.661512331481547e-4
-Armenia,4116,106158,2208,56522,1031,Web developers,2,31,5.484590071122749e-4
-Armenia,4116,106158,2208,56522,3150,Occupational therapists,3,31,5.484590071122749e-4
-Armenia,4116,106158,2208,56522,3655,Other healthcare support workers,1,31,5.484590071122749e-4
-Armenia,4116,106158,2208,56522,3820,Detectives and criminal investigators,2,31,5.484590071122749e-4
-Armenia,4116,106158,2208,56522,8300,Laundry and dry-cleaning workers,2,31,5.484590071122749e-4
-Armenia,4116,106158,2208,56522,3261,Acupuncturists,1,30,5.307667810763951e-4
-Armenia,4116,106158,2208,56522,5020,Telephone operators,2,30,5.307667810763951e-4
-Armenia,4116,106158,2208,56522,9122,"Bus drivers, transit and intercity",2,30,5.307667810763951e-4
-Armenia,4116,106158,2208,56522,9610,Cleaners of vehicles and equipment,1,30,5.307667810763951e-4
-Armenia,4116,106158,2208,56522,1541,Architectural and civil drafters,1,28,4.953823290046353e-4
-Armenia,4116,106158,2208,56522,5160,Tellers,2,28,4.953823290046353e-4
-Armenia,4116,106158,2208,56522,5165,Other financial clerks,1,28,4.953823290046353e-4
-Armenia,4116,106158,2208,56522,7010,"Computer, automated teller, and office machine repairers",1,28,4.953823290046353e-4
-Armenia,4116,106158,2208,56522,8310,"Pressers, textile, garment, and related materials",1,28,4.953823290046353e-4
-Armenia,4116,106158,2208,56522,1551,Electrical and electronic engineering technologists and technicians,2,27,4.7769010296875555e-4
-Armenia,4116,106158,2208,56522,6200,First-line supervisors of construction trades and extraction workers,1,27,4.7769010296875555e-4
-Armenia,4116,106158,2208,56522,3401,Emergency medical technicians,2,26,4.599978769328757e-4
-Armenia,4116,106158,2208,56522,0360,Natural sciences managers,2,25,4.4230565089699585e-4
-Armenia,4116,106158,2208,56522,1106,Computer network architects,1,25,4.4230565089699585e-4
-Armenia,4116,106158,2208,56522,1400,Computer hardware engineers,1,25,4.4230565089699585e-4
-Armenia,4116,106158,2208,56522,6600,"Helpers, construction trades",2,25,4.4230565089699585e-4
-Armenia,4116,106158,2208,56522,7810,"Butchers and other meat, poultry, and fish processing workers",2,25,4.4230565089699585e-4
-Armenia,4116,106158,2208,56522,0040,Advertising and promotions managers,2,24,4.24613424861116e-4
-Armenia,4116,106158,2208,56522,2330,Special education teachers,2,24,4.24613424861116e-4
-Armenia,4116,106158,2208,56522,3840,Fish and game wardens and parking enforcement officers,1,24,4.24613424861116e-4
-Armenia,4116,106158,2208,56522,5140,Payroll and timekeeping clerks,2,24,4.24613424861116e-4
-Armenia,4116,106158,2208,56522,8255,Printing press operators,1,24,4.24613424861116e-4
-Armenia,4116,106158,2208,56522,4521,Manicurists and pedicurists,2,23,4.069211988252362e-4
-Armenia,4116,106158,2208,56522,7130,Security and fire alarm systems installers,2,23,4.069211988252362e-4
-Armenia,4116,106158,2208,56522,3230,Speech-language pathologists,1,22,3.892289727893564e-4
-Armenia,4116,106158,2208,56522,1220,Operations research analysts,2,21,3.7153674675347655e-4
-Armenia,4116,106158,2208,56522,3945,Transportation security screeners,1,21,3.7153674675347655e-4
-Armenia,4116,106158,2208,56522,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",1,21,3.7153674675347655e-4
-Armenia,4116,106158,2208,56522,6050,Other agricultural workers,1,20,3.5384452071759667e-4
-Armenia,4116,106158,2208,56522,9365,Transportation service attendants,1,20,3.5384452071759667e-4
-Armenia,4116,106158,2208,56522,3220,Respiratory therapists,1,19,3.3615229468171684e-4
-Armenia,4116,106158,2208,56522,7320,Home appliance repairers,2,19,3.3615229468171684e-4
-Armenia,4116,106158,2208,56522,1920,Chemical technicians,1,18,3.18460068645837e-4
-Armenia,4116,106158,2208,56522,2740,Dancers and choreographers,1,17,3.007678426099572e-4
-Armenia,4116,106158,2208,56522,5810,Data entry keyers,1,17,3.007678426099572e-4
-Armenia,4116,106158,2208,56522,7750,Other assemblers and fabricators,2,17,3.007678426099572e-4
-Armenia,4116,106158,2208,56522,1310,"Surveyors, cartographers, and photogrammetrists",1,16,2.8307561657407737e-4
-Armenia,4116,106158,2208,56522,2632,Fashion designers,1,16,2.8307561657407737e-4
-Armenia,4116,106158,2208,56522,4940,Telemarketers,1,16,2.8307561657407737e-4
-Armenia,4116,106158,2208,56522,8225,Other metal workers and plastic workers,1,16,2.8307561657407737e-4
-Armenia,4116,106158,2208,56522,2810,"News analysts, reporters, and journalists",1,15,2.6538339053819754e-4
-Armenia,4116,106158,2208,56522,3605,Orderlies and psychiatric aides,1,15,2.6538339053819754e-4
-Armenia,4116,106158,2208,56522,3610,Occupational therapy assistants and aides,1,15,2.6538339053819754e-4
-Armenia,4116,106158,2208,56522,3648,Veterinary assistants and laboratory animal caretakers,1,15,2.6538339053819754e-4
-Armenia,4116,106158,2208,56522,8610,Stationary engineers and boiler operators,1,15,2.6538339053819754e-4
-Armenia,4116,106158,2208,56522,1005,Computer and information research scientists,1,14,2.4769116450231766e-4
-Armenia,4116,106158,2208,56522,1545,Other drafters,1,14,2.4769116450231766e-4
-Armenia,4116,106158,2208,56522,2400,"Archivists, curators, and museum technicians",1,14,2.4769116450231766e-4
-Armenia,4116,106158,2208,56522,2910,Photographers,1,14,2.4769116450231766e-4
-Armenia,4116,106158,2208,56522,3100,Surgeons,1,14,2.4769116450231766e-4
-Armenia,4116,106158,2208,56522,3110,Physician assistants,1,14,2.4769116450231766e-4
-Armenia,4116,106158,2208,56522,3550,Other healthcare practitioners and technical occupations,1,14,2.4769116450231766e-4
-Armenia,4116,106158,2208,56522,5220,"Court, municipal, and license clerks",1,14,2.4769116450231766e-4
-Armenia,4116,106158,2208,56522,0530,"Purchasing agents, except wholesale, retail, and farm products",1,13,2.2999893846643784e-4
-Armenia,4116,106158,2208,56522,2862,Court reporters and simultaneous captioners,1,13,2.2999893846643784e-4
-Armenia,4116,106158,2208,56522,9640,"Packers and packagers, hand",1,13,2.2999893846643784e-4
-Armenia,4116,106158,2208,56522,0500,"Agents and business managers of artists, performers, and athletes",1,12,2.12306712430558e-4
-Armenia,4116,106158,2208,56522,4420,"Ushers, lobby attendants, and ticket takers",1,12,2.12306712430558e-4
-Armenia,4116,106158,2208,56522,7020,Radio and telecommunications equipment installers and repairers,1,12,2.12306712430558e-4
-Armenia,4116,106158,2208,56522,1821,Clinical and counseling psychologists,1,11,1.946144863946782e-4
-Armenia,4116,106158,2208,56522,2011,"Child, family, and school social workers",1,11,1.946144863946782e-4
-Armenia,4116,106158,2208,56522,2631,Commercial and industrial designers,1,11,1.946144863946782e-4
-Armenia,4116,106158,2208,56522,3330,Nuclear medicine technologists and medical dosimetrists,1,11,1.946144863946782e-4
-Armenia,4116,106158,2208,56522,8920,"Molders, shapers, and casters, except metal and plastic",1,11,1.946144863946782e-4
-Armenia,4116,106158,2208,56522,0640,"Compensation, benefits, and job analysis specialists",1,10,1.7692226035879833e-4
-Armenia,4116,106158,2208,56522,2050,"Directors, religious activities and education",1,10,1.7692226035879833e-4
-Armenia,4116,106158,2208,56522,7420,Telecommunications line installers and repairers,1,10,1.7692226035879833e-4
-Armenia,4116,106158,2208,56522,7430,Precision instrument and equipment repairers,1,10,1.7692226035879833e-4
-Armenia,4116,106158,2208,56522,0150,Purchasing managers,1,9,1.592300343229185e-4
-Armenia,4116,106158,2208,56522,6515,Roofers,1,8,1.4153780828703868e-4
-Armenia,4116,106158,2208,56522,8640,"Chemical processing machine setters, operators, and tenders",1,8,1.4153780828703868e-4
-Armenia,4116,106158,2208,56522,4340,Animal trainers,1,7,1.2384558225115883e-4
-Armenia,4116,106158,2208,56522,4930,Sales engineers,1,7,1.2384558225115883e-4
-Armenia,4116,106158,2208,56522,5320,"Library assistants, clerical",1,7,1.2384558225115883e-4
-Armenia,4116,106158,2208,56522,0335,Entertainment and recreation managers,1,6,1.06153356215279e-4
+country,n_workers,workers,occ,occ_title,occ_share
+Armenia,122,3494,3602,Personal care aides,0.06181663776936414
+Armenia,75,2200,9130,Driver/sales workers and truck drivers,0.038922897278935636
+Armenia,76,1738,0440,Other managers,0.030749088850359152
+Armenia,52,1526,9142,Taxi drivers,0.02699833693075263
+Armenia,38,1233,4700,First-line supervisors of retail sales workers,0.021814514702239836
+Armenia,41,1210,3255,Registered nurses,0.0214075935034146
+Armenia,44,1186,1021,Software developers,0.020982980078553485
+Armenia,37,885,0800,Accountants and auditors,0.015657620041753653
+Armenia,24,880,3601,Home health aides,0.015569158911574255
+Armenia,32,878,4760,Retail salespersons,0.015533774459502495
+Armenia,35,866,2100,"Lawyers, and judges, magistrates, and other judicial workers",0.015321467747071937
+Armenia,32,814,5740,"Secretaries and administrative assistants, except legal, medical, and executive",0.014401471993206185
+Armenia,26,812,4920,Real estate brokers and sales agents,0.014366087541134425
+Armenia,29,769,5860,"Office clerks, general",0.013605321821591593
+Armenia,16,736,3010,Dentists,0.013021478362407558
+Armenia,25,720,4510,"Hairdressers, hairstylists, and cosmetologists",0.012738402745833481
+Armenia,22,702,0350,Medical and health services managers,0.012419942677187644
+Armenia,24,701,4720,Cashiers,0.012402250451151764
+Armenia,35,698,0010,Chief executives and legislators,0.012349173773044125
+Armenia,30,655,5240,Customer service representatives,0.011588408053501292
+Armenia,33,634,2205,Postsecondary teachers,0.011216871306747814
+Armenia,24,558,2014,"Social workers, all other",0.009872262128020948
+Armenia,22,556,0120,Financial managers,0.009836877675949188
+Armenia,21,536,5120,"Bookkeeping, accounting, and auditing clerks",0.009483033155231592
+Armenia,18,529,4810,Insurance sales agents,0.009359187572980432
+Armenia,26,517,2310,Elementary and middle school teachers,0.009146880860549874
+Armenia,13,505,4020,Cooks,0.008934574148119316
+Armenia,17,501,4710,First-line supervisors of non-retail sales workers,0.008863805243975797
+Armenia,18,498,6260,Construction laborers,0.008810728565868158
+Armenia,19,473,0630,Human resources workers,0.008368422914971162
+Armenia,13,466,4850,"Sales representatives, wholesale and manufacturing",0.008244577332720002
+Armenia,14,461,2600,Artists and related workers,0.008156116202540604
+Armenia,16,436,6355,Electricians,0.007713810551643608
+Armenia,12,407,3500,Licensed practical and licensed vocational nurses,0.007200735996603092
+Armenia,16,394,5000,First-line supervisors of office and administrative support workers,0.006970737058136655
+Armenia,15,389,3050,Pharmacists,0.0068822759279572555
+Armenia,18,377,3090,Physicians,0.006669969215526698
+Armenia,14,375,3930,Security guards and gaming surveillance officers,0.006634584763454938
+Armenia,16,373,2360,Other teachers and instructors,0.006599200311383178
+Armenia,13,372,5510,Couriers and messengers,0.0065815080853472985
+Armenia,13,369,4600,Childcare workers,0.006528431407239659
+Armenia,8,367,9141,Shuttle drivers and chauffeurs,0.006493046955167899
+Armenia,11,354,0310,Food service managers,0.006263048016701462
+Armenia,11,338,1530,Other engineers,0.005979972400127384
+Armenia,13,326,0051,Marketing managers,0.005767665687696826
+Armenia,13,321,4110,Waiters and waitresses,0.0056792045575174265
+Armenia,11,321,5110,Billing and posting clerks,0.0056792045575174265
+Armenia,13,319,0410,"Property, real estate, and community association managers",0.005643820105445667
+Armenia,13,314,0020,General and operations managers,0.005555358975266268
+Armenia,16,312,0220,Construction managers,0.005519974523194508
+Armenia,12,311,0420,Social and community service managers,0.005502282297158628
+Armenia,14,307,2545,Teaching assistants,0.005431513393015109
+Armenia,14,305,2300,Preschool and kindergarten teachers,0.005396128940943349
+Armenia,12,289,9645,Stockers and order fillers,0.005113053324369272
+Armenia,13,272,2320,Secondary school teachers,0.004812285481759315
+Armenia,14,265,5250,"Eligibility interviewers, government programs",0.004688439899508156
+Armenia,12,261,5400,Receptionists and information clerks,0.004617670995364637
+Armenia,12,257,2640,Other designers,0.004546902091221118
+Armenia,10,254,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",0.004493825413113478
+Armenia,12,251,7200,Automotive service technicians and mechanics,0.004440748735005839
+Armenia,11,242,8750,Jewelers and precious stone and metal workers,0.00428151870068292
+Armenia,11,241,1760,"Physical scientists, all other",0.0042638264746470405
+Armenia,11,241,2145,Paralegals and legal assistants,0.0042638264746470405
+Armenia,8,227,0565,Compliance officers,0.004016135310144722
+Armenia,13,225,0230,Education and childcare administrators,0.003980750858072962
+Armenia,9,223,0540,"Claims adjusters, appraisers, examiners, and investigators",0.003945366406001203
+Armenia,7,223,2752,Musicians and singers,0.003945366406001203
+Armenia,11,222,0705,Project management specialists,0.003927674179965323
+Armenia,8,221,9620,"Laborers and freight, stock, and material movers, hand",0.003909981953929443
+Armenia,10,220,3421,Pharmacy technicians,0.0038922897278935637
+Armenia,10,208,0710,Management analysts,0.0036799830154630054
+Armenia,10,208,2710,Producers and directors,0.0036799830154630054
+Armenia,7,205,8740,"Inspectors, testers, sorters, samplers, and weighers",0.003626906337355366
+Armenia,8,201,1360,Civil engineers,0.0035561374332118466
+Armenia,7,193,7800,Bakers,0.003414599624924808
+Armenia,8,191,0750,"Business operations specialists, all other",0.0033792151728530484
+Armenia,7,184,3645,Medical assistants,0.0032553695906018896
+Armenia,7,179,4220,Janitors and building cleaners,0.0031669084604224905
+Armenia,6,178,0052,Sales managers,0.0031492162343866106
+Armenia,7,177,0110,Computer and information systems managers,0.003131524008350731
+Armenia,7,176,0910,Credit counselors and loan officers,0.003113831782314851
+Armenia,5,167,3322,Diagnostic medical sonographers,0.0029546017479919326
+Armenia,8,160,6230,Carpenters,0.0028307561657407733
+Armenia,5,159,3323,Radiologic technologists and technicians,0.0028130639397048935
+Armenia,7,156,0845,Financial and investment analysts,0.002759987261597254
+Armenia,8,148,6442,"Plumbers, pipefitters, and steamfitters",0.0026184494533102154
+Armenia,6,147,2001,Substance abuse and behavioral disorder counselors,0.0026007572272743356
+Armenia,7,142,4000,Chefs and head cooks,0.0025122960970949365
+Armenia,6,138,4965,"Sales and related workers, all other",0.002441527192951417
+Armenia,4,135,8990,"Miscellaneous production workers, including equipment operators and tenders",0.0023884505148437777
+Armenia,5,134,2861,Interpreters and translators,0.002370758288807898
+Armenia,3,131,1450,Materials engineers,0.0023176816107002584
+Armenia,4,131,2004,Mental health counselors,0.0023176816107002584
+Armenia,6,131,2040,Clergy,0.0023176816107002584
+Armenia,4,131,4055,Fast food and counter workers,0.0023176816107002584
+Armenia,6,130,4230,Maids and housekeeping cleaners,0.0022999893846643786
+Armenia,4,128,7315,"Heating, air conditioning, and refrigeration mechanics and installers",0.002264604932592619
+Armenia,4,128,9150,"Motor vehicle operators, all other",0.002264604932592619
+Armenia,5,126,1108,"Computer occupations, all other",0.0022292204805208593
+Armenia,6,126,1825,Other psychologists,0.0022292204805208593
+Armenia,7,125,6410,Painters and paperhangers,0.0022115282544849795
+Armenia,5,123,2025,Other community and social service specialists,0.00217614380241322
+Armenia,5,122,1320,Aerospace engineers,0.00215845157637734
+Armenia,4,121,0735,Market research analysts and marketing specialists,0.00214075935034146
+Armenia,5,121,2633,Floral designers,0.00214075935034146
+Armenia,5,120,4130,Dining room and cafeteria attendants and bartender helpers,0.0021230671243055803
+Armenia,4,119,1650,Other life scientists,0.0021053748982697005
+Armenia,4,116,8810,Painting workers,0.0020522982201620606
+Armenia,2,116,9410,Transportation inspectors,0.0020522982201620606
+Armenia,4,111,6240,"Carpet, floor, and tile installers and finishers",0.0019638370899826615
+Armenia,3,110,5710,Executive secretaries and executive administrative assistants,0.0019461448639467819
+Armenia,5,109,1410,Electrical and electronics engineers,0.001928452637910902
+Armenia,2,109,4400,Gambling services workers,0.001928452637910902
+Armenia,3,109,7340,"Maintenance and repair workers, general",0.001928452637910902
+Armenia,5,108,1555,"Other engineering technologists and technicians, except drafters",0.0019107604118750222
+Armenia,2,107,2770,"Entertainers and performers, sports and related workers, all other",0.0018930681858391422
+Armenia,4,107,7140,Aircraft mechanics and service technicians,0.0018930681858391422
+Armenia,4,106,1970,"Other life, physical, and social science technicians",0.0018753759598032623
+Armenia,2,106,5522,"Dispatchers, except police, fire, and ambulance",0.0018753759598032623
+Armenia,4,105,0160,"Transportation, storage, and distribution managers",0.0018576837337673825
+Armenia,6,104,1240,Other mathematical science occupations,0.0018399915077315027
+Armenia,2,104,4830,Travel agents,0.0018399915077315027
+Armenia,4,102,3515,Medical records specialists,0.001804607055659743
+Armenia,5,101,4010,First-line supervisors of food preparation and serving workers,0.0017869148296238632
+Armenia,4,101,8030,Machinists,0.0017869148296238632
+Armenia,3,100,1822,School psychologists,0.0017692226035879834
+Armenia,5,100,2016,Social and human service assistants,0.0017692226035879834
+Armenia,5,99,5260,File clerks,0.0017515303775521036
+Armenia,4,98,5410,Reservation and transportation ticket agents and travel clerks,0.0017338381515162237
+Armenia,5,93,4621,Exercise trainers and group fitness instructors,0.0016453770213368246
+Armenia,2,92,3649,Phlebotomists,0.0016276847953009448
+Armenia,3,92,4750,Parts salespersons,0.0016276847953009448
+Armenia,3,91,2700,Actors,0.001609992569265065
+Armenia,3,89,4040,Bartenders,0.0015746081171933053
+Armenia,6,88,4030,Food preparation workers,0.0015569158911574255
+Armenia,6,88,7700,First-line supervisors of production and operating workers,0.0015569158911574255
+Armenia,3,87,0205,"Farmers, ranchers, and other agricultural managers",0.0015392236651215457
+Armenia,2,87,2830,Editors,0.0015392236651215457
+Armenia,2,87,3603,Nursing assistants,0.0015392236651215457
+Armenia,4,86,2002,"Educational, guidance, and career counselors and advisors",0.0015215314390856658
+Armenia,3,84,3160,Physical therapists,0.0014861469870139062
+Armenia,3,82,0520,"Wholesale and retail buyers, except farm products",0.0014507625349421463
+Armenia,4,82,1460,Mechanical engineers,0.0014507625349421463
+Armenia,5,81,1006,Computer systems analysts,0.0014330703089062665
+Armenia,4,80,8350,"Tailors, dressmakers, and sewers",0.0014153780828703867
+Armenia,3,79,4120,"Food servers, nonrestaurant",0.0013976858568345068
+Armenia,2,78,1910,Biological technicians,0.001379993630798627
+Armenia,1,78,5310,"Interviewers, except eligibility and loan",0.001379993630798627
+Armenia,3,78,7000,"First-line supervisors of mechanics, installers, and repairers",0.001379993630798627
+Armenia,4,76,0136,Human resources managers,0.0013446091787268674
+Armenia,4,76,0725,"Meeting, convention, and event planners",0.0013446091787268674
+Armenia,3,75,1032,Web and digital interface designers,0.0013269169526909875
+Armenia,3,75,2003,Marriage and family therapists,0.0013269169526909875
+Armenia,2,75,2435,Librarians and media collections specialists,0.0013269169526909875
+Armenia,2,75,5330,Loan interviewers and clerks,0.0013269169526909875
+Armenia,2,75,5540,Postal service clerks,0.0013269169526909875
+Armenia,3,74,0810,Property appraisers and assessors,0.0013092247266551077
+Armenia,3,74,1065,Database administrators and architects,0.0013092247266551077
+Armenia,3,73,1305,"Architects, except landscape and naval",0.001291532500619228
+Armenia,6,73,4251,Landscaping and groundskeeping workers,0.001291532500619228
+Armenia,3,73,7840,Food batchmakers,0.001291532500619228
+Armenia,4,71,3640,Dental assistants,0.0012561480485474682
+Armenia,3,71,8500,Cabinetmakers and bench carpenters,0.0012561480485474682
+Armenia,3,71,9110,"Ambulance drivers and attendants, except emergency medical technicians",0.0012561480485474682
+Armenia,4,70,1010,Computer programmers,0.0012384558225115884
+Armenia,2,70,2751,Music directors and composers,0.0012384558225115884
+Armenia,3,70,5610,"Shipping, receiving, and inventory clerks",0.0012384558225115884
+Armenia,2,66,3725,"Miscellaneous first-line supervisors, protective service workers",0.0011676869183680691
+Armenia,1,65,0340,Lodging managers,0.0011499946923321893
+Armenia,3,64,3630,Massage therapists,0.0011323024662963095
+Armenia,2,64,4435,Other entertainment attendants and related workers,0.0011323024662963095
+Armenia,5,64,5940,Other office and administrative support workers,0.0011323024662963095
+Armenia,3,64,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,0.0011323024662963095
+Armenia,1,63,7540,Locksmiths and safe repairers,0.0011146102402604296
+Armenia,2,61,0060,Public relations and fundraising managers,0.00107922578818867
+Armenia,2,61,2722,Coaches and scouts,0.00107922578818867
+Armenia,1,61,4522,Skincare specialists,0.00107922578818867
+Armenia,2,61,4525,Other personal appearance workers,0.00107922578818867
+Armenia,1,60,2005,Rehabilitation counselors,0.0010615335621527902
+Armenia,3,60,3300,Clinical laboratory technologists and technicians,0.0010615335621527902
+Armenia,2,60,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",0.0010615335621527902
+Armenia,4,60,4350,Animal caretakers,0.0010615335621527902
+Armenia,3,59,2905,Other media and communication equipment workers,0.0010438413361169101
+Armenia,3,59,4200,First-line supervisors of housekeeping and janitorial workers,0.0010438413361169101
+Armenia,4,58,2634,Graphic designers,0.0010261491100810303
+Armenia,2,58,7330,Industrial and refractory machinery mechanics,0.0010261491100810303
+Armenia,3,57,3423,Surgical technologists,0.0010084568840451505
+Armenia,1,57,3750,Fire inspectors,0.0010084568840451505
+Armenia,1,57,5350,Correspondence clerks and order clerks,0.0010084568840451505
+Armenia,3,55,1105,Network and computer systems administrators,9.730724319733909e-4
+Armenia,2,55,3620,Physical therapist assistants and aides,9.730724319733909e-4
+Armenia,2,54,1430,"Industrial engineers, including health and safety",9.553802059375111e-4
+Armenia,4,52,1050,Computer support specialists,9.199957538657513e-4
+Armenia,3,52,7150,Automotive body and related repairers,9.199957538657513e-4
+Armenia,1,51,2840,Technical writers,9.023035278298715e-4
+Armenia,2,50,0300,Architectural and engineering managers,8.846113017939917e-4
+Armenia,2,50,0850,Personal financial advisors,8.846113017939917e-4
+Armenia,2,50,5550,Postal service mail carriers,8.846113017939917e-4
+Armenia,2,49,0135,Compensation and benefits managers,8.669190757581119e-4
+Armenia,2,49,3000,Chiropractors,8.669190757581119e-4
+Armenia,4,48,0930,"Tax examiners and collectors, and revenue agents",8.49226849722232e-4
+Armenia,3,47,6660,Construction and building inspectors,8.315346236863522e-4
+Armenia,2,46,0140,Industrial production managers,8.138423976504724e-4
+Armenia,3,46,0600,Cost estimators,8.138423976504724e-4
+Armenia,1,46,4800,Advertising sales agents,8.138423976504724e-4
+Armenia,1,45,3870,Police officers,7.961501716145926e-4
+Armenia,1,45,8950,Helpers--production workers,7.961501716145926e-4
+Armenia,2,44,1980,Occupational health and safety specialists and technicians,7.784579455787127e-4
+Armenia,1,44,2015,Probation officers and correctional treatment specialists,7.784579455787127e-4
+Armenia,3,44,2350,Tutors,7.784579455787127e-4
+Armenia,2,44,5100,Bill and account collectors,7.784579455787127e-4
+Armenia,1,44,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",7.784579455787127e-4
+Armenia,3,43,3245,Other therapists,7.607657195428329e-4
+Armenia,2,43,4500,Barbers,7.607657195428329e-4
+Armenia,2,42,0940,Tax preparers,7.430734935069531e-4
+Armenia,2,42,2920,"Television, video, and film camera operators and editors",7.430734935069531e-4
+Armenia,2,42,4950,"Door-to-door sales workers, news and street vendors, and related workers",7.430734935069531e-4
+Armenia,3,42,5600,"Production, planning, and expediting clerks",7.430734935069531e-4
+Armenia,1,42,8510,Furniture finishers,7.430734935069531e-4
+Armenia,1,41,1022,Software quality assurance analysts and testers,7.253812674710732e-4
+Armenia,3,41,2635,Interior designers,7.253812674710732e-4
+Armenia,3,41,5420,Other information and records clerks,7.253812674710732e-4
+Armenia,1,40,2105,Judicial law clerks,7.076890414351933e-4
+Armenia,1,40,3324,Magnetic resonance imaging technologists,7.076890414351933e-4
+Armenia,1,40,9630,Machine feeders and offbearers,7.076890414351933e-4
+Armenia,2,39,4140,Dishwashers,6.899968153993135e-4
+Armenia,1,38,1745,"Environmental scientists and specialists, including health",6.723045893634337e-4
+Armenia,3,38,3258,"Nurse practitioners, and nurse midwives",6.723045893634337e-4
+Armenia,3,38,4740,Counter and rental clerks,6.723045893634337e-4
+Armenia,2,38,8140,"Welding, soldering, and brazing workers",6.723045893634337e-4
+Armenia,1,37,4655,"Personal care and service workers, all other",6.546123633275539e-4
+Armenia,2,37,9005,Supervisors of transportation and material moving workers,6.546123633275539e-4
+Armenia,2,36,0960,Other financial specialists,6.36920137291674e-4
+Armenia,2,36,7905,Computer numerically controlled tool operators and programmers,6.36920137291674e-4
+Armenia,1,35,2012,Healthcare social workers,6.192279112557942e-4
+Armenia,3,35,3545,Miscellaneous health technologists and technicians,6.192279112557942e-4
+Armenia,1,35,4820,"Securities, commodities, and financial services sales agents",6.192279112557942e-4
+Armenia,1,33,0137,Training and development managers,5.838434591840346e-4
+Armenia,1,33,3740,Firefighters,5.838434591840346e-4
+Armenia,2,33,4530,"Baggage porters, bellhops, and concierges",5.838434591840346e-4
+Armenia,2,33,5840,Insurance claims and policy processing clerks,5.838434591840346e-4
+Armenia,3,33,9825,Military enlisted tactical operations and air/weapons specialists and crew members,5.838434591840346e-4
+Armenia,3,32,0101,Administrative services managers,5.661512331481547e-4
+Armenia,2,31,1031,Web developers,5.484590071122749e-4
+Armenia,3,31,3150,Occupational therapists,5.484590071122749e-4
+Armenia,1,31,3655,Other healthcare support workers,5.484590071122749e-4
+Armenia,2,31,3820,Detectives and criminal investigators,5.484590071122749e-4
+Armenia,2,31,8300,Laundry and dry-cleaning workers,5.484590071122749e-4
+Armenia,1,30,3261,Acupuncturists,5.307667810763951e-4
+Armenia,2,30,5020,Telephone operators,5.307667810763951e-4
+Armenia,2,30,9122,"Bus drivers, transit and intercity",5.307667810763951e-4
+Armenia,1,30,9610,Cleaners of vehicles and equipment,5.307667810763951e-4
+Armenia,1,28,1541,Architectural and civil drafters,4.953823290046353e-4
+Armenia,2,28,5160,Tellers,4.953823290046353e-4
+Armenia,1,28,5165,Other financial clerks,4.953823290046353e-4
+Armenia,1,28,7010,"Computer, automated teller, and office machine repairers",4.953823290046353e-4
+Armenia,1,28,8310,"Pressers, textile, garment, and related materials",4.953823290046353e-4
+Armenia,2,27,1551,Electrical and electronic engineering technologists and technicians,4.7769010296875555e-4
+Armenia,1,27,6200,First-line supervisors of construction trades and extraction workers,4.7769010296875555e-4
+Armenia,2,26,3401,Emergency medical technicians,4.599978769328757e-4
+Armenia,2,25,0360,Natural sciences managers,4.4230565089699585e-4
+Armenia,1,25,1106,Computer network architects,4.4230565089699585e-4
+Armenia,1,25,1400,Computer hardware engineers,4.4230565089699585e-4
+Armenia,2,25,6600,"Helpers, construction trades",4.4230565089699585e-4
+Armenia,2,25,7810,"Butchers and other meat, poultry, and fish processing workers",4.4230565089699585e-4
+Armenia,2,24,0040,Advertising and promotions managers,4.24613424861116e-4
+Armenia,2,24,2330,Special education teachers,4.24613424861116e-4
+Armenia,1,24,3840,Fish and game wardens and parking enforcement officers,4.24613424861116e-4
+Armenia,2,24,5140,Payroll and timekeeping clerks,4.24613424861116e-4
+Armenia,1,24,8255,Printing press operators,4.24613424861116e-4
+Armenia,2,23,4521,Manicurists and pedicurists,4.069211988252362e-4
+Armenia,2,23,7130,Security and fire alarm systems installers,4.069211988252362e-4
+Armenia,1,22,3230,Speech-language pathologists,3.892289727893564e-4
+Armenia,2,21,1220,Operations research analysts,3.7153674675347655e-4
+Armenia,1,21,3945,Transportation security screeners,3.7153674675347655e-4
+Armenia,1,21,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",3.7153674675347655e-4
+Armenia,1,20,6050,Other agricultural workers,3.5384452071759667e-4
+Armenia,1,20,9365,Transportation service attendants,3.5384452071759667e-4
+Armenia,1,19,3220,Respiratory therapists,3.3615229468171684e-4
+Armenia,2,19,7320,Home appliance repairers,3.3615229468171684e-4
+Armenia,1,18,1920,Chemical technicians,3.18460068645837e-4
+Armenia,1,17,2740,Dancers and choreographers,3.007678426099572e-4
+Armenia,1,17,5810,Data entry keyers,3.007678426099572e-4
+Armenia,2,17,7750,Other assemblers and fabricators,3.007678426099572e-4
+Armenia,1,16,1310,"Surveyors, cartographers, and photogrammetrists",2.8307561657407737e-4
+Armenia,1,16,2632,Fashion designers,2.8307561657407737e-4
+Armenia,1,16,4940,Telemarketers,2.8307561657407737e-4
+Armenia,1,16,8225,Other metal workers and plastic workers,2.8307561657407737e-4
+Armenia,1,15,2810,"News analysts, reporters, and journalists",2.6538339053819754e-4
+Armenia,1,15,3605,Orderlies and psychiatric aides,2.6538339053819754e-4
+Armenia,1,15,3610,Occupational therapy assistants and aides,2.6538339053819754e-4
+Armenia,1,15,3648,Veterinary assistants and laboratory animal caretakers,2.6538339053819754e-4
+Armenia,1,15,8610,Stationary engineers and boiler operators,2.6538339053819754e-4
+Armenia,1,14,1005,Computer and information research scientists,2.4769116450231766e-4
+Armenia,1,14,1545,Other drafters,2.4769116450231766e-4
+Armenia,1,14,2400,"Archivists, curators, and museum technicians",2.4769116450231766e-4
+Armenia,1,14,2910,Photographers,2.4769116450231766e-4
+Armenia,1,14,3100,Surgeons,2.4769116450231766e-4
+Armenia,1,14,3110,Physician assistants,2.4769116450231766e-4
+Armenia,1,14,3550,Other healthcare practitioners and technical occupations,2.4769116450231766e-4
+Armenia,1,14,5220,"Court, municipal, and license clerks",2.4769116450231766e-4
+Armenia,1,13,0530,"Purchasing agents, except wholesale, retail, and farm products",2.2999893846643784e-4
+Armenia,1,13,2862,Court reporters and simultaneous captioners,2.2999893846643784e-4
+Armenia,1,13,9640,"Packers and packagers, hand",2.2999893846643784e-4
+Armenia,1,12,0500,"Agents and business managers of artists, performers, and athletes",2.12306712430558e-4
+Armenia,1,12,4420,"Ushers, lobby attendants, and ticket takers",2.12306712430558e-4
+Armenia,1,12,7020,Radio and telecommunications equipment installers and repairers,2.12306712430558e-4
+Armenia,1,11,1821,Clinical and counseling psychologists,1.946144863946782e-4
+Armenia,1,11,2011,"Child, family, and school social workers",1.946144863946782e-4
+Armenia,1,11,2631,Commercial and industrial designers,1.946144863946782e-4
+Armenia,1,11,3330,Nuclear medicine technologists and medical dosimetrists,1.946144863946782e-4
+Armenia,1,11,8920,"Molders, shapers, and casters, except metal and plastic",1.946144863946782e-4
+Armenia,1,10,0640,"Compensation, benefits, and job analysis specialists",1.7692226035879833e-4
+Armenia,1,10,2050,"Directors, religious activities and education",1.7692226035879833e-4
+Armenia,1,10,7420,Telecommunications line installers and repairers,1.7692226035879833e-4
+Armenia,1,10,7430,Precision instrument and equipment repairers,1.7692226035879833e-4
+Armenia,1,9,0150,Purchasing managers,1.592300343229185e-4
+Armenia,1,8,6515,Roofers,1.4153780828703868e-4
+Armenia,1,8,8640,"Chemical processing machine setters, operators, and tenders",1.4153780828703868e-4
+Armenia,1,7,4340,Animal trainers,1.2384558225115883e-4
+Armenia,1,7,4930,Sales engineers,1.2384558225115883e-4
+Armenia,1,7,5320,"Library assistants, clerical",1.2384558225115883e-4
+Armenia,1,6,0335,Entertainment and recreation managers,1.06153356215279e-4

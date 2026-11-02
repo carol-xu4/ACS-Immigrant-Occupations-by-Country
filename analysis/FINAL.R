@@ -4,7 +4,7 @@ pacman::p_load(matrixStats, tidyverse, ggthemes, readxl, data.table, gdata, ipum
 
 setwd("C:/Users/CarolXu/OneDrive - Cato Institute/Desktop/ACS Immigrant Occupations by Country")
 
-## Read cleaned ACS-
+## Read cleaned ACS
 acs = read_rds("data/output/acs.RDS")
 
 # IPUMS occupation labels
@@ -65,9 +65,7 @@ recode_visa_country = function(x) {
         x %in% c("No Nationality", "Other")                   ~ NA_character_,
         TRUE ~ x)}
 
-# total iv visas by country
-
-# check that visa countries match ACS countries -------------------------------------------------
+# check visa countries match ACS countries 
 acs_bpl = acs %>%
     filter(country != "United States") %>%
     distinct(country)
@@ -147,9 +145,8 @@ ggplot(iv_monthly, aes(month_date, issuances)) +
 
 ggsave("results/iv_monthly_totals.png", width = 15, height = 10)
 
-# 2026 visa projections based on 2024 --------------------------------------------------------------
-
-# compare each 2026 month so far to the same month in 2024
+## 2026 visa projections based on 2024 
+# compare jan/feb 2026 month to the same month in 2024
 visas_2024_by_month = iv_monthly %>%
     filter(year == 2024) %>%
     select(month, visas_2024 = issuances)
@@ -237,5 +234,85 @@ ggplot(plot_data, aes(month_date, issuances, linetype = series)) +
         plot.background = element_rect(fill = "white", color = NA),
         panel.background = element_rect(fill = "white", color = NA))
 
-ggsave("results/iv_monthly_projection.png", width = 15, height = 10) 
+ggsave("results/iv_monthly_projection.png", width = 15, height = 10)
 
+## ACS: immigrant occupations by country (2024 5-year sample) 
+
+occ_group_fn = function(occ) {
+    case_when(
+        occ >= 10   & occ <= 960  ~ "Management, business & financial",
+        occ >= 1005 & occ <= 1980 ~ "Computer, engineering & science",
+        occ >= 2001 & occ <= 2920 ~ "Education, legal, community service, arts & media",
+        occ >= 3000 & occ <= 3550 ~ "Healthcare practitioners & technical",  # doctors, nurses, technicians
+        occ >= 3601 & occ <= 3655 ~ "Healthcare support",                    # home health & personal care aides, nursing assistants
+        occ >= 3700 & occ <= 3960 ~ "Protective service",                   # police, correctional officers, firefighters,security guards, animal control
+        occ >= 4000 & occ <= 4160 ~ "Food preparation & serving",
+        occ >= 4200 & occ <= 4255 ~ "Building & grounds cleaning",           # janitors, maids, landscapers
+        occ >= 4330 & occ <= 4655 ~ "Personal care & service",              # childcare, hairdressers, manicurists
+        occ >= 4700 & occ <= 4965 ~ "Sales",
+        occ >= 5000 & occ <= 5940 ~ "Office & administrative support",
+        occ >= 6005 & occ <= 6130 ~ "Farming, fishing & forestry",
+        occ >= 6200 & occ <= 6950 ~ "Construction & extraction",        # construction, electricians, painters, highway maintenance, mining
+        occ >= 7000 & occ <= 7640 ~ "Installation, maintenance & repair", # mechanics, fire alarm systems installers, HVAC mechanics, locksmiths
+        occ >= 7800 & occ <= 7855 ~ "Food processing",                       # bakers, butchers, meat/poultry processing, batchmakers
+        occ >= 7700 & occ <= 8990 ~ "Production",                       # electronics assemblers, machinsts, metal furnace operators, laundry and dry-cleaning workers,
+        occ >= 9005 & occ <= 9760 ~ "Transportation & material moving",   # pilots, flight attendants, bus drivers, taxi drivers
+        occ >= 9800 & occ <= 9830 ~ "Military",
+        TRUE ~ NA_character_)}
+
+# country totals: immigrants and how many work
+country_totals = acs %>%
+    filter(country != "United States", citizen %in% c(2, 3)) %>%
+    group_by(country) %>%
+    summarise(n = n(),
+        pop = sum(perwt),
+        n_workers = sum(empstat == 1),
+        workers = sum(perwt[empstat == 1]),
+        .groups = "drop") %>%
+    mutate(workers_per_immig = workers / pop) %>%
+    arrange(desc(pop))
+
+print(country_totals, n = Inf)
+
+write_csv(country_totals, "results/birthplace_workers_immigrants.csv")
+
+# occupation groups by country (employed immigrants)
+country_occ_group = acs %>%
+    filter(country != "United States", citizen %in% c(2, 3), empstat == 1) %>%
+    mutate(occ_group = occ_group_fn(as.integer(zap_labels(occ)))) %>%
+    group_by(country, occ_group) %>%
+    summarise(occ_n = n(),
+        occ_workers = sum(perwt),
+        .groups = "drop_last") %>%
+    mutate(occ_share = occ_workers / sum(occ_workers)) %>%
+    arrange(desc(occ_workers), .by_group = TRUE) %>%
+    ungroup()
+
+write_csv(country_occ_group, "results/country_occ_groups.csv")
+
+# wide: one row per country, one column per occupation group (shares)
+# apply to IV visa counts to estimate missing workers by occupation
+country_occ_group_wide = country_occ_group %>%
+    select(country, occ_group, occ_share) %>%
+    pivot_wider(names_from = occ_group, values_from = occ_share, values_fill = 0) %>%
+    left_join(country_totals %>% select(country, n_workers, workers), by = "country") %>%
+    relocate(n_workers, workers, .after = country) %>%
+    arrange(desc(workers))
+
+write_csv(country_occ_group_wide, "results/country_occ_groups_wide.csv")
+
+# detailed occupation codes + IPUMS titles by country (employed immigrants)
+country_occ_detail = acs %>%
+    filter(country != "United States", citizen %in% c(2, 3), empstat == 1) %>%
+    mutate(occ = sprintf("%04d", as.integer(zap_labels(occ)))) %>%
+    group_by(country, occ) %>%
+    summarise(occ_n       = n(),
+        occ_workers = sum(perwt),
+        .groups = "drop_last") %>%
+    mutate(occ_share = occ_workers / sum(occ_workers)) %>%
+    arrange(desc(occ_workers), .by_group = TRUE) %>%
+    ungroup() %>%
+    left_join(occ_labels, by = "occ") %>%
+    relocate(occ_title, .after = occ)
+
+write_csv(country_occ_detail, "results/country_occ_detail.csv")

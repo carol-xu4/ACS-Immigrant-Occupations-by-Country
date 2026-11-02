@@ -1,146 +1,146 @@
-country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
-Gambia,586,21635,413,15152,3602,Personal care aides,24,1259,0.08309134107708553
-Gambia,586,21635,413,15152,3603,Nursing assistants,27,1114,0.07352164730728616
-Gambia,586,21635,413,15152,3255,Registered nurses,17,669,0.04415258711721225
-Gambia,586,21635,413,15152,5240,Customer service representatives,9,628,0.041446673706441395
-Gambia,586,21635,413,15152,7750,Other assemblers and fabricators,4,544,0.03590285110876452
-Gambia,586,21635,413,15152,3601,Home health aides,13,511,0.03372492080253432
-Gambia,586,21635,413,15152,9130,Driver/sales workers and truck drivers,12,478,0.03154699049630412
-Gambia,586,21635,413,15152,4720,Cashiers,11,393,0.025937170010559663
-Gambia,586,21635,413,15152,3930,Security guards and gaming surveillance officers,10,364,0.02402323125659979
-Gambia,586,21635,413,15152,8990,"Miscellaneous production workers, including equipment operators and tenders",6,259,0.017093453009503694
-Gambia,586,21635,413,15152,2014,"Social workers, all other",3,247,0.016301478352692713
-Gambia,586,21635,413,15152,1360,Civil engineers,4,229,0.01511351636747624
-Gambia,586,21635,413,15152,3090,Physicians,4,224,0.014783526927138331
-Gambia,586,21635,413,15152,6230,Carpenters,3,223,0.01471752903907075
-Gambia,586,21635,413,15152,0800,Accountants and auditors,5,220,0.014519535374868005
-Gambia,586,21635,413,15152,3500,Licensed practical and licensed vocational nurses,7,214,0.014123548046462514
-Gambia,586,21635,413,15152,9142,Taxi drivers,6,211,0.013925554382259767
-Gambia,586,21635,413,15152,4760,Retail salespersons,7,206,0.01359556494192186
-Gambia,586,21635,413,15152,5740,"Secretaries and administrative assistants, except legal, medical, and executive",7,184,0.012143611404435059
-Gambia,586,21635,413,15152,4020,Cooks,4,180,0.01187961985216473
-Gambia,586,21635,413,15152,9645,Stockers and order fillers,5,175,0.011549630411826821
-Gambia,586,21635,413,15152,4220,Janitors and building cleaners,5,174,0.01148363252375924
-Gambia,586,21635,413,15152,4230,Maids and housekeeping cleaners,5,174,0.01148363252375924
-Gambia,586,21635,413,15152,0120,Financial managers,4,164,0.01082365364308342
-Gambia,586,21635,413,15152,2205,Postsecondary teachers,3,163,0.01075765575501584
-Gambia,586,21635,413,15152,0440,Other managers,6,161,0.010625659978880675
-Gambia,586,21635,413,15152,9620,"Laborers and freight, stock, and material movers, hand",5,151,0.009965681098204858
-Gambia,586,21635,413,15152,3645,Medical assistants,5,149,0.009833685322069694
-Gambia,586,21635,413,15152,4510,"Hairdressers, hairstylists, and cosmetologists",4,149,0.009833685322069694
-Gambia,586,21635,413,15152,4130,Dining room and cafeteria attendants and bartender helpers,4,138,0.009107708553326294
-Gambia,586,21635,413,15152,3421,Pharmacy technicians,2,137,0.009041710665258712
-Gambia,586,21635,413,15152,4160,"Food preparation and serving related workers, all other",1,120,0.00791974656810982
-Gambia,586,21635,413,15152,4700,First-line supervisors of retail sales workers,5,116,0.007655755015839493
-Gambia,586,21635,413,15152,1050,Computer support specialists,5,115,0.007589757127771911
-Gambia,586,21635,413,15152,0705,Project management specialists,3,112,0.007391763463569166
-Gambia,586,21635,413,15152,3655,Other healthcare support workers,2,111,0.007325765575501584
-Gambia,586,21635,413,15152,0150,Purchasing managers,2,109,0.00719376979936642
-Gambia,586,21635,413,15152,5610,"Shipping, receiving, and inventory clerks",3,101,0.0066657866948257654
-Gambia,586,21635,413,15152,2012,Healthcare social workers,3,97,0.006401795142555438
-Gambia,586,21635,413,15152,7340,"Maintenance and repair workers, general",2,91,0.006005807814149947
-Gambia,586,21635,413,15152,0530,"Purchasing agents, except wholesale, retail, and farm products",1,86,0.005675818373812038
-Gambia,586,21635,413,15152,0020,General and operations managers,3,83,0.005477824709609292
-Gambia,586,21635,413,15152,2360,Other teachers and instructors,1,81,0.005345828933474129
-Gambia,586,21635,413,15152,4030,Food preparation workers,5,81,0.005345828933474129
-Gambia,586,21635,413,15152,0710,Management analysts,4,79,0.005213833157338965
-Gambia,586,21635,413,15152,2025,Other community and social service specialists,3,79,0.005213833157338965
-Gambia,586,21635,413,15152,4140,Dishwashers,2,79,0.005213833157338965
-Gambia,586,21635,413,15152,9600,Industrial truck and tractor operators,2,78,0.005147835269271384
-Gambia,586,21635,413,15152,0650,Training and development specialists,1,76,0.00501583949313622
-Gambia,586,21635,413,15152,1650,Other life scientists,2,75,0.0049498416050686375
-Gambia,586,21635,413,15152,2545,Teaching assistants,2,75,0.0049498416050686375
-Gambia,586,21635,413,15152,5165,Other financial clerks,2,74,0.004883843717001056
-Gambia,586,21635,413,15152,0850,Personal financial advisors,3,71,0.00468585005279831
-Gambia,586,21635,413,15152,3300,Clinical laboratory technologists and technicians,2,71,0.00468585005279831
-Gambia,586,21635,413,15152,1021,Software developers,3,70,0.004619852164730729
-Gambia,586,21635,413,15152,3258,"Nurse practitioners, and nurse midwives",4,70,0.004619852164730729
-Gambia,586,21635,413,15152,8740,"Inspectors, testers, sorters, samplers, and weighers",2,65,0.004289862724392819
-Gambia,586,21635,413,15152,9005,Supervisors of transportation and material moving workers,2,65,0.004289862724392819
-Gambia,586,21635,413,15152,1108,"Computer occupations, all other",3,63,0.004157866948257656
-Gambia,586,21635,413,15152,2722,Coaches and scouts,3,63,0.004157866948257656
-Gambia,586,21635,413,15152,6010,Agricultural inspectors,1,63,0.004157866948257656
-Gambia,586,21635,413,15152,0051,Marketing managers,1,62,0.004091869060190074
-Gambia,586,21635,413,15152,1430,"Industrial engineers, including health and safety",2,60,0.00395987328405491
-Gambia,586,21635,413,15152,0230,Education and childcare administrators,2,59,0.003893875395987328
-Gambia,586,21635,413,15152,1460,Mechanical engineers,1,59,0.003893875395987328
-Gambia,586,21635,413,15152,2100,"Lawyers, and judges, magistrates, and other judicial workers",2,59,0.003893875395987328
-Gambia,586,21635,413,15152,0630,Human resources workers,1,57,0.003761879619852165
-Gambia,586,21635,413,15152,1410,Electrical and electronics engineers,1,57,0.003761879619852165
-Gambia,586,21635,413,15152,4500,Barbers,1,55,0.003629883843717001
-Gambia,586,21635,413,15152,5120,"Bookkeeping, accounting, and auditing clerks",2,55,0.003629883843717001
-Gambia,586,21635,413,15152,6410,Painters and paperhangers,1,53,0.0034978880675818375
-Gambia,586,21635,413,15152,9122,"Bus drivers, transit and intercity",1,53,0.0034978880675818375
-Gambia,586,21635,413,15152,0310,Food service managers,3,52,0.0034318901795142554
-Gambia,586,21635,413,15152,5220,"Court, municipal, and license clerks",1,52,0.0034318901795142554
-Gambia,586,21635,413,15152,2006,"Counselors, all other",2,48,0.0031678986272439284
-Gambia,586,21635,413,15152,5522,"Dispatchers, except police, fire, and ambulance",1,48,0.0031678986272439284
-Gambia,586,21635,413,15152,0410,"Property, real estate, and community association managers",2,47,0.0031019007391763463
-Gambia,586,21635,413,15152,7200,Automotive service technicians and mechanics,2,47,0.0031019007391763463
-Gambia,586,21635,413,15152,4251,Landscaping and groundskeeping workers,1,45,0.0029699049630411826
-Gambia,586,21635,413,15152,4710,First-line supervisors of non-retail sales workers,2,44,0.002903907074973601
-Gambia,586,21635,413,15152,5510,Couriers and messengers,2,43,0.002837909186906019
-Gambia,586,21635,413,15152,0340,Lodging managers,1,42,0.0027719112988384372
-Gambia,586,21635,413,15152,1240,Other mathematical science occupations,1,41,0.002705913410770855
-Gambia,586,21635,413,15152,4600,Childcare workers,1,41,0.002705913410770855
-Gambia,586,21635,413,15152,5940,Other office and administrative support workers,1,41,0.002705913410770855
-Gambia,586,21635,413,15152,2003,Marriage and family therapists,1,40,0.0026399155227032735
-Gambia,586,21635,413,15152,6260,Construction laborers,1,40,0.0026399155227032735
-Gambia,586,21635,413,15152,0350,Medical and health services managers,3,38,0.00250791974656811
-Gambia,586,21635,413,15152,9640,"Packers and packagers, hand",1,38,0.00250791974656811
-Gambia,586,21635,413,15152,4810,Insurance sales agents,2,37,0.002441921858500528
-Gambia,586,21635,413,15152,0540,"Claims adjusters, appraisers, examiners, and investigators",1,36,0.002375923970432946
-Gambia,586,21635,413,15152,1022,Software quality assurance analysts and testers,1,33,0.0021779303062302007
-Gambia,586,21635,413,15152,8140,"Welding, soldering, and brazing workers",2,33,0.0021779303062302007
-Gambia,586,21635,413,15152,5250,"Eligibility interviewers, government programs",1,31,0.002045934530095037
-Gambia,586,21635,413,15152,7800,Bakers,2,31,0.002045934530095037
-Gambia,586,21635,413,15152,0420,Social and community service managers,2,30,0.001979936642027455
-Gambia,586,21635,413,15152,0960,Other financial specialists,1,30,0.001979936642027455
-Gambia,586,21635,413,15152,3401,Emergency medical technicians,1,30,0.001979936642027455
-Gambia,586,21635,413,15152,7700,First-line supervisors of production and operating workers,2,30,0.001979936642027455
-Gambia,586,21635,413,15152,1720,Chemists and materials scientists,1,29,0.0019139387539598733
-Gambia,586,21635,413,15152,4000,Chefs and head cooks,1,29,0.0019139387539598733
-Gambia,586,21635,413,15152,1970,"Other life, physical, and social science technicians",1,28,0.0018479408658922914
-Gambia,586,21635,413,15152,3423,Surgical technologists,1,28,0.0018479408658922914
-Gambia,586,21635,413,15152,4200,First-line supervisors of housekeeping and janitorial workers,1,28,0.0018479408658922914
-Gambia,586,21635,413,15152,8350,"Tailors, dressmakers, and sewers",1,28,0.0018479408658922914
-Gambia,586,21635,413,15152,2635,Interior designers,1,27,0.0017819429778247096
-Gambia,586,21635,413,15152,4010,First-line supervisors of food preparation and serving workers,2,27,0.0017819429778247096
-Gambia,586,21635,413,15152,6200,First-line supervisors of construction trades and extraction workers,1,27,0.0017819429778247096
-Gambia,586,21635,413,15152,5860,"Office clerks, general",2,24,0.0015839493136219642
-Gambia,586,21635,413,15152,1105,Network and computer systems administrators,1,22,0.0014519535374868005
-Gambia,586,21635,413,15152,3256,Nurse anesthetists,1,22,0.0014519535374868005
-Gambia,586,21635,413,15152,4110,Waiters and waitresses,1,22,0.0014519535374868005
-Gambia,586,21635,413,15152,0845,Financial and investment analysts,1,21,0.0013859556494192186
-Gambia,586,21635,413,15152,2555,Other educational instruction and library workers,1,21,0.0013859556494192186
-Gambia,586,21635,413,15152,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
-						and plastic",1,21,0.0013859556494192186
-Gambia,586,21635,413,15152,4055,Fast food and counter workers,1,20,0.0013199577613516368
-Gambia,586,21635,413,15152,4850,"Sales representatives, wholesale and manufacturing",2,20,0.0013199577613516368
-Gambia,586,21635,413,15152,0010,Chief executives and legislators,1,19,0.001253959873284055
-Gambia,586,21635,413,15152,0300,Architectural and engineering managers,1,19,0.001253959873284055
-Gambia,586,21635,413,15152,2320,Secondary school teachers,1,19,0.001253959873284055
-Gambia,586,21635,413,15152,4920,Real estate brokers and sales agents,1,18,0.001187961985216473
-Gambia,586,21635,413,15152,9121,"Bus drivers, school",1,18,0.001187961985216473
-Gambia,586,21635,413,15152,0220,Construction managers,1,17,0.0011219640971488912
-Gambia,586,21635,413,15152,3110,Physician assistants,1,17,0.0011219640971488912
-Gambia,586,21635,413,15152,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,17,0.0011219640971488912
-Gambia,586,21635,413,15152,4640,Residential advisors,2,17,0.0011219640971488912
-Gambia,586,21635,413,15152,5300,"Hotel, motel, and resort desk clerks",1,17,0.0011219640971488912
-Gambia,586,21635,413,15152,5400,Receptionists and information clerks,1,17,0.0011219640971488912
-Gambia,586,21635,413,15152,0750,"Business operations specialists, all other",1,16,0.0010559662090813093
-Gambia,586,21635,413,15152,5260,File clerks,1,16,0.0010559662090813093
-Gambia,586,21635,413,15152,7315,"Heating, air conditioning, and refrigeration mechanics and installers",1,16,0.0010559662090813093
-Gambia,586,21635,413,15152,0205,"Farmers, ranchers, and other agricultural managers",1,15,9.899683210137275e-4
-Gambia,586,21635,413,15152,0700,Logisticians,1,14,9.239704329461457e-4
-Gambia,586,21635,413,15152,2016,Social and human service assistants,1,14,9.239704329461457e-4
-Gambia,586,21635,413,15152,5350,Correspondence clerks and order clerks,1,14,9.239704329461457e-4
-Gambia,586,21635,413,15152,9830,"Military, rank not specified",1,14,9.239704329461457e-4
-Gambia,586,21635,413,15152,1305,"Architects, except landscape and naval",1,13,8.579725448785638e-4
-Gambia,586,21635,413,15152,2005,Rehabilitation counselors,1,13,8.579725448785638e-4
-Gambia,586,21635,413,15152,3050,Pharmacists,1,12,7.919746568109821e-4
-Gambia,586,21635,413,15152,0520,"Wholesale and retail buyers, except farm products",1,11,7.259767687434002e-4
-Gambia,586,21635,413,15152,7855,"Food processing workers, all other",1,11,7.259767687434002e-4
-Gambia,586,21635,413,15152,2850,Writers and authors,1,10,6.599788806758184e-4
-Gambia,586,21635,413,15152,3324,Magnetic resonance imaging technologists,1,8,5.279831045406547e-4
-Gambia,586,21635,413,15152,3545,Miscellaneous health technologists and technicians,1,8,5.279831045406547e-4
+country,n_workers,workers,occ,occ_title,occ_share
+Gambia,24,1259,3602,Personal care aides,0.08309134107708553
+Gambia,27,1114,3603,Nursing assistants,0.07352164730728616
+Gambia,17,669,3255,Registered nurses,0.04415258711721225
+Gambia,9,628,5240,Customer service representatives,0.041446673706441395
+Gambia,4,544,7750,Other assemblers and fabricators,0.03590285110876452
+Gambia,13,511,3601,Home health aides,0.03372492080253432
+Gambia,12,478,9130,Driver/sales workers and truck drivers,0.03154699049630412
+Gambia,11,393,4720,Cashiers,0.025937170010559663
+Gambia,10,364,3930,Security guards and gaming surveillance officers,0.02402323125659979
+Gambia,6,259,8990,"Miscellaneous production workers, including equipment operators and tenders",0.017093453009503694
+Gambia,3,247,2014,"Social workers, all other",0.016301478352692713
+Gambia,4,229,1360,Civil engineers,0.01511351636747624
+Gambia,4,224,3090,Physicians,0.014783526927138331
+Gambia,3,223,6230,Carpenters,0.01471752903907075
+Gambia,5,220,0800,Accountants and auditors,0.014519535374868005
+Gambia,7,214,3500,Licensed practical and licensed vocational nurses,0.014123548046462514
+Gambia,6,211,9142,Taxi drivers,0.013925554382259767
+Gambia,7,206,4760,Retail salespersons,0.01359556494192186
+Gambia,7,184,5740,"Secretaries and administrative assistants, except legal, medical, and executive",0.012143611404435059
+Gambia,4,180,4020,Cooks,0.01187961985216473
+Gambia,5,175,9645,Stockers and order fillers,0.011549630411826821
+Gambia,5,174,4220,Janitors and building cleaners,0.01148363252375924
+Gambia,5,174,4230,Maids and housekeeping cleaners,0.01148363252375924
+Gambia,4,164,0120,Financial managers,0.01082365364308342
+Gambia,3,163,2205,Postsecondary teachers,0.01075765575501584
+Gambia,6,161,0440,Other managers,0.010625659978880675
+Gambia,5,151,9620,"Laborers and freight, stock, and material movers, hand",0.009965681098204858
+Gambia,5,149,3645,Medical assistants,0.009833685322069694
+Gambia,4,149,4510,"Hairdressers, hairstylists, and cosmetologists",0.009833685322069694
+Gambia,4,138,4130,Dining room and cafeteria attendants and bartender helpers,0.009107708553326294
+Gambia,2,137,3421,Pharmacy technicians,0.009041710665258712
+Gambia,1,120,4160,"Food preparation and serving related workers, all other",0.00791974656810982
+Gambia,5,116,4700,First-line supervisors of retail sales workers,0.007655755015839493
+Gambia,5,115,1050,Computer support specialists,0.007589757127771911
+Gambia,3,112,0705,Project management specialists,0.007391763463569166
+Gambia,2,111,3655,Other healthcare support workers,0.007325765575501584
+Gambia,2,109,0150,Purchasing managers,0.00719376979936642
+Gambia,3,101,5610,"Shipping, receiving, and inventory clerks",0.0066657866948257654
+Gambia,3,97,2012,Healthcare social workers,0.006401795142555438
+Gambia,2,91,7340,"Maintenance and repair workers, general",0.006005807814149947
+Gambia,1,86,0530,"Purchasing agents, except wholesale, retail, and farm products",0.005675818373812038
+Gambia,3,83,0020,General and operations managers,0.005477824709609292
+Gambia,1,81,2360,Other teachers and instructors,0.005345828933474129
+Gambia,5,81,4030,Food preparation workers,0.005345828933474129
+Gambia,4,79,0710,Management analysts,0.005213833157338965
+Gambia,3,79,2025,Other community and social service specialists,0.005213833157338965
+Gambia,2,79,4140,Dishwashers,0.005213833157338965
+Gambia,2,78,9600,Industrial truck and tractor operators,0.005147835269271384
+Gambia,1,76,0650,Training and development specialists,0.00501583949313622
+Gambia,2,75,1650,Other life scientists,0.0049498416050686375
+Gambia,2,75,2545,Teaching assistants,0.0049498416050686375
+Gambia,2,74,5165,Other financial clerks,0.004883843717001056
+Gambia,3,71,0850,Personal financial advisors,0.00468585005279831
+Gambia,2,71,3300,Clinical laboratory technologists and technicians,0.00468585005279831
+Gambia,3,70,1021,Software developers,0.004619852164730729
+Gambia,4,70,3258,"Nurse practitioners, and nurse midwives",0.004619852164730729
+Gambia,2,65,8740,"Inspectors, testers, sorters, samplers, and weighers",0.004289862724392819
+Gambia,2,65,9005,Supervisors of transportation and material moving workers,0.004289862724392819
+Gambia,3,63,1108,"Computer occupations, all other",0.004157866948257656
+Gambia,3,63,2722,Coaches and scouts,0.004157866948257656
+Gambia,1,63,6010,Agricultural inspectors,0.004157866948257656
+Gambia,1,62,0051,Marketing managers,0.004091869060190074
+Gambia,2,60,1430,"Industrial engineers, including health and safety",0.00395987328405491
+Gambia,2,59,0230,Education and childcare administrators,0.003893875395987328
+Gambia,1,59,1460,Mechanical engineers,0.003893875395987328
+Gambia,2,59,2100,"Lawyers, and judges, magistrates, and other judicial workers",0.003893875395987328
+Gambia,1,57,0630,Human resources workers,0.003761879619852165
+Gambia,1,57,1410,Electrical and electronics engineers,0.003761879619852165
+Gambia,1,55,4500,Barbers,0.003629883843717001
+Gambia,2,55,5120,"Bookkeeping, accounting, and auditing clerks",0.003629883843717001
+Gambia,1,53,6410,Painters and paperhangers,0.0034978880675818375
+Gambia,1,53,9122,"Bus drivers, transit and intercity",0.0034978880675818375
+Gambia,3,52,0310,Food service managers,0.0034318901795142554
+Gambia,1,52,5220,"Court, municipal, and license clerks",0.0034318901795142554
+Gambia,2,48,2006,"Counselors, all other",0.0031678986272439284
+Gambia,1,48,5522,"Dispatchers, except police, fire, and ambulance",0.0031678986272439284
+Gambia,2,47,0410,"Property, real estate, and community association managers",0.0031019007391763463
+Gambia,2,47,7200,Automotive service technicians and mechanics,0.0031019007391763463
+Gambia,1,45,4251,Landscaping and groundskeeping workers,0.0029699049630411826
+Gambia,2,44,4710,First-line supervisors of non-retail sales workers,0.002903907074973601
+Gambia,2,43,5510,Couriers and messengers,0.002837909186906019
+Gambia,1,42,0340,Lodging managers,0.0027719112988384372
+Gambia,1,41,1240,Other mathematical science occupations,0.002705913410770855
+Gambia,1,41,4600,Childcare workers,0.002705913410770855
+Gambia,1,41,5940,Other office and administrative support workers,0.002705913410770855
+Gambia,1,40,2003,Marriage and family therapists,0.0026399155227032735
+Gambia,1,40,6260,Construction laborers,0.0026399155227032735
+Gambia,3,38,0350,Medical and health services managers,0.00250791974656811
+Gambia,1,38,9640,"Packers and packagers, hand",0.00250791974656811
+Gambia,2,37,4810,Insurance sales agents,0.002441921858500528
+Gambia,1,36,0540,"Claims adjusters, appraisers, examiners, and investigators",0.002375923970432946
+Gambia,1,33,1022,Software quality assurance analysts and testers,0.0021779303062302007
+Gambia,2,33,8140,"Welding, soldering, and brazing workers",0.0021779303062302007
+Gambia,1,31,5250,"Eligibility interviewers, government programs",0.002045934530095037
+Gambia,2,31,7800,Bakers,0.002045934530095037
+Gambia,2,30,0420,Social and community service managers,0.001979936642027455
+Gambia,1,30,0960,Other financial specialists,0.001979936642027455
+Gambia,1,30,3401,Emergency medical technicians,0.001979936642027455
+Gambia,2,30,7700,First-line supervisors of production and operating workers,0.001979936642027455
+Gambia,1,29,1720,Chemists and materials scientists,0.0019139387539598733
+Gambia,1,29,4000,Chefs and head cooks,0.0019139387539598733
+Gambia,1,28,1970,"Other life, physical, and social science technicians",0.0018479408658922914
+Gambia,1,28,3423,Surgical technologists,0.0018479408658922914
+Gambia,1,28,4200,First-line supervisors of housekeeping and janitorial workers,0.0018479408658922914
+Gambia,1,28,8350,"Tailors, dressmakers, and sewers",0.0018479408658922914
+Gambia,1,27,2635,Interior designers,0.0017819429778247096
+Gambia,2,27,4010,First-line supervisors of food preparation and serving workers,0.0017819429778247096
+Gambia,1,27,6200,First-line supervisors of construction trades and extraction workers,0.0017819429778247096
+Gambia,2,24,5860,"Office clerks, general",0.0015839493136219642
+Gambia,1,22,1105,Network and computer systems administrators,0.0014519535374868005
+Gambia,1,22,3256,Nurse anesthetists,0.0014519535374868005
+Gambia,1,22,4110,Waiters and waitresses,0.0014519535374868005
+Gambia,1,21,0845,Financial and investment analysts,0.0013859556494192186
+Gambia,1,21,2555,Other educational instruction and library workers,0.0013859556494192186
+Gambia,1,21,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
+						and plastic",0.0013859556494192186
+Gambia,1,20,4055,Fast food and counter workers,0.0013199577613516368
+Gambia,2,20,4850,"Sales representatives, wholesale and manufacturing",0.0013199577613516368
+Gambia,1,19,0010,Chief executives and legislators,0.001253959873284055
+Gambia,1,19,0300,Architectural and engineering managers,0.001253959873284055
+Gambia,1,19,2320,Secondary school teachers,0.001253959873284055
+Gambia,1,18,4920,Real estate brokers and sales agents,0.001187961985216473
+Gambia,1,18,9121,"Bus drivers, school",0.001187961985216473
+Gambia,1,17,0220,Construction managers,0.0011219640971488912
+Gambia,1,17,3110,Physician assistants,0.0011219640971488912
+Gambia,1,17,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",0.0011219640971488912
+Gambia,2,17,4640,Residential advisors,0.0011219640971488912
+Gambia,1,17,5300,"Hotel, motel, and resort desk clerks",0.0011219640971488912
+Gambia,1,17,5400,Receptionists and information clerks,0.0011219640971488912
+Gambia,1,16,0750,"Business operations specialists, all other",0.0010559662090813093
+Gambia,1,16,5260,File clerks,0.0010559662090813093
+Gambia,1,16,7315,"Heating, air conditioning, and refrigeration mechanics and installers",0.0010559662090813093
+Gambia,1,15,0205,"Farmers, ranchers, and other agricultural managers",9.899683210137275e-4
+Gambia,1,14,0700,Logisticians,9.239704329461457e-4
+Gambia,1,14,2016,Social and human service assistants,9.239704329461457e-4
+Gambia,1,14,5350,Correspondence clerks and order clerks,9.239704329461457e-4
+Gambia,1,14,9830,"Military, rank not specified",9.239704329461457e-4
+Gambia,1,13,1305,"Architects, except landscape and naval",8.579725448785638e-4
+Gambia,1,13,2005,Rehabilitation counselors,8.579725448785638e-4
+Gambia,1,12,3050,Pharmacists,7.919746568109821e-4
+Gambia,1,11,0520,"Wholesale and retail buyers, except farm products",7.259767687434002e-4
+Gambia,1,11,7855,"Food processing workers, all other",7.259767687434002e-4
+Gambia,1,10,2850,Writers and authors,6.599788806758184e-4
+Gambia,1,8,3324,Magnetic resonance imaging technologists,5.279831045406547e-4
+Gambia,1,8,3545,Miscellaneous health technologists and technicians,5.279831045406547e-4

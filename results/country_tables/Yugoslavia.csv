@@ -1,203 +1,203 @@
-country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
-Yugoslavia,1340,30711,588,15239,9130,Driver/sales workers and truck drivers,18,698,0.045803530415381585
-Yugoslavia,1340,30711,588,15239,4220,Janitors and building cleaners,12,555,0.03641971257956559
-Yugoslavia,1340,30711,588,15239,4760,Retail salespersons,18,548,0.03596036485333683
-Yugoslavia,1340,30711,588,15239,0440,Other managers,23,533,0.034976048297132356
-Yugoslavia,1340,30711,588,15239,4700,First-line supervisors of retail sales workers,14,500,0.03281055187348251
-Yugoslavia,1340,30711,588,15239,4230,Maids and housekeeping cleaners,8,374,0.02454229280136492
-Yugoslavia,1340,30711,588,15239,2205,Postsecondary teachers,17,315,0.02067064768029398
-Yugoslavia,1340,30711,588,15239,5740,"Secretaries and administrative assistants, except legal, medical, and executive",7,302,0.019817573331583436
-Yugoslavia,1340,30711,588,15239,2320,Secondary school teachers,6,251,0.016470897040488222
-Yugoslavia,1340,30711,588,15239,0800,Accountants and auditors,9,250,0.016405275936741254
-Yugoslavia,1340,30711,588,15239,2100,"Lawyers, and judges, magistrates, and other judicial workers",5,227,0.01489599055056106
-Yugoslavia,1340,30711,588,15239,9645,Stockers and order fillers,3,222,0.014567885031826235
-Yugoslavia,1340,30711,588,15239,0630,Human resources workers,5,221,0.014502263928079271
-Yugoslavia,1340,30711,588,15239,6230,Carpenters,7,207,0.01358356847562176
-Yugoslavia,1340,30711,588,15239,4920,Real estate brokers and sales agents,9,193,0.01266487302316425
-Yugoslavia,1340,30711,588,15239,9142,Taxi drivers,2,184,0.012074283089441565
-Yugoslavia,1340,30711,588,15239,5160,Tellers,1,182,0.011943040881947635
-Yugoslavia,1340,30711,588,15239,4110,Waiters and waitresses,7,178,0.011680556466959775
-Yugoslavia,1340,30711,588,15239,6410,Painters and paperhangers,5,175,0.011483693155718878
-Yugoslavia,1340,30711,588,15239,2310,Elementary and middle school teachers,6,173,0.01135245094822495
-Yugoslavia,1340,30711,588,15239,0010,Chief executives and legislators,9,168,0.011024345429490124
-Yugoslavia,1340,30711,588,15239,3930,Security guards and gaming surveillance officers,5,167,0.01095872432574316
-Yugoslavia,1340,30711,588,15239,5400,Receptionists and information clerks,4,161,0.010564997703261369
-Yugoslavia,1340,30711,588,15239,7200,Automotive service technicians and mechanics,3,157,0.010302513288273508
-Yugoslavia,1340,30711,588,15239,8990,"Miscellaneous production workers, including equipment operators and tenders",8,151,0.009908786665791718
-Yugoslavia,1340,30711,588,15239,3602,Personal care aides,5,141,0.009252575628322069
-Yugoslavia,1340,30711,588,15239,0020,General and operations managers,5,135,0.008858849005840278
-Yugoslavia,1340,30711,588,15239,1530,Other engineers,7,134,0.008793227902093314
-Yugoslavia,1340,30711,588,15239,6355,Electricians,8,133,0.008727606798346348
-Yugoslavia,1340,30711,588,15239,8740,"Inspectors, testers, sorters, samplers, and weighers",4,133,0.008727606798346348
-Yugoslavia,1340,30711,588,15239,1108,"Computer occupations, all other",4,131,0.008596364590852418
-Yugoslavia,1340,30711,588,15239,3603,Nursing assistants,4,131,0.008596364590852418
-Yugoslavia,1340,30711,588,15239,4020,Cooks,5,131,0.008596364590852418
-Yugoslavia,1340,30711,588,15239,1410,Electrical and electronics engineers,3,130,0.008530743487105454
-Yugoslavia,1340,30711,588,15239,3160,Physical therapists,2,129,0.008465122383358488
-Yugoslavia,1340,30711,588,15239,3090,Physicians,7,125,0.008202637968370627
-Yugoslavia,1340,30711,588,15239,9620,"Laborers and freight, stock, and material movers, hand",6,125,0.008202637968370627
-Yugoslavia,1340,30711,588,15239,3255,Registered nurses,7,124,0.008137016864623663
-Yugoslavia,1340,30711,588,15239,5240,Customer service representatives,5,124,0.008137016864623663
-Yugoslavia,1340,30711,588,15239,3960,Other protective service workers,1,117,0.007677669138394908
-Yugoslavia,1340,30711,588,15239,0735,Market research analysts and marketing specialists,3,116,0.007612048034647943
-Yugoslavia,1340,30711,588,15239,4720,Cashiers,8,112,0.007349563619660083
-Yugoslavia,1340,30711,588,15239,5860,"Office clerks, general",5,107,0.007021458100925257
-Yugoslavia,1340,30711,588,15239,0110,Computer and information systems managers,5,106,0.006955836997178292
-Yugoslavia,1340,30711,588,15239,1760,"Physical scientists, all other",5,105,0.006890215893431328
-Yugoslavia,1340,30711,588,15239,0710,Management analysts,6,104,0.006824594789684363
-Yugoslavia,1340,30711,588,15239,1021,Software developers,6,102,0.006693352582190433
-Yugoslavia,1340,30711,588,15239,0120,Financial managers,6,97,0.006365247063455607
-Yugoslavia,1340,30711,588,15239,6260,Construction laborers,4,97,0.006365247063455607
-Yugoslavia,1340,30711,588,15239,9350,Parking attendants,1,97,0.006365247063455607
-Yugoslavia,1340,30711,588,15239,0410,"Property, real estate, and community association managers",3,95,0.006234004855961677
-Yugoslavia,1340,30711,588,15239,0725,"Meeting, convention, and event planners",2,90,0.005905899337226852
-Yugoslavia,1340,30711,588,15239,9122,"Bus drivers, transit and intercity",5,89,0.005840278233479887
-Yugoslavia,1340,30711,588,15239,9600,Industrial truck and tractor operators,1,89,0.005840278233479887
-Yugoslavia,1340,30711,588,15239,0530,"Purchasing agents, except wholesale, retail, and farm products",3,87,0.005709036025985957
-Yugoslavia,1340,30711,588,15239,2910,Photographers,2,86,0.005643414922238992
-Yugoslavia,1340,30711,588,15239,4200,First-line supervisors of housekeeping and janitorial workers,2,86,0.005643414922238992
-Yugoslavia,1340,30711,588,15239,4850,"Sales representatives, wholesale and manufacturing",3,86,0.005643414922238992
-Yugoslavia,1340,30711,588,15239,1305,"Architects, except landscape and naval",2,82,0.005380930507251132
-Yugoslavia,1340,30711,588,15239,1200,Actuaries,3,81,0.0053153094035041665
-Yugoslavia,1340,30711,588,15239,1400,Computer hardware engineers,2,81,0.0053153094035041665
-Yugoslavia,1340,30711,588,15239,5000,First-line supervisors of office and administrative support workers,5,80,0.005249688299757202
-Yugoslavia,1340,30711,588,15239,7340,"Maintenance and repair workers, general",4,79,0.005184067196010237
-Yugoslavia,1340,30711,588,15239,0220,Construction managers,3,77,0.005052824988516307
-Yugoslavia,1340,30711,588,15239,2710,Producers and directors,1,76,0.004987203884769342
-Yugoslavia,1340,30711,588,15239,2920,"Television, video, and film camera operators and editors",1,71,0.0046590983660345165
-Yugoslavia,1340,30711,588,15239,6515,Roofers,2,69,0.004527856158540586
-Yugoslavia,1340,30711,588,15239,2752,Musicians and singers,2,66,0.004330992847299692
-Yugoslavia,1340,30711,588,15239,5120,"Bookkeeping, accounting, and auditing clerks",6,66,0.004330992847299692
-Yugoslavia,1340,30711,588,15239,0300,Architectural and engineering managers,3,65,0.004265371743552727
-Yugoslavia,1340,30711,588,15239,1555,"Other engineering technologists and technicians, except drafters",3,64,0.004199750639805762
-Yugoslavia,1340,30711,588,15239,8255,Printing press operators,2,63,0.004134129536058797
-Yugoslavia,1340,30711,588,15239,4030,Food preparation workers,2,60,0.003937266224817901
-Yugoslavia,1340,30711,588,15239,0310,Food service managers,2,59,0.003871645121070936
-Yugoslavia,1340,30711,588,15239,2360,Other teachers and instructors,4,59,0.003871645121070936
-Yugoslavia,1340,30711,588,15239,7700,First-line supervisors of production and operating workers,3,59,0.003871645121070936
-Yugoslavia,1340,30711,588,15239,5510,Couriers and messengers,3,58,0.0038060240173239715
-Yugoslavia,1340,30711,588,15239,2300,Preschool and kindergarten teachers,4,56,0.0036747818098300414
-Yugoslavia,1340,30711,588,15239,4400,Gambling services workers,1,55,0.0036091607060830763
-Yugoslavia,1340,30711,588,15239,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,55,0.0036091607060830763
-Yugoslavia,1340,30711,588,15239,1006,Computer systems analysts,3,54,0.003543539602336111
-Yugoslavia,1340,30711,588,15239,1050,Computer support specialists,3,54,0.003543539602336111
-Yugoslavia,1340,30711,588,15239,2545,Teaching assistants,3,54,0.003543539602336111
-Yugoslavia,1340,30711,588,15239,3870,Police officers,3,53,0.003477918498589146
-Yugoslavia,1340,30711,588,15239,3640,Dental assistants,2,52,0.0034122973948421814
-Yugoslavia,1340,30711,588,15239,2634,Graphic designers,3,51,0.0033466762910952163
-Yugoslavia,1340,30711,588,15239,0140,Industrial production managers,2,50,0.0032810551873482512
-Yugoslavia,1340,30711,588,15239,5850,"Mail clerks and mail machine operators, except postal service",1,50,0.0032810551873482512
-Yugoslavia,1340,30711,588,15239,8320,Sewing machine operators,1,50,0.0032810551873482512
-Yugoslavia,1340,30711,588,15239,0705,Project management specialists,4,49,0.003215434083601286
-Yugoslavia,1340,30711,588,15239,5300,"Hotel, motel, and resort desk clerks",1,49,0.003215434083601286
-Yugoslavia,1340,30711,588,15239,0052,Sales managers,3,48,0.003149812979854321
-Yugoslavia,1340,30711,588,15239,3421,Pharmacy technicians,2,48,0.003149812979854321
-Yugoslavia,1340,30711,588,15239,0750,"Business operations specialists, all other",2,46,0.0030185707723603913
-Yugoslavia,1340,30711,588,15239,1031,Web developers,1,46,0.0030185707723603913
-Yugoslavia,1340,30711,588,15239,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",3,46,0.0030185707723603913
-Yugoslavia,1340,30711,588,15239,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
-						and plastic",1,46,0.0030185707723603913
-Yugoslavia,1340,30711,588,15239,1610,Biological scientists,2,45,0.002952949668613426
-Yugoslavia,1340,30711,588,15239,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,45,0.002952949668613426
-Yugoslavia,1340,30711,588,15239,3601,Home health aides,1,44,0.002887328564866461
-Yugoslavia,1340,30711,588,15239,0930,"Tax examiners and collectors, and revenue agents",2,43,0.002821707461119496
-Yugoslavia,1340,30711,588,15239,8225,Other metal workers and plastic workers,2,42,0.002756086357372531
-Yugoslavia,1340,30711,588,15239,0565,Compliance officers,3,40,0.002624844149878601
-Yugoslavia,1340,30711,588,15239,3150,Occupational therapists,2,37,0.002427980838637706
-Yugoslavia,1340,30711,588,15239,4510,"Hairdressers, hairstylists, and cosmetologists",2,36,0.0023623597348907408
-Yugoslavia,1340,30711,588,15239,9121,"Bus drivers, school",2,36,0.0023623597348907408
-Yugoslavia,1340,30711,588,15239,7750,Other assemblers and fabricators,2,34,0.002231117527396811
-Yugoslavia,1340,30711,588,15239,1320,Aerospace engineers,2,33,0.002165496423649846
-Yugoslavia,1340,30711,588,15239,3605,Orderlies and psychiatric aides,2,33,0.002165496423649846
-Yugoslavia,1340,30711,588,15239,7150,Automotive body and related repairers,1,33,0.002165496423649846
-Yugoslavia,1340,30711,588,15239,8030,Machinists,3,33,0.002165496423649846
-Yugoslavia,1340,30711,588,15239,0845,Financial and investment analysts,3,32,0.002099875319902881
-Yugoslavia,1340,30711,588,15239,1450,Materials engineers,2,30,0.0019686331124089507
-Yugoslavia,1340,30711,588,15239,3740,Firefighters,1,30,0.0019686331124089507
-Yugoslavia,1340,30711,588,15239,1650,Other life scientists,2,29,0.0019030120086619858
-Yugoslavia,1340,30711,588,15239,2004,Mental health counselors,1,29,0.0019030120086619858
-Yugoslavia,1340,30711,588,15239,2861,Interpreters and translators,2,29,0.0019030120086619858
-Yugoslavia,1340,30711,588,15239,4600,Childcare workers,2,29,0.0019030120086619858
-Yugoslavia,1340,30711,588,15239,5522,"Dispatchers, except police, fire, and ambulance",1,29,0.0019030120086619858
-Yugoslavia,1340,30711,588,15239,1551,Electrical and electronic engineering technologists and technicians,1,28,0.0018373909049150207
-Yugoslavia,1340,30711,588,15239,7720,"Electrical, electronics, and electromechanical assemblers",1,28,0.0018373909049150207
-Yugoslavia,1340,30711,588,15239,8610,Stationary engineers and boiler operators,2,28,0.0018373909049150207
-Yugoslavia,1340,30711,588,15239,9150,"Motor vehicle operators, all other",2,28,0.0018373909049150207
-Yugoslavia,1340,30711,588,15239,0136,Human resources managers,1,27,0.0017717698011680556
-Yugoslavia,1340,30711,588,15239,3321,Cardiovascular technologists and technicians,1,27,0.0017717698011680556
-Yugoslavia,1340,30711,588,15239,5165,Other financial clerks,2,27,0.0017717698011680556
-Yugoslavia,1340,30711,588,15239,3110,Physician assistants,2,26,0.0017061486974210907
-Yugoslavia,1340,30711,588,15239,3649,Phlebotomists,2,26,0.0017061486974210907
-Yugoslavia,1340,30711,588,15239,4040,Bartenders,2,26,0.0017061486974210907
-Yugoslavia,1340,30711,588,15239,5500,Cargo and freight agents,1,26,0.0017061486974210907
-Yugoslavia,1340,30711,588,15239,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,26,0.0017061486974210907
-Yugoslavia,1340,30711,588,15239,1825,Other psychologists,1,25,0.0016405275936741256
-Yugoslavia,1340,30711,588,15239,2640,Other designers,2,25,0.0016405275936741256
-Yugoslavia,1340,30711,588,15239,5550,Postal service mail carriers,1,25,0.0016405275936741256
-Yugoslavia,1340,30711,588,15239,3258,"Nurse practitioners, and nurse midwives",2,23,0.0015092853861801956
-Yugoslavia,1340,30711,588,15239,4710,First-line supervisors of non-retail sales workers,2,23,0.0015092853861801956
-Yugoslavia,1340,30711,588,15239,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",1,23,0.0015092853861801956
-Yugoslavia,1340,30711,588,15239,0850,Personal financial advisors,1,22,0.0014436642824332306
-Yugoslavia,1340,30711,588,15239,4810,Insurance sales agents,2,22,0.0014436642824332306
-Yugoslavia,1340,30711,588,15239,5730,Medical secretaries and administrative assistants,1,22,0.0014436642824332306
-Yugoslavia,1340,30711,588,15239,4965,"Sales and related workers, all other",1,21,0.0013780431786862655
-Yugoslavia,1340,30711,588,15239,6442,"Plumbers, pipefitters, and steamfitters",1,21,0.0013780431786862655
-Yugoslavia,1340,30711,588,15239,1065,Database administrators and architects,1,20,0.0013124220749393006
-Yugoslavia,1340,30711,588,15239,2330,Special education teachers,2,20,0.0013124220749393006
-Yugoslavia,1340,30711,588,15239,3245,Other therapists,1,20,0.0013124220749393006
-Yugoslavia,1340,30711,588,15239,0205,"Farmers, ranchers, and other agricultural managers",1,19,0.0012468009711923355
-Yugoslavia,1340,30711,588,15239,4010,First-line supervisors of food preparation and serving workers,2,19,0.0012468009711923355
-Yugoslavia,1340,30711,588,15239,7315,"Heating, air conditioning, and refrigeration mechanics and installers",2,19,0.0012468009711923355
-Yugoslavia,1340,30711,588,15239,7730,Engine and other machine assemblers,1,19,0.0012468009711923355
-Yugoslavia,1340,30711,588,15239,0102,Facilities managers,1,18,0.0011811798674453704
-Yugoslavia,1340,30711,588,15239,0910,Credit counselors and loan officers,1,18,0.0011811798674453704
-Yugoslavia,1340,30711,588,15239,1360,Civil engineers,2,18,0.0011811798674453704
-Yugoslavia,1340,30711,588,15239,2006,"Counselors, all other",1,18,0.0011811798674453704
-Yugoslavia,1340,30711,588,15239,2014,"Social workers, all other",1,18,0.0011811798674453704
-Yugoslavia,1340,30711,588,15239,5250,"Eligibility interviewers, government programs",1,18,0.0011811798674453704
-Yugoslavia,1340,30711,588,15239,7800,Bakers,1,18,0.0011811798674453704
-Yugoslavia,1340,30711,588,15239,8710,Cutting workers,1,18,0.0011811798674453704
-Yugoslavia,1340,30711,588,15239,2600,Artists and related workers,1,17,0.0011155587636984055
-Yugoslavia,1340,30711,588,15239,1350,Chemical engineers,1,16,0.0010499376599514404
-Yugoslavia,1340,30711,588,15239,2002,"Educational, guidance, and career counselors and advisors",1,16,0.0010499376599514404
-Yugoslavia,1340,30711,588,15239,2635,Interior designers,1,16,0.0010499376599514404
-Yugoslavia,1340,30711,588,15239,1220,Operations research analysts,1,15,9.843165562044753e-4
-Yugoslavia,1340,30711,588,15239,3550,Other healthcare practitioners and technical occupations,1,15,9.843165562044753e-4
-Yugoslavia,1340,30711,588,15239,4820,"Securities, commodities, and financial services sales agents",1,15,9.843165562044753e-4
-Yugoslavia,1340,30711,588,15239,8130,Tool and die makers,1,15,9.843165562044753e-4
-Yugoslavia,1340,30711,588,15239,2435,Librarians and media collections specialists,1,14,9.186954524575103e-4
-Yugoslavia,1340,30711,588,15239,6200,First-line supervisors of construction trades and extraction workers,1,14,9.186954524575103e-4
-Yugoslavia,1340,30711,588,15239,1010,Computer programmers,1,13,8.530743487105454e-4
-Yugoslavia,1340,30711,588,15239,1460,Mechanical engineers,1,13,8.530743487105454e-4
-Yugoslavia,1340,30711,588,15239,2632,Fashion designers,1,13,8.530743487105454e-4
-Yugoslavia,1340,30711,588,15239,7430,Precision instrument and equipment repairers,1,13,8.530743487105454e-4
-Yugoslavia,1340,30711,588,15239,8025,"Other machine tool setters, operators, and tenders, metal and plastic",1,13,8.530743487105454e-4
-Yugoslavia,1340,30711,588,15239,8555,Other woodworkers,1,13,8.530743487105454e-4
-Yugoslavia,1340,30711,588,15239,3030,Dietitians and nutritionists,1,12,7.874532449635803e-4
-Yugoslavia,1340,30711,588,15239,5940,Other office and administrative support workers,1,12,7.874532449635803e-4
-Yugoslavia,1340,30711,588,15239,1340,Biomedical and agricultural engineers,1,11,7.218321412166153e-4
-Yugoslavia,1340,30711,588,15239,1560,Surveying and mapping technicians,1,11,7.218321412166153e-4
-Yugoslavia,1340,30711,588,15239,2145,Paralegals and legal assistants,1,11,7.218321412166153e-4
-Yugoslavia,1340,30711,588,15239,3010,Dentists,1,11,7.218321412166153e-4
-Yugoslavia,1340,30711,588,15239,3120,Podiatrists,1,11,7.218321412166153e-4
-Yugoslavia,1340,30711,588,15239,3645,Medical assistants,1,11,7.218321412166153e-4
-Yugoslavia,1340,30711,588,15239,6050,Other agricultural workers,1,11,7.218321412166153e-4
-Yugoslavia,1340,30711,588,15239,7330,Industrial and refractory machinery mechanics,1,11,7.218321412166153e-4
-Yugoslavia,1340,30711,588,15239,8140,"Welding, soldering, and brazing workers",1,11,7.218321412166153e-4
-Yugoslavia,1340,30711,588,15239,0230,Education and childcare administrators,1,10,6.562110374696503e-4
-Yugoslavia,1340,30711,588,15239,1240,Other mathematical science occupations,1,10,6.562110374696503e-4
-Yugoslavia,1340,30711,588,15239,1920,Chemical technicians,1,10,6.562110374696503e-4
-Yugoslavia,1340,30711,588,15239,3300,Clinical laboratory technologists and technicians,1,10,6.562110374696503e-4
-Yugoslavia,1340,30711,588,15239,4530,"Baggage porters, bellhops, and concierges",1,10,6.562110374696503e-4
-Yugoslavia,1340,30711,588,15239,4930,Sales engineers,1,10,6.562110374696503e-4
-Yugoslavia,1340,30711,588,15239,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,10,6.562110374696503e-4
-Yugoslavia,1340,30711,588,15239,6950,Other extraction workers,1,9,5.905899337226852e-4
-Yugoslavia,1340,30711,588,15239,7140,Aircraft mechanics and service technicians,1,9,5.905899337226852e-4
-Yugoslavia,1340,30711,588,15239,0726,Fundraisers,1,8,5.249688299757202e-4
-Yugoslavia,1340,30711,588,15239,2722,Coaches and scouts,1,8,5.249688299757202e-4
-Yugoslavia,1340,30711,588,15239,3040,Optometrists,1,8,5.249688299757202e-4
-Yugoslavia,1340,30711,588,15239,4621,Exercise trainers and group fitness instructors,1,8,5.249688299757202e-4
-Yugoslavia,1340,30711,588,15239,0420,Social and community service managers,1,7,4.5934772622875517e-4
-Yugoslavia,1340,30711,588,15239,1545,Other drafters,1,7,4.5934772622875517e-4
-Yugoslavia,1340,30711,588,15239,6530,Structural iron and steel workers,1,7,4.5934772622875517e-4
-Yugoslavia,1340,30711,588,15239,7410,Electrical power-line installers and repairers,1,5,3.2810551873482514e-4
+country,n_workers,workers,occ,occ_title,occ_share
+Yugoslavia,18,698,9130,Driver/sales workers and truck drivers,0.045803530415381585
+Yugoslavia,12,555,4220,Janitors and building cleaners,0.03641971257956559
+Yugoslavia,18,548,4760,Retail salespersons,0.03596036485333683
+Yugoslavia,23,533,0440,Other managers,0.034976048297132356
+Yugoslavia,14,500,4700,First-line supervisors of retail sales workers,0.03281055187348251
+Yugoslavia,8,374,4230,Maids and housekeeping cleaners,0.02454229280136492
+Yugoslavia,17,315,2205,Postsecondary teachers,0.02067064768029398
+Yugoslavia,7,302,5740,"Secretaries and administrative assistants, except legal, medical, and executive",0.019817573331583436
+Yugoslavia,6,251,2320,Secondary school teachers,0.016470897040488222
+Yugoslavia,9,250,0800,Accountants and auditors,0.016405275936741254
+Yugoslavia,5,227,2100,"Lawyers, and judges, magistrates, and other judicial workers",0.01489599055056106
+Yugoslavia,3,222,9645,Stockers and order fillers,0.014567885031826235
+Yugoslavia,5,221,0630,Human resources workers,0.014502263928079271
+Yugoslavia,7,207,6230,Carpenters,0.01358356847562176
+Yugoslavia,9,193,4920,Real estate brokers and sales agents,0.01266487302316425
+Yugoslavia,2,184,9142,Taxi drivers,0.012074283089441565
+Yugoslavia,1,182,5160,Tellers,0.011943040881947635
+Yugoslavia,7,178,4110,Waiters and waitresses,0.011680556466959775
+Yugoslavia,5,175,6410,Painters and paperhangers,0.011483693155718878
+Yugoslavia,6,173,2310,Elementary and middle school teachers,0.01135245094822495
+Yugoslavia,9,168,0010,Chief executives and legislators,0.011024345429490124
+Yugoslavia,5,167,3930,Security guards and gaming surveillance officers,0.01095872432574316
+Yugoslavia,4,161,5400,Receptionists and information clerks,0.010564997703261369
+Yugoslavia,3,157,7200,Automotive service technicians and mechanics,0.010302513288273508
+Yugoslavia,8,151,8990,"Miscellaneous production workers, including equipment operators and tenders",0.009908786665791718
+Yugoslavia,5,141,3602,Personal care aides,0.009252575628322069
+Yugoslavia,5,135,0020,General and operations managers,0.008858849005840278
+Yugoslavia,7,134,1530,Other engineers,0.008793227902093314
+Yugoslavia,8,133,6355,Electricians,0.008727606798346348
+Yugoslavia,4,133,8740,"Inspectors, testers, sorters, samplers, and weighers",0.008727606798346348
+Yugoslavia,4,131,1108,"Computer occupations, all other",0.008596364590852418
+Yugoslavia,4,131,3603,Nursing assistants,0.008596364590852418
+Yugoslavia,5,131,4020,Cooks,0.008596364590852418
+Yugoslavia,3,130,1410,Electrical and electronics engineers,0.008530743487105454
+Yugoslavia,2,129,3160,Physical therapists,0.008465122383358488
+Yugoslavia,7,125,3090,Physicians,0.008202637968370627
+Yugoslavia,6,125,9620,"Laborers and freight, stock, and material movers, hand",0.008202637968370627
+Yugoslavia,7,124,3255,Registered nurses,0.008137016864623663
+Yugoslavia,5,124,5240,Customer service representatives,0.008137016864623663
+Yugoslavia,1,117,3960,Other protective service workers,0.007677669138394908
+Yugoslavia,3,116,0735,Market research analysts and marketing specialists,0.007612048034647943
+Yugoslavia,8,112,4720,Cashiers,0.007349563619660083
+Yugoslavia,5,107,5860,"Office clerks, general",0.007021458100925257
+Yugoslavia,5,106,0110,Computer and information systems managers,0.006955836997178292
+Yugoslavia,5,105,1760,"Physical scientists, all other",0.006890215893431328
+Yugoslavia,6,104,0710,Management analysts,0.006824594789684363
+Yugoslavia,6,102,1021,Software developers,0.006693352582190433
+Yugoslavia,6,97,0120,Financial managers,0.006365247063455607
+Yugoslavia,4,97,6260,Construction laborers,0.006365247063455607
+Yugoslavia,1,97,9350,Parking attendants,0.006365247063455607
+Yugoslavia,3,95,0410,"Property, real estate, and community association managers",0.006234004855961677
+Yugoslavia,2,90,0725,"Meeting, convention, and event planners",0.005905899337226852
+Yugoslavia,5,89,9122,"Bus drivers, transit and intercity",0.005840278233479887
+Yugoslavia,1,89,9600,Industrial truck and tractor operators,0.005840278233479887
+Yugoslavia,3,87,0530,"Purchasing agents, except wholesale, retail, and farm products",0.005709036025985957
+Yugoslavia,2,86,2910,Photographers,0.005643414922238992
+Yugoslavia,2,86,4200,First-line supervisors of housekeeping and janitorial workers,0.005643414922238992
+Yugoslavia,3,86,4850,"Sales representatives, wholesale and manufacturing",0.005643414922238992
+Yugoslavia,2,82,1305,"Architects, except landscape and naval",0.005380930507251132
+Yugoslavia,3,81,1200,Actuaries,0.0053153094035041665
+Yugoslavia,2,81,1400,Computer hardware engineers,0.0053153094035041665
+Yugoslavia,5,80,5000,First-line supervisors of office and administrative support workers,0.005249688299757202
+Yugoslavia,4,79,7340,"Maintenance and repair workers, general",0.005184067196010237
+Yugoslavia,3,77,0220,Construction managers,0.005052824988516307
+Yugoslavia,1,76,2710,Producers and directors,0.004987203884769342
+Yugoslavia,1,71,2920,"Television, video, and film camera operators and editors",0.0046590983660345165
+Yugoslavia,2,69,6515,Roofers,0.004527856158540586
+Yugoslavia,2,66,2752,Musicians and singers,0.004330992847299692
+Yugoslavia,6,66,5120,"Bookkeeping, accounting, and auditing clerks",0.004330992847299692
+Yugoslavia,3,65,0300,Architectural and engineering managers,0.004265371743552727
+Yugoslavia,3,64,1555,"Other engineering technologists and technicians, except drafters",0.004199750639805762
+Yugoslavia,2,63,8255,Printing press operators,0.004134129536058797
+Yugoslavia,2,60,4030,Food preparation workers,0.003937266224817901
+Yugoslavia,2,59,0310,Food service managers,0.003871645121070936
+Yugoslavia,4,59,2360,Other teachers and instructors,0.003871645121070936
+Yugoslavia,3,59,7700,First-line supervisors of production and operating workers,0.003871645121070936
+Yugoslavia,3,58,5510,Couriers and messengers,0.0038060240173239715
+Yugoslavia,4,56,2300,Preschool and kindergarten teachers,0.0036747818098300414
+Yugoslavia,1,55,4400,Gambling services workers,0.0036091607060830763
+Yugoslavia,1,55,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",0.0036091607060830763
+Yugoslavia,3,54,1006,Computer systems analysts,0.003543539602336111
+Yugoslavia,3,54,1050,Computer support specialists,0.003543539602336111
+Yugoslavia,3,54,2545,Teaching assistants,0.003543539602336111
+Yugoslavia,3,53,3870,Police officers,0.003477918498589146
+Yugoslavia,2,52,3640,Dental assistants,0.0034122973948421814
+Yugoslavia,3,51,2634,Graphic designers,0.0033466762910952163
+Yugoslavia,2,50,0140,Industrial production managers,0.0032810551873482512
+Yugoslavia,1,50,5850,"Mail clerks and mail machine operators, except postal service",0.0032810551873482512
+Yugoslavia,1,50,8320,Sewing machine operators,0.0032810551873482512
+Yugoslavia,4,49,0705,Project management specialists,0.003215434083601286
+Yugoslavia,1,49,5300,"Hotel, motel, and resort desk clerks",0.003215434083601286
+Yugoslavia,3,48,0052,Sales managers,0.003149812979854321
+Yugoslavia,2,48,3421,Pharmacy technicians,0.003149812979854321
+Yugoslavia,2,46,0750,"Business operations specialists, all other",0.0030185707723603913
+Yugoslavia,1,46,1031,Web developers,0.0030185707723603913
+Yugoslavia,3,46,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",0.0030185707723603913
+Yugoslavia,1,46,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
+						and plastic",0.0030185707723603913
+Yugoslavia,2,45,1610,Biological scientists,0.002952949668613426
+Yugoslavia,1,45,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",0.002952949668613426
+Yugoslavia,1,44,3601,Home health aides,0.002887328564866461
+Yugoslavia,2,43,0930,"Tax examiners and collectors, and revenue agents",0.002821707461119496
+Yugoslavia,2,42,8225,Other metal workers and plastic workers,0.002756086357372531
+Yugoslavia,3,40,0565,Compliance officers,0.002624844149878601
+Yugoslavia,2,37,3150,Occupational therapists,0.002427980838637706
+Yugoslavia,2,36,4510,"Hairdressers, hairstylists, and cosmetologists",0.0023623597348907408
+Yugoslavia,2,36,9121,"Bus drivers, school",0.0023623597348907408
+Yugoslavia,2,34,7750,Other assemblers and fabricators,0.002231117527396811
+Yugoslavia,2,33,1320,Aerospace engineers,0.002165496423649846
+Yugoslavia,2,33,3605,Orderlies and psychiatric aides,0.002165496423649846
+Yugoslavia,1,33,7150,Automotive body and related repairers,0.002165496423649846
+Yugoslavia,3,33,8030,Machinists,0.002165496423649846
+Yugoslavia,3,32,0845,Financial and investment analysts,0.002099875319902881
+Yugoslavia,2,30,1450,Materials engineers,0.0019686331124089507
+Yugoslavia,1,30,3740,Firefighters,0.0019686331124089507
+Yugoslavia,2,29,1650,Other life scientists,0.0019030120086619858
+Yugoslavia,1,29,2004,Mental health counselors,0.0019030120086619858
+Yugoslavia,2,29,2861,Interpreters and translators,0.0019030120086619858
+Yugoslavia,2,29,4600,Childcare workers,0.0019030120086619858
+Yugoslavia,1,29,5522,"Dispatchers, except police, fire, and ambulance",0.0019030120086619858
+Yugoslavia,1,28,1551,Electrical and electronic engineering technologists and technicians,0.0018373909049150207
+Yugoslavia,1,28,7720,"Electrical, electronics, and electromechanical assemblers",0.0018373909049150207
+Yugoslavia,2,28,8610,Stationary engineers and boiler operators,0.0018373909049150207
+Yugoslavia,2,28,9150,"Motor vehicle operators, all other",0.0018373909049150207
+Yugoslavia,1,27,0136,Human resources managers,0.0017717698011680556
+Yugoslavia,1,27,3321,Cardiovascular technologists and technicians,0.0017717698011680556
+Yugoslavia,2,27,5165,Other financial clerks,0.0017717698011680556
+Yugoslavia,2,26,3110,Physician assistants,0.0017061486974210907
+Yugoslavia,2,26,3649,Phlebotomists,0.0017061486974210907
+Yugoslavia,2,26,4040,Bartenders,0.0017061486974210907
+Yugoslavia,1,26,5500,Cargo and freight agents,0.0017061486974210907
+Yugoslavia,1,26,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",0.0017061486974210907
+Yugoslavia,1,25,1825,Other psychologists,0.0016405275936741256
+Yugoslavia,2,25,2640,Other designers,0.0016405275936741256
+Yugoslavia,1,25,5550,Postal service mail carriers,0.0016405275936741256
+Yugoslavia,2,23,3258,"Nurse practitioners, and nurse midwives",0.0015092853861801956
+Yugoslavia,2,23,4710,First-line supervisors of non-retail sales workers,0.0015092853861801956
+Yugoslavia,1,23,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",0.0015092853861801956
+Yugoslavia,1,22,0850,Personal financial advisors,0.0014436642824332306
+Yugoslavia,2,22,4810,Insurance sales agents,0.0014436642824332306
+Yugoslavia,1,22,5730,Medical secretaries and administrative assistants,0.0014436642824332306
+Yugoslavia,1,21,4965,"Sales and related workers, all other",0.0013780431786862655
+Yugoslavia,1,21,6442,"Plumbers, pipefitters, and steamfitters",0.0013780431786862655
+Yugoslavia,1,20,1065,Database administrators and architects,0.0013124220749393006
+Yugoslavia,2,20,2330,Special education teachers,0.0013124220749393006
+Yugoslavia,1,20,3245,Other therapists,0.0013124220749393006
+Yugoslavia,1,19,0205,"Farmers, ranchers, and other agricultural managers",0.0012468009711923355
+Yugoslavia,2,19,4010,First-line supervisors of food preparation and serving workers,0.0012468009711923355
+Yugoslavia,2,19,7315,"Heating, air conditioning, and refrigeration mechanics and installers",0.0012468009711923355
+Yugoslavia,1,19,7730,Engine and other machine assemblers,0.0012468009711923355
+Yugoslavia,1,18,0102,Facilities managers,0.0011811798674453704
+Yugoslavia,1,18,0910,Credit counselors and loan officers,0.0011811798674453704
+Yugoslavia,2,18,1360,Civil engineers,0.0011811798674453704
+Yugoslavia,1,18,2006,"Counselors, all other",0.0011811798674453704
+Yugoslavia,1,18,2014,"Social workers, all other",0.0011811798674453704
+Yugoslavia,1,18,5250,"Eligibility interviewers, government programs",0.0011811798674453704
+Yugoslavia,1,18,7800,Bakers,0.0011811798674453704
+Yugoslavia,1,18,8710,Cutting workers,0.0011811798674453704
+Yugoslavia,1,17,2600,Artists and related workers,0.0011155587636984055
+Yugoslavia,1,16,1350,Chemical engineers,0.0010499376599514404
+Yugoslavia,1,16,2002,"Educational, guidance, and career counselors and advisors",0.0010499376599514404
+Yugoslavia,1,16,2635,Interior designers,0.0010499376599514404
+Yugoslavia,1,15,1220,Operations research analysts,9.843165562044753e-4
+Yugoslavia,1,15,3550,Other healthcare practitioners and technical occupations,9.843165562044753e-4
+Yugoslavia,1,15,4820,"Securities, commodities, and financial services sales agents",9.843165562044753e-4
+Yugoslavia,1,15,8130,Tool and die makers,9.843165562044753e-4
+Yugoslavia,1,14,2435,Librarians and media collections specialists,9.186954524575103e-4
+Yugoslavia,1,14,6200,First-line supervisors of construction trades and extraction workers,9.186954524575103e-4
+Yugoslavia,1,13,1010,Computer programmers,8.530743487105454e-4
+Yugoslavia,1,13,1460,Mechanical engineers,8.530743487105454e-4
+Yugoslavia,1,13,2632,Fashion designers,8.530743487105454e-4
+Yugoslavia,1,13,7430,Precision instrument and equipment repairers,8.530743487105454e-4
+Yugoslavia,1,13,8025,"Other machine tool setters, operators, and tenders, metal and plastic",8.530743487105454e-4
+Yugoslavia,1,13,8555,Other woodworkers,8.530743487105454e-4
+Yugoslavia,1,12,3030,Dietitians and nutritionists,7.874532449635803e-4
+Yugoslavia,1,12,5940,Other office and administrative support workers,7.874532449635803e-4
+Yugoslavia,1,11,1340,Biomedical and agricultural engineers,7.218321412166153e-4
+Yugoslavia,1,11,1560,Surveying and mapping technicians,7.218321412166153e-4
+Yugoslavia,1,11,2145,Paralegals and legal assistants,7.218321412166153e-4
+Yugoslavia,1,11,3010,Dentists,7.218321412166153e-4
+Yugoslavia,1,11,3120,Podiatrists,7.218321412166153e-4
+Yugoslavia,1,11,3645,Medical assistants,7.218321412166153e-4
+Yugoslavia,1,11,6050,Other agricultural workers,7.218321412166153e-4
+Yugoslavia,1,11,7330,Industrial and refractory machinery mechanics,7.218321412166153e-4
+Yugoslavia,1,11,8140,"Welding, soldering, and brazing workers",7.218321412166153e-4
+Yugoslavia,1,10,0230,Education and childcare administrators,6.562110374696503e-4
+Yugoslavia,1,10,1240,Other mathematical science occupations,6.562110374696503e-4
+Yugoslavia,1,10,1920,Chemical technicians,6.562110374696503e-4
+Yugoslavia,1,10,3300,Clinical laboratory technologists and technicians,6.562110374696503e-4
+Yugoslavia,1,10,4530,"Baggage porters, bellhops, and concierges",6.562110374696503e-4
+Yugoslavia,1,10,4930,Sales engineers,6.562110374696503e-4
+Yugoslavia,1,10,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,6.562110374696503e-4
+Yugoslavia,1,9,6950,Other extraction workers,5.905899337226852e-4
+Yugoslavia,1,9,7140,Aircraft mechanics and service technicians,5.905899337226852e-4
+Yugoslavia,1,8,0726,Fundraisers,5.249688299757202e-4
+Yugoslavia,1,8,2722,Coaches and scouts,5.249688299757202e-4
+Yugoslavia,1,8,3040,Optometrists,5.249688299757202e-4
+Yugoslavia,1,8,4621,Exercise trainers and group fitness instructors,5.249688299757202e-4
+Yugoslavia,1,7,0420,Social and community service managers,4.5934772622875517e-4
+Yugoslavia,1,7,1545,Other drafters,4.5934772622875517e-4
+Yugoslavia,1,7,6530,Structural iron and steel workers,4.5934772622875517e-4
+Yugoslavia,1,5,7410,Electrical power-line installers and repairers,3.2810551873482514e-4

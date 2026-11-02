@@ -1,132 +1,132 @@
-country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
-Libya,535,14331,280,7226,2205,Postsecondary teachers,12,355,0.04912814835316911
-Libya,535,14331,280,7226,3090,Physicians,15,337,0.046637143647938
-Libya,535,14331,280,7226,1360,Civil engineers,5,322,0.04456130639357874
-Libya,535,14331,280,7226,0440,Other managers,8,280,0.03874896208137282
-Libya,535,14331,280,7226,9130,Driver/sales workers and truck drivers,7,249,0.03445889842236369
-Libya,535,14331,280,7226,9142,Taxi drivers,10,232,0.032106282867423196
-Libya,535,14331,280,7226,4720,Cashiers,7,219,0.03030722391364517
-Libya,535,14331,280,7226,1555,"Other engineering technologists and technicians, except drafters",3,205,0.02836977580957653
-Libya,535,14331,280,7226,5510,Couriers and messengers,8,192,0.026570716855798506
-Libya,535,14331,280,7226,4760,Retail salespersons,8,189,0.026155549404926655
-Libya,535,14331,280,7226,2310,Elementary and middle school teachers,8,180,0.024910047052311098
-Libya,535,14331,280,7226,8740,"Inspectors, testers, sorters, samplers, and weighers",1,159,0.02200387489620814
-Libya,535,14331,280,7226,1108,"Computer occupations, all other",7,147,0.02034320509272073
-Libya,535,14331,280,7226,5240,Customer service representatives,5,140,0.01937448104068641
-Libya,535,14331,280,7226,8990,"Miscellaneous production workers, including equipment operators and tenders",3,125,0.01729864378632715
-Libya,535,14331,280,7226,4020,Cooks,3,121,0.016745087185164684
-Libya,535,14331,280,7226,3120,Podiatrists,1,120,0.016606698034874065
-Libya,535,14331,280,7226,0310,Food service managers,3,111,0.015361195682258511
-Libya,535,14331,280,7226,3930,Security guards and gaming surveillance officers,4,100,0.013838915029061722
-Libya,535,14331,280,7226,0735,Market research analysts and marketing specialists,1,95,0.013146969277608635
-Libya,535,14331,280,7226,3110,Physician assistants,1,93,0.012870190977027402
-Libya,535,14331,280,7226,4710,First-line supervisors of non-retail sales workers,2,92,0.012731801826736784
-Libya,535,14331,280,7226,3255,Registered nurses,3,91,0.012593412676446166
-Libya,535,14331,280,7226,2440,Library technicians,1,90,0.012455023526155549
-Libya,535,14331,280,7226,0010,Chief executives and legislators,3,89,0.012316634375864933
-Libya,535,14331,280,7226,4200,First-line supervisors of housekeeping and janitorial workers,2,89,0.012316634375864933
-Libya,535,14331,280,7226,0120,Financial managers,3,86,0.01190146692499308
-Libya,535,14331,280,7226,2100,"Lawyers, and judges, magistrates, and other judicial workers",5,86,0.01190146692499308
-Libya,535,14331,280,7226,1021,Software developers,6,79,0.01093274287295876
-Libya,535,14331,280,7226,4920,Real estate brokers and sales agents,3,77,0.010655964572377526
-Libya,535,14331,280,7226,2810,"News analysts, reporters, and journalists",1,73,0.010102407971215057
-Libya,535,14331,280,7226,4530,"Baggage porters, bellhops, and concierges",1,72,0.00996401882092444
-Libya,535,14331,280,7226,4700,First-line supervisors of retail sales workers,3,70,0.009687240520343206
-Libya,535,14331,280,7226,5610,"Shipping, receiving, and inventory clerks",2,61,0.00844173816772765
-Libya,535,14331,280,7226,1650,Other life scientists,1,58,0.008026570716855799
-Libya,535,14331,280,7226,0705,Project management specialists,4,57,0.007888181566565181
-Libya,535,14331,280,7226,1530,Other engineers,3,56,0.0077497924162745644
-Libya,535,14331,280,7226,2545,Teaching assistants,4,53,0.007334624965402712
-Libya,535,14331,280,7226,2320,Secondary school teachers,3,52,0.0071962358151120955
-Libya,535,14331,280,7226,7410,Electrical power-line installers and repairers,1,52,0.0071962358151120955
-Libya,535,14331,280,7226,1240,Other mathematical science occupations,3,46,0.006365900913368392
-Libya,535,14331,280,7226,1460,Mechanical engineers,2,46,0.006365900913368392
-Libya,535,14331,280,7226,1010,Computer programmers,2,45,0.006227511763077774
-Libya,535,14331,280,7226,5000,First-line supervisors of office and administrative support workers,1,43,0.00595073346249654
-Libya,535,14331,280,7226,9620,"Laborers and freight, stock, and material movers, hand",4,43,0.00595073346249654
-Libya,535,14331,280,7226,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,42,0.005812344312205923
-Libya,535,14331,280,7226,0350,Medical and health services managers,1,41,0.0056739551619153054
-Libya,535,14331,280,7226,4510,"Hairdressers, hairstylists, and cosmetologists",1,40,0.005535566011624689
-Libya,535,14331,280,7226,0410,"Property, real estate, and community association managers",2,38,0.005258787711043454
-Libya,535,14331,280,7226,1541,Architectural and civil drafters,2,38,0.005258787711043454
-Libya,535,14331,280,7226,8350,"Tailors, dressmakers, and sewers",2,38,0.005258787711043454
-Libya,535,14331,280,7226,5260,File clerks,1,34,0.004705231109880985
-Libya,535,14331,280,7226,1760,"Physical scientists, all other",2,33,0.004566841959590368
-Libya,535,14331,280,7226,5020,Telephone operators,1,33,0.004566841959590368
-Libya,535,14331,280,7226,2350,Tutors,3,32,0.004428452809299751
-Libya,535,14331,280,7226,9122,"Bus drivers, transit and intercity",1,32,0.004428452809299751
-Libya,535,14331,280,7226,0540,"Claims adjusters, appraisers, examiners, and investigators",1,31,0.004290063659009134
-Libya,535,14331,280,7226,6410,Painters and paperhangers,1,31,0.004290063659009134
-Libya,535,14331,280,7226,3220,Respiratory therapists,1,30,0.004151674508718516
-Libya,535,14331,280,7226,1822,School psychologists,1,29,0.0040132853584278995
-Libya,535,14331,280,7226,6260,Construction laborers,1,29,0.0040132853584278995
-Libya,535,14331,280,7226,7340,"Maintenance and repair workers, general",1,29,0.0040132853584278995
-Libya,535,14331,280,7226,1430,"Industrial engineers, including health and safety",2,28,0.0038748962081372822
-Libya,535,14331,280,7226,3602,Personal care aides,1,28,0.0038748962081372822
-Libya,535,14331,280,7226,7200,Automotive service technicians and mechanics,1,28,0.0038748962081372822
-Libya,535,14331,280,7226,7040,"Electric motor, power tool, and related repairers",1,27,0.003736507057846665
-Libya,535,14331,280,7226,7750,Other assemblers and fabricators,1,27,0.003736507057846665
-Libya,535,14331,280,7226,1600,Agricultural and food scientists,1,26,0.0035981179075560477
-Libya,535,14331,280,7226,6200,First-line supervisors of construction trades and extraction workers,1,26,0.0035981179075560477
-Libya,535,14331,280,7226,1750,"Geoscientists and hydrologists, except geographers",1,25,0.0034597287572654305
-Libya,535,14331,280,7226,9645,Stockers and order fillers,2,25,0.0034597287572654305
-Libya,535,14331,280,7226,0150,Purchasing managers,1,24,0.0033213396069748133
-Libya,535,14331,280,7226,3402,Paramedics,1,24,0.0033213396069748133
-Libya,535,14331,280,7226,3160,Physical therapists,1,23,0.003182950456684196
-Libya,535,14331,280,7226,4820,"Securities, commodities, and financial services sales agents",1,23,0.003182950456684196
-Libya,535,14331,280,7226,4000,Chefs and head cooks,1,22,0.003044561306393579
-Libya,535,14331,280,7226,4220,Janitors and building cleaners,1,22,0.003044561306393579
-Libya,535,14331,280,7226,5120,"Bookkeeping, accounting, and auditing clerks",2,22,0.003044561306393579
-Libya,535,14331,280,7226,5310,"Interviewers, except eligibility and loan",1,22,0.003044561306393579
-Libya,535,14331,280,7226,5710,Executive secretaries and executive administrative assistants,1,22,0.003044561306393579
-Libya,535,14331,280,7226,1610,Biological scientists,1,21,0.0029061721561029616
-Libya,535,14331,280,7226,0630,Human resources workers,1,20,0.0027677830058123443
-Libya,535,14331,280,7226,5600,"Production, planning, and expediting clerks",1,20,0.0027677830058123443
-Libya,535,14331,280,7226,4055,Fast food and counter workers,1,19,0.002629393855521727
-Libya,535,14331,280,7226,5300,"Hotel, motel, and resort desk clerks",1,18,0.00249100470523111
-Libya,535,14331,280,7226,9640,"Packers and packagers, hand",1,18,0.00249100470523111
-Libya,535,14331,280,7226,0052,Sales managers,1,17,0.0023526155549404926
-Libya,535,14331,280,7226,0137,Training and development managers,1,17,0.0023526155549404926
-Libya,535,14331,280,7226,0565,Compliance officers,1,17,0.0023526155549404926
-Libya,535,14331,280,7226,4850,"Sales representatives, wholesale and manufacturing",1,17,0.0023526155549404926
-Libya,535,14331,280,7226,9141,Shuttle drivers and chauffeurs,1,17,0.0023526155549404926
-Libya,535,14331,280,7226,0710,Management analysts,1,15,0.002075837254359258
-Libya,535,14331,280,7226,3100,Surgeons,1,15,0.002075837254359258
-Libya,535,14331,280,7226,4435,Other entertainment attendants and related workers,1,15,0.002075837254359258
-Libya,535,14331,280,7226,8640,"Chemical processing machine setters, operators, and tenders",1,15,0.002075837254359258
-Libya,535,14331,280,7226,0300,Architectural and engineering managers,2,14,0.0019374481040686411
-Libya,535,14331,280,7226,1050,Computer support specialists,2,14,0.0019374481040686411
-Libya,535,14331,280,7226,2920,"Television, video, and film camera operators and editors",1,14,0.0019374481040686411
-Libya,535,14331,280,7226,4110,Waiters and waitresses,1,14,0.0019374481040686411
-Libya,535,14331,280,7226,0800,Accountants and auditors,1,13,0.0017990589537780239
-Libya,535,14331,280,7226,2014,"Social workers, all other",1,13,0.0017990589537780239
-Libya,535,14331,280,7226,3545,Miscellaneous health technologists and technicians,1,13,0.0017990589537780239
-Libya,535,14331,280,7226,4010,First-line supervisors of food preparation and serving workers,1,13,0.0017990589537780239
-Libya,535,14331,280,7226,9600,Industrial truck and tractor operators,1,13,0.0017990589537780239
-Libya,535,14331,280,7226,0220,Construction managers,1,12,0.0016606698034874066
-Libya,535,14331,280,7226,0340,Lodging managers,1,12,0.0016606698034874066
-Libya,535,14331,280,7226,0650,Training and development specialists,1,12,0.0016606698034874066
-Libya,535,14331,280,7226,1105,Network and computer systems administrators,1,12,0.0016606698034874066
-Libya,535,14331,280,7226,5110,Billing and posting clerks,1,12,0.0016606698034874066
-Libya,535,14331,280,7226,6230,Carpenters,1,12,0.0016606698034874066
-Libya,535,14331,280,7226,9030,Aircraft pilots and flight engineers,1,12,0.0016606698034874066
-Libya,535,14331,280,7226,0110,Computer and information systems managers,1,11,0.0015222806531967894
-Libya,535,14331,280,7226,0136,Human resources managers,1,11,0.0015222806531967894
-Libya,535,14331,280,7226,2555,Other educational instruction and library workers,1,11,0.0015222806531967894
-Libya,535,14331,280,7226,4230,Maids and housekeeping cleaners,1,11,0.0015222806531967894
-Libya,535,14331,280,7226,5410,Reservation and transportation ticket agents and travel clerks,1,11,0.0015222806531967894
-Libya,535,14331,280,7226,1410,Electrical and electronics engineers,1,10,0.0013838915029061722
-Libya,535,14331,280,7226,2710,Producers and directors,1,10,0.0013838915029061722
-Libya,535,14331,280,7226,3010,Dentists,1,10,0.0013838915029061722
-Libya,535,14331,280,7226,4621,Exercise trainers and group fitness instructors,1,10,0.0013838915029061722
-Libya,535,14331,280,7226,5521,Public safety telecommunicators,1,9,0.001245502352615555
-Libya,535,14331,280,7226,1860,Other social scientists,1,8,0.0011071132023249377
-Libya,535,14331,280,7226,3725,"Miscellaneous first-line supervisors, protective service workers",1,8,0.0011071132023249377
-Libya,535,14331,280,7226,2861,Interpreters and translators,1,7,9.687240520343206e-4
-Libya,535,14331,280,7226,3820,Detectives and criminal investigators,1,7,9.687240520343206e-4
-Libya,535,14331,280,7226,3940,Crossing guards and flaggers,1,7,9.687240520343206e-4
-Libya,535,14331,280,7226,3245,Other therapists,1,6,8.303349017437033e-4
-Libya,535,14331,280,7226,3960,Other protective service workers,1,6,8.303349017437033e-4
-Libya,535,14331,280,7226,3870,Police officers,1,3,4.1516745087185166e-4
-Libya,535,14331,280,7226,0725,"Meeting, convention, and event planners",1,2,2.767783005812344e-4
-Libya,535,14331,280,7226,5740,"Secretaries and administrative assistants, except legal, medical, and executive",1,1,1.383891502906172e-4
+country,n_workers,workers,occ,occ_title,occ_share
+Libya,12,355,2205,Postsecondary teachers,0.04912814835316911
+Libya,15,337,3090,Physicians,0.046637143647938
+Libya,5,322,1360,Civil engineers,0.04456130639357874
+Libya,8,280,0440,Other managers,0.03874896208137282
+Libya,7,249,9130,Driver/sales workers and truck drivers,0.03445889842236369
+Libya,10,232,9142,Taxi drivers,0.032106282867423196
+Libya,7,219,4720,Cashiers,0.03030722391364517
+Libya,3,205,1555,"Other engineering technologists and technicians, except drafters",0.02836977580957653
+Libya,8,192,5510,Couriers and messengers,0.026570716855798506
+Libya,8,189,4760,Retail salespersons,0.026155549404926655
+Libya,8,180,2310,Elementary and middle school teachers,0.024910047052311098
+Libya,1,159,8740,"Inspectors, testers, sorters, samplers, and weighers",0.02200387489620814
+Libya,7,147,1108,"Computer occupations, all other",0.02034320509272073
+Libya,5,140,5240,Customer service representatives,0.01937448104068641
+Libya,3,125,8990,"Miscellaneous production workers, including equipment operators and tenders",0.01729864378632715
+Libya,3,121,4020,Cooks,0.016745087185164684
+Libya,1,120,3120,Podiatrists,0.016606698034874065
+Libya,3,111,0310,Food service managers,0.015361195682258511
+Libya,4,100,3930,Security guards and gaming surveillance officers,0.013838915029061722
+Libya,1,95,0735,Market research analysts and marketing specialists,0.013146969277608635
+Libya,1,93,3110,Physician assistants,0.012870190977027402
+Libya,2,92,4710,First-line supervisors of non-retail sales workers,0.012731801826736784
+Libya,3,91,3255,Registered nurses,0.012593412676446166
+Libya,1,90,2440,Library technicians,0.012455023526155549
+Libya,3,89,0010,Chief executives and legislators,0.012316634375864933
+Libya,2,89,4200,First-line supervisors of housekeeping and janitorial workers,0.012316634375864933
+Libya,3,86,0120,Financial managers,0.01190146692499308
+Libya,5,86,2100,"Lawyers, and judges, magistrates, and other judicial workers",0.01190146692499308
+Libya,6,79,1021,Software developers,0.01093274287295876
+Libya,3,77,4920,Real estate brokers and sales agents,0.010655964572377526
+Libya,1,73,2810,"News analysts, reporters, and journalists",0.010102407971215057
+Libya,1,72,4530,"Baggage porters, bellhops, and concierges",0.00996401882092444
+Libya,3,70,4700,First-line supervisors of retail sales workers,0.009687240520343206
+Libya,2,61,5610,"Shipping, receiving, and inventory clerks",0.00844173816772765
+Libya,1,58,1650,Other life scientists,0.008026570716855799
+Libya,4,57,0705,Project management specialists,0.007888181566565181
+Libya,3,56,1530,Other engineers,0.0077497924162745644
+Libya,4,53,2545,Teaching assistants,0.007334624965402712
+Libya,3,52,2320,Secondary school teachers,0.0071962358151120955
+Libya,1,52,7410,Electrical power-line installers and repairers,0.0071962358151120955
+Libya,3,46,1240,Other mathematical science occupations,0.006365900913368392
+Libya,2,46,1460,Mechanical engineers,0.006365900913368392
+Libya,2,45,1010,Computer programmers,0.006227511763077774
+Libya,1,43,5000,First-line supervisors of office and administrative support workers,0.00595073346249654
+Libya,4,43,9620,"Laborers and freight, stock, and material movers, hand",0.00595073346249654
+Libya,1,42,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",0.005812344312205923
+Libya,1,41,0350,Medical and health services managers,0.0056739551619153054
+Libya,1,40,4510,"Hairdressers, hairstylists, and cosmetologists",0.005535566011624689
+Libya,2,38,0410,"Property, real estate, and community association managers",0.005258787711043454
+Libya,2,38,1541,Architectural and civil drafters,0.005258787711043454
+Libya,2,38,8350,"Tailors, dressmakers, and sewers",0.005258787711043454
+Libya,1,34,5260,File clerks,0.004705231109880985
+Libya,2,33,1760,"Physical scientists, all other",0.004566841959590368
+Libya,1,33,5020,Telephone operators,0.004566841959590368
+Libya,3,32,2350,Tutors,0.004428452809299751
+Libya,1,32,9122,"Bus drivers, transit and intercity",0.004428452809299751
+Libya,1,31,0540,"Claims adjusters, appraisers, examiners, and investigators",0.004290063659009134
+Libya,1,31,6410,Painters and paperhangers,0.004290063659009134
+Libya,1,30,3220,Respiratory therapists,0.004151674508718516
+Libya,1,29,1822,School psychologists,0.0040132853584278995
+Libya,1,29,6260,Construction laborers,0.0040132853584278995
+Libya,1,29,7340,"Maintenance and repair workers, general",0.0040132853584278995
+Libya,2,28,1430,"Industrial engineers, including health and safety",0.0038748962081372822
+Libya,1,28,3602,Personal care aides,0.0038748962081372822
+Libya,1,28,7200,Automotive service technicians and mechanics,0.0038748962081372822
+Libya,1,27,7040,"Electric motor, power tool, and related repairers",0.003736507057846665
+Libya,1,27,7750,Other assemblers and fabricators,0.003736507057846665
+Libya,1,26,1600,Agricultural and food scientists,0.0035981179075560477
+Libya,1,26,6200,First-line supervisors of construction trades and extraction workers,0.0035981179075560477
+Libya,1,25,1750,"Geoscientists and hydrologists, except geographers",0.0034597287572654305
+Libya,2,25,9645,Stockers and order fillers,0.0034597287572654305
+Libya,1,24,0150,Purchasing managers,0.0033213396069748133
+Libya,1,24,3402,Paramedics,0.0033213396069748133
+Libya,1,23,3160,Physical therapists,0.003182950456684196
+Libya,1,23,4820,"Securities, commodities, and financial services sales agents",0.003182950456684196
+Libya,1,22,4000,Chefs and head cooks,0.003044561306393579
+Libya,1,22,4220,Janitors and building cleaners,0.003044561306393579
+Libya,2,22,5120,"Bookkeeping, accounting, and auditing clerks",0.003044561306393579
+Libya,1,22,5310,"Interviewers, except eligibility and loan",0.003044561306393579
+Libya,1,22,5710,Executive secretaries and executive administrative assistants,0.003044561306393579
+Libya,1,21,1610,Biological scientists,0.0029061721561029616
+Libya,1,20,0630,Human resources workers,0.0027677830058123443
+Libya,1,20,5600,"Production, planning, and expediting clerks",0.0027677830058123443
+Libya,1,19,4055,Fast food and counter workers,0.002629393855521727
+Libya,1,18,5300,"Hotel, motel, and resort desk clerks",0.00249100470523111
+Libya,1,18,9640,"Packers and packagers, hand",0.00249100470523111
+Libya,1,17,0052,Sales managers,0.0023526155549404926
+Libya,1,17,0137,Training and development managers,0.0023526155549404926
+Libya,1,17,0565,Compliance officers,0.0023526155549404926
+Libya,1,17,4850,"Sales representatives, wholesale and manufacturing",0.0023526155549404926
+Libya,1,17,9141,Shuttle drivers and chauffeurs,0.0023526155549404926
+Libya,1,15,0710,Management analysts,0.002075837254359258
+Libya,1,15,3100,Surgeons,0.002075837254359258
+Libya,1,15,4435,Other entertainment attendants and related workers,0.002075837254359258
+Libya,1,15,8640,"Chemical processing machine setters, operators, and tenders",0.002075837254359258
+Libya,2,14,0300,Architectural and engineering managers,0.0019374481040686411
+Libya,2,14,1050,Computer support specialists,0.0019374481040686411
+Libya,1,14,2920,"Television, video, and film camera operators and editors",0.0019374481040686411
+Libya,1,14,4110,Waiters and waitresses,0.0019374481040686411
+Libya,1,13,0800,Accountants and auditors,0.0017990589537780239
+Libya,1,13,2014,"Social workers, all other",0.0017990589537780239
+Libya,1,13,3545,Miscellaneous health technologists and technicians,0.0017990589537780239
+Libya,1,13,4010,First-line supervisors of food preparation and serving workers,0.0017990589537780239
+Libya,1,13,9600,Industrial truck and tractor operators,0.0017990589537780239
+Libya,1,12,0220,Construction managers,0.0016606698034874066
+Libya,1,12,0340,Lodging managers,0.0016606698034874066
+Libya,1,12,0650,Training and development specialists,0.0016606698034874066
+Libya,1,12,1105,Network and computer systems administrators,0.0016606698034874066
+Libya,1,12,5110,Billing and posting clerks,0.0016606698034874066
+Libya,1,12,6230,Carpenters,0.0016606698034874066
+Libya,1,12,9030,Aircraft pilots and flight engineers,0.0016606698034874066
+Libya,1,11,0110,Computer and information systems managers,0.0015222806531967894
+Libya,1,11,0136,Human resources managers,0.0015222806531967894
+Libya,1,11,2555,Other educational instruction and library workers,0.0015222806531967894
+Libya,1,11,4230,Maids and housekeeping cleaners,0.0015222806531967894
+Libya,1,11,5410,Reservation and transportation ticket agents and travel clerks,0.0015222806531967894
+Libya,1,10,1410,Electrical and electronics engineers,0.0013838915029061722
+Libya,1,10,2710,Producers and directors,0.0013838915029061722
+Libya,1,10,3010,Dentists,0.0013838915029061722
+Libya,1,10,4621,Exercise trainers and group fitness instructors,0.0013838915029061722
+Libya,1,9,5521,Public safety telecommunicators,0.001245502352615555
+Libya,1,8,1860,Other social scientists,0.0011071132023249377
+Libya,1,8,3725,"Miscellaneous first-line supervisors, protective service workers",0.0011071132023249377
+Libya,1,7,2861,Interpreters and translators,9.687240520343206e-4
+Libya,1,7,3820,Detectives and criminal investigators,9.687240520343206e-4
+Libya,1,7,3940,Crossing guards and flaggers,9.687240520343206e-4
+Libya,1,6,3245,Other therapists,8.303349017437033e-4
+Libya,1,6,3960,Other protective service workers,8.303349017437033e-4
+Libya,1,3,3870,Police officers,4.1516745087185166e-4
+Libya,1,2,0725,"Meeting, convention, and event planners",2.767783005812344e-4
+Libya,1,1,5740,"Secretaries and administrative assistants, except legal, medical, and executive",1.383891502906172e-4

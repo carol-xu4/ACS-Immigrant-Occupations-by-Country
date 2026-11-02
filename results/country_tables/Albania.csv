@@ -1,358 +1,358 @@
-country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
-Albania,4470,112953,2939,75791,4220,Janitors and building cleaners,136,3817,0.05036218020609307
-Albania,4470,112953,2939,75791,9130,Driver/sales workers and truck drivers,64,2100,0.027707775329524613
-Albania,4470,112953,2939,75791,0440,Other managers,72,1981,0.026137668060851552
-Albania,4470,112953,2939,75791,0800,Accountants and auditors,75,1943,0.02563628926917444
-Albania,4470,112953,2939,75791,6260,Construction laborers,58,1661,0.021915530867781134
-Albania,4470,112953,2939,75791,4110,Waiters and waitresses,47,1451,0.019144753334828672
-Albania,4470,112953,2939,75791,4020,Cooks,46,1388,0.018313520074942934
-Albania,4470,112953,2939,75791,4700,First-line supervisors of retail sales workers,50,1338,0.017653811138525682
-Albania,4470,112953,2939,75791,4230,Maids and housekeeping cleaners,52,1307,0.017244791597946986
-Albania,4470,112953,2939,75791,4760,Retail salespersons,39,1186,0.015648295971817234
-Albania,4470,112953,2939,75791,0310,Food service managers,33,1158,0.015278858967423573
-Albania,4470,112953,2939,75791,6410,Painters and paperhangers,38,1080,0.014249713026612659
-Albania,4470,112953,2939,75791,4510,"Hairdressers, hairstylists, and cosmetologists",39,1060,0.013985829452045757
-Albania,4470,112953,2939,75791,0120,Financial managers,45,1022,0.013484450660368645
-Albania,4470,112953,2939,75791,6355,Electricians,28,979,0.012917100975049807
-Albania,4470,112953,2939,75791,3255,Registered nurses,44,944,0.012455304719557731
-Albania,4470,112953,2939,75791,2545,Teaching assistants,46,937,0.012362945468459315
-Albania,4470,112953,2939,75791,3602,Personal care aides,30,834,0.011003945059439775
-Albania,4470,112953,2939,75791,2310,Elementary and middle school teachers,38,812,0.010713673127416183
-Albania,4470,112953,2939,75791,9645,Stockers and order fillers,26,811,0.01070047894868784
-Albania,4470,112953,2939,75791,3603,Nursing assistants,23,765,0.010093546727183966
-Albania,4470,112953,2939,75791,3645,Medical assistants,21,750,0.00989563404625879
-Albania,4470,112953,2939,75791,4720,Cashiers,29,726,0.009578973756778509
-Albania,4470,112953,2939,75791,0220,Construction managers,21,725,0.009565779578050165
-Albania,4470,112953,2939,75791,6442,"Plumbers, pipefitters, and steamfitters",31,706,0.009315090182211608
-Albania,4470,112953,2939,75791,7750,Other assemblers and fabricators,24,664,0.008760934675621116
-Albania,4470,112953,2939,75791,0845,Financial and investment analysts,22,659,0.008694963781979391
-Albania,4470,112953,2939,75791,5240,Customer service representatives,27,655,0.00864218706706601
-Albania,4470,112953,2939,75791,9142,Taxi drivers,19,646,0.008523439458510905
-Albania,4470,112953,2939,75791,1021,Software developers,30,628,0.008285944241400695
-Albania,4470,112953,2939,75791,6230,Carpenters,24,625,0.008246361705215659
-Albania,4470,112953,2939,75791,5120,"Bookkeeping, accounting, and auditing clerks",25,616,0.008127614096660553
-Albania,4470,112953,2939,75791,3300,Clinical laboratory technologists and technicians,16,611,0.008061643203018828
-Albania,4470,112953,2939,75791,2300,Preschool and kindergarten teachers,18,599,0.007903313058278688
-Albania,4470,112953,2939,75791,8990,"Miscellaneous production workers, including equipment operators and tenders",27,595,0.007850536343365307
-Albania,4470,112953,2939,75791,4030,Food preparation workers,25,590,0.0077845654497235815
-Albania,4470,112953,2939,75791,5510,Couriers and messengers,19,572,0.007547070232613371
-Albania,4470,112953,2939,75791,9620,"Laborers and freight, stock, and material movers, hand",24,562,0.0074151284453299205
-Albania,4470,112953,2939,75791,5740,"Secretaries and administrative assistants, except legal, medical, and executive",17,557,0.007349157551688195
-Albania,4470,112953,2939,75791,0020,General and operations managers,20,530,0.006992914726022878
-Albania,4470,112953,2939,75791,0630,Human resources workers,20,519,0.006847778760011083
-Albania,4470,112953,2939,75791,2205,Postsecondary teachers,18,509,0.006715836972727632
-Albania,4470,112953,2939,75791,2320,Secondary school teachers,20,497,0.006557506827987492
-Albania,4470,112953,2939,75791,0705,Project management specialists,21,492,0.006491535934345766
-Albania,4470,112953,2939,75791,0410,"Property, real estate, and community association managers",16,472,0.006227652359778866
-Albania,4470,112953,2939,75791,5860,"Office clerks, general",19,465,0.00613529310868045
-Albania,4470,112953,2939,75791,0052,Sales managers,14,454,0.005990157142668655
-Albania,4470,112953,2939,75791,3640,Dental assistants,15,454,0.005990157142668655
-Albania,4470,112953,2939,75791,7200,Automotive service technicians and mechanics,16,452,0.005963768785211964
-Albania,4470,112953,2939,75791,7315,"Heating, air conditioning, and refrigeration mechanics and installers",11,445,0.005871409534113549
-Albania,4470,112953,2939,75791,4000,Chefs and head cooks,17,437,0.005765856104286789
-Albania,4470,112953,2939,75791,7340,"Maintenance and repair workers, general",21,433,0.005713079389373409
-Albania,4470,112953,2939,75791,4600,Childcare workers,11,420,0.005541555065904923
-Albania,4470,112953,2939,75791,2100,"Lawyers, and judges, magistrates, and other judicial workers",19,409,0.005396419099893127
-Albania,4470,112953,2939,75791,4200,First-line supervisors of housekeeping and janitorial workers,11,408,0.005383224921164782
-Albania,4470,112953,2939,75791,6240,"Carpet, floor, and tile installers and finishers",10,374,0.0049346228444010504
-Albania,4470,112953,2939,75791,4710,First-line supervisors of non-retail sales workers,13,371,0.004895040308216015
-Albania,4470,112953,2939,75791,1050,Computer support specialists,16,370,0.00488184612948767
-Albania,4470,112953,2939,75791,1108,"Computer occupations, all other",15,368,0.00485545777203098
-Albania,4470,112953,2939,75791,0350,Medical and health services managers,12,365,0.004815875235845945
-Albania,4470,112953,2939,75791,2145,Paralegals and legal assistants,11,365,0.004815875235845945
-Albania,4470,112953,2939,75791,1360,Civil engineers,14,357,0.0047103218060191845
-Albania,4470,112953,2939,75791,0710,Management analysts,16,351,0.004631156733649114
-Albania,4470,112953,2939,75791,4530,"Baggage porters, bellhops, and concierges",13,344,0.004538797482550699
-Albania,4470,112953,2939,75791,5000,First-line supervisors of office and administrative support workers,12,341,0.004499214946365663
-Albania,4470,112953,2939,75791,5400,Receptionists and information clerks,16,334,0.004406855695267248
-Albania,4470,112953,2939,75791,3310,Dental hygienists,8,333,0.004393661516538903
-Albania,4470,112953,2939,75791,4850,"Sales representatives, wholesale and manufacturing",12,318,0.0041957488356137275
-Albania,4470,112953,2939,75791,3050,Pharmacists,15,307,0.004050612869601932
-Albania,4470,112953,2939,75791,3930,Security guards and gaming surveillance officers,12,307,0.004050612869601932
-Albania,4470,112953,2939,75791,6515,Roofers,10,303,0.003997836154688551
-Albania,4470,112953,2939,75791,0010,Chief executives and legislators,12,300,0.003958253618503516
-Albania,4470,112953,2939,75791,1760,"Physical scientists, all other",10,291,0.003839506009948411
-Albania,4470,112953,2939,75791,8740,"Inspectors, testers, sorters, samplers, and weighers",14,290,0.0038263118312200656
-Albania,4470,112953,2939,75791,4130,Dining room and cafeteria attendants and bartender helpers,8,285,0.0037603409375783405
-Albania,4470,112953,2939,75791,6200,First-line supervisors of construction trades and extraction workers,13,284,0.0037471467588499952
-Albania,4470,112953,2939,75791,5940,Other office and administrative support workers,8,278,0.0036679816864799253
-Albania,4470,112953,2939,75791,1530,Other engineers,14,269,0.0035492340779248194
-Albania,4470,112953,2939,75791,2634,Graphic designers,4,261,0.0034436806480980593
-Albania,4470,112953,2939,75791,1650,Other life scientists,8,258,0.003404098111913024
-Albania,4470,112953,2939,75791,4120,"Food servers, nonrestaurant",6,258,0.003404098111913024
-Albania,4470,112953,2939,75791,4920,Real estate brokers and sales agents,13,256,0.003377709754456334
-Albania,4470,112953,2939,75791,0910,Credit counselors and loan officers,10,253,0.003338127218271299
-Albania,4470,112953,2939,75791,8225,Other metal workers and plastic workers,15,245,0.0032325737884445383
-Albania,4470,112953,2939,75791,4820,"Securities, commodities, and financial services sales agents",8,242,0.0031929912522595033
-Albania,4470,112953,2939,75791,3090,Physicians,12,239,0.003153408716074468
-Albania,4470,112953,2939,75791,4965,"Sales and related workers, all other",8,239,0.003153408716074468
-Albania,4470,112953,2939,75791,3870,Police officers,12,238,0.003140214537346123
-Albania,4470,112953,2939,75791,4810,Insurance sales agents,6,236,0.003113826179889433
-Albania,4470,112953,2939,75791,1430,"Industrial engineers, including health and safety",8,231,0.0030478552862477073
-Albania,4470,112953,2939,75791,4055,Fast food and counter workers,10,230,0.0030346611075193625
-Albania,4470,112953,2939,75791,4435,Other entertainment attendants and related workers,9,229,0.0030214669287910176
-Albania,4470,112953,2939,75791,0750,"Business operations specialists, all other",9,225,0.0029686902138776373
-Albania,4470,112953,2939,75791,3740,Firefighters,2,223,0.002942301856420947
-Albania,4470,112953,2939,75791,4251,Landscaping and groundskeeping workers,10,221,0.002915913498964257
-Albania,4470,112953,2939,75791,2016,Social and human service assistants,8,219,0.002889525141507567
-Albania,4470,112953,2939,75791,3421,Pharmacy technicians,10,219,0.002889525141507567
-Albania,4470,112953,2939,75791,3601,Home health aides,12,218,0.0028763309627792217
-Albania,4470,112953,2939,75791,5160,Tellers,11,211,0.0027839717116808064
-Albania,4470,112953,2939,75791,0565,Compliance officers,6,205,0.002704806639310736
-Albania,4470,112953,2939,75791,1410,Electrical and electronics engineers,9,205,0.002704806639310736
-Albania,4470,112953,2939,75791,0110,Computer and information systems managers,12,201,0.0026520299243973557
-Albania,4470,112953,2939,75791,7800,Bakers,9,193,0.0025464764945705956
-Albania,4470,112953,2939,75791,1240,Other mathematical science occupations,12,191,0.0025200881371139055
-Albania,4470,112953,2939,75791,6660,Construction and building inspectors,4,190,0.00250689395838556
-Albania,4470,112953,2939,75791,1006,Computer systems analysts,9,189,0.0024936997796572154
-Albania,4470,112953,2939,75791,4010,First-line supervisors of food preparation and serving workers,5,188,0.00248050560092887
-Albania,4470,112953,2939,75791,9600,Industrial truck and tractor operators,4,186,0.00245411724347218
-Albania,4470,112953,2939,75791,7700,First-line supervisors of production and operating workers,9,182,0.0024013405285587997
-Albania,4470,112953,2939,75791,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",5,179,0.0023617579923737647
-Albania,4470,112953,2939,75791,0735,Market research analysts and marketing specialists,10,176,0.0023221754561887297
-Albania,4470,112953,2939,75791,9121,"Bus drivers, school",7,176,0.0023221754561887297
-Albania,4470,112953,2939,75791,3258,"Nurse practitioners, and nurse midwives",4,170,0.0022430103838186593
-Albania,4470,112953,2939,75791,0051,Marketing managers,6,163,0.002150651132720244
-Albania,4470,112953,2939,75791,0700,Logisticians,3,161,0.002124262775263554
-Albania,4470,112953,2939,75791,8320,Sewing machine operators,4,160,0.0021110685965352086
-Albania,4470,112953,2939,75791,1305,"Architects, except landscape and naval",7,158,0.0020846802390785185
-Albania,4470,112953,2939,75791,4521,Manicurists and pedicurists,4,158,0.0020846802390785185
-Albania,4470,112953,2939,75791,0150,Purchasing managers,4,156,0.0020582918816218283
-Albania,4470,112953,2939,75791,7640,"Other installation, maintenance, and repair workers",4,154,0.002031903524165138
-Albania,4470,112953,2939,75791,4140,Dishwashers,12,152,0.002005515166708448
-Albania,4470,112953,2939,75791,9640,"Packers and packagers, hand",10,152,0.002005515166708448
-Albania,4470,112953,2939,75791,2014,"Social workers, all other",5,151,0.0019923209879801032
-Albania,4470,112953,2939,75791,7330,Industrial and refractory machinery mechanics,7,149,0.001965932630523413
-Albania,4470,112953,2939,75791,0340,Lodging managers,7,147,0.001939544273066723
-Albania,4470,112953,2939,75791,5610,"Shipping, receiving, and inventory clerks",6,147,0.001939544273066723
-Albania,4470,112953,2939,75791,0850,Personal financial advisors,7,145,0.0019131559156100328
-Albania,4470,112953,2939,75791,3322,Diagnostic medical sonographers,8,145,0.0019131559156100328
-Albania,4470,112953,2939,75791,0830,Credit analysts,3,141,0.0018603792006966526
-Albania,4470,112953,2939,75791,2360,Other teachers and instructors,10,141,0.0018603792006966526
-Albania,4470,112953,2939,75791,3500,Licensed practical and licensed vocational nurses,5,139,0.0018339908432399626
-Albania,4470,112953,2939,75791,0230,Education and childcare administrators,8,138,0.0018207966645116176
-Albania,4470,112953,2939,75791,2600,Artists and related workers,8,138,0.0018207966645116176
-Albania,4470,112953,2939,75791,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",5,138,0.0018207966645116176
-Albania,4470,112953,2939,75791,0520,"Wholesale and retail buyers, except farm products",7,136,0.0017944083070549274
-Albania,4470,112953,2939,75791,4040,Bartenders,8,135,0.0017812141283265824
-Albania,4470,112953,2939,75791,3545,Miscellaneous health technologists and technicians,6,133,0.0017548257708698922
-Albania,4470,112953,2939,75791,5110,Billing and posting clerks,5,133,0.0017548257708698922
-Albania,4470,112953,2939,75791,3649,Phlebotomists,8,132,0.0017416315921415472
-Albania,4470,112953,2939,75791,2640,Other designers,5,129,0.001702049055956512
-Albania,4470,112953,2939,75791,3010,Dentists,4,129,0.001702049055956512
-Albania,4470,112953,2939,75791,5165,Other financial clerks,7,127,0.0016756606984998218
-Albania,4470,112953,2939,75791,8610,Stationary engineers and boiler operators,5,126,0.0016624665197714768
-Albania,4470,112953,2939,75791,2435,Librarians and media collections specialists,5,124,0.0016360781623147866
-Albania,4470,112953,2939,75791,1010,Computer programmers,5,121,0.0015964956261297516
-Albania,4470,112953,2939,75791,2330,Special education teachers,5,120,0.0015833014474014066
-Albania,4470,112953,2939,75791,3110,Physician assistants,5,116,0.0015305247324880263
-Albania,4470,112953,2939,75791,5420,Other information and records clerks,4,114,0.0015041363750313362
-Albania,4470,112953,2939,75791,7130,Security and fire alarm systems installers,2,107,0.0014117771239329207
-Albania,4470,112953,2939,75791,5810,Data entry keyers,3,104,0.0013721945877478857
-Albania,4470,112953,2939,75791,8800,Packaging and filling machine operators and tenders,4,104,0.0013721945877478857
-Albania,4470,112953,2939,75791,6400,Insulation workers,2,103,0.0013590004090195406
-Albania,4470,112953,2939,75791,7905,Computer numerically controlled tool operators and programmers,4,103,0.0013590004090195406
-Albania,4470,112953,2939,75791,3323,Radiologic technologists and technicians,6,102,0.0013458062302911956
-Albania,4470,112953,2939,75791,6441,Pipelayers,1,100,0.0013194178728345054
-Albania,4470,112953,2939,75791,5550,Postal service mail carriers,5,99,0.0013062236941061604
-Albania,4470,112953,2939,75791,1555,"Other engineering technologists and technicians, except drafters",6,98,0.0012930295153778153
-Albania,4470,112953,2939,75791,1825,Other psychologists,3,98,0.0012930295153778153
-Albania,4470,112953,2939,75791,7855,"Food processing workers, all other",2,98,0.0012930295153778153
-Albania,4470,112953,2939,75791,0140,Industrial production managers,4,96,0.0012666411579211252
-Albania,4470,112953,2939,75791,3030,Dietitians and nutritionists,2,95,0.00125344697919278
-Albania,4470,112953,2939,75791,5710,Executive secretaries and executive administrative assistants,4,95,0.00125344697919278
-Albania,4470,112953,2939,75791,1970,"Other life, physical, and social science technicians",6,94,0.001240252800464435
-Albania,4470,112953,2939,75791,7810,"Butchers and other meat, poultry, and fish processing workers",3,92,0.001213864443007745
-Albania,4470,112953,2939,75791,2910,Photographers,20,91,0.0012006702642793998
-Albania,4470,112953,2939,75791,0640,"Compensation, benefits, and job analysis specialists",2,90,0.001187476085551055
-Albania,4470,112953,2939,75791,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",5,90,0.001187476085551055
-Albania,4470,112953,2939,75791,7000,"First-line supervisors of mechanics, installers, and repairers",4,90,0.001187476085551055
-Albania,4470,112953,2939,75791,4500,Barbers,4,89,0.00117428190682271
-Albania,4470,112953,2939,75791,3220,Respiratory therapists,4,86,0.0011346993706376747
-Albania,4470,112953,2939,75791,4655,"Personal care and service workers, all other",5,85,0.0011215051919093296
-Albania,4470,112953,2939,75791,7210,Bus and truck mechanics and diesel engine specialists,2,85,0.0011215051919093296
-Albania,4470,112953,2939,75791,2040,Clergy,1,84,0.0011083110131809846
-Albania,4470,112953,2939,75791,3321,Cardiovascular technologists and technicians,3,84,0.0011083110131809846
-Albania,4470,112953,2939,75791,9350,Parking attendants,4,84,0.0011083110131809846
-Albania,4470,112953,2939,75791,8030,Machinists,2,82,0.0010819226557242944
-Albania,4470,112953,2939,75791,3245,Other therapists,4,80,0.0010555342982676043
-Albania,4470,112953,2939,75791,0040,Advertising and promotions managers,2,79,0.0010423401195392592
-Albania,4470,112953,2939,75791,1065,Database administrators and architects,5,77,0.001015951762082569
-Albania,4470,112953,2939,75791,2905,Other media and communication equipment workers,1,77,0.001015951762082569
-Albania,4470,112953,2939,75791,5360,"Human resources assistants, except payroll and timekeeping",2,77,0.001015951762082569
-Albania,4470,112953,2939,75791,2722,Coaches and scouts,4,75,9.89563404625879e-4
-Albania,4470,112953,2939,75791,1551,Electrical and electronic engineering technologists and technicians,4,74,9.76369225897534e-4
-Albania,4470,112953,2939,75791,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",2,74,9.76369225897534e-4
-Albania,4470,112953,2939,75791,5850,"Mail clerks and mail machine operators, except postal service",2,74,9.76369225897534e-4
-Albania,4470,112953,2939,75791,9610,Cleaners of vehicles and equipment,6,73,9.631750471691889e-4
-Albania,4470,112953,2939,75791,0530,"Purchasing agents, except wholesale, retail, and farm products",6,72,9.499808684408439e-4
-Albania,4470,112953,2939,75791,0102,Facilities managers,3,71,9.367866897124988e-4
-Albania,4470,112953,2939,75791,0205,"Farmers, ranchers, and other agricultural managers",1,68,8.972041535274637e-4
-Albania,4470,112953,2939,75791,8950,Helpers--production workers,3,68,8.972041535274637e-4
-Albania,4470,112953,2939,75791,1460,Mechanical engineers,5,67,8.840099747991186e-4
-Albania,4470,112953,2939,75791,2830,Editors,3,67,8.840099747991186e-4
-Albania,4470,112953,2939,75791,1545,Other drafters,4,66,8.708157960707736e-4
-Albania,4470,112953,2939,75791,8140,"Welding, soldering, and brazing workers",4,65,8.576216173424285e-4
-Albania,4470,112953,2939,75791,2400,"Archivists, curators, and museum technicians",2,64,8.444274386140834e-4
-Albania,4470,112953,2939,75791,7720,"Electrical, electronics, and electromechanical assemblers",4,64,8.444274386140834e-4
-Albania,4470,112953,2939,75791,7610,"Helpers--installation, maintenance, and repair workers",1,63,8.312332598857384e-4
-Albania,4470,112953,2939,75791,0160,"Transportation, storage, and distribution managers",4,62,8.180390811573933e-4
-Albania,4470,112953,2939,75791,1541,Architectural and civil drafters,3,61,8.048449024290484e-4
-Albania,4470,112953,2939,75791,2861,Interpreters and translators,2,61,8.048449024290484e-4
-Albania,4470,112953,2939,75791,6115,Fishing and hunting workers,1,60,7.916507237007033e-4
-Albania,4470,112953,2939,75791,0300,Architectural and engineering managers,4,58,7.652623662440132e-4
-Albania,4470,112953,2939,75791,3550,Other healthcare practitioners and technical occupations,3,57,7.520681875156681e-4
-Albania,4470,112953,2939,75791,5900,"Office machine operators, except computer",3,57,7.520681875156681e-4
-Albania,4470,112953,2939,75791,7430,Precision instrument and equipment repairers,2,56,7.38874008787323e-4
-Albania,4470,112953,2939,75791,6305,Construction equipment operators,3,55,7.25679830058978e-4
-Albania,4470,112953,2939,75791,3945,Transportation security screeners,2,54,7.124856513306329e-4
-Albania,4470,112953,2939,75791,9122,"Bus drivers, transit and intercity",4,54,7.124856513306329e-4
-Albania,4470,112953,2939,75791,1980,Occupational health and safety specialists and technicians,2,53,6.992914726022879e-4
-Albania,4470,112953,2939,75791,0600,Cost estimators,2,52,6.860972938739429e-4
-Albania,4470,112953,2939,75791,9630,Machine feeders and offbearers,3,52,6.860972938739429e-4
-Albania,4470,112953,2939,75791,1031,Web developers,1,51,6.729031151455978e-4
-Albania,4470,112953,2939,75791,2350,Tutors,4,51,6.729031151455978e-4
-Albania,4470,112953,2939,75791,4350,Animal caretakers,3,51,6.729031151455978e-4
-Albania,4470,112953,2939,75791,3515,Medical records specialists,4,50,6.597089364172527e-4
-Albania,4470,112953,2939,75791,8255,Printing press operators,2,50,6.597089364172527e-4
-Albania,4470,112953,2939,75791,9005,Supervisors of transportation and material moving workers,4,50,6.597089364172527e-4
-Albania,4470,112953,2939,75791,4930,Sales engineers,1,49,6.465147576889077e-4
-Albania,4470,112953,2939,75791,8350,"Tailors, dressmakers, and sewers",3,49,6.465147576889077e-4
-Albania,4470,112953,2939,75791,2752,Musicians and singers,2,48,6.333205789605626e-4
-Albania,4470,112953,2939,75791,3820,Detectives and criminal investigators,2,47,6.201264002322175e-4
-Albania,4470,112953,2939,75791,0960,Other financial specialists,2,46,6.069322215038724e-4
-Albania,4470,112953,2939,75791,5330,Loan interviewers and clerks,1,44,5.805438640471824e-4
-Albania,4470,112953,2939,75791,5600,"Production, planning, and expediting clerks",2,44,5.805438640471824e-4
-Albania,4470,112953,2939,75791,9141,Shuttle drivers and chauffeurs,4,43,5.673496853188374e-4
-Albania,4470,112953,2939,75791,2002,"Educational, guidance, and career counselors and advisors",5,42,5.541555065904923e-4
-Albania,4470,112953,2939,75791,3630,Massage therapists,3,41,5.409613278621472e-4
-Albania,4470,112953,2939,75791,5140,Payroll and timekeeping clerks,2,41,5.409613278621472e-4
-Albania,4470,112953,2939,75791,0650,Training and development specialists,3,40,5.277671491338022e-4
-Albania,4470,112953,2939,75791,3160,Physical therapists,2,40,5.277671491338022e-4
-Albania,4470,112953,2939,75791,5410,Reservation and transportation ticket agents and travel clerks,2,40,5.277671491338022e-4
-Albania,4470,112953,2939,75791,7320,Home appliance repairers,2,40,5.277671491338022e-4
-Albania,4470,112953,2939,75791,0540,"Claims adjusters, appraisers, examiners, and investigators",3,39,5.145729704054571e-4
-Albania,4470,112953,2939,75791,3324,Magnetic resonance imaging technologists,2,39,5.145729704054571e-4
-Albania,4470,112953,2939,75791,0060,Public relations and fundraising managers,1,38,5.01378791677112e-4
-Albania,4470,112953,2939,75791,6360,Glaziers,3,38,5.01378791677112e-4
-Albania,4470,112953,2939,75791,6950,Other extraction workers,1,37,4.88184612948767e-4
-Albania,4470,112953,2939,75791,3910,Private detectives and investigators,2,36,4.7499043422042194e-4
-Albania,4470,112953,2939,75791,9410,Transportation inspectors,1,36,4.7499043422042194e-4
-Albania,4470,112953,2939,75791,0420,Social and community service managers,2,35,4.6179625549207687e-4
-Albania,4470,112953,2939,75791,2633,Floral designers,1,35,4.6179625549207687e-4
-Albania,4470,112953,2939,75791,1800,Economists,2,34,4.4860207676373186e-4
-Albania,4470,112953,2939,75791,2632,Fashion designers,1,34,4.4860207676373186e-4
-Albania,4470,112953,2939,75791,2710,Producers and directors,2,34,4.4860207676373186e-4
-Albania,4470,112953,2939,75791,6700,Elevator installers and repairers,2,33,4.354078980353868e-4
-Albania,4470,112953,2939,75791,5310,"Interviewers, except eligibility and loan",2,32,4.222137193070417e-4
-Albania,4470,112953,2939,75791,7925,"Forming machine setters, operators, and tenders, metal and plastic",1,32,4.222137193070417e-4
-Albania,4470,112953,2939,75791,1440,Marine engineers and naval architects,1,31,4.0901954057869666e-4
-Albania,4470,112953,2939,75791,2004,Mental health counselors,2,31,4.0901954057869666e-4
-Albania,4470,112953,2939,75791,7410,Electrical power-line installers and repairers,1,31,4.0901954057869666e-4
-Albania,4470,112953,2939,75791,2840,Technical writers,1,30,3.9582536185035164e-4
-Albania,4470,112953,2939,75791,3655,Other healthcare support workers,3,30,3.9582536185035164e-4
-Albania,4470,112953,2939,75791,4400,Gambling services workers,1,30,3.9582536185035164e-4
-Albania,4470,112953,2939,75791,2920,"Television, video, and film camera operators and editors",1,29,3.826311831220066e-4
-Albania,4470,112953,2939,75791,4621,Exercise trainers and group fitness instructors,3,29,3.826311831220066e-4
-Albania,4470,112953,2939,75791,6050,Other agricultural workers,2,29,3.826311831220066e-4
-Albania,4470,112953,2939,75791,2635,Interior designers,2,28,3.694370043936615e-4
-Albania,4470,112953,2939,75791,3605,Orderlies and psychiatric aides,2,28,3.694370043936615e-4
-Albania,4470,112953,2939,75791,5730,Medical secretaries and administrative assistants,2,28,3.694370043936615e-4
-Albania,4470,112953,2939,75791,7730,Engine and other machine assemblers,2,28,3.694370043936615e-4
-Albania,4470,112953,2939,75791,1022,Software quality assurance analysts and testers,2,27,3.5624282566531644e-4
-Albania,4470,112953,2939,75791,4750,Parts salespersons,1,27,3.5624282566531644e-4
-Albania,4470,112953,2939,75791,8300,Laundry and dry-cleaning workers,2,27,3.5624282566531644e-4
-Albania,4470,112953,2939,75791,2180,"Legal support workers, all other",2,26,3.4304864693697143e-4
-Albania,4470,112953,2939,75791,3422,Psychiatric technicians,1,26,3.4304864693697143e-4
-Albania,4470,112953,2939,75791,3423,Surgical technologists,2,26,3.4304864693697143e-4
-Albania,4470,112953,2939,75791,0360,Natural sciences managers,1,25,3.2985446820862636e-4
-Albania,4470,112953,2939,75791,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",1,25,3.2985446820862636e-4
-Albania,4470,112953,2939,75791,6720,Hazardous materials removal workers,1,24,3.166602894802813e-4
-Albania,4470,112953,2939,75791,9825,Military enlisted tactical operations and air/weapons specialists and crew members,1,24,3.166602894802813e-4
-Albania,4470,112953,2939,75791,2850,Writers and authors,2,23,3.034661107519362e-4
-Albania,4470,112953,2939,75791,3140,Audiologists,1,23,3.034661107519362e-4
-Albania,4470,112953,2939,75791,3401,Emergency medical technicians,2,23,3.034661107519362e-4
-Albania,4470,112953,2939,75791,1032,Web and digital interface designers,1,22,2.902719320235912e-4
-Albania,4470,112953,2939,75791,6825,Surface mining machine operators and earth drillers,1,22,2.902719320235912e-4
-Albania,4470,112953,2939,75791,1610,Biological scientists,1,21,2.7707775329524614e-4
-Albania,4470,112953,2939,75791,2001,Substance abuse and behavioral disorder counselors,1,21,2.7707775329524614e-4
-Albania,4470,112953,2939,75791,2825,Public relations specialists,1,21,2.7707775329524614e-4
-Albania,4470,112953,2939,75791,0136,Human resources managers,2,20,2.638835745669011e-4
-Albania,4470,112953,2939,75791,1350,Chemical engineers,2,20,2.638835745669011e-4
-Albania,4470,112953,2939,75791,1420,Environmental engineers,1,20,2.638835745669011e-4
-Albania,4470,112953,2939,75791,1640,Conservation scientists and foresters,1,20,2.638835745669011e-4
-Albania,4470,112953,2939,75791,3424,Veterinary technologists and technicians,2,20,2.638835745669011e-4
-Albania,4470,112953,2939,75791,4830,Travel agents,1,20,2.638835745669011e-4
-Albania,4470,112953,2939,75791,5320,"Library assistants, clerical",1,20,2.638835745669011e-4
-Albania,4470,112953,2939,75791,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,20,2.638835745669011e-4
-Albania,4470,112953,2939,75791,3230,Speech-language pathologists,1,19,2.50689395838556e-4
-Albania,4470,112953,2939,75791,3330,Nuclear medicine technologists and medical dosimetrists,1,19,2.50689395838556e-4
-Albania,4470,112953,2939,75791,7140,Aircraft mechanics and service technicians,1,19,2.50689395838556e-4
-Albania,4470,112953,2939,75791,0137,Training and development managers,1,18,2.3749521711021097e-4
-Albania,4470,112953,2939,75791,0860,Insurance underwriters,2,18,2.3749521711021097e-4
-Albania,4470,112953,2939,75791,1105,Network and computer systems administrators,1,18,2.3749521711021097e-4
-Albania,4470,112953,2939,75791,1310,"Surveyors, cartographers, and photogrammetrists",1,18,2.3749521711021097e-4
-Albania,4470,112953,2939,75791,3150,Occupational therapists,1,18,2.3749521711021097e-4
-Albania,4470,112953,2939,75791,4330,Supervisors of personal care and service workers,1,18,2.3749521711021097e-4
-Albania,4470,112953,2939,75791,5260,File clerks,2,18,2.3749521711021097e-4
-Albania,4470,112953,2939,75791,5840,Insurance claims and policy processing clerks,1,18,2.3749521711021097e-4
-Albania,4470,112953,2939,75791,6520,Sheet metal workers,1,18,2.3749521711021097e-4
-Albania,4470,112953,2939,75791,7010,"Computer, automated teller, and office machine repairers",1,18,2.3749521711021097e-4
-Albania,4470,112953,2939,75791,7300,Control and valve installers and repairers,1,18,2.3749521711021097e-4
-Albania,4470,112953,2939,75791,7510,"Coin, vending, and amusement machine servicers and repairers",1,18,2.3749521711021097e-4
-Albania,4470,112953,2939,75791,2636,Merchandise displayers and window trimmers,1,17,2.2430103838186593e-4
-Albania,4470,112953,2939,75791,5300,"Hotel, motel, and resort desk clerks",1,17,2.2430103838186593e-4
-Albania,4470,112953,2939,75791,1007,Information security analysts,1,16,2.1110685965352086e-4
-Albania,4470,112953,2939,75791,1910,Biological technicians,1,16,2.1110685965352086e-4
-Albania,4470,112953,2939,75791,3000,Chiropractors,1,16,2.1110685965352086e-4
-Albania,4470,112953,2939,75791,3040,Optometrists,1,16,2.1110685965352086e-4
-Albania,4470,112953,2939,75791,3210,Recreational therapists,1,16,2.1110685965352086e-4
-Albania,4470,112953,2939,75791,5350,Correspondence clerks and order clerks,1,16,2.1110685965352086e-4
-Albania,4470,112953,2939,75791,7020,Radio and telecommunications equipment installers and repairers,2,16,2.1110685965352086e-4
-Albania,4470,112953,2939,75791,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,16,2.1110685965352086e-4
-Albania,4470,112953,2939,75791,5540,Postal service clerks,1,15,1.9791268092517582e-4
-Albania,4470,112953,2939,75791,6710,Fence erectors,1,15,1.9791268092517582e-4
-Albania,4470,112953,2939,75791,7120,Electronic home entertainment equipment installers and repairers,1,15,1.9791268092517582e-4
-Albania,4470,112953,2939,75791,4522,Skincare specialists,1,14,1.8471850219683075e-4
-Albania,4470,112953,2939,75791,4950,"Door-to-door sales workers, news and street vendors, and related workers",1,14,1.8471850219683075e-4
-Albania,4470,112953,2939,75791,7840,Food batchmakers,1,14,1.8471850219683075e-4
-Albania,4470,112953,2939,75791,8025,"Other machine tool setters, operators, and tenders, metal and plastic",1,14,1.8471850219683075e-4
-Albania,4470,112953,2939,75791,8310,"Pressers, textile, garment, and related materials",1,14,1.8471850219683075e-4
-Albania,4470,112953,2939,75791,8600,"Power plant operators, distributors, and dispatchers",1,14,1.8471850219683075e-4
-Albania,4470,112953,2939,75791,8650,"Crushing, grinding, polishing, mixing, and blending workers",1,14,1.8471850219683075e-4
-Albania,4470,112953,2939,75791,9030,Aircraft pilots and flight engineers,1,14,1.8471850219683075e-4
-Albania,4470,112953,2939,75791,9650,Pumping station operators,1,14,1.8471850219683075e-4
-Albania,4470,112953,2939,75791,0820,Budget analysts,1,13,1.7152432346848571e-4
-Albania,4470,112953,2939,75791,1560,Surveying and mapping technicians,1,13,1.7152432346848571e-4
-Albania,4470,112953,2939,75791,2003,Marriage and family therapists,1,13,1.7152432346848571e-4
-Albania,4470,112953,2939,75791,2170,"Title examiners, abstractors, and searchers",1,13,1.7152432346848571e-4
-Albania,4470,112953,2939,75791,3520,"Opticians, dispensing",1,13,1.7152432346848571e-4
-Albania,4470,112953,2939,75791,4740,Counter and rental clerks,1,13,1.7152432346848571e-4
-Albania,4470,112953,2939,75791,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
-						and plastic",1,13,1.7152432346848571e-4
-Albania,4470,112953,2939,75791,8250,Prepress technicians and workers,1,13,1.7152432346848571e-4
-Albania,4470,112953,2939,75791,8810,Painting workers,1,13,1.7152432346848571e-4
-Albania,4470,112953,2939,75791,9365,Transportation service attendants,1,13,1.7152432346848571e-4
-Albania,4470,112953,2939,75791,0726,Fundraisers,1,12,1.5833014474014065e-4
-Albania,4470,112953,2939,75791,0930,"Tax examiners and collectors, and revenue agents",1,12,1.5833014474014065e-4
-Albania,4470,112953,2939,75791,6600,"Helpers, construction trades",1,12,1.5833014474014065e-4
-Albania,4470,112953,2939,75791,9150,"Motor vehicle operators, all other",1,12,1.5833014474014065e-4
-Albania,4470,112953,2939,75791,9430,Other transportation workers,1,12,1.5833014474014065e-4
-Albania,4470,112953,2939,75791,1700,Astronomers and physicists,1,11,1.451359660117956e-4
-Albania,4470,112953,2939,75791,2770,"Entertainers and performers, sports and related workers, all other",1,11,1.451359660117956e-4
-Albania,4470,112953,2939,75791,3610,Occupational therapy assistants and aides,1,11,1.451359660117956e-4
-Albania,4470,112953,2939,75791,9830,"Military, rank not specified",1,11,1.451359660117956e-4
-Albania,4470,112953,2939,75791,4800,Advertising sales agents,1,10,1.3194178728345054e-4
-Albania,4470,112953,2939,75791,6730,Highway maintenance workers,1,10,1.3194178728345054e-4
-Albania,4470,112953,2939,75791,6800,"Derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining",1,10,1.3194178728345054e-4
-Albania,4470,112953,2939,75791,7360,Millwrights,1,10,1.3194178728345054e-4
-Albania,4470,112953,2939,75791,8620,Water and wastewater treatment plant and system operators,1,10,1.3194178728345054e-4
-Albania,4470,112953,2939,75791,8830,Photographic process workers and processing machine operators,1,10,1.3194178728345054e-4
-Albania,4470,112953,2939,75791,0500,"Agents and business managers of artists, performers, and athletes",1,9,1.1874760855510548e-4
-Albania,4470,112953,2939,75791,2810,"News analysts, reporters, and journalists",1,9,1.1874760855510548e-4
-Albania,4470,112953,2939,75791,8750,Jewelers and precious stone and metal workers,1,9,1.1874760855510548e-4
-Albania,4470,112953,2939,75791,3802,Correctional officers and jailers,1,8,1.0555342982676043e-4
-Albania,4470,112953,2939,75791,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,8,1.0555342982676043e-4
-Albania,4470,112953,2939,75791,1106,Computer network architects,1,7,9.235925109841538e-5
-Albania,4470,112953,2939,75791,2865,"Media and communication workers, all other",1,7,9.235925109841538e-5
-Albania,4470,112953,2939,75791,5522,"Dispatchers, except police, fire, and ambulance",1,4,5.2776714913380215e-5
+country,n_workers,workers,occ,occ_title,occ_share
+Albania,136,3817,4220,Janitors and building cleaners,0.05036218020609307
+Albania,64,2100,9130,Driver/sales workers and truck drivers,0.027707775329524613
+Albania,72,1981,0440,Other managers,0.026137668060851552
+Albania,75,1943,0800,Accountants and auditors,0.02563628926917444
+Albania,58,1661,6260,Construction laborers,0.021915530867781134
+Albania,47,1451,4110,Waiters and waitresses,0.019144753334828672
+Albania,46,1388,4020,Cooks,0.018313520074942934
+Albania,50,1338,4700,First-line supervisors of retail sales workers,0.017653811138525682
+Albania,52,1307,4230,Maids and housekeeping cleaners,0.017244791597946986
+Albania,39,1186,4760,Retail salespersons,0.015648295971817234
+Albania,33,1158,0310,Food service managers,0.015278858967423573
+Albania,38,1080,6410,Painters and paperhangers,0.014249713026612659
+Albania,39,1060,4510,"Hairdressers, hairstylists, and cosmetologists",0.013985829452045757
+Albania,45,1022,0120,Financial managers,0.013484450660368645
+Albania,28,979,6355,Electricians,0.012917100975049807
+Albania,44,944,3255,Registered nurses,0.012455304719557731
+Albania,46,937,2545,Teaching assistants,0.012362945468459315
+Albania,30,834,3602,Personal care aides,0.011003945059439775
+Albania,38,812,2310,Elementary and middle school teachers,0.010713673127416183
+Albania,26,811,9645,Stockers and order fillers,0.01070047894868784
+Albania,23,765,3603,Nursing assistants,0.010093546727183966
+Albania,21,750,3645,Medical assistants,0.00989563404625879
+Albania,29,726,4720,Cashiers,0.009578973756778509
+Albania,21,725,0220,Construction managers,0.009565779578050165
+Albania,31,706,6442,"Plumbers, pipefitters, and steamfitters",0.009315090182211608
+Albania,24,664,7750,Other assemblers and fabricators,0.008760934675621116
+Albania,22,659,0845,Financial and investment analysts,0.008694963781979391
+Albania,27,655,5240,Customer service representatives,0.00864218706706601
+Albania,19,646,9142,Taxi drivers,0.008523439458510905
+Albania,30,628,1021,Software developers,0.008285944241400695
+Albania,24,625,6230,Carpenters,0.008246361705215659
+Albania,25,616,5120,"Bookkeeping, accounting, and auditing clerks",0.008127614096660553
+Albania,16,611,3300,Clinical laboratory technologists and technicians,0.008061643203018828
+Albania,18,599,2300,Preschool and kindergarten teachers,0.007903313058278688
+Albania,27,595,8990,"Miscellaneous production workers, including equipment operators and tenders",0.007850536343365307
+Albania,25,590,4030,Food preparation workers,0.0077845654497235815
+Albania,19,572,5510,Couriers and messengers,0.007547070232613371
+Albania,24,562,9620,"Laborers and freight, stock, and material movers, hand",0.0074151284453299205
+Albania,17,557,5740,"Secretaries and administrative assistants, except legal, medical, and executive",0.007349157551688195
+Albania,20,530,0020,General and operations managers,0.006992914726022878
+Albania,20,519,0630,Human resources workers,0.006847778760011083
+Albania,18,509,2205,Postsecondary teachers,0.006715836972727632
+Albania,20,497,2320,Secondary school teachers,0.006557506827987492
+Albania,21,492,0705,Project management specialists,0.006491535934345766
+Albania,16,472,0410,"Property, real estate, and community association managers",0.006227652359778866
+Albania,19,465,5860,"Office clerks, general",0.00613529310868045
+Albania,14,454,0052,Sales managers,0.005990157142668655
+Albania,15,454,3640,Dental assistants,0.005990157142668655
+Albania,16,452,7200,Automotive service technicians and mechanics,0.005963768785211964
+Albania,11,445,7315,"Heating, air conditioning, and refrigeration mechanics and installers",0.005871409534113549
+Albania,17,437,4000,Chefs and head cooks,0.005765856104286789
+Albania,21,433,7340,"Maintenance and repair workers, general",0.005713079389373409
+Albania,11,420,4600,Childcare workers,0.005541555065904923
+Albania,19,409,2100,"Lawyers, and judges, magistrates, and other judicial workers",0.005396419099893127
+Albania,11,408,4200,First-line supervisors of housekeeping and janitorial workers,0.005383224921164782
+Albania,10,374,6240,"Carpet, floor, and tile installers and finishers",0.0049346228444010504
+Albania,13,371,4710,First-line supervisors of non-retail sales workers,0.004895040308216015
+Albania,16,370,1050,Computer support specialists,0.00488184612948767
+Albania,15,368,1108,"Computer occupations, all other",0.00485545777203098
+Albania,12,365,0350,Medical and health services managers,0.004815875235845945
+Albania,11,365,2145,Paralegals and legal assistants,0.004815875235845945
+Albania,14,357,1360,Civil engineers,0.0047103218060191845
+Albania,16,351,0710,Management analysts,0.004631156733649114
+Albania,13,344,4530,"Baggage porters, bellhops, and concierges",0.004538797482550699
+Albania,12,341,5000,First-line supervisors of office and administrative support workers,0.004499214946365663
+Albania,16,334,5400,Receptionists and information clerks,0.004406855695267248
+Albania,8,333,3310,Dental hygienists,0.004393661516538903
+Albania,12,318,4850,"Sales representatives, wholesale and manufacturing",0.0041957488356137275
+Albania,15,307,3050,Pharmacists,0.004050612869601932
+Albania,12,307,3930,Security guards and gaming surveillance officers,0.004050612869601932
+Albania,10,303,6515,Roofers,0.003997836154688551
+Albania,12,300,0010,Chief executives and legislators,0.003958253618503516
+Albania,10,291,1760,"Physical scientists, all other",0.003839506009948411
+Albania,14,290,8740,"Inspectors, testers, sorters, samplers, and weighers",0.0038263118312200656
+Albania,8,285,4130,Dining room and cafeteria attendants and bartender helpers,0.0037603409375783405
+Albania,13,284,6200,First-line supervisors of construction trades and extraction workers,0.0037471467588499952
+Albania,8,278,5940,Other office and administrative support workers,0.0036679816864799253
+Albania,14,269,1530,Other engineers,0.0035492340779248194
+Albania,4,261,2634,Graphic designers,0.0034436806480980593
+Albania,8,258,1650,Other life scientists,0.003404098111913024
+Albania,6,258,4120,"Food servers, nonrestaurant",0.003404098111913024
+Albania,13,256,4920,Real estate brokers and sales agents,0.003377709754456334
+Albania,10,253,0910,Credit counselors and loan officers,0.003338127218271299
+Albania,15,245,8225,Other metal workers and plastic workers,0.0032325737884445383
+Albania,8,242,4820,"Securities, commodities, and financial services sales agents",0.0031929912522595033
+Albania,12,239,3090,Physicians,0.003153408716074468
+Albania,8,239,4965,"Sales and related workers, all other",0.003153408716074468
+Albania,12,238,3870,Police officers,0.003140214537346123
+Albania,6,236,4810,Insurance sales agents,0.003113826179889433
+Albania,8,231,1430,"Industrial engineers, including health and safety",0.0030478552862477073
+Albania,10,230,4055,Fast food and counter workers,0.0030346611075193625
+Albania,9,229,4435,Other entertainment attendants and related workers,0.0030214669287910176
+Albania,9,225,0750,"Business operations specialists, all other",0.0029686902138776373
+Albania,2,223,3740,Firefighters,0.002942301856420947
+Albania,10,221,4251,Landscaping and groundskeeping workers,0.002915913498964257
+Albania,8,219,2016,Social and human service assistants,0.002889525141507567
+Albania,10,219,3421,Pharmacy technicians,0.002889525141507567
+Albania,12,218,3601,Home health aides,0.0028763309627792217
+Albania,11,211,5160,Tellers,0.0027839717116808064
+Albania,6,205,0565,Compliance officers,0.002704806639310736
+Albania,9,205,1410,Electrical and electronics engineers,0.002704806639310736
+Albania,12,201,0110,Computer and information systems managers,0.0026520299243973557
+Albania,9,193,7800,Bakers,0.0025464764945705956
+Albania,12,191,1240,Other mathematical science occupations,0.0025200881371139055
+Albania,4,190,6660,Construction and building inspectors,0.00250689395838556
+Albania,9,189,1006,Computer systems analysts,0.0024936997796572154
+Albania,5,188,4010,First-line supervisors of food preparation and serving workers,0.00248050560092887
+Albania,4,186,9600,Industrial truck and tractor operators,0.00245411724347218
+Albania,9,182,7700,First-line supervisors of production and operating workers,0.0024013405285587997
+Albania,5,179,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",0.0023617579923737647
+Albania,10,176,0735,Market research analysts and marketing specialists,0.0023221754561887297
+Albania,7,176,9121,"Bus drivers, school",0.0023221754561887297
+Albania,4,170,3258,"Nurse practitioners, and nurse midwives",0.0022430103838186593
+Albania,6,163,0051,Marketing managers,0.002150651132720244
+Albania,3,161,0700,Logisticians,0.002124262775263554
+Albania,4,160,8320,Sewing machine operators,0.0021110685965352086
+Albania,7,158,1305,"Architects, except landscape and naval",0.0020846802390785185
+Albania,4,158,4521,Manicurists and pedicurists,0.0020846802390785185
+Albania,4,156,0150,Purchasing managers,0.0020582918816218283
+Albania,4,154,7640,"Other installation, maintenance, and repair workers",0.002031903524165138
+Albania,12,152,4140,Dishwashers,0.002005515166708448
+Albania,10,152,9640,"Packers and packagers, hand",0.002005515166708448
+Albania,5,151,2014,"Social workers, all other",0.0019923209879801032
+Albania,7,149,7330,Industrial and refractory machinery mechanics,0.001965932630523413
+Albania,7,147,0340,Lodging managers,0.001939544273066723
+Albania,6,147,5610,"Shipping, receiving, and inventory clerks",0.001939544273066723
+Albania,7,145,0850,Personal financial advisors,0.0019131559156100328
+Albania,8,145,3322,Diagnostic medical sonographers,0.0019131559156100328
+Albania,3,141,0830,Credit analysts,0.0018603792006966526
+Albania,10,141,2360,Other teachers and instructors,0.0018603792006966526
+Albania,5,139,3500,Licensed practical and licensed vocational nurses,0.0018339908432399626
+Albania,8,138,0230,Education and childcare administrators,0.0018207966645116176
+Albania,8,138,2600,Artists and related workers,0.0018207966645116176
+Albania,5,138,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",0.0018207966645116176
+Albania,7,136,0520,"Wholesale and retail buyers, except farm products",0.0017944083070549274
+Albania,8,135,4040,Bartenders,0.0017812141283265824
+Albania,6,133,3545,Miscellaneous health technologists and technicians,0.0017548257708698922
+Albania,5,133,5110,Billing and posting clerks,0.0017548257708698922
+Albania,8,132,3649,Phlebotomists,0.0017416315921415472
+Albania,5,129,2640,Other designers,0.001702049055956512
+Albania,4,129,3010,Dentists,0.001702049055956512
+Albania,7,127,5165,Other financial clerks,0.0016756606984998218
+Albania,5,126,8610,Stationary engineers and boiler operators,0.0016624665197714768
+Albania,5,124,2435,Librarians and media collections specialists,0.0016360781623147866
+Albania,5,121,1010,Computer programmers,0.0015964956261297516
+Albania,5,120,2330,Special education teachers,0.0015833014474014066
+Albania,5,116,3110,Physician assistants,0.0015305247324880263
+Albania,4,114,5420,Other information and records clerks,0.0015041363750313362
+Albania,2,107,7130,Security and fire alarm systems installers,0.0014117771239329207
+Albania,3,104,5810,Data entry keyers,0.0013721945877478857
+Albania,4,104,8800,Packaging and filling machine operators and tenders,0.0013721945877478857
+Albania,2,103,6400,Insulation workers,0.0013590004090195406
+Albania,4,103,7905,Computer numerically controlled tool operators and programmers,0.0013590004090195406
+Albania,6,102,3323,Radiologic technologists and technicians,0.0013458062302911956
+Albania,1,100,6441,Pipelayers,0.0013194178728345054
+Albania,5,99,5550,Postal service mail carriers,0.0013062236941061604
+Albania,6,98,1555,"Other engineering technologists and technicians, except drafters",0.0012930295153778153
+Albania,3,98,1825,Other psychologists,0.0012930295153778153
+Albania,2,98,7855,"Food processing workers, all other",0.0012930295153778153
+Albania,4,96,0140,Industrial production managers,0.0012666411579211252
+Albania,2,95,3030,Dietitians and nutritionists,0.00125344697919278
+Albania,4,95,5710,Executive secretaries and executive administrative assistants,0.00125344697919278
+Albania,6,94,1970,"Other life, physical, and social science technicians",0.001240252800464435
+Albania,3,92,7810,"Butchers and other meat, poultry, and fish processing workers",0.001213864443007745
+Albania,20,91,2910,Photographers,0.0012006702642793998
+Albania,2,90,0640,"Compensation, benefits, and job analysis specialists",0.001187476085551055
+Albania,5,90,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",0.001187476085551055
+Albania,4,90,7000,"First-line supervisors of mechanics, installers, and repairers",0.001187476085551055
+Albania,4,89,4500,Barbers,0.00117428190682271
+Albania,4,86,3220,Respiratory therapists,0.0011346993706376747
+Albania,5,85,4655,"Personal care and service workers, all other",0.0011215051919093296
+Albania,2,85,7210,Bus and truck mechanics and diesel engine specialists,0.0011215051919093296
+Albania,1,84,2040,Clergy,0.0011083110131809846
+Albania,3,84,3321,Cardiovascular technologists and technicians,0.0011083110131809846
+Albania,4,84,9350,Parking attendants,0.0011083110131809846
+Albania,2,82,8030,Machinists,0.0010819226557242944
+Albania,4,80,3245,Other therapists,0.0010555342982676043
+Albania,2,79,0040,Advertising and promotions managers,0.0010423401195392592
+Albania,5,77,1065,Database administrators and architects,0.001015951762082569
+Albania,1,77,2905,Other media and communication equipment workers,0.001015951762082569
+Albania,2,77,5360,"Human resources assistants, except payroll and timekeeping",0.001015951762082569
+Albania,4,75,2722,Coaches and scouts,9.89563404625879e-4
+Albania,4,74,1551,Electrical and electronic engineering technologists and technicians,9.76369225897534e-4
+Albania,2,74,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",9.76369225897534e-4
+Albania,2,74,5850,"Mail clerks and mail machine operators, except postal service",9.76369225897534e-4
+Albania,6,73,9610,Cleaners of vehicles and equipment,9.631750471691889e-4
+Albania,6,72,0530,"Purchasing agents, except wholesale, retail, and farm products",9.499808684408439e-4
+Albania,3,71,0102,Facilities managers,9.367866897124988e-4
+Albania,1,68,0205,"Farmers, ranchers, and other agricultural managers",8.972041535274637e-4
+Albania,3,68,8950,Helpers--production workers,8.972041535274637e-4
+Albania,5,67,1460,Mechanical engineers,8.840099747991186e-4
+Albania,3,67,2830,Editors,8.840099747991186e-4
+Albania,4,66,1545,Other drafters,8.708157960707736e-4
+Albania,4,65,8140,"Welding, soldering, and brazing workers",8.576216173424285e-4
+Albania,2,64,2400,"Archivists, curators, and museum technicians",8.444274386140834e-4
+Albania,4,64,7720,"Electrical, electronics, and electromechanical assemblers",8.444274386140834e-4
+Albania,1,63,7610,"Helpers--installation, maintenance, and repair workers",8.312332598857384e-4
+Albania,4,62,0160,"Transportation, storage, and distribution managers",8.180390811573933e-4
+Albania,3,61,1541,Architectural and civil drafters,8.048449024290484e-4
+Albania,2,61,2861,Interpreters and translators,8.048449024290484e-4
+Albania,1,60,6115,Fishing and hunting workers,7.916507237007033e-4
+Albania,4,58,0300,Architectural and engineering managers,7.652623662440132e-4
+Albania,3,57,3550,Other healthcare practitioners and technical occupations,7.520681875156681e-4
+Albania,3,57,5900,"Office machine operators, except computer",7.520681875156681e-4
+Albania,2,56,7430,Precision instrument and equipment repairers,7.38874008787323e-4
+Albania,3,55,6305,Construction equipment operators,7.25679830058978e-4
+Albania,2,54,3945,Transportation security screeners,7.124856513306329e-4
+Albania,4,54,9122,"Bus drivers, transit and intercity",7.124856513306329e-4
+Albania,2,53,1980,Occupational health and safety specialists and technicians,6.992914726022879e-4
+Albania,2,52,0600,Cost estimators,6.860972938739429e-4
+Albania,3,52,9630,Machine feeders and offbearers,6.860972938739429e-4
+Albania,1,51,1031,Web developers,6.729031151455978e-4
+Albania,4,51,2350,Tutors,6.729031151455978e-4
+Albania,3,51,4350,Animal caretakers,6.729031151455978e-4
+Albania,4,50,3515,Medical records specialists,6.597089364172527e-4
+Albania,2,50,8255,Printing press operators,6.597089364172527e-4
+Albania,4,50,9005,Supervisors of transportation and material moving workers,6.597089364172527e-4
+Albania,1,49,4930,Sales engineers,6.465147576889077e-4
+Albania,3,49,8350,"Tailors, dressmakers, and sewers",6.465147576889077e-4
+Albania,2,48,2752,Musicians and singers,6.333205789605626e-4
+Albania,2,47,3820,Detectives and criminal investigators,6.201264002322175e-4
+Albania,2,46,0960,Other financial specialists,6.069322215038724e-4
+Albania,1,44,5330,Loan interviewers and clerks,5.805438640471824e-4
+Albania,2,44,5600,"Production, planning, and expediting clerks",5.805438640471824e-4
+Albania,4,43,9141,Shuttle drivers and chauffeurs,5.673496853188374e-4
+Albania,5,42,2002,"Educational, guidance, and career counselors and advisors",5.541555065904923e-4
+Albania,3,41,3630,Massage therapists,5.409613278621472e-4
+Albania,2,41,5140,Payroll and timekeeping clerks,5.409613278621472e-4
+Albania,3,40,0650,Training and development specialists,5.277671491338022e-4
+Albania,2,40,3160,Physical therapists,5.277671491338022e-4
+Albania,2,40,5410,Reservation and transportation ticket agents and travel clerks,5.277671491338022e-4
+Albania,2,40,7320,Home appliance repairers,5.277671491338022e-4
+Albania,3,39,0540,"Claims adjusters, appraisers, examiners, and investigators",5.145729704054571e-4
+Albania,2,39,3324,Magnetic resonance imaging technologists,5.145729704054571e-4
+Albania,1,38,0060,Public relations and fundraising managers,5.01378791677112e-4
+Albania,3,38,6360,Glaziers,5.01378791677112e-4
+Albania,1,37,6950,Other extraction workers,4.88184612948767e-4
+Albania,2,36,3910,Private detectives and investigators,4.7499043422042194e-4
+Albania,1,36,9410,Transportation inspectors,4.7499043422042194e-4
+Albania,2,35,0420,Social and community service managers,4.6179625549207687e-4
+Albania,1,35,2633,Floral designers,4.6179625549207687e-4
+Albania,2,34,1800,Economists,4.4860207676373186e-4
+Albania,1,34,2632,Fashion designers,4.4860207676373186e-4
+Albania,2,34,2710,Producers and directors,4.4860207676373186e-4
+Albania,2,33,6700,Elevator installers and repairers,4.354078980353868e-4
+Albania,2,32,5310,"Interviewers, except eligibility and loan",4.222137193070417e-4
+Albania,1,32,7925,"Forming machine setters, operators, and tenders, metal and plastic",4.222137193070417e-4
+Albania,1,31,1440,Marine engineers and naval architects,4.0901954057869666e-4
+Albania,2,31,2004,Mental health counselors,4.0901954057869666e-4
+Albania,1,31,7410,Electrical power-line installers and repairers,4.0901954057869666e-4
+Albania,1,30,2840,Technical writers,3.9582536185035164e-4
+Albania,3,30,3655,Other healthcare support workers,3.9582536185035164e-4
+Albania,1,30,4400,Gambling services workers,3.9582536185035164e-4
+Albania,1,29,2920,"Television, video, and film camera operators and editors",3.826311831220066e-4
+Albania,3,29,4621,Exercise trainers and group fitness instructors,3.826311831220066e-4
+Albania,2,29,6050,Other agricultural workers,3.826311831220066e-4
+Albania,2,28,2635,Interior designers,3.694370043936615e-4
+Albania,2,28,3605,Orderlies and psychiatric aides,3.694370043936615e-4
+Albania,2,28,5730,Medical secretaries and administrative assistants,3.694370043936615e-4
+Albania,2,28,7730,Engine and other machine assemblers,3.694370043936615e-4
+Albania,2,27,1022,Software quality assurance analysts and testers,3.5624282566531644e-4
+Albania,1,27,4750,Parts salespersons,3.5624282566531644e-4
+Albania,2,27,8300,Laundry and dry-cleaning workers,3.5624282566531644e-4
+Albania,2,26,2180,"Legal support workers, all other",3.4304864693697143e-4
+Albania,1,26,3422,Psychiatric technicians,3.4304864693697143e-4
+Albania,2,26,3423,Surgical technologists,3.4304864693697143e-4
+Albania,1,25,0360,Natural sciences managers,3.2985446820862636e-4
+Albania,1,25,8100,"Model makers, patternmakers, and molding machine setters, metal and plastic",3.2985446820862636e-4
+Albania,1,24,6720,Hazardous materials removal workers,3.166602894802813e-4
+Albania,1,24,9825,Military enlisted tactical operations and air/weapons specialists and crew members,3.166602894802813e-4
+Albania,2,23,2850,Writers and authors,3.034661107519362e-4
+Albania,1,23,3140,Audiologists,3.034661107519362e-4
+Albania,2,23,3401,Emergency medical technicians,3.034661107519362e-4
+Albania,1,22,1032,Web and digital interface designers,2.902719320235912e-4
+Albania,1,22,6825,Surface mining machine operators and earth drillers,2.902719320235912e-4
+Albania,1,21,1610,Biological scientists,2.7707775329524614e-4
+Albania,1,21,2001,Substance abuse and behavioral disorder counselors,2.7707775329524614e-4
+Albania,1,21,2825,Public relations specialists,2.7707775329524614e-4
+Albania,2,20,0136,Human resources managers,2.638835745669011e-4
+Albania,2,20,1350,Chemical engineers,2.638835745669011e-4
+Albania,1,20,1420,Environmental engineers,2.638835745669011e-4
+Albania,1,20,1640,Conservation scientists and foresters,2.638835745669011e-4
+Albania,2,20,3424,Veterinary technologists and technicians,2.638835745669011e-4
+Albania,1,20,4830,Travel agents,2.638835745669011e-4
+Albania,1,20,5320,"Library assistants, clerical",2.638835745669011e-4
+Albania,1,20,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,2.638835745669011e-4
+Albania,1,19,3230,Speech-language pathologists,2.50689395838556e-4
+Albania,1,19,3330,Nuclear medicine technologists and medical dosimetrists,2.50689395838556e-4
+Albania,1,19,7140,Aircraft mechanics and service technicians,2.50689395838556e-4
+Albania,1,18,0137,Training and development managers,2.3749521711021097e-4
+Albania,2,18,0860,Insurance underwriters,2.3749521711021097e-4
+Albania,1,18,1105,Network and computer systems administrators,2.3749521711021097e-4
+Albania,1,18,1310,"Surveyors, cartographers, and photogrammetrists",2.3749521711021097e-4
+Albania,1,18,3150,Occupational therapists,2.3749521711021097e-4
+Albania,1,18,4330,Supervisors of personal care and service workers,2.3749521711021097e-4
+Albania,2,18,5260,File clerks,2.3749521711021097e-4
+Albania,1,18,5840,Insurance claims and policy processing clerks,2.3749521711021097e-4
+Albania,1,18,6520,Sheet metal workers,2.3749521711021097e-4
+Albania,1,18,7010,"Computer, automated teller, and office machine repairers",2.3749521711021097e-4
+Albania,1,18,7300,Control and valve installers and repairers,2.3749521711021097e-4
+Albania,1,18,7510,"Coin, vending, and amusement machine servicers and repairers",2.3749521711021097e-4
+Albania,1,17,2636,Merchandise displayers and window trimmers,2.2430103838186593e-4
+Albania,1,17,5300,"Hotel, motel, and resort desk clerks",2.2430103838186593e-4
+Albania,1,16,1007,Information security analysts,2.1110685965352086e-4
+Albania,1,16,1910,Biological technicians,2.1110685965352086e-4
+Albania,1,16,3000,Chiropractors,2.1110685965352086e-4
+Albania,1,16,3040,Optometrists,2.1110685965352086e-4
+Albania,1,16,3210,Recreational therapists,2.1110685965352086e-4
+Albania,1,16,5350,Correspondence clerks and order clerks,2.1110685965352086e-4
+Albania,2,16,7020,Radio and telecommunications equipment installers and repairers,2.1110685965352086e-4
+Albania,1,16,7220,Heavy vehicle and mobile equipment service technicians and mechanics,2.1110685965352086e-4
+Albania,1,15,5540,Postal service clerks,1.9791268092517582e-4
+Albania,1,15,6710,Fence erectors,1.9791268092517582e-4
+Albania,1,15,7120,Electronic home entertainment equipment installers and repairers,1.9791268092517582e-4
+Albania,1,14,4522,Skincare specialists,1.8471850219683075e-4
+Albania,1,14,4950,"Door-to-door sales workers, news and street vendors, and related workers",1.8471850219683075e-4
+Albania,1,14,7840,Food batchmakers,1.8471850219683075e-4
+Albania,1,14,8025,"Other machine tool setters, operators, and tenders, metal and plastic",1.8471850219683075e-4
+Albania,1,14,8310,"Pressers, textile, garment, and related materials",1.8471850219683075e-4
+Albania,1,14,8600,"Power plant operators, distributors, and dispatchers",1.8471850219683075e-4
+Albania,1,14,8650,"Crushing, grinding, polishing, mixing, and blending workers",1.8471850219683075e-4
+Albania,1,14,9030,Aircraft pilots and flight engineers,1.8471850219683075e-4
+Albania,1,14,9650,Pumping station operators,1.8471850219683075e-4
+Albania,1,13,0820,Budget analysts,1.7152432346848571e-4
+Albania,1,13,1560,Surveying and mapping technicians,1.7152432346848571e-4
+Albania,1,13,2003,Marriage and family therapists,1.7152432346848571e-4
+Albania,1,13,2170,"Title examiners, abstractors, and searchers",1.7152432346848571e-4
+Albania,1,13,3520,"Opticians, dispensing",1.7152432346848571e-4
+Albania,1,13,4740,Counter and rental clerks,1.7152432346848571e-4
+Albania,1,13,8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal
+						and plastic",1.7152432346848571e-4
+Albania,1,13,8250,Prepress technicians and workers,1.7152432346848571e-4
+Albania,1,13,8810,Painting workers,1.7152432346848571e-4
+Albania,1,13,9365,Transportation service attendants,1.7152432346848571e-4
+Albania,1,12,0726,Fundraisers,1.5833014474014065e-4
+Albania,1,12,0930,"Tax examiners and collectors, and revenue agents",1.5833014474014065e-4
+Albania,1,12,6600,"Helpers, construction trades",1.5833014474014065e-4
+Albania,1,12,9150,"Motor vehicle operators, all other",1.5833014474014065e-4
+Albania,1,12,9430,Other transportation workers,1.5833014474014065e-4
+Albania,1,11,1700,Astronomers and physicists,1.451359660117956e-4
+Albania,1,11,2770,"Entertainers and performers, sports and related workers, all other",1.451359660117956e-4
+Albania,1,11,3610,Occupational therapy assistants and aides,1.451359660117956e-4
+Albania,1,11,9830,"Military, rank not specified",1.451359660117956e-4
+Albania,1,10,4800,Advertising sales agents,1.3194178728345054e-4
+Albania,1,10,6730,Highway maintenance workers,1.3194178728345054e-4
+Albania,1,10,6800,"Derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining",1.3194178728345054e-4
+Albania,1,10,7360,Millwrights,1.3194178728345054e-4
+Albania,1,10,8620,Water and wastewater treatment plant and system operators,1.3194178728345054e-4
+Albania,1,10,8830,Photographic process workers and processing machine operators,1.3194178728345054e-4
+Albania,1,9,0500,"Agents and business managers of artists, performers, and athletes",1.1874760855510548e-4
+Albania,1,9,2810,"News analysts, reporters, and journalists",1.1874760855510548e-4
+Albania,1,9,8750,Jewelers and precious stone and metal workers,1.1874760855510548e-4
+Albania,1,8,3802,Correctional officers and jailers,1.0555342982676043e-4
+Albania,1,8,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1.0555342982676043e-4
+Albania,1,7,1106,Computer network architects,9.235925109841538e-5
+Albania,1,7,2865,"Media and communication workers, all other",9.235925109841538e-5
+Albania,1,4,5522,"Dispatchers, except police, fire, and ambulance",5.2776714913380215e-5

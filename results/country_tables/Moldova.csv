@@ -1,298 +1,298 @@
-country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
-Moldova,2275,56897,1504,37639,9130,Driver/sales workers and truck drivers,115,3256,0.08650601769441271
-Moldova,2275,56897,1504,37639,0440,Other managers,48,1447,0.0384441669544887
-Moldova,2275,56897,1504,37639,1021,Software developers,53,1127,0.029942347033661894
-Moldova,2275,56897,1504,37639,0800,Accountants and auditors,35,916,0.02433645952336672
-Moldova,2275,56897,1504,37639,3255,Registered nurses,37,758,0.020138685937458486
-Moldova,2275,56897,1504,37639,3602,Personal care aides,33,665,0.0176678445229682
-Moldova,2275,56897,1504,37639,5522,"Dispatchers, except police, fire, and ambulance",12,620,0.01647227609660193
-Moldova,2275,56897,1504,37639,4110,Waiters and waitresses,15,619,0.016445707909349346
-Moldova,2275,56897,1504,37639,4920,Real estate brokers and sales agents,23,601,0.01596748053880284
-Moldova,2275,56897,1504,37639,0220,Construction managers,20,590,0.015675230479024416
-Moldova,2275,56897,1504,37639,6230,Carpenters,24,511,0.013576343686070299
-Moldova,2275,56897,1504,37639,4760,Retail salespersons,20,509,0.013523207311565132
-Moldova,2275,56897,1504,37639,5240,Customer service representatives,18,499,0.013257525439039294
-Moldova,2275,56897,1504,37639,6355,Electricians,18,496,0.013177820877281542
-Moldova,2275,56897,1504,37639,5510,Couriers and messengers,10,454,0.012061957012673026
-Moldova,2275,56897,1504,37639,0120,Financial managers,19,441,0.011716570578389436
-Moldova,2275,56897,1504,37639,6260,Construction laborers,12,431,0.0114508887058636
-Moldova,2275,56897,1504,37639,5740,"Secretaries and administrative assistants, except legal, medical, and executive",14,420,0.011158638646085177
-Moldova,2275,56897,1504,37639,4710,First-line supervisors of non-retail sales workers,13,406,0.010786684024549005
-Moldova,2275,56897,1504,37639,9620,"Laborers and freight, stock, and material movers, hand",14,394,0.010467865777518
-Moldova,2275,56897,1504,37639,2360,Other teachers and instructors,11,386,0.01025532027949733
-Moldova,2275,56897,1504,37639,4220,Janitors and building cleaners,20,374,0.009936502032466325
-Moldova,2275,56897,1504,37639,4700,First-line supervisors of retail sales workers,16,371,0.009856797470708573
-Moldova,2275,56897,1504,37639,2640,Other designers,12,352,0.009352001912909483
-Moldova,2275,56897,1504,37639,3601,Home health aides,19,319,0.008475251733574218
-Moldova,2275,56897,1504,37639,4230,Maids and housekeeping cleaners,11,311,0.008262706235553549
-Moldova,2275,56897,1504,37639,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",8,298,0.00791731980126996
-Moldova,2275,56897,1504,37639,0350,Medical and health services managers,6,292,0.0077579106777544565
-Moldova,2275,56897,1504,37639,6442,"Plumbers, pipefitters, and steamfitters",6,289,0.007678206115996705
-Moldova,2275,56897,1504,37639,2910,Photographers,2,279,0.007412524243470868
-Moldova,2275,56897,1504,37639,5000,First-line supervisors of office and administrative support workers,13,276,0.0073328196817131165
-Moldova,2275,56897,1504,37639,7200,Automotive service technicians and mechanics,8,276,0.0073328196817131165
-Moldova,2275,56897,1504,37639,3640,Dental assistants,9,265,0.007040569621934696
-Moldova,2275,56897,1504,37639,0010,Chief executives and legislators,13,261,0.006934296872924361
-Moldova,2275,56897,1504,37639,2310,Elementary and middle school teachers,9,258,0.0068545923111666095
-Moldova,2275,56897,1504,37639,3645,Medical assistants,10,255,0.006774887749408858
-Moldova,2275,56897,1504,37639,2040,Clergy,5,252,0.006695183187651107
-Moldova,2275,56897,1504,37639,9142,Taxi drivers,8,250,0.006642046813145939
-Moldova,2275,56897,1504,37639,0705,Project management specialists,9,247,0.006562342251388188
-Moldova,2275,56897,1504,37639,5860,"Office clerks, general",11,245,0.00650920587688302
-Moldova,2275,56897,1504,37639,3220,Respiratory therapists,4,225,0.005977842131831345
-Moldova,2275,56897,1504,37639,9645,Stockers and order fillers,6,212,0.005632455697547756
-Moldova,2275,56897,1504,37639,2205,Postsecondary teachers,12,211,0.005605887510295173
-Moldova,2275,56897,1504,37639,3245,Other therapists,1,211,0.005605887510295173
-Moldova,2275,56897,1504,37639,7315,"Heating, air conditioning, and refrigeration mechanics and installers",12,210,0.0055793193230425885
-Moldova,2275,56897,1504,37639,1108,"Computer occupations, all other",11,209,0.005552751135790005
-Moldova,2275,56897,1504,37639,4720,Cashiers,7,208,0.0055261829485374215
-Moldova,2275,56897,1504,37639,5120,"Bookkeeping, accounting, and auditing clerks",12,200,0.005313637450516751
-Moldova,2275,56897,1504,37639,5400,Receptionists and information clerks,4,198,0.005260501076011584
-Moldova,2275,56897,1504,37639,1360,Civil engineers,9,196,0.005207364701506416
-Moldova,2275,56897,1504,37639,1010,Computer programmers,13,188,0.004994819203485746
-Moldova,2275,56897,1504,37639,4510,"Hairdressers, hairstylists, and cosmetologists",8,188,0.004994819203485746
-Moldova,2275,56897,1504,37639,0410,"Property, real estate, and community association managers",7,182,0.004835410079970244
-Moldova,2275,56897,1504,37639,2145,Paralegals and legal assistants,4,182,0.004835410079970244
-Moldova,2275,56897,1504,37639,6200,First-line supervisors of construction trades and extraction workers,7,181,0.00480884189271766
-Moldova,2275,56897,1504,37639,0710,Management analysts,10,175,0.004649432769202157
-Moldova,2275,56897,1504,37639,6240,"Carpet, floor, and tile installers and finishers",5,173,0.00459629639469699
-Moldova,2275,56897,1504,37639,3603,Nursing assistants,9,170,0.004516591832939239
-Moldova,2275,56897,1504,37639,1050,Computer support specialists,6,168,0.004463455458434071
-Moldova,2275,56897,1504,37639,3090,Physicians,10,166,0.004410319083928903
-Moldova,2275,56897,1504,37639,0020,General and operations managers,8,165,0.00438375089667632
-Moldova,2275,56897,1504,37639,0110,Computer and information systems managers,8,160,0.004250909960413401
-Moldova,2275,56897,1504,37639,7750,Other assemblers and fabricators,7,160,0.004250909960413401
-Moldova,2275,56897,1504,37639,4140,Dishwashers,4,159,0.004224341773160817
-Moldova,2275,56897,1504,37639,4850,"Sales representatives, wholesale and manufacturing",5,158,0.0041977735859082335
-Moldova,2275,56897,1504,37639,2100,"Lawyers, and judges, magistrates, and other judicial workers",11,157,0.00417120539865565
-Moldova,2275,56897,1504,37639,2320,Secondary school teachers,8,157,0.00417120539865565
-Moldova,2275,56897,1504,37639,2300,Preschool and kindergarten teachers,9,153,0.004064932649645314
-Moldova,2275,56897,1504,37639,9141,Shuttle drivers and chauffeurs,4,153,0.004064932649645314
-Moldova,2275,56897,1504,37639,1006,Computer systems analysts,7,148,0.003932091713382396
-Moldova,2275,56897,1504,37639,7210,Bus and truck mechanics and diesel engine specialists,5,145,0.0038523871516246448
-Moldova,2275,56897,1504,37639,1555,"Other engineering technologists and technicians, except drafters",6,143,0.003799250777119477
-Moldova,2275,56897,1504,37639,4522,Skincare specialists,4,140,0.003719546215361726
-Moldova,2275,56897,1504,37639,1760,"Physical scientists, all other",7,137,0.0036398416536039748
-Moldova,2275,56897,1504,37639,9430,Other transportation workers,2,137,0.0036398416536039748
-Moldova,2275,56897,1504,37639,4055,Fast food and counter workers,6,135,0.003586705279098807
-Moldova,2275,56897,1504,37639,4600,Childcare workers,6,135,0.003586705279098807
-Moldova,2275,56897,1504,37639,1530,Other engineers,6,134,0.0035601370918462234
-Moldova,2275,56897,1504,37639,5550,Postal service mail carriers,4,133,0.0035335689045936395
-Moldova,2275,56897,1504,37639,1007,Information security analysts,4,132,0.0035070007173410556
-Moldova,2275,56897,1504,37639,0845,Financial and investment analysts,6,126,0.0033475915938255534
-Moldova,2275,56897,1504,37639,1022,Software quality assurance analysts and testers,5,126,0.0033475915938255534
-Moldova,2275,56897,1504,37639,4020,Cooks,6,125,0.0033210234065729695
-Moldova,2275,56897,1504,37639,6410,Painters and paperhangers,5,125,0.0033210234065729695
-Moldova,2275,56897,1504,37639,4251,Landscaping and groundskeeping workers,8,123,0.003267887032067802
-Moldova,2275,56897,1504,37639,9121,"Bus drivers, school",3,123,0.003267887032067802
-Moldova,2275,56897,1504,37639,0700,Logisticians,5,121,0.0032147506575626347
-Moldova,2275,56897,1504,37639,7340,"Maintenance and repair workers, general",8,121,0.0032147506575626347
-Moldova,2275,56897,1504,37639,1410,Electrical and electronics engineers,5,120,0.003188182470310051
-Moldova,2275,56897,1504,37639,2600,Artists and related workers,4,120,0.003188182470310051
-Moldova,2275,56897,1504,37639,0052,Sales managers,5,112,0.0029756369722893808
-Moldova,2275,56897,1504,37639,4810,Insurance sales agents,4,111,0.002949068785036797
-Moldova,2275,56897,1504,37639,2435,Librarians and media collections specialists,1,110,0.0029225005977842134
-Moldova,2275,56897,1504,37639,8740,"Inspectors, testers, sorters, samplers, and weighers",7,110,0.0029225005977842134
-Moldova,2275,56897,1504,37639,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,4,108,0.0028693642232790455
-Moldova,2275,56897,1504,37639,3050,Pharmacists,3,105,0.0027896596615212942
-Moldova,2275,56897,1504,37639,0051,Marketing managers,8,104,0.0027630914742687107
-Moldova,2275,56897,1504,37639,0136,Human resources managers,6,104,0.0027630914742687107
-Moldova,2275,56897,1504,37639,2634,Graphic designers,5,104,0.0027630914742687107
-Moldova,2275,56897,1504,37639,2545,Teaching assistants,8,102,0.0027099550997635433
-Moldova,2275,56897,1504,37639,3010,Dentists,4,102,0.0027099550997635433
-Moldova,2275,56897,1504,37639,3322,Diagnostic medical sonographers,4,101,0.0026833869125109594
-Moldova,2275,56897,1504,37639,4040,Bartenders,3,99,0.002630250538005792
-Moldova,2275,56897,1504,37639,3421,Pharmacy technicians,5,97,0.002577114163500624
-Moldova,2275,56897,1504,37639,1545,Other drafters,2,96,0.0025505459762480407
-Moldova,2275,56897,1504,37639,0500,"Agents and business managers of artists, performers, and athletes",1,95,0.002523977788995457
-Moldova,2275,56897,1504,37639,2555,Other educational instruction and library workers,3,94,0.002497409601742873
-Moldova,2275,56897,1504,37639,7840,Food batchmakers,1,94,0.002497409601742873
-Moldova,2275,56897,1504,37639,0150,Purchasing managers,2,93,0.0024708414144902894
-Moldova,2275,56897,1504,37639,2014,"Social workers, all other",5,92,0.0024442732272377055
-Moldova,2275,56897,1504,37639,0140,Industrial production managers,2,89,0.002364568665479954
-Moldova,2275,56897,1504,37639,3870,Police officers,6,87,0.0023114322909747868
-Moldova,2275,56897,1504,37639,7140,Aircraft mechanics and service technicians,3,87,0.0023114322909747868
-Moldova,2275,56897,1504,37639,0310,Food service managers,5,86,0.002284864103722203
-Moldova,2275,56897,1504,37639,5940,Other office and administrative support workers,6,85,0.0022582959164696194
-Moldova,2275,56897,1504,37639,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",3,84,0.0022317277292170355
-Moldova,2275,56897,1504,37639,2633,Floral designers,2,83,0.0022051595419644516
-Moldova,2275,56897,1504,37639,0630,Human resources workers,4,82,0.002178591354711868
-Moldova,2275,56897,1504,37639,3310,Dental hygienists,4,82,0.002178591354711868
-Moldova,2275,56897,1504,37639,4010,First-line supervisors of food preparation and serving workers,3,81,0.002152023167459284
-Moldova,2275,56897,1504,37639,1610,Biological scientists,1,80,0.0021254549802067007
-Moldova,2275,56897,1504,37639,3620,Physical therapist assistants and aides,1,79,0.0020988867929541168
-Moldova,2275,56897,1504,37639,1065,Database administrators and architects,4,75,0.0019926140439437815
-Moldova,2275,56897,1504,37639,8140,"Welding, soldering, and brazing workers",5,75,0.0019926140439437815
-Moldova,2275,56897,1504,37639,1350,Chemical engineers,1,73,0.0019394776694386141
-Moldova,2275,56897,1504,37639,0750,"Business operations specialists, all other",4,72,0.0019129094821860304
-Moldova,2275,56897,1504,37639,1430,"Industrial engineers, including health and safety",3,72,0.0019129094821860304
-Moldova,2275,56897,1504,37639,5730,Medical secretaries and administrative assistants,1,72,0.0019129094821860304
-Moldova,2275,56897,1504,37639,8350,"Tailors, dressmakers, and sewers",2,72,0.0019129094821860304
-Moldova,2275,56897,1504,37639,0565,Compliance officers,4,71,0.0018863412949334467
-Moldova,2275,56897,1504,37639,2001,Substance abuse and behavioral disorder counselors,2,71,0.0018863412949334467
-Moldova,2275,56897,1504,37639,3300,Clinical laboratory technologists and technicians,5,71,0.0018863412949334467
-Moldova,2275,56897,1504,37639,9122,"Bus drivers, transit and intercity",1,70,0.001859773107680863
-Moldova,2275,56897,1504,37639,0102,Facilities managers,3,69,0.0018332049204282791
-Moldova,2275,56897,1504,37639,5110,Billing and posting clerks,5,69,0.0018332049204282791
-Moldova,2275,56897,1504,37639,3630,Massage therapists,3,68,0.0018066367331756954
-Moldova,2275,56897,1504,37639,3960,Other protective service workers,3,66,0.0017535003586705278
-Moldova,2275,56897,1504,37639,0530,"Purchasing agents, except wholesale, retail, and farm products",2,64,0.0017003639841653604
-Moldova,2275,56897,1504,37639,2752,Musicians and singers,2,64,0.0017003639841653604
-Moldova,2275,56897,1504,37639,4200,First-line supervisors of housekeeping and janitorial workers,3,64,0.0017003639841653604
-Moldova,2275,56897,1504,37639,2722,Coaches and scouts,4,62,0.0016472276096601928
-Moldova,2275,56897,1504,37639,3160,Physical therapists,4,62,0.0016472276096601928
-Moldova,2275,56897,1504,37639,1106,Computer network architects,3,61,0.001620659422407609
-Moldova,2275,56897,1504,37639,1650,Other life scientists,1,61,0.001620659422407609
-Moldova,2275,56897,1504,37639,7800,Bakers,2,61,0.001620659422407609
-Moldova,2275,56897,1504,37639,5250,"Eligibility interviewers, government programs",3,60,0.0015940912351550254
-Moldova,2275,56897,1504,37639,5720,Legal secretaries and administrative assistants,1,60,0.0015940912351550254
-Moldova,2275,56897,1504,37639,3545,Miscellaneous health technologists and technicians,1,59,0.0015675230479024417
-Moldova,2275,56897,1504,37639,4530,"Baggage porters, bellhops, and concierges",3,59,0.0015675230479024417
-Moldova,2275,56897,1504,37639,3605,Orderlies and psychiatric aides,1,58,0.0015409548606498578
-Moldova,2275,56897,1504,37639,4350,Animal caretakers,3,58,0.0015409548606498578
-Moldova,2275,56897,1504,37639,7220,Heavy vehicle and mobile equipment service technicians and mechanics,2,58,0.0015409548606498578
-Moldova,2275,56897,1504,37639,0735,Market research analysts and marketing specialists,3,56,0.0014878184861446904
-Moldova,2275,56897,1504,37639,5160,Tellers,2,55,0.0014612502988921067
-Moldova,2275,56897,1504,37639,3740,Firefighters,3,52,0.0013815457371343554
-Moldova,2275,56897,1504,37639,9610,Cleaners of vehicles and equipment,2,52,0.0013815457371343554
-Moldova,2275,56897,1504,37639,1105,Network and computer systems administrators,3,51,0.0013549775498817717
-Moldova,2275,56897,1504,37639,1240,Other mathematical science occupations,3,51,0.0013549775498817717
-Moldova,2275,56897,1504,37639,0230,Education and childcare administrators,5,50,0.0013284093626291878
-Moldova,2275,56897,1504,37639,0850,Personal financial advisors,2,50,0.0013284093626291878
-Moldova,2275,56897,1504,37639,1822,School psychologists,1,50,0.0013284093626291878
-Moldova,2275,56897,1504,37639,4521,Manicurists and pedicurists,1,50,0.0013284093626291878
-Moldova,2275,56897,1504,37639,2330,Special education teachers,3,49,0.001301841175376604
-Moldova,2275,56897,1504,37639,4800,Advertising sales agents,1,49,0.001301841175376604
-Moldova,2275,56897,1504,37639,5260,File clerks,1,49,0.001301841175376604
-Moldova,2275,56897,1504,37639,0860,Insurance underwriters,1,48,0.0012752729881240204
-Moldova,2275,56897,1504,37639,6850,Underground mining machine operators,1,48,0.0012752729881240204
-Moldova,2275,56897,1504,37639,6050,Other agricultural workers,1,47,0.0012487048008714364
-Moldova,2275,56897,1504,37639,0300,Architectural and engineering managers,3,46,0.0012221366136188527
-Moldova,2275,56897,1504,37639,1460,Mechanical engineers,3,46,0.0012221366136188527
-Moldova,2275,56897,1504,37639,8500,Cabinetmakers and bench carpenters,1,45,0.001195568426366269
-Moldova,2275,56897,1504,37639,2350,Tutors,3,44,0.0011690002391136853
-Moldova,2275,56897,1504,37639,1032,Web and digital interface designers,2,43,0.0011424320518611014
-Moldova,2275,56897,1504,37639,7640,"Other installation, maintenance, and repair workers",3,42,0.0011158638646085177
-Moldova,2275,56897,1504,37639,7700,First-line supervisors of production and operating workers,2,42,0.0011158638646085177
-Moldova,2275,56897,1504,37639,9365,Transportation service attendants,1,41,0.001089295677355934
-Moldova,2275,56897,1504,37639,0420,Social and community service managers,3,39,0.0010361593028507664
-Moldova,2275,56897,1504,37639,2635,Interior designers,3,39,0.0010361593028507664
-Moldova,2275,56897,1504,37639,3230,Speech-language pathologists,3,39,0.0010361593028507664
-Moldova,2275,56897,1504,37639,7020,Radio and telecommunications equipment installers and repairers,2,39,0.0010361593028507664
-Moldova,2275,56897,1504,37639,0205,"Farmers, ranchers, and other agricultural managers",3,38,0.0010095911155981827
-Moldova,2275,56897,1504,37639,2920,"Television, video, and film camera operators and editors",3,38,0.0010095911155981827
-Moldova,2275,56897,1504,37639,3500,Licensed practical and licensed vocational nurses,3,37,9.83022928345599e-4
-Moldova,2275,56897,1504,37639,4000,Chefs and head cooks,2,36,9.564547410930152e-4
-Moldova,2275,56897,1504,37639,4820,"Securities, commodities, and financial services sales agents",2,36,9.564547410930152e-4
-Moldova,2275,56897,1504,37639,5610,"Shipping, receiving, and inventory clerks",2,35,9.298865538404315e-4
-Moldova,2275,56897,1504,37639,8830,Photographic process workers and processing machine operators,1,35,9.298865538404315e-4
-Moldova,2275,56897,1504,37639,9050,Flight attendants,1,35,9.298865538404315e-4
-Moldova,2275,56897,1504,37639,0600,Cost estimators,2,34,9.033183665878477e-4
-Moldova,2275,56897,1504,37639,0725,"Meeting, convention, and event planners",2,34,9.033183665878477e-4
-Moldova,2275,56897,1504,37639,5350,Correspondence clerks and order clerks,2,34,9.033183665878477e-4
-Moldova,2275,56897,1504,37639,2002,"Educational, guidance, and career counselors and advisors",1,33,8.767501793352639e-4
-Moldova,2275,56897,1504,37639,2016,Social and human service assistants,2,33,8.767501793352639e-4
-Moldova,2275,56897,1504,37639,0340,Lodging managers,2,32,8.501819920826802e-4
-Moldova,2275,56897,1504,37639,0910,Credit counselors and loan officers,2,32,8.501819920826802e-4
-Moldova,2275,56897,1504,37639,3258,"Nurse practitioners, and nurse midwives",1,32,8.501819920826802e-4
-Moldova,2275,56897,1504,37639,5810,Data entry keyers,1,32,8.501819920826802e-4
-Moldova,2275,56897,1504,37639,8750,Jewelers and precious stone and metal workers,2,32,8.501819920826802e-4
-Moldova,2275,56897,1504,37639,1980,Occupational health and safety specialists and technicians,2,30,7.970456175775127e-4
-Moldova,2275,56897,1504,37639,4240,Pest control workers,1,30,7.970456175775127e-4
-Moldova,2275,56897,1504,37639,7855,"Food processing workers, all other",2,30,7.970456175775127e-4
-Moldova,2275,56897,1504,37639,9150,"Motor vehicle operators, all other",2,30,7.970456175775127e-4
-Moldova,2275,56897,1504,37639,2006,"Counselors, all other",2,29,7.704774303249289e-4
-Moldova,2275,56897,1504,37639,4330,Supervisors of personal care and service workers,1,29,7.704774303249289e-4
-Moldova,2275,56897,1504,37639,8800,Packaging and filling machine operators and tenders,1,29,7.704774303249289e-4
-Moldova,2275,56897,1504,37639,0960,Other financial specialists,1,28,7.439092430723452e-4
-Moldova,2275,56897,1504,37639,3930,Security guards and gaming surveillance officers,2,28,7.439092430723452e-4
-Moldova,2275,56897,1504,37639,3945,Transportation security screeners,1,27,7.173410558197614e-4
-Moldova,2275,56897,1504,37639,2636,Merchandise displayers and window trimmers,1,26,6.907728685671777e-4
-Moldova,2275,56897,1504,37639,2710,Producers and directors,1,26,6.907728685671777e-4
-Moldova,2275,56897,1504,37639,4160,"Food preparation and serving related workers, all other",1,26,6.907728685671777e-4
-Moldova,2275,56897,1504,37639,6515,Roofers,2,26,6.907728685671777e-4
-Moldova,2275,56897,1504,37639,8320,Sewing machine operators,1,26,6.907728685671777e-4
-Moldova,2275,56897,1504,37639,3100,Surgeons,1,24,6.376364940620102e-4
-Moldova,2275,56897,1504,37639,4655,"Personal care and service workers, all other",3,24,6.376364940620102e-4
-Moldova,2275,56897,1504,37639,2170,"Title examiners, abstractors, and searchers",2,23,6.110683068094264e-4
-Moldova,2275,56897,1504,37639,3323,Radiologic technologists and technicians,2,23,6.110683068094264e-4
-Moldova,2275,56897,1504,37639,9005,Supervisors of transportation and material moving workers,1,22,5.845001195568427e-4
-Moldova,2275,56897,1504,37639,9825,Military enlisted tactical operations and air/weapons specialists and crew members,2,22,5.845001195568427e-4
-Moldova,2275,56897,1504,37639,0360,Natural sciences managers,1,21,5.579319323042589e-4
-Moldova,2275,56897,1504,37639,0540,"Claims adjusters, appraisers, examiners, and investigators",1,21,5.579319323042589e-4
-Moldova,2275,56897,1504,37639,0650,Training and development specialists,1,21,5.579319323042589e-4
-Moldova,2275,56897,1504,37639,2861,Interpreters and translators,2,21,5.579319323042589e-4
-Moldova,2275,56897,1504,37639,3423,Surgical technologists,1,21,5.579319323042589e-4
-Moldova,2275,56897,1504,37639,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,21,5.579319323042589e-4
-Moldova,2275,56897,1504,37639,0137,Training and development managers,1,20,5.313637450516752e-4
-Moldova,2275,56897,1504,37639,7330,Industrial and refractory machinery mechanics,2,20,5.313637450516752e-4
-Moldova,2275,56897,1504,37639,7430,Precision instrument and equipment repairers,1,20,5.313637450516752e-4
-Moldova,2275,56897,1504,37639,9720,Refuse and recyclable material collectors,1,20,5.313637450516752e-4
-Moldova,2275,56897,1504,37639,1720,Chemists and materials scientists,1,19,5.047955577990914e-4
-Moldova,2275,56897,1504,37639,1920,Chemical technicians,1,19,5.047955577990914e-4
-Moldova,2275,56897,1504,37639,3030,Dietitians and nutritionists,1,19,5.047955577990914e-4
-Moldova,2275,56897,1504,37639,3520,"Opticians, dispensing",1,19,5.047955577990914e-4
-Moldova,2275,56897,1504,37639,7130,Security and fire alarm systems installers,1,19,5.047955577990914e-4
-Moldova,2275,56897,1504,37639,1305,"Architects, except landscape and naval",1,18,4.782273705465076e-4
-Moldova,2275,56897,1504,37639,3402,Paramedics,1,18,4.782273705465076e-4
-Moldova,2275,56897,1504,37639,5165,Other financial clerks,1,18,4.782273705465076e-4
-Moldova,2275,56897,1504,37639,5840,Insurance claims and policy processing clerks,1,18,4.782273705465076e-4
-Moldova,2275,56897,1504,37639,2825,Public relations specialists,1,17,4.5165918329392386e-4
-Moldova,2275,56897,1504,37639,2905,Other media and communication equipment workers,1,17,4.5165918329392386e-4
-Moldova,2275,56897,1504,37639,3321,Cardiovascular technologists and technicians,1,17,4.5165918329392386e-4
-Moldova,2275,56897,1504,37639,3802,Correctional officers and jailers,1,17,4.5165918329392386e-4
-Moldova,2275,56897,1504,37639,4252,Tree trimmers and pruners,2,17,4.5165918329392386e-4
-Moldova,2275,56897,1504,37639,4400,Gambling services workers,1,17,4.5165918329392386e-4
-Moldova,2275,56897,1504,37639,5600,"Production, planning, and expediting clerks",1,16,4.250909960413401e-4
-Moldova,2275,56897,1504,37639,7150,Automotive body and related repairers,1,16,4.250909960413401e-4
-Moldova,2275,56897,1504,37639,8810,Painting workers,1,16,4.250909960413401e-4
-Moldova,2275,56897,1504,37639,2013,Mental health and substance abuse social workers,1,15,3.9852280878875635e-4
-Moldova,2275,56897,1504,37639,2015,Probation officers and correctional treatment specialists,1,15,3.9852280878875635e-4
-Moldova,2275,56897,1504,37639,4420,"Ushers, lobby attendants, and ticket takers",1,15,3.9852280878875635e-4
-Moldova,2275,56897,1504,37639,4435,Other entertainment attendants and related workers,1,15,3.9852280878875635e-4
-Moldova,2275,56897,1504,37639,5100,Bill and account collectors,1,15,3.9852280878875635e-4
-Moldova,2275,56897,1504,37639,5410,Reservation and transportation ticket agents and travel clerks,1,15,3.9852280878875635e-4
-Moldova,2275,56897,1504,37639,7610,"Helpers--installation, maintenance, and repair workers",1,15,3.9852280878875635e-4
-Moldova,2275,56897,1504,37639,1825,Other psychologists,1,14,3.719546215361726e-4
-Moldova,2275,56897,1504,37639,3515,Medical records specialists,1,14,3.719546215361726e-4
-Moldova,2275,56897,1504,37639,5310,"Interviewers, except eligibility and loan",1,14,3.719546215361726e-4
-Moldova,2275,56897,1504,37639,5521,Public safety telecommunicators,1,14,3.719546215361726e-4
-Moldova,2275,56897,1504,37639,0040,Advertising and promotions managers,1,13,3.4538643428358884e-4
-Moldova,2275,56897,1504,37639,0160,"Transportation, storage, and distribution managers",1,13,3.4538643428358884e-4
-Moldova,2275,56897,1504,37639,0940,Tax preparers,1,13,3.4538643428358884e-4
-Moldova,2275,56897,1504,37639,1840,Urban and regional planners,1,13,3.4538643428358884e-4
-Moldova,2275,56897,1504,37639,8255,Printing press operators,1,13,3.4538643428358884e-4
-Moldova,2275,56897,1504,37639,8910,Etchers and engravers,1,13,3.4538643428358884e-4
-Moldova,2275,56897,1504,37639,8990,"Miscellaneous production workers, including equipment operators and tenders",2,13,3.4538643428358884e-4
-Moldova,2275,56897,1504,37639,1220,Operations research analysts,1,12,3.188182470310051e-4
-Moldova,2275,56897,1504,37639,2025,Other community and social service specialists,1,12,3.188182470310051e-4
-Moldova,2275,56897,1504,37639,2850,Writers and authors,1,12,3.188182470310051e-4
-Moldova,2275,56897,1504,37639,3110,Physician assistants,1,12,3.188182470310051e-4
-Moldova,2275,56897,1504,37639,4965,"Sales and related workers, all other",1,12,3.188182470310051e-4
-Moldova,2275,56897,1504,37639,5230,"Credit authorizers, checkers, and clerks",1,12,3.188182470310051e-4
-Moldova,2275,56897,1504,37639,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,12,3.188182470310051e-4
-Moldova,2275,56897,1504,37639,6130,Logging workers,1,12,3.188182470310051e-4
-Moldova,2275,56897,1504,37639,8225,Other metal workers and plastic workers,1,12,3.188182470310051e-4
-Moldova,2275,56897,1504,37639,8610,Stationary engineers and boiler operators,1,12,3.188182470310051e-4
-Moldova,2275,56897,1504,37639,9830,"Military, rank not specified",1,12,3.188182470310051e-4
-Moldova,2275,56897,1504,37639,4622,Recreation workers,1,11,2.9225005977842134e-4
-Moldova,2275,56897,1504,37639,7320,Home appliance repairers,1,11,2.9225005977842134e-4
-Moldova,2275,56897,1504,37639,7420,Telecommunications line installers and repairers,1,11,2.9225005977842134e-4
-Moldova,2275,56897,1504,37639,9310,Ship and boat captains and operators,1,11,2.9225005977842134e-4
-Moldova,2275,56897,1504,37639,3256,Nurse anesthetists,1,10,2.656818725258376e-4
-Moldova,2275,56897,1504,37639,3910,Private detectives and investigators,1,10,2.656818725258376e-4
-Moldova,2275,56897,1504,37639,4120,"Food servers, nonrestaurant",1,10,2.656818725258376e-4
-Moldova,2275,56897,1504,37639,9110,"Ambulance drivers and attendants, except emergency medical technicians",1,10,2.656818725258376e-4
-Moldova,2275,56897,1504,37639,9640,"Packers and packagers, hand",1,10,2.656818725258376e-4
-Moldova,2275,56897,1504,37639,1551,Electrical and electronic engineering technologists and technicians,1,9,2.391136852732538e-4
-Moldova,2275,56897,1504,37639,3040,Optometrists,1,9,2.391136852732538e-4
-Moldova,2275,56897,1504,37639,3820,Detectives and criminal investigators,1,9,2.391136852732538e-4
-Moldova,2275,56897,1504,37639,5220,"Court, municipal, and license clerks",1,9,2.391136852732538e-4
-Moldova,2275,56897,1504,37639,1031,Web developers,1,8,2.1254549802067005e-4
-Moldova,2275,56897,1504,37639,3261,Acupuncturists,1,8,2.1254549802067005e-4
-Moldova,2275,56897,1504,37639,3330,Nuclear medicine technologists and medical dosimetrists,1,8,2.1254549802067005e-4
-Moldova,2275,56897,1504,37639,3422,Psychiatric technicians,1,8,2.1254549802067005e-4
-Moldova,2275,56897,1504,37639,3424,Veterinary technologists and technicians,1,8,2.1254549802067005e-4
-Moldova,2275,56897,1504,37639,3655,Other healthcare support workers,1,7,1.859773107680863e-4
-Moldova,2275,56897,1504,37639,4900,"Models, demonstrators, and product promoters",1,7,1.859773107680863e-4
-Moldova,2275,56897,1504,37639,4030,Food preparation workers,1,5,1.328409362629188e-4
+country,n_workers,workers,occ,occ_title,occ_share
+Moldova,115,3256,9130,Driver/sales workers and truck drivers,0.08650601769441271
+Moldova,48,1447,0440,Other managers,0.0384441669544887
+Moldova,53,1127,1021,Software developers,0.029942347033661894
+Moldova,35,916,0800,Accountants and auditors,0.02433645952336672
+Moldova,37,758,3255,Registered nurses,0.020138685937458486
+Moldova,33,665,3602,Personal care aides,0.0176678445229682
+Moldova,12,620,5522,"Dispatchers, except police, fire, and ambulance",0.01647227609660193
+Moldova,15,619,4110,Waiters and waitresses,0.016445707909349346
+Moldova,23,601,4920,Real estate brokers and sales agents,0.01596748053880284
+Moldova,20,590,0220,Construction managers,0.015675230479024416
+Moldova,24,511,6230,Carpenters,0.013576343686070299
+Moldova,20,509,4760,Retail salespersons,0.013523207311565132
+Moldova,18,499,5240,Customer service representatives,0.013257525439039294
+Moldova,18,496,6355,Electricians,0.013177820877281542
+Moldova,10,454,5510,Couriers and messengers,0.012061957012673026
+Moldova,19,441,0120,Financial managers,0.011716570578389436
+Moldova,12,431,6260,Construction laborers,0.0114508887058636
+Moldova,14,420,5740,"Secretaries and administrative assistants, except legal, medical, and executive",0.011158638646085177
+Moldova,13,406,4710,First-line supervisors of non-retail sales workers,0.010786684024549005
+Moldova,14,394,9620,"Laborers and freight, stock, and material movers, hand",0.010467865777518
+Moldova,11,386,2360,Other teachers and instructors,0.01025532027949733
+Moldova,20,374,4220,Janitors and building cleaners,0.009936502032466325
+Moldova,16,371,4700,First-line supervisors of retail sales workers,0.009856797470708573
+Moldova,12,352,2640,Other designers,0.009352001912909483
+Moldova,19,319,3601,Home health aides,0.008475251733574218
+Moldova,11,311,4230,Maids and housekeeping cleaners,0.008262706235553549
+Moldova,8,298,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",0.00791731980126996
+Moldova,6,292,0350,Medical and health services managers,0.0077579106777544565
+Moldova,6,289,6442,"Plumbers, pipefitters, and steamfitters",0.007678206115996705
+Moldova,2,279,2910,Photographers,0.007412524243470868
+Moldova,13,276,5000,First-line supervisors of office and administrative support workers,0.0073328196817131165
+Moldova,8,276,7200,Automotive service technicians and mechanics,0.0073328196817131165
+Moldova,9,265,3640,Dental assistants,0.007040569621934696
+Moldova,13,261,0010,Chief executives and legislators,0.006934296872924361
+Moldova,9,258,2310,Elementary and middle school teachers,0.0068545923111666095
+Moldova,10,255,3645,Medical assistants,0.006774887749408858
+Moldova,5,252,2040,Clergy,0.006695183187651107
+Moldova,8,250,9142,Taxi drivers,0.006642046813145939
+Moldova,9,247,0705,Project management specialists,0.006562342251388188
+Moldova,11,245,5860,"Office clerks, general",0.00650920587688302
+Moldova,4,225,3220,Respiratory therapists,0.005977842131831345
+Moldova,6,212,9645,Stockers and order fillers,0.005632455697547756
+Moldova,12,211,2205,Postsecondary teachers,0.005605887510295173
+Moldova,1,211,3245,Other therapists,0.005605887510295173
+Moldova,12,210,7315,"Heating, air conditioning, and refrigeration mechanics and installers",0.0055793193230425885
+Moldova,11,209,1108,"Computer occupations, all other",0.005552751135790005
+Moldova,7,208,4720,Cashiers,0.0055261829485374215
+Moldova,12,200,5120,"Bookkeeping, accounting, and auditing clerks",0.005313637450516751
+Moldova,4,198,5400,Receptionists and information clerks,0.005260501076011584
+Moldova,9,196,1360,Civil engineers,0.005207364701506416
+Moldova,13,188,1010,Computer programmers,0.004994819203485746
+Moldova,8,188,4510,"Hairdressers, hairstylists, and cosmetologists",0.004994819203485746
+Moldova,7,182,0410,"Property, real estate, and community association managers",0.004835410079970244
+Moldova,4,182,2145,Paralegals and legal assistants,0.004835410079970244
+Moldova,7,181,6200,First-line supervisors of construction trades and extraction workers,0.00480884189271766
+Moldova,10,175,0710,Management analysts,0.004649432769202157
+Moldova,5,173,6240,"Carpet, floor, and tile installers and finishers",0.00459629639469699
+Moldova,9,170,3603,Nursing assistants,0.004516591832939239
+Moldova,6,168,1050,Computer support specialists,0.004463455458434071
+Moldova,10,166,3090,Physicians,0.004410319083928903
+Moldova,8,165,0020,General and operations managers,0.00438375089667632
+Moldova,8,160,0110,Computer and information systems managers,0.004250909960413401
+Moldova,7,160,7750,Other assemblers and fabricators,0.004250909960413401
+Moldova,4,159,4140,Dishwashers,0.004224341773160817
+Moldova,5,158,4850,"Sales representatives, wholesale and manufacturing",0.0041977735859082335
+Moldova,11,157,2100,"Lawyers, and judges, magistrates, and other judicial workers",0.00417120539865565
+Moldova,8,157,2320,Secondary school teachers,0.00417120539865565
+Moldova,9,153,2300,Preschool and kindergarten teachers,0.004064932649645314
+Moldova,4,153,9141,Shuttle drivers and chauffeurs,0.004064932649645314
+Moldova,7,148,1006,Computer systems analysts,0.003932091713382396
+Moldova,5,145,7210,Bus and truck mechanics and diesel engine specialists,0.0038523871516246448
+Moldova,6,143,1555,"Other engineering technologists and technicians, except drafters",0.003799250777119477
+Moldova,4,140,4522,Skincare specialists,0.003719546215361726
+Moldova,7,137,1760,"Physical scientists, all other",0.0036398416536039748
+Moldova,2,137,9430,Other transportation workers,0.0036398416536039748
+Moldova,6,135,4055,Fast food and counter workers,0.003586705279098807
+Moldova,6,135,4600,Childcare workers,0.003586705279098807
+Moldova,6,134,1530,Other engineers,0.0035601370918462234
+Moldova,4,133,5550,Postal service mail carriers,0.0035335689045936395
+Moldova,4,132,1007,Information security analysts,0.0035070007173410556
+Moldova,6,126,0845,Financial and investment analysts,0.0033475915938255534
+Moldova,5,126,1022,Software quality assurance analysts and testers,0.0033475915938255534
+Moldova,6,125,4020,Cooks,0.0033210234065729695
+Moldova,5,125,6410,Painters and paperhangers,0.0033210234065729695
+Moldova,8,123,4251,Landscaping and groundskeeping workers,0.003267887032067802
+Moldova,3,123,9121,"Bus drivers, school",0.003267887032067802
+Moldova,5,121,0700,Logisticians,0.0032147506575626347
+Moldova,8,121,7340,"Maintenance and repair workers, general",0.0032147506575626347
+Moldova,5,120,1410,Electrical and electronics engineers,0.003188182470310051
+Moldova,4,120,2600,Artists and related workers,0.003188182470310051
+Moldova,5,112,0052,Sales managers,0.0029756369722893808
+Moldova,4,111,4810,Insurance sales agents,0.002949068785036797
+Moldova,1,110,2435,Librarians and media collections specialists,0.0029225005977842134
+Moldova,7,110,8740,"Inspectors, testers, sorters, samplers, and weighers",0.0029225005977842134
+Moldova,4,108,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,0.0028693642232790455
+Moldova,3,105,3050,Pharmacists,0.0027896596615212942
+Moldova,8,104,0051,Marketing managers,0.0027630914742687107
+Moldova,6,104,0136,Human resources managers,0.0027630914742687107
+Moldova,5,104,2634,Graphic designers,0.0027630914742687107
+Moldova,8,102,2545,Teaching assistants,0.0027099550997635433
+Moldova,4,102,3010,Dentists,0.0027099550997635433
+Moldova,4,101,3322,Diagnostic medical sonographers,0.0026833869125109594
+Moldova,3,99,4040,Bartenders,0.002630250538005792
+Moldova,5,97,3421,Pharmacy technicians,0.002577114163500624
+Moldova,2,96,1545,Other drafters,0.0025505459762480407
+Moldova,1,95,0500,"Agents and business managers of artists, performers, and athletes",0.002523977788995457
+Moldova,3,94,2555,Other educational instruction and library workers,0.002497409601742873
+Moldova,1,94,7840,Food batchmakers,0.002497409601742873
+Moldova,2,93,0150,Purchasing managers,0.0024708414144902894
+Moldova,5,92,2014,"Social workers, all other",0.0024442732272377055
+Moldova,2,89,0140,Industrial production managers,0.002364568665479954
+Moldova,6,87,3870,Police officers,0.0023114322909747868
+Moldova,3,87,7140,Aircraft mechanics and service technicians,0.0023114322909747868
+Moldova,5,86,0310,Food service managers,0.002284864103722203
+Moldova,6,85,5940,Other office and administrative support workers,0.0022582959164696194
+Moldova,3,84,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",0.0022317277292170355
+Moldova,2,83,2633,Floral designers,0.0022051595419644516
+Moldova,4,82,0630,Human resources workers,0.002178591354711868
+Moldova,4,82,3310,Dental hygienists,0.002178591354711868
+Moldova,3,81,4010,First-line supervisors of food preparation and serving workers,0.002152023167459284
+Moldova,1,80,1610,Biological scientists,0.0021254549802067007
+Moldova,1,79,3620,Physical therapist assistants and aides,0.0020988867929541168
+Moldova,4,75,1065,Database administrators and architects,0.0019926140439437815
+Moldova,5,75,8140,"Welding, soldering, and brazing workers",0.0019926140439437815
+Moldova,1,73,1350,Chemical engineers,0.0019394776694386141
+Moldova,4,72,0750,"Business operations specialists, all other",0.0019129094821860304
+Moldova,3,72,1430,"Industrial engineers, including health and safety",0.0019129094821860304
+Moldova,1,72,5730,Medical secretaries and administrative assistants,0.0019129094821860304
+Moldova,2,72,8350,"Tailors, dressmakers, and sewers",0.0019129094821860304
+Moldova,4,71,0565,Compliance officers,0.0018863412949334467
+Moldova,2,71,2001,Substance abuse and behavioral disorder counselors,0.0018863412949334467
+Moldova,5,71,3300,Clinical laboratory technologists and technicians,0.0018863412949334467
+Moldova,1,70,9122,"Bus drivers, transit and intercity",0.001859773107680863
+Moldova,3,69,0102,Facilities managers,0.0018332049204282791
+Moldova,5,69,5110,Billing and posting clerks,0.0018332049204282791
+Moldova,3,68,3630,Massage therapists,0.0018066367331756954
+Moldova,3,66,3960,Other protective service workers,0.0017535003586705278
+Moldova,2,64,0530,"Purchasing agents, except wholesale, retail, and farm products",0.0017003639841653604
+Moldova,2,64,2752,Musicians and singers,0.0017003639841653604
+Moldova,3,64,4200,First-line supervisors of housekeeping and janitorial workers,0.0017003639841653604
+Moldova,4,62,2722,Coaches and scouts,0.0016472276096601928
+Moldova,4,62,3160,Physical therapists,0.0016472276096601928
+Moldova,3,61,1106,Computer network architects,0.001620659422407609
+Moldova,1,61,1650,Other life scientists,0.001620659422407609
+Moldova,2,61,7800,Bakers,0.001620659422407609
+Moldova,3,60,5250,"Eligibility interviewers, government programs",0.0015940912351550254
+Moldova,1,60,5720,Legal secretaries and administrative assistants,0.0015940912351550254
+Moldova,1,59,3545,Miscellaneous health technologists and technicians,0.0015675230479024417
+Moldova,3,59,4530,"Baggage porters, bellhops, and concierges",0.0015675230479024417
+Moldova,1,58,3605,Orderlies and psychiatric aides,0.0015409548606498578
+Moldova,3,58,4350,Animal caretakers,0.0015409548606498578
+Moldova,2,58,7220,Heavy vehicle and mobile equipment service technicians and mechanics,0.0015409548606498578
+Moldova,3,56,0735,Market research analysts and marketing specialists,0.0014878184861446904
+Moldova,2,55,5160,Tellers,0.0014612502988921067
+Moldova,3,52,3740,Firefighters,0.0013815457371343554
+Moldova,2,52,9610,Cleaners of vehicles and equipment,0.0013815457371343554
+Moldova,3,51,1105,Network and computer systems administrators,0.0013549775498817717
+Moldova,3,51,1240,Other mathematical science occupations,0.0013549775498817717
+Moldova,5,50,0230,Education and childcare administrators,0.0013284093626291878
+Moldova,2,50,0850,Personal financial advisors,0.0013284093626291878
+Moldova,1,50,1822,School psychologists,0.0013284093626291878
+Moldova,1,50,4521,Manicurists and pedicurists,0.0013284093626291878
+Moldova,3,49,2330,Special education teachers,0.001301841175376604
+Moldova,1,49,4800,Advertising sales agents,0.001301841175376604
+Moldova,1,49,5260,File clerks,0.001301841175376604
+Moldova,1,48,0860,Insurance underwriters,0.0012752729881240204
+Moldova,1,48,6850,Underground mining machine operators,0.0012752729881240204
+Moldova,1,47,6050,Other agricultural workers,0.0012487048008714364
+Moldova,3,46,0300,Architectural and engineering managers,0.0012221366136188527
+Moldova,3,46,1460,Mechanical engineers,0.0012221366136188527
+Moldova,1,45,8500,Cabinetmakers and bench carpenters,0.001195568426366269
+Moldova,3,44,2350,Tutors,0.0011690002391136853
+Moldova,2,43,1032,Web and digital interface designers,0.0011424320518611014
+Moldova,3,42,7640,"Other installation, maintenance, and repair workers",0.0011158638646085177
+Moldova,2,42,7700,First-line supervisors of production and operating workers,0.0011158638646085177
+Moldova,1,41,9365,Transportation service attendants,0.001089295677355934
+Moldova,3,39,0420,Social and community service managers,0.0010361593028507664
+Moldova,3,39,2635,Interior designers,0.0010361593028507664
+Moldova,3,39,3230,Speech-language pathologists,0.0010361593028507664
+Moldova,2,39,7020,Radio and telecommunications equipment installers and repairers,0.0010361593028507664
+Moldova,3,38,0205,"Farmers, ranchers, and other agricultural managers",0.0010095911155981827
+Moldova,3,38,2920,"Television, video, and film camera operators and editors",0.0010095911155981827
+Moldova,3,37,3500,Licensed practical and licensed vocational nurses,9.83022928345599e-4
+Moldova,2,36,4000,Chefs and head cooks,9.564547410930152e-4
+Moldova,2,36,4820,"Securities, commodities, and financial services sales agents",9.564547410930152e-4
+Moldova,2,35,5610,"Shipping, receiving, and inventory clerks",9.298865538404315e-4
+Moldova,1,35,8830,Photographic process workers and processing machine operators,9.298865538404315e-4
+Moldova,1,35,9050,Flight attendants,9.298865538404315e-4
+Moldova,2,34,0600,Cost estimators,9.033183665878477e-4
+Moldova,2,34,0725,"Meeting, convention, and event planners",9.033183665878477e-4
+Moldova,2,34,5350,Correspondence clerks and order clerks,9.033183665878477e-4
+Moldova,1,33,2002,"Educational, guidance, and career counselors and advisors",8.767501793352639e-4
+Moldova,2,33,2016,Social and human service assistants,8.767501793352639e-4
+Moldova,2,32,0340,Lodging managers,8.501819920826802e-4
+Moldova,2,32,0910,Credit counselors and loan officers,8.501819920826802e-4
+Moldova,1,32,3258,"Nurse practitioners, and nurse midwives",8.501819920826802e-4
+Moldova,1,32,5810,Data entry keyers,8.501819920826802e-4
+Moldova,2,32,8750,Jewelers and precious stone and metal workers,8.501819920826802e-4
+Moldova,2,30,1980,Occupational health and safety specialists and technicians,7.970456175775127e-4
+Moldova,1,30,4240,Pest control workers,7.970456175775127e-4
+Moldova,2,30,7855,"Food processing workers, all other",7.970456175775127e-4
+Moldova,2,30,9150,"Motor vehicle operators, all other",7.970456175775127e-4
+Moldova,2,29,2006,"Counselors, all other",7.704774303249289e-4
+Moldova,1,29,4330,Supervisors of personal care and service workers,7.704774303249289e-4
+Moldova,1,29,8800,Packaging and filling machine operators and tenders,7.704774303249289e-4
+Moldova,1,28,0960,Other financial specialists,7.439092430723452e-4
+Moldova,2,28,3930,Security guards and gaming surveillance officers,7.439092430723452e-4
+Moldova,1,27,3945,Transportation security screeners,7.173410558197614e-4
+Moldova,1,26,2636,Merchandise displayers and window trimmers,6.907728685671777e-4
+Moldova,1,26,2710,Producers and directors,6.907728685671777e-4
+Moldova,1,26,4160,"Food preparation and serving related workers, all other",6.907728685671777e-4
+Moldova,2,26,6515,Roofers,6.907728685671777e-4
+Moldova,1,26,8320,Sewing machine operators,6.907728685671777e-4
+Moldova,1,24,3100,Surgeons,6.376364940620102e-4
+Moldova,3,24,4655,"Personal care and service workers, all other",6.376364940620102e-4
+Moldova,2,23,2170,"Title examiners, abstractors, and searchers",6.110683068094264e-4
+Moldova,2,23,3323,Radiologic technologists and technicians,6.110683068094264e-4
+Moldova,1,22,9005,Supervisors of transportation and material moving workers,5.845001195568427e-4
+Moldova,2,22,9825,Military enlisted tactical operations and air/weapons specialists and crew members,5.845001195568427e-4
+Moldova,1,21,0360,Natural sciences managers,5.579319323042589e-4
+Moldova,1,21,0540,"Claims adjusters, appraisers, examiners, and investigators",5.579319323042589e-4
+Moldova,1,21,0650,Training and development specialists,5.579319323042589e-4
+Moldova,2,21,2861,Interpreters and translators,5.579319323042589e-4
+Moldova,1,21,3423,Surgical technologists,5.579319323042589e-4
+Moldova,1,21,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",5.579319323042589e-4
+Moldova,1,20,0137,Training and development managers,5.313637450516752e-4
+Moldova,2,20,7330,Industrial and refractory machinery mechanics,5.313637450516752e-4
+Moldova,1,20,7430,Precision instrument and equipment repairers,5.313637450516752e-4
+Moldova,1,20,9720,Refuse and recyclable material collectors,5.313637450516752e-4
+Moldova,1,19,1720,Chemists and materials scientists,5.047955577990914e-4
+Moldova,1,19,1920,Chemical technicians,5.047955577990914e-4
+Moldova,1,19,3030,Dietitians and nutritionists,5.047955577990914e-4
+Moldova,1,19,3520,"Opticians, dispensing",5.047955577990914e-4
+Moldova,1,19,7130,Security and fire alarm systems installers,5.047955577990914e-4
+Moldova,1,18,1305,"Architects, except landscape and naval",4.782273705465076e-4
+Moldova,1,18,3402,Paramedics,4.782273705465076e-4
+Moldova,1,18,5165,Other financial clerks,4.782273705465076e-4
+Moldova,1,18,5840,Insurance claims and policy processing clerks,4.782273705465076e-4
+Moldova,1,17,2825,Public relations specialists,4.5165918329392386e-4
+Moldova,1,17,2905,Other media and communication equipment workers,4.5165918329392386e-4
+Moldova,1,17,3321,Cardiovascular technologists and technicians,4.5165918329392386e-4
+Moldova,1,17,3802,Correctional officers and jailers,4.5165918329392386e-4
+Moldova,2,17,4252,Tree trimmers and pruners,4.5165918329392386e-4
+Moldova,1,17,4400,Gambling services workers,4.5165918329392386e-4
+Moldova,1,16,5600,"Production, planning, and expediting clerks",4.250909960413401e-4
+Moldova,1,16,7150,Automotive body and related repairers,4.250909960413401e-4
+Moldova,1,16,8810,Painting workers,4.250909960413401e-4
+Moldova,1,15,2013,Mental health and substance abuse social workers,3.9852280878875635e-4
+Moldova,1,15,2015,Probation officers and correctional treatment specialists,3.9852280878875635e-4
+Moldova,1,15,4420,"Ushers, lobby attendants, and ticket takers",3.9852280878875635e-4
+Moldova,1,15,4435,Other entertainment attendants and related workers,3.9852280878875635e-4
+Moldova,1,15,5100,Bill and account collectors,3.9852280878875635e-4
+Moldova,1,15,5410,Reservation and transportation ticket agents and travel clerks,3.9852280878875635e-4
+Moldova,1,15,7610,"Helpers--installation, maintenance, and repair workers",3.9852280878875635e-4
+Moldova,1,14,1825,Other psychologists,3.719546215361726e-4
+Moldova,1,14,3515,Medical records specialists,3.719546215361726e-4
+Moldova,1,14,5310,"Interviewers, except eligibility and loan",3.719546215361726e-4
+Moldova,1,14,5521,Public safety telecommunicators,3.719546215361726e-4
+Moldova,1,13,0040,Advertising and promotions managers,3.4538643428358884e-4
+Moldova,1,13,0160,"Transportation, storage, and distribution managers",3.4538643428358884e-4
+Moldova,1,13,0940,Tax preparers,3.4538643428358884e-4
+Moldova,1,13,1840,Urban and regional planners,3.4538643428358884e-4
+Moldova,1,13,8255,Printing press operators,3.4538643428358884e-4
+Moldova,1,13,8910,Etchers and engravers,3.4538643428358884e-4
+Moldova,2,13,8990,"Miscellaneous production workers, including equipment operators and tenders",3.4538643428358884e-4
+Moldova,1,12,1220,Operations research analysts,3.188182470310051e-4
+Moldova,1,12,2025,Other community and social service specialists,3.188182470310051e-4
+Moldova,1,12,2850,Writers and authors,3.188182470310051e-4
+Moldova,1,12,3110,Physician assistants,3.188182470310051e-4
+Moldova,1,12,4965,"Sales and related workers, all other",3.188182470310051e-4
+Moldova,1,12,5230,"Credit authorizers, checkers, and clerks",3.188182470310051e-4
+Moldova,1,12,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",3.188182470310051e-4
+Moldova,1,12,6130,Logging workers,3.188182470310051e-4
+Moldova,1,12,8225,Other metal workers and plastic workers,3.188182470310051e-4
+Moldova,1,12,8610,Stationary engineers and boiler operators,3.188182470310051e-4
+Moldova,1,12,9830,"Military, rank not specified",3.188182470310051e-4
+Moldova,1,11,4622,Recreation workers,2.9225005977842134e-4
+Moldova,1,11,7320,Home appliance repairers,2.9225005977842134e-4
+Moldova,1,11,7420,Telecommunications line installers and repairers,2.9225005977842134e-4
+Moldova,1,11,9310,Ship and boat captains and operators,2.9225005977842134e-4
+Moldova,1,10,3256,Nurse anesthetists,2.656818725258376e-4
+Moldova,1,10,3910,Private detectives and investigators,2.656818725258376e-4
+Moldova,1,10,4120,"Food servers, nonrestaurant",2.656818725258376e-4
+Moldova,1,10,9110,"Ambulance drivers and attendants, except emergency medical technicians",2.656818725258376e-4
+Moldova,1,10,9640,"Packers and packagers, hand",2.656818725258376e-4
+Moldova,1,9,1551,Electrical and electronic engineering technologists and technicians,2.391136852732538e-4
+Moldova,1,9,3040,Optometrists,2.391136852732538e-4
+Moldova,1,9,3820,Detectives and criminal investigators,2.391136852732538e-4
+Moldova,1,9,5220,"Court, municipal, and license clerks",2.391136852732538e-4
+Moldova,1,8,1031,Web developers,2.1254549802067005e-4
+Moldova,1,8,3261,Acupuncturists,2.1254549802067005e-4
+Moldova,1,8,3330,Nuclear medicine technologists and medical dosimetrists,2.1254549802067005e-4
+Moldova,1,8,3422,Psychiatric technicians,2.1254549802067005e-4
+Moldova,1,8,3424,Veterinary technologists and technicians,2.1254549802067005e-4
+Moldova,1,7,3655,Other healthcare support workers,1.859773107680863e-4
+Moldova,1,7,4900,"Models, demonstrators, and product promoters",1.859773107680863e-4
+Moldova,1,5,4030,Food preparation workers,1.328409362629188e-4

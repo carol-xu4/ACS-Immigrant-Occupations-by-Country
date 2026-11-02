@@ -1,233 +1,233 @@
-country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
-Sudan,1755,60102,1068,37350,9130,Driver/sales workers and truck drivers,61,2235,0.059839357429718874
-Sudan,1755,60102,1068,37350,9142,Taxi drivers,60,1799,0.048165997322623826
-Sudan,1755,60102,1068,37350,9620,"Laborers and freight, stock, and material movers, hand",35,1249,0.03344042838018742
-Sudan,1755,60102,1068,37350,4720,Cashiers,20,960,0.02570281124497992
-Sudan,1755,60102,1068,37350,9640,"Packers and packagers, hand",24,912,0.024417670682730923
-Sudan,1755,60102,1068,37350,8990,"Miscellaneous production workers, including equipment operators and tenders",24,858,0.022971887550200805
-Sudan,1755,60102,1068,37350,9645,Stockers and order fillers,21,841,0.02251673360107095
-Sudan,1755,60102,1068,37350,3930,Security guards and gaming surveillance officers,19,831,0.022248995983935742
-Sudan,1755,60102,1068,37350,1021,Software developers,11,768,0.020562248995983936
-Sudan,1755,60102,1068,37350,7810,"Butchers and other meat, poultry, and fish processing workers",12,767,0.020535475234270417
-Sudan,1755,60102,1068,37350,0440,Other managers,23,730,0.019544846050870146
-Sudan,1755,60102,1068,37350,5240,Customer service representatives,15,680,0.01820615796519411
-Sudan,1755,60102,1068,37350,5510,Couriers and messengers,18,680,0.01820615796519411
-Sudan,1755,60102,1068,37350,4020,Cooks,11,652,0.017456492637215527
-Sudan,1755,60102,1068,37350,0800,Accountants and auditors,10,619,0.016572958500669345
-Sudan,1755,60102,1068,37350,7750,Other assemblers and fabricators,14,584,0.015635876840696117
-Sudan,1755,60102,1068,37350,3090,Physicians,18,573,0.01534136546184739
-Sudan,1755,60102,1068,37350,8740,"Inspectors, testers, sorters, samplers, and weighers",14,558,0.014939759036144579
-Sudan,1755,60102,1068,37350,3602,Personal care aides,13,541,0.014484605087014726
-Sudan,1755,60102,1068,37350,2205,Postsecondary teachers,20,494,0.01322623828647925
-Sudan,1755,60102,1068,37350,4220,Janitors and building cleaners,15,458,0.012262382864792504
-Sudan,1755,60102,1068,37350,4760,Retail salespersons,13,452,0.012101740294511379
-Sudan,1755,60102,1068,37350,9610,Cleaners of vehicles and equipment,2,447,0.011967871485943775
-Sudan,1755,60102,1068,37350,3603,Nursing assistants,12,436,0.011673360107095047
-Sudan,1755,60102,1068,37350,3255,Registered nurses,10,418,0.011191432396251673
-Sudan,1755,60102,1068,37350,8800,Packaging and filling machine operators and tenders,7,396,0.010602409638554217
-Sudan,1755,60102,1068,37350,2014,"Social workers, all other",9,395,0.010575635876840695
-Sudan,1755,60102,1068,37350,4230,Maids and housekeeping cleaners,13,395,0.010575635876840695
-Sudan,1755,60102,1068,37350,0310,Food service managers,6,379,0.010147255689424364
-Sudan,1755,60102,1068,37350,2310,Elementary and middle school teachers,19,368,0.009852744310575636
-Sudan,1755,60102,1068,37350,4600,Childcare workers,8,336,0.008995983935742972
-Sudan,1755,60102,1068,37350,2545,Teaching assistants,12,320,0.00856760374832664
-Sudan,1755,60102,1068,37350,4700,First-line supervisors of retail sales workers,10,309,0.008273092369477911
-Sudan,1755,60102,1068,37350,2300,Preschool and kindergarten teachers,9,305,0.008165997322623828
-Sudan,1755,60102,1068,37350,2850,Writers and authors,2,305,0.008165997322623828
-Sudan,1755,60102,1068,37350,1530,Other engineers,13,292,0.007817938420348058
-Sudan,1755,60102,1068,37350,4030,Food preparation workers,6,286,0.007657295850066934
-Sudan,1755,60102,1068,37350,9150,"Motor vehicle operators, all other",8,283,0.007576974564926372
-Sudan,1755,60102,1068,37350,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",3,247,0.006613119143239625
-Sudan,1755,60102,1068,37350,2360,Other teachers and instructors,6,242,0.006479250334672022
-Sudan,1755,60102,1068,37350,3050,Pharmacists,7,238,0.006372155287817939
-Sudan,1755,60102,1068,37350,0350,Medical and health services managers,9,233,0.006238286479250335
-Sudan,1755,60102,1068,37350,5610,"Shipping, receiving, and inventory clerks",4,231,0.006184738955823293
-Sudan,1755,60102,1068,37350,7200,Automotive service technicians and mechanics,2,228,0.006104417670682731
-Sudan,1755,60102,1068,37350,8255,Printing press operators,4,211,0.005649263721552878
-Sudan,1755,60102,1068,37350,8225,Other metal workers and plastic workers,6,208,0.005568942436412316
-Sudan,1755,60102,1068,37350,1760,"Physical scientists, all other",7,207,0.005542168674698795
-Sudan,1755,60102,1068,37350,3645,Medical assistants,3,197,0.005274431057563588
-Sudan,1755,60102,1068,37350,0850,Personal financial advisors,3,196,0.005247657295850067
-Sudan,1755,60102,1068,37350,5860,"Office clerks, general",8,193,0.005167336010709504
-Sudan,1755,60102,1068,37350,5310,"Interviewers, except eligibility and loan",4,192,0.005140562248995984
-Sudan,1755,60102,1068,37350,9122,"Bus drivers, transit and intercity",5,190,0.0050870147255689425
-Sudan,1755,60102,1068,37350,5120,"Bookkeeping, accounting, and auditing clerks",5,189,0.005060240963855421
-Sudan,1755,60102,1068,37350,4510,"Hairdressers, hairstylists, and cosmetologists",4,184,0.004926372155287818
-Sudan,1755,60102,1068,37350,9830,"Military, rank not specified",2,180,0.004819277108433735
-Sudan,1755,60102,1068,37350,0160,"Transportation, storage, and distribution managers",2,174,0.00465863453815261
-Sudan,1755,60102,1068,37350,3500,Licensed practical and licensed vocational nurses,7,171,0.0045783132530120485
-Sudan,1755,60102,1068,37350,4710,First-line supervisors of non-retail sales workers,4,170,0.004551539491298527
-Sudan,1755,60102,1068,37350,6410,Painters and paperhangers,4,170,0.004551539491298527
-Sudan,1755,60102,1068,37350,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",2,160,0.00428380187416332
-Sudan,1755,60102,1068,37350,4530,"Baggage porters, bellhops, and concierges",3,156,0.004176706827309237
-Sudan,1755,60102,1068,37350,0010,Chief executives and legislators,6,155,0.004149933065595716
-Sudan,1755,60102,1068,37350,9121,"Bus drivers, school",4,148,0.003962516733601071
-Sudan,1755,60102,1068,37350,0230,Education and childcare administrators,7,146,0.003908969210174029
-Sudan,1755,60102,1068,37350,6260,Construction laborers,6,142,0.0038018741633199463
-Sudan,1755,60102,1068,37350,5560,"Postal service mail sorters, processors, and processing machine operators",1,141,0.0037751004016064256
-Sudan,1755,60102,1068,37350,5000,First-line supervisors of office and administrative support workers,5,139,0.003721552878179384
-Sudan,1755,60102,1068,37350,3402,Paramedics,4,137,0.0036680053547523427
-Sudan,1755,60102,1068,37350,5410,Reservation and transportation ticket agents and travel clerks,3,132,0.003534136546184739
-Sudan,1755,60102,1068,37350,2320,Secondary school teachers,2,128,0.003427041499330656
-Sudan,1755,60102,1068,37350,7855,"Food processing workers, all other",3,126,0.0033734939759036144
-Sudan,1755,60102,1068,37350,1520,"Petroleum, mining and geological engineers, including mining safety engineers",2,125,0.0033467202141900937
-Sudan,1755,60102,1068,37350,3870,Police officers,5,125,0.0033467202141900937
-Sudan,1755,60102,1068,37350,5400,Receptionists and information clerks,5,124,0.003319946452476573
-Sudan,1755,60102,1068,37350,4251,Landscaping and groundskeeping workers,3,123,0.0032931726907630523
-Sudan,1755,60102,1068,37350,6040,"Graders and sorters, agricultural products",2,119,0.0031860776439089694
-Sudan,1755,60102,1068,37350,8300,Laundry and dry-cleaning workers,4,119,0.0031860776439089694
-Sudan,1755,60102,1068,37350,0705,Project management specialists,3,118,0.0031593038821954487
-Sudan,1755,60102,1068,37350,1555,"Other engineering technologists and technicians, except drafters",4,117,0.0031325301204819275
-Sudan,1755,60102,1068,37350,4920,Real estate brokers and sales agents,2,114,0.0030522088353413654
-Sudan,1755,60102,1068,37350,7700,First-line supervisors of production and operating workers,4,112,0.002998661311914324
-Sudan,1755,60102,1068,37350,5540,Postal service clerks,4,110,0.0029451137884872825
-Sudan,1755,60102,1068,37350,1006,Computer systems analysts,5,104,0.002784471218206158
-Sudan,1755,60102,1068,37350,7210,Bus and truck mechanics and diesel engine specialists,2,102,0.0027309236947791163
-Sudan,1755,60102,1068,37350,9600,Industrial truck and tractor operators,6,100,0.002677376171352075
-Sudan,1755,60102,1068,37350,4055,Fast food and counter workers,7,99,0.002650602409638554
-Sudan,1755,60102,1068,37350,0750,"Business operations specialists, all other",5,97,0.0025970548862115127
-Sudan,1755,60102,1068,37350,7140,Aircraft mechanics and service technicians,4,97,0.0025970548862115127
-Sudan,1755,60102,1068,37350,5810,Data entry keyers,2,90,0.0024096385542168677
-Sudan,1755,60102,1068,37350,1360,Civil engineers,4,88,0.002356091030789826
-Sudan,1755,60102,1068,37350,0120,Financial managers,5,87,0.002329317269076305
-Sudan,1755,60102,1068,37350,0510,"Buyers and purchasing agents, farm products",1,87,0.002329317269076305
-Sudan,1755,60102,1068,37350,2861,Interpreters and translators,6,87,0.002329317269076305
-Sudan,1755,60102,1068,37350,0140,Industrial production managers,2,86,0.0023025435073627844
-Sudan,1755,60102,1068,37350,0420,Social and community service managers,3,86,0.0023025435073627844
-Sudan,1755,60102,1068,37350,0410,"Property, real estate, and community association managers",3,84,0.002248995983935743
-Sudan,1755,60102,1068,37350,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,84,0.002248995983935743
-Sudan,1755,60102,1068,37350,2004,Mental health counselors,2,83,0.0022222222222222222
-Sudan,1755,60102,1068,37350,8640,"Chemical processing machine setters, operators, and tenders",2,81,0.002168674698795181
-Sudan,1755,60102,1068,37350,0205,"Farmers, ranchers, and other agricultural managers",2,80,0.00214190093708166
-Sudan,1755,60102,1068,37350,4120,"Food servers, nonrestaurant",4,80,0.00214190093708166
-Sudan,1755,60102,1068,37350,1410,Electrical and electronics engineers,3,79,0.0021151271753681393
-Sudan,1755,60102,1068,37350,3601,Home health aides,3,78,0.0020883534136546186
-Sudan,1755,60102,1068,37350,4140,Dishwashers,3,77,0.002061579651941098
-Sudan,1755,60102,1068,37350,9300,"Sailors and marine oilers, and ship engineers",4,77,0.002061579651941098
-Sudan,1755,60102,1068,37350,1106,Computer network architects,2,76,0.0020348058902275768
-Sudan,1755,60102,1068,37350,2002,"Educational, guidance, and career counselors and advisors",4,76,0.0020348058902275768
-Sudan,1755,60102,1068,37350,3802,Correctional officers and jailers,3,76,0.0020348058902275768
-Sudan,1755,60102,1068,37350,4850,"Sales representatives, wholesale and manufacturing",5,76,0.0020348058902275768
-Sudan,1755,60102,1068,37350,8140,"Welding, soldering, and brazing workers",2,76,0.0020348058902275768
-Sudan,1755,60102,1068,37350,7330,Industrial and refractory machinery mechanics,4,75,0.002008032128514056
-Sudan,1755,60102,1068,37350,3300,Clinical laboratory technologists and technicians,4,74,0.0019812583668005353
-Sudan,1755,60102,1068,37350,3310,Dental hygienists,3,74,0.0019812583668005353
-Sudan,1755,60102,1068,37350,9365,Transportation service attendants,1,74,0.0019812583668005353
-Sudan,1755,60102,1068,37350,2180,"Legal support workers, all other",1,73,0.0019544846050870146
-Sudan,1755,60102,1068,37350,0735,Market research analysts and marketing specialists,1,70,0.0018741633199464524
-Sudan,1755,60102,1068,37350,7315,"Heating, air conditioning, and refrigeration mechanics and installers",2,69,0.0018473895582329317
-Sudan,1755,60102,1068,37350,0565,Compliance officers,3,65,0.0017402945113788486
-Sudan,1755,60102,1068,37350,4110,Waiters and waitresses,2,64,0.001713520749665328
-Sudan,1755,60102,1068,37350,7905,Computer numerically controlled tool operators and programmers,1,62,0.0016599732262382865
-Sudan,1755,60102,1068,37350,0051,Marketing managers,1,58,0.0015528781793842034
-Sudan,1755,60102,1068,37350,6240,"Carpet, floor, and tile installers and finishers",1,58,0.0015528781793842034
-Sudan,1755,60102,1068,37350,3322,Diagnostic medical sonographers,2,57,0.0015261044176706827
-Sudan,1755,60102,1068,37350,8320,Sewing machine operators,1,57,0.0015261044176706827
-Sudan,1755,60102,1068,37350,2006,"Counselors, all other",2,56,0.001499330655957162
-Sudan,1755,60102,1068,37350,2910,Photographers,1,56,0.001499330655957162
-Sudan,1755,60102,1068,37350,9430,Other transportation workers,1,56,0.001499330655957162
-Sudan,1755,60102,1068,37350,1108,"Computer occupations, all other",3,52,0.001392235609103079
-Sudan,1755,60102,1068,37350,7840,Food batchmakers,2,52,0.001392235609103079
-Sudan,1755,60102,1068,37350,2001,Substance abuse and behavioral disorder counselors,2,51,0.0013654618473895582
-Sudan,1755,60102,1068,37350,2350,Tutors,2,51,0.0013654618473895582
-Sudan,1755,60102,1068,37350,1240,Other mathematical science occupations,2,50,0.0013386880856760374
-Sudan,1755,60102,1068,37350,1710,Atmospheric and space scientists,3,49,0.0013119143239625167
-Sudan,1755,60102,1068,37350,3421,Pharmacy technicians,5,49,0.0013119143239625167
-Sudan,1755,60102,1068,37350,4622,Recreation workers,2,49,0.0013119143239625167
-Sudan,1755,60102,1068,37350,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",1,46,0.0012315930388219546
-Sudan,1755,60102,1068,37350,8810,Painting workers,1,46,0.0012315930388219546
-Sudan,1755,60102,1068,37350,4655,"Personal care and service workers, all other",1,45,0.0012048192771084338
-Sudan,1755,60102,1068,37350,9141,Shuttle drivers and chauffeurs,1,45,0.0012048192771084338
-Sudan,1755,60102,1068,37350,9650,Pumping station operators,1,45,0.0012048192771084338
-Sudan,1755,60102,1068,37350,0101,Administrative services managers,1,44,0.001178045515394913
-Sudan,1755,60102,1068,37350,9005,Supervisors of transportation and material moving workers,3,44,0.001178045515394913
-Sudan,1755,60102,1068,37350,0020,General and operations managers,3,43,0.0011512717536813922
-Sudan,1755,60102,1068,37350,3649,Phlebotomists,1,43,0.0011512717536813922
-Sudan,1755,60102,1068,37350,1007,Information security analysts,2,42,0.0011244979919678715
-Sudan,1755,60102,1068,37350,3740,Firefighters,1,41,0.0010977242302543508
-Sudan,1755,60102,1068,37350,2640,Other designers,1,40,0.00107095046854083
-Sudan,1755,60102,1068,37350,1050,Computer support specialists,3,38,0.0010174029451137884
-Sudan,1755,60102,1068,37350,7800,Bakers,2,38,0.0010174029451137884
-Sudan,1755,60102,1068,37350,3640,Dental assistants,1,37,9.906291834002677e-4
-Sudan,1755,60102,1068,37350,4640,Residential advisors,3,37,9.906291834002677e-4
-Sudan,1755,60102,1068,37350,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",2,37,9.906291834002677e-4
-Sudan,1755,60102,1068,37350,2810,"News analysts, reporters, and journalists",1,36,9.638554216867469e-4
-Sudan,1755,60102,1068,37350,7720,"Electrical, electronics, and electromechanical assemblers",1,35,9.370816599732262e-4
-Sudan,1755,60102,1068,37350,0052,Sales managers,1,34,9.103078982597055e-4
-Sudan,1755,60102,1068,37350,1970,"Other life, physical, and social science technicians",1,34,9.103078982597055e-4
-Sudan,1755,60102,1068,37350,4820,"Securities, commodities, and financial services sales agents",1,34,9.103078982597055e-4
-Sudan,1755,60102,1068,37350,7340,"Maintenance and repair workers, general",3,34,9.103078982597055e-4
-Sudan,1755,60102,1068,37350,1350,Chemical engineers,2,33,8.835341365461848e-4
-Sudan,1755,60102,1068,37350,0650,Training and development specialists,2,32,8.56760374832664e-4
-Sudan,1755,60102,1068,37350,0830,Credit analysts,1,32,8.56760374832664e-4
-Sudan,1755,60102,1068,37350,2100,"Lawyers, and judges, magistrates, and other judicial workers",2,30,8.032128514056225e-4
-Sudan,1755,60102,1068,37350,0300,Architectural and engineering managers,1,29,7.764390896921017e-4
-Sudan,1755,60102,1068,37350,0820,Budget analysts,1,29,7.764390896921017e-4
-Sudan,1755,60102,1068,37350,0910,Credit counselors and loan officers,2,29,7.764390896921017e-4
-Sudan,1755,60102,1068,37350,4800,Advertising sales agents,1,28,7.49665327978581e-4
-Sudan,1755,60102,1068,37350,9760,Other material moving workers,1,28,7.49665327978581e-4
-Sudan,1755,60102,1068,37350,0845,Financial and investment analysts,1,27,7.228915662650603e-4
-Sudan,1755,60102,1068,37350,1720,Chemists and materials scientists,1,27,7.228915662650603e-4
-Sudan,1755,60102,1068,37350,4965,"Sales and related workers, all other",1,26,6.961178045515395e-4
-Sudan,1755,60102,1068,37350,5740,"Secretaries and administrative assistants, except legal, medical, and executive",2,26,6.961178045515395e-4
-Sudan,1755,60102,1068,37350,3160,Physical therapists,1,25,6.693440428380187e-4
-Sudan,1755,60102,1068,37350,1105,Network and computer systems administrators,2,24,6.42570281124498e-4
-Sudan,1755,60102,1068,37350,1745,"Environmental scientists and specialists, including health",1,24,6.42570281124498e-4
-Sudan,1755,60102,1068,37350,5522,"Dispatchers, except police, fire, and ambulance",1,24,6.42570281124498e-4
-Sudan,1755,60102,1068,37350,6250,"Cement masons, concrete finishers, and terrazzo workers",1,24,6.42570281124498e-4
-Sudan,1755,60102,1068,37350,1460,Mechanical engineers,1,23,6.157965194109773e-4
-Sudan,1755,60102,1068,37350,3655,Other healthcare support workers,1,23,6.157965194109773e-4
-Sudan,1755,60102,1068,37350,0110,Computer and information systems managers,2,22,5.890227576974565e-4
-Sudan,1755,60102,1068,37350,0930,"Tax examiners and collectors, and revenue agents",2,22,5.890227576974565e-4
-Sudan,1755,60102,1068,37350,1450,Materials engineers,1,22,5.890227576974565e-4
-Sudan,1755,60102,1068,37350,1920,Chemical technicians,1,22,5.890227576974565e-4
-Sudan,1755,60102,1068,37350,2040,Clergy,1,22,5.890227576974565e-4
-Sudan,1755,60102,1068,37350,6515,Roofers,1,22,5.890227576974565e-4
-Sudan,1755,60102,1068,37350,1220,Operations research analysts,2,21,5.622489959839357e-4
-Sudan,1755,60102,1068,37350,1860,Other social scientists,1,20,5.35475234270415e-4
-Sudan,1755,60102,1068,37350,1900,Agricultural and food science technicians,1,20,5.35475234270415e-4
-Sudan,1755,60102,1068,37350,3110,Physician assistants,1,20,5.35475234270415e-4
-Sudan,1755,60102,1068,37350,3245,Other therapists,1,20,5.35475234270415e-4
-Sudan,1755,60102,1068,37350,6355,Electricians,2,20,5.35475234270415e-4
-Sudan,1755,60102,1068,37350,7010,"Computer, automated teller, and office machine repairers",1,20,5.35475234270415e-4
-Sudan,1755,60102,1068,37350,7120,Electronic home entertainment equipment installers and repairers,1,20,5.35475234270415e-4
-Sudan,1755,60102,1068,37350,9720,Refuse and recyclable material collectors,1,20,5.35475234270415e-4
-Sudan,1755,60102,1068,37350,0700,Logisticians,2,19,5.087014725568942e-4
-Sudan,1755,60102,1068,37350,1320,Aerospace engineers,1,19,5.087014725568942e-4
-Sudan,1755,60102,1068,37350,8710,Cutting workers,1,19,5.087014725568942e-4
-Sudan,1755,60102,1068,37350,1022,Software quality assurance analysts and testers,1,18,4.8192771084337347e-4
-Sudan,1755,60102,1068,37350,1750,"Geoscientists and hydrologists, except geographers",1,18,4.8192771084337347e-4
-Sudan,1755,60102,1068,37350,3946,School bus monitors,1,18,4.8192771084337347e-4
-Sudan,1755,60102,1068,37350,9350,Parking attendants,1,18,4.8192771084337347e-4
-Sudan,1755,60102,1068,37350,0630,Human resources workers,1,17,4.5515394912985275e-4
-Sudan,1755,60102,1068,37350,5900,"Office machine operators, except computer",1,17,4.5515394912985275e-4
-Sudan,1755,60102,1068,37350,3040,Optometrists,1,16,4.28380187416332e-4
-Sudan,1755,60102,1068,37350,3323,Radiologic technologists and technicians,1,16,4.28380187416332e-4
-Sudan,1755,60102,1068,37350,6050,Other agricultural workers,1,16,4.28380187416332e-4
-Sudan,1755,60102,1068,37350,2722,Coaches and scouts,1,15,4.0160642570281126e-4
-Sudan,1755,60102,1068,37350,3422,Psychiatric technicians,1,15,4.0160642570281126e-4
-Sudan,1755,60102,1068,37350,8650,"Crushing, grinding, polishing, mixing, and blending workers",1,15,4.0160642570281126e-4
-Sudan,1755,60102,1068,37350,6305,Construction equipment operators,1,14,3.748326639892905e-4
-Sudan,1755,60102,1068,37350,7420,Telecommunications line installers and repairers,1,14,3.748326639892905e-4
-Sudan,1755,60102,1068,37350,0540,"Claims adjusters, appraisers, examiners, and investigators",1,13,3.4805890227576977e-4
-Sudan,1755,60102,1068,37350,4740,Counter and rental clerks,1,13,3.4805890227576977e-4
-Sudan,1755,60102,1068,37350,3321,Cardiovascular technologists and technicians,1,12,3.21285140562249e-4
-Sudan,1755,60102,1068,37350,3550,Other healthcare practitioners and technical occupations,1,12,3.21285140562249e-4
-Sudan,1755,60102,1068,37350,6360,Glaziers,1,12,3.21285140562249e-4
-Sudan,1755,60102,1068,37350,7410,Electrical power-line installers and repairers,1,12,3.21285140562249e-4
-Sudan,1755,60102,1068,37350,9510,Crane and tower operators,1,12,3.21285140562249e-4
-Sudan,1755,60102,1068,37350,0960,Other financial specialists,1,11,2.945113788487282e-4
-Sudan,1755,60102,1068,37350,3725,"Miscellaneous first-line supervisors, protective service workers",1,11,2.945113788487282e-4
-Sudan,1755,60102,1068,37350,5850,"Mail clerks and mail machine operators, except postal service",1,11,2.945113788487282e-4
-Sudan,1755,60102,1068,37350,0102,Facilities managers,1,10,2.677376171352075e-4
-Sudan,1755,60102,1068,37350,0220,Construction managers,1,10,2.677376171352075e-4
-Sudan,1755,60102,1068,37350,3010,Dentists,1,10,2.677376171352075e-4
-Sudan,1755,60102,1068,37350,3220,Respiratory therapists,1,10,2.677376171352075e-4
-Sudan,1755,60102,1068,37350,3647,Pharmacy aides,1,10,2.677376171352075e-4
-Sudan,1755,60102,1068,37350,9415,Passenger attendants,1,10,2.677376171352075e-4
-Sudan,1755,60102,1068,37350,5110,Billing and posting clerks,1,9,2.4096385542168674e-4
-Sudan,1755,60102,1068,37350,5940,Other office and administrative support workers,1,8,2.14190093708166e-4
-Sudan,1755,60102,1068,37350,3630,Massage therapists,1,7,1.8741633199464524e-4
-Sudan,1755,60102,1068,37350,4810,Insurance sales agents,1,7,1.8741633199464524e-4
-Sudan,1755,60102,1068,37350,3100,Surgeons,1,6,1.606425702811245e-4
-Sudan,1755,60102,1068,37350,0150,Purchasing managers,1,4,1.07095046854083e-4
+country,n_workers,workers,occ,occ_title,occ_share
+Sudan,61,2235,9130,Driver/sales workers and truck drivers,0.059839357429718874
+Sudan,60,1799,9142,Taxi drivers,0.048165997322623826
+Sudan,35,1249,9620,"Laborers and freight, stock, and material movers, hand",0.03344042838018742
+Sudan,20,960,4720,Cashiers,0.02570281124497992
+Sudan,24,912,9640,"Packers and packagers, hand",0.024417670682730923
+Sudan,24,858,8990,"Miscellaneous production workers, including equipment operators and tenders",0.022971887550200805
+Sudan,21,841,9645,Stockers and order fillers,0.02251673360107095
+Sudan,19,831,3930,Security guards and gaming surveillance officers,0.022248995983935742
+Sudan,11,768,1021,Software developers,0.020562248995983936
+Sudan,12,767,7810,"Butchers and other meat, poultry, and fish processing workers",0.020535475234270417
+Sudan,23,730,0440,Other managers,0.019544846050870146
+Sudan,15,680,5240,Customer service representatives,0.01820615796519411
+Sudan,18,680,5510,Couriers and messengers,0.01820615796519411
+Sudan,11,652,4020,Cooks,0.017456492637215527
+Sudan,10,619,0800,Accountants and auditors,0.016572958500669345
+Sudan,14,584,7750,Other assemblers and fabricators,0.015635876840696117
+Sudan,18,573,3090,Physicians,0.01534136546184739
+Sudan,14,558,8740,"Inspectors, testers, sorters, samplers, and weighers",0.014939759036144579
+Sudan,13,541,3602,Personal care aides,0.014484605087014726
+Sudan,20,494,2205,Postsecondary teachers,0.01322623828647925
+Sudan,15,458,4220,Janitors and building cleaners,0.012262382864792504
+Sudan,13,452,4760,Retail salespersons,0.012101740294511379
+Sudan,2,447,9610,Cleaners of vehicles and equipment,0.011967871485943775
+Sudan,12,436,3603,Nursing assistants,0.011673360107095047
+Sudan,10,418,3255,Registered nurses,0.011191432396251673
+Sudan,7,396,8800,Packaging and filling machine operators and tenders,0.010602409638554217
+Sudan,9,395,2014,"Social workers, all other",0.010575635876840695
+Sudan,13,395,4230,Maids and housekeeping cleaners,0.010575635876840695
+Sudan,6,379,0310,Food service managers,0.010147255689424364
+Sudan,19,368,2310,Elementary and middle school teachers,0.009852744310575636
+Sudan,8,336,4600,Childcare workers,0.008995983935742972
+Sudan,12,320,2545,Teaching assistants,0.00856760374832664
+Sudan,10,309,4700,First-line supervisors of retail sales workers,0.008273092369477911
+Sudan,9,305,2300,Preschool and kindergarten teachers,0.008165997322623828
+Sudan,2,305,2850,Writers and authors,0.008165997322623828
+Sudan,13,292,1530,Other engineers,0.007817938420348058
+Sudan,6,286,4030,Food preparation workers,0.007657295850066934
+Sudan,8,283,9150,"Motor vehicle operators, all other",0.007576974564926372
+Sudan,3,247,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",0.006613119143239625
+Sudan,6,242,2360,Other teachers and instructors,0.006479250334672022
+Sudan,7,238,3050,Pharmacists,0.006372155287817939
+Sudan,9,233,0350,Medical and health services managers,0.006238286479250335
+Sudan,4,231,5610,"Shipping, receiving, and inventory clerks",0.006184738955823293
+Sudan,2,228,7200,Automotive service technicians and mechanics,0.006104417670682731
+Sudan,4,211,8255,Printing press operators,0.005649263721552878
+Sudan,6,208,8225,Other metal workers and plastic workers,0.005568942436412316
+Sudan,7,207,1760,"Physical scientists, all other",0.005542168674698795
+Sudan,3,197,3645,Medical assistants,0.005274431057563588
+Sudan,3,196,0850,Personal financial advisors,0.005247657295850067
+Sudan,8,193,5860,"Office clerks, general",0.005167336010709504
+Sudan,4,192,5310,"Interviewers, except eligibility and loan",0.005140562248995984
+Sudan,5,190,9122,"Bus drivers, transit and intercity",0.0050870147255689425
+Sudan,5,189,5120,"Bookkeeping, accounting, and auditing clerks",0.005060240963855421
+Sudan,4,184,4510,"Hairdressers, hairstylists, and cosmetologists",0.004926372155287818
+Sudan,2,180,9830,"Military, rank not specified",0.004819277108433735
+Sudan,2,174,0160,"Transportation, storage, and distribution managers",0.00465863453815261
+Sudan,7,171,3500,Licensed practical and licensed vocational nurses,0.0045783132530120485
+Sudan,4,170,4710,First-line supervisors of non-retail sales workers,0.004551539491298527
+Sudan,4,170,6410,Painters and paperhangers,0.004551539491298527
+Sudan,2,160,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",0.00428380187416332
+Sudan,3,156,4530,"Baggage porters, bellhops, and concierges",0.004176706827309237
+Sudan,6,155,0010,Chief executives and legislators,0.004149933065595716
+Sudan,4,148,9121,"Bus drivers, school",0.003962516733601071
+Sudan,7,146,0230,Education and childcare administrators,0.003908969210174029
+Sudan,6,142,6260,Construction laborers,0.0038018741633199463
+Sudan,1,141,5560,"Postal service mail sorters, processors, and processing machine operators",0.0037751004016064256
+Sudan,5,139,5000,First-line supervisors of office and administrative support workers,0.003721552878179384
+Sudan,4,137,3402,Paramedics,0.0036680053547523427
+Sudan,3,132,5410,Reservation and transportation ticket agents and travel clerks,0.003534136546184739
+Sudan,2,128,2320,Secondary school teachers,0.003427041499330656
+Sudan,3,126,7855,"Food processing workers, all other",0.0033734939759036144
+Sudan,2,125,1520,"Petroleum, mining and geological engineers, including mining safety engineers",0.0033467202141900937
+Sudan,5,125,3870,Police officers,0.0033467202141900937
+Sudan,5,124,5400,Receptionists and information clerks,0.003319946452476573
+Sudan,3,123,4251,Landscaping and groundskeeping workers,0.0032931726907630523
+Sudan,2,119,6040,"Graders and sorters, agricultural products",0.0031860776439089694
+Sudan,4,119,8300,Laundry and dry-cleaning workers,0.0031860776439089694
+Sudan,3,118,0705,Project management specialists,0.0031593038821954487
+Sudan,4,117,1555,"Other engineering technologists and technicians, except drafters",0.0031325301204819275
+Sudan,2,114,4920,Real estate brokers and sales agents,0.0030522088353413654
+Sudan,4,112,7700,First-line supervisors of production and operating workers,0.002998661311914324
+Sudan,4,110,5540,Postal service clerks,0.0029451137884872825
+Sudan,5,104,1006,Computer systems analysts,0.002784471218206158
+Sudan,2,102,7210,Bus and truck mechanics and diesel engine specialists,0.0027309236947791163
+Sudan,6,100,9600,Industrial truck and tractor operators,0.002677376171352075
+Sudan,7,99,4055,Fast food and counter workers,0.002650602409638554
+Sudan,5,97,0750,"Business operations specialists, all other",0.0025970548862115127
+Sudan,4,97,7140,Aircraft mechanics and service technicians,0.0025970548862115127
+Sudan,2,90,5810,Data entry keyers,0.0024096385542168677
+Sudan,4,88,1360,Civil engineers,0.002356091030789826
+Sudan,5,87,0120,Financial managers,0.002329317269076305
+Sudan,1,87,0510,"Buyers and purchasing agents, farm products",0.002329317269076305
+Sudan,6,87,2861,Interpreters and translators,0.002329317269076305
+Sudan,2,86,0140,Industrial production managers,0.0023025435073627844
+Sudan,3,86,0420,Social and community service managers,0.0023025435073627844
+Sudan,3,84,0410,"Property, real estate, and community association managers",0.002248995983935743
+Sudan,1,84,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",0.002248995983935743
+Sudan,2,83,2004,Mental health counselors,0.0022222222222222222
+Sudan,2,81,8640,"Chemical processing machine setters, operators, and tenders",0.002168674698795181
+Sudan,2,80,0205,"Farmers, ranchers, and other agricultural managers",0.00214190093708166
+Sudan,4,80,4120,"Food servers, nonrestaurant",0.00214190093708166
+Sudan,3,79,1410,Electrical and electronics engineers,0.0021151271753681393
+Sudan,3,78,3601,Home health aides,0.0020883534136546186
+Sudan,3,77,4140,Dishwashers,0.002061579651941098
+Sudan,4,77,9300,"Sailors and marine oilers, and ship engineers",0.002061579651941098
+Sudan,2,76,1106,Computer network architects,0.0020348058902275768
+Sudan,4,76,2002,"Educational, guidance, and career counselors and advisors",0.0020348058902275768
+Sudan,3,76,3802,Correctional officers and jailers,0.0020348058902275768
+Sudan,5,76,4850,"Sales representatives, wholesale and manufacturing",0.0020348058902275768
+Sudan,2,76,8140,"Welding, soldering, and brazing workers",0.0020348058902275768
+Sudan,4,75,7330,Industrial and refractory machinery mechanics,0.002008032128514056
+Sudan,4,74,3300,Clinical laboratory technologists and technicians,0.0019812583668005353
+Sudan,3,74,3310,Dental hygienists,0.0019812583668005353
+Sudan,1,74,9365,Transportation service attendants,0.0019812583668005353
+Sudan,1,73,2180,"Legal support workers, all other",0.0019544846050870146
+Sudan,1,70,0735,Market research analysts and marketing specialists,0.0018741633199464524
+Sudan,2,69,7315,"Heating, air conditioning, and refrigeration mechanics and installers",0.0018473895582329317
+Sudan,3,65,0565,Compliance officers,0.0017402945113788486
+Sudan,2,64,4110,Waiters and waitresses,0.001713520749665328
+Sudan,1,62,7905,Computer numerically controlled tool operators and programmers,0.0016599732262382865
+Sudan,1,58,0051,Marketing managers,0.0015528781793842034
+Sudan,1,58,6240,"Carpet, floor, and tile installers and finishers",0.0015528781793842034
+Sudan,2,57,3322,Diagnostic medical sonographers,0.0015261044176706827
+Sudan,1,57,8320,Sewing machine operators,0.0015261044176706827
+Sudan,2,56,2006,"Counselors, all other",0.001499330655957162
+Sudan,1,56,2910,Photographers,0.001499330655957162
+Sudan,1,56,9430,Other transportation workers,0.001499330655957162
+Sudan,3,52,1108,"Computer occupations, all other",0.001392235609103079
+Sudan,2,52,7840,Food batchmakers,0.001392235609103079
+Sudan,2,51,2001,Substance abuse and behavioral disorder counselors,0.0013654618473895582
+Sudan,2,51,2350,Tutors,0.0013654618473895582
+Sudan,2,50,1240,Other mathematical science occupations,0.0013386880856760374
+Sudan,3,49,1710,Atmospheric and space scientists,0.0013119143239625167
+Sudan,5,49,3421,Pharmacy technicians,0.0013119143239625167
+Sudan,2,49,4622,Recreation workers,0.0013119143239625167
+Sudan,1,46,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",0.0012315930388219546
+Sudan,1,46,8810,Painting workers,0.0012315930388219546
+Sudan,1,45,4655,"Personal care and service workers, all other",0.0012048192771084338
+Sudan,1,45,9141,Shuttle drivers and chauffeurs,0.0012048192771084338
+Sudan,1,45,9650,Pumping station operators,0.0012048192771084338
+Sudan,1,44,0101,Administrative services managers,0.001178045515394913
+Sudan,3,44,9005,Supervisors of transportation and material moving workers,0.001178045515394913
+Sudan,3,43,0020,General and operations managers,0.0011512717536813922
+Sudan,1,43,3649,Phlebotomists,0.0011512717536813922
+Sudan,2,42,1007,Information security analysts,0.0011244979919678715
+Sudan,1,41,3740,Firefighters,0.0010977242302543508
+Sudan,1,40,2640,Other designers,0.00107095046854083
+Sudan,3,38,1050,Computer support specialists,0.0010174029451137884
+Sudan,2,38,7800,Bakers,0.0010174029451137884
+Sudan,1,37,3640,Dental assistants,9.906291834002677e-4
+Sudan,3,37,4640,Residential advisors,9.906291834002677e-4
+Sudan,2,37,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",9.906291834002677e-4
+Sudan,1,36,2810,"News analysts, reporters, and journalists",9.638554216867469e-4
+Sudan,1,35,7720,"Electrical, electronics, and electromechanical assemblers",9.370816599732262e-4
+Sudan,1,34,0052,Sales managers,9.103078982597055e-4
+Sudan,1,34,1970,"Other life, physical, and social science technicians",9.103078982597055e-4
+Sudan,1,34,4820,"Securities, commodities, and financial services sales agents",9.103078982597055e-4
+Sudan,3,34,7340,"Maintenance and repair workers, general",9.103078982597055e-4
+Sudan,2,33,1350,Chemical engineers,8.835341365461848e-4
+Sudan,2,32,0650,Training and development specialists,8.56760374832664e-4
+Sudan,1,32,0830,Credit analysts,8.56760374832664e-4
+Sudan,2,30,2100,"Lawyers, and judges, magistrates, and other judicial workers",8.032128514056225e-4
+Sudan,1,29,0300,Architectural and engineering managers,7.764390896921017e-4
+Sudan,1,29,0820,Budget analysts,7.764390896921017e-4
+Sudan,2,29,0910,Credit counselors and loan officers,7.764390896921017e-4
+Sudan,1,28,4800,Advertising sales agents,7.49665327978581e-4
+Sudan,1,28,9760,Other material moving workers,7.49665327978581e-4
+Sudan,1,27,0845,Financial and investment analysts,7.228915662650603e-4
+Sudan,1,27,1720,Chemists and materials scientists,7.228915662650603e-4
+Sudan,1,26,4965,"Sales and related workers, all other",6.961178045515395e-4
+Sudan,2,26,5740,"Secretaries and administrative assistants, except legal, medical, and executive",6.961178045515395e-4
+Sudan,1,25,3160,Physical therapists,6.693440428380187e-4
+Sudan,2,24,1105,Network and computer systems administrators,6.42570281124498e-4
+Sudan,1,24,1745,"Environmental scientists and specialists, including health",6.42570281124498e-4
+Sudan,1,24,5522,"Dispatchers, except police, fire, and ambulance",6.42570281124498e-4
+Sudan,1,24,6250,"Cement masons, concrete finishers, and terrazzo workers",6.42570281124498e-4
+Sudan,1,23,1460,Mechanical engineers,6.157965194109773e-4
+Sudan,1,23,3655,Other healthcare support workers,6.157965194109773e-4
+Sudan,2,22,0110,Computer and information systems managers,5.890227576974565e-4
+Sudan,2,22,0930,"Tax examiners and collectors, and revenue agents",5.890227576974565e-4
+Sudan,1,22,1450,Materials engineers,5.890227576974565e-4
+Sudan,1,22,1920,Chemical technicians,5.890227576974565e-4
+Sudan,1,22,2040,Clergy,5.890227576974565e-4
+Sudan,1,22,6515,Roofers,5.890227576974565e-4
+Sudan,2,21,1220,Operations research analysts,5.622489959839357e-4
+Sudan,1,20,1860,Other social scientists,5.35475234270415e-4
+Sudan,1,20,1900,Agricultural and food science technicians,5.35475234270415e-4
+Sudan,1,20,3110,Physician assistants,5.35475234270415e-4
+Sudan,1,20,3245,Other therapists,5.35475234270415e-4
+Sudan,2,20,6355,Electricians,5.35475234270415e-4
+Sudan,1,20,7010,"Computer, automated teller, and office machine repairers",5.35475234270415e-4
+Sudan,1,20,7120,Electronic home entertainment equipment installers and repairers,5.35475234270415e-4
+Sudan,1,20,9720,Refuse and recyclable material collectors,5.35475234270415e-4
+Sudan,2,19,0700,Logisticians,5.087014725568942e-4
+Sudan,1,19,1320,Aerospace engineers,5.087014725568942e-4
+Sudan,1,19,8710,Cutting workers,5.087014725568942e-4
+Sudan,1,18,1022,Software quality assurance analysts and testers,4.8192771084337347e-4
+Sudan,1,18,1750,"Geoscientists and hydrologists, except geographers",4.8192771084337347e-4
+Sudan,1,18,3946,School bus monitors,4.8192771084337347e-4
+Sudan,1,18,9350,Parking attendants,4.8192771084337347e-4
+Sudan,1,17,0630,Human resources workers,4.5515394912985275e-4
+Sudan,1,17,5900,"Office machine operators, except computer",4.5515394912985275e-4
+Sudan,1,16,3040,Optometrists,4.28380187416332e-4
+Sudan,1,16,3323,Radiologic technologists and technicians,4.28380187416332e-4
+Sudan,1,16,6050,Other agricultural workers,4.28380187416332e-4
+Sudan,1,15,2722,Coaches and scouts,4.0160642570281126e-4
+Sudan,1,15,3422,Psychiatric technicians,4.0160642570281126e-4
+Sudan,1,15,8650,"Crushing, grinding, polishing, mixing, and blending workers",4.0160642570281126e-4
+Sudan,1,14,6305,Construction equipment operators,3.748326639892905e-4
+Sudan,1,14,7420,Telecommunications line installers and repairers,3.748326639892905e-4
+Sudan,1,13,0540,"Claims adjusters, appraisers, examiners, and investigators",3.4805890227576977e-4
+Sudan,1,13,4740,Counter and rental clerks,3.4805890227576977e-4
+Sudan,1,12,3321,Cardiovascular technologists and technicians,3.21285140562249e-4
+Sudan,1,12,3550,Other healthcare practitioners and technical occupations,3.21285140562249e-4
+Sudan,1,12,6360,Glaziers,3.21285140562249e-4
+Sudan,1,12,7410,Electrical power-line installers and repairers,3.21285140562249e-4
+Sudan,1,12,9510,Crane and tower operators,3.21285140562249e-4
+Sudan,1,11,0960,Other financial specialists,2.945113788487282e-4
+Sudan,1,11,3725,"Miscellaneous first-line supervisors, protective service workers",2.945113788487282e-4
+Sudan,1,11,5850,"Mail clerks and mail machine operators, except postal service",2.945113788487282e-4
+Sudan,1,10,0102,Facilities managers,2.677376171352075e-4
+Sudan,1,10,0220,Construction managers,2.677376171352075e-4
+Sudan,1,10,3010,Dentists,2.677376171352075e-4
+Sudan,1,10,3220,Respiratory therapists,2.677376171352075e-4
+Sudan,1,10,3647,Pharmacy aides,2.677376171352075e-4
+Sudan,1,10,9415,Passenger attendants,2.677376171352075e-4
+Sudan,1,9,5110,Billing and posting clerks,2.4096385542168674e-4
+Sudan,1,8,5940,Other office and administrative support workers,2.14190093708166e-4
+Sudan,1,7,3630,Massage therapists,1.8741633199464524e-4
+Sudan,1,7,4810,Insurance sales agents,1.8741633199464524e-4
+Sudan,1,6,3100,Surgeons,1.606425702811245e-4
+Sudan,1,4,0150,Purchasing managers,1.07095046854083e-4

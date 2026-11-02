@@ -16,25 +16,16 @@ dir.create("results/country_tables", recursive = TRUE, showWarnings = FALSE)
 immig = acs %>%
   filter(country != "United States", citizen %in% c(2, 3))
 
-# Country totals
-country_totals = immig %>%
-  group_by(country) %>%
-  summarise(n         = n(),                      # unweighted, all ages
-            pop       = sum(perwt),               # weighted, all ages
-            n_workers = sum(empstat == 1),        # unweighted
-            workers   = sum(perwt[empstat == 1]), # weighted
-            .groups = "drop")
-
 # All occupations for employed, sorted largest to smallest within each country
 occ_by_country = immig %>%
   filter(empstat == 1) %>%
   mutate(occ = sprintf("%04d", as.integer(zap_labels(occ)))) %>%
   group_by(country, occ) %>%
-  summarise(occ_n       = n(),            # unweighted workers in that occupation
-            occ_workers = sum(perwt),     # weighted workers in that occupation
+  summarise(n_workers = n(),            # unweighted workers in that occupation
+            workers   = sum(perwt),     # weighted workers in that occupation
             .groups = "drop_last") %>%
-  mutate(occ_share = occ_workers / sum(occ_workers)) %>%
-  arrange(desc(occ_workers), .by_group = TRUE) %>%
+  mutate(occ_share = workers / sum(workers)) %>%
+  arrange(desc(workers), .by_group = TRUE) %>%
   ungroup()
 
 # adding ipums occ labels
@@ -48,12 +39,10 @@ occ_labels = read_html("https://usa.ipums.org/usa/volii/occ2018.shtml") %>%
 
 write_csv(occ_labels, "data/output/occ2018_labels.csv") 
 
-occ_by_country = occ_by_country %>%
+country_tables = occ_by_country %>%
   left_join(occ_labels, by = "occ") %>%
-  relocate(occ_title, .after = occ)
-
-country_tables = country_totals %>%
-  left_join(occ_by_country, by = "country")
+  relocate(occ_title, .after = occ) %>%
+  select(country, n_workers, workers, occ, occ_title, occ_share)
 
 # One CSV per country
 for (c in unique(country_tables$country)) {

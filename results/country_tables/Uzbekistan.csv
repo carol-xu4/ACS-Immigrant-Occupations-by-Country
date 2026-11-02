@@ -1,295 +1,295 @@
-country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
-Uzbekistan,2909,75065,1771,46182,9130,Driver/sales workers and truck drivers,123,4724,0.10229093586245723
-Uzbekistan,2909,75065,1771,46182,3601,Home health aides,109,3573,0.07736780563856048
-Uzbekistan,2909,75065,1771,46182,9142,Taxi drivers,57,1837,0.03977740245117145
-Uzbekistan,2909,75065,1771,46182,0440,Other managers,57,1470,0.031830583344160064
-Uzbekistan,2909,75065,1771,46182,1021,Software developers,66,1371,0.02968689099649214
-Uzbekistan,2909,75065,1771,46182,3602,Personal care aides,49,1347,0.0291672080031181
-Uzbekistan,2909,75065,1771,46182,4760,Retail salespersons,40,1028,0.022259754882854792
-Uzbekistan,2909,75065,1771,46182,3255,Registered nurses,45,1013,0.021934953011996015
-Uzbekistan,2909,75065,1771,46182,3090,Physicians,20,731,0.015828677839851025
-Uzbekistan,2909,75065,1771,46182,0800,Accountants and auditors,33,701,0.015179074098133473
-Uzbekistan,2909,75065,1771,46182,6260,Construction laborers,21,651,0.014096401195270884
-Uzbekistan,2909,75065,1771,46182,5240,Customer service representatives,22,625,0.01353341128578234
-Uzbekistan,2909,75065,1771,46182,3645,Medical assistants,14,617,0.013360183621324325
-Uzbekistan,2909,75065,1771,46182,0120,Financial managers,20,465,0.01006885799662206
-Uzbekistan,2909,75065,1771,46182,4700,First-line supervisors of retail sales workers,23,455,0.009852323416049543
-Uzbekistan,2909,75065,1771,46182,5510,Couriers and messengers,14,448,0.00970074920964878
-Uzbekistan,2909,75065,1771,46182,2545,Teaching assistants,21,446,0.009657442293534277
-Uzbekistan,2909,75065,1771,46182,2205,Postsecondary teachers,21,441,0.009549175003248018
-Uzbekistan,2909,75065,1771,46182,0010,Chief executives and legislators,14,402,0.008704690139015201
-Uzbekistan,2909,75065,1771,46182,9645,Stockers and order fillers,11,385,0.00833658135204192
-Uzbekistan,2909,75065,1771,46182,7750,Other assemblers and fabricators,5,376,0.008141700229526655
-Uzbekistan,2909,75065,1771,46182,4230,Maids and housekeeping cleaners,11,346,0.007492096487809103
-Uzbekistan,2909,75065,1771,46182,3322,Diagnostic medical sonographers,6,336,0.007275561907236586
-Uzbekistan,2909,75065,1771,46182,6355,Electricians,9,333,0.007210601533064831
-Uzbekistan,2909,75065,1771,46182,2320,Secondary school teachers,11,332,0.007188948075007579
-Uzbekistan,2909,75065,1771,46182,9620,"Laborers and freight, stock, and material movers, hand",17,329,0.007123987700835823
-Uzbekistan,2909,75065,1771,46182,4220,Janitors and building cleaners,18,322,0.006972413494435062
-Uzbekistan,2909,75065,1771,46182,2310,Elementary and middle school teachers,15,309,0.006690918539690788
-Uzbekistan,2909,75065,1771,46182,5522,"Dispatchers, except police, fire, and ambulance",10,308,0.0066692650816335365
-Uzbekistan,2909,75065,1771,46182,9640,"Packers and packagers, hand",7,308,0.0066692650816335365
-Uzbekistan,2909,75065,1771,46182,5740,"Secretaries and administrative assistants, except legal, medical, and executive",13,305,0.006604304707461782
-Uzbekistan,2909,75065,1771,46182,4510,"Hairdressers, hairstylists, and cosmetologists",12,296,0.006409423584946516
-Uzbekistan,2909,75065,1771,46182,8990,"Miscellaneous production workers, including equipment operators and tenders",5,290,0.006279502836603006
-Uzbekistan,2909,75065,1771,46182,2300,Preschool and kindergarten teachers,8,286,0.006192889004373999
-Uzbekistan,2909,75065,1771,46182,4720,Cashiers,16,285,0.006171235546316747
-Uzbekistan,2909,75065,1771,46182,1006,Computer systems analysts,12,280,0.006062968256030488
-Uzbekistan,2909,75065,1771,46182,4500,Barbers,9,280,0.006062968256030488
-Uzbekistan,2909,75065,1771,46182,0110,Computer and information systems managers,11,275,0.00595470096574423
-Uzbekistan,2909,75065,1771,46182,5860,"Office clerks, general",15,269,0.005824780217400719
-Uzbekistan,2909,75065,1771,46182,4020,Cooks,9,266,0.0057598198432289634
-Uzbekistan,2909,75065,1771,46182,0705,Project management specialists,8,251,0.005435017972370187
-Uzbekistan,2909,75065,1771,46182,0052,Sales managers,9,240,0.005196829933740418
-Uzbekistan,2909,75065,1771,46182,5110,Billing and posting clerks,7,240,0.005196829933740418
-Uzbekistan,2909,75065,1771,46182,1530,Other engineers,9,228,0.004936988437053398
-Uzbekistan,2909,75065,1771,46182,0410,"Property, real estate, and community association managers",11,227,0.004915334978996146
-Uzbekistan,2909,75065,1771,46182,3010,Dentists,7,222,0.004807067688709887
-Uzbekistan,2909,75065,1771,46182,4710,First-line supervisors of non-retail sales workers,10,222,0.004807067688709887
-Uzbekistan,2909,75065,1771,46182,1240,Other mathematical science occupations,8,220,0.004763760772595383
-Uzbekistan,2909,75065,1771,46182,2360,Other teachers and instructors,9,217,0.004698800398423629
-Uzbekistan,2909,75065,1771,46182,0850,Personal financial advisors,8,213,0.0046121865661946215
-Uzbekistan,2909,75065,1771,46182,0750,"Business operations specialists, all other",6,208,0.0045039192759083625
-Uzbekistan,2909,75065,1771,46182,4110,Waiters and waitresses,11,205,0.004438958901736607
-Uzbekistan,2909,75065,1771,46182,9005,Supervisors of transportation and material moving workers,3,204,0.004417305443679355
-Uzbekistan,2909,75065,1771,46182,1050,Computer support specialists,11,194,0.004200770863106838
-Uzbekistan,2909,75065,1771,46182,3300,Clinical laboratory technologists and technicians,8,193,0.004179117405049586
-Uzbekistan,2909,75065,1771,46182,2634,Graphic designers,4,189,0.004092503572820579
-Uzbekistan,2909,75065,1771,46182,1650,Other life scientists,8,182,0.003940929366419817
-Uzbekistan,2909,75065,1771,46182,2100,"Lawyers, and judges, magistrates, and other judicial workers",12,182,0.003940929366419817
-Uzbekistan,2909,75065,1771,46182,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,3,182,0.003940929366419817
-Uzbekistan,2909,75065,1771,46182,0710,Management analysts,12,180,0.0038976224503053138
-Uzbekistan,2909,75065,1771,46182,5400,Receptionists and information clerks,12,178,0.00385431553419081
-Uzbekistan,2909,75065,1771,46182,0910,Credit counselors and loan officers,4,176,0.003811008618076307
-Uzbekistan,2909,75065,1771,46182,2016,Social and human service assistants,5,171,0.003702741327790048
-Uzbekistan,2909,75065,1771,46182,5120,"Bookkeeping, accounting, and auditing clerks",7,171,0.003702741327790048
-Uzbekistan,2909,75065,1771,46182,4600,Childcare workers,12,169,0.0036594344116755444
-Uzbekistan,2909,75065,1771,46182,7340,"Maintenance and repair workers, general",10,167,0.0036161274955610412
-Uzbekistan,2909,75065,1771,46182,4000,Chefs and head cooks,9,166,0.0035944740375037894
-Uzbekistan,2909,75065,1771,46182,4920,Real estate brokers and sales agents,5,164,0.003551167121389286
-Uzbekistan,2909,75065,1771,46182,0230,Education and childcare administrators,7,159,0.0034428998311030272
-Uzbekistan,2909,75065,1771,46182,3421,Pharmacy technicians,7,156,0.003377939456931272
-Uzbekistan,2909,75065,1771,46182,6230,Carpenters,8,152,0.003291325624702265
-Uzbekistan,2909,75065,1771,46182,2145,Paralegals and legal assistants,6,149,0.0032263652505305097
-Uzbekistan,2909,75065,1771,46182,0051,Marketing managers,5,147,0.003183058334416006
-Uzbekistan,2909,75065,1771,46182,1108,"Computer occupations, all other",8,146,0.0031614048763587547
-Uzbekistan,2909,75065,1771,46182,4030,Food preparation workers,6,146,0.0031614048763587547
-Uzbekistan,2909,75065,1771,46182,2920,"Television, video, and film camera operators and editors",4,145,0.003139751418301503
-Uzbekistan,2909,75065,1771,46182,2640,Other designers,8,143,0.0030964445021869993
-Uzbekistan,2909,75065,1771,46182,9310,Ship and boat captains and operators,1,139,0.003009830669957992
-Uzbekistan,2909,75065,1771,46182,2710,Producers and directors,2,137,0.002966523753843489
-Uzbekistan,2909,75065,1771,46182,1760,"Physical scientists, all other",5,134,0.0029015633796717335
-Uzbekistan,2909,75065,1771,46182,5940,Other office and administrative support workers,6,133,0.0028799099216144817
-Uzbekistan,2909,75065,1771,46182,3603,Nursing assistants,6,132,0.00285825646355723
-Uzbekistan,2909,75065,1771,46182,0630,Human resources workers,6,131,0.0028366030054999786
-Uzbekistan,2909,75065,1771,46182,1032,Web and digital interface designers,2,130,0.0028149495474427268
-Uzbekistan,2909,75065,1771,46182,0350,Medical and health services managers,7,128,0.002771642631328223
-Uzbekistan,2909,75065,1771,46182,0565,Compliance officers,5,128,0.002771642631328223
-Uzbekistan,2909,75065,1771,46182,6442,"Plumbers, pipefitters, and steamfitters",7,128,0.002771642631328223
-Uzbekistan,2909,75065,1771,46182,2722,Coaches and scouts,6,127,0.0027499891732709713
-Uzbekistan,2909,75065,1771,46182,0020,General and operations managers,5,126,0.0027283357152137195
-Uzbekistan,2909,75065,1771,46182,0600,Cost estimators,2,126,0.0027283357152137195
-Uzbekistan,2909,75065,1771,46182,1430,"Industrial engineers, including health and safety",4,126,0.0027283357152137195
-Uzbekistan,2909,75065,1771,46182,5000,First-line supervisors of office and administrative support workers,9,125,0.0027066822571564677
-Uzbekistan,2909,75065,1771,46182,9150,"Motor vehicle operators, all other",3,123,0.0026633753410419646
-Uzbekistan,2909,75065,1771,46182,0735,Market research analysts and marketing specialists,6,119,0.0025767615088129574
-Uzbekistan,2909,75065,1771,46182,3258,"Nurse practitioners, and nurse midwives",4,117,0.0025334545926984538
-Uzbekistan,2909,75065,1771,46182,3930,Security guards and gaming surveillance officers,7,116,0.0025118011346412024
-Uzbekistan,2909,75065,1771,46182,4850,"Sales representatives, wholesale and manufacturing",6,115,0.0024901476765839506
-Uzbekistan,2909,75065,1771,46182,0420,Social and community service managers,4,113,0.002446840760469447
-Uzbekistan,2909,75065,1771,46182,0220,Construction managers,4,111,0.0024035338443549434
-Uzbekistan,2909,75065,1771,46182,1010,Computer programmers,8,110,0.0023818803862976916
-Uzbekistan,2909,75065,1771,46182,9122,"Bus drivers, transit and intercity",4,110,0.0023818803862976916
-Uzbekistan,2909,75065,1771,46182,9830,"Military, rank not specified",2,109,0.00236022692824044
-Uzbekistan,2909,75065,1771,46182,0310,Food service managers,4,108,0.0023385734701831884
-Uzbekistan,2909,75065,1771,46182,1555,"Other engineering technologists and technicians, except drafters",2,108,0.0023385734701831884
-Uzbekistan,2909,75065,1771,46182,0845,Financial and investment analysts,6,107,0.0023169200121259366
-Uzbekistan,2909,75065,1771,46182,4965,"Sales and related workers, all other",4,107,0.0023169200121259366
-Uzbekistan,2909,75065,1771,46182,0140,Industrial production managers,5,106,0.002295266554068685
-Uzbekistan,2909,75065,1771,46182,2014,"Social workers, all other",2,105,0.002273613096011433
-Uzbekistan,2909,75065,1771,46182,8140,"Welding, soldering, and brazing workers",4,105,0.002273613096011433
-Uzbekistan,2909,75065,1771,46182,6410,Painters and paperhangers,2,104,0.0022519596379541812
-Uzbekistan,2909,75065,1771,46182,4251,Landscaping and groundskeeping workers,4,102,0.0022086527218396776
-Uzbekistan,2909,75065,1771,46182,6200,First-line supervisors of construction trades and extraction workers,4,102,0.0022086527218396776
-Uzbekistan,2909,75065,1771,46182,3423,Surgical technologists,2,97,0.002100385431553419
-Uzbekistan,2909,75065,1771,46182,1065,Database administrators and architects,4,94,0.0020354250573816637
-Uzbekistan,2909,75065,1771,46182,5840,Insurance claims and policy processing clerks,1,94,0.0020354250573816637
-Uzbekistan,2909,75065,1771,46182,3515,Medical records specialists,2,93,0.0020137715993244123
-Uzbekistan,2909,75065,1771,46182,1400,Computer hardware engineers,1,89,0.001927157767095405
-Uzbekistan,2909,75065,1771,46182,3520,"Opticians, dispensing",3,88,0.0019055043090381535
-Uzbekistan,2909,75065,1771,46182,4130,Dining room and cafeteria attendants and bartender helpers,3,88,0.0019055043090381535
-Uzbekistan,2909,75065,1771,46182,7210,Bus and truck mechanics and diesel engine specialists,5,88,0.0019055043090381535
-Uzbekistan,2909,75065,1771,46182,0960,Other financial specialists,5,87,0.0018838508509809017
-Uzbekistan,2909,75065,1771,46182,2861,Interpreters and translators,6,85,0.001840543934866398
-Uzbekistan,2909,75065,1771,46182,0300,Architectural and engineering managers,3,83,0.0017972370187518947
-Uzbekistan,2909,75065,1771,46182,3649,Phlebotomists,2,81,0.001753930102637391
-Uzbekistan,2909,75065,1771,46182,1980,Occupational health and safety specialists and technicians,2,80,0.0017322766445801395
-Uzbekistan,2909,75065,1771,46182,8810,Painting workers,2,76,0.0016456628123511325
-Uzbekistan,2909,75065,1771,46182,5540,Postal service clerks,2,73,0.0015807024381793773
-Uzbekistan,2909,75065,1771,46182,4810,Insurance sales agents,2,71,0.0015373955220648737
-Uzbekistan,2909,75065,1771,46182,4330,Supervisors of personal care and service workers,2,70,0.001515742064007622
-Uzbekistan,2909,75065,1771,46182,8610,Stationary engineers and boiler operators,4,70,0.001515742064007622
-Uzbekistan,2909,75065,1771,46182,2555,Other educational instruction and library workers,2,68,0.0014724351478931186
-Uzbekistan,2909,75065,1771,46182,3150,Occupational therapists,2,68,0.0014724351478931186
-Uzbekistan,2909,75065,1771,46182,3870,Police officers,4,67,0.0014507816898358668
-Uzbekistan,2909,75065,1771,46182,1460,Mechanical engineers,4,66,0.001429128231778615
-Uzbekistan,2909,75065,1771,46182,6700,Elevator installers and repairers,2,66,0.001429128231778615
-Uzbekistan,2909,75065,1771,46182,3220,Respiratory therapists,2,65,0.0014074747737213634
-Uzbekistan,2909,75065,1771,46182,7800,Bakers,3,65,0.0014074747737213634
-Uzbekistan,2909,75065,1771,46182,3310,Dental hygienists,4,64,0.0013858213156641116
-Uzbekistan,2909,75065,1771,46182,8350,"Tailors, dressmakers, and sewers",5,63,0.0013641678576068598
-Uzbekistan,2909,75065,1771,46182,3630,Massage therapists,2,62,0.001342514399549608
-Uzbekistan,2909,75065,1771,46182,4621,Exercise trainers and group fitness instructors,1,61,0.0013208609414923564
-Uzbekistan,2909,75065,1771,46182,7855,"Food processing workers, all other",1,61,0.0013208609414923564
-Uzbekistan,2909,75065,1771,46182,3100,Surgeons,1,60,0.0012992074834351046
-Uzbekistan,2909,75065,1771,46182,8335,Shoe and leather workers,2,59,0.0012775540253778528
-Uzbekistan,2909,75065,1771,46182,5810,Data entry keyers,3,57,0.0012342471092633494
-Uzbekistan,2909,75065,1771,46182,1410,Electrical and electronics engineers,3,56,0.0012125936512060976
-Uzbekistan,2909,75065,1771,46182,1220,Operations research analysts,5,55,0.0011909401931488458
-Uzbekistan,2909,75065,1771,46182,2752,Musicians and singers,4,55,0.0011909401931488458
-Uzbekistan,2909,75065,1771,46182,3545,Miscellaneous health technologists and technicians,2,55,0.0011909401931488458
-Uzbekistan,2909,75065,1771,46182,3050,Pharmacists,6,54,0.0011692867350915942
-Uzbekistan,2909,75065,1771,46182,4800,Advertising sales agents,2,54,0.0011692867350915942
-Uzbekistan,2909,75065,1771,46182,3740,Firefighters,1,53,0.0011476332770343424
-Uzbekistan,2909,75065,1771,46182,7700,First-line supervisors of production and operating workers,2,53,0.0011476332770343424
-Uzbekistan,2909,75065,1771,46182,1360,Civil engineers,5,52,0.0011259798189770906
-Uzbekistan,2909,75065,1771,46182,5550,Postal service mail carriers,3,52,0.0011259798189770906
-Uzbekistan,2909,75065,1771,46182,7905,Computer numerically controlled tool operators and programmers,1,52,0.0011259798189770906
-Uzbekistan,2909,75065,1771,46182,2825,Public relations specialists,1,50,0.0010826729028625872
-Uzbekistan,2909,75065,1771,46182,5521,Public safety telecommunicators,2,50,0.0010826729028625872
-Uzbekistan,2909,75065,1771,46182,9141,Shuttle drivers and chauffeurs,1,49,0.0010610194448053354
-Uzbekistan,2909,75065,1771,46182,4521,Manicurists and pedicurists,2,48,0.0010393659867480836
-Uzbekistan,2909,75065,1771,46182,0940,Tax preparers,3,46,9.960590706335802e-4
-Uzbekistan,2909,75065,1771,46182,3160,Physical therapists,3,46,9.960590706335802e-4
-Uzbekistan,2909,75065,1771,46182,5710,Executive secretaries and executive administrative assistants,2,46,9.960590706335802e-4
-Uzbekistan,2909,75065,1771,46182,0150,Purchasing managers,2,45,9.744056125763284e-4
-Uzbekistan,2909,75065,1771,46182,0340,Lodging managers,3,45,9.744056125763284e-4
-Uzbekistan,2909,75065,1771,46182,3324,Magnetic resonance imaging technologists,2,45,9.744056125763284e-4
-Uzbekistan,2909,75065,1771,46182,3820,Detectives and criminal investigators,2,45,9.744056125763284e-4
-Uzbekistan,2909,75065,1771,46182,9110,"Ambulance drivers and attendants, except emergency medical technicians",1,45,9.744056125763284e-4
-Uzbekistan,2909,75065,1771,46182,9430,Other transportation workers,2,45,9.744056125763284e-4
-Uzbekistan,2909,75065,1771,46182,5560,"Postal service mail sorters, processors, and processing machine operators",2,44,9.527521545190767e-4
-Uzbekistan,2909,75065,1771,46182,5360,"Human resources assistants, except payroll and timekeeping",2,42,9.094452384045733e-4
-Uzbekistan,2909,75065,1771,46182,7315,"Heating, air conditioning, and refrigeration mechanics and installers",3,42,9.094452384045733e-4
-Uzbekistan,2909,75065,1771,46182,1105,Network and computer systems administrators,2,40,8.661383222900698e-4
-Uzbekistan,2909,75065,1771,46182,2040,Clergy,2,40,8.661383222900698e-4
-Uzbekistan,2909,75065,1771,46182,4530,"Baggage porters, bellhops, and concierges",3,40,8.661383222900698e-4
-Uzbekistan,2909,75065,1771,46182,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,39,8.44484864232818e-4
-Uzbekistan,2909,75065,1771,46182,3245,Other therapists,2,38,8.228314061755663e-4
-Uzbekistan,2909,75065,1771,46182,8750,Jewelers and precious stone and metal workers,2,38,8.228314061755663e-4
-Uzbekistan,2909,75065,1771,46182,2755,"Disc jockeys, except radio",1,37,8.011779481183145e-4
-Uzbekistan,2909,75065,1771,46182,3500,Licensed practical and licensed vocational nurses,3,37,8.011779481183145e-4
-Uzbekistan,2909,75065,1771,46182,1822,School psychologists,1,36,7.795244900610628e-4
-Uzbekistan,2909,75065,1771,46182,1970,"Other life, physical, and social science technicians",2,36,7.795244900610628e-4
-Uzbekistan,2909,75065,1771,46182,5600,"Production, planning, and expediting clerks",2,36,7.795244900610628e-4
-Uzbekistan,2909,75065,1771,46182,0160,"Transportation, storage, and distribution managers",4,35,7.57871032003811e-4
-Uzbekistan,2909,75065,1771,46182,4820,"Securities, commodities, and financial services sales agents",2,35,7.57871032003811e-4
-Uzbekistan,2909,75065,1771,46182,1320,Aerospace engineers,3,34,7.362175739465593e-4
-Uzbekistan,2909,75065,1771,46182,3655,Other healthcare support workers,2,33,7.145641158893075e-4
-Uzbekistan,2909,75065,1771,46182,1031,Web developers,3,32,6.929106578320558e-4
-Uzbekistan,2909,75065,1771,46182,1860,Other social scientists,2,32,6.929106578320558e-4
-Uzbekistan,2909,75065,1771,46182,2830,Editors,2,32,6.929106578320558e-4
-Uzbekistan,2909,75065,1771,46182,2330,Special education teachers,2,31,6.71257199774804e-4
-Uzbekistan,2909,75065,1771,46182,3110,Physician assistants,3,31,6.71257199774804e-4
-Uzbekistan,2909,75065,1771,46182,6530,Structural iron and steel workers,1,31,6.71257199774804e-4
-Uzbekistan,2909,75065,1771,46182,9800,Military officer special and tactical operations leaders,1,31,6.71257199774804e-4
-Uzbekistan,2909,75065,1771,46182,4900,"Models, demonstrators, and product promoters",1,29,6.279502836603006e-4
-Uzbekistan,2909,75065,1771,46182,5140,Payroll and timekeeping clerks,2,29,6.279502836603006e-4
-Uzbekistan,2909,75065,1771,46182,1825,Other psychologists,2,28,6.062968256030488e-4
-Uzbekistan,2909,75065,1771,46182,2002,"Educational, guidance, and career counselors and advisors",1,28,6.062968256030488e-4
-Uzbekistan,2909,75065,1771,46182,4010,First-line supervisors of food preparation and serving workers,2,28,6.062968256030488e-4
-Uzbekistan,2909,75065,1771,46182,6240,"Carpet, floor, and tile installers and finishers",2,28,6.062968256030488e-4
-Uzbekistan,2909,75065,1771,46182,3550,Other healthcare practitioners and technical occupations,2,27,5.846433675457971e-4
-Uzbekistan,2909,75065,1771,46182,4055,Fast food and counter workers,2,27,5.846433675457971e-4
-Uzbekistan,2909,75065,1771,46182,4120,"Food servers, nonrestaurant",1,27,5.846433675457971e-4
-Uzbekistan,2909,75065,1771,46182,7000,"First-line supervisors of mechanics, installers, and repairers",1,27,5.846433675457971e-4
-Uzbekistan,2909,75065,1771,46182,7430,Precision instrument and equipment repairers,2,27,5.846433675457971e-4
-Uzbekistan,2909,75065,1771,46182,8950,Helpers--production workers,2,27,5.846433675457971e-4
-Uzbekistan,2909,75065,1771,46182,3230,Speech-language pathologists,1,26,5.629899094885453e-4
-Uzbekistan,2909,75065,1771,46182,7020,Radio and telecommunications equipment installers and repairers,1,26,5.629899094885453e-4
-Uzbekistan,2909,75065,1771,46182,7130,Security and fire alarm systems installers,2,26,5.629899094885453e-4
-Uzbekistan,2909,75065,1771,46182,7200,Automotive service technicians and mechanics,3,26,5.629899094885453e-4
-Uzbekistan,2909,75065,1771,46182,0700,Logisticians,2,25,5.413364514312936e-4
-Uzbekistan,2909,75065,1771,46182,2600,Artists and related workers,2,25,5.413364514312936e-4
-Uzbekistan,2909,75065,1771,46182,3640,Dental assistants,2,25,5.413364514312936e-4
-Uzbekistan,2909,75065,1771,46182,4340,Animal trainers,1,25,5.413364514312936e-4
-Uzbekistan,2909,75065,1771,46182,5350,Correspondence clerks and order clerks,2,25,5.413364514312936e-4
-Uzbekistan,2909,75065,1771,46182,7540,Locksmiths and safe repairers,1,25,5.413364514312936e-4
-Uzbekistan,2909,75065,1771,46182,7640,"Other installation, maintenance, and repair workers",1,25,5.413364514312936e-4
-Uzbekistan,2909,75065,1771,46182,3802,Correctional officers and jailers,1,24,5.196829933740418e-4
-Uzbekistan,2909,75065,1771,46182,4522,Skincare specialists,2,24,5.196829933740418e-4
-Uzbekistan,2909,75065,1771,46182,5300,"Hotel, motel, and resort desk clerks",1,24,5.196829933740418e-4
-Uzbekistan,2909,75065,1771,46182,1551,Electrical and electronic engineering technologists and technicians,2,23,4.980295353167901e-4
-Uzbekistan,2909,75065,1771,46182,4435,Other entertainment attendants and related workers,1,23,4.980295353167901e-4
-Uzbekistan,2909,75065,1771,46182,4622,Recreation workers,1,23,4.980295353167901e-4
-Uzbekistan,2909,75065,1771,46182,2810,"News analysts, reporters, and journalists",1,22,4.763760772595384e-4
-Uzbekistan,2909,75065,1771,46182,5250,"Eligibility interviewers, government programs",2,22,4.763760772595384e-4
-Uzbekistan,2909,75065,1771,46182,0102,Facilities managers,1,21,4.5472261920228663e-4
-Uzbekistan,2909,75065,1771,46182,2700,Actors,2,21,4.5472261920228663e-4
-Uzbekistan,2909,75065,1771,46182,3610,Occupational therapy assistants and aides,3,21,4.5472261920228663e-4
-Uzbekistan,2909,75065,1771,46182,4400,Gambling services workers,1,21,4.5472261920228663e-4
-Uzbekistan,2909,75065,1771,46182,5260,File clerks,1,21,4.5472261920228663e-4
-Uzbekistan,2909,75065,1771,46182,4740,Counter and rental clerks,1,20,4.330691611450349e-4
-Uzbekistan,2909,75065,1771,46182,5730,Medical secretaries and administrative assistants,1,20,4.330691611450349e-4
-Uzbekistan,2909,75065,1771,46182,6050,Other agricultural workers,1,20,4.330691611450349e-4
-Uzbekistan,2909,75065,1771,46182,9600,Industrial truck and tractor operators,1,20,4.330691611450349e-4
-Uzbekistan,2909,75065,1771,46182,0540,"Claims adjusters, appraisers, examiners, and investigators",1,19,4.1141570308778313e-4
-Uzbekistan,2909,75065,1771,46182,1305,"Architects, except landscape and naval",1,19,4.1141570308778313e-4
-Uzbekistan,2909,75065,1771,46182,1610,Biological scientists,1,19,4.1141570308778313e-4
-Uzbekistan,2909,75065,1771,46182,4655,"Personal care and service workers, all other",2,19,4.1141570308778313e-4
-Uzbekistan,2909,75065,1771,46182,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",1,18,3.897622450305314e-4
-Uzbekistan,2909,75065,1771,46182,9121,"Bus drivers, school",2,18,3.897622450305314e-4
-Uzbekistan,2909,75065,1771,46182,0136,Human resources managers,1,17,3.6810878697327964e-4
-Uzbekistan,2909,75065,1771,46182,0530,"Purchasing agents, except wholesale, retail, and farm products",1,17,3.6810878697327964e-4
-Uzbekistan,2909,75065,1771,46182,1005,Computer and information research scientists,1,17,3.6810878697327964e-4
-Uzbekistan,2909,75065,1771,46182,0725,"Meeting, convention, and event planners",1,16,3.464553289160279e-4
-Uzbekistan,2909,75065,1771,46182,2350,Tutors,1,16,3.464553289160279e-4
-Uzbekistan,2909,75065,1771,46182,4350,Animal caretakers,1,16,3.464553289160279e-4
-Uzbekistan,2909,75065,1771,46182,5220,"Court, municipal, and license clerks",1,16,3.464553289160279e-4
-Uzbekistan,2909,75065,1771,46182,5720,Legal secretaries and administrative assistants,1,16,3.464553289160279e-4
-Uzbekistan,2909,75065,1771,46182,2751,Music directors and composers,1,15,3.2480187085877615e-4
-Uzbekistan,2909,75065,1771,46182,4200,First-line supervisors of housekeeping and janitorial workers,1,15,3.2480187085877615e-4
-Uzbekistan,2909,75065,1771,46182,5160,Tellers,1,15,3.2480187085877615e-4
-Uzbekistan,2909,75065,1771,46182,5610,"Shipping, receiving, and inventory clerks",1,15,3.2480187085877615e-4
-Uzbekistan,2909,75065,1771,46182,7120,Electronic home entertainment equipment installers and repairers,1,15,3.2480187085877615e-4
-Uzbekistan,2909,75065,1771,46182,8310,"Pressers, textile, garment, and related materials",1,15,3.2480187085877615e-4
-Uzbekistan,2909,75065,1771,46182,1520,"Petroleum, mining and geological engineers, including mining safety engineers",1,14,3.031484128015244e-4
-Uzbekistan,2909,75065,1771,46182,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,14,3.031484128015244e-4
-Uzbekistan,2909,75065,1771,46182,6515,Roofers,1,14,3.031484128015244e-4
-Uzbekistan,2909,75065,1771,46182,8500,Cabinetmakers and bench carpenters,1,14,3.031484128015244e-4
-Uzbekistan,2909,75065,1771,46182,0360,Natural sciences managers,1,13,2.8149495474427265e-4
-Uzbekistan,2909,75065,1771,46182,0500,"Agents and business managers of artists, performers, and athletes",1,13,2.8149495474427265e-4
-Uzbekistan,2909,75065,1771,46182,3605,Orderlies and psychiatric aides,1,13,2.8149495474427265e-4
-Uzbekistan,2909,75065,1771,46182,7360,Millwrights,1,13,2.8149495474427265e-4
-Uzbekistan,2909,75065,1771,46182,8800,Packaging and filling machine operators and tenders,1,13,2.8149495474427265e-4
-Uzbekistan,2909,75065,1771,46182,0040,Advertising and promotions managers,1,12,2.598414966870209e-4
-Uzbekistan,2909,75065,1771,46182,0335,Entertainment and recreation managers,1,12,2.598414966870209e-4
-Uzbekistan,2909,75065,1771,46182,2770,"Entertainers and performers, sports and related workers, all other",2,12,2.598414966870209e-4
-Uzbekistan,2909,75065,1771,46182,7140,Aircraft mechanics and service technicians,1,12,2.598414966870209e-4
-Uzbekistan,2909,75065,1771,46182,9410,Transportation inspectors,1,12,2.598414966870209e-4
-Uzbekistan,2909,75065,1771,46182,9825,Military enlisted tactical operations and air/weapons specialists and crew members,2,12,2.598414966870209e-4
-Uzbekistan,2909,75065,1771,46182,1545,Other drafters,1,11,2.381880386297692e-4
-Uzbekistan,2909,75065,1771,46182,1821,Clinical and counseling psychologists,1,11,2.381880386297692e-4
-Uzbekistan,2909,75065,1771,46182,2003,Marriage and family therapists,1,11,2.381880386297692e-4
-Uzbekistan,2909,75065,1771,46182,3270,"Healthcare diagnosing or treating practitioners, all other",1,11,2.381880386297692e-4
-Uzbekistan,2909,75065,1771,46182,5100,Bill and account collectors,1,11,2.381880386297692e-4
-Uzbekistan,2909,75065,1771,46182,5910,Proofreaders and copy markers,1,11,2.381880386297692e-4
-Uzbekistan,2909,75065,1771,46182,9365,Transportation service attendants,1,11,2.381880386297692e-4
-Uzbekistan,2909,75065,1771,46182,1800,Economists,1,10,2.1653458057251744e-4
-Uzbekistan,2909,75065,1771,46182,3620,Physical therapist assistants and aides,1,10,2.1653458057251744e-4
-Uzbekistan,2909,75065,1771,46182,4040,Bartenders,1,10,2.1653458057251744e-4
-Uzbekistan,2909,75065,1771,46182,0726,Fundraisers,1,9,1.948811225152657e-4
-Uzbekistan,2909,75065,1771,46182,0810,Property appraisers and assessors,1,9,1.948811225152657e-4
-Uzbekistan,2909,75065,1771,46182,6305,Construction equipment operators,1,9,1.948811225152657e-4
-Uzbekistan,2909,75065,1771,46182,7810,"Butchers and other meat, poultry, and fish processing workers",1,9,1.948811225152657e-4
-Uzbekistan,2909,75065,1771,46182,3261,Acupuncturists,1,8,1.7322766445801395e-4
-Uzbekistan,2909,75065,1771,46182,3401,Emergency medical technicians,1,8,1.7322766445801395e-4
-Uzbekistan,2909,75065,1771,46182,7010,"Computer, automated teller, and office machine repairers",1,8,1.7322766445801395e-4
-Uzbekistan,2909,75065,1771,46182,8130,Tool and die makers,1,8,1.7322766445801395e-4
-Uzbekistan,2909,75065,1771,46182,0135,Compensation and benefits managers,1,7,1.515742064007622e-4
-Uzbekistan,2909,75065,1771,46182,0930,"Tax examiners and collectors, and revenue agents",1,7,1.515742064007622e-4
-Uzbekistan,2909,75065,1771,46182,8320,Sewing machine operators,1,7,1.515742064007622e-4
-Uzbekistan,2909,75065,1771,46182,6520,Sheet metal workers,1,6,1.2992074834351045e-4
-Uzbekistan,2909,75065,1771,46182,5410,Reservation and transportation ticket agents and travel clerks,1,2,4.330691611450349e-5
-Uzbekistan,2909,75065,1771,46182,2850,Writers and authors,1,1,2.1653458057251743e-5
-Uzbekistan,2909,75065,1771,46182,7320,Home appliance repairers,1,1,2.1653458057251743e-5
+country,n_workers,workers,occ,occ_title,occ_share
+Uzbekistan,123,4724,9130,Driver/sales workers and truck drivers,0.10229093586245723
+Uzbekistan,109,3573,3601,Home health aides,0.07736780563856048
+Uzbekistan,57,1837,9142,Taxi drivers,0.03977740245117145
+Uzbekistan,57,1470,0440,Other managers,0.031830583344160064
+Uzbekistan,66,1371,1021,Software developers,0.02968689099649214
+Uzbekistan,49,1347,3602,Personal care aides,0.0291672080031181
+Uzbekistan,40,1028,4760,Retail salespersons,0.022259754882854792
+Uzbekistan,45,1013,3255,Registered nurses,0.021934953011996015
+Uzbekistan,20,731,3090,Physicians,0.015828677839851025
+Uzbekistan,33,701,0800,Accountants and auditors,0.015179074098133473
+Uzbekistan,21,651,6260,Construction laborers,0.014096401195270884
+Uzbekistan,22,625,5240,Customer service representatives,0.01353341128578234
+Uzbekistan,14,617,3645,Medical assistants,0.013360183621324325
+Uzbekistan,20,465,0120,Financial managers,0.01006885799662206
+Uzbekistan,23,455,4700,First-line supervisors of retail sales workers,0.009852323416049543
+Uzbekistan,14,448,5510,Couriers and messengers,0.00970074920964878
+Uzbekistan,21,446,2545,Teaching assistants,0.009657442293534277
+Uzbekistan,21,441,2205,Postsecondary teachers,0.009549175003248018
+Uzbekistan,14,402,0010,Chief executives and legislators,0.008704690139015201
+Uzbekistan,11,385,9645,Stockers and order fillers,0.00833658135204192
+Uzbekistan,5,376,7750,Other assemblers and fabricators,0.008141700229526655
+Uzbekistan,11,346,4230,Maids and housekeeping cleaners,0.007492096487809103
+Uzbekistan,6,336,3322,Diagnostic medical sonographers,0.007275561907236586
+Uzbekistan,9,333,6355,Electricians,0.007210601533064831
+Uzbekistan,11,332,2320,Secondary school teachers,0.007188948075007579
+Uzbekistan,17,329,9620,"Laborers and freight, stock, and material movers, hand",0.007123987700835823
+Uzbekistan,18,322,4220,Janitors and building cleaners,0.006972413494435062
+Uzbekistan,15,309,2310,Elementary and middle school teachers,0.006690918539690788
+Uzbekistan,10,308,5522,"Dispatchers, except police, fire, and ambulance",0.0066692650816335365
+Uzbekistan,7,308,9640,"Packers and packagers, hand",0.0066692650816335365
+Uzbekistan,13,305,5740,"Secretaries and administrative assistants, except legal, medical, and executive",0.006604304707461782
+Uzbekistan,12,296,4510,"Hairdressers, hairstylists, and cosmetologists",0.006409423584946516
+Uzbekistan,5,290,8990,"Miscellaneous production workers, including equipment operators and tenders",0.006279502836603006
+Uzbekistan,8,286,2300,Preschool and kindergarten teachers,0.006192889004373999
+Uzbekistan,16,285,4720,Cashiers,0.006171235546316747
+Uzbekistan,12,280,1006,Computer systems analysts,0.006062968256030488
+Uzbekistan,9,280,4500,Barbers,0.006062968256030488
+Uzbekistan,11,275,0110,Computer and information systems managers,0.00595470096574423
+Uzbekistan,15,269,5860,"Office clerks, general",0.005824780217400719
+Uzbekistan,9,266,4020,Cooks,0.0057598198432289634
+Uzbekistan,8,251,0705,Project management specialists,0.005435017972370187
+Uzbekistan,9,240,0052,Sales managers,0.005196829933740418
+Uzbekistan,7,240,5110,Billing and posting clerks,0.005196829933740418
+Uzbekistan,9,228,1530,Other engineers,0.004936988437053398
+Uzbekistan,11,227,0410,"Property, real estate, and community association managers",0.004915334978996146
+Uzbekistan,7,222,3010,Dentists,0.004807067688709887
+Uzbekistan,10,222,4710,First-line supervisors of non-retail sales workers,0.004807067688709887
+Uzbekistan,8,220,1240,Other mathematical science occupations,0.004763760772595383
+Uzbekistan,9,217,2360,Other teachers and instructors,0.004698800398423629
+Uzbekistan,8,213,0850,Personal financial advisors,0.0046121865661946215
+Uzbekistan,6,208,0750,"Business operations specialists, all other",0.0045039192759083625
+Uzbekistan,11,205,4110,Waiters and waitresses,0.004438958901736607
+Uzbekistan,3,204,9005,Supervisors of transportation and material moving workers,0.004417305443679355
+Uzbekistan,11,194,1050,Computer support specialists,0.004200770863106838
+Uzbekistan,8,193,3300,Clinical laboratory technologists and technicians,0.004179117405049586
+Uzbekistan,4,189,2634,Graphic designers,0.004092503572820579
+Uzbekistan,8,182,1650,Other life scientists,0.003940929366419817
+Uzbekistan,12,182,2100,"Lawyers, and judges, magistrates, and other judicial workers",0.003940929366419817
+Uzbekistan,3,182,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,0.003940929366419817
+Uzbekistan,12,180,0710,Management analysts,0.0038976224503053138
+Uzbekistan,12,178,5400,Receptionists and information clerks,0.00385431553419081
+Uzbekistan,4,176,0910,Credit counselors and loan officers,0.003811008618076307
+Uzbekistan,5,171,2016,Social and human service assistants,0.003702741327790048
+Uzbekistan,7,171,5120,"Bookkeeping, accounting, and auditing clerks",0.003702741327790048
+Uzbekistan,12,169,4600,Childcare workers,0.0036594344116755444
+Uzbekistan,10,167,7340,"Maintenance and repair workers, general",0.0036161274955610412
+Uzbekistan,9,166,4000,Chefs and head cooks,0.0035944740375037894
+Uzbekistan,5,164,4920,Real estate brokers and sales agents,0.003551167121389286
+Uzbekistan,7,159,0230,Education and childcare administrators,0.0034428998311030272
+Uzbekistan,7,156,3421,Pharmacy technicians,0.003377939456931272
+Uzbekistan,8,152,6230,Carpenters,0.003291325624702265
+Uzbekistan,6,149,2145,Paralegals and legal assistants,0.0032263652505305097
+Uzbekistan,5,147,0051,Marketing managers,0.003183058334416006
+Uzbekistan,8,146,1108,"Computer occupations, all other",0.0031614048763587547
+Uzbekistan,6,146,4030,Food preparation workers,0.0031614048763587547
+Uzbekistan,4,145,2920,"Television, video, and film camera operators and editors",0.003139751418301503
+Uzbekistan,8,143,2640,Other designers,0.0030964445021869993
+Uzbekistan,1,139,9310,Ship and boat captains and operators,0.003009830669957992
+Uzbekistan,2,137,2710,Producers and directors,0.002966523753843489
+Uzbekistan,5,134,1760,"Physical scientists, all other",0.0029015633796717335
+Uzbekistan,6,133,5940,Other office and administrative support workers,0.0028799099216144817
+Uzbekistan,6,132,3603,Nursing assistants,0.00285825646355723
+Uzbekistan,6,131,0630,Human resources workers,0.0028366030054999786
+Uzbekistan,2,130,1032,Web and digital interface designers,0.0028149495474427268
+Uzbekistan,7,128,0350,Medical and health services managers,0.002771642631328223
+Uzbekistan,5,128,0565,Compliance officers,0.002771642631328223
+Uzbekistan,7,128,6442,"Plumbers, pipefitters, and steamfitters",0.002771642631328223
+Uzbekistan,6,127,2722,Coaches and scouts,0.0027499891732709713
+Uzbekistan,5,126,0020,General and operations managers,0.0027283357152137195
+Uzbekistan,2,126,0600,Cost estimators,0.0027283357152137195
+Uzbekistan,4,126,1430,"Industrial engineers, including health and safety",0.0027283357152137195
+Uzbekistan,9,125,5000,First-line supervisors of office and administrative support workers,0.0027066822571564677
+Uzbekistan,3,123,9150,"Motor vehicle operators, all other",0.0026633753410419646
+Uzbekistan,6,119,0735,Market research analysts and marketing specialists,0.0025767615088129574
+Uzbekistan,4,117,3258,"Nurse practitioners, and nurse midwives",0.0025334545926984538
+Uzbekistan,7,116,3930,Security guards and gaming surveillance officers,0.0025118011346412024
+Uzbekistan,6,115,4850,"Sales representatives, wholesale and manufacturing",0.0024901476765839506
+Uzbekistan,4,113,0420,Social and community service managers,0.002446840760469447
+Uzbekistan,4,111,0220,Construction managers,0.0024035338443549434
+Uzbekistan,8,110,1010,Computer programmers,0.0023818803862976916
+Uzbekistan,4,110,9122,"Bus drivers, transit and intercity",0.0023818803862976916
+Uzbekistan,2,109,9830,"Military, rank not specified",0.00236022692824044
+Uzbekistan,4,108,0310,Food service managers,0.0023385734701831884
+Uzbekistan,2,108,1555,"Other engineering technologists and technicians, except drafters",0.0023385734701831884
+Uzbekistan,6,107,0845,Financial and investment analysts,0.0023169200121259366
+Uzbekistan,4,107,4965,"Sales and related workers, all other",0.0023169200121259366
+Uzbekistan,5,106,0140,Industrial production managers,0.002295266554068685
+Uzbekistan,2,105,2014,"Social workers, all other",0.002273613096011433
+Uzbekistan,4,105,8140,"Welding, soldering, and brazing workers",0.002273613096011433
+Uzbekistan,2,104,6410,Painters and paperhangers,0.0022519596379541812
+Uzbekistan,4,102,4251,Landscaping and groundskeeping workers,0.0022086527218396776
+Uzbekistan,4,102,6200,First-line supervisors of construction trades and extraction workers,0.0022086527218396776
+Uzbekistan,2,97,3423,Surgical technologists,0.002100385431553419
+Uzbekistan,4,94,1065,Database administrators and architects,0.0020354250573816637
+Uzbekistan,1,94,5840,Insurance claims and policy processing clerks,0.0020354250573816637
+Uzbekistan,2,93,3515,Medical records specialists,0.0020137715993244123
+Uzbekistan,1,89,1400,Computer hardware engineers,0.001927157767095405
+Uzbekistan,3,88,3520,"Opticians, dispensing",0.0019055043090381535
+Uzbekistan,3,88,4130,Dining room and cafeteria attendants and bartender helpers,0.0019055043090381535
+Uzbekistan,5,88,7210,Bus and truck mechanics and diesel engine specialists,0.0019055043090381535
+Uzbekistan,5,87,0960,Other financial specialists,0.0018838508509809017
+Uzbekistan,6,85,2861,Interpreters and translators,0.001840543934866398
+Uzbekistan,3,83,0300,Architectural and engineering managers,0.0017972370187518947
+Uzbekistan,2,81,3649,Phlebotomists,0.001753930102637391
+Uzbekistan,2,80,1980,Occupational health and safety specialists and technicians,0.0017322766445801395
+Uzbekistan,2,76,8810,Painting workers,0.0016456628123511325
+Uzbekistan,2,73,5540,Postal service clerks,0.0015807024381793773
+Uzbekistan,2,71,4810,Insurance sales agents,0.0015373955220648737
+Uzbekistan,2,70,4330,Supervisors of personal care and service workers,0.001515742064007622
+Uzbekistan,4,70,8610,Stationary engineers and boiler operators,0.001515742064007622
+Uzbekistan,2,68,2555,Other educational instruction and library workers,0.0014724351478931186
+Uzbekistan,2,68,3150,Occupational therapists,0.0014724351478931186
+Uzbekistan,4,67,3870,Police officers,0.0014507816898358668
+Uzbekistan,4,66,1460,Mechanical engineers,0.001429128231778615
+Uzbekistan,2,66,6700,Elevator installers and repairers,0.001429128231778615
+Uzbekistan,2,65,3220,Respiratory therapists,0.0014074747737213634
+Uzbekistan,3,65,7800,Bakers,0.0014074747737213634
+Uzbekistan,4,64,3310,Dental hygienists,0.0013858213156641116
+Uzbekistan,5,63,8350,"Tailors, dressmakers, and sewers",0.0013641678576068598
+Uzbekistan,2,62,3630,Massage therapists,0.001342514399549608
+Uzbekistan,1,61,4621,Exercise trainers and group fitness instructors,0.0013208609414923564
+Uzbekistan,1,61,7855,"Food processing workers, all other",0.0013208609414923564
+Uzbekistan,1,60,3100,Surgeons,0.0012992074834351046
+Uzbekistan,2,59,8335,Shoe and leather workers,0.0012775540253778528
+Uzbekistan,3,57,5810,Data entry keyers,0.0012342471092633494
+Uzbekistan,3,56,1410,Electrical and electronics engineers,0.0012125936512060976
+Uzbekistan,5,55,1220,Operations research analysts,0.0011909401931488458
+Uzbekistan,4,55,2752,Musicians and singers,0.0011909401931488458
+Uzbekistan,2,55,3545,Miscellaneous health technologists and technicians,0.0011909401931488458
+Uzbekistan,6,54,3050,Pharmacists,0.0011692867350915942
+Uzbekistan,2,54,4800,Advertising sales agents,0.0011692867350915942
+Uzbekistan,1,53,3740,Firefighters,0.0011476332770343424
+Uzbekistan,2,53,7700,First-line supervisors of production and operating workers,0.0011476332770343424
+Uzbekistan,5,52,1360,Civil engineers,0.0011259798189770906
+Uzbekistan,3,52,5550,Postal service mail carriers,0.0011259798189770906
+Uzbekistan,1,52,7905,Computer numerically controlled tool operators and programmers,0.0011259798189770906
+Uzbekistan,1,50,2825,Public relations specialists,0.0010826729028625872
+Uzbekistan,2,50,5521,Public safety telecommunicators,0.0010826729028625872
+Uzbekistan,1,49,9141,Shuttle drivers and chauffeurs,0.0010610194448053354
+Uzbekistan,2,48,4521,Manicurists and pedicurists,0.0010393659867480836
+Uzbekistan,3,46,0940,Tax preparers,9.960590706335802e-4
+Uzbekistan,3,46,3160,Physical therapists,9.960590706335802e-4
+Uzbekistan,2,46,5710,Executive secretaries and executive administrative assistants,9.960590706335802e-4
+Uzbekistan,2,45,0150,Purchasing managers,9.744056125763284e-4
+Uzbekistan,3,45,0340,Lodging managers,9.744056125763284e-4
+Uzbekistan,2,45,3324,Magnetic resonance imaging technologists,9.744056125763284e-4
+Uzbekistan,2,45,3820,Detectives and criminal investigators,9.744056125763284e-4
+Uzbekistan,1,45,9110,"Ambulance drivers and attendants, except emergency medical technicians",9.744056125763284e-4
+Uzbekistan,2,45,9430,Other transportation workers,9.744056125763284e-4
+Uzbekistan,2,44,5560,"Postal service mail sorters, processors, and processing machine operators",9.527521545190767e-4
+Uzbekistan,2,42,5360,"Human resources assistants, except payroll and timekeeping",9.094452384045733e-4
+Uzbekistan,3,42,7315,"Heating, air conditioning, and refrigeration mechanics and installers",9.094452384045733e-4
+Uzbekistan,2,40,1105,Network and computer systems administrators,8.661383222900698e-4
+Uzbekistan,2,40,2040,Clergy,8.661383222900698e-4
+Uzbekistan,3,40,4530,"Baggage porters, bellhops, and concierges",8.661383222900698e-4
+Uzbekistan,1,39,7220,Heavy vehicle and mobile equipment service technicians and mechanics,8.44484864232818e-4
+Uzbekistan,2,38,3245,Other therapists,8.228314061755663e-4
+Uzbekistan,2,38,8750,Jewelers and precious stone and metal workers,8.228314061755663e-4
+Uzbekistan,1,37,2755,"Disc jockeys, except radio",8.011779481183145e-4
+Uzbekistan,3,37,3500,Licensed practical and licensed vocational nurses,8.011779481183145e-4
+Uzbekistan,1,36,1822,School psychologists,7.795244900610628e-4
+Uzbekistan,2,36,1970,"Other life, physical, and social science technicians",7.795244900610628e-4
+Uzbekistan,2,36,5600,"Production, planning, and expediting clerks",7.795244900610628e-4
+Uzbekistan,4,35,0160,"Transportation, storage, and distribution managers",7.57871032003811e-4
+Uzbekistan,2,35,4820,"Securities, commodities, and financial services sales agents",7.57871032003811e-4
+Uzbekistan,3,34,1320,Aerospace engineers,7.362175739465593e-4
+Uzbekistan,2,33,3655,Other healthcare support workers,7.145641158893075e-4
+Uzbekistan,3,32,1031,Web developers,6.929106578320558e-4
+Uzbekistan,2,32,1860,Other social scientists,6.929106578320558e-4
+Uzbekistan,2,32,2830,Editors,6.929106578320558e-4
+Uzbekistan,2,31,2330,Special education teachers,6.71257199774804e-4
+Uzbekistan,3,31,3110,Physician assistants,6.71257199774804e-4
+Uzbekistan,1,31,6530,Structural iron and steel workers,6.71257199774804e-4
+Uzbekistan,1,31,9800,Military officer special and tactical operations leaders,6.71257199774804e-4
+Uzbekistan,1,29,4900,"Models, demonstrators, and product promoters",6.279502836603006e-4
+Uzbekistan,2,29,5140,Payroll and timekeeping clerks,6.279502836603006e-4
+Uzbekistan,2,28,1825,Other psychologists,6.062968256030488e-4
+Uzbekistan,1,28,2002,"Educational, guidance, and career counselors and advisors",6.062968256030488e-4
+Uzbekistan,2,28,4010,First-line supervisors of food preparation and serving workers,6.062968256030488e-4
+Uzbekistan,2,28,6240,"Carpet, floor, and tile installers and finishers",6.062968256030488e-4
+Uzbekistan,2,27,3550,Other healthcare practitioners and technical occupations,5.846433675457971e-4
+Uzbekistan,2,27,4055,Fast food and counter workers,5.846433675457971e-4
+Uzbekistan,1,27,4120,"Food servers, nonrestaurant",5.846433675457971e-4
+Uzbekistan,1,27,7000,"First-line supervisors of mechanics, installers, and repairers",5.846433675457971e-4
+Uzbekistan,2,27,7430,Precision instrument and equipment repairers,5.846433675457971e-4
+Uzbekistan,2,27,8950,Helpers--production workers,5.846433675457971e-4
+Uzbekistan,1,26,3230,Speech-language pathologists,5.629899094885453e-4
+Uzbekistan,1,26,7020,Radio and telecommunications equipment installers and repairers,5.629899094885453e-4
+Uzbekistan,2,26,7130,Security and fire alarm systems installers,5.629899094885453e-4
+Uzbekistan,3,26,7200,Automotive service technicians and mechanics,5.629899094885453e-4
+Uzbekistan,2,25,0700,Logisticians,5.413364514312936e-4
+Uzbekistan,2,25,2600,Artists and related workers,5.413364514312936e-4
+Uzbekistan,2,25,3640,Dental assistants,5.413364514312936e-4
+Uzbekistan,1,25,4340,Animal trainers,5.413364514312936e-4
+Uzbekistan,2,25,5350,Correspondence clerks and order clerks,5.413364514312936e-4
+Uzbekistan,1,25,7540,Locksmiths and safe repairers,5.413364514312936e-4
+Uzbekistan,1,25,7640,"Other installation, maintenance, and repair workers",5.413364514312936e-4
+Uzbekistan,1,24,3802,Correctional officers and jailers,5.196829933740418e-4
+Uzbekistan,2,24,4522,Skincare specialists,5.196829933740418e-4
+Uzbekistan,1,24,5300,"Hotel, motel, and resort desk clerks",5.196829933740418e-4
+Uzbekistan,2,23,1551,Electrical and electronic engineering technologists and technicians,4.980295353167901e-4
+Uzbekistan,1,23,4435,Other entertainment attendants and related workers,4.980295353167901e-4
+Uzbekistan,1,23,4622,Recreation workers,4.980295353167901e-4
+Uzbekistan,1,22,2810,"News analysts, reporters, and journalists",4.763760772595384e-4
+Uzbekistan,2,22,5250,"Eligibility interviewers, government programs",4.763760772595384e-4
+Uzbekistan,1,21,0102,Facilities managers,4.5472261920228663e-4
+Uzbekistan,2,21,2700,Actors,4.5472261920228663e-4
+Uzbekistan,3,21,3610,Occupational therapy assistants and aides,4.5472261920228663e-4
+Uzbekistan,1,21,4400,Gambling services workers,4.5472261920228663e-4
+Uzbekistan,1,21,5260,File clerks,4.5472261920228663e-4
+Uzbekistan,1,20,4740,Counter and rental clerks,4.330691611450349e-4
+Uzbekistan,1,20,5730,Medical secretaries and administrative assistants,4.330691611450349e-4
+Uzbekistan,1,20,6050,Other agricultural workers,4.330691611450349e-4
+Uzbekistan,1,20,9600,Industrial truck and tractor operators,4.330691611450349e-4
+Uzbekistan,1,19,0540,"Claims adjusters, appraisers, examiners, and investigators",4.1141570308778313e-4
+Uzbekistan,1,19,1305,"Architects, except landscape and naval",4.1141570308778313e-4
+Uzbekistan,1,19,1610,Biological scientists,4.1141570308778313e-4
+Uzbekistan,2,19,4655,"Personal care and service workers, all other",4.1141570308778313e-4
+Uzbekistan,1,18,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",3.897622450305314e-4
+Uzbekistan,2,18,9121,"Bus drivers, school",3.897622450305314e-4
+Uzbekistan,1,17,0136,Human resources managers,3.6810878697327964e-4
+Uzbekistan,1,17,0530,"Purchasing agents, except wholesale, retail, and farm products",3.6810878697327964e-4
+Uzbekistan,1,17,1005,Computer and information research scientists,3.6810878697327964e-4
+Uzbekistan,1,16,0725,"Meeting, convention, and event planners",3.464553289160279e-4
+Uzbekistan,1,16,2350,Tutors,3.464553289160279e-4
+Uzbekistan,1,16,4350,Animal caretakers,3.464553289160279e-4
+Uzbekistan,1,16,5220,"Court, municipal, and license clerks",3.464553289160279e-4
+Uzbekistan,1,16,5720,Legal secretaries and administrative assistants,3.464553289160279e-4
+Uzbekistan,1,15,2751,Music directors and composers,3.2480187085877615e-4
+Uzbekistan,1,15,4200,First-line supervisors of housekeeping and janitorial workers,3.2480187085877615e-4
+Uzbekistan,1,15,5160,Tellers,3.2480187085877615e-4
+Uzbekistan,1,15,5610,"Shipping, receiving, and inventory clerks",3.2480187085877615e-4
+Uzbekistan,1,15,7120,Electronic home entertainment equipment installers and repairers,3.2480187085877615e-4
+Uzbekistan,1,15,8310,"Pressers, textile, garment, and related materials",3.2480187085877615e-4
+Uzbekistan,1,14,1520,"Petroleum, mining and geological engineers, including mining safety engineers",3.031484128015244e-4
+Uzbekistan,1,14,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",3.031484128015244e-4
+Uzbekistan,1,14,6515,Roofers,3.031484128015244e-4
+Uzbekistan,1,14,8500,Cabinetmakers and bench carpenters,3.031484128015244e-4
+Uzbekistan,1,13,0360,Natural sciences managers,2.8149495474427265e-4
+Uzbekistan,1,13,0500,"Agents and business managers of artists, performers, and athletes",2.8149495474427265e-4
+Uzbekistan,1,13,3605,Orderlies and psychiatric aides,2.8149495474427265e-4
+Uzbekistan,1,13,7360,Millwrights,2.8149495474427265e-4
+Uzbekistan,1,13,8800,Packaging and filling machine operators and tenders,2.8149495474427265e-4
+Uzbekistan,1,12,0040,Advertising and promotions managers,2.598414966870209e-4
+Uzbekistan,1,12,0335,Entertainment and recreation managers,2.598414966870209e-4
+Uzbekistan,2,12,2770,"Entertainers and performers, sports and related workers, all other",2.598414966870209e-4
+Uzbekistan,1,12,7140,Aircraft mechanics and service technicians,2.598414966870209e-4
+Uzbekistan,1,12,9410,Transportation inspectors,2.598414966870209e-4
+Uzbekistan,2,12,9825,Military enlisted tactical operations and air/weapons specialists and crew members,2.598414966870209e-4
+Uzbekistan,1,11,1545,Other drafters,2.381880386297692e-4
+Uzbekistan,1,11,1821,Clinical and counseling psychologists,2.381880386297692e-4
+Uzbekistan,1,11,2003,Marriage and family therapists,2.381880386297692e-4
+Uzbekistan,1,11,3270,"Healthcare diagnosing or treating practitioners, all other",2.381880386297692e-4
+Uzbekistan,1,11,5100,Bill and account collectors,2.381880386297692e-4
+Uzbekistan,1,11,5910,Proofreaders and copy markers,2.381880386297692e-4
+Uzbekistan,1,11,9365,Transportation service attendants,2.381880386297692e-4
+Uzbekistan,1,10,1800,Economists,2.1653458057251744e-4
+Uzbekistan,1,10,3620,Physical therapist assistants and aides,2.1653458057251744e-4
+Uzbekistan,1,10,4040,Bartenders,2.1653458057251744e-4
+Uzbekistan,1,9,0726,Fundraisers,1.948811225152657e-4
+Uzbekistan,1,9,0810,Property appraisers and assessors,1.948811225152657e-4
+Uzbekistan,1,9,6305,Construction equipment operators,1.948811225152657e-4
+Uzbekistan,1,9,7810,"Butchers and other meat, poultry, and fish processing workers",1.948811225152657e-4
+Uzbekistan,1,8,3261,Acupuncturists,1.7322766445801395e-4
+Uzbekistan,1,8,3401,Emergency medical technicians,1.7322766445801395e-4
+Uzbekistan,1,8,7010,"Computer, automated teller, and office machine repairers",1.7322766445801395e-4
+Uzbekistan,1,8,8130,Tool and die makers,1.7322766445801395e-4
+Uzbekistan,1,7,0135,Compensation and benefits managers,1.515742064007622e-4
+Uzbekistan,1,7,0930,"Tax examiners and collectors, and revenue agents",1.515742064007622e-4
+Uzbekistan,1,7,8320,Sewing machine operators,1.515742064007622e-4
+Uzbekistan,1,6,6520,Sheet metal workers,1.2992074834351045e-4
+Uzbekistan,1,2,5410,Reservation and transportation ticket agents and travel clerks,4.330691611450349e-5
+Uzbekistan,1,1,2850,Writers and authors,2.1653458057251743e-5
+Uzbekistan,1,1,7320,Home appliance repairers,2.1653458057251743e-5

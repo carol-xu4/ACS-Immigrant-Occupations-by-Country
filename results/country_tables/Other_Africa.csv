@@ -1,315 +1,315 @@
-country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
-Other Africa,3564,131377,2067,83466,9130,Driver/sales workers and truck drivers,79,3719,0.04455706515227757
-Other Africa,3564,131377,2067,83466,3602,Personal care aides,84,3607,0.0432152013993722
-Other Africa,3564,131377,2067,83466,3255,Registered nurses,71,2583,0.030946732801380203
-Other Africa,3564,131377,2067,83466,3603,Nursing assistants,58,2534,0.030359667409484103
-Other Africa,3564,131377,2067,83466,9142,Taxi drivers,51,2253,0.026993027100855438
-Other Africa,3564,131377,2067,83466,4230,Maids and housekeeping cleaners,44,2222,0.026621618383533417
-Other Africa,3564,131377,2067,83466,3601,Home health aides,42,2112,0.025303716483358493
-Other Africa,3564,131377,2067,83466,9620,"Laborers and freight, stock, and material movers, hand",47,2003,0.023997795509548798
-Other Africa,3564,131377,2067,83466,0440,Other managers,57,1929,0.02311120695852203
-Other Africa,3564,131377,2067,83466,8990,"Miscellaneous production workers, including equipment operators and tenders",37,1863,0.02232046581841708
-Other Africa,3564,131377,2067,83466,5240,Customer service representatives,39,1859,0.022272542112956175
-Other Africa,3564,131377,2067,83466,4220,Janitors and building cleaners,45,1628,0.01950494812258884
-Other Africa,3564,131377,2067,83466,4720,Cashiers,33,1618,0.019385138858936574
-Other Africa,3564,131377,2067,83466,5510,Couriers and messengers,25,1402,0.016797258764047637
-Other Africa,3564,131377,2067,83466,9640,"Packers and packagers, hand",29,1349,0.01616226966669063
-Other Africa,3564,131377,2067,83466,3500,Licensed practical and licensed vocational nurses,27,1323,0.015850765581194737
-Other Africa,3564,131377,2067,83466,3930,Security guards and gaming surveillance officers,27,1283,0.015371528526585675
-Other Africa,3564,131377,2067,83466,4020,Cooks,23,1037,0.012424220640739942
-Other Africa,3564,131377,2067,83466,4700,First-line supervisors of retail sales workers,21,866,0.0103754822322862
-Other Africa,3564,131377,2067,83466,4760,Retail salespersons,27,858,0.010279634821364387
-Other Africa,3564,131377,2067,83466,0800,Accountants and auditors,27,809,0.009692569429468287
-Other Africa,3564,131377,2067,83466,2205,Postsecondary teachers,29,770,0.00922531330122445
-Other Africa,3564,131377,2067,83466,9645,Stockers and order fillers,21,737,0.008829942731171974
-Other Africa,3564,131377,2067,83466,0630,Human resources workers,13,698,0.008362686602928139
-Other Africa,3564,131377,2067,83466,7750,Other assemblers and fabricators,14,688,0.008242877339275872
-Other Africa,3564,131377,2067,83466,7855,"Food processing workers, all other",10,667,0.007991277885606114
-Other Africa,3564,131377,2067,83466,4510,"Hairdressers, hairstylists, and cosmetologists",15,660,0.00790741140104953
-Other Africa,3564,131377,2067,83466,9600,Industrial truck and tractor operators,10,640,0.007667792873744998
-Other Africa,3564,131377,2067,83466,6260,Construction laborers,15,633,0.007583926389188412
-Other Africa,3564,131377,2067,83466,0310,Food service managers,13,632,0.007571945462823185
-Other Africa,3564,131377,2067,83466,4000,Chefs and head cooks,13,609,0.007296384156422975
-Other Africa,3564,131377,2067,83466,2310,Elementary and middle school teachers,15,600,0.007188555819135935
-Other Africa,3564,131377,2067,83466,0020,General and operations managers,12,585,0.007008841923657537
-Other Africa,3564,131377,2067,83466,5610,"Shipping, receiving, and inventory clerks",11,578,0.006924975439100952
-Other Africa,3564,131377,2067,83466,1555,"Other engineering technologists and technicians, except drafters",8,566,0.006781204322718232
-Other Africa,3564,131377,2067,83466,8300,Laundry and dry-cleaning workers,8,540,0.006469700237222342
-Other Africa,3564,131377,2067,83466,4110,Waiters and waitresses,16,537,0.0064337574581266625
-Other Africa,3564,131377,2067,83466,1021,Software developers,18,536,0.006421776531761436
-Other Africa,3564,131377,2067,83466,8225,Other metal workers and plastic workers,12,527,0.0063139481944743964
-Other Africa,3564,131377,2067,83466,4030,Food preparation workers,10,519,0.006218100783552585
-Other Africa,3564,131377,2067,83466,3870,Police officers,9,513,0.006146215225361225
-Other Africa,3564,131377,2067,83466,0710,Management analysts,13,501,0.006002444108978506
-Other Africa,3564,131377,2067,83466,7810,"Butchers and other meat, poultry, and fish processing workers",7,492,0.005894615771691467
-Other Africa,3564,131377,2067,83466,0350,Medical and health services managers,11,440,0.005271607600699686
-Other Africa,3564,131377,2067,83466,6355,Electricians,11,430,0.00515179833704742
-Other Africa,3564,131377,2067,83466,2014,"Social workers, all other",10,410,0.004912179809742889
-Other Africa,3564,131377,2067,83466,0120,Financial managers,13,404,0.00484029425155153
-Other Africa,3564,131377,2067,83466,2545,Teaching assistants,16,400,0.004792370546090624
-Other Africa,3564,131377,2067,83466,4600,Childcare workers,11,397,0.004756427766994944
-Other Africa,3564,131377,2067,83466,3090,Physicians,15,394,0.004720484987899265
-Other Africa,3564,131377,2067,83466,2040,Clergy,23,383,0.004588694797881772
-Other Africa,3564,131377,2067,83466,5740,"Secretaries and administrative assistants, except legal, medical, and executive",13,378,0.004528790166055639
-Other Africa,3564,131377,2067,83466,4710,First-line supervisors of non-retail sales workers,12,360,0.004313133491481561
-Other Africa,3564,131377,2067,83466,5840,Insurance claims and policy processing clerks,2,351,0.004205305154194522
-Other Africa,3564,131377,2067,83466,8800,Packaging and filling machine operators and tenders,7,351,0.004205305154194522
-Other Africa,3564,131377,2067,83466,1050,Computer support specialists,10,350,0.004193324227829295
-Other Africa,3564,131377,2067,83466,2300,Preschool and kindergarten teachers,8,347,0.004157381448733616
-Other Africa,3564,131377,2067,83466,3655,Other healthcare support workers,8,345,0.004133419596003163
-Other Africa,3564,131377,2067,83466,1460,Mechanical engineers,8,343,0.00410945774327271
-Other Africa,3564,131377,2067,83466,0410,"Property, real estate, and community association managers",5,342,0.004097476816907484
-Other Africa,3564,131377,2067,83466,3422,Psychiatric technicians,4,315,0.0037739918050463664
-Other Africa,3564,131377,2067,83466,8740,"Inspectors, testers, sorters, samplers, and weighers",8,314,0.0037620108786811397
-Other Africa,3564,131377,2067,83466,0136,Human resources managers,4,313,0.003750029952315913
-Other Africa,3564,131377,2067,83466,0230,Education and childcare administrators,8,303,0.0036302206886636473
-Other Africa,3564,131377,2067,83466,1108,"Computer occupations, all other",14,301,0.0036062588359331944
-Other Africa,3564,131377,2067,83466,7700,First-line supervisors of production and operating workers,6,294,0.0035223923513766084
-Other Africa,3564,131377,2067,83466,5940,Other office and administrative support workers,4,290,0.003474468645915702
-Other Africa,3564,131377,2067,83466,4965,"Sales and related workers, all other",6,284,0.003402583087724343
-Other Africa,3564,131377,2067,83466,5540,Postal service clerks,4,280,0.0033546593822634365
-Other Africa,3564,131377,2067,83466,9005,Supervisors of transportation and material moving workers,6,272,0.0032588119713416242
-Other Africa,3564,131377,2067,83466,8030,Machinists,2,264,0.0031629645604198116
-Other Africa,3564,131377,2067,83466,7200,Automotive service technicians and mechanics,10,259,0.003103059928593679
-Other Africa,3564,131377,2067,83466,4920,Real estate brokers and sales agents,7,256,0.0030671171494979993
-Other Africa,3564,131377,2067,83466,2360,Other teachers and instructors,9,253,0.0030311743704023197
-Other Africa,3564,131377,2067,83466,5110,Billing and posting clerks,6,247,0.00295928881221096
-Other Africa,3564,131377,2067,83466,3424,Veterinary technologists and technicians,2,246,0.0029473078858457337
-Other Africa,3564,131377,2067,83466,5860,"Office clerks, general",9,242,0.0028993841803848274
-Other Africa,3564,131377,2067,83466,0700,Logisticians,6,237,0.0028394795485586944
-Other Africa,3564,131377,2067,83466,9122,"Bus drivers, transit and intercity",9,230,0.002755613064002109
-Other Africa,3564,131377,2067,83466,7330,Industrial and refractory machinery mechanics,4,229,0.002743632137636882
-Other Africa,3564,131377,2067,83466,5550,Postal service mail carriers,5,228,0.0027316512112716554
-Other Africa,3564,131377,2067,83466,0010,Chief executives and legislators,10,224,0.002683727505810749
-Other Africa,3564,131377,2067,83466,2015,Probation officers and correctional treatment specialists,3,224,0.002683727505810749
-Other Africa,3564,131377,2067,83466,4200,First-line supervisors of housekeeping and janitorial workers,4,224,0.002683727505810749
-Other Africa,3564,131377,2067,83466,0340,Lodging managers,4,223,0.002671746579445523
-Other Africa,3564,131377,2067,83466,8250,Prepress technicians and workers,3,218,0.00261184194761939
-Other Africa,3564,131377,2067,83466,4622,Recreation workers,6,217,0.0025998610212541635
-Other Africa,3564,131377,2067,83466,0705,Project management specialists,6,216,0.002587880094888937
-Other Africa,3564,131377,2067,83466,3300,Clinical laboratory technologists and technicians,3,216,0.002587880094888937
-Other Africa,3564,131377,2067,83466,5400,Receptionists and information clerks,7,216,0.002587880094888937
-Other Africa,3564,131377,2067,83466,0520,"Wholesale and retail buyers, except farm products",4,212,0.0025399563894280305
-Other Africa,3564,131377,2067,83466,2002,"Educational, guidance, and career counselors and advisors",3,211,0.002527975463062804
-Other Africa,3564,131377,2067,83466,5020,Telephone operators,1,207,0.002480051757601898
-Other Africa,3564,131377,2067,83466,9350,Parking attendants,5,202,0.002420147125775765
-Other Africa,3564,131377,2067,83466,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",6,201,0.002408166199410538
-Other Africa,3564,131377,2067,83466,1360,Civil engineers,4,200,0.002396185273045312
-Other Africa,3564,131377,2067,83466,4850,"Sales representatives, wholesale and manufacturing",6,199,0.0023842043466800853
-Other Africa,3564,131377,2067,83466,2006,"Counselors, all other",4,198,0.0023722234203148586
-Other Africa,3564,131377,2067,83466,3645,Medical assistants,9,197,0.0023602424939496323
-Other Africa,3564,131377,2067,83466,1007,Information security analysts,5,192,0.0023003378621234993
-Other Africa,3564,131377,2067,83466,0750,"Business operations specialists, all other",6,189,0.0022643950830278196
-Other Africa,3564,131377,2067,83466,0420,Social and community service managers,5,188,0.002252414156662593
-Other Africa,3564,131377,2067,83466,9825,Military enlisted tactical operations and air/weapons specialists and crew members,4,187,0.0022404332302973667
-Other Africa,3564,131377,2067,83466,1760,"Physical scientists, all other",5,179,0.002144585819375554
-Other Africa,3564,131377,2067,83466,4435,Other entertainment attendants and related workers,2,177,0.002120623966645101
-Other Africa,3564,131377,2067,83466,5410,Reservation and transportation ticket agents and travel clerks,4,174,0.0020846811875494214
-Other Africa,3564,131377,2067,83466,3421,Pharmacy technicians,4,172,0.002060719334818968
-Other Africa,3564,131377,2067,83466,7315,"Heating, air conditioning, and refrigeration mechanics and installers",5,171,0.002048738408453742
-Other Africa,3564,131377,2067,83466,1240,Other mathematical science occupations,4,170,0.002036757482088515
-Other Africa,3564,131377,2067,83466,9610,Cleaners of vehicles and equipment,5,170,0.002036757482088515
-Other Africa,3564,131377,2067,83466,1006,Computer systems analysts,5,169,0.0020247765557232884
-Other Africa,3564,131377,2067,83466,7800,Bakers,3,169,0.0020247765557232884
-Other Africa,3564,131377,2067,83466,2004,Mental health counselors,4,167,0.0020008147029928354
-Other Africa,3564,131377,2067,83466,4140,Dishwashers,8,166,0.0019888337766276088
-Other Africa,3564,131377,2067,83466,1970,"Other life, physical, and social science technicians",7,165,0.0019768528502623825
-Other Africa,3564,131377,2067,83466,3802,Correctional officers and jailers,7,164,0.001964871923897156
-Other Africa,3564,131377,2067,83466,5165,Other financial clerks,3,163,0.0019528909975319291
-Other Africa,3564,131377,2067,83466,5120,"Bookkeeping, accounting, and auditing clerks",5,161,0.001928929144801476
-Other Africa,3564,131377,2067,83466,0051,Marketing managers,5,159,0.001904967292071023
-Other Africa,3564,131377,2067,83466,0845,Financial and investment analysts,3,159,0.001904967292071023
-Other Africa,3564,131377,2067,83466,7140,Aircraft mechanics and service technicians,3,159,0.001904967292071023
-Other Africa,3564,131377,2067,83466,7420,Telecommunications line installers and repairers,4,156,0.0018690245129753434
-Other Africa,3564,131377,2067,83466,8255,Printing press operators,3,156,0.0018690245129753434
-Other Africa,3564,131377,2067,83466,3110,Physician assistants,1,153,0.0018330817338796635
-Other Africa,3564,131377,2067,83466,7010,"Computer, automated teller, and office machine repairers",3,153,0.0018330817338796635
-Other Africa,3564,131377,2067,83466,9030,Aircraft pilots and flight engineers,4,152,0.001821100807514437
-Other Africa,3564,131377,2067,83466,4251,Landscaping and groundskeeping workers,7,150,0.0017971389547839839
-Other Africa,3564,131377,2067,83466,7340,"Maintenance and repair workers, general",7,150,0.0017971389547839839
-Other Africa,3564,131377,2067,83466,4521,Manicurists and pedicurists,3,145,0.001737234322957851
-Other Africa,3564,131377,2067,83466,7220,Heavy vehicle and mobile equipment service technicians and mechanics,6,142,0.0017012915438621714
-Other Africa,3564,131377,2067,83466,9365,Transportation service attendants,2,141,0.001689310617496945
-Other Africa,3564,131377,2067,83466,6050,Other agricultural workers,4,137,0.0016413869120360386
-Other Africa,3564,131377,2067,83466,3545,Miscellaneous health technologists and technicians,2,136,0.0016294059856708121
-Other Africa,3564,131377,2067,83466,2555,Other educational instruction and library workers,2,134,0.001605444132940359
-Other Africa,3564,131377,2067,83466,3030,Dietitians and nutritionists,2,132,0.0015814822802099058
-Other Africa,3564,131377,2067,83466,4800,Advertising sales agents,2,132,0.0015814822802099058
-Other Africa,3564,131377,2067,83466,0940,Tax preparers,3,131,0.0015695013538446793
-Other Africa,3564,131377,2067,83466,5522,"Dispatchers, except police, fire, and ambulance",3,131,0.0015695013538446793
-Other Africa,3564,131377,2067,83466,2016,Social and human service assistants,4,126,0.0015095967220185465
-Other Africa,3564,131377,2067,83466,9760,Other material moving workers,3,125,0.00149761579565332
-Other Africa,3564,131377,2067,83466,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",2,124,0.0014856348692880933
-Other Africa,3564,131377,2067,83466,3402,Paramedics,2,120,0.0014377111638271872
-Other Africa,3564,131377,2067,83466,9430,Other transportation workers,2,120,0.0014377111638271872
-Other Africa,3564,131377,2067,83466,1530,Other engineers,4,118,0.001413749311096734
-Other Africa,3564,131377,2067,83466,3605,Orderlies and psychiatric aides,3,117,0.0014017683847315074
-Other Africa,3564,131377,2067,83466,2100,"Lawyers, and judges, magistrates, and other judicial workers",3,116,0.0013897874583662809
-Other Africa,3564,131377,2067,83466,2320,Secondary school teachers,5,113,0.0013538446792706012
-Other Africa,3564,131377,2067,83466,4055,Fast food and counter workers,2,113,0.0013538446792706012
-Other Africa,3564,131377,2067,83466,1310,"Surveyors, cartographers, and photogrammetrists",1,112,0.0013418637529053745
-Other Africa,3564,131377,2067,83466,1610,Biological scientists,2,112,0.0013418637529053745
-Other Africa,3564,131377,2067,83466,8350,"Tailors, dressmakers, and sewers",1,110,0.0013179019001749216
-Other Africa,3564,131377,2067,83466,0565,Compliance officers,4,108,0.0012939400474444684
-Other Africa,3564,131377,2067,83466,7020,Radio and telecommunications equipment installers and repairers,4,108,0.0012939400474444684
-Other Africa,3564,131377,2067,83466,5310,"Interviewers, except eligibility and loan",3,107,0.001281959121079242
-Other Africa,3564,131377,2067,83466,7840,Food batchmakers,3,107,0.001281959121079242
-Other Africa,3564,131377,2067,83466,9121,"Bus drivers, school",3,106,0.0012699781947140153
-Other Africa,3564,131377,2067,83466,0640,"Compensation, benefits, and job analysis specialists",1,102,0.0012220544892531091
-Other Africa,3564,131377,2067,83466,4010,First-line supervisors of food preparation and serving workers,2,101,0.0012100735628878824
-Other Africa,3564,131377,2067,83466,4621,Exercise trainers and group fitness instructors,4,100,0.001198092636522656
-Other Africa,3564,131377,2067,83466,6520,Sheet metal workers,1,100,0.001198092636522656
-Other Africa,3564,131377,2067,83466,1022,Software quality assurance analysts and testers,1,99,0.0011861117101574293
-Other Africa,3564,131377,2067,83466,4640,Residential advisors,10,99,0.0011861117101574293
-Other Africa,3564,131377,2067,83466,0360,Natural sciences managers,1,96,0.0011501689310617496
-Other Africa,3564,131377,2067,83466,9141,Shuttle drivers and chauffeurs,3,96,0.0011501689310617496
-Other Africa,3564,131377,2067,83466,2640,Other designers,4,95,0.0011381880046965232
-Other Africa,3564,131377,2067,83466,2861,Interpreters and translators,2,94,0.0011262070783312965
-Other Africa,3564,131377,2067,83466,0540,"Claims adjusters, appraisers, examiners, and investigators",2,91,0.0010902642992356168
-Other Africa,3564,131377,2067,83466,9720,Refuse and recyclable material collectors,1,91,0.0010902642992356168
-Other Africa,3564,131377,2067,83466,3640,Dental assistants,3,89,0.0010663024465051639
-Other Africa,3564,131377,2067,83466,5850,"Mail clerks and mail machine operators, except postal service",4,89,0.0010663024465051639
-Other Africa,3564,131377,2067,83466,3649,Phlebotomists,3,88,0.0010543215201399372
-Other Africa,3564,131377,2067,83466,5000,First-line supervisors of office and administrative support workers,4,86,0.001030359667409484
-Other Africa,3564,131377,2067,83466,7120,Electronic home entertainment equipment installers and repairers,2,86,0.001030359667409484
-Other Africa,3564,131377,2067,83466,1410,Electrical and electronics engineers,3,85,0.0010183787410442575
-Other Africa,3564,131377,2067,83466,5810,Data entry keyers,2,84,0.001006397814679031
-Other Africa,3564,131377,2067,83466,0052,Sales managers,3,83,9.944168883138044e-4
-Other Africa,3564,131377,2067,83466,3050,Pharmacists,3,83,9.944168883138044e-4
-Other Africa,3564,131377,2067,83466,1320,Aerospace engineers,2,81,9.704550355833513e-4
-Other Africa,3564,131377,2067,83466,3647,Pharmacy aides,1,81,9.704550355833513e-4
-Other Africa,3564,131377,2067,83466,6240,"Carpet, floor, and tile installers and finishers",2,80,9.584741092181247e-4
-Other Africa,3564,131377,2067,83466,6230,Carpenters,5,79,9.464931828528982e-4
-Other Africa,3564,131377,2067,83466,0205,"Farmers, ranchers, and other agricultural managers",3,77,9.225313301224451e-4
-Other Africa,3564,131377,2067,83466,5160,Tellers,1,77,9.225313301224451e-4
-Other Africa,3564,131377,2067,83466,7210,Bus and truck mechanics and diesel engine specialists,5,76,9.105504037572185e-4
-Other Africa,3564,131377,2067,83466,5260,File clerks,2,75,8.985694773919919e-4
-Other Africa,3564,131377,2067,83466,1105,Network and computer systems administrators,2,74,8.865885510267653e-4
-Other Africa,3564,131377,2067,83466,3610,Occupational therapy assistants and aides,2,74,8.865885510267653e-4
-Other Africa,3564,131377,2067,83466,2012,Healthcare social workers,1,73,8.746076246615389e-4
-Other Africa,3564,131377,2067,83466,9830,"Military, rank not specified",5,73,8.746076246615389e-4
-Other Africa,3564,131377,2067,83466,0500,"Agents and business managers of artists, performers, and athletes",1,72,8.626266982963123e-4
-Other Africa,3564,131377,2067,83466,8750,Jewelers and precious stone and metal workers,1,72,8.626266982963123e-4
-Other Africa,3564,131377,2067,83466,0735,Market research analysts and marketing specialists,3,71,8.506457719310857e-4
-Other Africa,3564,131377,2067,83466,6515,Roofers,1,71,8.506457719310857e-4
-Other Africa,3564,131377,2067,83466,8810,Painting workers,2,71,8.506457719310857e-4
-Other Africa,3564,131377,2067,83466,2700,Actors,2,70,8.386648455658591e-4
-Other Africa,3564,131377,2067,83466,3310,Dental hygienists,2,70,8.386648455658591e-4
-Other Africa,3564,131377,2067,83466,0530,"Purchasing agents, except wholesale, retail, and farm products",3,69,8.266839192006326e-4
-Other Africa,3564,131377,2067,83466,1400,Computer hardware engineers,2,69,8.266839192006326e-4
-Other Africa,3564,131377,2067,83466,2025,Other community and social service specialists,3,68,8.147029928354061e-4
-Other Africa,3564,131377,2067,83466,3620,Physical therapist assistants and aides,2,68,8.147029928354061e-4
-Other Africa,3564,131377,2067,83466,4540,Tour and travel guides,1,67,8.027220664701795e-4
-Other Africa,3564,131377,2067,83466,4810,Insurance sales agents,4,67,8.027220664701795e-4
-Other Africa,3564,131377,2067,83466,3258,"Nurse practitioners, and nurse midwives",3,65,7.787602137397263e-4
-Other Africa,3564,131377,2067,83466,3323,Radiologic technologists and technicians,2,65,7.787602137397263e-4
-Other Africa,3564,131377,2067,83466,8620,Water and wastewater treatment plant and system operators,1,65,7.787602137397263e-4
-Other Africa,3564,131377,2067,83466,7360,Millwrights,1,64,7.667792873744998e-4
-Other Africa,3564,131377,2067,83466,8320,Sewing machine operators,3,64,7.667792873744998e-4
-Other Africa,3564,131377,2067,83466,9810,First-line enlisted military supervisors,1,63,7.547983610092732e-4
-Other Africa,3564,131377,2067,83466,6540,Solar photovoltaic installers,1,62,7.428174346440467e-4
-Other Africa,3564,131377,2067,83466,0960,Other financial specialists,2,61,7.308365082788201e-4
-Other Africa,3564,131377,2067,83466,4130,Dining room and cafeteria attendants and bartender helpers,1,60,7.188555819135936e-4
-Other Africa,3564,131377,2067,83466,5420,Other information and records clerks,3,60,7.188555819135936e-4
-Other Africa,3564,131377,2067,83466,0220,Construction managers,2,59,7.06874655548367e-4
-Other Africa,3564,131377,2067,83466,3256,Nurse anesthetists,1,59,7.06874655548367e-4
-Other Africa,3564,131377,2067,83466,1340,Biomedical and agricultural engineers,1,58,6.948937291831404e-4
-Other Africa,3564,131377,2067,83466,2634,Graphic designers,3,58,6.948937291831404e-4
-Other Africa,3564,131377,2067,83466,3725,"Miscellaneous first-line supervisors, protective service workers",1,58,6.948937291831404e-4
-Other Africa,3564,131377,2067,83466,4120,"Food servers, nonrestaurant",2,57,6.829128028179139e-4
-Other Africa,3564,131377,2067,83466,0850,Personal financial advisors,2,55,6.589509500874608e-4
-Other Africa,3564,131377,2067,83466,1650,Other life scientists,2,55,6.589509500874608e-4
-Other Africa,3564,131377,2067,83466,7720,"Electrical, electronics, and electromechanical assemblers",3,55,6.589509500874608e-4
-Other Africa,3564,131377,2067,83466,3040,Optometrists,1,54,6.469700237222342e-4
-Other Africa,3564,131377,2067,83466,0930,"Tax examiners and collectors, and revenue agents",2,53,6.349890973570076e-4
-Other Africa,3564,131377,2067,83466,2050,"Directors, religious activities and education",1,52,6.23008170991781e-4
-Other Africa,3564,131377,2067,83466,3740,Firefighters,3,52,6.23008170991781e-4
-Other Africa,3564,131377,2067,83466,9150,"Motor vehicle operators, all other",2,52,6.23008170991781e-4
-Other Africa,3564,131377,2067,83466,4500,Barbers,1,51,6.110272446265546e-4
-Other Africa,3564,131377,2067,83466,2001,Substance abuse and behavioral disorder counselors,2,49,5.870653918961014e-4
-Other Africa,3564,131377,2067,83466,3710,First-line supervisors of police and detectives,1,48,5.750844655308748e-4
-Other Africa,3564,131377,2067,83466,2060,"Religious workers, all other",1,44,5.271607600699686e-4
-Other Africa,3564,131377,2067,83466,9265,Other rail transportation workers,1,42,5.031989073395155e-4
-Other Africa,3564,131377,2067,83466,5300,"Hotel, motel, and resort desk clerks",2,41,4.91217980974289e-4
-Other Africa,3564,131377,2067,83466,5350,Correspondence clerks and order clerks,2,41,4.91217980974289e-4
-Other Africa,3564,131377,2067,83466,2830,Editors,1,40,4.7923705460906237e-4
-Other Africa,3564,131377,2067,83466,4400,Gambling services workers,1,40,4.7923705460906237e-4
-Other Africa,3564,131377,2067,83466,9300,"Sailors and marine oilers, and ship engineers",1,40,4.7923705460906237e-4
-Other Africa,3564,131377,2067,83466,3160,Physical therapists,1,39,4.6725612824383584e-4
-Other Africa,3564,131377,2067,83466,9240,Railroad conductors and yardmasters,1,39,4.6725612824383584e-4
-Other Africa,3564,131377,2067,83466,0725,"Meeting, convention, and event planners",4,38,4.5527520187860926e-4
-Other Africa,3564,131377,2067,83466,1065,Database administrators and architects,1,38,4.5527520187860926e-4
-Other Africa,3564,131377,2067,83466,0140,Industrial production managers,1,37,4.4329427551338267e-4
-Other Africa,3564,131377,2067,83466,1010,Computer programmers,1,37,4.4329427551338267e-4
-Other Africa,3564,131377,2067,83466,0110,Computer and information systems managers,2,36,4.3131334914815614e-4
-Other Africa,3564,131377,2067,83466,1520,"Petroleum, mining and geological engineers, including mining safety engineers",1,36,4.3131334914815614e-4
-Other Africa,3564,131377,2067,83466,2330,Special education teachers,1,36,4.3131334914815614e-4
-Other Africa,3564,131377,2067,83466,0650,Training and development specialists,2,35,4.1933242278292956e-4
-Other Africa,3564,131377,2067,83466,5910,Proofreaders and copy markers,1,35,4.1933242278292956e-4
-Other Africa,3564,131377,2067,83466,3230,Speech-language pathologists,1,34,4.0735149641770303e-4
-Other Africa,3564,131377,2067,83466,3515,Medical records specialists,1,34,4.0735149641770303e-4
-Other Africa,3564,131377,2067,83466,3550,Other healthcare practitioners and technical occupations,2,34,4.0735149641770303e-4
-Other Africa,3564,131377,2067,83466,4040,Bartenders,1,34,4.0735149641770303e-4
-Other Africa,3564,131377,2067,83466,2145,Paralegals and legal assistants,2,33,3.9537057005247645e-4
-Other Africa,3564,131377,2067,83466,1220,Operations research analysts,1,32,3.833896436872499e-4
-Other Africa,3564,131377,2067,83466,6660,Construction and building inspectors,2,32,3.833896436872499e-4
-Other Africa,3564,131377,2067,83466,8365,"Textile machine setters, operators, and tenders",1,32,3.833896436872499e-4
-Other Africa,3564,131377,2067,83466,0102,Facilities managers,1,30,3.594277909567968e-4
-Other Africa,3564,131377,2067,83466,1720,Chemists and materials scientists,1,30,3.594277909567968e-4
-Other Africa,3564,131377,2067,83466,4655,"Personal care and service workers, all other",2,29,3.474468645915702e-4
-Other Africa,3564,131377,2067,83466,2350,Tutors,2,28,3.3546593822634364e-4
-Other Africa,3564,131377,2067,83466,2722,Coaches and scouts,5,28,3.3546593822634364e-4
-Other Africa,3564,131377,2067,83466,4930,Sales engineers,1,28,3.3546593822634364e-4
-Other Africa,3564,131377,2067,83466,2170,"Title examiners, abstractors, and searchers",1,27,3.234850118611171e-4
-Other Africa,3564,131377,2067,83466,6530,Structural iron and steel workers,1,27,3.234850118611171e-4
-Other Africa,3564,131377,2067,83466,9210,Locomotive engineers and operators,1,27,3.234850118611171e-4
-Other Africa,3564,131377,2067,83466,3401,Emergency medical technicians,1,25,2.99523159130664e-4
-Other Africa,3564,131377,2067,83466,6835,"Explosives workers, ordnance handling experts, and blasters",2,25,2.99523159130664e-4
-Other Africa,3564,131377,2067,83466,0600,Cost estimators,1,24,2.875422327654374e-4
-Other Africa,3564,131377,2067,83466,2011,"Child, family, and school social workers",1,24,2.875422327654374e-4
-Other Africa,3564,131377,2067,83466,3630,Massage therapists,1,24,2.875422327654374e-4
-Other Africa,3564,131377,2067,83466,4750,Parts salespersons,1,24,2.875422327654374e-4
-Other Africa,3564,131377,2067,83466,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,23,2.755613064002109e-4
-Other Africa,3564,131377,2067,83466,4740,Counter and rental clerks,1,23,2.755613064002109e-4
-Other Africa,3564,131377,2067,83466,5600,"Production, planning, and expediting clerks",1,23,2.755613064002109e-4
-Other Africa,3564,131377,2067,83466,3322,Diagnostic medical sonographers,1,22,2.635803800349843e-4
-Other Africa,3564,131377,2067,83466,6200,First-line supervisors of construction trades and extraction workers,1,22,2.635803800349843e-4
-Other Africa,3564,131377,2067,83466,1450,Materials engineers,1,20,2.3961852730453118e-4
-Other Africa,3564,131377,2067,83466,6330,"Drywall installers, ceiling tile installers, and tapers",1,20,2.3961852730453118e-4
-Other Africa,3564,131377,2067,83466,3200,Radiation therapists,1,19,2.2763760093930463e-4
-Other Africa,3564,131377,2067,83466,4820,"Securities, commodities, and financial services sales agents",1,18,2.1565667457407807e-4
-Other Africa,3564,131377,2067,83466,2740,Dancers and choreographers,1,17,2.0367574820885151e-4
-Other Africa,3564,131377,2067,83466,1430,"Industrial engineers, including health and safety",1,16,1.9169482184362496e-4
-Other Africa,3564,131377,2067,83466,1920,Chemical technicians,1,15,1.797138954783984e-4
-Other Africa,3564,131377,2067,83466,1800,Economists,1,14,1.6773296911317182e-4
-Other Africa,3564,131377,2067,83466,2865,"Media and communication workers, all other",1,14,1.6773296911317182e-4
-Other Africa,3564,131377,2067,83466,4530,"Baggage porters, bellhops, and concierges",1,14,1.6773296911317182e-4
-Other Africa,3564,131377,2067,83466,5500,Cargo and freight agents,1,14,1.6773296911317182e-4
-Other Africa,3564,131377,2067,83466,5560,"Postal service mail sorters, processors, and processing machine operators",1,14,1.6773296911317182e-4
-Other Africa,3564,131377,2067,83466,2632,Fashion designers,1,13,1.5575204274794526e-4
-Other Africa,3564,131377,2067,83466,5230,"Credit authorizers, checkers, and clerks",1,13,1.5575204274794526e-4
-Other Africa,3564,131377,2067,83466,0910,Credit counselors and loan officers,1,12,1.437711163827187e-4
-Other Africa,3564,131377,2067,83466,2600,Artists and related workers,1,12,1.437711163827187e-4
-Other Africa,3564,131377,2067,83466,3250,Veterinarians,1,12,1.437711163827187e-4
-Other Africa,3564,131377,2067,83466,4830,Travel agents,1,12,1.437711163827187e-4
-Other Africa,3564,131377,2067,83466,5710,Executive secretaries and executive administrative assistants,1,12,1.437711163827187e-4
-Other Africa,3564,131377,2067,83466,8140,"Welding, soldering, and brazing workers",1,12,1.437711163827187e-4
-Other Africa,3564,131377,2067,83466,8650,"Crushing, grinding, polishing, mixing, and blending workers",1,12,1.437711163827187e-4
-Other Africa,3564,131377,2067,83466,8730,"Furnace, kiln, oven, drier, and kettle operators and tenders",1,12,1.437711163827187e-4
-Other Africa,3564,131377,2067,83466,1750,"Geoscientists and hydrologists, except geographers",1,11,1.3179019001749215e-4
-Other Africa,3564,131377,2067,83466,5220,"Court, municipal, and license clerks",1,11,1.3179019001749215e-4
-Other Africa,3564,131377,2067,83466,6305,Construction equipment operators,1,11,1.3179019001749215e-4
-Other Africa,3564,131377,2067,83466,9310,Ship and boat captains and operators,1,11,1.3179019001749215e-4
-Other Africa,3564,131377,2067,83466,4350,Animal caretakers,1,10,1.1980926365226559e-4
-Other Africa,3564,131377,2067,83466,0726,Fundraisers,1,9,1.0782833728703904e-4
-Other Africa,3564,131377,2067,83466,2635,Interior designers,1,9,1.0782833728703904e-4
-Other Africa,3564,131377,2067,83466,3801,Bailiffs,1,8,9.584741092181248e-5
-Other Africa,3564,131377,2067,83466,3945,Transportation security screeners,1,8,9.584741092181248e-5
-Other Africa,3564,131377,2067,83466,2805,Broadcast announcers and radio disc jockeys,1,7,8.386648455658591e-5
-Other Africa,3564,131377,2067,83466,1350,Chemical engineers,1,6,7.188555819135935e-5
-Other Africa,3564,131377,2067,83466,2850,Writers and authors,1,6,7.188555819135935e-5
-Other Africa,3564,131377,2067,83466,3010,Dentists,1,6,7.188555819135935e-5
-Other Africa,3564,131377,2067,83466,2920,"Television, video, and film camera operators and editors",1,5,5.9904631826132796e-5
-Other Africa,3564,131377,2067,83466,6442,"Plumbers, pipefitters, and steamfitters",1,5,5.9904631826132796e-5
-Other Africa,3564,131377,2067,83466,6850,Underground mining machine operators,1,2,2.396185273045312e-5
-Other Africa,3564,131377,2067,83466,4940,Telemarketers,1,1,1.198092636522656e-5
+country,n_workers,workers,occ,occ_title,occ_share
+Other Africa,79,3719,9130,Driver/sales workers and truck drivers,0.04455706515227757
+Other Africa,84,3607,3602,Personal care aides,0.0432152013993722
+Other Africa,71,2583,3255,Registered nurses,0.030946732801380203
+Other Africa,58,2534,3603,Nursing assistants,0.030359667409484103
+Other Africa,51,2253,9142,Taxi drivers,0.026993027100855438
+Other Africa,44,2222,4230,Maids and housekeeping cleaners,0.026621618383533417
+Other Africa,42,2112,3601,Home health aides,0.025303716483358493
+Other Africa,47,2003,9620,"Laborers and freight, stock, and material movers, hand",0.023997795509548798
+Other Africa,57,1929,0440,Other managers,0.02311120695852203
+Other Africa,37,1863,8990,"Miscellaneous production workers, including equipment operators and tenders",0.02232046581841708
+Other Africa,39,1859,5240,Customer service representatives,0.022272542112956175
+Other Africa,45,1628,4220,Janitors and building cleaners,0.01950494812258884
+Other Africa,33,1618,4720,Cashiers,0.019385138858936574
+Other Africa,25,1402,5510,Couriers and messengers,0.016797258764047637
+Other Africa,29,1349,9640,"Packers and packagers, hand",0.01616226966669063
+Other Africa,27,1323,3500,Licensed practical and licensed vocational nurses,0.015850765581194737
+Other Africa,27,1283,3930,Security guards and gaming surveillance officers,0.015371528526585675
+Other Africa,23,1037,4020,Cooks,0.012424220640739942
+Other Africa,21,866,4700,First-line supervisors of retail sales workers,0.0103754822322862
+Other Africa,27,858,4760,Retail salespersons,0.010279634821364387
+Other Africa,27,809,0800,Accountants and auditors,0.009692569429468287
+Other Africa,29,770,2205,Postsecondary teachers,0.00922531330122445
+Other Africa,21,737,9645,Stockers and order fillers,0.008829942731171974
+Other Africa,13,698,0630,Human resources workers,0.008362686602928139
+Other Africa,14,688,7750,Other assemblers and fabricators,0.008242877339275872
+Other Africa,10,667,7855,"Food processing workers, all other",0.007991277885606114
+Other Africa,15,660,4510,"Hairdressers, hairstylists, and cosmetologists",0.00790741140104953
+Other Africa,10,640,9600,Industrial truck and tractor operators,0.007667792873744998
+Other Africa,15,633,6260,Construction laborers,0.007583926389188412
+Other Africa,13,632,0310,Food service managers,0.007571945462823185
+Other Africa,13,609,4000,Chefs and head cooks,0.007296384156422975
+Other Africa,15,600,2310,Elementary and middle school teachers,0.007188555819135935
+Other Africa,12,585,0020,General and operations managers,0.007008841923657537
+Other Africa,11,578,5610,"Shipping, receiving, and inventory clerks",0.006924975439100952
+Other Africa,8,566,1555,"Other engineering technologists and technicians, except drafters",0.006781204322718232
+Other Africa,8,540,8300,Laundry and dry-cleaning workers,0.006469700237222342
+Other Africa,16,537,4110,Waiters and waitresses,0.0064337574581266625
+Other Africa,18,536,1021,Software developers,0.006421776531761436
+Other Africa,12,527,8225,Other metal workers and plastic workers,0.0063139481944743964
+Other Africa,10,519,4030,Food preparation workers,0.006218100783552585
+Other Africa,9,513,3870,Police officers,0.006146215225361225
+Other Africa,13,501,0710,Management analysts,0.006002444108978506
+Other Africa,7,492,7810,"Butchers and other meat, poultry, and fish processing workers",0.005894615771691467
+Other Africa,11,440,0350,Medical and health services managers,0.005271607600699686
+Other Africa,11,430,6355,Electricians,0.00515179833704742
+Other Africa,10,410,2014,"Social workers, all other",0.004912179809742889
+Other Africa,13,404,0120,Financial managers,0.00484029425155153
+Other Africa,16,400,2545,Teaching assistants,0.004792370546090624
+Other Africa,11,397,4600,Childcare workers,0.004756427766994944
+Other Africa,15,394,3090,Physicians,0.004720484987899265
+Other Africa,23,383,2040,Clergy,0.004588694797881772
+Other Africa,13,378,5740,"Secretaries and administrative assistants, except legal, medical, and executive",0.004528790166055639
+Other Africa,12,360,4710,First-line supervisors of non-retail sales workers,0.004313133491481561
+Other Africa,2,351,5840,Insurance claims and policy processing clerks,0.004205305154194522
+Other Africa,7,351,8800,Packaging and filling machine operators and tenders,0.004205305154194522
+Other Africa,10,350,1050,Computer support specialists,0.004193324227829295
+Other Africa,8,347,2300,Preschool and kindergarten teachers,0.004157381448733616
+Other Africa,8,345,3655,Other healthcare support workers,0.004133419596003163
+Other Africa,8,343,1460,Mechanical engineers,0.00410945774327271
+Other Africa,5,342,0410,"Property, real estate, and community association managers",0.004097476816907484
+Other Africa,4,315,3422,Psychiatric technicians,0.0037739918050463664
+Other Africa,8,314,8740,"Inspectors, testers, sorters, samplers, and weighers",0.0037620108786811397
+Other Africa,4,313,0136,Human resources managers,0.003750029952315913
+Other Africa,8,303,0230,Education and childcare administrators,0.0036302206886636473
+Other Africa,14,301,1108,"Computer occupations, all other",0.0036062588359331944
+Other Africa,6,294,7700,First-line supervisors of production and operating workers,0.0035223923513766084
+Other Africa,4,290,5940,Other office and administrative support workers,0.003474468645915702
+Other Africa,6,284,4965,"Sales and related workers, all other",0.003402583087724343
+Other Africa,4,280,5540,Postal service clerks,0.0033546593822634365
+Other Africa,6,272,9005,Supervisors of transportation and material moving workers,0.0032588119713416242
+Other Africa,2,264,8030,Machinists,0.0031629645604198116
+Other Africa,10,259,7200,Automotive service technicians and mechanics,0.003103059928593679
+Other Africa,7,256,4920,Real estate brokers and sales agents,0.0030671171494979993
+Other Africa,9,253,2360,Other teachers and instructors,0.0030311743704023197
+Other Africa,6,247,5110,Billing and posting clerks,0.00295928881221096
+Other Africa,2,246,3424,Veterinary technologists and technicians,0.0029473078858457337
+Other Africa,9,242,5860,"Office clerks, general",0.0028993841803848274
+Other Africa,6,237,0700,Logisticians,0.0028394795485586944
+Other Africa,9,230,9122,"Bus drivers, transit and intercity",0.002755613064002109
+Other Africa,4,229,7330,Industrial and refractory machinery mechanics,0.002743632137636882
+Other Africa,5,228,5550,Postal service mail carriers,0.0027316512112716554
+Other Africa,10,224,0010,Chief executives and legislators,0.002683727505810749
+Other Africa,3,224,2015,Probation officers and correctional treatment specialists,0.002683727505810749
+Other Africa,4,224,4200,First-line supervisors of housekeeping and janitorial workers,0.002683727505810749
+Other Africa,4,223,0340,Lodging managers,0.002671746579445523
+Other Africa,3,218,8250,Prepress technicians and workers,0.00261184194761939
+Other Africa,6,217,4622,Recreation workers,0.0025998610212541635
+Other Africa,6,216,0705,Project management specialists,0.002587880094888937
+Other Africa,3,216,3300,Clinical laboratory technologists and technicians,0.002587880094888937
+Other Africa,7,216,5400,Receptionists and information clerks,0.002587880094888937
+Other Africa,4,212,0520,"Wholesale and retail buyers, except farm products",0.0025399563894280305
+Other Africa,3,211,2002,"Educational, guidance, and career counselors and advisors",0.002527975463062804
+Other Africa,1,207,5020,Telephone operators,0.002480051757601898
+Other Africa,5,202,9350,Parking attendants,0.002420147125775765
+Other Africa,6,201,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",0.002408166199410538
+Other Africa,4,200,1360,Civil engineers,0.002396185273045312
+Other Africa,6,199,4850,"Sales representatives, wholesale and manufacturing",0.0023842043466800853
+Other Africa,4,198,2006,"Counselors, all other",0.0023722234203148586
+Other Africa,9,197,3645,Medical assistants,0.0023602424939496323
+Other Africa,5,192,1007,Information security analysts,0.0023003378621234993
+Other Africa,6,189,0750,"Business operations specialists, all other",0.0022643950830278196
+Other Africa,5,188,0420,Social and community service managers,0.002252414156662593
+Other Africa,4,187,9825,Military enlisted tactical operations and air/weapons specialists and crew members,0.0022404332302973667
+Other Africa,5,179,1760,"Physical scientists, all other",0.002144585819375554
+Other Africa,2,177,4435,Other entertainment attendants and related workers,0.002120623966645101
+Other Africa,4,174,5410,Reservation and transportation ticket agents and travel clerks,0.0020846811875494214
+Other Africa,4,172,3421,Pharmacy technicians,0.002060719334818968
+Other Africa,5,171,7315,"Heating, air conditioning, and refrigeration mechanics and installers",0.002048738408453742
+Other Africa,4,170,1240,Other mathematical science occupations,0.002036757482088515
+Other Africa,5,170,9610,Cleaners of vehicles and equipment,0.002036757482088515
+Other Africa,5,169,1006,Computer systems analysts,0.0020247765557232884
+Other Africa,3,169,7800,Bakers,0.0020247765557232884
+Other Africa,4,167,2004,Mental health counselors,0.0020008147029928354
+Other Africa,8,166,4140,Dishwashers,0.0019888337766276088
+Other Africa,7,165,1970,"Other life, physical, and social science technicians",0.0019768528502623825
+Other Africa,7,164,3802,Correctional officers and jailers,0.001964871923897156
+Other Africa,3,163,5165,Other financial clerks,0.0019528909975319291
+Other Africa,5,161,5120,"Bookkeeping, accounting, and auditing clerks",0.001928929144801476
+Other Africa,5,159,0051,Marketing managers,0.001904967292071023
+Other Africa,3,159,0845,Financial and investment analysts,0.001904967292071023
+Other Africa,3,159,7140,Aircraft mechanics and service technicians,0.001904967292071023
+Other Africa,4,156,7420,Telecommunications line installers and repairers,0.0018690245129753434
+Other Africa,3,156,8255,Printing press operators,0.0018690245129753434
+Other Africa,1,153,3110,Physician assistants,0.0018330817338796635
+Other Africa,3,153,7010,"Computer, automated teller, and office machine repairers",0.0018330817338796635
+Other Africa,4,152,9030,Aircraft pilots and flight engineers,0.001821100807514437
+Other Africa,7,150,4251,Landscaping and groundskeeping workers,0.0017971389547839839
+Other Africa,7,150,7340,"Maintenance and repair workers, general",0.0017971389547839839
+Other Africa,3,145,4521,Manicurists and pedicurists,0.001737234322957851
+Other Africa,6,142,7220,Heavy vehicle and mobile equipment service technicians and mechanics,0.0017012915438621714
+Other Africa,2,141,9365,Transportation service attendants,0.001689310617496945
+Other Africa,4,137,6050,Other agricultural workers,0.0016413869120360386
+Other Africa,2,136,3545,Miscellaneous health technologists and technicians,0.0016294059856708121
+Other Africa,2,134,2555,Other educational instruction and library workers,0.001605444132940359
+Other Africa,2,132,3030,Dietitians and nutritionists,0.0015814822802099058
+Other Africa,2,132,4800,Advertising sales agents,0.0015814822802099058
+Other Africa,3,131,0940,Tax preparers,0.0015695013538446793
+Other Africa,3,131,5522,"Dispatchers, except police, fire, and ambulance",0.0015695013538446793
+Other Africa,4,126,2016,Social and human service assistants,0.0015095967220185465
+Other Africa,3,125,9760,Other material moving workers,0.00149761579565332
+Other Africa,2,124,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",0.0014856348692880933
+Other Africa,2,120,3402,Paramedics,0.0014377111638271872
+Other Africa,2,120,9430,Other transportation workers,0.0014377111638271872
+Other Africa,4,118,1530,Other engineers,0.001413749311096734
+Other Africa,3,117,3605,Orderlies and psychiatric aides,0.0014017683847315074
+Other Africa,3,116,2100,"Lawyers, and judges, magistrates, and other judicial workers",0.0013897874583662809
+Other Africa,5,113,2320,Secondary school teachers,0.0013538446792706012
+Other Africa,2,113,4055,Fast food and counter workers,0.0013538446792706012
+Other Africa,1,112,1310,"Surveyors, cartographers, and photogrammetrists",0.0013418637529053745
+Other Africa,2,112,1610,Biological scientists,0.0013418637529053745
+Other Africa,1,110,8350,"Tailors, dressmakers, and sewers",0.0013179019001749216
+Other Africa,4,108,0565,Compliance officers,0.0012939400474444684
+Other Africa,4,108,7020,Radio and telecommunications equipment installers and repairers,0.0012939400474444684
+Other Africa,3,107,5310,"Interviewers, except eligibility and loan",0.001281959121079242
+Other Africa,3,107,7840,Food batchmakers,0.001281959121079242
+Other Africa,3,106,9121,"Bus drivers, school",0.0012699781947140153
+Other Africa,1,102,0640,"Compensation, benefits, and job analysis specialists",0.0012220544892531091
+Other Africa,2,101,4010,First-line supervisors of food preparation and serving workers,0.0012100735628878824
+Other Africa,4,100,4621,Exercise trainers and group fitness instructors,0.001198092636522656
+Other Africa,1,100,6520,Sheet metal workers,0.001198092636522656
+Other Africa,1,99,1022,Software quality assurance analysts and testers,0.0011861117101574293
+Other Africa,10,99,4640,Residential advisors,0.0011861117101574293
+Other Africa,1,96,0360,Natural sciences managers,0.0011501689310617496
+Other Africa,3,96,9141,Shuttle drivers and chauffeurs,0.0011501689310617496
+Other Africa,4,95,2640,Other designers,0.0011381880046965232
+Other Africa,2,94,2861,Interpreters and translators,0.0011262070783312965
+Other Africa,2,91,0540,"Claims adjusters, appraisers, examiners, and investigators",0.0010902642992356168
+Other Africa,1,91,9720,Refuse and recyclable material collectors,0.0010902642992356168
+Other Africa,3,89,3640,Dental assistants,0.0010663024465051639
+Other Africa,4,89,5850,"Mail clerks and mail machine operators, except postal service",0.0010663024465051639
+Other Africa,3,88,3649,Phlebotomists,0.0010543215201399372
+Other Africa,4,86,5000,First-line supervisors of office and administrative support workers,0.001030359667409484
+Other Africa,2,86,7120,Electronic home entertainment equipment installers and repairers,0.001030359667409484
+Other Africa,3,85,1410,Electrical and electronics engineers,0.0010183787410442575
+Other Africa,2,84,5810,Data entry keyers,0.001006397814679031
+Other Africa,3,83,0052,Sales managers,9.944168883138044e-4
+Other Africa,3,83,3050,Pharmacists,9.944168883138044e-4
+Other Africa,2,81,1320,Aerospace engineers,9.704550355833513e-4
+Other Africa,1,81,3647,Pharmacy aides,9.704550355833513e-4
+Other Africa,2,80,6240,"Carpet, floor, and tile installers and finishers",9.584741092181247e-4
+Other Africa,5,79,6230,Carpenters,9.464931828528982e-4
+Other Africa,3,77,0205,"Farmers, ranchers, and other agricultural managers",9.225313301224451e-4
+Other Africa,1,77,5160,Tellers,9.225313301224451e-4
+Other Africa,5,76,7210,Bus and truck mechanics and diesel engine specialists,9.105504037572185e-4
+Other Africa,2,75,5260,File clerks,8.985694773919919e-4
+Other Africa,2,74,1105,Network and computer systems administrators,8.865885510267653e-4
+Other Africa,2,74,3610,Occupational therapy assistants and aides,8.865885510267653e-4
+Other Africa,1,73,2012,Healthcare social workers,8.746076246615389e-4
+Other Africa,5,73,9830,"Military, rank not specified",8.746076246615389e-4
+Other Africa,1,72,0500,"Agents and business managers of artists, performers, and athletes",8.626266982963123e-4
+Other Africa,1,72,8750,Jewelers and precious stone and metal workers,8.626266982963123e-4
+Other Africa,3,71,0735,Market research analysts and marketing specialists,8.506457719310857e-4
+Other Africa,1,71,6515,Roofers,8.506457719310857e-4
+Other Africa,2,71,8810,Painting workers,8.506457719310857e-4
+Other Africa,2,70,2700,Actors,8.386648455658591e-4
+Other Africa,2,70,3310,Dental hygienists,8.386648455658591e-4
+Other Africa,3,69,0530,"Purchasing agents, except wholesale, retail, and farm products",8.266839192006326e-4
+Other Africa,2,69,1400,Computer hardware engineers,8.266839192006326e-4
+Other Africa,3,68,2025,Other community and social service specialists,8.147029928354061e-4
+Other Africa,2,68,3620,Physical therapist assistants and aides,8.147029928354061e-4
+Other Africa,1,67,4540,Tour and travel guides,8.027220664701795e-4
+Other Africa,4,67,4810,Insurance sales agents,8.027220664701795e-4
+Other Africa,3,65,3258,"Nurse practitioners, and nurse midwives",7.787602137397263e-4
+Other Africa,2,65,3323,Radiologic technologists and technicians,7.787602137397263e-4
+Other Africa,1,65,8620,Water and wastewater treatment plant and system operators,7.787602137397263e-4
+Other Africa,1,64,7360,Millwrights,7.667792873744998e-4
+Other Africa,3,64,8320,Sewing machine operators,7.667792873744998e-4
+Other Africa,1,63,9810,First-line enlisted military supervisors,7.547983610092732e-4
+Other Africa,1,62,6540,Solar photovoltaic installers,7.428174346440467e-4
+Other Africa,2,61,0960,Other financial specialists,7.308365082788201e-4
+Other Africa,1,60,4130,Dining room and cafeteria attendants and bartender helpers,7.188555819135936e-4
+Other Africa,3,60,5420,Other information and records clerks,7.188555819135936e-4
+Other Africa,2,59,0220,Construction managers,7.06874655548367e-4
+Other Africa,1,59,3256,Nurse anesthetists,7.06874655548367e-4
+Other Africa,1,58,1340,Biomedical and agricultural engineers,6.948937291831404e-4
+Other Africa,3,58,2634,Graphic designers,6.948937291831404e-4
+Other Africa,1,58,3725,"Miscellaneous first-line supervisors, protective service workers",6.948937291831404e-4
+Other Africa,2,57,4120,"Food servers, nonrestaurant",6.829128028179139e-4
+Other Africa,2,55,0850,Personal financial advisors,6.589509500874608e-4
+Other Africa,2,55,1650,Other life scientists,6.589509500874608e-4
+Other Africa,3,55,7720,"Electrical, electronics, and electromechanical assemblers",6.589509500874608e-4
+Other Africa,1,54,3040,Optometrists,6.469700237222342e-4
+Other Africa,2,53,0930,"Tax examiners and collectors, and revenue agents",6.349890973570076e-4
+Other Africa,1,52,2050,"Directors, religious activities and education",6.23008170991781e-4
+Other Africa,3,52,3740,Firefighters,6.23008170991781e-4
+Other Africa,2,52,9150,"Motor vehicle operators, all other",6.23008170991781e-4
+Other Africa,1,51,4500,Barbers,6.110272446265546e-4
+Other Africa,2,49,2001,Substance abuse and behavioral disorder counselors,5.870653918961014e-4
+Other Africa,1,48,3710,First-line supervisors of police and detectives,5.750844655308748e-4
+Other Africa,1,44,2060,"Religious workers, all other",5.271607600699686e-4
+Other Africa,1,42,9265,Other rail transportation workers,5.031989073395155e-4
+Other Africa,2,41,5300,"Hotel, motel, and resort desk clerks",4.91217980974289e-4
+Other Africa,2,41,5350,Correspondence clerks and order clerks,4.91217980974289e-4
+Other Africa,1,40,2830,Editors,4.7923705460906237e-4
+Other Africa,1,40,4400,Gambling services workers,4.7923705460906237e-4
+Other Africa,1,40,9300,"Sailors and marine oilers, and ship engineers",4.7923705460906237e-4
+Other Africa,1,39,3160,Physical therapists,4.6725612824383584e-4
+Other Africa,1,39,9240,Railroad conductors and yardmasters,4.6725612824383584e-4
+Other Africa,4,38,0725,"Meeting, convention, and event planners",4.5527520187860926e-4
+Other Africa,1,38,1065,Database administrators and architects,4.5527520187860926e-4
+Other Africa,1,37,0140,Industrial production managers,4.4329427551338267e-4
+Other Africa,1,37,1010,Computer programmers,4.4329427551338267e-4
+Other Africa,2,36,0110,Computer and information systems managers,4.3131334914815614e-4
+Other Africa,1,36,1520,"Petroleum, mining and geological engineers, including mining safety engineers",4.3131334914815614e-4
+Other Africa,1,36,2330,Special education teachers,4.3131334914815614e-4
+Other Africa,2,35,0650,Training and development specialists,4.1933242278292956e-4
+Other Africa,1,35,5910,Proofreaders and copy markers,4.1933242278292956e-4
+Other Africa,1,34,3230,Speech-language pathologists,4.0735149641770303e-4
+Other Africa,1,34,3515,Medical records specialists,4.0735149641770303e-4
+Other Africa,2,34,3550,Other healthcare practitioners and technical occupations,4.0735149641770303e-4
+Other Africa,1,34,4040,Bartenders,4.0735149641770303e-4
+Other Africa,2,33,2145,Paralegals and legal assistants,3.9537057005247645e-4
+Other Africa,1,32,1220,Operations research analysts,3.833896436872499e-4
+Other Africa,2,32,6660,Construction and building inspectors,3.833896436872499e-4
+Other Africa,1,32,8365,"Textile machine setters, operators, and tenders",3.833896436872499e-4
+Other Africa,1,30,0102,Facilities managers,3.594277909567968e-4
+Other Africa,1,30,1720,Chemists and materials scientists,3.594277909567968e-4
+Other Africa,2,29,4655,"Personal care and service workers, all other",3.474468645915702e-4
+Other Africa,2,28,2350,Tutors,3.3546593822634364e-4
+Other Africa,5,28,2722,Coaches and scouts,3.3546593822634364e-4
+Other Africa,1,28,4930,Sales engineers,3.3546593822634364e-4
+Other Africa,1,27,2170,"Title examiners, abstractors, and searchers",3.234850118611171e-4
+Other Africa,1,27,6530,Structural iron and steel workers,3.234850118611171e-4
+Other Africa,1,27,9210,Locomotive engineers and operators,3.234850118611171e-4
+Other Africa,1,25,3401,Emergency medical technicians,2.99523159130664e-4
+Other Africa,2,25,6835,"Explosives workers, ordnance handling experts, and blasters",2.99523159130664e-4
+Other Africa,1,24,0600,Cost estimators,2.875422327654374e-4
+Other Africa,1,24,2011,"Child, family, and school social workers",2.875422327654374e-4
+Other Africa,1,24,3630,Massage therapists,2.875422327654374e-4
+Other Africa,1,24,4750,Parts salespersons,2.875422327654374e-4
+Other Africa,1,23,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",2.755613064002109e-4
+Other Africa,1,23,4740,Counter and rental clerks,2.755613064002109e-4
+Other Africa,1,23,5600,"Production, planning, and expediting clerks",2.755613064002109e-4
+Other Africa,1,22,3322,Diagnostic medical sonographers,2.635803800349843e-4
+Other Africa,1,22,6200,First-line supervisors of construction trades and extraction workers,2.635803800349843e-4
+Other Africa,1,20,1450,Materials engineers,2.3961852730453118e-4
+Other Africa,1,20,6330,"Drywall installers, ceiling tile installers, and tapers",2.3961852730453118e-4
+Other Africa,1,19,3200,Radiation therapists,2.2763760093930463e-4
+Other Africa,1,18,4820,"Securities, commodities, and financial services sales agents",2.1565667457407807e-4
+Other Africa,1,17,2740,Dancers and choreographers,2.0367574820885151e-4
+Other Africa,1,16,1430,"Industrial engineers, including health and safety",1.9169482184362496e-4
+Other Africa,1,15,1920,Chemical technicians,1.797138954783984e-4
+Other Africa,1,14,1800,Economists,1.6773296911317182e-4
+Other Africa,1,14,2865,"Media and communication workers, all other",1.6773296911317182e-4
+Other Africa,1,14,4530,"Baggage porters, bellhops, and concierges",1.6773296911317182e-4
+Other Africa,1,14,5500,Cargo and freight agents,1.6773296911317182e-4
+Other Africa,1,14,5560,"Postal service mail sorters, processors, and processing machine operators",1.6773296911317182e-4
+Other Africa,1,13,2632,Fashion designers,1.5575204274794526e-4
+Other Africa,1,13,5230,"Credit authorizers, checkers, and clerks",1.5575204274794526e-4
+Other Africa,1,12,0910,Credit counselors and loan officers,1.437711163827187e-4
+Other Africa,1,12,2600,Artists and related workers,1.437711163827187e-4
+Other Africa,1,12,3250,Veterinarians,1.437711163827187e-4
+Other Africa,1,12,4830,Travel agents,1.437711163827187e-4
+Other Africa,1,12,5710,Executive secretaries and executive administrative assistants,1.437711163827187e-4
+Other Africa,1,12,8140,"Welding, soldering, and brazing workers",1.437711163827187e-4
+Other Africa,1,12,8650,"Crushing, grinding, polishing, mixing, and blending workers",1.437711163827187e-4
+Other Africa,1,12,8730,"Furnace, kiln, oven, drier, and kettle operators and tenders",1.437711163827187e-4
+Other Africa,1,11,1750,"Geoscientists and hydrologists, except geographers",1.3179019001749215e-4
+Other Africa,1,11,5220,"Court, municipal, and license clerks",1.3179019001749215e-4
+Other Africa,1,11,6305,Construction equipment operators,1.3179019001749215e-4
+Other Africa,1,11,9310,Ship and boat captains and operators,1.3179019001749215e-4
+Other Africa,1,10,4350,Animal caretakers,1.1980926365226559e-4
+Other Africa,1,9,0726,Fundraisers,1.0782833728703904e-4
+Other Africa,1,9,2635,Interior designers,1.0782833728703904e-4
+Other Africa,1,8,3801,Bailiffs,9.584741092181248e-5
+Other Africa,1,8,3945,Transportation security screeners,9.584741092181248e-5
+Other Africa,1,7,2805,Broadcast announcers and radio disc jockeys,8.386648455658591e-5
+Other Africa,1,6,1350,Chemical engineers,7.188555819135935e-5
+Other Africa,1,6,2850,Writers and authors,7.188555819135935e-5
+Other Africa,1,6,3010,Dentists,7.188555819135935e-5
+Other Africa,1,5,2920,"Television, video, and film camera operators and editors",5.9904631826132796e-5
+Other Africa,1,5,6442,"Plumbers, pipefitters, and steamfitters",5.9904631826132796e-5
+Other Africa,1,2,6850,Underground mining machine operators,2.396185273045312e-5
+Other Africa,1,1,4940,Telemarketers,1.198092636522656e-5

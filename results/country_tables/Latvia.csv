@@ -1,195 +1,195 @@
-country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
-Latvia,1100,20917,532,10508,0440,Other managers,19,448,0.0426341834792539
-Latvia,1100,20917,532,10508,0800,Accountants and auditors,19,414,0.039398553483060525
-Latvia,1100,20917,532,10508,1021,Software developers,18,331,0.03149980966882375
-Latvia,1100,20917,532,10508,4760,Retail salespersons,13,320,0.03045298819946707
-Latvia,1100,20917,532,10508,3255,Registered nurses,10,258,0.024552721735820328
-Latvia,1100,20917,532,10508,6230,Carpenters,9,254,0.024172059383326987
-Latvia,1100,20917,532,10508,4220,Janitors and building cleaners,9,252,0.02398172820708032
-Latvia,1100,20917,532,10508,3090,Physicians,11,196,0.01865245527217358
-Latvia,1100,20917,532,10508,9130,Driver/sales workers and truck drivers,9,187,0.01779596497906357
-Latvia,1100,20917,532,10508,2205,Postsecondary teachers,10,184,0.017510468214693566
-Latvia,1100,20917,532,10508,3601,Home health aides,8,183,0.017415302626570234
-Latvia,1100,20917,532,10508,2310,Elementary and middle school teachers,7,177,0.016844309097830225
-Latvia,1100,20917,532,10508,3602,Personal care aides,9,162,0.015416825275980206
-Latvia,1100,20917,532,10508,2100,"Lawyers, and judges, magistrates, and other judicial workers",10,156,0.014845831747240197
-Latvia,1100,20917,532,10508,0120,Financial managers,6,127,0.012086029691663494
-Latvia,1100,20917,532,10508,5240,Customer service representatives,7,127,0.012086029691663494
-Latvia,1100,20917,532,10508,1530,Other engineers,2,125,0.011895698515416825
-Latvia,1100,20917,532,10508,1006,Computer systems analysts,8,122,0.01161020175104682
-Latvia,1100,20917,532,10508,1108,"Computer occupations, all other",6,117,0.011134373810430148
-Latvia,1100,20917,532,10508,1720,Chemists and materials scientists,3,117,0.011134373810430148
-Latvia,1100,20917,532,10508,4600,Childcare workers,4,117,0.011134373810430148
-Latvia,1100,20917,532,10508,1760,"Physical scientists, all other",7,114,0.010848877046060145
-Latvia,1100,20917,532,10508,9620,"Laborers and freight, stock, and material movers, hand",6,114,0.010848877046060145
-Latvia,1100,20917,532,10508,0010,Chief executives and legislators,6,102,0.009706889988580129
-Latvia,1100,20917,532,10508,4110,Waiters and waitresses,5,100,0.00951655881233346
-Latvia,1100,20917,532,10508,4622,Recreation workers,2,100,0.00951655881233346
-Latvia,1100,20917,532,10508,6260,Construction laborers,6,100,0.00951655881233346
-Latvia,1100,20917,532,10508,5120,"Bookkeeping, accounting, and auditing clerks",3,95,0.009040730871716788
-Latvia,1100,20917,532,10508,1650,Other life scientists,4,94,0.008945565283593453
-Latvia,1100,20917,532,10508,4350,Animal caretakers,3,90,0.008564902931100115
-Latvia,1100,20917,532,10508,5510,Couriers and messengers,3,90,0.008564902931100115
-Latvia,1100,20917,532,10508,4055,Fast food and counter workers,2,89,0.00846973734297678
-Latvia,1100,20917,532,10508,5000,First-line supervisors of office and administrative support workers,5,89,0.00846973734297678
-Latvia,1100,20917,532,10508,1360,Civil engineers,4,88,0.008374571754853444
-Latvia,1100,20917,532,10508,7200,Automotive service technicians and mechanics,5,87,0.00827940616673011
-Latvia,1100,20917,532,10508,0220,Construction managers,3,85,0.008089074990483442
-Latvia,1100,20917,532,10508,2600,Artists and related workers,3,85,0.008089074990483442
-Latvia,1100,20917,532,10508,0630,Human resources workers,2,84,0.007993909402360106
-Latvia,1100,20917,532,10508,2360,Other teachers and instructors,6,82,0.007803578226113437
-Latvia,1100,20917,532,10508,4920,Real estate brokers and sales agents,4,78,0.0074229158736200986
-Latvia,1100,20917,532,10508,5400,Receptionists and information clerks,7,78,0.0074229158736200986
-Latvia,1100,20917,532,10508,0020,General and operations managers,4,77,0.007327750285496764
-Latvia,1100,20917,532,10508,0845,Financial and investment analysts,5,77,0.007327750285496764
-Latvia,1100,20917,532,10508,5740,"Secretaries and administrative assistants, except legal, medical, and executive",4,77,0.007327750285496764
-Latvia,1100,20917,532,10508,0710,Management analysts,4,76,0.00723258469737343
-Latvia,1100,20917,532,10508,3050,Pharmacists,4,75,0.007137419109250095
-Latvia,1100,20917,532,10508,3630,Massage therapists,1,74,0.007042253521126761
-Latvia,1100,20917,532,10508,1460,Mechanical engineers,4,69,0.006566425580510088
-Latvia,1100,20917,532,10508,7000,"First-line supervisors of mechanics, installers, and repairers",2,65,0.006185763228016749
-Latvia,1100,20917,532,10508,3655,Other healthcare support workers,2,64,0.006090597639893415
-Latvia,1100,20917,532,10508,5860,"Office clerks, general",5,63,0.00599543205177008
-Latvia,1100,20917,532,10508,6700,Elevator installers and repairers,1,62,0.0059002664636467455
-Latvia,1100,20917,532,10508,0420,Social and community service managers,3,61,0.00580510087552341
-Latvia,1100,20917,532,10508,5110,Billing and posting clerks,2,61,0.00580510087552341
-Latvia,1100,20917,532,10508,0705,Project management specialists,4,59,0.005614769699276742
-Latvia,1100,20917,532,10508,4621,Exercise trainers and group fitness instructors,3,59,0.005614769699276742
-Latvia,1100,20917,532,10508,5720,Legal secretaries and administrative assistants,1,59,0.005614769699276742
-Latvia,1100,20917,532,10508,4900,"Models, demonstrators, and product promoters",1,57,0.0054244385230300726
-Latvia,1100,20917,532,10508,5160,Tellers,2,54,0.005138941758660068
-Latvia,1100,20917,532,10508,2825,Public relations specialists,2,53,0.005043776170536734
-Latvia,1100,20917,532,10508,7330,Industrial and refractory machinery mechanics,2,53,0.005043776170536734
-Latvia,1100,20917,532,10508,2330,Special education teachers,2,48,0.004567948229920061
-Latvia,1100,20917,532,10508,0110,Computer and information systems managers,3,47,0.004472782641796727
-Latvia,1100,20917,532,10508,2145,Paralegals and legal assistants,2,47,0.004472782641796727
-Latvia,1100,20917,532,10508,6200,First-line supervisors of construction trades and extraction workers,2,47,0.004472782641796727
-Latvia,1100,20917,532,10508,9825,Military enlisted tactical operations and air/weapons specialists and crew members,5,47,0.004472782641796727
-Latvia,1100,20917,532,10508,1240,Other mathematical science occupations,1,46,0.0043776170536733916
-Latvia,1100,20917,532,10508,4655,"Personal care and service workers, all other",1,46,0.0043776170536733916
-Latvia,1100,20917,532,10508,3220,Respiratory therapists,2,45,0.004282451465550057
-Latvia,1100,20917,532,10508,4230,Maids and housekeeping cleaners,3,44,0.004187285877426722
-Latvia,1100,20917,532,10508,1220,Operations research analysts,3,43,0.004092120289303388
-Latvia,1100,20917,532,10508,3930,Security guards and gaming surveillance officers,1,43,0.004092120289303388
-Latvia,1100,20917,532,10508,8740,"Inspectors, testers, sorters, samplers, and weighers",3,43,0.004092120289303388
-Latvia,1100,20917,532,10508,0410,"Property, real estate, and community association managers",2,42,0.003996954701180053
-Latvia,1100,20917,532,10508,1825,Other psychologists,2,42,0.003996954701180053
-Latvia,1100,20917,532,10508,2634,Graphic designers,2,42,0.003996954701180053
-Latvia,1100,20917,532,10508,3310,Dental hygienists,2,42,0.003996954701180053
-Latvia,1100,20917,532,10508,4435,Other entertainment attendants and related workers,1,42,0.003996954701180053
-Latvia,1100,20917,532,10508,9645,Stockers and order fillers,4,41,0.0039017891130567186
-Latvia,1100,20917,532,10508,1010,Computer programmers,5,40,0.003806623524933384
-Latvia,1100,20917,532,10508,3245,Other therapists,2,40,0.003806623524933384
-Latvia,1100,20917,532,10508,4700,First-line supervisors of retail sales workers,5,40,0.003806623524933384
-Latvia,1100,20917,532,10508,1050,Computer support specialists,2,39,0.0037114579368100493
-Latvia,1100,20917,532,10508,7700,First-line supervisors of production and operating workers,2,39,0.0037114579368100493
-Latvia,1100,20917,532,10508,7315,"Heating, air conditioning, and refrigeration mechanics and installers",2,38,0.003616292348686715
-Latvia,1100,20917,532,10508,0136,Human resources managers,2,37,0.0035211267605633804
-Latvia,1100,20917,532,10508,2300,Preschool and kindergarten teachers,3,37,0.0035211267605633804
-Latvia,1100,20917,532,10508,3421,Pharmacy technicians,2,37,0.0035211267605633804
-Latvia,1100,20917,532,10508,2861,Interpreters and translators,2,36,0.0034259611724400457
-Latvia,1100,20917,532,10508,4130,Dining room and cafeteria attendants and bartender helpers,1,36,0.0034259611724400457
-Latvia,1100,20917,532,10508,7340,"Maintenance and repair workers, general",3,36,0.0034259611724400457
-Latvia,1100,20917,532,10508,7750,Other assemblers and fabricators,2,36,0.0034259611724400457
-Latvia,1100,20917,532,10508,0051,Marketing managers,2,35,0.003330795584316711
-Latvia,1100,20917,532,10508,0160,"Transportation, storage, and distribution managers",1,35,0.003330795584316711
-Latvia,1100,20917,532,10508,0910,Credit counselors and loan officers,1,34,0.0032356299961933763
-Latvia,1100,20917,532,10508,1420,Environmental engineers,1,34,0.0032356299961933763
-Latvia,1100,20917,532,10508,1305,"Architects, except landscape and naval",2,33,0.0031404644080700417
-Latvia,1100,20917,532,10508,1105,Network and computer systems administrators,2,32,0.0030452988199467074
-Latvia,1100,20917,532,10508,4510,"Hairdressers, hairstylists, and cosmetologists",2,32,0.0030452988199467074
-Latvia,1100,20917,532,10508,8990,"Miscellaneous production workers, including equipment operators and tenders",2,32,0.0030452988199467074
-Latvia,1100,20917,532,10508,0040,Advertising and promotions managers,2,31,0.0029501332318233727
-Latvia,1100,20917,532,10508,0565,Compliance officers,2,31,0.0029501332318233727
-Latvia,1100,20917,532,10508,0850,Personal financial advisors,2,30,0.002854967643700038
-Latvia,1100,20917,532,10508,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",2,30,0.002854967643700038
-Latvia,1100,20917,532,10508,7320,Home appliance repairers,1,30,0.002854967643700038
-Latvia,1100,20917,532,10508,0540,"Claims adjusters, appraisers, examiners, and investigators",1,28,0.0026646364674533687
-Latvia,1100,20917,532,10508,2640,Other designers,2,27,0.002569470879330034
-Latvia,1100,20917,532,10508,3010,Dentists,1,27,0.002569470879330034
-Latvia,1100,20917,532,10508,5140,Payroll and timekeeping clerks,1,27,0.002569470879330034
-Latvia,1100,20917,532,10508,9121,"Bus drivers, school",1,26,0.0024743052912067
-Latvia,1100,20917,532,10508,2400,"Archivists, curators, and museum technicians",1,25,0.002379139703083365
-Latvia,1100,20917,532,10508,2850,Writers and authors,1,25,0.002379139703083365
-Latvia,1100,20917,532,10508,4120,"Food servers, nonrestaurant",1,25,0.002379139703083365
-Latvia,1100,20917,532,10508,2320,Secondary school teachers,2,24,0.0022839741149600305
-Latvia,1100,20917,532,10508,2920,"Television, video, and film camera operators and editors",1,23,0.0021888085268366958
-Latvia,1100,20917,532,10508,0101,Administrative services managers,1,22,0.002093642938713361
-Latvia,1100,20917,532,10508,2710,Producers and directors,1,22,0.002093642938713361
-Latvia,1100,20917,532,10508,7140,Aircraft mechanics and service technicians,1,22,0.002093642938713361
-Latvia,1100,20917,532,10508,7640,"Other installation, maintenance, and repair workers",1,22,0.002093642938713361
-Latvia,1100,20917,532,10508,0060,Public relations and fundraising managers,1,21,0.0019984773505900264
-Latvia,1100,20917,532,10508,1350,Chemical engineers,1,21,0.0019984773505900264
-Latvia,1100,20917,532,10508,1551,Electrical and electronic engineering technologists and technicians,2,21,0.0019984773505900264
-Latvia,1100,20917,532,10508,2722,Coaches and scouts,2,20,0.001903311762466692
-Latvia,1100,20917,532,10508,2840,Technical writers,1,20,0.001903311762466692
-Latvia,1100,20917,532,10508,6410,Painters and paperhangers,1,20,0.001903311762466692
-Latvia,1100,20917,532,10508,0820,Budget analysts,1,19,0.0018081461743433575
-Latvia,1100,20917,532,10508,3250,Veterinarians,1,19,0.0018081461743433575
-Latvia,1100,20917,532,10508,5850,"Mail clerks and mail machine operators, except postal service",1,19,0.0018081461743433575
-Latvia,1100,20917,532,10508,7150,Automotive body and related repairers,1,19,0.0018081461743433575
-Latvia,1100,20917,532,10508,9640,"Packers and packagers, hand",1,19,0.0018081461743433575
-Latvia,1100,20917,532,10508,4965,"Sales and related workers, all other",1,18,0.0017129805862200228
-Latvia,1100,20917,532,10508,0300,Architectural and engineering managers,2,17,0.0016178149980966882
-Latvia,1100,20917,532,10508,2025,Other community and social service specialists,1,17,0.0016178149980966882
-Latvia,1100,20917,532,10508,3230,Speech-language pathologists,1,17,0.0016178149980966882
-Latvia,1100,20917,532,10508,6355,Electricians,2,17,0.0016178149980966882
-Latvia,1100,20917,532,10508,1800,Economists,1,16,0.0015226494099733537
-Latvia,1100,20917,532,10508,4530,"Baggage porters, bellhops, and concierges",1,16,0.0015226494099733537
-Latvia,1100,20917,532,10508,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,16,0.0015226494099733537
-Latvia,1100,20917,532,10508,0230,Education and childcare administrators,1,15,0.001427483821850019
-Latvia,1100,20917,532,10508,0530,"Purchasing agents, except wholesale, retail, and farm products",1,15,0.001427483821850019
-Latvia,1100,20917,532,10508,0940,Tax preparers,2,15,0.001427483821850019
-Latvia,1100,20917,532,10508,4521,Manicurists and pedicurists,1,15,0.001427483821850019
-Latvia,1100,20917,532,10508,5320,"Library assistants, clerical",1,15,0.001427483821850019
-Latvia,1100,20917,532,10508,5810,Data entry keyers,1,15,0.001427483821850019
-Latvia,1100,20917,532,10508,0350,Medical and health services managers,1,14,0.0013323182337266844
-Latvia,1100,20917,532,10508,1065,Database administrators and architects,1,14,0.0013323182337266844
-Latvia,1100,20917,532,10508,1410,Electrical and electronics engineers,1,14,0.0013323182337266844
-Latvia,1100,20917,532,10508,1541,Architectural and civil drafters,1,14,0.0013323182337266844
-Latvia,1100,20917,532,10508,1980,Occupational health and safety specialists and technicians,1,14,0.0013323182337266844
-Latvia,1100,20917,532,10508,3200,Radiation therapists,1,14,0.0013323182337266844
-Latvia,1100,20917,532,10508,3300,Clinical laboratory technologists and technicians,1,14,0.0013323182337266844
-Latvia,1100,20917,532,10508,6305,Construction equipment operators,1,14,0.0013323182337266844
-Latvia,1100,20917,532,10508,0310,Food service managers,1,13,0.00123715264560335
-Latvia,1100,20917,532,10508,2014,"Social workers, all other",1,13,0.00123715264560335
-Latvia,1100,20917,532,10508,4030,Food preparation workers,2,13,0.00123715264560335
-Latvia,1100,20917,532,10508,5610,"Shipping, receiving, and inventory clerks",1,13,0.00123715264560335
-Latvia,1100,20917,532,10508,8140,"Welding, soldering, and brazing workers",1,13,0.00123715264560335
-Latvia,1100,20917,532,10508,0150,Purchasing managers,1,12,0.0011419870574800152
-Latvia,1100,20917,532,10508,1005,Computer and information research scientists,1,12,0.0011419870574800152
-Latvia,1100,20917,532,10508,1555,"Other engineering technologists and technicians, except drafters",1,12,0.0011419870574800152
-Latvia,1100,20917,532,10508,2862,Court reporters and simultaneous captioners,1,12,0.0011419870574800152
-Latvia,1100,20917,532,10508,3424,Veterinary technologists and technicians,1,12,0.0011419870574800152
-Latvia,1100,20917,532,10508,3603,Nursing assistants,1,12,0.0011419870574800152
-Latvia,1100,20917,532,10508,3910,Private detectives and investigators,1,12,0.0011419870574800152
-Latvia,1100,20917,532,10508,4000,Chefs and head cooks,1,12,0.0011419870574800152
-Latvia,1100,20917,532,10508,9142,Taxi drivers,1,12,0.0011419870574800152
-Latvia,1100,20917,532,10508,1320,Aerospace engineers,1,11,0.0010468214693566806
-Latvia,1100,20917,532,10508,2635,Interior designers,1,11,0.0010468214693566806
-Latvia,1100,20917,532,10508,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,11,0.0010468214693566806
-Latvia,1100,20917,532,10508,5260,File clerks,1,11,0.0010468214693566806
-Latvia,1100,20917,532,10508,7210,Bus and truck mechanics and diesel engine specialists,1,11,0.0010468214693566806
-Latvia,1100,20917,532,10508,9005,Supervisors of transportation and material moving workers,1,11,0.0010468214693566806
-Latvia,1100,20917,532,10508,1750,"Geoscientists and hydrologists, except geographers",1,10,9.51655881233346e-4
-Latvia,1100,20917,532,10508,3150,Occupational therapists,1,10,9.51655881233346e-4
-Latvia,1100,20917,532,10508,3740,Firefighters,1,10,9.51655881233346e-4
-Latvia,1100,20917,532,10508,8800,Packaging and filling machine operators and tenders,1,10,9.51655881233346e-4
-Latvia,1100,20917,532,10508,0640,"Compensation, benefits, and job analysis specialists",1,9,8.564902931100114e-4
-Latvia,1100,20917,532,10508,2350,Tutors,1,9,8.564902931100114e-4
-Latvia,1100,20917,532,10508,5600,"Production, planning, and expediting clerks",1,9,8.564902931100114e-4
-Latvia,1100,20917,532,10508,8500,Cabinetmakers and bench carpenters,1,9,8.564902931100114e-4
-Latvia,1100,20917,532,10508,3640,Dental assistants,1,8,7.613247049866769e-4
-Latvia,1100,20917,532,10508,5730,Medical secretaries and administrative assistants,1,8,7.613247049866769e-4
-Latvia,1100,20917,532,10508,4850,"Sales representatives, wholesale and manufacturing",1,7,6.661591168633422e-4
-Latvia,1100,20917,532,10508,7220,Heavy vehicle and mobile equipment service technicians and mechanics,1,7,6.661591168633422e-4
-Latvia,1100,20917,532,10508,1106,Computer network architects,1,6,5.709935287400076e-4
-Latvia,1100,20917,532,10508,2810,"News analysts, reporters, and journalists",1,6,5.709935287400076e-4
-Latvia,1100,20917,532,10508,4522,Skincare specialists,1,6,5.709935287400076e-4
-Latvia,1100,20917,532,10508,4930,Sales engineers,1,6,5.709935287400076e-4
-Latvia,1100,20917,532,10508,3550,Other healthcare practitioners and technical occupations,1,5,4.75827940616673e-4
-Latvia,1100,20917,532,10508,2435,Librarians and media collections specialists,1,3,2.854967643700038e-4
-Latvia,1100,20917,532,10508,2752,Musicians and singers,1,3,2.854967643700038e-4
-Latvia,1100,20917,532,10508,8030,Machinists,1,3,2.854967643700038e-4
-Latvia,1100,20917,532,10508,8710,Cutting workers,1,3,2.854967643700038e-4
-Latvia,1100,20917,532,10508,9122,"Bus drivers, transit and intercity",1,3,2.854967643700038e-4
+country,n_workers,workers,occ,occ_title,occ_share
+Latvia,19,448,0440,Other managers,0.0426341834792539
+Latvia,19,414,0800,Accountants and auditors,0.039398553483060525
+Latvia,18,331,1021,Software developers,0.03149980966882375
+Latvia,13,320,4760,Retail salespersons,0.03045298819946707
+Latvia,10,258,3255,Registered nurses,0.024552721735820328
+Latvia,9,254,6230,Carpenters,0.024172059383326987
+Latvia,9,252,4220,Janitors and building cleaners,0.02398172820708032
+Latvia,11,196,3090,Physicians,0.01865245527217358
+Latvia,9,187,9130,Driver/sales workers and truck drivers,0.01779596497906357
+Latvia,10,184,2205,Postsecondary teachers,0.017510468214693566
+Latvia,8,183,3601,Home health aides,0.017415302626570234
+Latvia,7,177,2310,Elementary and middle school teachers,0.016844309097830225
+Latvia,9,162,3602,Personal care aides,0.015416825275980206
+Latvia,10,156,2100,"Lawyers, and judges, magistrates, and other judicial workers",0.014845831747240197
+Latvia,6,127,0120,Financial managers,0.012086029691663494
+Latvia,7,127,5240,Customer service representatives,0.012086029691663494
+Latvia,2,125,1530,Other engineers,0.011895698515416825
+Latvia,8,122,1006,Computer systems analysts,0.01161020175104682
+Latvia,6,117,1108,"Computer occupations, all other",0.011134373810430148
+Latvia,3,117,1720,Chemists and materials scientists,0.011134373810430148
+Latvia,4,117,4600,Childcare workers,0.011134373810430148
+Latvia,7,114,1760,"Physical scientists, all other",0.010848877046060145
+Latvia,6,114,9620,"Laborers and freight, stock, and material movers, hand",0.010848877046060145
+Latvia,6,102,0010,Chief executives and legislators,0.009706889988580129
+Latvia,5,100,4110,Waiters and waitresses,0.00951655881233346
+Latvia,2,100,4622,Recreation workers,0.00951655881233346
+Latvia,6,100,6260,Construction laborers,0.00951655881233346
+Latvia,3,95,5120,"Bookkeeping, accounting, and auditing clerks",0.009040730871716788
+Latvia,4,94,1650,Other life scientists,0.008945565283593453
+Latvia,3,90,4350,Animal caretakers,0.008564902931100115
+Latvia,3,90,5510,Couriers and messengers,0.008564902931100115
+Latvia,2,89,4055,Fast food and counter workers,0.00846973734297678
+Latvia,5,89,5000,First-line supervisors of office and administrative support workers,0.00846973734297678
+Latvia,4,88,1360,Civil engineers,0.008374571754853444
+Latvia,5,87,7200,Automotive service technicians and mechanics,0.00827940616673011
+Latvia,3,85,0220,Construction managers,0.008089074990483442
+Latvia,3,85,2600,Artists and related workers,0.008089074990483442
+Latvia,2,84,0630,Human resources workers,0.007993909402360106
+Latvia,6,82,2360,Other teachers and instructors,0.007803578226113437
+Latvia,4,78,4920,Real estate brokers and sales agents,0.0074229158736200986
+Latvia,7,78,5400,Receptionists and information clerks,0.0074229158736200986
+Latvia,4,77,0020,General and operations managers,0.007327750285496764
+Latvia,5,77,0845,Financial and investment analysts,0.007327750285496764
+Latvia,4,77,5740,"Secretaries and administrative assistants, except legal, medical, and executive",0.007327750285496764
+Latvia,4,76,0710,Management analysts,0.00723258469737343
+Latvia,4,75,3050,Pharmacists,0.007137419109250095
+Latvia,1,74,3630,Massage therapists,0.007042253521126761
+Latvia,4,69,1460,Mechanical engineers,0.006566425580510088
+Latvia,2,65,7000,"First-line supervisors of mechanics, installers, and repairers",0.006185763228016749
+Latvia,2,64,3655,Other healthcare support workers,0.006090597639893415
+Latvia,5,63,5860,"Office clerks, general",0.00599543205177008
+Latvia,1,62,6700,Elevator installers and repairers,0.0059002664636467455
+Latvia,3,61,0420,Social and community service managers,0.00580510087552341
+Latvia,2,61,5110,Billing and posting clerks,0.00580510087552341
+Latvia,4,59,0705,Project management specialists,0.005614769699276742
+Latvia,3,59,4621,Exercise trainers and group fitness instructors,0.005614769699276742
+Latvia,1,59,5720,Legal secretaries and administrative assistants,0.005614769699276742
+Latvia,1,57,4900,"Models, demonstrators, and product promoters",0.0054244385230300726
+Latvia,2,54,5160,Tellers,0.005138941758660068
+Latvia,2,53,2825,Public relations specialists,0.005043776170536734
+Latvia,2,53,7330,Industrial and refractory machinery mechanics,0.005043776170536734
+Latvia,2,48,2330,Special education teachers,0.004567948229920061
+Latvia,3,47,0110,Computer and information systems managers,0.004472782641796727
+Latvia,2,47,2145,Paralegals and legal assistants,0.004472782641796727
+Latvia,2,47,6200,First-line supervisors of construction trades and extraction workers,0.004472782641796727
+Latvia,5,47,9825,Military enlisted tactical operations and air/weapons specialists and crew members,0.004472782641796727
+Latvia,1,46,1240,Other mathematical science occupations,0.0043776170536733916
+Latvia,1,46,4655,"Personal care and service workers, all other",0.0043776170536733916
+Latvia,2,45,3220,Respiratory therapists,0.004282451465550057
+Latvia,3,44,4230,Maids and housekeeping cleaners,0.004187285877426722
+Latvia,3,43,1220,Operations research analysts,0.004092120289303388
+Latvia,1,43,3930,Security guards and gaming surveillance officers,0.004092120289303388
+Latvia,3,43,8740,"Inspectors, testers, sorters, samplers, and weighers",0.004092120289303388
+Latvia,2,42,0410,"Property, real estate, and community association managers",0.003996954701180053
+Latvia,2,42,1825,Other psychologists,0.003996954701180053
+Latvia,2,42,2634,Graphic designers,0.003996954701180053
+Latvia,2,42,3310,Dental hygienists,0.003996954701180053
+Latvia,1,42,4435,Other entertainment attendants and related workers,0.003996954701180053
+Latvia,4,41,9645,Stockers and order fillers,0.0039017891130567186
+Latvia,5,40,1010,Computer programmers,0.003806623524933384
+Latvia,2,40,3245,Other therapists,0.003806623524933384
+Latvia,5,40,4700,First-line supervisors of retail sales workers,0.003806623524933384
+Latvia,2,39,1050,Computer support specialists,0.0037114579368100493
+Latvia,2,39,7700,First-line supervisors of production and operating workers,0.0037114579368100493
+Latvia,2,38,7315,"Heating, air conditioning, and refrigeration mechanics and installers",0.003616292348686715
+Latvia,2,37,0136,Human resources managers,0.0035211267605633804
+Latvia,3,37,2300,Preschool and kindergarten teachers,0.0035211267605633804
+Latvia,2,37,3421,Pharmacy technicians,0.0035211267605633804
+Latvia,2,36,2861,Interpreters and translators,0.0034259611724400457
+Latvia,1,36,4130,Dining room and cafeteria attendants and bartender helpers,0.0034259611724400457
+Latvia,3,36,7340,"Maintenance and repair workers, general",0.0034259611724400457
+Latvia,2,36,7750,Other assemblers and fabricators,0.0034259611724400457
+Latvia,2,35,0051,Marketing managers,0.003330795584316711
+Latvia,1,35,0160,"Transportation, storage, and distribution managers",0.003330795584316711
+Latvia,1,34,0910,Credit counselors and loan officers,0.0032356299961933763
+Latvia,1,34,1420,Environmental engineers,0.0032356299961933763
+Latvia,2,33,1305,"Architects, except landscape and naval",0.0031404644080700417
+Latvia,2,32,1105,Network and computer systems administrators,0.0030452988199467074
+Latvia,2,32,4510,"Hairdressers, hairstylists, and cosmetologists",0.0030452988199467074
+Latvia,2,32,8990,"Miscellaneous production workers, including equipment operators and tenders",0.0030452988199467074
+Latvia,2,31,0040,Advertising and promotions managers,0.0029501332318233727
+Latvia,2,31,0565,Compliance officers,0.0029501332318233727
+Latvia,2,30,0850,Personal financial advisors,0.002854967643700038
+Latvia,2,30,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",0.002854967643700038
+Latvia,1,30,7320,Home appliance repairers,0.002854967643700038
+Latvia,1,28,0540,"Claims adjusters, appraisers, examiners, and investigators",0.0026646364674533687
+Latvia,2,27,2640,Other designers,0.002569470879330034
+Latvia,1,27,3010,Dentists,0.002569470879330034
+Latvia,1,27,5140,Payroll and timekeeping clerks,0.002569470879330034
+Latvia,1,26,9121,"Bus drivers, school",0.0024743052912067
+Latvia,1,25,2400,"Archivists, curators, and museum technicians",0.002379139703083365
+Latvia,1,25,2850,Writers and authors,0.002379139703083365
+Latvia,1,25,4120,"Food servers, nonrestaurant",0.002379139703083365
+Latvia,2,24,2320,Secondary school teachers,0.0022839741149600305
+Latvia,1,23,2920,"Television, video, and film camera operators and editors",0.0021888085268366958
+Latvia,1,22,0101,Administrative services managers,0.002093642938713361
+Latvia,1,22,2710,Producers and directors,0.002093642938713361
+Latvia,1,22,7140,Aircraft mechanics and service technicians,0.002093642938713361
+Latvia,1,22,7640,"Other installation, maintenance, and repair workers",0.002093642938713361
+Latvia,1,21,0060,Public relations and fundraising managers,0.0019984773505900264
+Latvia,1,21,1350,Chemical engineers,0.0019984773505900264
+Latvia,2,21,1551,Electrical and electronic engineering technologists and technicians,0.0019984773505900264
+Latvia,2,20,2722,Coaches and scouts,0.001903311762466692
+Latvia,1,20,2840,Technical writers,0.001903311762466692
+Latvia,1,20,6410,Painters and paperhangers,0.001903311762466692
+Latvia,1,19,0820,Budget analysts,0.0018081461743433575
+Latvia,1,19,3250,Veterinarians,0.0018081461743433575
+Latvia,1,19,5850,"Mail clerks and mail machine operators, except postal service",0.0018081461743433575
+Latvia,1,19,7150,Automotive body and related repairers,0.0018081461743433575
+Latvia,1,19,9640,"Packers and packagers, hand",0.0018081461743433575
+Latvia,1,18,4965,"Sales and related workers, all other",0.0017129805862200228
+Latvia,2,17,0300,Architectural and engineering managers,0.0016178149980966882
+Latvia,1,17,2025,Other community and social service specialists,0.0016178149980966882
+Latvia,1,17,3230,Speech-language pathologists,0.0016178149980966882
+Latvia,2,17,6355,Electricians,0.0016178149980966882
+Latvia,1,16,1800,Economists,0.0015226494099733537
+Latvia,1,16,4530,"Baggage porters, bellhops, and concierges",0.0015226494099733537
+Latvia,1,16,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,0.0015226494099733537
+Latvia,1,15,0230,Education and childcare administrators,0.001427483821850019
+Latvia,1,15,0530,"Purchasing agents, except wholesale, retail, and farm products",0.001427483821850019
+Latvia,2,15,0940,Tax preparers,0.001427483821850019
+Latvia,1,15,4521,Manicurists and pedicurists,0.001427483821850019
+Latvia,1,15,5320,"Library assistants, clerical",0.001427483821850019
+Latvia,1,15,5810,Data entry keyers,0.001427483821850019
+Latvia,1,14,0350,Medical and health services managers,0.0013323182337266844
+Latvia,1,14,1065,Database administrators and architects,0.0013323182337266844
+Latvia,1,14,1410,Electrical and electronics engineers,0.0013323182337266844
+Latvia,1,14,1541,Architectural and civil drafters,0.0013323182337266844
+Latvia,1,14,1980,Occupational health and safety specialists and technicians,0.0013323182337266844
+Latvia,1,14,3200,Radiation therapists,0.0013323182337266844
+Latvia,1,14,3300,Clinical laboratory technologists and technicians,0.0013323182337266844
+Latvia,1,14,6305,Construction equipment operators,0.0013323182337266844
+Latvia,1,13,0310,Food service managers,0.00123715264560335
+Latvia,1,13,2014,"Social workers, all other",0.00123715264560335
+Latvia,2,13,4030,Food preparation workers,0.00123715264560335
+Latvia,1,13,5610,"Shipping, receiving, and inventory clerks",0.00123715264560335
+Latvia,1,13,8140,"Welding, soldering, and brazing workers",0.00123715264560335
+Latvia,1,12,0150,Purchasing managers,0.0011419870574800152
+Latvia,1,12,1005,Computer and information research scientists,0.0011419870574800152
+Latvia,1,12,1555,"Other engineering technologists and technicians, except drafters",0.0011419870574800152
+Latvia,1,12,2862,Court reporters and simultaneous captioners,0.0011419870574800152
+Latvia,1,12,3424,Veterinary technologists and technicians,0.0011419870574800152
+Latvia,1,12,3603,Nursing assistants,0.0011419870574800152
+Latvia,1,12,3910,Private detectives and investigators,0.0011419870574800152
+Latvia,1,12,4000,Chefs and head cooks,0.0011419870574800152
+Latvia,1,12,9142,Taxi drivers,0.0011419870574800152
+Latvia,1,11,1320,Aerospace engineers,0.0010468214693566806
+Latvia,1,11,2635,Interior designers,0.0010468214693566806
+Latvia,1,11,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",0.0010468214693566806
+Latvia,1,11,5260,File clerks,0.0010468214693566806
+Latvia,1,11,7210,Bus and truck mechanics and diesel engine specialists,0.0010468214693566806
+Latvia,1,11,9005,Supervisors of transportation and material moving workers,0.0010468214693566806
+Latvia,1,10,1750,"Geoscientists and hydrologists, except geographers",9.51655881233346e-4
+Latvia,1,10,3150,Occupational therapists,9.51655881233346e-4
+Latvia,1,10,3740,Firefighters,9.51655881233346e-4
+Latvia,1,10,8800,Packaging and filling machine operators and tenders,9.51655881233346e-4
+Latvia,1,9,0640,"Compensation, benefits, and job analysis specialists",8.564902931100114e-4
+Latvia,1,9,2350,Tutors,8.564902931100114e-4
+Latvia,1,9,5600,"Production, planning, and expediting clerks",8.564902931100114e-4
+Latvia,1,9,8500,Cabinetmakers and bench carpenters,8.564902931100114e-4
+Latvia,1,8,3640,Dental assistants,7.613247049866769e-4
+Latvia,1,8,5730,Medical secretaries and administrative assistants,7.613247049866769e-4
+Latvia,1,7,4850,"Sales representatives, wholesale and manufacturing",6.661591168633422e-4
+Latvia,1,7,7220,Heavy vehicle and mobile equipment service technicians and mechanics,6.661591168633422e-4
+Latvia,1,6,1106,Computer network architects,5.709935287400076e-4
+Latvia,1,6,2810,"News analysts, reporters, and journalists",5.709935287400076e-4
+Latvia,1,6,4522,Skincare specialists,5.709935287400076e-4
+Latvia,1,6,4930,Sales engineers,5.709935287400076e-4
+Latvia,1,5,3550,Other healthcare practitioners and technical occupations,4.75827940616673e-4
+Latvia,1,3,2435,Librarians and media collections specialists,2.854967643700038e-4
+Latvia,1,3,2752,Musicians and singers,2.854967643700038e-4
+Latvia,1,3,8030,Machinists,2.854967643700038e-4
+Latvia,1,3,8710,Cutting workers,2.854967643700038e-4
+Latvia,1,3,9122,"Bus drivers, transit and intercity",2.854967643700038e-4

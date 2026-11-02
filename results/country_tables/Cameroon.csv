@@ -1,287 +1,287 @@
-country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
-Cameroon,2748,89114,1861,63324,3255,Registered nurses,172,6668,0.10529972838102457
-Cameroon,2748,89114,1861,63324,3602,Personal care aides,119,4664,0.07365295938348809
-Cameroon,2748,89114,1861,63324,3603,Nursing assistants,92,3154,0.049807340029056915
-Cameroon,2748,89114,1861,63324,3500,Licensed practical and licensed vocational nurses,41,1406,0.022203272061145852
-Cameroon,2748,89114,1861,63324,3601,Home health aides,52,1354,0.02138209841450319
-Cameroon,2748,89114,1861,63324,0440,Other managers,34,1284,0.02027667235171499
-Cameroon,2748,89114,1861,63324,9130,Driver/sales workers and truck drivers,34,1194,0.018855410270987305
-Cameroon,2748,89114,1861,63324,1021,Software developers,26,999,0.015776009096077317
-Cameroon,2748,89114,1861,63324,1108,"Computer occupations, all other",29,976,0.015412797675446907
-Cameroon,2748,89114,1861,63324,0800,Accountants and auditors,20,896,0.014149453603688964
-Cameroon,2748,89114,1861,63324,8990,"Miscellaneous production workers, including equipment operators and tenders",23,896,0.014149453603688964
-Cameroon,2748,89114,1861,63324,5240,Customer service representatives,21,895,0.01413366180279199
-Cameroon,2748,89114,1861,63324,9142,Taxi drivers,16,880,0.013896784789337376
-Cameroon,2748,89114,1861,63324,4720,Cashiers,20,864,0.013644115974985787
-Cameroon,2748,89114,1861,63324,3930,Security guards and gaming surveillance officers,28,800,0.012633440717579433
-Cameroon,2748,89114,1861,63324,9620,"Laborers and freight, stock, and material movers, hand",23,793,0.012522898111300612
-Cameroon,2748,89114,1861,63324,1007,Information security analysts,23,771,0.012175478491567178
-Cameroon,2748,89114,1861,63324,4760,Retail salespersons,30,740,0.011685932663760975
-Cameroon,2748,89114,1861,63324,2320,Secondary school teachers,24,718,0.011338513044027542
-Cameroon,2748,89114,1861,63324,2205,Postsecondary teachers,24,716,0.011306929442233592
-Cameroon,2748,89114,1861,63324,3090,Physicians,23,701,0.011070052428778978
-Cameroon,2748,89114,1861,63324,3802,Correctional officers and jailers,16,694,0.010959509822500157
-Cameroon,2748,89114,1861,63324,9645,Stockers and order fillers,10,650,0.010264670583033288
-Cameroon,2748,89114,1861,63324,4700,First-line supervisors of retail sales workers,10,648,0.01023308698123934
-Cameroon,2748,89114,1861,63324,3050,Pharmacists,22,631,0.009964626365990778
-Cameroon,2748,89114,1861,63324,1240,Other mathematical science occupations,16,612,0.009664582148948267
-Cameroon,2748,89114,1861,63324,9640,"Packers and packagers, hand",19,607,0.009585623144463394
-Cameroon,2748,89114,1861,63324,4220,Janitors and building cleaners,18,596,0.009411913334596678
-Cameroon,2748,89114,1861,63324,4510,"Hairdressers, hairstylists, and cosmetologists",14,589,0.009301370728317857
-Cameroon,2748,89114,1861,63324,2310,Elementary and middle school teachers,21,576,0.009096077316657191
-Cameroon,2748,89114,1861,63324,3258,"Nurse practitioners, and nurse midwives",17,552,0.008717074095129809
-Cameroon,2748,89114,1861,63324,0705,Project management specialists,14,499,0.007880108647590171
-Cameroon,2748,89114,1861,63324,0630,Human resources workers,9,487,0.00769060703682648
-Cameroon,2748,89114,1861,63324,9830,"Military, rank not specified",15,485,0.007659023435032531
-Cameroon,2748,89114,1861,63324,5740,"Secretaries and administrative assistants, except legal, medical, and executive",13,470,0.007422146421577917
-Cameroon,2748,89114,1861,63324,4230,Maids and housekeeping cleaners,19,446,0.007043143200050533
-Cameroon,2748,89114,1861,63324,1050,Computer support specialists,14,424,0.0066957235803171
-Cameroon,2748,89114,1861,63324,0710,Management analysts,18,415,0.00655359737224433
-Cameroon,2748,89114,1861,63324,0750,"Business operations specialists, all other",13,408,0.006443054765965511
-Cameroon,2748,89114,1861,63324,1065,Database administrators and architects,16,408,0.006443054765965511
-Cameroon,2748,89114,1861,63324,4020,Cooks,11,387,0.00611142694712905
-Cameroon,2748,89114,1861,63324,4850,"Sales representatives, wholesale and manufacturing",5,379,0.005985092539953257
-Cameroon,2748,89114,1861,63324,2014,"Social workers, all other",9,368,0.005811382730086539
-Cameroon,2748,89114,1861,63324,2004,Mental health counselors,17,367,0.0057955909291895645
-Cameroon,2748,89114,1861,63324,0350,Medical and health services managers,12,353,0.005574505716631924
-Cameroon,2748,89114,1861,63324,2722,Coaches and scouts,3,345,0.005448171309456131
-Cameroon,2748,89114,1861,63324,8740,"Inspectors, testers, sorters, samplers, and weighers",12,341,0.005385004105868233
-Cameroon,2748,89114,1861,63324,0120,Financial managers,9,333,0.005258669698692439
-Cameroon,2748,89114,1861,63324,0310,Food service managers,1,331,0.005227086096898491
-Cameroon,2748,89114,1861,63324,2040,Clergy,10,320,0.005053376287031773
-Cameroon,2748,89114,1861,63324,1530,Other engineers,8,310,0.00489545827806203
-Cameroon,2748,89114,1861,63324,3300,Clinical laboratory technologists and technicians,11,299,0.004721748468195313
-Cameroon,2748,89114,1861,63324,0205,"Farmers, ranchers, and other agricultural managers",1,275,0.00434274524666793
-Cameroon,2748,89114,1861,63324,4110,Waiters and waitresses,10,263,0.004153243635904238
-Cameroon,2748,89114,1861,63324,4600,Childcare workers,7,253,0.003995325626934496
-Cameroon,2748,89114,1861,63324,7330,Industrial and refractory machinery mechanics,3,247,0.0039005748215526497
-Cameroon,2748,89114,1861,63324,5400,Receptionists and information clerks,7,246,0.0038847830206556757
-Cameroon,2748,89114,1861,63324,0230,Education and childcare administrators,6,242,0.0038216158170677784
-Cameroon,2748,89114,1861,63324,4030,Food preparation workers,5,242,0.0038216158170677784
-Cameroon,2748,89114,1861,63324,5120,"Bookkeeping, accounting, and auditing clerks",5,237,0.003742656812582907
-Cameroon,2748,89114,1861,63324,5000,First-line supervisors of office and administrative support workers,6,234,0.003695281409891984
-Cameroon,2748,89114,1861,63324,4965,"Sales and related workers, all other",7,225,0.0035531552018192155
-Cameroon,2748,89114,1861,63324,5860,"Office clerks, general",8,222,0.0035057797991282927
-Cameroon,2748,89114,1861,63324,0010,Chief executives and legislators,5,220,0.003474196197334344
-Cameroon,2748,89114,1861,63324,3422,Psychiatric technicians,3,217,0.003426820794643421
-Cameroon,2748,89114,1861,63324,1006,Computer systems analysts,8,213,0.003363653591055524
-Cameroon,2748,89114,1861,63324,1650,Other life scientists,7,211,0.0033320699892615754
-Cameroon,2748,89114,1861,63324,1970,"Other life, physical, and social science technicians",3,207,0.003268902785673678
-Cameroon,2748,89114,1861,63324,2905,Other media and communication equipment workers,3,205,0.00323731918387973
-Cameroon,2748,89114,1861,63324,2016,Social and human service assistants,5,190,0.0030004421704251153
-Cameroon,2748,89114,1861,63324,7750,Other assemblers and fabricators,7,188,0.002968858568631167
-Cameroon,2748,89114,1861,63324,3421,Pharmacy technicians,5,187,0.0029530667677341925
-Cameroon,2748,89114,1861,63324,4810,Insurance sales agents,5,185,0.0029214831659402436
-Cameroon,2748,89114,1861,63324,1010,Computer programmers,2,184,0.0029056913650432697
-Cameroon,2748,89114,1861,63324,5940,Other office and administrative support workers,6,183,0.0028898995641462952
-Cameroon,2748,89114,1861,63324,1410,Electrical and electronics engineers,5,182,0.002874107763249321
-Cameroon,2748,89114,1861,63324,5510,Couriers and messengers,6,182,0.002874107763249321
-Cameroon,2748,89114,1861,63324,9610,Cleaners of vehicles and equipment,2,182,0.002874107763249321
-Cameroon,2748,89114,1861,63324,2006,"Counselors, all other",7,181,0.002858315962352347
-Cameroon,2748,89114,1861,63324,9600,Industrial truck and tractor operators,3,178,0.0028109405596614236
-Cameroon,2748,89114,1861,63324,2100,"Lawyers, and judges, magistrates, and other judicial workers",7,177,0.0027951487587644496
-Cameroon,2748,89114,1861,63324,1760,"Physical scientists, all other",4,176,0.002779356957867475
-Cameroon,2748,89114,1861,63324,2545,Teaching assistants,9,171,0.0027003979533826035
-Cameroon,2748,89114,1861,63324,4010,First-line supervisors of food preparation and serving workers,3,169,0.002668814351588655
-Cameroon,2748,89114,1861,63324,9825,Military enlisted tactical operations and air/weapons specialists and crew members,13,169,0.002668814351588655
-Cameroon,2748,89114,1861,63324,0700,Logisticians,5,168,0.0026530225506916807
-Cameroon,2748,89114,1861,63324,8140,"Welding, soldering, and brazing workers",4,165,0.002605647148000758
-Cameroon,2748,89114,1861,63324,2360,Other teachers and instructors,4,164,0.002589855347103784
-Cameroon,2748,89114,1861,63324,2300,Preschool and kindergarten teachers,7,162,0.002558271745309835
-Cameroon,2748,89114,1861,63324,1400,Computer hardware engineers,4,160,0.0025266881435158867
-Cameroon,2748,89114,1861,63324,4350,Animal caretakers,4,159,0.0025108963426189123
-Cameroon,2748,89114,1861,63324,1555,"Other engineering technologists and technicians, except drafters",4,158,0.002495104541721938
-Cameroon,2748,89114,1861,63324,0565,Compliance officers,8,156,0.0024635209399279895
-Cameroon,2748,89114,1861,63324,0051,Marketing managers,4,153,0.0024161455372370667
-Cameroon,2748,89114,1861,63324,0110,Computer and information systems managers,6,150,0.002368770134546144
-Cameroon,2748,89114,1861,63324,1105,Network and computer systems administrators,4,143,0.002258227528267324
-Cameroon,2748,89114,1861,63324,6355,Electricians,5,142,0.0022424357273703494
-Cameroon,2748,89114,1861,63324,3545,Miscellaneous health technologists and technicians,8,138,0.002179268523782452
-Cameroon,2748,89114,1861,63324,4640,Residential advisors,3,137,0.0021634767228854777
-Cameroon,2748,89114,1861,63324,0220,Construction managers,4,136,0.0021476849219885037
-Cameroon,2748,89114,1861,63324,0650,Training and development specialists,4,134,0.002116101320194555
-Cameroon,2748,89114,1861,63324,2025,Other community and social service specialists,2,133,0.0021003095192975805
-Cameroon,2748,89114,1861,63324,4140,Dishwashers,2,132,0.0020845177184006065
-Cameroon,2748,89114,1861,63324,5300,"Hotel, motel, and resort desk clerks",1,130,0.0020529341166066577
-Cameroon,2748,89114,1861,63324,7800,Bakers,4,129,0.0020371423157096837
-Cameroon,2748,89114,1861,63324,7340,"Maintenance and repair workers, general",4,127,0.002005558713915735
-Cameroon,2748,89114,1861,63324,4055,Fast food and counter workers,4,126,0.001989766913018761
-Cameroon,2748,89114,1861,63324,3110,Physician assistants,4,125,0.0019739751121217865
-Cameroon,2748,89114,1861,63324,1350,Chemical engineers,2,124,0.001958183311224812
-Cameroon,2748,89114,1861,63324,4710,First-line supervisors of non-retail sales workers,5,121,0.0019108079085338892
-Cameroon,2748,89114,1861,63324,7840,Food batchmakers,3,117,0.001847640704945992
-Cameroon,2748,89114,1861,63324,3870,Police officers,2,116,0.0018318489040490178
-Cameroon,2748,89114,1861,63324,5160,Tellers,2,116,0.0018318489040490178
-Cameroon,2748,89114,1861,63324,1340,Biomedical and agricultural engineers,1,112,0.0017686817004611206
-Cameroon,2748,89114,1861,63324,1360,Civil engineers,3,109,0.0017213062977701977
-Cameroon,2748,89114,1861,63324,0020,General and operations managers,6,106,0.001673930895079275
-Cameroon,2748,89114,1861,63324,2330,Special education teachers,3,106,0.001673930895079275
-Cameroon,2748,89114,1861,63324,1320,Aerospace engineers,2,104,0.0016423472932853263
-Cameroon,2748,89114,1861,63324,0420,Social and community service managers,6,101,0.0015949718905944033
-Cameroon,2748,89114,1861,63324,7315,"Heating, air conditioning, and refrigeration mechanics and installers",3,101,0.0015949718905944033
-Cameroon,2748,89114,1861,63324,0137,Training and development managers,1,99,0.0015633882888004549
-Cameroon,2748,89114,1861,63324,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",3,99,0.0015633882888004549
-Cameroon,2748,89114,1861,63324,1825,Other psychologists,2,95,0.0015002210852125576
-Cameroon,2748,89114,1861,63324,3605,Orderlies and psychiatric aides,1,94,0.0014844292843155834
-Cameroon,2748,89114,1861,63324,2012,Healthcare social workers,3,93,0.001468637483418609
-Cameroon,2748,89114,1861,63324,7010,"Computer, automated teller, and office machine repairers",6,93,0.001468637483418609
-Cameroon,2748,89114,1861,63324,0540,"Claims adjusters, appraisers, examiners, and investigators",2,92,0.0014528456825216348
-Cameroon,2748,89114,1861,63324,9150,"Motor vehicle operators, all other",4,91,0.0014370538816246604
-Cameroon,2748,89114,1861,63324,2002,"Educational, guidance, and career counselors and advisors",3,88,0.0013896784789337376
-Cameroon,2748,89114,1861,63324,3160,Physical therapists,2,88,0.0013896784789337376
-Cameroon,2748,89114,1861,63324,1920,Chemical technicians,3,87,0.0013738866780367634
-Cameroon,2748,89114,1861,63324,0530,"Purchasing agents, except wholesale, retail, and farm products",3,86,0.001358094877139789
-Cameroon,2748,89114,1861,63324,1031,Web developers,2,86,0.001358094877139789
-Cameroon,2748,89114,1861,63324,1720,Chemists and materials scientists,3,85,0.0013423030762428148
-Cameroon,2748,89114,1861,63324,5600,"Production, planning, and expediting clerks",2,83,0.0013107194744488662
-Cameroon,2748,89114,1861,63324,6305,Construction equipment operators,3,82,0.001294927673551892
-Cameroon,2748,89114,1861,63324,7200,Automotive service technicians and mechanics,5,82,0.001294927673551892
-Cameroon,2748,89114,1861,63324,0845,Financial and investment analysts,4,81,0.0012791358726549175
-Cameroon,2748,89114,1861,63324,2350,Tutors,5,81,0.0012791358726549175
-Cameroon,2748,89114,1861,63324,3323,Radiologic technologists and technicians,4,81,0.0012791358726549175
-Cameroon,2748,89114,1861,63324,0140,Industrial production managers,3,79,0.001247552270860969
-Cameroon,2748,89114,1861,63324,3245,Other therapists,2,75,0.001184385067273072
-Cameroon,2748,89114,1861,63324,8830,Photographic process workers and processing machine operators,1,75,0.001184385067273072
-Cameroon,2748,89114,1861,63324,6600,"Helpers, construction trades",1,74,0.0011685932663760975
-Cameroon,2748,89114,1861,63324,9365,Transportation service attendants,1,70,0.0011054260627882003
-Cameroon,2748,89114,1861,63324,0900,Financial examiners,1,68,0.0010738424609942519
-Cameroon,2748,89114,1861,63324,3740,Firefighters,2,68,0.0010738424609942519
-Cameroon,2748,89114,1861,63324,3220,Respiratory therapists,2,67,0.0010580506600972775
-Cameroon,2748,89114,1861,63324,5610,"Shipping, receiving, and inventory clerks",2,67,0.0010580506600972775
-Cameroon,2748,89114,1861,63324,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",2,66,0.0010422588592003033
-Cameroon,2748,89114,1861,63324,1430,"Industrial engineers, including health and safety",2,65,0.0010264670583033288
-Cameroon,2748,89114,1861,63324,7000,"First-line supervisors of mechanics, installers, and repairers",2,63,9.948834565093804e-4
-Cameroon,2748,89114,1861,63324,8225,Other metal workers and plastic workers,2,63,9.948834565093804e-4
-Cameroon,2748,89114,1861,63324,7855,"Food processing workers, all other",2,62,9.79091655612406e-4
-Cameroon,2748,89114,1861,63324,4655,"Personal care and service workers, all other",1,61,9.632998547154317e-4
-Cameroon,2748,89114,1861,63324,6260,Construction laborers,3,59,9.317162529214832e-4
-Cameroon,2748,89114,1861,63324,0850,Personal financial advisors,3,55,8.68549049333586e-4
-Cameroon,2748,89114,1861,63324,5420,Other information and records clerks,2,55,8.68549049333586e-4
-Cameroon,2748,89114,1861,63324,7210,Bus and truck mechanics and diesel engine specialists,3,53,8.369654475396375e-4
-Cameroon,2748,89114,1861,63324,0940,Tax preparers,2,52,8.211736466426632e-4
-Cameroon,2748,89114,1861,63324,1900,Agricultural and food science technicians,1,52,8.211736466426632e-4
-Cameroon,2748,89114,1861,63324,3655,Other healthcare support workers,3,52,8.211736466426632e-4
-Cameroon,2748,89114,1861,63324,7320,Home appliance repairers,1,50,7.895900448487145e-4
-Cameroon,2748,89114,1861,63324,3649,Phlebotomists,3,49,7.737982439517402e-4
-Cameroon,2748,89114,1861,63324,4251,Landscaping and groundskeeping workers,3,49,7.737982439517402e-4
-Cameroon,2748,89114,1861,63324,1106,Computer network architects,3,48,7.580064430547659e-4
-Cameroon,2748,89114,1861,63324,7700,First-line supervisors of production and operating workers,2,48,7.580064430547659e-4
-Cameroon,2748,89114,1861,63324,1460,Mechanical engineers,1,46,7.264228412608174e-4
-Cameroon,2748,89114,1861,63324,2145,Paralegals and legal assistants,3,46,7.264228412608174e-4
-Cameroon,2748,89114,1861,63324,2640,Other designers,1,46,7.264228412608174e-4
-Cameroon,2748,89114,1861,63324,3725,"Miscellaneous first-line supervisors, protective service workers",2,45,7.106310403638431e-4
-Cameroon,2748,89114,1861,63324,1310,"Surveyors, cartographers, and photogrammetrists",1,44,6.948392394668688e-4
-Cameroon,2748,89114,1861,63324,1610,Biological scientists,2,44,6.948392394668688e-4
-Cameroon,2748,89114,1861,63324,0960,Other financial specialists,1,43,6.790474385698945e-4
-Cameroon,2748,89114,1861,63324,2700,Actors,2,42,6.632556376729202e-4
-Cameroon,2748,89114,1861,63324,3645,Medical assistants,2,42,6.632556376729202e-4
-Cameroon,2748,89114,1861,63324,2435,Librarians and media collections specialists,1,41,6.47463836775946e-4
-Cameroon,2748,89114,1861,63324,2755,"Disc jockeys, except radio",1,41,6.47463836775946e-4
-Cameroon,2748,89114,1861,63324,8350,"Tailors, dressmakers, and sewers",2,41,6.47463836775946e-4
-Cameroon,2748,89114,1861,63324,0101,Administrative services managers,2,40,6.316720358789717e-4
-Cameroon,2748,89114,1861,63324,0360,Natural sciences managers,2,40,6.316720358789717e-4
-Cameroon,2748,89114,1861,63324,7120,Electronic home entertainment equipment installers and repairers,1,40,6.316720358789717e-4
-Cameroon,2748,89114,1861,63324,9121,"Bus drivers, school",2,39,6.158802349819974e-4
-Cameroon,2748,89114,1861,63324,5710,Executive secretaries and executive administrative assistants,1,37,5.842966331880488e-4
-Cameroon,2748,89114,1861,63324,1800,Economists,2,36,5.685048322910744e-4
-Cameroon,2748,89114,1861,63324,3324,Magnetic resonance imaging technologists,1,36,5.685048322910744e-4
-Cameroon,2748,89114,1861,63324,8610,Stationary engineers and boiler operators,2,36,5.685048322910744e-4
-Cameroon,2748,89114,1861,63324,8300,Laundry and dry-cleaning workers,1,35,5.527130313941001e-4
-Cameroon,2748,89114,1861,63324,3700,First-line supervisors of correctional officers,1,34,5.369212304971259e-4
-Cameroon,2748,89114,1861,63324,8810,Painting workers,1,34,5.369212304971259e-4
-Cameroon,2748,89114,1861,63324,4130,Dining room and cafeteria attendants and bartender helpers,3,33,5.211294296001516e-4
-Cameroon,2748,89114,1861,63324,5840,Insurance claims and policy processing clerks,1,33,5.211294296001516e-4
-Cameroon,2748,89114,1861,63324,1220,Operations research analysts,1,32,5.053376287031773e-4
-Cameroon,2748,89114,1861,63324,9430,Other transportation workers,1,32,5.053376287031773e-4
-Cameroon,2748,89114,1861,63324,0300,Architectural and engineering managers,2,31,4.89545827806203e-4
-Cameroon,2748,89114,1861,63324,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,1,31,4.89545827806203e-4
-Cameroon,2748,89114,1861,63324,1450,Materials engineers,1,30,4.737540269092287e-4
-Cameroon,2748,89114,1861,63324,1551,Electrical and electronic engineering technologists and technicians,1,30,4.737540269092287e-4
-Cameroon,2748,89114,1861,63324,3910,Private detectives and investigators,1,30,4.737540269092287e-4
-Cameroon,2748,89114,1861,63324,5850,"Mail clerks and mail machine operators, except postal service",1,30,4.737540269092287e-4
-Cameroon,2748,89114,1861,63324,7020,Radio and telecommunications equipment installers and repairers,1,30,4.737540269092287e-4
-Cameroon,2748,89114,1861,63324,9005,Supervisors of transportation and material moving workers,2,30,4.737540269092287e-4
-Cameroon,2748,89114,1861,63324,0520,"Wholesale and retail buyers, except farm products",2,29,4.5796222601225445e-4
-Cameroon,2748,89114,1861,63324,3423,Surgical technologists,1,29,4.5796222601225445e-4
-Cameroon,2748,89114,1861,63324,7140,Aircraft mechanics and service technicians,2,29,4.5796222601225445e-4
-Cameroon,2748,89114,1861,63324,0340,Lodging managers,1,28,4.4217042511528014e-4
-Cameroon,2748,89114,1861,63324,2770,"Entertainers and performers, sports and related workers, all other",2,28,4.4217042511528014e-4
-Cameroon,2748,89114,1861,63324,4820,"Securities, commodities, and financial services sales agents",1,28,4.4217042511528014e-4
-Cameroon,2748,89114,1861,63324,9800,Military officer special and tactical operations leaders,1,28,4.4217042511528014e-4
-Cameroon,2748,89114,1861,63324,2015,Probation officers and correctional treatment specialists,2,27,4.2637862421830583e-4
-Cameroon,2748,89114,1861,63324,2861,Interpreters and translators,1,27,4.2637862421830583e-4
-Cameroon,2748,89114,1861,63324,3620,Physical therapist assistants and aides,1,27,4.2637862421830583e-4
-Cameroon,2748,89114,1861,63324,2600,Artists and related workers,2,26,4.105868233213316e-4
-Cameroon,2748,89114,1861,63324,4530,"Baggage porters, bellhops, and concierges",1,26,4.105868233213316e-4
-Cameroon,2748,89114,1861,63324,5550,Postal service mail carriers,2,26,4.105868233213316e-4
-Cameroon,2748,89114,1861,63324,0160,"Transportation, storage, and distribution managers",1,24,3.7900322152738296e-4
-Cameroon,2748,89114,1861,63324,3321,Cardiovascular technologists and technicians,1,24,3.7900322152738296e-4
-Cameroon,2748,89114,1861,63324,2710,Producers and directors,2,23,3.632114206304087e-4
-Cameroon,2748,89114,1861,63324,3150,Occupational therapists,1,23,3.632114206304087e-4
-Cameroon,2748,89114,1861,63324,4200,First-line supervisors of housekeeping and janitorial workers,2,23,3.632114206304087e-4
-Cameroon,2748,89114,1861,63324,6825,Surface mining machine operators and earth drillers,1,23,3.632114206304087e-4
-Cameroon,2748,89114,1861,63324,7420,Telecommunications line installers and repairers,1,23,3.632114206304087e-4
-Cameroon,2748,89114,1861,63324,5530,"Meter readers, utilities",1,22,3.474196197334344e-4
-Cameroon,2748,89114,1861,63324,1440,Marine engineers and naval architects,1,21,3.316278188364601e-4
-Cameroon,2748,89114,1861,63324,2400,"Archivists, curators, and museum technicians",1,21,3.316278188364601e-4
-Cameroon,2748,89114,1861,63324,3401,Emergency medical technicians,2,21,3.316278188364601e-4
-Cameroon,2748,89114,1861,63324,8640,"Chemical processing machine setters, operators, and tenders",1,21,3.316278188364601e-4
-Cameroon,2748,89114,1861,63324,8710,Cutting workers,1,21,3.316278188364601e-4
-Cameroon,2748,89114,1861,63324,9141,Shuttle drivers and chauffeurs,1,21,3.316278188364601e-4
-Cameroon,2748,89114,1861,63324,1005,Computer and information research scientists,2,20,3.1583601793948584e-4
-Cameroon,2748,89114,1861,63324,2752,Musicians and singers,1,20,3.1583601793948584e-4
-Cameroon,2748,89114,1861,63324,2865,"Media and communication workers, all other",2,20,3.1583601793948584e-4
-Cameroon,2748,89114,1861,63324,3640,Dental assistants,1,20,3.1583601793948584e-4
-Cameroon,2748,89114,1861,63324,5330,Loan interviewers and clerks,1,20,3.1583601793948584e-4
-Cameroon,2748,89114,1861,63324,6400,Insulation workers,1,20,3.1583601793948584e-4
-Cameroon,2748,89114,1861,63324,0735,Market research analysts and marketing specialists,1,19,3.0004421704251153e-4
-Cameroon,2748,89114,1861,63324,1745,"Environmental scientists and specialists, including health",1,19,3.0004421704251153e-4
-Cameroon,2748,89114,1861,63324,2830,Editors,1,19,3.0004421704251153e-4
-Cameroon,2748,89114,1861,63324,5100,Bill and account collectors,2,19,3.0004421704251153e-4
-Cameroon,2748,89114,1861,63324,4435,Other entertainment attendants and related workers,1,18,2.842524161455372e-4
-Cameroon,2748,89114,1861,63324,0136,Human resources managers,1,17,2.6846061524856297e-4
-Cameroon,2748,89114,1861,63324,3960,Other protective service workers,2,17,2.6846061524856297e-4
-Cameroon,2748,89114,1861,63324,4920,Real estate brokers and sales agents,1,17,2.6846061524856297e-4
-Cameroon,2748,89114,1861,63324,2825,Public relations specialists,1,16,2.5266881435158866e-4
-Cameroon,2748,89114,1861,63324,3270,"Healthcare diagnosing or treating practitioners, all other",1,16,2.5266881435158866e-4
-Cameroon,2748,89114,1861,63324,4040,Bartenders,1,16,2.5266881435158866e-4
-Cameroon,2748,89114,1861,63324,4621,Exercise trainers and group fitness instructors,1,16,2.5266881435158866e-4
-Cameroon,2748,89114,1861,63324,5010,"Switchboard operators, including answering service",1,16,2.5266881435158866e-4
-Cameroon,2748,89114,1861,63324,5110,Billing and posting clerks,1,16,2.5266881435158866e-4
-Cameroon,2748,89114,1861,63324,0410,"Property, real estate, and community association managers",1,15,2.3687701345461435e-4
-Cameroon,2748,89114,1861,63324,0425,Emergency management directors,1,15,2.3687701345461435e-4
-Cameroon,2748,89114,1861,63324,0725,"Meeting, convention, and event planners",1,15,2.3687701345461435e-4
-Cameroon,2748,89114,1861,63324,3424,Veterinary technologists and technicians,1,15,2.3687701345461435e-4
-Cameroon,2748,89114,1861,63324,3940,Crossing guards and flaggers,1,15,2.3687701345461435e-4
-Cameroon,2748,89114,1861,63324,5810,Data entry keyers,1,15,2.3687701345461435e-4
-Cameroon,2748,89114,1861,63324,5900,"Office machine operators, except computer",1,15,2.3687701345461435e-4
-Cameroon,2748,89114,1861,63324,7720,"Electrical, electronics, and electromechanical assemblers",1,15,2.3687701345461435e-4
-Cameroon,2748,89114,1861,63324,1840,Urban and regional planners,1,14,2.2108521255764007e-4
-Cameroon,2748,89114,1861,63324,2060,"Religious workers, all other",1,14,2.2108521255764007e-4
-Cameroon,2748,89114,1861,63324,5260,File clerks,1,14,2.2108521255764007e-4
-Cameroon,2748,89114,1861,63324,9810,First-line enlisted military supervisors,1,14,2.2108521255764007e-4
-Cameroon,2748,89114,1861,63324,0860,Insurance underwriters,1,13,2.052934116606658e-4
-Cameroon,2748,89114,1861,63324,1980,Occupational health and safety specialists and technicians,1,13,2.052934116606658e-4
-Cameroon,2748,89114,1861,63324,5920,Statistical assistants,1,13,2.052934116606658e-4
-Cameroon,2748,89114,1861,63324,9050,Flight attendants,1,13,2.052934116606658e-4
-Cameroon,2748,89114,1861,63324,3322,Diagnostic medical sonographers,2,12,1.8950161076369148e-4
-Cameroon,2748,89114,1861,63324,0930,"Tax examiners and collectors, and revenue agents",1,11,1.737098098667172e-4
-Cameroon,2748,89114,1861,63324,2001,Substance abuse and behavioral disorder counselors,1,11,1.737098098667172e-4
-Cameroon,2748,89114,1861,63324,3402,Paramedics,1,11,1.737098098667172e-4
-Cameroon,2748,89114,1861,63324,3648,Veterinary assistants and laboratory animal caretakers,1,11,1.737098098667172e-4
-Cameroon,2748,89114,1861,63324,6530,Structural iron and steel workers,1,11,1.737098098667172e-4
-Cameroon,2748,89114,1861,63324,3820,Detectives and criminal investigators,1,10,1.5791800896974292e-4
-Cameroon,2748,89114,1861,63324,4120,"Food servers, nonrestaurant",1,10,1.5791800896974292e-4
-Cameroon,2748,89114,1861,63324,5310,"Interviewers, except eligibility and loan",1,9,1.421262080727686e-4
-Cameroon,2748,89114,1861,63324,6230,Carpenters,1,9,1.421262080727686e-4
-Cameroon,2748,89114,1861,63324,9240,Railroad conductors and yardmasters,1,9,1.421262080727686e-4
-Cameroon,2748,89114,1861,63324,0600,Cost estimators,1,8,1.2633440717579433e-4
-Cameroon,2748,89114,1861,63324,6200,First-line supervisors of construction trades and extraction workers,1,7,1.1054260627882003e-4
-Cameroon,2748,89114,1861,63324,3520,"Opticians, dispensing",1,6,9.475080538184574e-5
-Cameroon,2748,89114,1861,63324,5560,"Postal service mail sorters, processors, and processing machine operators",1,4,6.316720358789716e-5
-Cameroon,2748,89114,1861,63324,7640,"Other installation, maintenance, and repair workers",1,4,6.316720358789716e-5
-Cameroon,2748,89114,1861,63324,6050,Other agricultural workers,1,3,4.737540269092287e-5
-Cameroon,2748,89114,1861,63324,6730,Highway maintenance workers,1,3,4.737540269092287e-5
-Cameroon,2748,89114,1861,63324,7100,"Other electrical and electronic equipment mechanics, installers, and repairers",1,2,3.158360179394858e-5
-Cameroon,2748,89114,1861,63324,2721,Athletes and sports competitors,1,1,1.579180089697429e-5
-Cameroon,2748,89114,1861,63324,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,1,1.579180089697429e-5
+country,n_workers,workers,occ,occ_title,occ_share
+Cameroon,172,6668,3255,Registered nurses,0.10529972838102457
+Cameroon,119,4664,3602,Personal care aides,0.07365295938348809
+Cameroon,92,3154,3603,Nursing assistants,0.049807340029056915
+Cameroon,41,1406,3500,Licensed practical and licensed vocational nurses,0.022203272061145852
+Cameroon,52,1354,3601,Home health aides,0.02138209841450319
+Cameroon,34,1284,0440,Other managers,0.02027667235171499
+Cameroon,34,1194,9130,Driver/sales workers and truck drivers,0.018855410270987305
+Cameroon,26,999,1021,Software developers,0.015776009096077317
+Cameroon,29,976,1108,"Computer occupations, all other",0.015412797675446907
+Cameroon,20,896,0800,Accountants and auditors,0.014149453603688964
+Cameroon,23,896,8990,"Miscellaneous production workers, including equipment operators and tenders",0.014149453603688964
+Cameroon,21,895,5240,Customer service representatives,0.01413366180279199
+Cameroon,16,880,9142,Taxi drivers,0.013896784789337376
+Cameroon,20,864,4720,Cashiers,0.013644115974985787
+Cameroon,28,800,3930,Security guards and gaming surveillance officers,0.012633440717579433
+Cameroon,23,793,9620,"Laborers and freight, stock, and material movers, hand",0.012522898111300612
+Cameroon,23,771,1007,Information security analysts,0.012175478491567178
+Cameroon,30,740,4760,Retail salespersons,0.011685932663760975
+Cameroon,24,718,2320,Secondary school teachers,0.011338513044027542
+Cameroon,24,716,2205,Postsecondary teachers,0.011306929442233592
+Cameroon,23,701,3090,Physicians,0.011070052428778978
+Cameroon,16,694,3802,Correctional officers and jailers,0.010959509822500157
+Cameroon,10,650,9645,Stockers and order fillers,0.010264670583033288
+Cameroon,10,648,4700,First-line supervisors of retail sales workers,0.01023308698123934
+Cameroon,22,631,3050,Pharmacists,0.009964626365990778
+Cameroon,16,612,1240,Other mathematical science occupations,0.009664582148948267
+Cameroon,19,607,9640,"Packers and packagers, hand",0.009585623144463394
+Cameroon,18,596,4220,Janitors and building cleaners,0.009411913334596678
+Cameroon,14,589,4510,"Hairdressers, hairstylists, and cosmetologists",0.009301370728317857
+Cameroon,21,576,2310,Elementary and middle school teachers,0.009096077316657191
+Cameroon,17,552,3258,"Nurse practitioners, and nurse midwives",0.008717074095129809
+Cameroon,14,499,0705,Project management specialists,0.007880108647590171
+Cameroon,9,487,0630,Human resources workers,0.00769060703682648
+Cameroon,15,485,9830,"Military, rank not specified",0.007659023435032531
+Cameroon,13,470,5740,"Secretaries and administrative assistants, except legal, medical, and executive",0.007422146421577917
+Cameroon,19,446,4230,Maids and housekeeping cleaners,0.007043143200050533
+Cameroon,14,424,1050,Computer support specialists,0.0066957235803171
+Cameroon,18,415,0710,Management analysts,0.00655359737224433
+Cameroon,13,408,0750,"Business operations specialists, all other",0.006443054765965511
+Cameroon,16,408,1065,Database administrators and architects,0.006443054765965511
+Cameroon,11,387,4020,Cooks,0.00611142694712905
+Cameroon,5,379,4850,"Sales representatives, wholesale and manufacturing",0.005985092539953257
+Cameroon,9,368,2014,"Social workers, all other",0.005811382730086539
+Cameroon,17,367,2004,Mental health counselors,0.0057955909291895645
+Cameroon,12,353,0350,Medical and health services managers,0.005574505716631924
+Cameroon,3,345,2722,Coaches and scouts,0.005448171309456131
+Cameroon,12,341,8740,"Inspectors, testers, sorters, samplers, and weighers",0.005385004105868233
+Cameroon,9,333,0120,Financial managers,0.005258669698692439
+Cameroon,1,331,0310,Food service managers,0.005227086096898491
+Cameroon,10,320,2040,Clergy,0.005053376287031773
+Cameroon,8,310,1530,Other engineers,0.00489545827806203
+Cameroon,11,299,3300,Clinical laboratory technologists and technicians,0.004721748468195313
+Cameroon,1,275,0205,"Farmers, ranchers, and other agricultural managers",0.00434274524666793
+Cameroon,10,263,4110,Waiters and waitresses,0.004153243635904238
+Cameroon,7,253,4600,Childcare workers,0.003995325626934496
+Cameroon,3,247,7330,Industrial and refractory machinery mechanics,0.0039005748215526497
+Cameroon,7,246,5400,Receptionists and information clerks,0.0038847830206556757
+Cameroon,6,242,0230,Education and childcare administrators,0.0038216158170677784
+Cameroon,5,242,4030,Food preparation workers,0.0038216158170677784
+Cameroon,5,237,5120,"Bookkeeping, accounting, and auditing clerks",0.003742656812582907
+Cameroon,6,234,5000,First-line supervisors of office and administrative support workers,0.003695281409891984
+Cameroon,7,225,4965,"Sales and related workers, all other",0.0035531552018192155
+Cameroon,8,222,5860,"Office clerks, general",0.0035057797991282927
+Cameroon,5,220,0010,Chief executives and legislators,0.003474196197334344
+Cameroon,3,217,3422,Psychiatric technicians,0.003426820794643421
+Cameroon,8,213,1006,Computer systems analysts,0.003363653591055524
+Cameroon,7,211,1650,Other life scientists,0.0033320699892615754
+Cameroon,3,207,1970,"Other life, physical, and social science technicians",0.003268902785673678
+Cameroon,3,205,2905,Other media and communication equipment workers,0.00323731918387973
+Cameroon,5,190,2016,Social and human service assistants,0.0030004421704251153
+Cameroon,7,188,7750,Other assemblers and fabricators,0.002968858568631167
+Cameroon,5,187,3421,Pharmacy technicians,0.0029530667677341925
+Cameroon,5,185,4810,Insurance sales agents,0.0029214831659402436
+Cameroon,2,184,1010,Computer programmers,0.0029056913650432697
+Cameroon,6,183,5940,Other office and administrative support workers,0.0028898995641462952
+Cameroon,5,182,1410,Electrical and electronics engineers,0.002874107763249321
+Cameroon,6,182,5510,Couriers and messengers,0.002874107763249321
+Cameroon,2,182,9610,Cleaners of vehicles and equipment,0.002874107763249321
+Cameroon,7,181,2006,"Counselors, all other",0.002858315962352347
+Cameroon,3,178,9600,Industrial truck and tractor operators,0.0028109405596614236
+Cameroon,7,177,2100,"Lawyers, and judges, magistrates, and other judicial workers",0.0027951487587644496
+Cameroon,4,176,1760,"Physical scientists, all other",0.002779356957867475
+Cameroon,9,171,2545,Teaching assistants,0.0027003979533826035
+Cameroon,3,169,4010,First-line supervisors of food preparation and serving workers,0.002668814351588655
+Cameroon,13,169,9825,Military enlisted tactical operations and air/weapons specialists and crew members,0.002668814351588655
+Cameroon,5,168,0700,Logisticians,0.0026530225506916807
+Cameroon,4,165,8140,"Welding, soldering, and brazing workers",0.002605647148000758
+Cameroon,4,164,2360,Other teachers and instructors,0.002589855347103784
+Cameroon,7,162,2300,Preschool and kindergarten teachers,0.002558271745309835
+Cameroon,4,160,1400,Computer hardware engineers,0.0025266881435158867
+Cameroon,4,159,4350,Animal caretakers,0.0025108963426189123
+Cameroon,4,158,1555,"Other engineering technologists and technicians, except drafters",0.002495104541721938
+Cameroon,8,156,0565,Compliance officers,0.0024635209399279895
+Cameroon,4,153,0051,Marketing managers,0.0024161455372370667
+Cameroon,6,150,0110,Computer and information systems managers,0.002368770134546144
+Cameroon,4,143,1105,Network and computer systems administrators,0.002258227528267324
+Cameroon,5,142,6355,Electricians,0.0022424357273703494
+Cameroon,8,138,3545,Miscellaneous health technologists and technicians,0.002179268523782452
+Cameroon,3,137,4640,Residential advisors,0.0021634767228854777
+Cameroon,4,136,0220,Construction managers,0.0021476849219885037
+Cameroon,4,134,0650,Training and development specialists,0.002116101320194555
+Cameroon,2,133,2025,Other community and social service specialists,0.0021003095192975805
+Cameroon,2,132,4140,Dishwashers,0.0020845177184006065
+Cameroon,1,130,5300,"Hotel, motel, and resort desk clerks",0.0020529341166066577
+Cameroon,4,129,7800,Bakers,0.0020371423157096837
+Cameroon,4,127,7340,"Maintenance and repair workers, general",0.002005558713915735
+Cameroon,4,126,4055,Fast food and counter workers,0.001989766913018761
+Cameroon,4,125,3110,Physician assistants,0.0019739751121217865
+Cameroon,2,124,1350,Chemical engineers,0.001958183311224812
+Cameroon,5,121,4710,First-line supervisors of non-retail sales workers,0.0019108079085338892
+Cameroon,3,117,7840,Food batchmakers,0.001847640704945992
+Cameroon,2,116,3870,Police officers,0.0018318489040490178
+Cameroon,2,116,5160,Tellers,0.0018318489040490178
+Cameroon,1,112,1340,Biomedical and agricultural engineers,0.0017686817004611206
+Cameroon,3,109,1360,Civil engineers,0.0017213062977701977
+Cameroon,6,106,0020,General and operations managers,0.001673930895079275
+Cameroon,3,106,2330,Special education teachers,0.001673930895079275
+Cameroon,2,104,1320,Aerospace engineers,0.0016423472932853263
+Cameroon,6,101,0420,Social and community service managers,0.0015949718905944033
+Cameroon,3,101,7315,"Heating, air conditioning, and refrigeration mechanics and installers",0.0015949718905944033
+Cameroon,1,99,0137,Training and development managers,0.0015633882888004549
+Cameroon,3,99,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",0.0015633882888004549
+Cameroon,2,95,1825,Other psychologists,0.0015002210852125576
+Cameroon,1,94,3605,Orderlies and psychiatric aides,0.0014844292843155834
+Cameroon,3,93,2012,Healthcare social workers,0.001468637483418609
+Cameroon,6,93,7010,"Computer, automated teller, and office machine repairers",0.001468637483418609
+Cameroon,2,92,0540,"Claims adjusters, appraisers, examiners, and investigators",0.0014528456825216348
+Cameroon,4,91,9150,"Motor vehicle operators, all other",0.0014370538816246604
+Cameroon,3,88,2002,"Educational, guidance, and career counselors and advisors",0.0013896784789337376
+Cameroon,2,88,3160,Physical therapists,0.0013896784789337376
+Cameroon,3,87,1920,Chemical technicians,0.0013738866780367634
+Cameroon,3,86,0530,"Purchasing agents, except wholesale, retail, and farm products",0.001358094877139789
+Cameroon,2,86,1031,Web developers,0.001358094877139789
+Cameroon,3,85,1720,Chemists and materials scientists,0.0013423030762428148
+Cameroon,2,83,5600,"Production, planning, and expediting clerks",0.0013107194744488662
+Cameroon,3,82,6305,Construction equipment operators,0.001294927673551892
+Cameroon,5,82,7200,Automotive service technicians and mechanics,0.001294927673551892
+Cameroon,4,81,0845,Financial and investment analysts,0.0012791358726549175
+Cameroon,5,81,2350,Tutors,0.0012791358726549175
+Cameroon,4,81,3323,Radiologic technologists and technicians,0.0012791358726549175
+Cameroon,3,79,0140,Industrial production managers,0.001247552270860969
+Cameroon,2,75,3245,Other therapists,0.001184385067273072
+Cameroon,1,75,8830,Photographic process workers and processing machine operators,0.001184385067273072
+Cameroon,1,74,6600,"Helpers, construction trades",0.0011685932663760975
+Cameroon,1,70,9365,Transportation service attendants,0.0011054260627882003
+Cameroon,1,68,0900,Financial examiners,0.0010738424609942519
+Cameroon,2,68,3740,Firefighters,0.0010738424609942519
+Cameroon,2,67,3220,Respiratory therapists,0.0010580506600972775
+Cameroon,2,67,5610,"Shipping, receiving, and inventory clerks",0.0010580506600972775
+Cameroon,2,66,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",0.0010422588592003033
+Cameroon,2,65,1430,"Industrial engineers, including health and safety",0.0010264670583033288
+Cameroon,2,63,7000,"First-line supervisors of mechanics, installers, and repairers",9.948834565093804e-4
+Cameroon,2,63,8225,Other metal workers and plastic workers,9.948834565093804e-4
+Cameroon,2,62,7855,"Food processing workers, all other",9.79091655612406e-4
+Cameroon,1,61,4655,"Personal care and service workers, all other",9.632998547154317e-4
+Cameroon,3,59,6260,Construction laborers,9.317162529214832e-4
+Cameroon,3,55,0850,Personal financial advisors,8.68549049333586e-4
+Cameroon,2,55,5420,Other information and records clerks,8.68549049333586e-4
+Cameroon,3,53,7210,Bus and truck mechanics and diesel engine specialists,8.369654475396375e-4
+Cameroon,2,52,0940,Tax preparers,8.211736466426632e-4
+Cameroon,1,52,1900,Agricultural and food science technicians,8.211736466426632e-4
+Cameroon,3,52,3655,Other healthcare support workers,8.211736466426632e-4
+Cameroon,1,50,7320,Home appliance repairers,7.895900448487145e-4
+Cameroon,3,49,3649,Phlebotomists,7.737982439517402e-4
+Cameroon,3,49,4251,Landscaping and groundskeeping workers,7.737982439517402e-4
+Cameroon,3,48,1106,Computer network architects,7.580064430547659e-4
+Cameroon,2,48,7700,First-line supervisors of production and operating workers,7.580064430547659e-4
+Cameroon,1,46,1460,Mechanical engineers,7.264228412608174e-4
+Cameroon,3,46,2145,Paralegals and legal assistants,7.264228412608174e-4
+Cameroon,1,46,2640,Other designers,7.264228412608174e-4
+Cameroon,2,45,3725,"Miscellaneous first-line supervisors, protective service workers",7.106310403638431e-4
+Cameroon,1,44,1310,"Surveyors, cartographers, and photogrammetrists",6.948392394668688e-4
+Cameroon,2,44,1610,Biological scientists,6.948392394668688e-4
+Cameroon,1,43,0960,Other financial specialists,6.790474385698945e-4
+Cameroon,2,42,2700,Actors,6.632556376729202e-4
+Cameroon,2,42,3645,Medical assistants,6.632556376729202e-4
+Cameroon,1,41,2435,Librarians and media collections specialists,6.47463836775946e-4
+Cameroon,1,41,2755,"Disc jockeys, except radio",6.47463836775946e-4
+Cameroon,2,41,8350,"Tailors, dressmakers, and sewers",6.47463836775946e-4
+Cameroon,2,40,0101,Administrative services managers,6.316720358789717e-4
+Cameroon,2,40,0360,Natural sciences managers,6.316720358789717e-4
+Cameroon,1,40,7120,Electronic home entertainment equipment installers and repairers,6.316720358789717e-4
+Cameroon,2,39,9121,"Bus drivers, school",6.158802349819974e-4
+Cameroon,1,37,5710,Executive secretaries and executive administrative assistants,5.842966331880488e-4
+Cameroon,2,36,1800,Economists,5.685048322910744e-4
+Cameroon,1,36,3324,Magnetic resonance imaging technologists,5.685048322910744e-4
+Cameroon,2,36,8610,Stationary engineers and boiler operators,5.685048322910744e-4
+Cameroon,1,35,8300,Laundry and dry-cleaning workers,5.527130313941001e-4
+Cameroon,1,34,3700,First-line supervisors of correctional officers,5.369212304971259e-4
+Cameroon,1,34,8810,Painting workers,5.369212304971259e-4
+Cameroon,3,33,4130,Dining room and cafeteria attendants and bartender helpers,5.211294296001516e-4
+Cameroon,1,33,5840,Insurance claims and policy processing clerks,5.211294296001516e-4
+Cameroon,1,32,1220,Operations research analysts,5.053376287031773e-4
+Cameroon,1,32,9430,Other transportation workers,5.053376287031773e-4
+Cameroon,2,31,0300,Architectural and engineering managers,4.89545827806203e-4
+Cameroon,1,31,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,4.89545827806203e-4
+Cameroon,1,30,1450,Materials engineers,4.737540269092287e-4
+Cameroon,1,30,1551,Electrical and electronic engineering technologists and technicians,4.737540269092287e-4
+Cameroon,1,30,3910,Private detectives and investigators,4.737540269092287e-4
+Cameroon,1,30,5850,"Mail clerks and mail machine operators, except postal service",4.737540269092287e-4
+Cameroon,1,30,7020,Radio and telecommunications equipment installers and repairers,4.737540269092287e-4
+Cameroon,2,30,9005,Supervisors of transportation and material moving workers,4.737540269092287e-4
+Cameroon,2,29,0520,"Wholesale and retail buyers, except farm products",4.5796222601225445e-4
+Cameroon,1,29,3423,Surgical technologists,4.5796222601225445e-4
+Cameroon,2,29,7140,Aircraft mechanics and service technicians,4.5796222601225445e-4
+Cameroon,1,28,0340,Lodging managers,4.4217042511528014e-4
+Cameroon,2,28,2770,"Entertainers and performers, sports and related workers, all other",4.4217042511528014e-4
+Cameroon,1,28,4820,"Securities, commodities, and financial services sales agents",4.4217042511528014e-4
+Cameroon,1,28,9800,Military officer special and tactical operations leaders,4.4217042511528014e-4
+Cameroon,2,27,2015,Probation officers and correctional treatment specialists,4.2637862421830583e-4
+Cameroon,1,27,2861,Interpreters and translators,4.2637862421830583e-4
+Cameroon,1,27,3620,Physical therapist assistants and aides,4.2637862421830583e-4
+Cameroon,2,26,2600,Artists and related workers,4.105868233213316e-4
+Cameroon,1,26,4530,"Baggage porters, bellhops, and concierges",4.105868233213316e-4
+Cameroon,2,26,5550,Postal service mail carriers,4.105868233213316e-4
+Cameroon,1,24,0160,"Transportation, storage, and distribution managers",3.7900322152738296e-4
+Cameroon,1,24,3321,Cardiovascular technologists and technicians,3.7900322152738296e-4
+Cameroon,2,23,2710,Producers and directors,3.632114206304087e-4
+Cameroon,1,23,3150,Occupational therapists,3.632114206304087e-4
+Cameroon,2,23,4200,First-line supervisors of housekeeping and janitorial workers,3.632114206304087e-4
+Cameroon,1,23,6825,Surface mining machine operators and earth drillers,3.632114206304087e-4
+Cameroon,1,23,7420,Telecommunications line installers and repairers,3.632114206304087e-4
+Cameroon,1,22,5530,"Meter readers, utilities",3.474196197334344e-4
+Cameroon,1,21,1440,Marine engineers and naval architects,3.316278188364601e-4
+Cameroon,1,21,2400,"Archivists, curators, and museum technicians",3.316278188364601e-4
+Cameroon,2,21,3401,Emergency medical technicians,3.316278188364601e-4
+Cameroon,1,21,8640,"Chemical processing machine setters, operators, and tenders",3.316278188364601e-4
+Cameroon,1,21,8710,Cutting workers,3.316278188364601e-4
+Cameroon,1,21,9141,Shuttle drivers and chauffeurs,3.316278188364601e-4
+Cameroon,2,20,1005,Computer and information research scientists,3.1583601793948584e-4
+Cameroon,1,20,2752,Musicians and singers,3.1583601793948584e-4
+Cameroon,2,20,2865,"Media and communication workers, all other",3.1583601793948584e-4
+Cameroon,1,20,3640,Dental assistants,3.1583601793948584e-4
+Cameroon,1,20,5330,Loan interviewers and clerks,3.1583601793948584e-4
+Cameroon,1,20,6400,Insulation workers,3.1583601793948584e-4
+Cameroon,1,19,0735,Market research analysts and marketing specialists,3.0004421704251153e-4
+Cameroon,1,19,1745,"Environmental scientists and specialists, including health",3.0004421704251153e-4
+Cameroon,1,19,2830,Editors,3.0004421704251153e-4
+Cameroon,2,19,5100,Bill and account collectors,3.0004421704251153e-4
+Cameroon,1,18,4435,Other entertainment attendants and related workers,2.842524161455372e-4
+Cameroon,1,17,0136,Human resources managers,2.6846061524856297e-4
+Cameroon,2,17,3960,Other protective service workers,2.6846061524856297e-4
+Cameroon,1,17,4920,Real estate brokers and sales agents,2.6846061524856297e-4
+Cameroon,1,16,2825,Public relations specialists,2.5266881435158866e-4
+Cameroon,1,16,3270,"Healthcare diagnosing or treating practitioners, all other",2.5266881435158866e-4
+Cameroon,1,16,4040,Bartenders,2.5266881435158866e-4
+Cameroon,1,16,4621,Exercise trainers and group fitness instructors,2.5266881435158866e-4
+Cameroon,1,16,5010,"Switchboard operators, including answering service",2.5266881435158866e-4
+Cameroon,1,16,5110,Billing and posting clerks,2.5266881435158866e-4
+Cameroon,1,15,0410,"Property, real estate, and community association managers",2.3687701345461435e-4
+Cameroon,1,15,0425,Emergency management directors,2.3687701345461435e-4
+Cameroon,1,15,0725,"Meeting, convention, and event planners",2.3687701345461435e-4
+Cameroon,1,15,3424,Veterinary technologists and technicians,2.3687701345461435e-4
+Cameroon,1,15,3940,Crossing guards and flaggers,2.3687701345461435e-4
+Cameroon,1,15,5810,Data entry keyers,2.3687701345461435e-4
+Cameroon,1,15,5900,"Office machine operators, except computer",2.3687701345461435e-4
+Cameroon,1,15,7720,"Electrical, electronics, and electromechanical assemblers",2.3687701345461435e-4
+Cameroon,1,14,1840,Urban and regional planners,2.2108521255764007e-4
+Cameroon,1,14,2060,"Religious workers, all other",2.2108521255764007e-4
+Cameroon,1,14,5260,File clerks,2.2108521255764007e-4
+Cameroon,1,14,9810,First-line enlisted military supervisors,2.2108521255764007e-4
+Cameroon,1,13,0860,Insurance underwriters,2.052934116606658e-4
+Cameroon,1,13,1980,Occupational health and safety specialists and technicians,2.052934116606658e-4
+Cameroon,1,13,5920,Statistical assistants,2.052934116606658e-4
+Cameroon,1,13,9050,Flight attendants,2.052934116606658e-4
+Cameroon,2,12,3322,Diagnostic medical sonographers,1.8950161076369148e-4
+Cameroon,1,11,0930,"Tax examiners and collectors, and revenue agents",1.737098098667172e-4
+Cameroon,1,11,2001,Substance abuse and behavioral disorder counselors,1.737098098667172e-4
+Cameroon,1,11,3402,Paramedics,1.737098098667172e-4
+Cameroon,1,11,3648,Veterinary assistants and laboratory animal caretakers,1.737098098667172e-4
+Cameroon,1,11,6530,Structural iron and steel workers,1.737098098667172e-4
+Cameroon,1,10,3820,Detectives and criminal investigators,1.5791800896974292e-4
+Cameroon,1,10,4120,"Food servers, nonrestaurant",1.5791800896974292e-4
+Cameroon,1,9,5310,"Interviewers, except eligibility and loan",1.421262080727686e-4
+Cameroon,1,9,6230,Carpenters,1.421262080727686e-4
+Cameroon,1,9,9240,Railroad conductors and yardmasters,1.421262080727686e-4
+Cameroon,1,8,0600,Cost estimators,1.2633440717579433e-4
+Cameroon,1,7,6200,First-line supervisors of construction trades and extraction workers,1.1054260627882003e-4
+Cameroon,1,6,3520,"Opticians, dispensing",9.475080538184574e-5
+Cameroon,1,4,5560,"Postal service mail sorters, processors, and processing machine operators",6.316720358789716e-5
+Cameroon,1,4,7640,"Other installation, maintenance, and repair workers",6.316720358789716e-5
+Cameroon,1,3,6050,Other agricultural workers,4.737540269092287e-5
+Cameroon,1,3,6730,Highway maintenance workers,4.737540269092287e-5
+Cameroon,1,2,7100,"Other electrical and electronic equipment mechanics, installers, and repairers",3.158360179394858e-5
+Cameroon,1,1,2721,Athletes and sports competitors,1.579180089697429e-5
+Cameroon,1,1,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1.579180089697429e-5

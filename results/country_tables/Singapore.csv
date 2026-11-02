@@ -1,257 +1,257 @@
-country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
-Singapore,1992,37586,1111,22192,0440,Other managers,62,1546,0.0696647440519106
-Singapore,1992,37586,1111,22192,1021,Software developers,58,1066,0.04803532804614275
-Singapore,1992,37586,1111,22192,2205,Postsecondary teachers,60,995,0.04483597692862293
-Singapore,1992,37586,1111,22192,0800,Accountants and auditors,29,668,0.03010093727469358
-Singapore,1992,37586,1111,22192,0120,Financial managers,27,512,0.023071377072819033
-Singapore,1992,37586,1111,22192,0010,Chief executives and legislators,22,491,0.02212509012256669
-Singapore,1992,37586,1111,22192,1010,Computer programmers,11,464,0.02090843547224225
-Singapore,1992,37586,1111,22192,0051,Marketing managers,17,426,0.01919610670511896
-Singapore,1992,37586,1111,22192,0705,Project management specialists,11,368,0.01658255227108868
-Singapore,1992,37586,1111,22192,1360,Civil engineers,12,358,0.016131939437635183
-Singapore,1992,37586,1111,22192,5740,"Secretaries and administrative assistants, except legal, medical, and executive",15,349,0.015726387887527036
-Singapore,1992,37586,1111,22192,0710,Management analysts,20,328,0.014780100937274693
-Singapore,1992,37586,1111,22192,4720,Cashiers,20,308,0.0138788752703677
-Singapore,1992,37586,1111,22192,0850,Personal financial advisors,9,299,0.013473323720259552
-Singapore,1992,37586,1111,22192,2310,Elementary and middle school teachers,11,289,0.013022710886806056
-Singapore,1992,37586,1111,22192,0020,General and operations managers,14,268,0.012076423936553712
-Singapore,1992,37586,1111,22192,2360,Other teachers and instructors,11,268,0.012076423936553712
-Singapore,1992,37586,1111,22192,3255,Registered nurses,16,262,0.011806056236481614
-Singapore,1992,37586,1111,22192,1760,"Physical scientists, all other",16,260,0.011715933669790915
-Singapore,1992,37586,1111,22192,0110,Computer and information systems managers,14,254,0.011445565969718817
-Singapore,1992,37586,1111,22192,0750,"Business operations specialists, all other",8,245,0.01104001441961067
-Singapore,1992,37586,1111,22192,2545,Teaching assistants,16,245,0.01104001441961067
-Singapore,1992,37586,1111,22192,1530,Other engineers,16,242,0.010904830569574621
-Singapore,1992,37586,1111,22192,4760,Retail salespersons,11,230,0.010364095169430425
-Singapore,1992,37586,1111,22192,0735,Market research analysts and marketing specialists,8,215,0.00968817591925018
-Singapore,1992,37586,1111,22192,3090,Physicians,14,204,0.009192501802451333
-Singapore,1992,37586,1111,22192,2100,"Lawyers, and judges, magistrates, and other judicial workers",15,197,0.008877072819033886
-Singapore,1992,37586,1111,22192,1006,Computer systems analysts,9,192,0.008651766402307137
-Singapore,1992,37586,1111,22192,1240,Other mathematical science occupations,15,190,0.008561643835616438
-Singapore,1992,37586,1111,22192,9620,"Laborers and freight, stock, and material movers, hand",9,189,0.008516582552271088
-Singapore,1992,37586,1111,22192,5240,Customer service representatives,10,180,0.008111031002162941
-Singapore,1992,37586,1111,22192,2014,"Social workers, all other",4,178,0.008020908435472242
-Singapore,1992,37586,1111,22192,5600,"Production, planning, and expediting clerks",3,162,0.007299927901946647
-Singapore,1992,37586,1111,22192,5860,"Office clerks, general",8,160,0.007209805335255948
-Singapore,1992,37586,1111,22192,1800,Economists,2,159,0.007164744051910598
-Singapore,1992,37586,1111,22192,1555,"Other engineering technologists and technicians, except drafters",2,155,0.006984498918529199
-Singapore,1992,37586,1111,22192,8740,"Inspectors, testers, sorters, samplers, and weighers",7,154,0.00693943763518385
-Singapore,1992,37586,1111,22192,0420,Social and community service managers,9,151,0.006804253785147801
-Singapore,1992,37586,1111,22192,0300,Architectural and engineering managers,6,145,0.006533886085075703
-Singapore,1992,37586,1111,22192,4110,Waiters and waitresses,4,143,0.006443763518385003
-Singapore,1992,37586,1111,22192,5000,First-line supervisors of office and administrative support workers,7,139,0.0062635183850036046
-Singapore,1992,37586,1111,22192,4920,Real estate brokers and sales agents,4,136,0.0061283345349675555
-Singapore,1992,37586,1111,22192,2555,Other educational instruction and library workers,5,135,0.006083273251622206
-Singapore,1992,37586,1111,22192,3640,Dental assistants,2,133,0.0059931506849315065
-Singapore,1992,37586,1111,22192,4020,Cooks,4,131,0.005903028118240807
-Singapore,1992,37586,1111,22192,9645,Stockers and order fillers,6,130,0.0058579668348954575
-Singapore,1992,37586,1111,22192,0630,Human resources workers,3,126,0.005677721701514059
-Singapore,1992,37586,1111,22192,0845,Financial and investment analysts,7,125,0.005632660418168709
-Singapore,1992,37586,1111,22192,0310,Food service managers,5,124,0.0055875991348233595
-Singapore,1992,37586,1111,22192,5510,Couriers and messengers,3,124,0.0055875991348233595
-Singapore,1992,37586,1111,22192,4700,First-line supervisors of retail sales workers,9,121,0.0054524152847873104
-Singapore,1992,37586,1111,22192,2350,Tutors,6,119,0.005362292718096611
-Singapore,1992,37586,1111,22192,0230,Education and childcare administrators,5,115,0.005182047584715212
-Singapore,1992,37586,1111,22192,1220,Operations research analysts,3,108,0.004866618601297765
-Singapore,1992,37586,1111,22192,2050,"Directors, religious activities and education",2,104,0.004686373467916366
-Singapore,1992,37586,1111,22192,2634,Graphic designers,5,104,0.004686373467916366
-Singapore,1992,37586,1111,22192,0725,"Meeting, convention, and event planners",7,103,0.004641312184571016
-Singapore,1992,37586,1111,22192,1108,"Computer occupations, all other",5,103,0.004641312184571016
-Singapore,1992,37586,1111,22192,5120,"Bookkeeping, accounting, and auditing clerks",8,100,0.004506128334534967
-Singapore,1992,37586,1111,22192,3603,Nursing assistants,3,99,0.004461067051189618
-Singapore,1992,37586,1111,22192,0052,Sales managers,4,98,0.004416005767844268
-Singapore,1992,37586,1111,22192,4810,Insurance sales agents,6,96,0.004325883201153569
-Singapore,1992,37586,1111,22192,5140,Payroll and timekeeping clerks,1,96,0.004325883201153569
-Singapore,1992,37586,1111,22192,1305,"Architects, except landscape and naval",5,93,0.00419069935111752
-Singapore,1992,37586,1111,22192,2600,Artists and related workers,4,93,0.00419069935111752
-Singapore,1992,37586,1111,22192,1410,Electrical and electronics engineers,5,92,0.00414563806777217
-Singapore,1992,37586,1111,22192,5610,"Shipping, receiving, and inventory clerks",5,91,0.00410057678442682
-Singapore,1992,37586,1111,22192,1650,Other life scientists,5,88,0.003965392934390771
-Singapore,1992,37586,1111,22192,1910,Biological technicians,1,86,0.003875270367700072
-Singapore,1992,37586,1111,22192,4820,"Securities, commodities, and financial services sales agents",4,85,0.003830209084354722
-Singapore,1992,37586,1111,22192,1460,Mechanical engineers,5,83,0.003740086517664023
-Singapore,1992,37586,1111,22192,2905,Other media and communication equipment workers,4,82,0.003695025234318673
-Singapore,1992,37586,1111,22192,4850,"Sales representatives, wholesale and manufacturing",6,77,0.003469718817591925
-Singapore,1992,37586,1111,22192,6260,Construction laborers,1,75,0.0033795962509012255
-Singapore,1992,37586,1111,22192,2640,Other designers,4,74,0.003334534967555876
-Singapore,1992,37586,1111,22192,5940,Other office and administrative support workers,6,74,0.003334534967555876
-Singapore,1992,37586,1111,22192,3630,Massage therapists,2,71,0.003199351117519827
-Singapore,1992,37586,1111,22192,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",4,71,0.003199351117519827
-Singapore,1992,37586,1111,22192,1007,Information security analysts,2,70,0.003154289834174477
-Singapore,1992,37586,1111,22192,7200,Automotive service technicians and mechanics,2,70,0.003154289834174477
-Singapore,1992,37586,1111,22192,0220,Construction managers,3,67,0.003019105984138428
-Singapore,1992,37586,1111,22192,0150,Purchasing managers,2,66,0.0029740447007930784
-Singapore,1992,37586,1111,22192,1430,"Industrial engineers, including health and safety",4,65,0.0029289834174477287
-Singapore,1992,37586,1111,22192,2002,"Educational, guidance, and career counselors and advisors",5,65,0.0029289834174477287
-Singapore,1992,37586,1111,22192,8510,Furniture finishers,1,65,0.0029289834174477287
-Singapore,1992,37586,1111,22192,5165,Other financial clerks,3,64,0.002883922134102379
-Singapore,1992,37586,1111,22192,0530,"Purchasing agents, except wholesale, retail, and farm products",5,62,0.0027937995674116797
-Singapore,1992,37586,1111,22192,5310,"Interviewers, except eligibility and loan",1,61,0.00274873828406633
-Singapore,1992,37586,1111,22192,2145,Paralegals and legal assistants,4,60,0.0027036770007209804
-Singapore,1992,37586,1111,22192,3160,Physical therapists,3,60,0.0027036770007209804
-Singapore,1992,37586,1111,22192,9030,Aircraft pilots and flight engineers,3,60,0.0027036770007209804
-Singapore,1992,37586,1111,22192,0410,"Property, real estate, and community association managers",4,58,0.002613554434030281
-Singapore,1992,37586,1111,22192,0940,Tax preparers,3,58,0.002613554434030281
-Singapore,1992,37586,1111,22192,2320,Secondary school teachers,4,58,0.002613554434030281
-Singapore,1992,37586,1111,22192,2830,Editors,4,56,0.0025234318673395817
-Singapore,1992,37586,1111,22192,9050,Flight attendants,2,56,0.0025234318673395817
-Singapore,1992,37586,1111,22192,1970,"Other life, physical, and social science technicians",3,55,0.002478370583994232
-Singapore,1992,37586,1111,22192,3050,Pharmacists,5,55,0.002478370583994232
-Singapore,1992,37586,1111,22192,3602,Personal care aides,5,55,0.002478370583994232
-Singapore,1992,37586,1111,22192,3300,Clinical laboratory technologists and technicians,2,54,0.0024333093006488823
-Singapore,1992,37586,1111,22192,9142,Taxi drivers,2,53,0.0023882480173035327
-Singapore,1992,37586,1111,22192,2040,Clergy,4,52,0.002343186733958183
-Singapore,1992,37586,1111,22192,2635,Interior designers,2,52,0.002343186733958183
-Singapore,1992,37586,1111,22192,4710,First-line supervisors of non-retail sales workers,2,49,0.002208002883922134
-Singapore,1992,37586,1111,22192,2710,Producers and directors,3,48,0.0021629416005767843
-Singapore,1992,37586,1111,22192,0350,Medical and health services managers,4,47,0.0021178803172314346
-Singapore,1992,37586,1111,22192,0960,Other financial specialists,2,46,0.002072819033886085
-Singapore,1992,37586,1111,22192,2631,Commercial and industrial designers,1,46,0.002072819033886085
-Singapore,1992,37586,1111,22192,7150,Automotive body and related repairers,1,45,0.0020277577505407353
-Singapore,1992,37586,1111,22192,4055,Fast food and counter workers,4,44,0.0019826964671953856
-Singapore,1992,37586,1111,22192,4830,Travel agents,2,44,0.0019826964671953856
-Singapore,1992,37586,1111,22192,2861,Interpreters and translators,2,42,0.0018925739005046863
-Singapore,1992,37586,1111,22192,2722,Coaches and scouts,3,41,0.0018475126171593366
-Singapore,1992,37586,1111,22192,4140,Dishwashers,4,41,0.0018475126171593366
-Singapore,1992,37586,1111,22192,4220,Janitors and building cleaners,4,41,0.0018475126171593366
-Singapore,1992,37586,1111,22192,1200,Actuaries,1,40,0.001802451333813987
-Singapore,1992,37586,1111,22192,3645,Medical assistants,3,40,0.001802451333813987
-Singapore,1992,37586,1111,22192,1520,"Petroleum, mining and geological engineers, including mining safety engineers",3,39,0.0017573900504686372
-Singapore,1992,37586,1111,22192,4600,Childcare workers,2,39,0.0017573900504686372
-Singapore,1992,37586,1111,22192,0140,Industrial production managers,2,38,0.0017123287671232876
-Singapore,1992,37586,1111,22192,4621,Exercise trainers and group fitness instructors,3,38,0.0017123287671232876
-Singapore,1992,37586,1111,22192,1065,Database administrators and architects,2,37,0.001667267483777938
-Singapore,1992,37586,1111,22192,2810,"News analysts, reporters, and journalists",3,36,0.0016222062004325882
-Singapore,1992,37586,1111,22192,4655,"Personal care and service workers, all other",2,36,0.0016222062004325882
-Singapore,1992,37586,1111,22192,7700,First-line supervisors of production and operating workers,2,36,0.0016222062004325882
-Singapore,1992,37586,1111,22192,0060,Public relations and fundraising managers,2,35,0.0015771449170872386
-Singapore,1992,37586,1111,22192,3258,"Nurse practitioners, and nurse midwives",2,35,0.0015771449170872386
-Singapore,1992,37586,1111,22192,4230,Maids and housekeeping cleaners,2,35,0.0015771449170872386
-Singapore,1992,37586,1111,22192,8990,"Miscellaneous production workers, including equipment operators and tenders",1,35,0.0015771449170872386
-Singapore,1992,37586,1111,22192,5400,Receptionists and information clerks,2,34,0.0015320836337418889
-Singapore,1992,37586,1111,22192,1750,"Geoscientists and hydrologists, except geographers",2,33,0.0014870223503965392
-Singapore,1992,37586,1111,22192,1825,Other psychologists,2,33,0.0014870223503965392
-Singapore,1992,37586,1111,22192,2060,"Religious workers, all other",2,33,0.0014870223503965392
-Singapore,1992,37586,1111,22192,4521,Manicurists and pedicurists,3,33,0.0014870223503965392
-Singapore,1992,37586,1111,22192,4540,Tour and travel guides,4,33,0.0014870223503965392
-Singapore,1992,37586,1111,22192,5160,Tellers,2,33,0.0014870223503965392
-Singapore,1992,37586,1111,22192,5420,Other information and records clerks,1,33,0.0014870223503965392
-Singapore,1992,37586,1111,22192,0900,Financial examiners,2,32,0.0014419610670511895
-Singapore,1992,37586,1111,22192,2001,Substance abuse and behavioral disorder counselors,1,32,0.0014419610670511895
-Singapore,1992,37586,1111,22192,2862,Court reporters and simultaneous captioners,1,32,0.0014419610670511895
-Singapore,1992,37586,1111,22192,3402,Paramedics,1,32,0.0014419610670511895
-Singapore,1992,37586,1111,22192,3601,Home health aides,3,31,0.0013968997837058399
-Singapore,1992,37586,1111,22192,4030,Food preparation workers,1,31,0.0013968997837058399
-Singapore,1992,37586,1111,22192,4420,"Ushers, lobby attendants, and ticket takers",2,31,0.0013968997837058399
-Singapore,1992,37586,1111,22192,0910,Credit counselors and loan officers,2,30,0.0013518385003604902
-Singapore,1992,37586,1111,22192,2435,Librarians and media collections specialists,1,30,0.0013518385003604902
-Singapore,1992,37586,1111,22192,3930,Security guards and gaming surveillance officers,2,30,0.0013518385003604902
-Singapore,1992,37586,1111,22192,4510,"Hairdressers, hairstylists, and cosmetologists",3,28,0.0012617159336697908
-Singapore,1992,37586,1111,22192,4800,Advertising sales agents,2,27,0.0012166546503244412
-Singapore,1992,37586,1111,22192,4900,"Models, demonstrators, and product promoters",2,27,0.0012166546503244412
-Singapore,1992,37586,1111,22192,9110,"Ambulance drivers and attendants, except emergency medical technicians",1,27,0.0012166546503244412
-Singapore,1992,37586,1111,22192,9122,"Bus drivers, transit and intercity",1,27,0.0012166546503244412
-Singapore,1992,37586,1111,22192,3110,Physician assistants,2,26,0.0011715933669790915
-Singapore,1992,37586,1111,22192,5110,Billing and posting clerks,2,26,0.0011715933669790915
-Singapore,1992,37586,1111,22192,7430,Precision instrument and equipment repairers,1,26,0.0011715933669790915
-Singapore,1992,37586,1111,22192,1050,Computer support specialists,2,25,0.0011265320836337418
-Singapore,1992,37586,1111,22192,5410,Reservation and transportation ticket agents and travel clerks,2,25,0.0011265320836337418
-Singapore,1992,37586,1111,22192,7800,Bakers,2,25,0.0011265320836337418
-Singapore,1992,37586,1111,22192,0101,Administrative services managers,1,24,0.0010814708002883922
-Singapore,1992,37586,1111,22192,0425,Emergency management directors,1,24,0.0010814708002883922
-Singapore,1992,37586,1111,22192,0565,Compliance officers,2,24,0.0010814708002883922
-Singapore,1992,37586,1111,22192,1610,Biological scientists,2,24,0.0010814708002883922
-Singapore,1992,37586,1111,22192,5330,Loan interviewers and clerks,1,23,0.0010364095169430425
-Singapore,1992,37586,1111,22192,8610,Stationary engineers and boiler operators,1,23,0.0010364095169430425
-Singapore,1992,37586,1111,22192,1840,Urban and regional planners,1,22,9.913482335976928e-4
-Singapore,1992,37586,1111,22192,2850,Writers and authors,2,22,9.913482335976928e-4
-Singapore,1992,37586,1111,22192,4040,Bartenders,1,22,9.913482335976928e-4
-Singapore,1992,37586,1111,22192,5810,Data entry keyers,1,22,9.913482335976928e-4
-Singapore,1992,37586,1111,22192,6442,"Plumbers, pipefitters, and steamfitters",1,22,9.913482335976928e-4
-Singapore,1992,37586,1111,22192,1822,School psychologists,1,21,9.462869502523431e-4
-Singapore,1992,37586,1111,22192,2632,Fashion designers,2,21,9.462869502523431e-4
-Singapore,1992,37586,1111,22192,2723,"Umpires, referees, and other sports officials",1,21,9.462869502523431e-4
-Singapore,1992,37586,1111,22192,2751,Music directors and composers,2,21,9.462869502523431e-4
-Singapore,1992,37586,1111,22192,2825,Public relations specialists,1,21,9.462869502523431e-4
-Singapore,1992,37586,1111,22192,3946,School bus monitors,1,21,9.462869502523431e-4
-Singapore,1992,37586,1111,22192,7840,Food batchmakers,1,21,9.462869502523431e-4
-Singapore,1992,37586,1111,22192,9141,Shuttle drivers and chauffeurs,1,21,9.462869502523431e-4
-Singapore,1992,37586,1111,22192,1600,Agricultural and food scientists,1,20,9.012256669069935e-4
-Singapore,1992,37586,1111,22192,2920,"Television, video, and film camera operators and editors",1,20,9.012256669069935e-4
-Singapore,1992,37586,1111,22192,4000,Chefs and head cooks,3,20,9.012256669069935e-4
-Singapore,1992,37586,1111,22192,7640,"Other installation, maintenance, and repair workers",1,20,9.012256669069935e-4
-Singapore,1992,37586,1111,22192,0700,Logisticians,1,19,8.561643835616438e-4
-Singapore,1992,37586,1111,22192,3150,Occupational therapists,1,19,8.561643835616438e-4
-Singapore,1992,37586,1111,22192,3230,Speech-language pathologists,2,19,8.561643835616438e-4
-Singapore,1992,37586,1111,22192,7750,Other assemblers and fabricators,2,19,8.561643835616438e-4
-Singapore,1992,37586,1111,22192,1340,Biomedical and agricultural engineers,2,18,8.111031002162941e-4
-Singapore,1992,37586,1111,22192,3422,Psychiatric technicians,1,18,8.111031002162941e-4
-Singapore,1992,37586,1111,22192,9830,"Military, rank not specified",1,18,8.111031002162941e-4
-Singapore,1992,37586,1111,22192,1310,"Surveyors, cartographers, and photogrammetrists",1,17,7.660418168709444e-4
-Singapore,1992,37586,1111,22192,4640,Residential advisors,2,17,7.660418168709444e-4
-Singapore,1992,37586,1111,22192,7140,Aircraft mechanics and service technicians,1,17,7.660418168709444e-4
-Singapore,1992,37586,1111,22192,0160,"Transportation, storage, and distribution managers",1,16,7.209805335255948e-4
-Singapore,1992,37586,1111,22192,1031,Web developers,1,16,7.209805335255948e-4
-Singapore,1992,37586,1111,22192,2105,Judicial law clerks,1,16,7.209805335255948e-4
-Singapore,1992,37586,1111,22192,4965,"Sales and related workers, all other",1,16,7.209805335255948e-4
-Singapore,1992,37586,1111,22192,0860,Insurance underwriters,1,15,6.759192501802451e-4
-Singapore,1992,37586,1111,22192,9130,Driver/sales workers and truck drivers,2,15,6.759192501802451e-4
-Singapore,1992,37586,1111,22192,0137,Training and development managers,1,14,6.308579668348954e-4
-Singapore,1992,37586,1111,22192,0360,Natural sciences managers,1,14,6.308579668348954e-4
-Singapore,1992,37586,1111,22192,0930,"Tax examiners and collectors, and revenue agents",1,14,6.308579668348954e-4
-Singapore,1992,37586,1111,22192,1860,Other social scientists,1,14,6.308579668348954e-4
-Singapore,1992,37586,1111,22192,2300,Preschool and kindergarten teachers,2,14,6.308579668348954e-4
-Singapore,1992,37586,1111,22192,2440,Library technicians,1,14,6.308579668348954e-4
-Singapore,1992,37586,1111,22192,6200,First-line supervisors of construction trades and extraction workers,1,14,6.308579668348954e-4
-Singapore,1992,37586,1111,22192,8620,Water and wastewater treatment plant and system operators,1,14,6.308579668348954e-4
-Singapore,1992,37586,1111,22192,0135,Compensation and benefits managers,1,13,5.857966834895457e-4
-Singapore,1992,37586,1111,22192,0540,"Claims adjusters, appraisers, examiners, and investigators",1,13,5.857966834895457e-4
-Singapore,1992,37586,1111,22192,0650,Training and development specialists,1,13,5.857966834895457e-4
-Singapore,1992,37586,1111,22192,2180,"Legal support workers, all other",1,13,5.857966834895457e-4
-Singapore,1992,37586,1111,22192,2840,Technical writers,1,13,5.857966834895457e-4
-Singapore,1992,37586,1111,22192,3030,Dietitians and nutritionists,1,13,5.857966834895457e-4
-Singapore,1992,37586,1111,22192,4525,Other personal appearance workers,1,13,5.857966834895457e-4
-Singapore,1992,37586,1111,22192,5710,Executive secretaries and executive administrative assistants,2,13,5.857966834895457e-4
-Singapore,1992,37586,1111,22192,1005,Computer and information research scientists,1,12,5.407354001441961e-4
-Singapore,1992,37586,1111,22192,1320,Aerospace engineers,1,12,5.407354001441961e-4
-Singapore,1992,37586,1111,22192,3040,Optometrists,1,12,5.407354001441961e-4
-Singapore,1992,37586,1111,22192,3421,Pharmacy technicians,2,12,5.407354001441961e-4
-Singapore,1992,37586,1111,22192,3646,Medical transcriptionists,1,12,5.407354001441961e-4
-Singapore,1992,37586,1111,22192,4350,Animal caretakers,1,12,5.407354001441961e-4
-Singapore,1992,37586,1111,22192,1720,Chemists and materials scientists,1,11,4.956741167988464e-4
-Singapore,1992,37586,1111,22192,3010,Dentists,1,11,4.956741167988464e-4
-Singapore,1992,37586,1111,22192,3545,Miscellaneous health technologists and technicians,1,11,4.956741167988464e-4
-Singapore,1992,37586,1111,22192,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",1,11,4.956741167988464e-4
-Singapore,1992,37586,1111,22192,4330,Supervisors of personal care and service workers,1,11,4.956741167988464e-4
-Singapore,1992,37586,1111,22192,5260,File clerks,1,11,4.956741167988464e-4
-Singapore,1992,37586,1111,22192,1700,Astronomers and physicists,1,10,4.5061283345349673e-4
-Singapore,1992,37586,1111,22192,2016,Social and human service assistants,1,10,4.5061283345349673e-4
-Singapore,1992,37586,1111,22192,2910,Photographers,1,10,4.5061283345349673e-4
-Singapore,1992,37586,1111,22192,7855,"Food processing workers, all other",1,10,4.5061283345349673e-4
-Singapore,1992,37586,1111,22192,8650,"Crushing, grinding, polishing, mixing, and blending workers",1,10,4.5061283345349673e-4
-Singapore,1992,37586,1111,22192,9630,Machine feeders and offbearers,1,10,4.5061283345349673e-4
-Singapore,1992,37586,1111,22192,1032,Web and digital interface designers,1,9,4.0555155010814706e-4
-Singapore,1992,37586,1111,22192,3270,"Healthcare diagnosing or treating practitioners, all other",1,9,4.0555155010814706e-4
-Singapore,1992,37586,1111,22192,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,9,4.0555155010814706e-4
-Singapore,1992,37586,1111,22192,5730,Medical secretaries and administrative assistants,1,9,4.0555155010814706e-4
-Singapore,1992,37586,1111,22192,0205,"Farmers, ranchers, and other agricultural managers",3,8,3.604902667627974e-4
-Singapore,1992,37586,1111,22192,0726,Fundraisers,1,8,3.604902667627974e-4
-Singapore,1992,37586,1111,22192,0810,Property appraisers and assessors,1,8,3.604902667627974e-4
-Singapore,1992,37586,1111,22192,2025,Other community and social service specialists,1,8,3.604902667627974e-4
-Singapore,1992,37586,1111,22192,5230,"Credit authorizers, checkers, and clerks",1,8,3.604902667627974e-4
-Singapore,1992,37586,1111,22192,5840,Insurance claims and policy processing clerks,1,8,3.604902667627974e-4
-Singapore,1992,37586,1111,22192,8320,Sewing machine operators,1,8,3.604902667627974e-4
-Singapore,1992,37586,1111,22192,8730,"Furnace, kiln, oven, drier, and kettle operators and tenders",1,8,3.604902667627974e-4
-Singapore,1992,37586,1111,22192,2012,Healthcare social workers,1,7,3.154289834174477e-4
-Singapore,1992,37586,1111,22192,2330,Special education teachers,1,7,3.154289834174477e-4
-Singapore,1992,37586,1111,22192,4130,Dining room and cafeteria attendants and bartender helpers,1,7,3.154289834174477e-4
-Singapore,1992,37586,1111,22192,9600,Industrial truck and tractor operators,1,7,3.154289834174477e-4
-Singapore,1992,37586,1111,22192,2006,"Counselors, all other",1,6,2.7036770007209804e-4
-Singapore,1992,37586,1111,22192,4622,Recreation workers,1,6,2.7036770007209804e-4
-Singapore,1992,37586,1111,22192,8030,Machinists,1,6,2.7036770007209804e-4
-Singapore,1992,37586,1111,22192,1350,Chemical engineers,1,5,2.2530641672674837e-4
-Singapore,1992,37586,1111,22192,1450,Materials engineers,1,4,1.802451333813987e-4
-Singapore,1992,37586,1111,22192,1745,"Environmental scientists and specialists, including health",1,4,1.802451333813987e-4
-Singapore,1992,37586,1111,22192,3250,Veterinarians,1,4,1.802451333813987e-4
-Singapore,1992,37586,1111,22192,5250,"Eligibility interviewers, government programs",1,4,1.802451333813987e-4
-Singapore,1992,37586,1111,22192,5360,"Human resources assistants, except payroll and timekeeping",1,2,9.012256669069935e-5
+country,n_workers,workers,occ,occ_title,occ_share
+Singapore,62,1546,0440,Other managers,0.0696647440519106
+Singapore,58,1066,1021,Software developers,0.04803532804614275
+Singapore,60,995,2205,Postsecondary teachers,0.04483597692862293
+Singapore,29,668,0800,Accountants and auditors,0.03010093727469358
+Singapore,27,512,0120,Financial managers,0.023071377072819033
+Singapore,22,491,0010,Chief executives and legislators,0.02212509012256669
+Singapore,11,464,1010,Computer programmers,0.02090843547224225
+Singapore,17,426,0051,Marketing managers,0.01919610670511896
+Singapore,11,368,0705,Project management specialists,0.01658255227108868
+Singapore,12,358,1360,Civil engineers,0.016131939437635183
+Singapore,15,349,5740,"Secretaries and administrative assistants, except legal, medical, and executive",0.015726387887527036
+Singapore,20,328,0710,Management analysts,0.014780100937274693
+Singapore,20,308,4720,Cashiers,0.0138788752703677
+Singapore,9,299,0850,Personal financial advisors,0.013473323720259552
+Singapore,11,289,2310,Elementary and middle school teachers,0.013022710886806056
+Singapore,14,268,0020,General and operations managers,0.012076423936553712
+Singapore,11,268,2360,Other teachers and instructors,0.012076423936553712
+Singapore,16,262,3255,Registered nurses,0.011806056236481614
+Singapore,16,260,1760,"Physical scientists, all other",0.011715933669790915
+Singapore,14,254,0110,Computer and information systems managers,0.011445565969718817
+Singapore,8,245,0750,"Business operations specialists, all other",0.01104001441961067
+Singapore,16,245,2545,Teaching assistants,0.01104001441961067
+Singapore,16,242,1530,Other engineers,0.010904830569574621
+Singapore,11,230,4760,Retail salespersons,0.010364095169430425
+Singapore,8,215,0735,Market research analysts and marketing specialists,0.00968817591925018
+Singapore,14,204,3090,Physicians,0.009192501802451333
+Singapore,15,197,2100,"Lawyers, and judges, magistrates, and other judicial workers",0.008877072819033886
+Singapore,9,192,1006,Computer systems analysts,0.008651766402307137
+Singapore,15,190,1240,Other mathematical science occupations,0.008561643835616438
+Singapore,9,189,9620,"Laborers and freight, stock, and material movers, hand",0.008516582552271088
+Singapore,10,180,5240,Customer service representatives,0.008111031002162941
+Singapore,4,178,2014,"Social workers, all other",0.008020908435472242
+Singapore,3,162,5600,"Production, planning, and expediting clerks",0.007299927901946647
+Singapore,8,160,5860,"Office clerks, general",0.007209805335255948
+Singapore,2,159,1800,Economists,0.007164744051910598
+Singapore,2,155,1555,"Other engineering technologists and technicians, except drafters",0.006984498918529199
+Singapore,7,154,8740,"Inspectors, testers, sorters, samplers, and weighers",0.00693943763518385
+Singapore,9,151,0420,Social and community service managers,0.006804253785147801
+Singapore,6,145,0300,Architectural and engineering managers,0.006533886085075703
+Singapore,4,143,4110,Waiters and waitresses,0.006443763518385003
+Singapore,7,139,5000,First-line supervisors of office and administrative support workers,0.0062635183850036046
+Singapore,4,136,4920,Real estate brokers and sales agents,0.0061283345349675555
+Singapore,5,135,2555,Other educational instruction and library workers,0.006083273251622206
+Singapore,2,133,3640,Dental assistants,0.0059931506849315065
+Singapore,4,131,4020,Cooks,0.005903028118240807
+Singapore,6,130,9645,Stockers and order fillers,0.0058579668348954575
+Singapore,3,126,0630,Human resources workers,0.005677721701514059
+Singapore,7,125,0845,Financial and investment analysts,0.005632660418168709
+Singapore,5,124,0310,Food service managers,0.0055875991348233595
+Singapore,3,124,5510,Couriers and messengers,0.0055875991348233595
+Singapore,9,121,4700,First-line supervisors of retail sales workers,0.0054524152847873104
+Singapore,6,119,2350,Tutors,0.005362292718096611
+Singapore,5,115,0230,Education and childcare administrators,0.005182047584715212
+Singapore,3,108,1220,Operations research analysts,0.004866618601297765
+Singapore,2,104,2050,"Directors, religious activities and education",0.004686373467916366
+Singapore,5,104,2634,Graphic designers,0.004686373467916366
+Singapore,7,103,0725,"Meeting, convention, and event planners",0.004641312184571016
+Singapore,5,103,1108,"Computer occupations, all other",0.004641312184571016
+Singapore,8,100,5120,"Bookkeeping, accounting, and auditing clerks",0.004506128334534967
+Singapore,3,99,3603,Nursing assistants,0.004461067051189618
+Singapore,4,98,0052,Sales managers,0.004416005767844268
+Singapore,6,96,4810,Insurance sales agents,0.004325883201153569
+Singapore,1,96,5140,Payroll and timekeeping clerks,0.004325883201153569
+Singapore,5,93,1305,"Architects, except landscape and naval",0.00419069935111752
+Singapore,4,93,2600,Artists and related workers,0.00419069935111752
+Singapore,5,92,1410,Electrical and electronics engineers,0.00414563806777217
+Singapore,5,91,5610,"Shipping, receiving, and inventory clerks",0.00410057678442682
+Singapore,5,88,1650,Other life scientists,0.003965392934390771
+Singapore,1,86,1910,Biological technicians,0.003875270367700072
+Singapore,4,85,4820,"Securities, commodities, and financial services sales agents",0.003830209084354722
+Singapore,5,83,1460,Mechanical engineers,0.003740086517664023
+Singapore,4,82,2905,Other media and communication equipment workers,0.003695025234318673
+Singapore,6,77,4850,"Sales representatives, wholesale and manufacturing",0.003469718817591925
+Singapore,1,75,6260,Construction laborers,0.0033795962509012255
+Singapore,4,74,2640,Other designers,0.003334534967555876
+Singapore,6,74,5940,Other office and administrative support workers,0.003334534967555876
+Singapore,2,71,3630,Massage therapists,0.003199351117519827
+Singapore,4,71,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",0.003199351117519827
+Singapore,2,70,1007,Information security analysts,0.003154289834174477
+Singapore,2,70,7200,Automotive service technicians and mechanics,0.003154289834174477
+Singapore,3,67,0220,Construction managers,0.003019105984138428
+Singapore,2,66,0150,Purchasing managers,0.0029740447007930784
+Singapore,4,65,1430,"Industrial engineers, including health and safety",0.0029289834174477287
+Singapore,5,65,2002,"Educational, guidance, and career counselors and advisors",0.0029289834174477287
+Singapore,1,65,8510,Furniture finishers,0.0029289834174477287
+Singapore,3,64,5165,Other financial clerks,0.002883922134102379
+Singapore,5,62,0530,"Purchasing agents, except wholesale, retail, and farm products",0.0027937995674116797
+Singapore,1,61,5310,"Interviewers, except eligibility and loan",0.00274873828406633
+Singapore,4,60,2145,Paralegals and legal assistants,0.0027036770007209804
+Singapore,3,60,3160,Physical therapists,0.0027036770007209804
+Singapore,3,60,9030,Aircraft pilots and flight engineers,0.0027036770007209804
+Singapore,4,58,0410,"Property, real estate, and community association managers",0.002613554434030281
+Singapore,3,58,0940,Tax preparers,0.002613554434030281
+Singapore,4,58,2320,Secondary school teachers,0.002613554434030281
+Singapore,4,56,2830,Editors,0.0025234318673395817
+Singapore,2,56,9050,Flight attendants,0.0025234318673395817
+Singapore,3,55,1970,"Other life, physical, and social science technicians",0.002478370583994232
+Singapore,5,55,3050,Pharmacists,0.002478370583994232
+Singapore,5,55,3602,Personal care aides,0.002478370583994232
+Singapore,2,54,3300,Clinical laboratory technologists and technicians,0.0024333093006488823
+Singapore,2,53,9142,Taxi drivers,0.0023882480173035327
+Singapore,4,52,2040,Clergy,0.002343186733958183
+Singapore,2,52,2635,Interior designers,0.002343186733958183
+Singapore,2,49,4710,First-line supervisors of non-retail sales workers,0.002208002883922134
+Singapore,3,48,2710,Producers and directors,0.0021629416005767843
+Singapore,4,47,0350,Medical and health services managers,0.0021178803172314346
+Singapore,2,46,0960,Other financial specialists,0.002072819033886085
+Singapore,1,46,2631,Commercial and industrial designers,0.002072819033886085
+Singapore,1,45,7150,Automotive body and related repairers,0.0020277577505407353
+Singapore,4,44,4055,Fast food and counter workers,0.0019826964671953856
+Singapore,2,44,4830,Travel agents,0.0019826964671953856
+Singapore,2,42,2861,Interpreters and translators,0.0018925739005046863
+Singapore,3,41,2722,Coaches and scouts,0.0018475126171593366
+Singapore,4,41,4140,Dishwashers,0.0018475126171593366
+Singapore,4,41,4220,Janitors and building cleaners,0.0018475126171593366
+Singapore,1,40,1200,Actuaries,0.001802451333813987
+Singapore,3,40,3645,Medical assistants,0.001802451333813987
+Singapore,3,39,1520,"Petroleum, mining and geological engineers, including mining safety engineers",0.0017573900504686372
+Singapore,2,39,4600,Childcare workers,0.0017573900504686372
+Singapore,2,38,0140,Industrial production managers,0.0017123287671232876
+Singapore,3,38,4621,Exercise trainers and group fitness instructors,0.0017123287671232876
+Singapore,2,37,1065,Database administrators and architects,0.001667267483777938
+Singapore,3,36,2810,"News analysts, reporters, and journalists",0.0016222062004325882
+Singapore,2,36,4655,"Personal care and service workers, all other",0.0016222062004325882
+Singapore,2,36,7700,First-line supervisors of production and operating workers,0.0016222062004325882
+Singapore,2,35,0060,Public relations and fundraising managers,0.0015771449170872386
+Singapore,2,35,3258,"Nurse practitioners, and nurse midwives",0.0015771449170872386
+Singapore,2,35,4230,Maids and housekeeping cleaners,0.0015771449170872386
+Singapore,1,35,8990,"Miscellaneous production workers, including equipment operators and tenders",0.0015771449170872386
+Singapore,2,34,5400,Receptionists and information clerks,0.0015320836337418889
+Singapore,2,33,1750,"Geoscientists and hydrologists, except geographers",0.0014870223503965392
+Singapore,2,33,1825,Other psychologists,0.0014870223503965392
+Singapore,2,33,2060,"Religious workers, all other",0.0014870223503965392
+Singapore,3,33,4521,Manicurists and pedicurists,0.0014870223503965392
+Singapore,4,33,4540,Tour and travel guides,0.0014870223503965392
+Singapore,2,33,5160,Tellers,0.0014870223503965392
+Singapore,1,33,5420,Other information and records clerks,0.0014870223503965392
+Singapore,2,32,0900,Financial examiners,0.0014419610670511895
+Singapore,1,32,2001,Substance abuse and behavioral disorder counselors,0.0014419610670511895
+Singapore,1,32,2862,Court reporters and simultaneous captioners,0.0014419610670511895
+Singapore,1,32,3402,Paramedics,0.0014419610670511895
+Singapore,3,31,3601,Home health aides,0.0013968997837058399
+Singapore,1,31,4030,Food preparation workers,0.0013968997837058399
+Singapore,2,31,4420,"Ushers, lobby attendants, and ticket takers",0.0013968997837058399
+Singapore,2,30,0910,Credit counselors and loan officers,0.0013518385003604902
+Singapore,1,30,2435,Librarians and media collections specialists,0.0013518385003604902
+Singapore,2,30,3930,Security guards and gaming surveillance officers,0.0013518385003604902
+Singapore,3,28,4510,"Hairdressers, hairstylists, and cosmetologists",0.0012617159336697908
+Singapore,2,27,4800,Advertising sales agents,0.0012166546503244412
+Singapore,2,27,4900,"Models, demonstrators, and product promoters",0.0012166546503244412
+Singapore,1,27,9110,"Ambulance drivers and attendants, except emergency medical technicians",0.0012166546503244412
+Singapore,1,27,9122,"Bus drivers, transit and intercity",0.0012166546503244412
+Singapore,2,26,3110,Physician assistants,0.0011715933669790915
+Singapore,2,26,5110,Billing and posting clerks,0.0011715933669790915
+Singapore,1,26,7430,Precision instrument and equipment repairers,0.0011715933669790915
+Singapore,2,25,1050,Computer support specialists,0.0011265320836337418
+Singapore,2,25,5410,Reservation and transportation ticket agents and travel clerks,0.0011265320836337418
+Singapore,2,25,7800,Bakers,0.0011265320836337418
+Singapore,1,24,0101,Administrative services managers,0.0010814708002883922
+Singapore,1,24,0425,Emergency management directors,0.0010814708002883922
+Singapore,2,24,0565,Compliance officers,0.0010814708002883922
+Singapore,2,24,1610,Biological scientists,0.0010814708002883922
+Singapore,1,23,5330,Loan interviewers and clerks,0.0010364095169430425
+Singapore,1,23,8610,Stationary engineers and boiler operators,0.0010364095169430425
+Singapore,1,22,1840,Urban and regional planners,9.913482335976928e-4
+Singapore,2,22,2850,Writers and authors,9.913482335976928e-4
+Singapore,1,22,4040,Bartenders,9.913482335976928e-4
+Singapore,1,22,5810,Data entry keyers,9.913482335976928e-4
+Singapore,1,22,6442,"Plumbers, pipefitters, and steamfitters",9.913482335976928e-4
+Singapore,1,21,1822,School psychologists,9.462869502523431e-4
+Singapore,2,21,2632,Fashion designers,9.462869502523431e-4
+Singapore,1,21,2723,"Umpires, referees, and other sports officials",9.462869502523431e-4
+Singapore,2,21,2751,Music directors and composers,9.462869502523431e-4
+Singapore,1,21,2825,Public relations specialists,9.462869502523431e-4
+Singapore,1,21,3946,School bus monitors,9.462869502523431e-4
+Singapore,1,21,7840,Food batchmakers,9.462869502523431e-4
+Singapore,1,21,9141,Shuttle drivers and chauffeurs,9.462869502523431e-4
+Singapore,1,20,1600,Agricultural and food scientists,9.012256669069935e-4
+Singapore,1,20,2920,"Television, video, and film camera operators and editors",9.012256669069935e-4
+Singapore,3,20,4000,Chefs and head cooks,9.012256669069935e-4
+Singapore,1,20,7640,"Other installation, maintenance, and repair workers",9.012256669069935e-4
+Singapore,1,19,0700,Logisticians,8.561643835616438e-4
+Singapore,1,19,3150,Occupational therapists,8.561643835616438e-4
+Singapore,2,19,3230,Speech-language pathologists,8.561643835616438e-4
+Singapore,2,19,7750,Other assemblers and fabricators,8.561643835616438e-4
+Singapore,2,18,1340,Biomedical and agricultural engineers,8.111031002162941e-4
+Singapore,1,18,3422,Psychiatric technicians,8.111031002162941e-4
+Singapore,1,18,9830,"Military, rank not specified",8.111031002162941e-4
+Singapore,1,17,1310,"Surveyors, cartographers, and photogrammetrists",7.660418168709444e-4
+Singapore,2,17,4640,Residential advisors,7.660418168709444e-4
+Singapore,1,17,7140,Aircraft mechanics and service technicians,7.660418168709444e-4
+Singapore,1,16,0160,"Transportation, storage, and distribution managers",7.209805335255948e-4
+Singapore,1,16,1031,Web developers,7.209805335255948e-4
+Singapore,1,16,2105,Judicial law clerks,7.209805335255948e-4
+Singapore,1,16,4965,"Sales and related workers, all other",7.209805335255948e-4
+Singapore,1,15,0860,Insurance underwriters,6.759192501802451e-4
+Singapore,2,15,9130,Driver/sales workers and truck drivers,6.759192501802451e-4
+Singapore,1,14,0137,Training and development managers,6.308579668348954e-4
+Singapore,1,14,0360,Natural sciences managers,6.308579668348954e-4
+Singapore,1,14,0930,"Tax examiners and collectors, and revenue agents",6.308579668348954e-4
+Singapore,1,14,1860,Other social scientists,6.308579668348954e-4
+Singapore,2,14,2300,Preschool and kindergarten teachers,6.308579668348954e-4
+Singapore,1,14,2440,Library technicians,6.308579668348954e-4
+Singapore,1,14,6200,First-line supervisors of construction trades and extraction workers,6.308579668348954e-4
+Singapore,1,14,8620,Water and wastewater treatment plant and system operators,6.308579668348954e-4
+Singapore,1,13,0135,Compensation and benefits managers,5.857966834895457e-4
+Singapore,1,13,0540,"Claims adjusters, appraisers, examiners, and investigators",5.857966834895457e-4
+Singapore,1,13,0650,Training and development specialists,5.857966834895457e-4
+Singapore,1,13,2180,"Legal support workers, all other",5.857966834895457e-4
+Singapore,1,13,2840,Technical writers,5.857966834895457e-4
+Singapore,1,13,3030,Dietitians and nutritionists,5.857966834895457e-4
+Singapore,1,13,4525,Other personal appearance workers,5.857966834895457e-4
+Singapore,2,13,5710,Executive secretaries and executive administrative assistants,5.857966834895457e-4
+Singapore,1,12,1005,Computer and information research scientists,5.407354001441961e-4
+Singapore,1,12,1320,Aerospace engineers,5.407354001441961e-4
+Singapore,1,12,3040,Optometrists,5.407354001441961e-4
+Singapore,2,12,3421,Pharmacy technicians,5.407354001441961e-4
+Singapore,1,12,3646,Medical transcriptionists,5.407354001441961e-4
+Singapore,1,12,4350,Animal caretakers,5.407354001441961e-4
+Singapore,1,11,1720,Chemists and materials scientists,4.956741167988464e-4
+Singapore,1,11,3010,Dentists,4.956741167988464e-4
+Singapore,1,11,3545,Miscellaneous health technologists and technicians,4.956741167988464e-4
+Singapore,1,11,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",4.956741167988464e-4
+Singapore,1,11,4330,Supervisors of personal care and service workers,4.956741167988464e-4
+Singapore,1,11,5260,File clerks,4.956741167988464e-4
+Singapore,1,10,1700,Astronomers and physicists,4.5061283345349673e-4
+Singapore,1,10,2016,Social and human service assistants,4.5061283345349673e-4
+Singapore,1,10,2910,Photographers,4.5061283345349673e-4
+Singapore,1,10,7855,"Food processing workers, all other",4.5061283345349673e-4
+Singapore,1,10,8650,"Crushing, grinding, polishing, mixing, and blending workers",4.5061283345349673e-4
+Singapore,1,10,9630,Machine feeders and offbearers,4.5061283345349673e-4
+Singapore,1,9,1032,Web and digital interface designers,4.0555155010814706e-4
+Singapore,1,9,3270,"Healthcare diagnosing or treating practitioners, all other",4.0555155010814706e-4
+Singapore,1,9,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",4.0555155010814706e-4
+Singapore,1,9,5730,Medical secretaries and administrative assistants,4.0555155010814706e-4
+Singapore,3,8,0205,"Farmers, ranchers, and other agricultural managers",3.604902667627974e-4
+Singapore,1,8,0726,Fundraisers,3.604902667627974e-4
+Singapore,1,8,0810,Property appraisers and assessors,3.604902667627974e-4
+Singapore,1,8,2025,Other community and social service specialists,3.604902667627974e-4
+Singapore,1,8,5230,"Credit authorizers, checkers, and clerks",3.604902667627974e-4
+Singapore,1,8,5840,Insurance claims and policy processing clerks,3.604902667627974e-4
+Singapore,1,8,8320,Sewing machine operators,3.604902667627974e-4
+Singapore,1,8,8730,"Furnace, kiln, oven, drier, and kettle operators and tenders",3.604902667627974e-4
+Singapore,1,7,2012,Healthcare social workers,3.154289834174477e-4
+Singapore,1,7,2330,Special education teachers,3.154289834174477e-4
+Singapore,1,7,4130,Dining room and cafeteria attendants and bartender helpers,3.154289834174477e-4
+Singapore,1,7,9600,Industrial truck and tractor operators,3.154289834174477e-4
+Singapore,1,6,2006,"Counselors, all other",2.7036770007209804e-4
+Singapore,1,6,4622,Recreation workers,2.7036770007209804e-4
+Singapore,1,6,8030,Machinists,2.7036770007209804e-4
+Singapore,1,5,1350,Chemical engineers,2.2530641672674837e-4
+Singapore,1,4,1450,Materials engineers,1.802451333813987e-4
+Singapore,1,4,1745,"Environmental scientists and specialists, including health",1.802451333813987e-4
+Singapore,1,4,3250,Veterinarians,1.802451333813987e-4
+Singapore,1,4,5250,"Eligibility interviewers, government programs",1.802451333813987e-4
+Singapore,1,2,5360,"Human resources assistants, except payroll and timekeeping",9.012256669069935e-5

@@ -1,319 +1,319 @@
-country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
-Syria,4516,115421,2252,55708,3090,Physicians,188,3873,0.06952322826165003
-Syria,4516,115421,2252,55708,4700,First-line supervisors of retail sales workers,98,2378,0.042686867236303584
-Syria,4516,115421,2252,55708,4720,Cashiers,90,2046,0.03672722050692899
-Syria,4516,115421,2252,55708,4760,Retail salespersons,69,2045,0.03670926976376822
-Syria,4516,115421,2252,55708,0440,Other managers,72,1793,0.03218568248725497
-Syria,4516,115421,2252,55708,9130,Driver/sales workers and truck drivers,48,1200,0.021540891792920226
-Syria,4516,115421,2252,55708,9142,Taxi drivers,41,899,0.016137718101529402
-Syria,4516,115421,2252,55708,1021,Software developers,30,891,0.01599411215624327
-Syria,4516,115421,2252,55708,2205,Postsecondary teachers,37,886,0.015904358440439435
-Syria,4516,115421,2252,55708,0010,Chief executives and legislators,36,856,0.015365836145616428
-Syria,4516,115421,2252,55708,0310,Food service managers,24,755,0.013552811086378977
-Syria,4516,115421,2252,55708,2310,Elementary and middle school teachers,29,750,0.013463057370575142
-Syria,4516,115421,2252,55708,0020,General and operations managers,21,734,0.013175845480002873
-Syria,4516,115421,2252,55708,4220,Janitors and building cleaners,26,716,0.012852732103109069
-Syria,4516,115421,2252,55708,4850,"Sales representatives, wholesale and manufacturing",23,714,0.012816830616787536
-Syria,4516,115421,2252,55708,9620,"Laborers and freight, stock, and material movers, hand",22,693,0.012439865010411432
-Syria,4516,115421,2252,55708,4110,Waiters and waitresses,15,690,0.01238601278092913
-Syria,4516,115421,2252,55708,3602,Personal care aides,31,687,0.01233216055144683
-Syria,4516,115421,2252,55708,3010,Dentists,27,678,0.012170603862999929
-Syria,4516,115421,2252,55708,2545,Teaching assistants,29,632,0.011344869677604653
-Syria,4516,115421,2252,55708,3050,Pharmacists,20,627,0.011255115961800819
-Syria,4516,115421,2252,55708,3255,Registered nurses,22,577,0.010357578803762476
-Syria,4516,115421,2252,55708,0120,Financial managers,19,564,0.010124219142672506
-Syria,4516,115421,2252,55708,5740,"Secretaries and administrative assistants, except legal, medical, and executive",21,563,0.01010626839951174
-Syria,4516,115421,2252,55708,5240,Customer service representatives,24,556,0.009980613197386372
-Syria,4516,115421,2252,55708,9640,"Packers and packagers, hand",11,534,0.0095856968478495
-Syria,4516,115421,2252,55708,0705,Project management specialists,15,498,0.008939470094061893
-Syria,4516,115421,2252,55708,4030,Food preparation workers,13,477,0.00856250448768579
-Syria,4516,115421,2252,55708,4710,First-line supervisors of non-retail sales workers,15,450,0.008077834422345085
-Syria,4516,115421,2252,55708,0800,Accountants and auditors,26,443,0.007952179220219718
-Syria,4516,115421,2252,55708,4020,Cooks,23,419,0.007521361384361313
-Syria,4516,115421,2252,55708,5120,"Bookkeeping, accounting, and auditing clerks",14,391,0.007018740575859841
-Syria,4516,115421,2252,55708,4000,Chefs and head cooks,16,381,0.006839233144252172
-Syria,4516,115421,2252,55708,4920,Real estate brokers and sales agents,16,378,0.0067853809147698715
-Syria,4516,115421,2252,55708,6260,Construction laborers,15,374,0.006713577942126804
-Syria,4516,115421,2252,55708,9645,Stockers and order fillers,15,363,0.006516119767358369
-Syria,4516,115421,2252,55708,0350,Medical and health services managers,19,361,0.006480218281036835
-Syria,4516,115421,2252,55708,2100,"Lawyers, and judges, magistrates, and other judicial workers",18,361,0.006480218281036835
-Syria,4516,115421,2252,55708,7200,Automotive service technicians and mechanics,16,353,0.0063366123357507
-Syria,4516,115421,2252,55708,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",11,345,0.006193006390464565
-Syria,4516,115421,2252,55708,8990,"Miscellaneous production workers, including equipment operators and tenders",12,335,0.006013498958856897
-Syria,4516,115421,2252,55708,8300,Laundry and dry-cleaning workers,3,328,0.005887843756731528
-Syria,4516,115421,2252,55708,1530,Other engineers,20,311,0.005582681122998492
-Syria,4516,115421,2252,55708,4510,"Hairdressers, hairstylists, and cosmetologists",11,295,0.005295469232426222
-Syria,4516,115421,2252,55708,2320,Secondary school teachers,17,293,0.005259567746104689
-Syria,4516,115421,2252,55708,0051,Marketing managers,8,287,0.005151863287140087
-Syria,4516,115421,2252,55708,4055,Fast food and counter workers,11,287,0.005151863287140087
-Syria,4516,115421,2252,55708,7700,First-line supervisors of production and operating workers,9,287,0.005151863287140087
-Syria,4516,115421,2252,55708,3601,Home health aides,14,285,0.005115961800818554
-Syria,4516,115421,2252,55708,2634,Graphic designers,9,284,0.005098011057657787
-Syria,4516,115421,2252,55708,6355,Electricians,8,272,0.004882602139728584
-Syria,4516,115421,2252,55708,1360,Civil engineers,15,271,0.004864651396567818
-Syria,4516,115421,2252,55708,3930,Security guards and gaming surveillance officers,8,271,0.004864651396567818
-Syria,4516,115421,2252,55708,2300,Preschool and kindergarten teachers,13,253,0.0045415380196740145
-Syria,4516,115421,2252,55708,0052,Sales managers,6,249,0.004469735047030947
-Syria,4516,115421,2252,55708,4965,"Sales and related workers, all other",7,249,0.004469735047030947
-Syria,4516,115421,2252,55708,1305,"Architects, except landscape and naval",8,246,0.004415882817548646
-Syria,4516,115421,2252,55708,7750,Other assemblers and fabricators,9,246,0.004415882817548646
-Syria,4516,115421,2252,55708,5110,Billing and posting clerks,7,245,0.00439793207438788
-Syria,4516,115421,2252,55708,5400,Receptionists and information clerks,9,243,0.004362030588066346
-Syria,4516,115421,2252,55708,5000,First-line supervisors of office and administrative support workers,15,237,0.004254326129101745
-Syria,4516,115421,2252,55708,2360,Other teachers and instructors,10,235,0.004218424642780211
-Syria,4516,115421,2252,55708,2350,Tutors,4,216,0.003877360522725641
-Syria,4516,115421,2252,55708,4251,Landscaping and groundskeeping workers,3,205,0.0036799023479572052
-Syria,4516,115421,2252,55708,3645,Medical assistants,7,204,0.0036619516047964387
-Syria,4516,115421,2252,55708,4950,"Door-to-door sales workers, news and street vendors, and related workers",6,204,0.0036619516047964387
-Syria,4516,115421,2252,55708,5860,"Office clerks, general",9,202,0.003626050118474905
-Syria,4516,115421,2252,55708,0230,Education and childcare administrators,8,195,0.003500394916349537
-Syria,4516,115421,2252,55708,2861,Interpreters and translators,7,193,0.003464493430028003
-Syria,4516,115421,2252,55708,0420,Social and community service managers,7,192,0.003446542686867236
-Syria,4516,115421,2252,55708,6230,Carpenters,6,191,0.0034285919437064692
-Syria,4516,115421,2252,55708,8740,"Inspectors, testers, sorters, samplers, and weighers",4,191,0.0034285919437064692
-Syria,4516,115421,2252,55708,0220,Construction managers,11,187,0.003356788971063402
-Syria,4516,115421,2252,55708,0750,"Business operations specialists, all other",8,185,0.0033208874847418684
-Syria,4516,115421,2252,55708,5510,Couriers and messengers,7,181,0.003249084512098801
-Syria,4516,115421,2252,55708,4740,Counter and rental clerks,4,179,0.003213183025777267
-Syria,4516,115421,2252,55708,1108,"Computer occupations, all other",9,178,0.0031952322826165
-Syria,4516,115421,2252,55708,1050,Computer support specialists,5,177,0.0031772815394557337
-Syria,4516,115421,2252,55708,0160,"Transportation, storage, and distribution managers",6,173,0.003105478566812666
-Syria,4516,115421,2252,55708,1006,Computer systems analysts,11,171,0.0030695770804911324
-Syria,4516,115421,2252,55708,3300,Clinical laboratory technologists and technicians,6,170,0.0030516263373303655
-Syria,4516,115421,2252,55708,4600,Childcare workers,11,168,0.0030157248510088316
-Syria,4516,115421,2252,55708,1460,Mechanical engineers,8,167,0.002997774107848065
-Syria,4516,115421,2252,55708,5160,Tellers,5,167,0.002997774107848065
-Syria,4516,115421,2252,55708,8750,Jewelers and precious stone and metal workers,8,160,0.002872118905722697
-Syria,4516,115421,2252,55708,6442,"Plumbers, pipefitters, and steamfitters",7,155,0.0027823651899188625
-Syria,4516,115421,2252,55708,3640,Dental assistants,5,154,0.002764414446758096
-Syria,4516,115421,2252,55708,1970,"Other life, physical, and social science technicians",5,149,0.0026746607309542617
-Syria,4516,115421,2252,55708,4655,"Personal care and service workers, all other",4,149,0.0026746607309542617
-Syria,4516,115421,2252,55708,0710,Management analysts,8,147,0.0026387592446327278
-Syria,4516,115421,2252,55708,1007,Information security analysts,1,145,0.002602857758311194
-Syria,4516,115421,2252,55708,0410,"Property, real estate, and community association managers",8,144,0.0025849070151504274
-Syria,4516,115421,2252,55708,0540,"Claims adjusters, appraisers, examiners, and investigators",1,143,0.0025669562719896604
-Syria,4516,115421,2252,55708,3423,Surgical technologists,2,141,0.0025310547856681265
-Syria,4516,115421,2252,55708,0110,Computer and information systems managers,9,139,0.002495153299346593
-Syria,4516,115421,2252,55708,0735,Market research analysts and marketing specialists,4,139,0.002495153299346593
-Syria,4516,115421,2252,55708,1032,Web and digital interface designers,3,135,0.0024233503267035257
-Syria,4516,115421,2252,55708,4230,Maids and housekeeping cleaners,5,134,0.0024053995835427587
-Syria,4516,115421,2252,55708,4010,First-line supervisors of food preparation and serving workers,6,133,0.0023874488403819918
-Syria,4516,115421,2252,55708,5840,Insurance claims and policy processing clerks,1,133,0.0023874488403819918
-Syria,4516,115421,2252,55708,7340,"Maintenance and repair workers, general",6,133,0.0023874488403819918
-Syria,4516,115421,2252,55708,8140,"Welding, soldering, and brazing workers",4,133,0.0023874488403819918
-Syria,4516,115421,2252,55708,0300,Architectural and engineering managers,4,132,0.002369498097221225
-Syria,4516,115421,2252,55708,1900,Agricultural and food science technicians,2,132,0.002369498097221225
-Syria,4516,115421,2252,55708,6240,"Carpet, floor, and tile installers and finishers",4,128,0.0022976951245781575
-Syria,4516,115421,2252,55708,8225,Other metal workers and plastic workers,2,126,0.002261793638256624
-Syria,4516,115421,2252,55708,9121,"Bus drivers, school",8,126,0.002261793638256624
-Syria,4516,115421,2252,55708,9141,Shuttle drivers and chauffeurs,6,123,0.002207941408774323
-Syria,4516,115421,2252,55708,1545,Other drafters,5,113,0.0020284339771666545
-Syria,4516,115421,2252,55708,2040,Clergy,8,112,0.002010483234005888
-Syria,4516,115421,2252,55708,7315,"Heating, air conditioning, and refrigeration mechanics and installers",4,112,0.002010483234005888
-Syria,4516,115421,2252,55708,3421,Pharmacy technicians,6,111,0.001992532490845121
-Syria,4516,115421,2252,55708,1105,Network and computer systems administrators,3,108,0.0019386802613628204
-Syria,4516,115421,2252,55708,1760,"Physical scientists, all other",8,108,0.0019386802613628204
-Syria,4516,115421,2252,55708,9005,Supervisors of transportation and material moving workers,8,108,0.0019386802613628204
-Syria,4516,115421,2252,55708,5610,"Shipping, receiving, and inventory clerks",5,107,0.0019207295182020535
-Syria,4516,115421,2252,55708,5600,"Production, planning, and expediting clerks",4,106,0.0019027787750412867
-Syria,4516,115421,2252,55708,1430,"Industrial engineers, including health and safety",6,105,0.0018848280318805198
-Syria,4516,115421,2252,55708,3603,Nursing assistants,5,105,0.0018848280318805198
-Syria,4516,115421,2252,55708,9122,"Bus drivers, transit and intercity",2,105,0.0018848280318805198
-Syria,4516,115421,2252,55708,1410,Electrical and electronics engineers,7,103,0.001848926545558986
-Syria,4516,115421,2252,55708,4621,Exercise trainers and group fitness instructors,2,102,0.0018309758023982194
-Syria,4516,115421,2252,55708,1650,Other life scientists,7,100,0.0017950743160766857
-Syria,4516,115421,2252,55708,2600,Artists and related workers,4,100,0.0017950743160766857
-Syria,4516,115421,2252,55708,8030,Machinists,6,96,0.001723271343433618
-Syria,4516,115421,2252,55708,3310,Dental hygienists,5,95,0.0017053206002728514
-Syria,4516,115421,2252,55708,6200,First-line supervisors of construction trades and extraction workers,6,95,0.0017053206002728514
-Syria,4516,115421,2252,55708,2002,"Educational, guidance, and career counselors and advisors",4,94,0.0016873698571120844
-Syria,4516,115421,2252,55708,9610,Cleaners of vehicles and equipment,6,93,0.0016694191139513177
-Syria,4516,115421,2252,55708,3402,Paramedics,4,90,0.001615566884469017
-Syria,4516,115421,2252,55708,5550,Postal service mail carriers,6,90,0.001615566884469017
-Syria,4516,115421,2252,55708,7330,Industrial and refractory machinery mechanics,3,90,0.001615566884469017
-Syria,4516,115421,2252,55708,3100,Surgeons,5,89,0.00159761614130825
-Syria,4516,115421,2252,55708,4350,Animal caretakers,2,89,0.00159761614130825
-Syria,4516,115421,2252,55708,8320,Sewing machine operators,2,89,0.00159761614130825
-Syria,4516,115421,2252,55708,1010,Computer programmers,6,86,0.0015437639118259497
-Syria,4516,115421,2252,55708,6410,Painters and paperhangers,6,86,0.0015437639118259497
-Syria,4516,115421,2252,55708,7100,"Other electrical and electronic equipment mechanics, installers, and repairers",1,85,0.0015258131686651827
-Syria,4516,115421,2252,55708,7140,Aircraft mechanics and service technicians,1,85,0.0015258131686651827
-Syria,4516,115421,2252,55708,7830,"Food and tobacco roasting, baking, and drying machine operators and tenders",1,84,0.0015078624255044158
-Syria,4516,115421,2252,55708,7925,"Forming machine setters, operators, and tenders, metal and plastic",2,84,0.0015078624255044158
-Syria,4516,115421,2252,55708,3324,Magnetic resonance imaging technologists,3,83,0.001489911682343649
-Syria,4516,115421,2252,55708,4130,Dining room and cafeteria attendants and bartender helpers,4,83,0.001489911682343649
-Syria,4516,115421,2252,55708,0140,Industrial production managers,4,82,0.001471960939182882
-Syria,4516,115421,2252,55708,4120,"Food servers, nonrestaurant",3,82,0.001471960939182882
-Syria,4516,115421,2252,55708,7810,"Butchers and other meat, poultry, and fish processing workers",2,82,0.001471960939182882
-Syria,4516,115421,2252,55708,7020,Radio and telecommunications equipment installers and repairers,4,81,0.0014540101960221154
-Syria,4516,115421,2252,55708,4140,Dishwashers,3,80,0.0014360594528613484
-Syria,4516,115421,2252,55708,5940,Other office and administrative support workers,5,79,0.0014181087097005817
-Syria,4516,115421,2252,55708,4500,Barbers,3,76,0.001364256480218281
-Syria,4516,115421,2252,55708,2810,"News analysts, reporters, and journalists",1,75,0.001346305737057514
-Syria,4516,115421,2252,55708,2633,Floral designers,3,74,0.0013283549938967474
-Syria,4516,115421,2252,55708,2710,Producers and directors,2,74,0.0013283549938967474
-Syria,4516,115421,2252,55708,3550,Other healthcare practitioners and technical occupations,3,73,0.0013104042507359804
-Syria,4516,115421,2252,55708,4435,Other entertainment attendants and related workers,6,72,0.0012924535075752137
-Syria,4516,115421,2252,55708,6700,Elevator installers and repairers,1,72,0.0012924535075752137
-Syria,4516,115421,2252,55708,8650,"Crushing, grinding, polishing, mixing, and blending workers",2,72,0.0012924535075752137
-Syria,4516,115421,2252,55708,9150,"Motor vehicle operators, all other",2,72,0.0012924535075752137
-Syria,4516,115421,2252,55708,9600,Industrial truck and tractor operators,4,71,0.0012745027644144467
-Syria,4516,115421,2252,55708,4522,Skincare specialists,4,70,0.00125655202125368
-Syria,4516,115421,2252,55708,2014,"Social workers, all other",4,68,0.001220650534932146
-Syria,4516,115421,2252,55708,3545,Miscellaneous health technologists and technicians,1,67,0.0012026997917713794
-Syria,4516,115421,2252,55708,5360,"Human resources assistants, except payroll and timekeeping",2,67,0.0012026997917713794
-Syria,4516,115421,2252,55708,4750,Parts salespersons,2,65,0.0011667983054498457
-Syria,4516,115421,2252,55708,3620,Physical therapist assistants and aides,1,64,0.0011488475622890787
-Syria,4516,115421,2252,55708,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",2,64,0.0011488475622890787
-Syria,4516,115421,2252,55708,6515,Roofers,1,64,0.0011488475622890787
-Syria,4516,115421,2252,55708,0850,Personal financial advisors,4,63,0.001130896819128312
-Syria,4516,115421,2252,55708,3258,"Nurse practitioners, and nurse midwives",3,63,0.001130896819128312
-Syria,4516,115421,2252,55708,3647,Pharmacy aides,2,63,0.001130896819128312
-Syria,4516,115421,2252,55708,3245,Other therapists,3,62,0.001112946075967545
-Syria,4516,115421,2252,55708,3323,Radiologic technologists and technicians,1,62,0.001112946075967545
-Syria,4516,115421,2252,55708,0136,Human resources managers,3,61,0.001094995332806778
-Syria,4516,115421,2252,55708,0845,Financial and investment analysts,2,60,0.0010770445896460114
-Syria,4516,115421,2252,55708,2752,Musicians and singers,3,60,0.0010770445896460114
-Syria,4516,115421,2252,55708,9030,Aircraft pilots and flight engineers,2,59,0.0010590938464852444
-Syria,4516,115421,2252,55708,2640,Other designers,5,58,0.0010411431033244777
-Syria,4516,115421,2252,55708,8250,Prepress technicians and workers,1,58,0.0010411431033244777
-Syria,4516,115421,2252,55708,7540,Locksmiths and safe repairers,3,56,0.001005241617002944
-Syria,4516,115421,2252,55708,1555,"Other engineering technologists and technicians, except drafters",4,55,9.87290873842177e-4
-Syria,4516,115421,2252,55708,3110,Physician assistants,4,54,9.693401306814102e-4
-Syria,4516,115421,2252,55708,4330,Supervisors of personal care and service workers,2,54,9.693401306814102e-4
-Syria,4516,115421,2252,55708,1106,Computer network architects,3,51,9.154879011991097e-4
-Syria,4516,115421,2252,55708,7150,Automotive body and related repairers,2,51,9.154879011991097e-4
-Syria,4516,115421,2252,55708,7420,Telecommunications line installers and repairers,1,51,9.154879011991097e-4
-Syria,4516,115421,2252,55708,7800,Bakers,4,51,9.154879011991097e-4
-Syria,4516,115421,2252,55708,0150,Purchasing managers,3,50,8.975371580383428e-4
-Syria,4516,115421,2252,55708,7010,"Computer, automated teller, and office machine repairers",1,50,8.975371580383428e-4
-Syria,4516,115421,2252,55708,7210,Bus and truck mechanics and diesel engine specialists,2,50,8.975371580383428e-4
-Syria,4516,115421,2252,55708,1541,Architectural and civil drafters,2,48,8.61635671716809e-4
-Syria,4516,115421,2252,55708,3630,Massage therapists,2,48,8.61635671716809e-4
-Syria,4516,115421,2252,55708,3870,Police officers,3,48,8.61635671716809e-4
-Syria,4516,115421,2252,55708,3321,Cardiovascular technologists and technicians,1,46,8.257341853952754e-4
-Syria,4516,115421,2252,55708,6305,Construction equipment operators,1,46,8.257341853952754e-4
-Syria,4516,115421,2252,55708,4820,"Securities, commodities, and financial services sales agents",3,45,8.077834422345085e-4
-Syria,4516,115421,2252,55708,2006,"Counselors, all other",1,44,7.898326990737417e-4
-Syria,4516,115421,2252,55708,3330,Nuclear medicine technologists and medical dosimetrists,3,44,7.898326990737417e-4
-Syria,4516,115421,2252,55708,6050,Other agricultural workers,2,44,7.898326990737417e-4
-Syria,4516,115421,2252,55708,0060,Public relations and fundraising managers,2,43,7.718819559129748e-4
-Syria,4516,115421,2252,55708,9760,Other material moving workers,1,43,7.718819559129748e-4
-Syria,4516,115421,2252,55708,5320,"Library assistants, clerical",3,42,7.539312127522079e-4
-Syria,4516,115421,2252,55708,2435,Librarians and media collections specialists,2,41,7.35980469591441e-4
-Syria,4516,115421,2252,55708,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,2,41,7.35980469591441e-4
-Syria,4516,115421,2252,55708,5140,Payroll and timekeeping clerks,1,40,7.180297264306742e-4
-Syria,4516,115421,2252,55708,5300,"Hotel, motel, and resort desk clerks",1,40,7.180297264306742e-4
-Syria,4516,115421,2252,55708,1320,Aerospace engineers,3,37,6.641774969483737e-4
-Syria,4516,115421,2252,55708,0335,Entertainment and recreation managers,2,36,6.462267537876068e-4
-Syria,4516,115421,2252,55708,1240,Other mathematical science occupations,2,36,6.462267537876068e-4
-Syria,4516,115421,2252,55708,2145,Paralegals and legal assistants,3,36,6.462267537876068e-4
-Syria,4516,115421,2252,55708,2850,Writers and authors,2,36,6.462267537876068e-4
-Syria,4516,115421,2252,55708,3725,"Miscellaneous first-line supervisors, protective service workers",1,36,6.462267537876068e-4
-Syria,4516,115421,2252,55708,8950,Helpers--production workers,2,36,6.462267537876068e-4
-Syria,4516,115421,2252,55708,0910,Credit counselors and loan officers,2,35,6.2827601062684e-4
-Syria,4516,115421,2252,55708,1065,Database administrators and architects,2,35,6.2827601062684e-4
-Syria,4516,115421,2252,55708,3030,Dietitians and nutritionists,2,35,6.2827601062684e-4
-Syria,4516,115421,2252,55708,3322,Diagnostic medical sonographers,2,35,6.2827601062684e-4
-Syria,4516,115421,2252,55708,0565,Compliance officers,2,34,6.10325267466073e-4
-Syria,4516,115421,2252,55708,9040,Air traffic controllers and airfield operations specialists,1,34,6.10325267466073e-4
-Syria,4516,115421,2252,55708,0340,Lodging managers,2,33,5.923745243053062e-4
-Syria,4516,115421,2252,55708,2825,Public relations specialists,2,33,5.923745243053062e-4
-Syria,4516,115421,2252,55708,3140,Audiologists,2,33,5.923745243053062e-4
-Syria,4516,115421,2252,55708,4200,First-line supervisors of housekeeping and janitorial workers,3,33,5.923745243053062e-4
-Syria,4516,115421,2252,55708,7610,"Helpers--installation, maintenance, and repair workers",1,33,5.923745243053062e-4
-Syria,4516,115421,2252,55708,2635,Interior designers,1,32,5.744237811445394e-4
-Syria,4516,115421,2252,55708,0600,Cost estimators,2,31,5.564730379837725e-4
-Syria,4516,115421,2252,55708,2636,Merchandise displayers and window trimmers,1,30,5.385222948230057e-4
-Syria,4516,115421,2252,55708,3430,Dietetic technicians and ophthalmic medical technicians,1,30,5.385222948230057e-4
-Syria,4516,115421,2252,55708,3500,Licensed practical and licensed vocational nurses,2,30,5.385222948230057e-4
-Syria,4516,115421,2252,55708,8350,"Tailors, dressmakers, and sewers",3,30,5.385222948230057e-4
-Syria,4516,115421,2252,55708,3646,Medical transcriptionists,1,29,5.205715516622388e-4
-Syria,4516,115421,2252,55708,5260,File clerks,1,29,5.205715516622388e-4
-Syria,4516,115421,2252,55708,5410,Reservation and transportation ticket agents and travel clerks,1,28,5.02620808501472e-4
-Syria,4516,115421,2252,55708,1860,Other social scientists,2,27,4.846700653407051e-4
-Syria,4516,115421,2252,55708,4800,Advertising sales agents,2,27,4.846700653407051e-4
-Syria,4516,115421,2252,55708,5165,Other financial clerks,1,27,4.846700653407051e-4
-Syria,4516,115421,2252,55708,5522,"Dispatchers, except police, fire, and ambulance",1,27,4.846700653407051e-4
-Syria,4516,115421,2252,55708,7040,"Electric motor, power tool, and related repairers",1,27,4.846700653407051e-4
-Syria,4516,115421,2252,55708,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",2,27,4.846700653407051e-4
-Syria,4516,115421,2252,55708,6330,"Drywall installers, ceiling tile installers, and tapers",1,26,4.6671932217993826e-4
-Syria,4516,115421,2252,55708,2016,Social and human service assistants,2,25,4.487685790191714e-4
-Syria,4516,115421,2252,55708,3820,Detectives and criminal investigators,1,25,4.487685790191714e-4
-Syria,4516,115421,2252,55708,6850,Underground mining machine operators,1,25,4.487685790191714e-4
-Syria,4516,115421,2252,55708,0940,Tax preparers,2,24,4.308178358584045e-4
-Syria,4516,115421,2252,55708,1825,Other psychologists,1,24,4.308178358584045e-4
-Syria,4516,115421,2252,55708,2012,Healthcare social workers,1,23,4.128670926976377e-4
-Syria,4516,115421,2252,55708,1400,Computer hardware engineers,1,22,3.9491634953687084e-4
-Syria,4516,115421,2252,55708,1450,Materials engineers,1,22,3.9491634953687084e-4
-Syria,4516,115421,2252,55708,1551,Electrical and electronic engineering technologists and technicians,2,22,3.9491634953687084e-4
-Syria,4516,115421,2252,55708,2170,"Title examiners, abstractors, and searchers",1,22,3.9491634953687084e-4
-Syria,4516,115421,2252,55708,2632,Fashion designers,1,22,3.9491634953687084e-4
-Syria,4516,115421,2252,55708,3160,Physical therapists,1,21,3.7696560637610394e-4
-Syria,4516,115421,2252,55708,7240,Small engine mechanics,1,21,3.7696560637610394e-4
-Syria,4516,115421,2252,55708,9365,Transportation service attendants,1,21,3.7696560637610394e-4
-Syria,4516,115421,2252,55708,1220,Operations research analysts,2,20,3.590148632153371e-4
-Syria,4516,115421,2252,55708,2025,Other community and social service specialists,1,20,3.590148632153371e-4
-Syria,4516,115421,2252,55708,3040,Optometrists,1,20,3.590148632153371e-4
-Syria,4516,115421,2252,55708,8255,Printing press operators,1,20,3.590148632153371e-4
-Syria,4516,115421,2252,55708,1640,Conservation scientists and foresters,1,19,3.4106412005457026e-4
-Syria,4516,115421,2252,55708,5330,Loan interviewers and clerks,1,19,3.4106412005457026e-4
-Syria,4516,115421,2252,55708,0135,Compensation and benefits managers,1,18,3.231133768938034e-4
-Syria,4516,115421,2252,55708,1800,Economists,1,18,3.231133768938034e-4
-Syria,4516,115421,2252,55708,2910,Photographers,1,18,3.231133768938034e-4
-Syria,4516,115421,2252,55708,3655,Other healthcare support workers,1,18,3.231133768938034e-4
-Syria,4516,115421,2252,55708,7120,Electronic home entertainment equipment installers and repairers,1,18,3.231133768938034e-4
-Syria,4516,115421,2252,55708,7510,"Coin, vending, and amusement machine servicers and repairers",1,18,3.231133768938034e-4
-Syria,4516,115421,2252,55708,8920,"Molders, shapers, and casters, except metal and plastic",1,18,3.231133768938034e-4
-Syria,4516,115421,2252,55708,3802,Correctional officers and jailers,1,17,3.051626337330365e-4
-Syria,4516,115421,2252,55708,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",1,17,3.051626337330365e-4
-Syria,4516,115421,2252,55708,5810,Data entry keyers,2,17,3.051626337330365e-4
-Syria,4516,115421,2252,55708,6005,"First-line supervisors of farming, fishing, and forestry workers",1,17,3.051626337330365e-4
-Syria,4516,115421,2252,55708,0630,Human resources workers,1,16,2.872118905722697e-4
-Syria,4516,115421,2252,55708,1822,School psychologists,1,16,2.872118905722697e-4
-Syria,4516,115421,2252,55708,2011,"Child, family, and school social workers",1,16,2.872118905722697e-4
-Syria,4516,115421,2252,55708,2722,Coaches and scouts,1,16,2.872118905722697e-4
-Syria,4516,115421,2252,55708,4400,Gambling services workers,1,16,2.872118905722697e-4
-Syria,4516,115421,2252,55708,7300,Control and valve installers and repairers,1,16,2.872118905722697e-4
-Syria,4516,115421,2252,55708,1980,Occupational health and safety specialists and technicians,1,15,2.6926114741150284e-4
-Syria,4516,115421,2252,55708,7855,"Food processing workers, all other",1,15,2.6926114741150284e-4
-Syria,4516,115421,2252,55708,0725,"Meeting, convention, and event planners",1,14,2.51310404250736e-4
-Syria,4516,115421,2252,55708,3000,Chiropractors,1,14,2.51310404250736e-4
-Syria,4516,115421,2252,55708,6120,Forest and conservation workers,1,14,2.51310404250736e-4
-Syria,4516,115421,2252,55708,0102,Facilities managers,1,13,2.3335966108996913e-4
-Syria,4516,115421,2252,55708,2555,Other educational instruction and library workers,1,13,2.3335966108996913e-4
-Syria,4516,115421,2252,55708,2751,Music directors and composers,1,13,2.3335966108996913e-4
-Syria,4516,115421,2252,55708,2830,Editors,1,13,2.3335966108996913e-4
-Syria,4516,115421,2252,55708,3220,Respiratory therapists,1,13,2.3335966108996913e-4
-Syria,4516,115421,2252,55708,3515,Medical records specialists,1,13,2.3335966108996913e-4
-Syria,4516,115421,2252,55708,3520,"Opticians, dispensing",1,13,2.3335966108996913e-4
-Syria,4516,115421,2252,55708,3740,Firefighters,1,13,2.3335966108996913e-4
-Syria,4516,115421,2252,55708,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,13,2.3335966108996913e-4
-Syria,4516,115421,2252,55708,8555,Other woodworkers,1,13,2.3335966108996913e-4
-Syria,4516,115421,2252,55708,0040,Advertising and promotions managers,1,12,2.1540891792920226e-4
-Syria,4516,115421,2252,55708,0101,Administrative services managers,1,12,2.1540891792920226e-4
-Syria,4516,115421,2252,55708,0960,Other financial specialists,1,12,2.1540891792920226e-4
-Syria,4516,115421,2252,55708,0530,"Purchasing agents, except wholesale, retail, and farm products",1,11,1.9745817476843542e-4
-Syria,4516,115421,2252,55708,0640,"Compensation, benefits, and job analysis specialists",1,11,1.9745817476843542e-4
-Syria,4516,115421,2252,55708,3422,Psychiatric technicians,1,11,1.9745817476843542e-4
-Syria,4516,115421,2252,55708,6600,"Helpers, construction trades",1,11,1.9745817476843542e-4
-Syria,4516,115421,2252,55708,7000,"First-line supervisors of mechanics, installers, and repairers",1,11,1.9745817476843542e-4
-Syria,4516,115421,2252,55708,0900,Financial examiners,1,10,1.7950743160766855e-4
-Syria,4516,115421,2252,55708,3424,Veterinary technologists and technicians,1,10,1.7950743160766855e-4
-Syria,4516,115421,2252,55708,4540,Tour and travel guides,1,10,1.7950743160766855e-4
-Syria,4516,115421,2252,55708,8800,Packaging and filling machine operators and tenders,1,10,1.7950743160766855e-4
-Syria,4516,115421,2252,55708,9050,Flight attendants,1,10,1.7950743160766855e-4
-Syria,4516,115421,2252,55708,1031,Web developers,1,9,1.615566884469017e-4
-Syria,4516,115421,2252,55708,2004,Mental health counselors,1,9,1.615566884469017e-4
-Syria,4516,115421,2252,55708,2920,"Television, video, and film camera operators and editors",1,9,1.615566884469017e-4
-Syria,4516,115421,2252,55708,4810,Insurance sales agents,1,9,1.615566884469017e-4
-Syria,4516,115421,2252,55708,6250,"Cement masons, concrete finishers, and terrazzo workers",1,9,1.615566884469017e-4
-Syria,4516,115421,2252,55708,4622,Recreation workers,1,8,1.4360594528613484e-4
-Syria,4516,115421,2252,55708,0205,"Farmers, ranchers, and other agricultural managers",1,7,1.25655202125368e-4
-Syria,4516,115421,2252,55708,0860,Insurance underwriters,1,7,1.25655202125368e-4
-Syria,4516,115421,2252,55708,1520,"Petroleum, mining and geological engineers, including mining safety engineers",1,7,1.25655202125368e-4
-Syria,4516,115421,2252,55708,1745,"Environmental scientists and specialists, including health",1,6,1.0770445896460113e-4
-Syria,4516,115421,2252,55708,2330,Special education teachers,1,6,1.0770445896460113e-4
-Syria,4516,115421,2252,55708,4255,Other grounds maintenance workers,1,6,1.0770445896460113e-4
-Syria,4516,115421,2252,55708,5900,"Office machine operators, except computer",1,6,1.0770445896460113e-4
-Syria,4516,115421,2252,55708,9300,"Sailors and marine oilers, and ship engineers",1,6,1.0770445896460113e-4
+country,n_workers,workers,occ,occ_title,occ_share
+Syria,188,3873,3090,Physicians,0.06952322826165003
+Syria,98,2378,4700,First-line supervisors of retail sales workers,0.042686867236303584
+Syria,90,2046,4720,Cashiers,0.03672722050692899
+Syria,69,2045,4760,Retail salespersons,0.03670926976376822
+Syria,72,1793,0440,Other managers,0.03218568248725497
+Syria,48,1200,9130,Driver/sales workers and truck drivers,0.021540891792920226
+Syria,41,899,9142,Taxi drivers,0.016137718101529402
+Syria,30,891,1021,Software developers,0.01599411215624327
+Syria,37,886,2205,Postsecondary teachers,0.015904358440439435
+Syria,36,856,0010,Chief executives and legislators,0.015365836145616428
+Syria,24,755,0310,Food service managers,0.013552811086378977
+Syria,29,750,2310,Elementary and middle school teachers,0.013463057370575142
+Syria,21,734,0020,General and operations managers,0.013175845480002873
+Syria,26,716,4220,Janitors and building cleaners,0.012852732103109069
+Syria,23,714,4850,"Sales representatives, wholesale and manufacturing",0.012816830616787536
+Syria,22,693,9620,"Laborers and freight, stock, and material movers, hand",0.012439865010411432
+Syria,15,690,4110,Waiters and waitresses,0.01238601278092913
+Syria,31,687,3602,Personal care aides,0.01233216055144683
+Syria,27,678,3010,Dentists,0.012170603862999929
+Syria,29,632,2545,Teaching assistants,0.011344869677604653
+Syria,20,627,3050,Pharmacists,0.011255115961800819
+Syria,22,577,3255,Registered nurses,0.010357578803762476
+Syria,19,564,0120,Financial managers,0.010124219142672506
+Syria,21,563,5740,"Secretaries and administrative assistants, except legal, medical, and executive",0.01010626839951174
+Syria,24,556,5240,Customer service representatives,0.009980613197386372
+Syria,11,534,9640,"Packers and packagers, hand",0.0095856968478495
+Syria,15,498,0705,Project management specialists,0.008939470094061893
+Syria,13,477,4030,Food preparation workers,0.00856250448768579
+Syria,15,450,4710,First-line supervisors of non-retail sales workers,0.008077834422345085
+Syria,26,443,0800,Accountants and auditors,0.007952179220219718
+Syria,23,419,4020,Cooks,0.007521361384361313
+Syria,14,391,5120,"Bookkeeping, accounting, and auditing clerks",0.007018740575859841
+Syria,16,381,4000,Chefs and head cooks,0.006839233144252172
+Syria,16,378,4920,Real estate brokers and sales agents,0.0067853809147698715
+Syria,15,374,6260,Construction laborers,0.006713577942126804
+Syria,15,363,9645,Stockers and order fillers,0.006516119767358369
+Syria,19,361,0350,Medical and health services managers,0.006480218281036835
+Syria,18,361,2100,"Lawyers, and judges, magistrates, and other judicial workers",0.006480218281036835
+Syria,16,353,7200,Automotive service technicians and mechanics,0.0063366123357507
+Syria,11,345,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",0.006193006390464565
+Syria,12,335,8990,"Miscellaneous production workers, including equipment operators and tenders",0.006013498958856897
+Syria,3,328,8300,Laundry and dry-cleaning workers,0.005887843756731528
+Syria,20,311,1530,Other engineers,0.005582681122998492
+Syria,11,295,4510,"Hairdressers, hairstylists, and cosmetologists",0.005295469232426222
+Syria,17,293,2320,Secondary school teachers,0.005259567746104689
+Syria,8,287,0051,Marketing managers,0.005151863287140087
+Syria,11,287,4055,Fast food and counter workers,0.005151863287140087
+Syria,9,287,7700,First-line supervisors of production and operating workers,0.005151863287140087
+Syria,14,285,3601,Home health aides,0.005115961800818554
+Syria,9,284,2634,Graphic designers,0.005098011057657787
+Syria,8,272,6355,Electricians,0.004882602139728584
+Syria,15,271,1360,Civil engineers,0.004864651396567818
+Syria,8,271,3930,Security guards and gaming surveillance officers,0.004864651396567818
+Syria,13,253,2300,Preschool and kindergarten teachers,0.0045415380196740145
+Syria,6,249,0052,Sales managers,0.004469735047030947
+Syria,7,249,4965,"Sales and related workers, all other",0.004469735047030947
+Syria,8,246,1305,"Architects, except landscape and naval",0.004415882817548646
+Syria,9,246,7750,Other assemblers and fabricators,0.004415882817548646
+Syria,7,245,5110,Billing and posting clerks,0.00439793207438788
+Syria,9,243,5400,Receptionists and information clerks,0.004362030588066346
+Syria,15,237,5000,First-line supervisors of office and administrative support workers,0.004254326129101745
+Syria,10,235,2360,Other teachers and instructors,0.004218424642780211
+Syria,4,216,2350,Tutors,0.003877360522725641
+Syria,3,205,4251,Landscaping and groundskeeping workers,0.0036799023479572052
+Syria,7,204,3645,Medical assistants,0.0036619516047964387
+Syria,6,204,4950,"Door-to-door sales workers, news and street vendors, and related workers",0.0036619516047964387
+Syria,9,202,5860,"Office clerks, general",0.003626050118474905
+Syria,8,195,0230,Education and childcare administrators,0.003500394916349537
+Syria,7,193,2861,Interpreters and translators,0.003464493430028003
+Syria,7,192,0420,Social and community service managers,0.003446542686867236
+Syria,6,191,6230,Carpenters,0.0034285919437064692
+Syria,4,191,8740,"Inspectors, testers, sorters, samplers, and weighers",0.0034285919437064692
+Syria,11,187,0220,Construction managers,0.003356788971063402
+Syria,8,185,0750,"Business operations specialists, all other",0.0033208874847418684
+Syria,7,181,5510,Couriers and messengers,0.003249084512098801
+Syria,4,179,4740,Counter and rental clerks,0.003213183025777267
+Syria,9,178,1108,"Computer occupations, all other",0.0031952322826165
+Syria,5,177,1050,Computer support specialists,0.0031772815394557337
+Syria,6,173,0160,"Transportation, storage, and distribution managers",0.003105478566812666
+Syria,11,171,1006,Computer systems analysts,0.0030695770804911324
+Syria,6,170,3300,Clinical laboratory technologists and technicians,0.0030516263373303655
+Syria,11,168,4600,Childcare workers,0.0030157248510088316
+Syria,8,167,1460,Mechanical engineers,0.002997774107848065
+Syria,5,167,5160,Tellers,0.002997774107848065
+Syria,8,160,8750,Jewelers and precious stone and metal workers,0.002872118905722697
+Syria,7,155,6442,"Plumbers, pipefitters, and steamfitters",0.0027823651899188625
+Syria,5,154,3640,Dental assistants,0.002764414446758096
+Syria,5,149,1970,"Other life, physical, and social science technicians",0.0026746607309542617
+Syria,4,149,4655,"Personal care and service workers, all other",0.0026746607309542617
+Syria,8,147,0710,Management analysts,0.0026387592446327278
+Syria,1,145,1007,Information security analysts,0.002602857758311194
+Syria,8,144,0410,"Property, real estate, and community association managers",0.0025849070151504274
+Syria,1,143,0540,"Claims adjusters, appraisers, examiners, and investigators",0.0025669562719896604
+Syria,2,141,3423,Surgical technologists,0.0025310547856681265
+Syria,9,139,0110,Computer and information systems managers,0.002495153299346593
+Syria,4,139,0735,Market research analysts and marketing specialists,0.002495153299346593
+Syria,3,135,1032,Web and digital interface designers,0.0024233503267035257
+Syria,5,134,4230,Maids and housekeeping cleaners,0.0024053995835427587
+Syria,6,133,4010,First-line supervisors of food preparation and serving workers,0.0023874488403819918
+Syria,1,133,5840,Insurance claims and policy processing clerks,0.0023874488403819918
+Syria,6,133,7340,"Maintenance and repair workers, general",0.0023874488403819918
+Syria,4,133,8140,"Welding, soldering, and brazing workers",0.0023874488403819918
+Syria,4,132,0300,Architectural and engineering managers,0.002369498097221225
+Syria,2,132,1900,Agricultural and food science technicians,0.002369498097221225
+Syria,4,128,6240,"Carpet, floor, and tile installers and finishers",0.0022976951245781575
+Syria,2,126,8225,Other metal workers and plastic workers,0.002261793638256624
+Syria,8,126,9121,"Bus drivers, school",0.002261793638256624
+Syria,6,123,9141,Shuttle drivers and chauffeurs,0.002207941408774323
+Syria,5,113,1545,Other drafters,0.0020284339771666545
+Syria,8,112,2040,Clergy,0.002010483234005888
+Syria,4,112,7315,"Heating, air conditioning, and refrigeration mechanics and installers",0.002010483234005888
+Syria,6,111,3421,Pharmacy technicians,0.001992532490845121
+Syria,3,108,1105,Network and computer systems administrators,0.0019386802613628204
+Syria,8,108,1760,"Physical scientists, all other",0.0019386802613628204
+Syria,8,108,9005,Supervisors of transportation and material moving workers,0.0019386802613628204
+Syria,5,107,5610,"Shipping, receiving, and inventory clerks",0.0019207295182020535
+Syria,4,106,5600,"Production, planning, and expediting clerks",0.0019027787750412867
+Syria,6,105,1430,"Industrial engineers, including health and safety",0.0018848280318805198
+Syria,5,105,3603,Nursing assistants,0.0018848280318805198
+Syria,2,105,9122,"Bus drivers, transit and intercity",0.0018848280318805198
+Syria,7,103,1410,Electrical and electronics engineers,0.001848926545558986
+Syria,2,102,4621,Exercise trainers and group fitness instructors,0.0018309758023982194
+Syria,7,100,1650,Other life scientists,0.0017950743160766857
+Syria,4,100,2600,Artists and related workers,0.0017950743160766857
+Syria,6,96,8030,Machinists,0.001723271343433618
+Syria,5,95,3310,Dental hygienists,0.0017053206002728514
+Syria,6,95,6200,First-line supervisors of construction trades and extraction workers,0.0017053206002728514
+Syria,4,94,2002,"Educational, guidance, and career counselors and advisors",0.0016873698571120844
+Syria,6,93,9610,Cleaners of vehicles and equipment,0.0016694191139513177
+Syria,4,90,3402,Paramedics,0.001615566884469017
+Syria,6,90,5550,Postal service mail carriers,0.001615566884469017
+Syria,3,90,7330,Industrial and refractory machinery mechanics,0.001615566884469017
+Syria,5,89,3100,Surgeons,0.00159761614130825
+Syria,2,89,4350,Animal caretakers,0.00159761614130825
+Syria,2,89,8320,Sewing machine operators,0.00159761614130825
+Syria,6,86,1010,Computer programmers,0.0015437639118259497
+Syria,6,86,6410,Painters and paperhangers,0.0015437639118259497
+Syria,1,85,7100,"Other electrical and electronic equipment mechanics, installers, and repairers",0.0015258131686651827
+Syria,1,85,7140,Aircraft mechanics and service technicians,0.0015258131686651827
+Syria,1,84,7830,"Food and tobacco roasting, baking, and drying machine operators and tenders",0.0015078624255044158
+Syria,2,84,7925,"Forming machine setters, operators, and tenders, metal and plastic",0.0015078624255044158
+Syria,3,83,3324,Magnetic resonance imaging technologists,0.001489911682343649
+Syria,4,83,4130,Dining room and cafeteria attendants and bartender helpers,0.001489911682343649
+Syria,4,82,0140,Industrial production managers,0.001471960939182882
+Syria,3,82,4120,"Food servers, nonrestaurant",0.001471960939182882
+Syria,2,82,7810,"Butchers and other meat, poultry, and fish processing workers",0.001471960939182882
+Syria,4,81,7020,Radio and telecommunications equipment installers and repairers,0.0014540101960221154
+Syria,3,80,4140,Dishwashers,0.0014360594528613484
+Syria,5,79,5940,Other office and administrative support workers,0.0014181087097005817
+Syria,3,76,4500,Barbers,0.001364256480218281
+Syria,1,75,2810,"News analysts, reporters, and journalists",0.001346305737057514
+Syria,3,74,2633,Floral designers,0.0013283549938967474
+Syria,2,74,2710,Producers and directors,0.0013283549938967474
+Syria,3,73,3550,Other healthcare practitioners and technical occupations,0.0013104042507359804
+Syria,6,72,4435,Other entertainment attendants and related workers,0.0012924535075752137
+Syria,1,72,6700,Elevator installers and repairers,0.0012924535075752137
+Syria,2,72,8650,"Crushing, grinding, polishing, mixing, and blending workers",0.0012924535075752137
+Syria,2,72,9150,"Motor vehicle operators, all other",0.0012924535075752137
+Syria,4,71,9600,Industrial truck and tractor operators,0.0012745027644144467
+Syria,4,70,4522,Skincare specialists,0.00125655202125368
+Syria,4,68,2014,"Social workers, all other",0.001220650534932146
+Syria,1,67,3545,Miscellaneous health technologists and technicians,0.0012026997917713794
+Syria,2,67,5360,"Human resources assistants, except payroll and timekeeping",0.0012026997917713794
+Syria,2,65,4750,Parts salespersons,0.0011667983054498457
+Syria,1,64,3620,Physical therapist assistants and aides,0.0011488475622890787
+Syria,2,64,4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",0.0011488475622890787
+Syria,1,64,6515,Roofers,0.0011488475622890787
+Syria,4,63,0850,Personal financial advisors,0.001130896819128312
+Syria,3,63,3258,"Nurse practitioners, and nurse midwives",0.001130896819128312
+Syria,2,63,3647,Pharmacy aides,0.001130896819128312
+Syria,3,62,3245,Other therapists,0.001112946075967545
+Syria,1,62,3323,Radiologic technologists and technicians,0.001112946075967545
+Syria,3,61,0136,Human resources managers,0.001094995332806778
+Syria,2,60,0845,Financial and investment analysts,0.0010770445896460114
+Syria,3,60,2752,Musicians and singers,0.0010770445896460114
+Syria,2,59,9030,Aircraft pilots and flight engineers,0.0010590938464852444
+Syria,5,58,2640,Other designers,0.0010411431033244777
+Syria,1,58,8250,Prepress technicians and workers,0.0010411431033244777
+Syria,3,56,7540,Locksmiths and safe repairers,0.001005241617002944
+Syria,4,55,1555,"Other engineering technologists and technicians, except drafters",9.87290873842177e-4
+Syria,4,54,3110,Physician assistants,9.693401306814102e-4
+Syria,2,54,4330,Supervisors of personal care and service workers,9.693401306814102e-4
+Syria,3,51,1106,Computer network architects,9.154879011991097e-4
+Syria,2,51,7150,Automotive body and related repairers,9.154879011991097e-4
+Syria,1,51,7420,Telecommunications line installers and repairers,9.154879011991097e-4
+Syria,4,51,7800,Bakers,9.154879011991097e-4
+Syria,3,50,0150,Purchasing managers,8.975371580383428e-4
+Syria,1,50,7010,"Computer, automated teller, and office machine repairers",8.975371580383428e-4
+Syria,2,50,7210,Bus and truck mechanics and diesel engine specialists,8.975371580383428e-4
+Syria,2,48,1541,Architectural and civil drafters,8.61635671716809e-4
+Syria,2,48,3630,Massage therapists,8.61635671716809e-4
+Syria,3,48,3870,Police officers,8.61635671716809e-4
+Syria,1,46,3321,Cardiovascular technologists and technicians,8.257341853952754e-4
+Syria,1,46,6305,Construction equipment operators,8.257341853952754e-4
+Syria,3,45,4820,"Securities, commodities, and financial services sales agents",8.077834422345085e-4
+Syria,1,44,2006,"Counselors, all other",7.898326990737417e-4
+Syria,3,44,3330,Nuclear medicine technologists and medical dosimetrists,7.898326990737417e-4
+Syria,2,44,6050,Other agricultural workers,7.898326990737417e-4
+Syria,2,43,0060,Public relations and fundraising managers,7.718819559129748e-4
+Syria,1,43,9760,Other material moving workers,7.718819559129748e-4
+Syria,3,42,5320,"Library assistants, clerical",7.539312127522079e-4
+Syria,2,41,2435,Librarians and media collections specialists,7.35980469591441e-4
+Syria,2,41,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,7.35980469591441e-4
+Syria,1,40,5140,Payroll and timekeeping clerks,7.180297264306742e-4
+Syria,1,40,5300,"Hotel, motel, and resort desk clerks",7.180297264306742e-4
+Syria,3,37,1320,Aerospace engineers,6.641774969483737e-4
+Syria,2,36,0335,Entertainment and recreation managers,6.462267537876068e-4
+Syria,2,36,1240,Other mathematical science occupations,6.462267537876068e-4
+Syria,3,36,2145,Paralegals and legal assistants,6.462267537876068e-4
+Syria,2,36,2850,Writers and authors,6.462267537876068e-4
+Syria,1,36,3725,"Miscellaneous first-line supervisors, protective service workers",6.462267537876068e-4
+Syria,2,36,8950,Helpers--production workers,6.462267537876068e-4
+Syria,2,35,0910,Credit counselors and loan officers,6.2827601062684e-4
+Syria,2,35,1065,Database administrators and architects,6.2827601062684e-4
+Syria,2,35,3030,Dietitians and nutritionists,6.2827601062684e-4
+Syria,2,35,3322,Diagnostic medical sonographers,6.2827601062684e-4
+Syria,2,34,0565,Compliance officers,6.10325267466073e-4
+Syria,1,34,9040,Air traffic controllers and airfield operations specialists,6.10325267466073e-4
+Syria,2,33,0340,Lodging managers,5.923745243053062e-4
+Syria,2,33,2825,Public relations specialists,5.923745243053062e-4
+Syria,2,33,3140,Audiologists,5.923745243053062e-4
+Syria,3,33,4200,First-line supervisors of housekeeping and janitorial workers,5.923745243053062e-4
+Syria,1,33,7610,"Helpers--installation, maintenance, and repair workers",5.923745243053062e-4
+Syria,1,32,2635,Interior designers,5.744237811445394e-4
+Syria,2,31,0600,Cost estimators,5.564730379837725e-4
+Syria,1,30,2636,Merchandise displayers and window trimmers,5.385222948230057e-4
+Syria,1,30,3430,Dietetic technicians and ophthalmic medical technicians,5.385222948230057e-4
+Syria,2,30,3500,Licensed practical and licensed vocational nurses,5.385222948230057e-4
+Syria,3,30,8350,"Tailors, dressmakers, and sewers",5.385222948230057e-4
+Syria,1,29,3646,Medical transcriptionists,5.205715516622388e-4
+Syria,1,29,5260,File clerks,5.205715516622388e-4
+Syria,1,28,5410,Reservation and transportation ticket agents and travel clerks,5.02620808501472e-4
+Syria,2,27,1860,Other social scientists,4.846700653407051e-4
+Syria,2,27,4800,Advertising sales agents,4.846700653407051e-4
+Syria,1,27,5165,Other financial clerks,4.846700653407051e-4
+Syria,1,27,5522,"Dispatchers, except police, fire, and ambulance",4.846700653407051e-4
+Syria,1,27,7040,"Electric motor, power tool, and related repairers",4.846700653407051e-4
+Syria,2,27,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",4.846700653407051e-4
+Syria,1,26,6330,"Drywall installers, ceiling tile installers, and tapers",4.6671932217993826e-4
+Syria,2,25,2016,Social and human service assistants,4.487685790191714e-4
+Syria,1,25,3820,Detectives and criminal investigators,4.487685790191714e-4
+Syria,1,25,6850,Underground mining machine operators,4.487685790191714e-4
+Syria,2,24,0940,Tax preparers,4.308178358584045e-4
+Syria,1,24,1825,Other psychologists,4.308178358584045e-4
+Syria,1,23,2012,Healthcare social workers,4.128670926976377e-4
+Syria,1,22,1400,Computer hardware engineers,3.9491634953687084e-4
+Syria,1,22,1450,Materials engineers,3.9491634953687084e-4
+Syria,2,22,1551,Electrical and electronic engineering technologists and technicians,3.9491634953687084e-4
+Syria,1,22,2170,"Title examiners, abstractors, and searchers",3.9491634953687084e-4
+Syria,1,22,2632,Fashion designers,3.9491634953687084e-4
+Syria,1,21,3160,Physical therapists,3.7696560637610394e-4
+Syria,1,21,7240,Small engine mechanics,3.7696560637610394e-4
+Syria,1,21,9365,Transportation service attendants,3.7696560637610394e-4
+Syria,2,20,1220,Operations research analysts,3.590148632153371e-4
+Syria,1,20,2025,Other community and social service specialists,3.590148632153371e-4
+Syria,1,20,3040,Optometrists,3.590148632153371e-4
+Syria,1,20,8255,Printing press operators,3.590148632153371e-4
+Syria,1,19,1640,Conservation scientists and foresters,3.4106412005457026e-4
+Syria,1,19,5330,Loan interviewers and clerks,3.4106412005457026e-4
+Syria,1,18,0135,Compensation and benefits managers,3.231133768938034e-4
+Syria,1,18,1800,Economists,3.231133768938034e-4
+Syria,1,18,2910,Photographers,3.231133768938034e-4
+Syria,1,18,3655,Other healthcare support workers,3.231133768938034e-4
+Syria,1,18,7120,Electronic home entertainment equipment installers and repairers,3.231133768938034e-4
+Syria,1,18,7510,"Coin, vending, and amusement machine servicers and repairers",3.231133768938034e-4
+Syria,1,18,8920,"Molders, shapers, and casters, except metal and plastic",3.231133768938034e-4
+Syria,1,17,3802,Correctional officers and jailers,3.051626337330365e-4
+Syria,1,17,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",3.051626337330365e-4
+Syria,2,17,5810,Data entry keyers,3.051626337330365e-4
+Syria,1,17,6005,"First-line supervisors of farming, fishing, and forestry workers",3.051626337330365e-4
+Syria,1,16,0630,Human resources workers,2.872118905722697e-4
+Syria,1,16,1822,School psychologists,2.872118905722697e-4
+Syria,1,16,2011,"Child, family, and school social workers",2.872118905722697e-4
+Syria,1,16,2722,Coaches and scouts,2.872118905722697e-4
+Syria,1,16,4400,Gambling services workers,2.872118905722697e-4
+Syria,1,16,7300,Control and valve installers and repairers,2.872118905722697e-4
+Syria,1,15,1980,Occupational health and safety specialists and technicians,2.6926114741150284e-4
+Syria,1,15,7855,"Food processing workers, all other",2.6926114741150284e-4
+Syria,1,14,0725,"Meeting, convention, and event planners",2.51310404250736e-4
+Syria,1,14,3000,Chiropractors,2.51310404250736e-4
+Syria,1,14,6120,Forest and conservation workers,2.51310404250736e-4
+Syria,1,13,0102,Facilities managers,2.3335966108996913e-4
+Syria,1,13,2555,Other educational instruction and library workers,2.3335966108996913e-4
+Syria,1,13,2751,Music directors and composers,2.3335966108996913e-4
+Syria,1,13,2830,Editors,2.3335966108996913e-4
+Syria,1,13,3220,Respiratory therapists,2.3335966108996913e-4
+Syria,1,13,3515,Medical records specialists,2.3335966108996913e-4
+Syria,1,13,3520,"Opticians, dispensing",2.3335966108996913e-4
+Syria,1,13,3740,Firefighters,2.3335966108996913e-4
+Syria,1,13,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",2.3335966108996913e-4
+Syria,1,13,8555,Other woodworkers,2.3335966108996913e-4
+Syria,1,12,0040,Advertising and promotions managers,2.1540891792920226e-4
+Syria,1,12,0101,Administrative services managers,2.1540891792920226e-4
+Syria,1,12,0960,Other financial specialists,2.1540891792920226e-4
+Syria,1,11,0530,"Purchasing agents, except wholesale, retail, and farm products",1.9745817476843542e-4
+Syria,1,11,0640,"Compensation, benefits, and job analysis specialists",1.9745817476843542e-4
+Syria,1,11,3422,Psychiatric technicians,1.9745817476843542e-4
+Syria,1,11,6600,"Helpers, construction trades",1.9745817476843542e-4
+Syria,1,11,7000,"First-line supervisors of mechanics, installers, and repairers",1.9745817476843542e-4
+Syria,1,10,0900,Financial examiners,1.7950743160766855e-4
+Syria,1,10,3424,Veterinary technologists and technicians,1.7950743160766855e-4
+Syria,1,10,4540,Tour and travel guides,1.7950743160766855e-4
+Syria,1,10,8800,Packaging and filling machine operators and tenders,1.7950743160766855e-4
+Syria,1,10,9050,Flight attendants,1.7950743160766855e-4
+Syria,1,9,1031,Web developers,1.615566884469017e-4
+Syria,1,9,2004,Mental health counselors,1.615566884469017e-4
+Syria,1,9,2920,"Television, video, and film camera operators and editors",1.615566884469017e-4
+Syria,1,9,4810,Insurance sales agents,1.615566884469017e-4
+Syria,1,9,6250,"Cement masons, concrete finishers, and terrazzo workers",1.615566884469017e-4
+Syria,1,8,4622,Recreation workers,1.4360594528613484e-4
+Syria,1,7,0205,"Farmers, ranchers, and other agricultural managers",1.25655202125368e-4
+Syria,1,7,0860,Insurance underwriters,1.25655202125368e-4
+Syria,1,7,1520,"Petroleum, mining and geological engineers, including mining safety engineers",1.25655202125368e-4
+Syria,1,6,1745,"Environmental scientists and specialists, including health",1.0770445896460113e-4
+Syria,1,6,2330,Special education teachers,1.0770445896460113e-4
+Syria,1,6,4255,Other grounds maintenance workers,1.0770445896460113e-4
+Syria,1,6,5900,"Office machine operators, except computer",1.0770445896460113e-4
+Syria,1,6,9300,"Sailors and marine oilers, and ship engineers",1.0770445896460113e-4

@@ -1,342 +1,342 @@
-country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
-Bolivia,3404,83158,2115,54566,4220,Janitors and building cleaners,70,2115,0.038760400249239456
-Bolivia,3404,83158,2115,54566,4230,Maids and housekeeping cleaners,62,1892,0.03467360627496976
-Bolivia,3404,83158,2115,54566,0440,Other managers,61,1557,0.02853425209837628
-Bolivia,3404,83158,2115,54566,9130,Driver/sales workers and truck drivers,44,1246,0.02283473225085218
-Bolivia,3404,83158,2115,54566,4760,Retail salespersons,38,1222,0.022394897921782796
-Bolivia,3404,83158,2115,54566,4020,Cooks,38,1141,0.020910457061173626
-Bolivia,3404,83158,2115,54566,5240,Customer service representatives,31,1067,0.019554301213209693
-Bolivia,3404,83158,2115,54566,3602,Personal care aides,21,960,0.017593373162775355
-Bolivia,3404,83158,2115,54566,4600,Childcare workers,39,931,0.017061906681816515
-Bolivia,3404,83158,2115,54566,6230,Carpenters,30,925,0.01695194809954917
-Bolivia,3404,83158,2115,54566,6260,Construction laborers,30,811,0.014862735036469597
-Bolivia,3404,83158,2115,54566,9645,Stockers and order fillers,27,780,0.014294615694754976
-Bolivia,3404,83158,2115,54566,3255,Registered nurses,28,766,0.014038045669464502
-Bolivia,3404,83158,2115,54566,4110,Waiters and waitresses,32,724,0.01326833559359308
-Bolivia,3404,83158,2115,54566,0120,Financial managers,30,690,0.012645236960744786
-Bolivia,3404,83158,2115,54566,2310,Elementary and middle school teachers,30,680,0.012461972656965876
-Bolivia,3404,83158,2115,54566,4700,First-line supervisors of retail sales workers,26,671,0.012297034783564857
-Bolivia,3404,83158,2115,54566,0010,Chief executives and legislators,25,662,0.012132096910163839
-Bolivia,3404,83158,2115,54566,5740,"Secretaries and administrative assistants, except legal, medical, and executive",27,657,0.012040464758274383
-Bolivia,3404,83158,2115,54566,9142,Taxi drivers,22,641,0.011747241872228127
-Bolivia,3404,83158,2115,54566,0800,Accountants and auditors,25,625,0.011454018986181872
-Bolivia,3404,83158,2115,54566,4030,Food preparation workers,14,610,0.011179122530513506
-Bolivia,3404,83158,2115,54566,2545,Teaching assistants,27,589,0.010794267492577796
-Bolivia,3404,83158,2115,54566,0220,Construction managers,22,518,0.009493090935747536
-Bolivia,3404,83158,2115,54566,4920,Real estate brokers and sales agents,20,485,0.008888318733277133
-Bolivia,3404,83158,2115,54566,0710,Management analysts,20,476,0.008723380859876114
-Bolivia,3404,83158,2115,54566,8990,"Miscellaneous production workers, including equipment operators and tenders",15,470,0.008613422277608767
-Bolivia,3404,83158,2115,54566,2300,Preschool and kindergarten teachers,17,466,0.008540116556097203
-Bolivia,3404,83158,2115,54566,2205,Postsecondary teachers,19,442,0.008100282227027819
-Bolivia,3404,83158,2115,54566,5120,"Bookkeeping, accounting, and auditing clerks",13,410,0.007513836454935308
-Bolivia,3404,83158,2115,54566,6410,Painters and paperhangers,13,403,0.007385551442290071
-Bolivia,3404,83158,2115,54566,0310,Food service managers,17,395,0.007238939999266942
-Bolivia,3404,83158,2115,54566,1050,Computer support specialists,12,390,0.007147307847377488
-Bolivia,3404,83158,2115,54566,3640,Dental assistants,11,387,0.007092328556243815
-Bolivia,3404,83158,2115,54566,5860,"Office clerks, general",16,386,0.007074002125865924
-Bolivia,3404,83158,2115,54566,0020,General and operations managers,16,385,0.007055675695488033
-Bolivia,3404,83158,2115,54566,9620,"Laborers and freight, stock, and material movers, hand",15,382,0.00700069640435436
-Bolivia,3404,83158,2115,54566,1006,Computer systems analysts,12,380,0.006964043543598578
-Bolivia,3404,83158,2115,54566,4010,First-line supervisors of food preparation and serving workers,14,375,0.006872411391709123
-Bolivia,3404,83158,2115,54566,7200,Automotive service technicians and mechanics,16,365,0.006689147087930213
-Bolivia,3404,83158,2115,54566,0750,"Business operations specialists, all other",14,364,0.006670820657552322
-Bolivia,3404,83158,2115,54566,4720,Cashiers,18,363,0.006652494227174431
-Bolivia,3404,83158,2115,54566,1021,Software developers,21,355,0.006505882784151303
-Bolivia,3404,83158,2115,54566,1108,"Computer occupations, all other",16,353,0.006469229923395521
-Bolivia,3404,83158,2115,54566,4251,Landscaping and groundskeeping workers,10,349,0.006395924201883957
-Bolivia,3404,83158,2115,54566,0410,"Property, real estate, and community association managers",14,339,0.0062126598981050475
-Bolivia,3404,83158,2115,54566,6355,Electricians,11,331,0.006066048455081919
-Bolivia,3404,83158,2115,54566,6200,First-line supervisors of construction trades and extraction workers,13,325,0.005956089872814574
-Bolivia,3404,83158,2115,54566,4810,Insurance sales agents,8,318,0.005827804860169337
-Bolivia,3404,83158,2115,54566,3603,Nursing assistants,15,315,0.005772825569035663
-Bolivia,3404,83158,2115,54566,1305,"Architects, except landscape and naval",7,311,0.0056995198475241
-Bolivia,3404,83158,2115,54566,4850,"Sales representatives, wholesale and manufacturing",11,300,0.0054979291133672985
-Bolivia,3404,83158,2115,54566,0705,Project management specialists,19,284,0.005204706227321042
-Bolivia,3404,83158,2115,54566,5000,First-line supervisors of office and administrative support workers,13,284,0.005204706227321042
-Bolivia,3404,83158,2115,54566,3110,Physician assistants,2,279,0.005113074075431588
-Bolivia,3404,83158,2115,54566,4000,Chefs and head cooks,7,273,0.005003115493164242
-Bolivia,3404,83158,2115,54566,2360,Other teachers and instructors,14,271,0.004966462632408459
-Bolivia,3404,83158,2115,54566,5710,Executive secretaries and executive administrative assistants,6,264,0.0048381776197632224
-Bolivia,3404,83158,2115,54566,0110,Computer and information systems managers,8,263,0.004819851189385331
-Bolivia,3404,83158,2115,54566,3300,Clinical laboratory technologists and technicians,8,261,0.00478319832862955
-Bolivia,3404,83158,2115,54566,1530,Other engineers,14,260,0.004764871898251658
-Bolivia,3404,83158,2115,54566,5400,Receptionists and information clerks,11,255,0.004673239746362204
-Bolivia,3404,83158,2115,54566,6442,"Plumbers, pipefitters, and steamfitters",8,246,0.004508301872961184
-Bolivia,3404,83158,2115,54566,0230,Education and childcare administrators,10,245,0.004489975442583294
-Bolivia,3404,83158,2115,54566,2320,Secondary school teachers,13,242,0.00443499615144962
-Bolivia,3404,83158,2115,54566,7340,"Maintenance and repair workers, general",9,236,0.0043250375691822746
-Bolivia,3404,83158,2115,54566,7700,First-line supervisors of production and operating workers,7,233,0.004270058278048602
-Bolivia,3404,83158,2115,54566,4510,"Hairdressers, hairstylists, and cosmetologists",15,230,0.004215078986914929
-Bolivia,3404,83158,2115,54566,3930,Security guards and gaming surveillance officers,11,220,0.004031814683136019
-Bolivia,3404,83158,2115,54566,0052,Sales managers,8,215,0.003940182531246564
-Bolivia,3404,83158,2115,54566,7800,Bakers,6,213,0.003903529670490782
-Bolivia,3404,83158,2115,54566,4710,First-line supervisors of non-retail sales workers,11,212,0.0038852032401128908
-Bolivia,3404,83158,2115,54566,8300,Laundry and dry-cleaning workers,7,212,0.0038852032401128908
-Bolivia,3404,83158,2115,54566,4200,First-line supervisors of housekeeping and janitorial workers,8,208,0.0038118975186013267
-Bolivia,3404,83158,2115,54566,7315,"Heating, air conditioning, and refrigeration mechanics and installers",9,206,0.003775244657845545
-Bolivia,3404,83158,2115,54566,9121,"Bus drivers, school",5,204,0.003738591797089763
-Bolivia,3404,83158,2115,54566,3090,Physicians,11,196,0.0035919803540666348
-Bolivia,3404,83158,2115,54566,1360,Civil engineers,10,190,0.003482021771799289
-Bolivia,3404,83158,2115,54566,0630,Human resources workers,7,188,0.003445368911043507
-Bolivia,3404,83158,2115,54566,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",9,180,0.0032987574680203788
-Bolivia,3404,83158,2115,54566,9640,"Packers and packagers, hand",9,175,0.003207125316130924
-Bolivia,3404,83158,2115,54566,9610,Cleaners of vehicles and equipment,3,174,0.003188798885753033
-Bolivia,3404,83158,2115,54566,3870,Police officers,8,172,0.003152146024997251
-Bolivia,3404,83158,2115,54566,6765,Other construction and related workers,3,171,0.00313381959461936
-Bolivia,3404,83158,2115,54566,4521,Manicurists and pedicurists,5,166,0.0030421874427299053
-Bolivia,3404,83158,2115,54566,3500,Licensed practical and licensed vocational nurses,6,163,0.002987208151596232
-Bolivia,3404,83158,2115,54566,0735,Market research analysts and marketing specialists,8,156,0.002858923138950995
-Bolivia,3404,83158,2115,54566,4130,Dining room and cafeteria attendants and bartender helpers,5,154,0.002822270278195213
-Bolivia,3404,83158,2115,54566,5510,Couriers and messengers,7,153,0.002803943847817322
-Bolivia,3404,83158,2115,54566,2016,Social and human service assistants,8,152,0.0027856174174394313
-Bolivia,3404,83158,2115,54566,0350,Medical and health services managers,5,150,0.0027489645566836493
-Bolivia,3404,83158,2115,54566,2634,Graphic designers,5,141,0.0025840266832826302
-Bolivia,3404,83158,2115,54566,5110,Billing and posting clerks,3,140,0.002565700252904739
-Bolivia,3404,83158,2115,54566,2861,Interpreters and translators,11,137,0.002510720961771066
-Bolivia,3404,83158,2115,54566,4140,Dishwashers,3,136,0.0024923945313931753
-Bolivia,3404,83158,2115,54566,2920,"Television, video, and film camera operators and editors",2,133,0.0024374152402595025
-Bolivia,3404,83158,2115,54566,4900,"Models, demonstrators, and product promoters",2,133,0.0024374152402595025
-Bolivia,3404,83158,2115,54566,7140,Aircraft mechanics and service technicians,3,133,0.0024374152402595025
-Bolivia,3404,83158,2115,54566,1800,Economists,8,130,0.002382435949125829
-Bolivia,3404,83158,2115,54566,2145,Paralegals and legal assistants,8,130,0.002382435949125829
-Bolivia,3404,83158,2115,54566,2640,Other designers,8,130,0.002382435949125829
-Bolivia,3404,83158,2115,54566,0051,Marketing managers,4,129,0.0023641095187479384
-Bolivia,3404,83158,2115,54566,8450,Upholsterers,3,128,0.002345783088370047
-Bolivia,3404,83158,2115,54566,4055,Fast food and counter workers,7,124,0.0022724773668584834
-Bolivia,3404,83158,2115,54566,8740,"Inspectors, testers, sorters, samplers, and weighers",4,123,0.002254150936480592
-Bolivia,3404,83158,2115,54566,5610,"Shipping, receiving, and inventory clerks",7,122,0.0022358245061027014
-Bolivia,3404,83158,2115,54566,1105,Network and computer systems administrators,5,120,0.0021991716453469193
-Bolivia,3404,83158,2115,54566,0845,Financial and investment analysts,6,119,0.0021808452149690285
-Bolivia,3404,83158,2115,54566,1240,Other mathematical science occupations,5,118,0.0021625187845911373
-Bolivia,3404,83158,2115,54566,4120,"Food servers, nonrestaurant",5,118,0.0021625187845911373
-Bolivia,3404,83158,2115,54566,1220,Operations research analysts,6,117,0.0021441923542132465
-Bolivia,3404,83158,2115,54566,7810,"Butchers and other meat, poultry, and fish processing workers",4,116,0.0021258659238353552
-Bolivia,3404,83158,2115,54566,0340,Lodging managers,2,115,0.0021075394934574644
-Bolivia,3404,83158,2115,54566,3645,Medical assistants,8,113,0.0020708866327016824
-Bolivia,3404,83158,2115,54566,0565,Compliance officers,5,112,0.0020525602023237915
-Bolivia,3404,83158,2115,54566,2004,Mental health counselors,4,110,0.0020159073415680095
-Bolivia,3404,83158,2115,54566,0136,Human resources managers,7,108,0.0019792544808122274
-Bolivia,3404,83158,2115,54566,5550,Postal service mail carriers,4,108,0.0019792544808122274
-Bolivia,3404,83158,2115,54566,8140,"Welding, soldering, and brazing workers",2,107,0.001960928050434336
-Bolivia,3404,83158,2115,54566,1007,Information security analysts,4,106,0.0019426016200564454
-Bolivia,3404,83158,2115,54566,1760,"Physical scientists, all other",7,106,0.0019426016200564454
-Bolivia,3404,83158,2115,54566,0160,"Transportation, storage, and distribution managers",4,105,0.0019242751896785544
-Bolivia,3404,83158,2115,54566,1430,"Industrial engineers, including health and safety",4,105,0.0019242751896785544
-Bolivia,3404,83158,2115,54566,4350,Animal caretakers,3,103,0.0018876223289227725
-Bolivia,3404,83158,2115,54566,0300,Architectural and engineering managers,4,102,0.0018692958985448815
-Bolivia,3404,83158,2115,54566,0725,"Meeting, convention, and event planners",4,101,0.0018509694681669905
-Bolivia,3404,83158,2115,54566,6240,"Carpet, floor, and tile installers and finishers",4,101,0.0018509694681669905
-Bolivia,3404,83158,2115,54566,2100,"Lawyers, and judges, magistrates, and other judicial workers",8,99,0.0018143166074112084
-Bolivia,3404,83158,2115,54566,2025,Other community and social service specialists,4,98,0.0017959901770333174
-Bolivia,3404,83158,2115,54566,2600,Artists and related workers,5,97,0.0017776637466554264
-Bolivia,3404,83158,2115,54566,5600,"Production, planning, and expediting clerks",3,97,0.0017776637466554264
-Bolivia,3404,83158,2115,54566,7855,"Food processing workers, all other",1,97,0.0017776637466554264
-Bolivia,3404,83158,2115,54566,6330,"Drywall installers, ceiling tile installers, and tapers",3,96,0.0017593373162775356
-Bolivia,3404,83158,2115,54566,7150,Automotive body and related repairers,4,95,0.0017410108858996445
-Bolivia,3404,83158,2115,54566,6710,Fence erectors,2,94,0.0017226844555217535
-Bolivia,3404,83158,2115,54566,2710,Producers and directors,4,93,0.0017043580251438625
-Bolivia,3404,83158,2115,54566,0540,"Claims adjusters, appraisers, examiners, and investigators",3,92,0.0016860315947659714
-Bolivia,3404,83158,2115,54566,9040,Air traffic controllers and airfield operations specialists,2,90,0.0016493787340101894
-Bolivia,3404,83158,2115,54566,0150,Purchasing managers,4,88,0.0016127258732544076
-Bolivia,3404,83158,2115,54566,2040,Clergy,3,88,0.0016127258732544076
-Bolivia,3404,83158,2115,54566,8320,Sewing machine operators,2,87,0.0015943994428765165
-Bolivia,3404,83158,2115,54566,2006,"Counselors, all other",3,86,0.0015760730124986255
-Bolivia,3404,83158,2115,54566,2012,Healthcare social workers,1,86,0.0015760730124986255
-Bolivia,3404,83158,2115,54566,3258,"Nurse practitioners, and nurse midwives",3,85,0.0015577465821207345
-Bolivia,3404,83158,2115,54566,2805,Broadcast announcers and radio disc jockeys,2,84,0.0015394201517428434
-Bolivia,3404,83158,2115,54566,2631,Commercial and industrial designers,1,83,0.0015210937213649526
-Bolivia,3404,83158,2115,54566,3010,Dentists,5,83,0.0015210937213649526
-Bolivia,3404,83158,2115,54566,7420,Telecommunications line installers and repairers,3,81,0.0014844408606091706
-Bolivia,3404,83158,2115,54566,4655,"Personal care and service workers, all other",3,80,0.0014661144302312796
-Bolivia,3404,83158,2115,54566,5160,Tellers,3,80,0.0014661144302312796
-Bolivia,3404,83158,2115,54566,0140,Industrial production managers,4,79,0.0014477879998533885
-Bolivia,3404,83158,2115,54566,3601,Home health aides,4,79,0.0014477879998533885
-Bolivia,3404,83158,2115,54566,6460,Plasterers and stucco masons,1,79,0.0014477879998533885
-Bolivia,3404,83158,2115,54566,0600,Cost estimators,4,76,0.0013928087087197157
-Bolivia,3404,83158,2115,54566,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,76,0.0013928087087197157
-Bolivia,3404,83158,2115,54566,0910,Credit counselors and loan officers,4,75,0.0013744822783418246
-Bolivia,3404,83158,2115,54566,8030,Machinists,4,75,0.0013744822783418246
-Bolivia,3404,83158,2115,54566,7330,Industrial and refractory machinery mechanics,2,74,0.0013561558479639336
-Bolivia,3404,83158,2115,54566,8350,"Tailors, dressmakers, and sewers",2,74,0.0013561558479639336
-Bolivia,3404,83158,2115,54566,3245,Other therapists,3,73,0.0013378294175860426
-Bolivia,3404,83158,2115,54566,3630,Massage therapists,2,73,0.0013378294175860426
-Bolivia,3404,83158,2115,54566,6050,Other agricultural workers,5,70,0.0012828501264523695
-Bolivia,3404,83158,2115,54566,6825,Surface mining machine operators and earth drillers,1,69,0.0012645236960744787
-Bolivia,3404,83158,2115,54566,7220,Heavy vehicle and mobile equipment service technicians and mechanics,2,69,0.0012645236960744787
-Bolivia,3404,83158,2115,54566,3310,Dental hygienists,3,68,0.0012461972656965877
-Bolivia,3404,83158,2115,54566,5420,Other information and records clerks,4,68,0.0012461972656965877
-Bolivia,3404,83158,2115,54566,0420,Social and community service managers,5,67,0.0012278708353186966
-Bolivia,3404,83158,2115,54566,9830,"Military, rank not specified",4,67,0.0012278708353186966
-Bolivia,3404,83158,2115,54566,5165,Other financial clerks,3,66,0.0012095444049408056
-Bolivia,3404,83158,2115,54566,7840,Food batchmakers,4,66,0.0012095444049408056
-Bolivia,3404,83158,2115,54566,4930,Sales engineers,3,65,0.0011912179745629146
-Bolivia,3404,83158,2115,54566,7750,Other assemblers and fabricators,3,64,0.0011728915441850236
-Bolivia,3404,83158,2115,54566,2014,"Social workers, all other",6,63,0.0011545651138071327
-Bolivia,3404,83158,2115,54566,0960,Other financial specialists,2,62,0.0011362386834292417
-Bolivia,3404,83158,2115,54566,7000,"First-line supervisors of mechanics, installers, and repairers",2,61,0.0011179122530513507
-Bolivia,3404,83158,2115,54566,2740,Dancers and choreographers,1,60,0.0010995858226734597
-Bolivia,3404,83158,2115,54566,8950,Helpers--production workers,2,60,0.0010995858226734597
-Bolivia,3404,83158,2115,54566,0520,"Wholesale and retail buyers, except farm products",1,59,0.0010812593922955686
-Bolivia,3404,83158,2115,54566,5810,Data entry keyers,3,59,0.0010812593922955686
-Bolivia,3404,83158,2115,54566,1010,Computer programmers,2,58,0.0010629329619176776
-Bolivia,3404,83158,2115,54566,2001,Substance abuse and behavioral disorder counselors,1,58,0.0010629329619176776
-Bolivia,3404,83158,2115,54566,2350,Tutors,2,57,0.0010446065315397866
-Bolivia,3404,83158,2115,54566,5410,Reservation and transportation ticket agents and travel clerks,2,57,0.0010446065315397866
-Bolivia,3404,83158,2115,54566,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",4,57,0.0010446065315397866
-Bolivia,3404,83158,2115,54566,8810,Painting workers,1,57,0.0010446065315397866
-Bolivia,3404,83158,2115,54566,3160,Physical therapists,1,56,0.0010262801011618958
-Bolivia,3404,83158,2115,54566,3802,Correctional officers and jailers,2,56,0.0010262801011618958
-Bolivia,3404,83158,2115,54566,8500,Cabinetmakers and bench carpenters,1,56,0.0010262801011618958
-Bolivia,3404,83158,2115,54566,8800,Packaging and filling machine operators and tenders,2,56,0.0010262801011618958
-Bolivia,3404,83158,2115,54566,7210,Bus and truck mechanics and diesel engine specialists,1,55,0.0010079536707840047
-Bolivia,3404,83158,2115,54566,3220,Respiratory therapists,2,53,9.713008100282227e-4
-Bolivia,3404,83158,2115,54566,5010,"Switchboard operators, including answering service",1,53,9.713008100282227e-4
-Bolivia,3404,83158,2115,54566,8830,Photographic process workers and processing machine operators,2,53,9.713008100282227e-4
-Bolivia,3404,83158,2115,54566,2060,"Religious workers, all other",4,52,9.529743796503317e-4
-Bolivia,3404,83158,2115,54566,3545,Miscellaneous health technologists and technicians,3,52,9.529743796503317e-4
-Bolivia,3404,83158,2115,54566,4621,Exercise trainers and group fitness instructors,4,52,9.529743796503317e-4
-Bolivia,3404,83158,2115,54566,4965,"Sales and related workers, all other",2,52,9.529743796503317e-4
-Bolivia,3404,83158,2115,54566,1460,Mechanical engineers,4,51,9.346479492724407e-4
-Bolivia,3404,83158,2115,54566,3000,Chiropractors,1,51,9.346479492724407e-4
-Bolivia,3404,83158,2115,54566,7430,Precision instrument and equipment repairers,1,51,9.346479492724407e-4
-Bolivia,3404,83158,2115,54566,1555,"Other engineering technologists and technicians, except drafters",1,49,8.979950885166587e-4
-Bolivia,3404,83158,2115,54566,2825,Public relations specialists,4,49,8.979950885166587e-4
-Bolivia,3404,83158,2115,54566,4500,Barbers,1,49,8.979950885166587e-4
-Bolivia,3404,83158,2115,54566,7640,"Other installation, maintenance, and repair workers",1,49,8.979950885166587e-4
-Bolivia,3404,83158,2115,54566,3421,Pharmacy technicians,3,48,8.796686581387678e-4
-Bolivia,3404,83158,2115,54566,3422,Psychiatric technicians,1,48,8.796686581387678e-4
-Bolivia,3404,83158,2115,54566,8130,Tool and die makers,2,48,8.796686581387678e-4
-Bolivia,3404,83158,2115,54566,1350,Chemical engineers,1,47,8.613422277608767e-4
-Bolivia,3404,83158,2115,54566,3655,Other healthcare support workers,2,47,8.613422277608767e-4
-Bolivia,3404,83158,2115,54566,1310,"Surveyors, cartographers, and photogrammetrists",1,46,8.430157973829857e-4
-Bolivia,3404,83158,2115,54566,1825,Other psychologists,1,45,8.246893670050947e-4
-Bolivia,3404,83158,2115,54566,2905,Other media and communication equipment workers,2,45,8.246893670050947e-4
-Bolivia,3404,83158,2115,54566,5940,Other office and administrative support workers,4,45,8.246893670050947e-4
-Bolivia,3404,83158,2115,54566,0850,Personal financial advisors,2,44,8.063629366272038e-4
-Bolivia,3404,83158,2115,54566,4522,Skincare specialists,4,44,8.063629366272038e-4
-Bolivia,3404,83158,2115,54566,7360,Millwrights,1,44,8.063629366272038e-4
-Bolivia,3404,83158,2115,54566,9150,"Motor vehicle operators, all other",1,44,8.063629366272038e-4
-Bolivia,3404,83158,2115,54566,5250,"Eligibility interviewers, government programs",3,43,7.880365062493127e-4
-Bolivia,3404,83158,2115,54566,5540,Postal service clerks,2,43,7.880365062493127e-4
-Bolivia,3404,83158,2115,54566,7010,"Computer, automated teller, and office machine repairers",1,43,7.880365062493127e-4
-Bolivia,3404,83158,2115,54566,9122,"Bus drivers, transit and intercity",2,43,7.880365062493127e-4
-Bolivia,3404,83158,2115,54566,3322,Diagnostic medical sonographers,4,41,7.513836454935308e-4
-Bolivia,3404,83158,2115,54566,8310,"Pressers, textile, garment, and related materials",3,41,7.513836454935308e-4
-Bolivia,3404,83158,2115,54566,2002,"Educational, guidance, and career counselors and advisors",3,40,7.330572151156398e-4
-Bolivia,3404,83158,2115,54566,2170,"Title examiners, abstractors, and searchers",1,39,7.147307847377488e-4
-Bolivia,3404,83158,2115,54566,2722,Coaches and scouts,3,39,7.147307847377488e-4
-Bolivia,3404,83158,2115,54566,4820,"Securities, commodities, and financial services sales agents",2,39,7.147307847377488e-4
-Bolivia,3404,83158,2115,54566,0360,Natural sciences managers,1,38,6.964043543598578e-4
-Bolivia,3404,83158,2115,54566,1650,Other life scientists,2,38,6.964043543598578e-4
-Bolivia,3404,83158,2115,54566,5320,"Library assistants, clerical",3,38,6.964043543598578e-4
-Bolivia,3404,83158,2115,54566,5350,Correspondence clerks and order clerks,1,38,6.964043543598578e-4
-Bolivia,3404,83158,2115,54566,1410,Electrical and electronics engineers,3,36,6.597514936040758e-4
-Bolivia,3404,83158,2115,54566,5330,Loan interviewers and clerks,2,36,6.597514936040758e-4
-Bolivia,3404,83158,2115,54566,0900,Financial examiners,1,35,6.414250632261848e-4
-Bolivia,3404,83158,2115,54566,3401,Emergency medical technicians,2,35,6.414250632261848e-4
-Bolivia,3404,83158,2115,54566,5140,Payroll and timekeeping clerks,2,35,6.414250632261848e-4
-Bolivia,3404,83158,2115,54566,5522,"Dispatchers, except police, fire, and ambulance",1,35,6.414250632261848e-4
-Bolivia,3404,83158,2115,54566,1610,Biological scientists,2,34,6.230986328482938e-4
-Bolivia,3404,83158,2115,54566,2011,"Child, family, and school social workers",2,34,6.230986328482938e-4
-Bolivia,3404,83158,2115,54566,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",1,34,6.230986328482938e-4
-Bolivia,3404,83158,2115,54566,6115,Fishing and hunting workers,1,34,6.230986328482938e-4
-Bolivia,3404,83158,2115,54566,8335,Shoe and leather workers,1,34,6.230986328482938e-4
-Bolivia,3404,83158,2115,54566,9141,Shuttle drivers and chauffeurs,1,34,6.230986328482938e-4
-Bolivia,3404,83158,2115,54566,0135,Compensation and benefits managers,1,33,6.047722024704028e-4
-Bolivia,3404,83158,2115,54566,5260,File clerks,1,33,6.047722024704028e-4
-Bolivia,3404,83158,2115,54566,9050,Flight attendants,2,33,6.047722024704028e-4
-Bolivia,3404,83158,2115,54566,1980,Occupational health and safety specialists and technicians,1,32,5.864457720925118e-4
-Bolivia,3404,83158,2115,54566,3820,Detectives and criminal investigators,1,32,5.864457720925118e-4
-Bolivia,3404,83158,2115,54566,4530,"Baggage porters, bellhops, and concierges",1,32,5.864457720925118e-4
-Bolivia,3404,83158,2115,54566,5310,"Interviewers, except eligibility and loan",2,32,5.864457720925118e-4
-Bolivia,3404,83158,2115,54566,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,2,32,5.864457720925118e-4
-Bolivia,3404,83158,2115,54566,9600,Industrial truck and tractor operators,1,32,5.864457720925118e-4
-Bolivia,3404,83158,2115,54566,0700,Logisticians,1,31,5.681193417146209e-4
-Bolivia,3404,83158,2115,54566,5521,Public safety telecommunicators,1,31,5.681193417146209e-4
-Bolivia,3404,83158,2115,54566,1551,Electrical and electronic engineering technologists and technicians,2,30,5.497929113367298e-4
-Bolivia,3404,83158,2115,54566,0726,Fundraisers,2,29,5.314664809588388e-4
-Bolivia,3404,83158,2115,54566,1400,Computer hardware engineers,2,29,5.314664809588388e-4
-Bolivia,3404,83158,2115,54566,1860,Other social scientists,1,29,5.314664809588388e-4
-Bolivia,3404,83158,2115,54566,3323,Radiologic technologists and technicians,2,29,5.314664809588388e-4
-Bolivia,3404,83158,2115,54566,4622,Recreation workers,1,29,5.314664809588388e-4
-Bolivia,3404,83158,2115,54566,4640,Residential advisors,1,28,5.131400505809479e-4
-Bolivia,3404,83158,2115,54566,6515,Roofers,2,28,5.131400505809479e-4
-Bolivia,3404,83158,2115,54566,3649,Phlebotomists,1,27,4.948136202030569e-4
-Bolivia,3404,83158,2115,54566,1106,Computer network architects,2,26,4.7648718982516583e-4
-Bolivia,3404,83158,2115,54566,5720,Legal secretaries and administrative assistants,2,26,4.7648718982516583e-4
-Bolivia,3404,83158,2115,54566,8225,Other metal workers and plastic workers,1,26,4.7648718982516583e-4
-Bolivia,3404,83158,2115,54566,8610,Stationary engineers and boiler operators,2,26,4.7648718982516583e-4
-Bolivia,3404,83158,2115,54566,9030,Aircraft pilots and flight engineers,2,25,4.5816075944727486e-4
-Bolivia,3404,83158,2115,54566,3610,Occupational therapy assistants and aides,1,24,4.398343290693839e-4
-Bolivia,3404,83158,2115,54566,3740,Firefighters,1,24,4.398343290693839e-4
-Bolivia,3404,83158,2115,54566,3750,Fire inspectors,1,24,4.398343290693839e-4
-Bolivia,3404,83158,2115,54566,8630,Miscellaneous plant and system operators,1,24,4.398343290693839e-4
-Bolivia,3404,83158,2115,54566,0205,"Farmers, ranchers, and other agricultural managers",2,23,4.2150789869149286e-4
-Bolivia,3404,83158,2115,54566,1065,Database administrators and architects,1,23,4.2150789869149286e-4
-Bolivia,3404,83158,2115,54566,2632,Fashion designers,1,23,4.2150789869149286e-4
-Bolivia,3404,83158,2115,54566,4750,Parts salespersons,1,23,4.2150789869149286e-4
-Bolivia,3404,83158,2115,54566,5100,Bill and account collectors,2,23,4.2150789869149286e-4
-Bolivia,3404,83158,2115,54566,5360,"Human resources assistants, except payroll and timekeeping",1,22,4.031814683136019e-4
-Bolivia,3404,83158,2115,54566,9005,Supervisors of transportation and material moving workers,2,22,4.031814683136019e-4
-Bolivia,3404,83158,2115,54566,9800,Military officer special and tactical operations leaders,1,22,4.031814683136019e-4
-Bolivia,3404,83158,2115,54566,0640,"Compensation, benefits, and job analysis specialists",1,21,3.8485503793571086e-4
-Bolivia,3404,83158,2115,54566,0650,Training and development specialists,1,21,3.8485503793571086e-4
-Bolivia,3404,83158,2115,54566,0820,Budget analysts,2,21,3.8485503793571086e-4
-Bolivia,3404,83158,2115,54566,1320,Aerospace engineers,2,21,3.8485503793571086e-4
-Bolivia,3404,83158,2115,54566,2003,Marriage and family therapists,1,21,3.8485503793571086e-4
-Bolivia,3404,83158,2115,54566,3725,"Miscellaneous first-line supervisors, protective service workers",1,21,3.8485503793571086e-4
-Bolivia,3404,83158,2115,54566,8365,"Textile machine setters, operators, and tenders",1,21,3.8485503793571086e-4
-Bolivia,3404,83158,2115,54566,1022,Software quality assurance analysts and testers,1,20,3.665286075578199e-4
-Bolivia,3404,83158,2115,54566,1545,Other drafters,1,20,3.665286075578199e-4
-Bolivia,3404,83158,2115,54566,1970,"Other life, physical, and social science technicians",3,20,3.665286075578199e-4
-Bolivia,3404,83158,2115,54566,3150,Occupational therapists,1,20,3.665286075578199e-4
-Bolivia,3404,83158,2115,54566,3515,Medical records specialists,2,20,3.665286075578199e-4
-Bolivia,3404,83158,2115,54566,1822,School psychologists,1,19,3.482021771799289e-4
-Bolivia,3404,83158,2115,54566,2105,Judicial law clerks,1,19,3.482021771799289e-4
-Bolivia,3404,83158,2115,54566,3520,"Opticians, dispensing",1,19,3.482021771799289e-4
-Bolivia,3404,83158,2115,54566,5730,Medical secretaries and administrative assistants,2,19,3.482021771799289e-4
-Bolivia,3404,83158,2115,54566,6360,Glaziers,1,19,3.482021771799289e-4
-Bolivia,3404,83158,2115,54566,1032,Web and digital interface designers,1,18,3.298757468020379e-4
-Bolivia,3404,83158,2115,54566,3030,Dietitians and nutritionists,2,18,3.298757468020379e-4
-Bolivia,3404,83158,2115,54566,3100,Surgeons,2,18,3.298757468020379e-4
-Bolivia,3404,83158,2115,54566,4435,Other entertainment attendants and related workers,1,18,3.298757468020379e-4
-Bolivia,3404,83158,2115,54566,6305,Construction equipment operators,1,17,3.115493164241469e-4
-Bolivia,3404,83158,2115,54566,2180,"Legal support workers, all other",1,16,2.932228860462559e-4
-Bolivia,3404,83158,2115,54566,2400,"Archivists, curators, and museum technicians",1,15,2.748964556683649e-4
-Bolivia,3404,83158,2115,54566,3960,Other protective service workers,1,15,2.748964556683649e-4
-Bolivia,3404,83158,2115,54566,4830,Travel agents,1,15,2.748964556683649e-4
-Bolivia,3404,83158,2115,54566,7160,Automotive glass installers and repairers,1,15,2.748964556683649e-4
-Bolivia,3404,83158,2115,54566,0530,"Purchasing agents, except wholesale, retail, and farm products",1,14,2.5657002529047394e-4
-Bolivia,3404,83158,2115,54566,5300,"Hotel, motel, and resort desk clerks",2,14,2.5657002529047394e-4
-Bolivia,3404,83158,2115,54566,0810,Property appraisers and assessors,1,13,2.3824359491258292e-4
-Bolivia,3404,83158,2115,54566,0940,Tax preparers,1,13,2.3824359491258292e-4
-Bolivia,3404,83158,2115,54566,2555,Other educational instruction and library workers,1,13,2.3824359491258292e-4
-Bolivia,3404,83158,2115,54566,2635,Interior designers,1,13,2.3824359491258292e-4
-Bolivia,3404,83158,2115,54566,2910,Photographers,1,13,2.3824359491258292e-4
-Bolivia,3404,83158,2115,54566,3910,Private detectives and investigators,1,13,2.3824359491258292e-4
-Bolivia,3404,83158,2115,54566,4525,Other personal appearance workers,1,13,2.3824359491258292e-4
-Bolivia,3404,83158,2115,54566,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",1,13,2.3824359491258292e-4
-Bolivia,3404,83158,2115,54566,1031,Web developers,1,12,2.1991716453469194e-4
-Bolivia,3404,83158,2115,54566,4040,Bartenders,1,12,2.1991716453469194e-4
-Bolivia,3404,83158,2115,54566,7720,"Electrical, electronics, and electromechanical assemblers",1,12,2.1991716453469194e-4
-Bolivia,3404,83158,2115,54566,0830,Credit analysts,1,11,2.0159073415680094e-4
-Bolivia,3404,83158,2115,54566,1440,Marine engineers and naval architects,1,11,2.0159073415680094e-4
-Bolivia,3404,83158,2115,54566,1450,Materials engineers,1,11,2.0159073415680094e-4
-Bolivia,3404,83158,2115,54566,2751,Music directors and composers,1,11,2.0159073415680094e-4
-Bolivia,3404,83158,2115,54566,4461,"Embalmers, crematory operators, and funeral attendants",1,11,2.0159073415680094e-4
-Bolivia,3404,83158,2115,54566,6700,Elevator installers and repairers,1,11,2.0159073415680094e-4
-Bolivia,3404,83158,2115,54566,7120,Electronic home entertainment equipment installers and repairers,1,11,2.0159073415680094e-4
-Bolivia,3404,83158,2115,54566,8710,Cutting workers,1,11,2.0159073415680094e-4
-Bolivia,3404,83158,2115,54566,2633,Floral designers,1,10,1.8326430377890994e-4
-Bolivia,3404,83158,2115,54566,3430,Dietetic technicians and ophthalmic medical technicians,1,9,1.6493787340101894e-4
-Bolivia,3404,83158,2115,54566,7410,Electrical power-line installers and repairers,1,9,1.6493787340101894e-4
-Bolivia,3404,83158,2115,54566,0930,"Tax examiners and collectors, and revenue agents",1,8,1.4661144302312794e-4
-Bolivia,3404,83158,2115,54566,2752,Musicians and singers,1,8,1.4661144302312794e-4
-Bolivia,3404,83158,2115,54566,3050,Pharmacists,1,8,1.4661144302312794e-4
-Bolivia,3404,83158,2115,54566,6660,Construction and building inspectors,1,8,1.4661144302312794e-4
-Bolivia,3404,83158,2115,54566,2330,Special education teachers,1,6,1.0995858226734597e-4
-Bolivia,3404,83158,2115,54566,1821,Clinical and counseling psychologists,1,5,9.163215188945497e-5
-Bolivia,3404,83158,2115,54566,3648,Veterinary assistants and laboratory animal caretakers,1,5,9.163215188945497e-5
-Bolivia,3404,83158,2115,54566,9415,Passenger attendants,1,4,7.330572151156397e-5
-Bolivia,3404,83158,2115,54566,2636,Merchandise displayers and window trimmers,1,2,3.6652860755781986e-5
-Bolivia,3404,83158,2115,54566,8256,Print binding and finishing workers,1,1,1.8326430377890993e-5
+country,n_workers,workers,occ,occ_title,occ_share
+Bolivia,70,2115,4220,Janitors and building cleaners,0.038760400249239456
+Bolivia,62,1892,4230,Maids and housekeeping cleaners,0.03467360627496976
+Bolivia,61,1557,0440,Other managers,0.02853425209837628
+Bolivia,44,1246,9130,Driver/sales workers and truck drivers,0.02283473225085218
+Bolivia,38,1222,4760,Retail salespersons,0.022394897921782796
+Bolivia,38,1141,4020,Cooks,0.020910457061173626
+Bolivia,31,1067,5240,Customer service representatives,0.019554301213209693
+Bolivia,21,960,3602,Personal care aides,0.017593373162775355
+Bolivia,39,931,4600,Childcare workers,0.017061906681816515
+Bolivia,30,925,6230,Carpenters,0.01695194809954917
+Bolivia,30,811,6260,Construction laborers,0.014862735036469597
+Bolivia,27,780,9645,Stockers and order fillers,0.014294615694754976
+Bolivia,28,766,3255,Registered nurses,0.014038045669464502
+Bolivia,32,724,4110,Waiters and waitresses,0.01326833559359308
+Bolivia,30,690,0120,Financial managers,0.012645236960744786
+Bolivia,30,680,2310,Elementary and middle school teachers,0.012461972656965876
+Bolivia,26,671,4700,First-line supervisors of retail sales workers,0.012297034783564857
+Bolivia,25,662,0010,Chief executives and legislators,0.012132096910163839
+Bolivia,27,657,5740,"Secretaries and administrative assistants, except legal, medical, and executive",0.012040464758274383
+Bolivia,22,641,9142,Taxi drivers,0.011747241872228127
+Bolivia,25,625,0800,Accountants and auditors,0.011454018986181872
+Bolivia,14,610,4030,Food preparation workers,0.011179122530513506
+Bolivia,27,589,2545,Teaching assistants,0.010794267492577796
+Bolivia,22,518,0220,Construction managers,0.009493090935747536
+Bolivia,20,485,4920,Real estate brokers and sales agents,0.008888318733277133
+Bolivia,20,476,0710,Management analysts,0.008723380859876114
+Bolivia,15,470,8990,"Miscellaneous production workers, including equipment operators and tenders",0.008613422277608767
+Bolivia,17,466,2300,Preschool and kindergarten teachers,0.008540116556097203
+Bolivia,19,442,2205,Postsecondary teachers,0.008100282227027819
+Bolivia,13,410,5120,"Bookkeeping, accounting, and auditing clerks",0.007513836454935308
+Bolivia,13,403,6410,Painters and paperhangers,0.007385551442290071
+Bolivia,17,395,0310,Food service managers,0.007238939999266942
+Bolivia,12,390,1050,Computer support specialists,0.007147307847377488
+Bolivia,11,387,3640,Dental assistants,0.007092328556243815
+Bolivia,16,386,5860,"Office clerks, general",0.007074002125865924
+Bolivia,16,385,0020,General and operations managers,0.007055675695488033
+Bolivia,15,382,9620,"Laborers and freight, stock, and material movers, hand",0.00700069640435436
+Bolivia,12,380,1006,Computer systems analysts,0.006964043543598578
+Bolivia,14,375,4010,First-line supervisors of food preparation and serving workers,0.006872411391709123
+Bolivia,16,365,7200,Automotive service technicians and mechanics,0.006689147087930213
+Bolivia,14,364,0750,"Business operations specialists, all other",0.006670820657552322
+Bolivia,18,363,4720,Cashiers,0.006652494227174431
+Bolivia,21,355,1021,Software developers,0.006505882784151303
+Bolivia,16,353,1108,"Computer occupations, all other",0.006469229923395521
+Bolivia,10,349,4251,Landscaping and groundskeeping workers,0.006395924201883957
+Bolivia,14,339,0410,"Property, real estate, and community association managers",0.0062126598981050475
+Bolivia,11,331,6355,Electricians,0.006066048455081919
+Bolivia,13,325,6200,First-line supervisors of construction trades and extraction workers,0.005956089872814574
+Bolivia,8,318,4810,Insurance sales agents,0.005827804860169337
+Bolivia,15,315,3603,Nursing assistants,0.005772825569035663
+Bolivia,7,311,1305,"Architects, except landscape and naval",0.0056995198475241
+Bolivia,11,300,4850,"Sales representatives, wholesale and manufacturing",0.0054979291133672985
+Bolivia,19,284,0705,Project management specialists,0.005204706227321042
+Bolivia,13,284,5000,First-line supervisors of office and administrative support workers,0.005204706227321042
+Bolivia,2,279,3110,Physician assistants,0.005113074075431588
+Bolivia,7,273,4000,Chefs and head cooks,0.005003115493164242
+Bolivia,14,271,2360,Other teachers and instructors,0.004966462632408459
+Bolivia,6,264,5710,Executive secretaries and executive administrative assistants,0.0048381776197632224
+Bolivia,8,263,0110,Computer and information systems managers,0.004819851189385331
+Bolivia,8,261,3300,Clinical laboratory technologists and technicians,0.00478319832862955
+Bolivia,14,260,1530,Other engineers,0.004764871898251658
+Bolivia,11,255,5400,Receptionists and information clerks,0.004673239746362204
+Bolivia,8,246,6442,"Plumbers, pipefitters, and steamfitters",0.004508301872961184
+Bolivia,10,245,0230,Education and childcare administrators,0.004489975442583294
+Bolivia,13,242,2320,Secondary school teachers,0.00443499615144962
+Bolivia,9,236,7340,"Maintenance and repair workers, general",0.0043250375691822746
+Bolivia,7,233,7700,First-line supervisors of production and operating workers,0.004270058278048602
+Bolivia,15,230,4510,"Hairdressers, hairstylists, and cosmetologists",0.004215078986914929
+Bolivia,11,220,3930,Security guards and gaming surveillance officers,0.004031814683136019
+Bolivia,8,215,0052,Sales managers,0.003940182531246564
+Bolivia,6,213,7800,Bakers,0.003903529670490782
+Bolivia,11,212,4710,First-line supervisors of non-retail sales workers,0.0038852032401128908
+Bolivia,7,212,8300,Laundry and dry-cleaning workers,0.0038852032401128908
+Bolivia,8,208,4200,First-line supervisors of housekeeping and janitorial workers,0.0038118975186013267
+Bolivia,9,206,7315,"Heating, air conditioning, and refrigeration mechanics and installers",0.003775244657845545
+Bolivia,5,204,9121,"Bus drivers, school",0.003738591797089763
+Bolivia,11,196,3090,Physicians,0.0035919803540666348
+Bolivia,10,190,1360,Civil engineers,0.003482021771799289
+Bolivia,7,188,0630,Human resources workers,0.003445368911043507
+Bolivia,9,180,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",0.0032987574680203788
+Bolivia,9,175,9640,"Packers and packagers, hand",0.003207125316130924
+Bolivia,3,174,9610,Cleaners of vehicles and equipment,0.003188798885753033
+Bolivia,8,172,3870,Police officers,0.003152146024997251
+Bolivia,3,171,6765,Other construction and related workers,0.00313381959461936
+Bolivia,5,166,4521,Manicurists and pedicurists,0.0030421874427299053
+Bolivia,6,163,3500,Licensed practical and licensed vocational nurses,0.002987208151596232
+Bolivia,8,156,0735,Market research analysts and marketing specialists,0.002858923138950995
+Bolivia,5,154,4130,Dining room and cafeteria attendants and bartender helpers,0.002822270278195213
+Bolivia,7,153,5510,Couriers and messengers,0.002803943847817322
+Bolivia,8,152,2016,Social and human service assistants,0.0027856174174394313
+Bolivia,5,150,0350,Medical and health services managers,0.0027489645566836493
+Bolivia,5,141,2634,Graphic designers,0.0025840266832826302
+Bolivia,3,140,5110,Billing and posting clerks,0.002565700252904739
+Bolivia,11,137,2861,Interpreters and translators,0.002510720961771066
+Bolivia,3,136,4140,Dishwashers,0.0024923945313931753
+Bolivia,2,133,2920,"Television, video, and film camera operators and editors",0.0024374152402595025
+Bolivia,2,133,4900,"Models, demonstrators, and product promoters",0.0024374152402595025
+Bolivia,3,133,7140,Aircraft mechanics and service technicians,0.0024374152402595025
+Bolivia,8,130,1800,Economists,0.002382435949125829
+Bolivia,8,130,2145,Paralegals and legal assistants,0.002382435949125829
+Bolivia,8,130,2640,Other designers,0.002382435949125829
+Bolivia,4,129,0051,Marketing managers,0.0023641095187479384
+Bolivia,3,128,8450,Upholsterers,0.002345783088370047
+Bolivia,7,124,4055,Fast food and counter workers,0.0022724773668584834
+Bolivia,4,123,8740,"Inspectors, testers, sorters, samplers, and weighers",0.002254150936480592
+Bolivia,7,122,5610,"Shipping, receiving, and inventory clerks",0.0022358245061027014
+Bolivia,5,120,1105,Network and computer systems administrators,0.0021991716453469193
+Bolivia,6,119,0845,Financial and investment analysts,0.0021808452149690285
+Bolivia,5,118,1240,Other mathematical science occupations,0.0021625187845911373
+Bolivia,5,118,4120,"Food servers, nonrestaurant",0.0021625187845911373
+Bolivia,6,117,1220,Operations research analysts,0.0021441923542132465
+Bolivia,4,116,7810,"Butchers and other meat, poultry, and fish processing workers",0.0021258659238353552
+Bolivia,2,115,0340,Lodging managers,0.0021075394934574644
+Bolivia,8,113,3645,Medical assistants,0.0020708866327016824
+Bolivia,5,112,0565,Compliance officers,0.0020525602023237915
+Bolivia,4,110,2004,Mental health counselors,0.0020159073415680095
+Bolivia,7,108,0136,Human resources managers,0.0019792544808122274
+Bolivia,4,108,5550,Postal service mail carriers,0.0019792544808122274
+Bolivia,2,107,8140,"Welding, soldering, and brazing workers",0.001960928050434336
+Bolivia,4,106,1007,Information security analysts,0.0019426016200564454
+Bolivia,7,106,1760,"Physical scientists, all other",0.0019426016200564454
+Bolivia,4,105,0160,"Transportation, storage, and distribution managers",0.0019242751896785544
+Bolivia,4,105,1430,"Industrial engineers, including health and safety",0.0019242751896785544
+Bolivia,3,103,4350,Animal caretakers,0.0018876223289227725
+Bolivia,4,102,0300,Architectural and engineering managers,0.0018692958985448815
+Bolivia,4,101,0725,"Meeting, convention, and event planners",0.0018509694681669905
+Bolivia,4,101,6240,"Carpet, floor, and tile installers and finishers",0.0018509694681669905
+Bolivia,8,99,2100,"Lawyers, and judges, magistrates, and other judicial workers",0.0018143166074112084
+Bolivia,4,98,2025,Other community and social service specialists,0.0017959901770333174
+Bolivia,5,97,2600,Artists and related workers,0.0017776637466554264
+Bolivia,3,97,5600,"Production, planning, and expediting clerks",0.0017776637466554264
+Bolivia,1,97,7855,"Food processing workers, all other",0.0017776637466554264
+Bolivia,3,96,6330,"Drywall installers, ceiling tile installers, and tapers",0.0017593373162775356
+Bolivia,4,95,7150,Automotive body and related repairers,0.0017410108858996445
+Bolivia,2,94,6710,Fence erectors,0.0017226844555217535
+Bolivia,4,93,2710,Producers and directors,0.0017043580251438625
+Bolivia,3,92,0540,"Claims adjusters, appraisers, examiners, and investigators",0.0016860315947659714
+Bolivia,2,90,9040,Air traffic controllers and airfield operations specialists,0.0016493787340101894
+Bolivia,4,88,0150,Purchasing managers,0.0016127258732544076
+Bolivia,3,88,2040,Clergy,0.0016127258732544076
+Bolivia,2,87,8320,Sewing machine operators,0.0015943994428765165
+Bolivia,3,86,2006,"Counselors, all other",0.0015760730124986255
+Bolivia,1,86,2012,Healthcare social workers,0.0015760730124986255
+Bolivia,3,85,3258,"Nurse practitioners, and nurse midwives",0.0015577465821207345
+Bolivia,2,84,2805,Broadcast announcers and radio disc jockeys,0.0015394201517428434
+Bolivia,1,83,2631,Commercial and industrial designers,0.0015210937213649526
+Bolivia,5,83,3010,Dentists,0.0015210937213649526
+Bolivia,3,81,7420,Telecommunications line installers and repairers,0.0014844408606091706
+Bolivia,3,80,4655,"Personal care and service workers, all other",0.0014661144302312796
+Bolivia,3,80,5160,Tellers,0.0014661144302312796
+Bolivia,4,79,0140,Industrial production managers,0.0014477879998533885
+Bolivia,4,79,3601,Home health aides,0.0014477879998533885
+Bolivia,1,79,6460,Plasterers and stucco masons,0.0014477879998533885
+Bolivia,4,76,0600,Cost estimators,0.0013928087087197157
+Bolivia,1,76,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",0.0013928087087197157
+Bolivia,4,75,0910,Credit counselors and loan officers,0.0013744822783418246
+Bolivia,4,75,8030,Machinists,0.0013744822783418246
+Bolivia,2,74,7330,Industrial and refractory machinery mechanics,0.0013561558479639336
+Bolivia,2,74,8350,"Tailors, dressmakers, and sewers",0.0013561558479639336
+Bolivia,3,73,3245,Other therapists,0.0013378294175860426
+Bolivia,2,73,3630,Massage therapists,0.0013378294175860426
+Bolivia,5,70,6050,Other agricultural workers,0.0012828501264523695
+Bolivia,1,69,6825,Surface mining machine operators and earth drillers,0.0012645236960744787
+Bolivia,2,69,7220,Heavy vehicle and mobile equipment service technicians and mechanics,0.0012645236960744787
+Bolivia,3,68,3310,Dental hygienists,0.0012461972656965877
+Bolivia,4,68,5420,Other information and records clerks,0.0012461972656965877
+Bolivia,5,67,0420,Social and community service managers,0.0012278708353186966
+Bolivia,4,67,9830,"Military, rank not specified",0.0012278708353186966
+Bolivia,3,66,5165,Other financial clerks,0.0012095444049408056
+Bolivia,4,66,7840,Food batchmakers,0.0012095444049408056
+Bolivia,3,65,4930,Sales engineers,0.0011912179745629146
+Bolivia,3,64,7750,Other assemblers and fabricators,0.0011728915441850236
+Bolivia,6,63,2014,"Social workers, all other",0.0011545651138071327
+Bolivia,2,62,0960,Other financial specialists,0.0011362386834292417
+Bolivia,2,61,7000,"First-line supervisors of mechanics, installers, and repairers",0.0011179122530513507
+Bolivia,1,60,2740,Dancers and choreographers,0.0010995858226734597
+Bolivia,2,60,8950,Helpers--production workers,0.0010995858226734597
+Bolivia,1,59,0520,"Wholesale and retail buyers, except farm products",0.0010812593922955686
+Bolivia,3,59,5810,Data entry keyers,0.0010812593922955686
+Bolivia,2,58,1010,Computer programmers,0.0010629329619176776
+Bolivia,1,58,2001,Substance abuse and behavioral disorder counselors,0.0010629329619176776
+Bolivia,2,57,2350,Tutors,0.0010446065315397866
+Bolivia,2,57,5410,Reservation and transportation ticket agents and travel clerks,0.0010446065315397866
+Bolivia,4,57,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",0.0010446065315397866
+Bolivia,1,57,8810,Painting workers,0.0010446065315397866
+Bolivia,1,56,3160,Physical therapists,0.0010262801011618958
+Bolivia,2,56,3802,Correctional officers and jailers,0.0010262801011618958
+Bolivia,1,56,8500,Cabinetmakers and bench carpenters,0.0010262801011618958
+Bolivia,2,56,8800,Packaging and filling machine operators and tenders,0.0010262801011618958
+Bolivia,1,55,7210,Bus and truck mechanics and diesel engine specialists,0.0010079536707840047
+Bolivia,2,53,3220,Respiratory therapists,9.713008100282227e-4
+Bolivia,1,53,5010,"Switchboard operators, including answering service",9.713008100282227e-4
+Bolivia,2,53,8830,Photographic process workers and processing machine operators,9.713008100282227e-4
+Bolivia,4,52,2060,"Religious workers, all other",9.529743796503317e-4
+Bolivia,3,52,3545,Miscellaneous health technologists and technicians,9.529743796503317e-4
+Bolivia,4,52,4621,Exercise trainers and group fitness instructors,9.529743796503317e-4
+Bolivia,2,52,4965,"Sales and related workers, all other",9.529743796503317e-4
+Bolivia,4,51,1460,Mechanical engineers,9.346479492724407e-4
+Bolivia,1,51,3000,Chiropractors,9.346479492724407e-4
+Bolivia,1,51,7430,Precision instrument and equipment repairers,9.346479492724407e-4
+Bolivia,1,49,1555,"Other engineering technologists and technicians, except drafters",8.979950885166587e-4
+Bolivia,4,49,2825,Public relations specialists,8.979950885166587e-4
+Bolivia,1,49,4500,Barbers,8.979950885166587e-4
+Bolivia,1,49,7640,"Other installation, maintenance, and repair workers",8.979950885166587e-4
+Bolivia,3,48,3421,Pharmacy technicians,8.796686581387678e-4
+Bolivia,1,48,3422,Psychiatric technicians,8.796686581387678e-4
+Bolivia,2,48,8130,Tool and die makers,8.796686581387678e-4
+Bolivia,1,47,1350,Chemical engineers,8.613422277608767e-4
+Bolivia,2,47,3655,Other healthcare support workers,8.613422277608767e-4
+Bolivia,1,46,1310,"Surveyors, cartographers, and photogrammetrists",8.430157973829857e-4
+Bolivia,1,45,1825,Other psychologists,8.246893670050947e-4
+Bolivia,2,45,2905,Other media and communication equipment workers,8.246893670050947e-4
+Bolivia,4,45,5940,Other office and administrative support workers,8.246893670050947e-4
+Bolivia,2,44,0850,Personal financial advisors,8.063629366272038e-4
+Bolivia,4,44,4522,Skincare specialists,8.063629366272038e-4
+Bolivia,1,44,7360,Millwrights,8.063629366272038e-4
+Bolivia,1,44,9150,"Motor vehicle operators, all other",8.063629366272038e-4
+Bolivia,3,43,5250,"Eligibility interviewers, government programs",7.880365062493127e-4
+Bolivia,2,43,5540,Postal service clerks,7.880365062493127e-4
+Bolivia,1,43,7010,"Computer, automated teller, and office machine repairers",7.880365062493127e-4
+Bolivia,2,43,9122,"Bus drivers, transit and intercity",7.880365062493127e-4
+Bolivia,4,41,3322,Diagnostic medical sonographers,7.513836454935308e-4
+Bolivia,3,41,8310,"Pressers, textile, garment, and related materials",7.513836454935308e-4
+Bolivia,3,40,2002,"Educational, guidance, and career counselors and advisors",7.330572151156398e-4
+Bolivia,1,39,2170,"Title examiners, abstractors, and searchers",7.147307847377488e-4
+Bolivia,3,39,2722,Coaches and scouts,7.147307847377488e-4
+Bolivia,2,39,4820,"Securities, commodities, and financial services sales agents",7.147307847377488e-4
+Bolivia,1,38,0360,Natural sciences managers,6.964043543598578e-4
+Bolivia,2,38,1650,Other life scientists,6.964043543598578e-4
+Bolivia,3,38,5320,"Library assistants, clerical",6.964043543598578e-4
+Bolivia,1,38,5350,Correspondence clerks and order clerks,6.964043543598578e-4
+Bolivia,3,36,1410,Electrical and electronics engineers,6.597514936040758e-4
+Bolivia,2,36,5330,Loan interviewers and clerks,6.597514936040758e-4
+Bolivia,1,35,0900,Financial examiners,6.414250632261848e-4
+Bolivia,2,35,3401,Emergency medical technicians,6.414250632261848e-4
+Bolivia,2,35,5140,Payroll and timekeeping clerks,6.414250632261848e-4
+Bolivia,1,35,5522,"Dispatchers, except police, fire, and ambulance",6.414250632261848e-4
+Bolivia,2,34,1610,Biological scientists,6.230986328482938e-4
+Bolivia,2,34,2011,"Child, family, and school social workers",6.230986328482938e-4
+Bolivia,1,34,4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",6.230986328482938e-4
+Bolivia,1,34,6115,Fishing and hunting workers,6.230986328482938e-4
+Bolivia,1,34,8335,Shoe and leather workers,6.230986328482938e-4
+Bolivia,1,34,9141,Shuttle drivers and chauffeurs,6.230986328482938e-4
+Bolivia,1,33,0135,Compensation and benefits managers,6.047722024704028e-4
+Bolivia,1,33,5260,File clerks,6.047722024704028e-4
+Bolivia,2,33,9050,Flight attendants,6.047722024704028e-4
+Bolivia,1,32,1980,Occupational health and safety specialists and technicians,5.864457720925118e-4
+Bolivia,1,32,3820,Detectives and criminal investigators,5.864457720925118e-4
+Bolivia,1,32,4530,"Baggage porters, bellhops, and concierges",5.864457720925118e-4
+Bolivia,2,32,5310,"Interviewers, except eligibility and loan",5.864457720925118e-4
+Bolivia,2,32,8760,Dental and ophthalmic laboratory technicians and medical appliance technicians,5.864457720925118e-4
+Bolivia,1,32,9600,Industrial truck and tractor operators,5.864457720925118e-4
+Bolivia,1,31,0700,Logisticians,5.681193417146209e-4
+Bolivia,1,31,5521,Public safety telecommunicators,5.681193417146209e-4
+Bolivia,2,30,1551,Electrical and electronic engineering technologists and technicians,5.497929113367298e-4
+Bolivia,2,29,0726,Fundraisers,5.314664809588388e-4
+Bolivia,2,29,1400,Computer hardware engineers,5.314664809588388e-4
+Bolivia,1,29,1860,Other social scientists,5.314664809588388e-4
+Bolivia,2,29,3323,Radiologic technologists and technicians,5.314664809588388e-4
+Bolivia,1,29,4622,Recreation workers,5.314664809588388e-4
+Bolivia,1,28,4640,Residential advisors,5.131400505809479e-4
+Bolivia,2,28,6515,Roofers,5.131400505809479e-4
+Bolivia,1,27,3649,Phlebotomists,4.948136202030569e-4
+Bolivia,2,26,1106,Computer network architects,4.7648718982516583e-4
+Bolivia,2,26,5720,Legal secretaries and administrative assistants,4.7648718982516583e-4
+Bolivia,1,26,8225,Other metal workers and plastic workers,4.7648718982516583e-4
+Bolivia,2,26,8610,Stationary engineers and boiler operators,4.7648718982516583e-4
+Bolivia,2,25,9030,Aircraft pilots and flight engineers,4.5816075944727486e-4
+Bolivia,1,24,3610,Occupational therapy assistants and aides,4.398343290693839e-4
+Bolivia,1,24,3740,Firefighters,4.398343290693839e-4
+Bolivia,1,24,3750,Fire inspectors,4.398343290693839e-4
+Bolivia,1,24,8630,Miscellaneous plant and system operators,4.398343290693839e-4
+Bolivia,2,23,0205,"Farmers, ranchers, and other agricultural managers",4.2150789869149286e-4
+Bolivia,1,23,1065,Database administrators and architects,4.2150789869149286e-4
+Bolivia,1,23,2632,Fashion designers,4.2150789869149286e-4
+Bolivia,1,23,4750,Parts salespersons,4.2150789869149286e-4
+Bolivia,2,23,5100,Bill and account collectors,4.2150789869149286e-4
+Bolivia,1,22,5360,"Human resources assistants, except payroll and timekeeping",4.031814683136019e-4
+Bolivia,2,22,9005,Supervisors of transportation and material moving workers,4.031814683136019e-4
+Bolivia,1,22,9800,Military officer special and tactical operations leaders,4.031814683136019e-4
+Bolivia,1,21,0640,"Compensation, benefits, and job analysis specialists",3.8485503793571086e-4
+Bolivia,1,21,0650,Training and development specialists,3.8485503793571086e-4
+Bolivia,2,21,0820,Budget analysts,3.8485503793571086e-4
+Bolivia,2,21,1320,Aerospace engineers,3.8485503793571086e-4
+Bolivia,1,21,2003,Marriage and family therapists,3.8485503793571086e-4
+Bolivia,1,21,3725,"Miscellaneous first-line supervisors, protective service workers",3.8485503793571086e-4
+Bolivia,1,21,8365,"Textile machine setters, operators, and tenders",3.8485503793571086e-4
+Bolivia,1,20,1022,Software quality assurance analysts and testers,3.665286075578199e-4
+Bolivia,1,20,1545,Other drafters,3.665286075578199e-4
+Bolivia,3,20,1970,"Other life, physical, and social science technicians",3.665286075578199e-4
+Bolivia,1,20,3150,Occupational therapists,3.665286075578199e-4
+Bolivia,2,20,3515,Medical records specialists,3.665286075578199e-4
+Bolivia,1,19,1822,School psychologists,3.482021771799289e-4
+Bolivia,1,19,2105,Judicial law clerks,3.482021771799289e-4
+Bolivia,1,19,3520,"Opticians, dispensing",3.482021771799289e-4
+Bolivia,2,19,5730,Medical secretaries and administrative assistants,3.482021771799289e-4
+Bolivia,1,19,6360,Glaziers,3.482021771799289e-4
+Bolivia,1,18,1032,Web and digital interface designers,3.298757468020379e-4
+Bolivia,2,18,3030,Dietitians and nutritionists,3.298757468020379e-4
+Bolivia,2,18,3100,Surgeons,3.298757468020379e-4
+Bolivia,1,18,4435,Other entertainment attendants and related workers,3.298757468020379e-4
+Bolivia,1,17,6305,Construction equipment operators,3.115493164241469e-4
+Bolivia,1,16,2180,"Legal support workers, all other",2.932228860462559e-4
+Bolivia,1,15,2400,"Archivists, curators, and museum technicians",2.748964556683649e-4
+Bolivia,1,15,3960,Other protective service workers,2.748964556683649e-4
+Bolivia,1,15,4830,Travel agents,2.748964556683649e-4
+Bolivia,1,15,7160,Automotive glass installers and repairers,2.748964556683649e-4
+Bolivia,1,14,0530,"Purchasing agents, except wholesale, retail, and farm products",2.5657002529047394e-4
+Bolivia,2,14,5300,"Hotel, motel, and resort desk clerks",2.5657002529047394e-4
+Bolivia,1,13,0810,Property appraisers and assessors,2.3824359491258292e-4
+Bolivia,1,13,0940,Tax preparers,2.3824359491258292e-4
+Bolivia,1,13,2555,Other educational instruction and library workers,2.3824359491258292e-4
+Bolivia,1,13,2635,Interior designers,2.3824359491258292e-4
+Bolivia,1,13,2910,Photographers,2.3824359491258292e-4
+Bolivia,1,13,3910,Private detectives and investigators,2.3824359491258292e-4
+Bolivia,1,13,4525,Other personal appearance workers,2.3824359491258292e-4
+Bolivia,1,13,7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",2.3824359491258292e-4
+Bolivia,1,12,1031,Web developers,2.1991716453469194e-4
+Bolivia,1,12,4040,Bartenders,2.1991716453469194e-4
+Bolivia,1,12,7720,"Electrical, electronics, and electromechanical assemblers",2.1991716453469194e-4
+Bolivia,1,11,0830,Credit analysts,2.0159073415680094e-4
+Bolivia,1,11,1440,Marine engineers and naval architects,2.0159073415680094e-4
+Bolivia,1,11,1450,Materials engineers,2.0159073415680094e-4
+Bolivia,1,11,2751,Music directors and composers,2.0159073415680094e-4
+Bolivia,1,11,4461,"Embalmers, crematory operators, and funeral attendants",2.0159073415680094e-4
+Bolivia,1,11,6700,Elevator installers and repairers,2.0159073415680094e-4
+Bolivia,1,11,7120,Electronic home entertainment equipment installers and repairers,2.0159073415680094e-4
+Bolivia,1,11,8710,Cutting workers,2.0159073415680094e-4
+Bolivia,1,10,2633,Floral designers,1.8326430377890994e-4
+Bolivia,1,9,3430,Dietetic technicians and ophthalmic medical technicians,1.6493787340101894e-4
+Bolivia,1,9,7410,Electrical power-line installers and repairers,1.6493787340101894e-4
+Bolivia,1,8,0930,"Tax examiners and collectors, and revenue agents",1.4661144302312794e-4
+Bolivia,1,8,2752,Musicians and singers,1.4661144302312794e-4
+Bolivia,1,8,3050,Pharmacists,1.4661144302312794e-4
+Bolivia,1,8,6660,Construction and building inspectors,1.4661144302312794e-4
+Bolivia,1,6,2330,Special education teachers,1.0995858226734597e-4
+Bolivia,1,5,1821,Clinical and counseling psychologists,9.163215188945497e-5
+Bolivia,1,5,3648,Veterinary assistants and laboratory animal caretakers,9.163215188945497e-5
+Bolivia,1,4,9415,Passenger attendants,7.330572151156397e-5
+Bolivia,1,2,2636,Merchandise displayers and window trimmers,3.6652860755781986e-5
+Bolivia,1,1,8256,Print binding and finishing workers,1.8326430377890993e-5

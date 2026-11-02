@@ -1,231 +1,231 @@
-country,n,pop,n_workers,workers,occ,occ_title,occ_n,occ_workers,occ_share
-Georgia,1292,32323,839,20930,9130,Driver/sales workers and truck drivers,47,1368,0.06536072623029145
-Georgia,1292,32323,839,20930,3601,Home health aides,54,1320,0.0630673674151935
-Georgia,1292,32323,839,20930,9142,Taxi drivers,29,691,0.033014811275680844
-Georgia,1292,32323,839,20930,3602,Personal care aides,24,618,0.02952699474438605
-Georgia,1292,32323,839,20930,0440,Other managers,22,521,0.024892498805542285
-Georgia,1292,32323,839,20930,6260,Construction laborers,10,516,0.024653607262302913
-Georgia,1292,32323,839,20930,0010,Chief executives and legislators,10,442,0.02111801242236025
-Georgia,1292,32323,839,20930,2205,Postsecondary teachers,20,442,0.02111801242236025
-Georgia,1292,32323,839,20930,3255,Registered nurses,20,422,0.02016244624940277
-Georgia,1292,32323,839,20930,2545,Teaching assistants,17,399,0.01906354515050167
-Georgia,1292,32323,839,20930,3090,Physicians,20,377,0.018012422360248446
-Georgia,1292,32323,839,20930,0020,General and operations managers,5,375,0.0179168657429527
-Georgia,1292,32323,839,20930,0800,Accountants and auditors,14,373,0.01782130912565695
-Georgia,1292,32323,839,20930,4920,Real estate brokers and sales agents,6,329,0.015719063545150503
-Georgia,1292,32323,839,20930,5240,Customer service representatives,11,322,0.015384615384615385
-Georgia,1292,32323,839,20930,4760,Retail salespersons,15,321,0.01533683707596751
-Georgia,1292,32323,839,20930,3930,Security guards and gaming surveillance officers,7,287,0.0137123745819398
-Georgia,1292,32323,839,20930,1021,Software developers,10,273,0.013043478260869565
-Georgia,1292,32323,839,20930,2320,Secondary school teachers,7,240,0.011466794075489728
-Georgia,1292,32323,839,20930,4700,First-line supervisors of retail sales workers,13,238,0.01137123745819398
-Georgia,1292,32323,839,20930,5740,"Secretaries and administrative assistants, except legal, medical, and executive",7,233,0.01113234591495461
-Georgia,1292,32323,839,20930,3550,Other healthcare practitioners and technical occupations,2,211,0.010081223124701385
-Georgia,1292,32323,839,20930,0705,Project management specialists,5,205,0.009794553272814142
-Georgia,1292,32323,839,20930,0120,Financial managers,7,200,0.009555661729574774
-Georgia,1292,32323,839,20930,4600,Childcare workers,10,197,0.009412326803631152
-Georgia,1292,32323,839,20930,5120,"Bookkeeping, accounting, and auditing clerks",8,189,0.009030100334448161
-Georgia,1292,32323,839,20930,4130,Dining room and cafeteria attendants and bartender helpers,2,172,0.008217869087434305
-Georgia,1292,32323,839,20930,5860,"Office clerks, general",7,167,0.007978977544194936
-Georgia,1292,32323,839,20930,1340,Biomedical and agricultural engineers,2,164,0.007835642618251313
-Georgia,1292,32323,839,20930,0230,Education and childcare administrators,7,159,0.007596751075011944
-Georgia,1292,32323,839,20930,6355,Electricians,5,157,0.007501194457716197
-Georgia,1292,32323,839,20930,9150,"Motor vehicle operators, all other",5,156,0.007453416149068323
-Georgia,1292,32323,839,20930,4510,"Hairdressers, hairstylists, and cosmetologists",6,153,0.007310081223124701
-Georgia,1292,32323,839,20930,2360,Other teachers and instructors,9,150,0.00716674629718108
-Georgia,1292,32323,839,20930,9620,"Laborers and freight, stock, and material movers, hand",3,146,0.006975633062589585
-Georgia,1292,32323,839,20930,1800,Economists,5,145,0.00692785475394171
-Georgia,1292,32323,839,20930,2310,Elementary and middle school teachers,6,145,0.00692785475394171
-Georgia,1292,32323,839,20930,4220,Janitors and building cleaners,7,145,0.00692785475394171
-Georgia,1292,32323,839,20930,4720,Cashiers,4,144,0.006880076445293836
-Georgia,1292,32323,839,20930,8990,"Miscellaneous production workers, including equipment operators and tenders",3,139,0.006641184902054467
-Georgia,1292,32323,839,20930,2145,Paralegals and legal assistants,3,137,0.00654562828475872
-Georgia,1292,32323,839,20930,5510,Couriers and messengers,4,128,0.0061156235069278544
-Georgia,1292,32323,839,20930,3603,Nursing assistants,5,127,0.006067845198279981
-Georgia,1292,32323,839,20930,6230,Carpenters,2,124,0.005924510272336359
-Georgia,1292,32323,839,20930,1360,Civil engineers,4,123,0.005876731963688485
-Georgia,1292,32323,839,20930,0052,Sales managers,3,119,0.00568561872909699
-Georgia,1292,32323,839,20930,0735,Market research analysts and marketing specialists,5,119,0.00568561872909699
-Georgia,1292,32323,839,20930,1240,Other mathematical science occupations,7,117,0.0055900621118012426
-Georgia,1292,32323,839,20930,5710,Executive secretaries and executive administrative assistants,6,110,0.005255613951266125
-Georgia,1292,32323,839,20930,6200,First-line supervisors of construction trades and extraction workers,3,109,0.005207835642618251
-Georgia,1292,32323,839,20930,2100,"Lawyers, and judges, magistrates, and other judicial workers",6,107,0.005112279025322504
-Georgia,1292,32323,839,20930,3300,Clinical laboratory technologists and technicians,3,107,0.005112279025322504
-Georgia,1292,32323,839,20930,0410,"Property, real estate, and community association managers",3,105,0.005016722408026756
-Georgia,1292,32323,839,20930,3645,Medical assistants,3,105,0.005016722408026756
-Georgia,1292,32323,839,20930,4965,"Sales and related workers, all other",3,104,0.004968944099378882
-Georgia,1292,32323,839,20930,4710,First-line supervisors of non-retail sales workers,6,100,0.004777830864787387
-Georgia,1292,32323,839,20930,4850,"Sales representatives, wholesale and manufacturing",4,99,0.004730052556139512
-Georgia,1292,32323,839,20930,1720,Chemists and materials scientists,2,94,0.004491161012900143
-Georgia,1292,32323,839,20930,0850,Personal financial advisors,5,90,0.004300047778308648
-Georgia,1292,32323,839,20930,3630,Massage therapists,2,90,0.004300047778308648
-Georgia,1292,32323,839,20930,0350,Medical and health services managers,3,89,0.004252269469660774
-Georgia,1292,32323,839,20930,1050,Computer support specialists,5,89,0.004252269469660774
-Georgia,1292,32323,839,20930,4230,Maids and housekeeping cleaners,4,88,0.0042044911610129
-Georgia,1292,32323,839,20930,1010,Computer programmers,6,85,0.004061156235069279
-Georgia,1292,32323,839,20930,3258,"Nurse practitioners, and nurse midwives",2,83,0.0039655996177735305
-Georgia,1292,32323,839,20930,1760,"Physical scientists, all other",3,82,0.003917821309125657
-Georgia,1292,32323,839,20930,2700,Actors,2,82,0.003917821309125657
-Georgia,1292,32323,839,20930,0160,"Transportation, storage, and distribution managers",4,79,0.0037744863831820352
-Georgia,1292,32323,839,20930,2600,Artists and related workers,4,78,0.0037267080745341614
-Georgia,1292,32323,839,20930,0630,Human resources workers,3,76,0.003631151457238414
-Georgia,1292,32323,839,20930,7000,"First-line supervisors of mechanics, installers, and repairers",1,73,0.0034878165312947924
-Georgia,1292,32323,839,20930,8740,"Inspectors, testers, sorters, samplers, and weighers",1,73,0.0034878165312947924
-Georgia,1292,32323,839,20930,0845,Financial and investment analysts,5,71,0.0033922599139990443
-Georgia,1292,32323,839,20930,5400,Receptionists and information clerks,3,67,0.003201146679407549
-Georgia,1292,32323,839,20930,5420,Other information and records clerks,5,67,0.003201146679407549
-Georgia,1292,32323,839,20930,2014,"Social workers, all other",3,66,0.0031533683707596753
-Georgia,1292,32323,839,20930,5600,"Production, planning, and expediting clerks",2,66,0.0031533683707596753
-Georgia,1292,32323,839,20930,1920,Chemical technicians,1,64,0.0030578117534639272
-Georgia,1292,32323,839,20930,9365,Transportation service attendants,1,63,0.0030100334448160534
-Georgia,1292,32323,839,20930,5140,Payroll and timekeeping clerks,2,62,0.0029622551361681796
-Georgia,1292,32323,839,20930,9645,Stockers and order fillers,3,61,0.002914476827520306
-Georgia,1292,32323,839,20930,1007,Information security analysts,4,60,0.002866698518872432
-Georgia,1292,32323,839,20930,4110,Waiters and waitresses,3,60,0.002866698518872432
-Georgia,1292,32323,839,20930,0051,Marketing managers,4,59,0.002818920210224558
-Georgia,1292,32323,839,20930,2634,Graphic designers,4,59,0.002818920210224558
-Georgia,1292,32323,839,20930,2300,Preschool and kindergarten teachers,3,58,0.0027711419015766844
-Georgia,1292,32323,839,20930,4621,Exercise trainers and group fitness instructors,1,57,0.00272336359292881
-Georgia,1292,32323,839,20930,6520,Sheet metal workers,1,57,0.00272336359292881
-Georgia,1292,32323,839,20930,1970,"Other life, physical, and social science technicians",2,56,0.0026755852842809363
-Georgia,1292,32323,839,20930,5000,First-line supervisors of office and administrative support workers,4,56,0.0026755852842809363
-Georgia,1292,32323,839,20930,7750,Other assemblers and fabricators,2,55,0.0026278069756330625
-Georgia,1292,32323,839,20930,0710,Management analysts,4,53,0.002532250358337315
-Georgia,1292,32323,839,20930,0930,"Tax examiners and collectors, and revenue agents",1,53,0.002532250358337315
-Georgia,1292,32323,839,20930,2830,Editors,4,53,0.002532250358337315
-Georgia,1292,32323,839,20930,4000,Chefs and head cooks,3,52,0.002484472049689441
-Georgia,1292,32323,839,20930,4400,Gambling services workers,2,52,0.002484472049689441
-Georgia,1292,32323,839,20930,2640,Other designers,3,47,0.0022455805064500716
-Georgia,1292,32323,839,20930,2722,Coaches and scouts,3,47,0.0022455805064500716
-Georgia,1292,32323,839,20930,4950,"Door-to-door sales workers, news and street vendors, and related workers",2,47,0.0022455805064500716
-Georgia,1292,32323,839,20930,7320,Home appliance repairers,2,47,0.0022455805064500716
-Georgia,1292,32323,839,20930,7700,First-line supervisors of production and operating workers,1,47,0.0022455805064500716
-Georgia,1292,32323,839,20930,4810,Insurance sales agents,1,46,0.002197802197802198
-Georgia,1292,32323,839,20930,0420,Social and community service managers,3,45,0.002150023889154324
-Georgia,1292,32323,839,20930,3740,Firefighters,2,45,0.002150023889154324
-Georgia,1292,32323,839,20930,6240,"Carpet, floor, and tile installers and finishers",1,45,0.002150023889154324
-Georgia,1292,32323,839,20930,9410,Transportation inspectors,1,45,0.002150023889154324
-Georgia,1292,32323,839,20930,2710,Producers and directors,4,43,0.0020544672718585764
-Georgia,1292,32323,839,20930,3500,Licensed practical and licensed vocational nurses,1,43,0.0020544672718585764
-Georgia,1292,32323,839,20930,1065,Database administrators and architects,2,42,0.002006688963210702
-Georgia,1292,32323,839,20930,1650,Other life scientists,4,42,0.002006688963210702
-Georgia,1292,32323,839,20930,3050,Pharmacists,2,42,0.002006688963210702
-Georgia,1292,32323,839,20930,8030,Machinists,1,42,0.002006688963210702
-Georgia,1292,32323,839,20930,7340,"Maintenance and repair workers, general",2,41,0.0019589106545628283
-Georgia,1292,32323,839,20930,8750,Jewelers and precious stone and metal workers,2,40,0.0019111323459149545
-Georgia,1292,32323,839,20930,1108,"Computer occupations, all other",4,39,0.0018633540372670807
-Georgia,1292,32323,839,20930,4020,Cooks,2,39,0.0018633540372670807
-Georgia,1292,32323,839,20930,9121,"Bus drivers, school",1,38,0.001815575728619207
-Georgia,1292,32323,839,20930,3245,Other therapists,2,37,0.001767797419971333
-Georgia,1292,32323,839,20930,5522,"Dispatchers, except police, fire, and ambulance",2,37,0.001767797419971333
-Georgia,1292,32323,839,20930,4030,Food preparation workers,1,36,0.001720019111323459
-Georgia,1292,32323,839,20930,4350,Animal caretakers,2,35,0.0016722408026755853
-Georgia,1292,32323,839,20930,5110,Billing and posting clerks,3,35,0.0016722408026755853
-Georgia,1292,32323,839,20930,1460,Mechanical engineers,2,34,0.0016244624940277114
-Georgia,1292,32323,839,20930,2330,Special education teachers,2,34,0.0016244624940277114
-Georgia,1292,32323,839,20930,3421,Pharmacy technicians,2,34,0.0016244624940277114
-Georgia,1292,32323,839,20930,1220,Operations research analysts,1,33,0.0015766841853798376
-Georgia,1292,32323,839,20930,3310,Dental hygienists,2,33,0.0015766841853798376
-Georgia,1292,32323,839,20930,4140,Dishwashers,1,32,0.0015289058767319636
-Georgia,1292,32323,839,20930,8500,Cabinetmakers and bench carpenters,1,32,0.0015289058767319636
-Georgia,1292,32323,839,20930,1006,Computer systems analysts,1,31,0.0014811275680840898
-Georgia,1292,32323,839,20930,1022,Software quality assurance analysts and testers,1,31,0.0014811275680840898
-Georgia,1292,32323,839,20930,2752,Musicians and singers,3,31,0.0014811275680840898
-Georgia,1292,32323,839,20930,0140,Industrial production managers,2,30,0.001433349259436216
-Georgia,1292,32323,839,20930,4435,Other entertainment attendants and related workers,2,30,0.001433349259436216
-Georgia,1292,32323,839,20930,4655,"Personal care and service workers, all other",2,30,0.001433349259436216
-Georgia,1292,32323,839,20930,7640,"Other installation, maintenance, and repair workers",1,30,0.001433349259436216
-Georgia,1292,32323,839,20930,2910,Photographers,2,29,0.0013855709507883422
-Georgia,1292,32323,839,20930,4622,Recreation workers,1,29,0.0013855709507883422
-Georgia,1292,32323,839,20930,7120,Electronic home entertainment equipment installers and repairers,2,29,0.0013855709507883422
-Georgia,1292,32323,839,20930,1400,Computer hardware engineers,1,28,0.0013377926421404682
-Georgia,1292,32323,839,20930,2012,Healthcare social workers,1,28,0.0013377926421404682
-Georgia,1292,32323,839,20930,2635,Interior designers,1,28,0.0013377926421404682
-Georgia,1292,32323,839,20930,4200,First-line supervisors of housekeeping and janitorial workers,1,27,0.0012900143334925944
-Georgia,1292,32323,839,20930,0360,Natural sciences managers,1,26,0.0012422360248447205
-Georgia,1292,32323,839,20930,0900,Financial examiners,1,26,0.0012422360248447205
-Georgia,1292,32323,839,20930,1610,Biological scientists,1,26,0.0012422360248447205
-Georgia,1292,32323,839,20930,4010,First-line supervisors of food preparation and serving workers,2,26,0.0012422360248447205
-Georgia,1292,32323,839,20930,0110,Computer and information systems managers,2,25,0.0011944577161968467
-Georgia,1292,32323,839,20930,2040,Clergy,2,25,0.0011944577161968467
-Georgia,1292,32323,839,20930,9825,Military enlisted tactical operations and air/weapons specialists and crew members,3,25,0.0011944577161968467
-Georgia,1292,32323,839,20930,2555,Other educational instruction and library workers,1,24,0.0011466794075489727
-Georgia,1292,32323,839,20930,6115,Fishing and hunting workers,1,24,0.0011466794075489727
-Georgia,1292,32323,839,20930,3640,Dental assistants,2,23,0.001098901098901099
-Georgia,1292,32323,839,20930,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",1,23,0.001098901098901099
-Georgia,1292,32323,839,20930,8930,"Paper goods machine setters, operators, and tenders",1,23,0.001098901098901099
-Georgia,1292,32323,839,20930,0220,Construction managers,1,22,0.001051122790253225
-Georgia,1292,32323,839,20930,3160,Physical therapists,2,22,0.001051122790253225
-Georgia,1292,32323,839,20930,3520,"Opticians, dispensing",1,22,0.001051122790253225
-Georgia,1292,32323,839,20930,7800,Bakers,1,22,0.001051122790253225
-Georgia,1292,32323,839,20930,9141,Shuttle drivers and chauffeurs,2,22,0.001051122790253225
-Georgia,1292,32323,839,20930,1600,Agricultural and food scientists,1,21,0.001003344481605351
-Georgia,1292,32323,839,20930,1825,Other psychologists,1,21,0.001003344481605351
-Georgia,1292,32323,839,20930,2011,"Child, family, and school social workers",1,21,0.001003344481605351
-Georgia,1292,32323,839,20930,2810,"News analysts, reporters, and journalists",1,20,9.555661729574773e-4
-Georgia,1292,32323,839,20930,3323,Radiologic technologists and technicians,1,20,9.555661729574773e-4
-Georgia,1292,32323,839,20930,0910,Credit counselors and loan officers,1,19,9.077878643096034e-4
-Georgia,1292,32323,839,20930,2740,Dancers and choreographers,1,19,9.077878643096034e-4
-Georgia,1292,32323,839,20930,2861,Interpreters and translators,1,19,9.077878643096034e-4
-Georgia,1292,32323,839,20930,3820,Detectives and criminal investigators,1,19,9.077878643096034e-4
-Georgia,1292,32323,839,20930,6360,Glaziers,2,19,9.077878643096034e-4
-Georgia,1292,32323,839,20930,1410,Electrical and electronics engineers,1,18,8.600095556617295e-4
-Georgia,1292,32323,839,20930,3655,Other healthcare support workers,1,18,8.600095556617295e-4
-Georgia,1292,32323,839,20930,4251,Landscaping and groundskeeping workers,1,18,8.600095556617295e-4
-Georgia,1292,32323,839,20930,1860,Other social scientists,1,17,8.122312470138557e-4
-Georgia,1292,32323,839,20930,6050,Other agricultural workers,1,17,8.122312470138557e-4
-Georgia,1292,32323,839,20930,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",1,17,8.122312470138557e-4
-Georgia,1292,32323,839,20930,2002,"Educational, guidance, and career counselors and advisors",1,16,7.644529383659818e-4
-Georgia,1292,32323,839,20930,3424,Veterinary technologists and technicians,1,16,7.644529383659818e-4
-Georgia,1292,32323,839,20930,5250,"Eligibility interviewers, government programs",1,16,7.644529383659818e-4
-Georgia,1292,32323,839,20930,6305,Construction equipment operators,1,16,7.644529383659818e-4
-Georgia,1292,32323,839,20930,0750,"Business operations specialists, all other",1,15,7.16674629718108e-4
-Georgia,1292,32323,839,20930,1555,"Other engineering technologists and technicians, except drafters",1,15,7.16674629718108e-4
-Georgia,1292,32323,839,20930,2905,Other media and communication equipment workers,1,15,7.16674629718108e-4
-Georgia,1292,32323,839,20930,3256,Nurse anesthetists,1,15,7.16674629718108e-4
-Georgia,1292,32323,839,20930,3261,Acupuncturists,1,15,7.16674629718108e-4
-Georgia,1292,32323,839,20930,6600,"Helpers, construction trades",1,15,7.16674629718108e-4
-Georgia,1292,32323,839,20930,7020,Radio and telecommunications equipment installers and repairers,1,15,7.16674629718108e-4
-Georgia,1292,32323,839,20930,8320,Sewing machine operators,1,15,7.16674629718108e-4
-Georgia,1292,32323,839,20930,0040,Advertising and promotions managers,1,14,6.688963210702341e-4
-Georgia,1292,32323,839,20930,0340,Lodging managers,1,14,6.688963210702341e-4
-Georgia,1292,32323,839,20930,6515,Roofers,1,14,6.688963210702341e-4
-Georgia,1292,32323,839,20930,8255,Printing press operators,1,14,6.688963210702341e-4
-Georgia,1292,32323,839,20930,0102,Facilities managers,1,13,6.211180124223603e-4
-Georgia,1292,32323,839,20930,0725,"Meeting, convention, and event planners",2,13,6.211180124223603e-4
-Georgia,1292,32323,839,20930,2920,"Television, video, and film camera operators and editors",1,13,6.211180124223603e-4
-Georgia,1292,32323,839,20930,3010,Dentists,1,13,6.211180124223603e-4
-Georgia,1292,32323,839,20930,4530,"Baggage porters, bellhops, and concierges",1,13,6.211180124223603e-4
-Georgia,1292,32323,839,20930,5610,"Shipping, receiving, and inventory clerks",1,13,6.211180124223603e-4
-Georgia,1292,32323,839,20930,0940,Tax preparers,1,12,5.733397037744864e-4
-Georgia,1292,32323,839,20930,0960,Other financial specialists,2,12,5.733397037744864e-4
-Georgia,1292,32323,839,20930,1105,Network and computer systems administrators,1,12,5.733397037744864e-4
-Georgia,1292,32323,839,20930,1106,Computer network architects,1,12,5.733397037744864e-4
-Georgia,1292,32323,839,20930,3230,Speech-language pathologists,1,12,5.733397037744864e-4
-Georgia,1292,32323,839,20930,4522,Skincare specialists,1,12,5.733397037744864e-4
-Georgia,1292,32323,839,20930,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",1,12,5.733397037744864e-4
-Georgia,1292,32323,839,20930,7315,"Heating, air conditioning, and refrigeration mechanics and installers",1,12,5.733397037744864e-4
-Georgia,1292,32323,839,20930,0101,Administrative services managers,1,11,5.255613951266125e-4
-Georgia,1292,32323,839,20930,0700,Logisticians,1,11,5.255613951266125e-4
-Georgia,1292,32323,839,20930,1031,Web developers,1,11,5.255613951266125e-4
-Georgia,1292,32323,839,20930,5150,Procurement clerks,1,11,5.255613951266125e-4
-Georgia,1292,32323,839,20930,0565,Compliance officers,1,10,4.7778308647873863e-4
-Georgia,1292,32323,839,20930,1520,"Petroleum, mining and geological engineers, including mining safety engineers",1,10,4.7778308647873863e-4
-Georgia,1292,32323,839,20930,2016,Social and human service assistants,1,10,4.7778308647873863e-4
-Georgia,1292,32323,839,20930,3322,Diagnostic medical sonographers,1,10,4.7778308647873863e-4
-Georgia,1292,32323,839,20930,3545,Miscellaneous health technologists and technicians,1,10,4.7778308647873863e-4
-Georgia,1292,32323,839,20930,7430,Precision instrument and equipment repairers,1,10,4.7778308647873863e-4
-Georgia,1292,32323,839,20930,4055,Fast food and counter workers,1,9,4.3000477783086477e-4
-Georgia,1292,32323,839,20930,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",1,9,4.3000477783086477e-4
-Georgia,1292,32323,839,20930,6442,"Plumbers, pipefitters, and steamfitters",1,9,4.3000477783086477e-4
-Georgia,1292,32323,839,20930,9050,Flight attendants,1,9,4.3000477783086477e-4
-Georgia,1292,32323,839,20930,0600,Cost estimators,1,8,3.822264691829909e-4
-Georgia,1292,32323,839,20930,1530,Other engineers,1,8,3.822264691829909e-4
-Georgia,1292,32323,839,20930,7130,Security and fire alarm systems installers,1,8,3.822264691829909e-4
-Georgia,1292,32323,839,20930,0205,"Farmers, ranchers, and other agricultural managers",1,7,3.3444816053511704e-4
-Georgia,1292,32323,839,20930,2435,Librarians and media collections specialists,1,7,3.3444816053511704e-4
-Georgia,1292,32323,839,20930,6660,Construction and building inspectors,1,7,3.3444816053511704e-4
-Georgia,1292,32323,839,20930,2004,Mental health counselors,1,6,2.866698518872432e-4
-Georgia,1292,32323,839,20930,0500,"Agents and business managers of artists, performers, and athletes",1,4,1.9111323459149545e-4
-Georgia,1292,32323,839,20930,0540,"Claims adjusters, appraisers, examiners, and investigators",1,4,1.9111323459149545e-4
-Georgia,1292,32323,839,20930,5330,Loan interviewers and clerks,1,4,1.9111323459149545e-4
+country,n_workers,workers,occ,occ_title,occ_share
+Georgia,47,1368,9130,Driver/sales workers and truck drivers,0.06536072623029145
+Georgia,54,1320,3601,Home health aides,0.0630673674151935
+Georgia,29,691,9142,Taxi drivers,0.033014811275680844
+Georgia,24,618,3602,Personal care aides,0.02952699474438605
+Georgia,22,521,0440,Other managers,0.024892498805542285
+Georgia,10,516,6260,Construction laborers,0.024653607262302913
+Georgia,10,442,0010,Chief executives and legislators,0.02111801242236025
+Georgia,20,442,2205,Postsecondary teachers,0.02111801242236025
+Georgia,20,422,3255,Registered nurses,0.02016244624940277
+Georgia,17,399,2545,Teaching assistants,0.01906354515050167
+Georgia,20,377,3090,Physicians,0.018012422360248446
+Georgia,5,375,0020,General and operations managers,0.0179168657429527
+Georgia,14,373,0800,Accountants and auditors,0.01782130912565695
+Georgia,6,329,4920,Real estate brokers and sales agents,0.015719063545150503
+Georgia,11,322,5240,Customer service representatives,0.015384615384615385
+Georgia,15,321,4760,Retail salespersons,0.01533683707596751
+Georgia,7,287,3930,Security guards and gaming surveillance officers,0.0137123745819398
+Georgia,10,273,1021,Software developers,0.013043478260869565
+Georgia,7,240,2320,Secondary school teachers,0.011466794075489728
+Georgia,13,238,4700,First-line supervisors of retail sales workers,0.01137123745819398
+Georgia,7,233,5740,"Secretaries and administrative assistants, except legal, medical, and executive",0.01113234591495461
+Georgia,2,211,3550,Other healthcare practitioners and technical occupations,0.010081223124701385
+Georgia,5,205,0705,Project management specialists,0.009794553272814142
+Georgia,7,200,0120,Financial managers,0.009555661729574774
+Georgia,10,197,4600,Childcare workers,0.009412326803631152
+Georgia,8,189,5120,"Bookkeeping, accounting, and auditing clerks",0.009030100334448161
+Georgia,2,172,4130,Dining room and cafeteria attendants and bartender helpers,0.008217869087434305
+Georgia,7,167,5860,"Office clerks, general",0.007978977544194936
+Georgia,2,164,1340,Biomedical and agricultural engineers,0.007835642618251313
+Georgia,7,159,0230,Education and childcare administrators,0.007596751075011944
+Georgia,5,157,6355,Electricians,0.007501194457716197
+Georgia,5,156,9150,"Motor vehicle operators, all other",0.007453416149068323
+Georgia,6,153,4510,"Hairdressers, hairstylists, and cosmetologists",0.007310081223124701
+Georgia,9,150,2360,Other teachers and instructors,0.00716674629718108
+Georgia,3,146,9620,"Laborers and freight, stock, and material movers, hand",0.006975633062589585
+Georgia,5,145,1800,Economists,0.00692785475394171
+Georgia,6,145,2310,Elementary and middle school teachers,0.00692785475394171
+Georgia,7,145,4220,Janitors and building cleaners,0.00692785475394171
+Georgia,4,144,4720,Cashiers,0.006880076445293836
+Georgia,3,139,8990,"Miscellaneous production workers, including equipment operators and tenders",0.006641184902054467
+Georgia,3,137,2145,Paralegals and legal assistants,0.00654562828475872
+Georgia,4,128,5510,Couriers and messengers,0.0061156235069278544
+Georgia,5,127,3603,Nursing assistants,0.006067845198279981
+Georgia,2,124,6230,Carpenters,0.005924510272336359
+Georgia,4,123,1360,Civil engineers,0.005876731963688485
+Georgia,3,119,0052,Sales managers,0.00568561872909699
+Georgia,5,119,0735,Market research analysts and marketing specialists,0.00568561872909699
+Georgia,7,117,1240,Other mathematical science occupations,0.0055900621118012426
+Georgia,6,110,5710,Executive secretaries and executive administrative assistants,0.005255613951266125
+Georgia,3,109,6200,First-line supervisors of construction trades and extraction workers,0.005207835642618251
+Georgia,6,107,2100,"Lawyers, and judges, magistrates, and other judicial workers",0.005112279025322504
+Georgia,3,107,3300,Clinical laboratory technologists and technicians,0.005112279025322504
+Georgia,3,105,0410,"Property, real estate, and community association managers",0.005016722408026756
+Georgia,3,105,3645,Medical assistants,0.005016722408026756
+Georgia,3,104,4965,"Sales and related workers, all other",0.004968944099378882
+Georgia,6,100,4710,First-line supervisors of non-retail sales workers,0.004777830864787387
+Georgia,4,99,4850,"Sales representatives, wholesale and manufacturing",0.004730052556139512
+Georgia,2,94,1720,Chemists and materials scientists,0.004491161012900143
+Georgia,5,90,0850,Personal financial advisors,0.004300047778308648
+Georgia,2,90,3630,Massage therapists,0.004300047778308648
+Georgia,3,89,0350,Medical and health services managers,0.004252269469660774
+Georgia,5,89,1050,Computer support specialists,0.004252269469660774
+Georgia,4,88,4230,Maids and housekeeping cleaners,0.0042044911610129
+Georgia,6,85,1010,Computer programmers,0.004061156235069279
+Georgia,2,83,3258,"Nurse practitioners, and nurse midwives",0.0039655996177735305
+Georgia,3,82,1760,"Physical scientists, all other",0.003917821309125657
+Georgia,2,82,2700,Actors,0.003917821309125657
+Georgia,4,79,0160,"Transportation, storage, and distribution managers",0.0037744863831820352
+Georgia,4,78,2600,Artists and related workers,0.0037267080745341614
+Georgia,3,76,0630,Human resources workers,0.003631151457238414
+Georgia,1,73,7000,"First-line supervisors of mechanics, installers, and repairers",0.0034878165312947924
+Georgia,1,73,8740,"Inspectors, testers, sorters, samplers, and weighers",0.0034878165312947924
+Georgia,5,71,0845,Financial and investment analysts,0.0033922599139990443
+Georgia,3,67,5400,Receptionists and information clerks,0.003201146679407549
+Georgia,5,67,5420,Other information and records clerks,0.003201146679407549
+Georgia,3,66,2014,"Social workers, all other",0.0031533683707596753
+Georgia,2,66,5600,"Production, planning, and expediting clerks",0.0031533683707596753
+Georgia,1,64,1920,Chemical technicians,0.0030578117534639272
+Georgia,1,63,9365,Transportation service attendants,0.0030100334448160534
+Georgia,2,62,5140,Payroll and timekeeping clerks,0.0029622551361681796
+Georgia,3,61,9645,Stockers and order fillers,0.002914476827520306
+Georgia,4,60,1007,Information security analysts,0.002866698518872432
+Georgia,3,60,4110,Waiters and waitresses,0.002866698518872432
+Georgia,4,59,0051,Marketing managers,0.002818920210224558
+Georgia,4,59,2634,Graphic designers,0.002818920210224558
+Georgia,3,58,2300,Preschool and kindergarten teachers,0.0027711419015766844
+Georgia,1,57,4621,Exercise trainers and group fitness instructors,0.00272336359292881
+Georgia,1,57,6520,Sheet metal workers,0.00272336359292881
+Georgia,2,56,1970,"Other life, physical, and social science technicians",0.0026755852842809363
+Georgia,4,56,5000,First-line supervisors of office and administrative support workers,0.0026755852842809363
+Georgia,2,55,7750,Other assemblers and fabricators,0.0026278069756330625
+Georgia,4,53,0710,Management analysts,0.002532250358337315
+Georgia,1,53,0930,"Tax examiners and collectors, and revenue agents",0.002532250358337315
+Georgia,4,53,2830,Editors,0.002532250358337315
+Georgia,3,52,4000,Chefs and head cooks,0.002484472049689441
+Georgia,2,52,4400,Gambling services workers,0.002484472049689441
+Georgia,3,47,2640,Other designers,0.0022455805064500716
+Georgia,3,47,2722,Coaches and scouts,0.0022455805064500716
+Georgia,2,47,4950,"Door-to-door sales workers, news and street vendors, and related workers",0.0022455805064500716
+Georgia,2,47,7320,Home appliance repairers,0.0022455805064500716
+Georgia,1,47,7700,First-line supervisors of production and operating workers,0.0022455805064500716
+Georgia,1,46,4810,Insurance sales agents,0.002197802197802198
+Georgia,3,45,0420,Social and community service managers,0.002150023889154324
+Georgia,2,45,3740,Firefighters,0.002150023889154324
+Georgia,1,45,6240,"Carpet, floor, and tile installers and finishers",0.002150023889154324
+Georgia,1,45,9410,Transportation inspectors,0.002150023889154324
+Georgia,4,43,2710,Producers and directors,0.0020544672718585764
+Georgia,1,43,3500,Licensed practical and licensed vocational nurses,0.0020544672718585764
+Georgia,2,42,1065,Database administrators and architects,0.002006688963210702
+Georgia,4,42,1650,Other life scientists,0.002006688963210702
+Georgia,2,42,3050,Pharmacists,0.002006688963210702
+Georgia,1,42,8030,Machinists,0.002006688963210702
+Georgia,2,41,7340,"Maintenance and repair workers, general",0.0019589106545628283
+Georgia,2,40,8750,Jewelers and precious stone and metal workers,0.0019111323459149545
+Georgia,4,39,1108,"Computer occupations, all other",0.0018633540372670807
+Georgia,2,39,4020,Cooks,0.0018633540372670807
+Georgia,1,38,9121,"Bus drivers, school",0.001815575728619207
+Georgia,2,37,3245,Other therapists,0.001767797419971333
+Georgia,2,37,5522,"Dispatchers, except police, fire, and ambulance",0.001767797419971333
+Georgia,1,36,4030,Food preparation workers,0.001720019111323459
+Georgia,2,35,4350,Animal caretakers,0.0016722408026755853
+Georgia,3,35,5110,Billing and posting clerks,0.0016722408026755853
+Georgia,2,34,1460,Mechanical engineers,0.0016244624940277114
+Georgia,2,34,2330,Special education teachers,0.0016244624940277114
+Georgia,2,34,3421,Pharmacy technicians,0.0016244624940277114
+Georgia,1,33,1220,Operations research analysts,0.0015766841853798376
+Georgia,2,33,3310,Dental hygienists,0.0015766841853798376
+Georgia,1,32,4140,Dishwashers,0.0015289058767319636
+Georgia,1,32,8500,Cabinetmakers and bench carpenters,0.0015289058767319636
+Georgia,1,31,1006,Computer systems analysts,0.0014811275680840898
+Georgia,1,31,1022,Software quality assurance analysts and testers,0.0014811275680840898
+Georgia,3,31,2752,Musicians and singers,0.0014811275680840898
+Georgia,2,30,0140,Industrial production managers,0.001433349259436216
+Georgia,2,30,4435,Other entertainment attendants and related workers,0.001433349259436216
+Georgia,2,30,4655,"Personal care and service workers, all other",0.001433349259436216
+Georgia,1,30,7640,"Other installation, maintenance, and repair workers",0.001433349259436216
+Georgia,2,29,2910,Photographers,0.0013855709507883422
+Georgia,1,29,4622,Recreation workers,0.0013855709507883422
+Georgia,2,29,7120,Electronic home entertainment equipment installers and repairers,0.0013855709507883422
+Georgia,1,28,1400,Computer hardware engineers,0.0013377926421404682
+Georgia,1,28,2012,Healthcare social workers,0.0013377926421404682
+Georgia,1,28,2635,Interior designers,0.0013377926421404682
+Georgia,1,27,4200,First-line supervisors of housekeeping and janitorial workers,0.0012900143334925944
+Georgia,1,26,0360,Natural sciences managers,0.0012422360248447205
+Georgia,1,26,0900,Financial examiners,0.0012422360248447205
+Georgia,1,26,1610,Biological scientists,0.0012422360248447205
+Georgia,2,26,4010,First-line supervisors of food preparation and serving workers,0.0012422360248447205
+Georgia,2,25,0110,Computer and information systems managers,0.0011944577161968467
+Georgia,2,25,2040,Clergy,0.0011944577161968467
+Georgia,3,25,9825,Military enlisted tactical operations and air/weapons specialists and crew members,0.0011944577161968467
+Georgia,1,24,2555,Other educational instruction and library workers,0.0011466794075489727
+Georgia,1,24,6115,Fishing and hunting workers,0.0011466794075489727
+Georgia,2,23,3640,Dental assistants,0.001098901098901099
+Georgia,1,23,4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",0.001098901098901099
+Georgia,1,23,8930,"Paper goods machine setters, operators, and tenders",0.001098901098901099
+Georgia,1,22,0220,Construction managers,0.001051122790253225
+Georgia,2,22,3160,Physical therapists,0.001051122790253225
+Georgia,1,22,3520,"Opticians, dispensing",0.001051122790253225
+Georgia,1,22,7800,Bakers,0.001051122790253225
+Georgia,2,22,9141,Shuttle drivers and chauffeurs,0.001051122790253225
+Georgia,1,21,1600,Agricultural and food scientists,0.001003344481605351
+Georgia,1,21,1825,Other psychologists,0.001003344481605351
+Georgia,1,21,2011,"Child, family, and school social workers",0.001003344481605351
+Georgia,1,20,2810,"News analysts, reporters, and journalists",9.555661729574773e-4
+Georgia,1,20,3323,Radiologic technologists and technicians,9.555661729574773e-4
+Georgia,1,19,0910,Credit counselors and loan officers,9.077878643096034e-4
+Georgia,1,19,2740,Dancers and choreographers,9.077878643096034e-4
+Georgia,1,19,2861,Interpreters and translators,9.077878643096034e-4
+Georgia,1,19,3820,Detectives and criminal investigators,9.077878643096034e-4
+Georgia,2,19,6360,Glaziers,9.077878643096034e-4
+Georgia,1,18,1410,Electrical and electronics engineers,8.600095556617295e-4
+Georgia,1,18,3655,Other healthcare support workers,8.600095556617295e-4
+Georgia,1,18,4251,Landscaping and groundskeeping workers,8.600095556617295e-4
+Georgia,1,17,1860,Other social scientists,8.122312470138557e-4
+Georgia,1,17,6050,Other agricultural workers,8.122312470138557e-4
+Georgia,1,17,7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",8.122312470138557e-4
+Georgia,1,16,2002,"Educational, guidance, and career counselors and advisors",7.644529383659818e-4
+Georgia,1,16,3424,Veterinary technologists and technicians,7.644529383659818e-4
+Georgia,1,16,5250,"Eligibility interviewers, government programs",7.644529383659818e-4
+Georgia,1,16,6305,Construction equipment operators,7.644529383659818e-4
+Georgia,1,15,0750,"Business operations specialists, all other",7.16674629718108e-4
+Georgia,1,15,1555,"Other engineering technologists and technicians, except drafters",7.16674629718108e-4
+Georgia,1,15,2905,Other media and communication equipment workers,7.16674629718108e-4
+Georgia,1,15,3256,Nurse anesthetists,7.16674629718108e-4
+Georgia,1,15,3261,Acupuncturists,7.16674629718108e-4
+Georgia,1,15,6600,"Helpers, construction trades",7.16674629718108e-4
+Georgia,1,15,7020,Radio and telecommunications equipment installers and repairers,7.16674629718108e-4
+Georgia,1,15,8320,Sewing machine operators,7.16674629718108e-4
+Georgia,1,14,0040,Advertising and promotions managers,6.688963210702341e-4
+Georgia,1,14,0340,Lodging managers,6.688963210702341e-4
+Georgia,1,14,6515,Roofers,6.688963210702341e-4
+Georgia,1,14,8255,Printing press operators,6.688963210702341e-4
+Georgia,1,13,0102,Facilities managers,6.211180124223603e-4
+Georgia,2,13,0725,"Meeting, convention, and event planners",6.211180124223603e-4
+Georgia,1,13,2920,"Television, video, and film camera operators and editors",6.211180124223603e-4
+Georgia,1,13,3010,Dentists,6.211180124223603e-4
+Georgia,1,13,4530,"Baggage porters, bellhops, and concierges",6.211180124223603e-4
+Georgia,1,13,5610,"Shipping, receiving, and inventory clerks",6.211180124223603e-4
+Georgia,1,12,0940,Tax preparers,5.733397037744864e-4
+Georgia,2,12,0960,Other financial specialists,5.733397037744864e-4
+Georgia,1,12,1105,Network and computer systems administrators,5.733397037744864e-4
+Georgia,1,12,1106,Computer network architects,5.733397037744864e-4
+Georgia,1,12,3230,Speech-language pathologists,5.733397037744864e-4
+Georgia,1,12,4522,Skincare specialists,5.733397037744864e-4
+Georgia,1,12,5630,"Weighers, measurers, checkers, and samplers, recordkeeping",5.733397037744864e-4
+Georgia,1,12,7315,"Heating, air conditioning, and refrigeration mechanics and installers",5.733397037744864e-4
+Georgia,1,11,0101,Administrative services managers,5.255613951266125e-4
+Georgia,1,11,0700,Logisticians,5.255613951266125e-4
+Georgia,1,11,1031,Web developers,5.255613951266125e-4
+Georgia,1,11,5150,Procurement clerks,5.255613951266125e-4
+Georgia,1,10,0565,Compliance officers,4.7778308647873863e-4
+Georgia,1,10,1520,"Petroleum, mining and geological engineers, including mining safety engineers",4.7778308647873863e-4
+Georgia,1,10,2016,Social and human service assistants,4.7778308647873863e-4
+Georgia,1,10,3322,Diagnostic medical sonographers,4.7778308647873863e-4
+Georgia,1,10,3545,Miscellaneous health technologists and technicians,4.7778308647873863e-4
+Georgia,1,10,7430,Precision instrument and equipment repairers,4.7778308647873863e-4
+Georgia,1,9,4055,Fast food and counter workers,4.3000477783086477e-4
+Georgia,1,9,6220,"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",4.3000477783086477e-4
+Georgia,1,9,6442,"Plumbers, pipefitters, and steamfitters",4.3000477783086477e-4
+Georgia,1,9,9050,Flight attendants,4.3000477783086477e-4
+Georgia,1,8,0600,Cost estimators,3.822264691829909e-4
+Georgia,1,8,1530,Other engineers,3.822264691829909e-4
+Georgia,1,8,7130,Security and fire alarm systems installers,3.822264691829909e-4
+Georgia,1,7,0205,"Farmers, ranchers, and other agricultural managers",3.3444816053511704e-4
+Georgia,1,7,2435,Librarians and media collections specialists,3.3444816053511704e-4
+Georgia,1,7,6660,Construction and building inspectors,3.3444816053511704e-4
+Georgia,1,6,2004,Mental health counselors,2.866698518872432e-4
+Georgia,1,4,0500,"Agents and business managers of artists, performers, and athletes",1.9111323459149545e-4
+Georgia,1,4,0540,"Claims adjusters, appraisers, examiners, and investigators",1.9111323459149545e-4
+Georgia,1,4,5330,Loan interviewers and clerks,1.9111323459149545e-4
