@@ -1,0 +1,469 @@
+country,educ_group,educ_n,educ_workers,educ_share
+Afghanistan,Less than bachelor's degree,1905,49174,0.6427049705271137
+Afghanistan,Bachelor's degree,757,19076,0.2493236266680608
+Afghanistan,Graduate or professional degree,367,8261,0.10797140280482545
+Albania,Less than bachelor's degree,1563,41798,0.5514902824873665
+Albania,Bachelor's degree,843,21595,0.28492828963861144
+Albania,Graduate or professional degree,533,12398,0.163581427874022
+Algeria,Less than bachelor's degree,374,10297,0.41503426037887947
+Algeria,Bachelor's degree,292,7975,0.32144296654574767
+Algeria,Graduate or professional degree,270,6538,0.2635227730753728
+Antigua and Barbuda,Less than bachelor's degree,246,7538,0.6337649234908357
+Antigua and Barbuda,Bachelor's degree,82,2344,0.1970741550361527
+Antigua and Barbuda,Graduate or professional degree,62,2012,0.1691609214730116
+Argentina,Less than bachelor's degree,2833,69235,0.5416601470818339
+Argentina,Graduate or professional degree,1463,30210,0.23634798936003756
+Argentina,Bachelor's degree,1282,28375,0.2219918635581286
+Armenia,Less than bachelor's degree,1044,28279,0.5003184600686459
+Armenia,Bachelor's degree,605,15129,0.267665687696826
+Armenia,Graduate or professional degree,559,13114,0.23201585223452814
+Australia,Less than bachelor's degree,1131,23384,0.3557584055986612
+Australia,Bachelor's degree,1065,23119,0.3517267609919367
+Australia,Graduate or professional degree,998,19227,0.2925148334094021
+Austria,Less than bachelor's degree,317,6213,0.4068495841791631
+Austria,Graduate or professional degree,304,5622,0.3681487787309279
+Austria,Bachelor's degree,153,3436,0.22500163708990897
+Azerbaijan,Bachelor's degree,245,5964,0.37041177566610767
+Azerbaijan,Less than bachelor's degree,207,5398,0.33525867958511896
+Azerbaijan,Graduate or professional degree,243,4739,0.2943295447487734
+Bahamas,Less than bachelor's degree,440,13208,0.5655562216322686
+Bahamas,Bachelor's degree,179,5195,0.22244583369016013
+Bahamas,Graduate or professional degree,168,4951,0.2119979446775713
+Bangladesh,Less than bachelor's degree,3526,82100,0.45659560978593955
+Bangladesh,Graduate or professional degree,2265,48855,0.2717049758354699
+Bangladesh,Bachelor's degree,2219,48854,0.27169941437859063
+Barbados,Less than bachelor's degree,614,17532,0.6433289299867899
+Barbados,Bachelor's degree,241,5956,0.21855276676941143
+Barbados,Graduate or professional degree,165,3764,0.13811830324379862
+Belarus,Bachelor's degree,756,16657,0.34517987400530503
+Belarus,Less than bachelor's degree,700,16639,0.3448068633952255
+Belarus,Graduate or professional degree,673,14960,0.3100132625994695
+Belgium,Graduate or professional degree,486,9198,0.4770746887966805
+Belgium,Less than bachelor's degree,234,5436,0.28195020746887967
+Belgium,Bachelor's degree,225,4646,0.24097510373443984
+Belize,Less than bachelor's degree,768,19468,0.714500678973832
+Belize,Bachelor's degree,183,4165,0.1528608654163761
+Belize,Graduate or professional degree,142,3614,0.1326384556097919
+Bermuda,Less than bachelor's degree,110,2034,0.5244971634863331
+Bermuda,Bachelor's degree,40,1076,0.2774626095925735
+Bermuda,Graduate or professional degree,36,768,0.19804022692109335
+Bhutan,Less than bachelor's degree,733,23252,0.8590534599327595
+Bhutan,Bachelor's degree,86,2541,0.09387815420992353
+Bhutan,Graduate or professional degree,46,1274,0.04706838585731703
+Bolivia,Less than bachelor's degree,1241,33790,0.6192500824689366
+Bolivia,Bachelor's degree,538,13245,0.2427335703551662
+Bolivia,Graduate or professional degree,336,7531,0.13801634717589709
+Bosnia and Herzegovina,Less than bachelor's degree,2068,53020,0.7002760424233619
+Bosnia and Herzegovina,Bachelor's degree,623,14537,0.19200137360823108
+Bosnia and Herzegovina,Graduate or professional degree,359,8156,0.107722583968407
+Brazil,Less than bachelor's degree,8012,231535,0.5609474824170153
+Brazil,Bachelor's degree,4319,102546,0.24844157700535666
+Brazil,Graduate or professional degree,3610,78676,0.190610940577628
+Bulgaria,Graduate or professional degree,968,18963,0.35830625047237546
+Bulgaria,Less than bachelor's degree,759,18521,0.349954651953745
+Bulgaria,Bachelor's degree,697,15440,0.2917390975738795
+Burma,Less than bachelor's degree,2841,73443,0.7339235927210225
+Burma,Bachelor's degree,877,18251,0.18238415493309618
+Burma,Graduate or professional degree,438,8375,0.08369225234588135
+Cambodia,Less than bachelor's degree,2989,66774,0.7544658493870403
+Cambodia,Bachelor's degree,732,15336,0.1732783458561663
+Cambodia,Graduate or professional degree,314,6395,0.0722558047567934
+Cameroon,Less than bachelor's degree,880,29404,0.46434211357463206
+Cameroon,Bachelor's degree,478,17900,0.2826732360558398
+Cameroon,Graduate or professional degree,503,16020,0.25298465036952816
+Canada,Less than bachelor's degree,8484,167696,0.37515799740940176
+Canada,Bachelor's degree,7033,142581,0.3189724407775374
+Canada,Graduate or professional degree,6953,136724,0.3058695618130608
+Cape Verde,Less than bachelor's degree,768,23238,0.8274462327303803
+Cape Verde,Bachelor's degree,122,3204,0.11408631249109813
+Cape Verde,Graduate or professional degree,60,1642,0.058467454778521576
+Chile,Less than bachelor's degree,1485,39762,0.5698194325021496
+Chile,Bachelor's degree,675,15839,0.22698480940097449
+Chile,Graduate or professional degree,659,14179,0.2031957580968759
+China,Graduate or professional degree,26088,516079,0.39956596435890707
+China,Less than bachelor's degree,25006,509746,0.39466273975126953
+China,Bachelor's degree,13434,265774,0.2057712958898234
+Colombia,Less than bachelor's degree,13719,372444,0.6034354818326458
+Colombia,Bachelor's degree,5871,150430,0.24372737789328036
+Colombia,Graduate or professional degree,4157,94332,0.1528371402740738
+Costa Rica,Less than bachelor's degree,1590,41944,0.6649017960464785
+Costa Rica,Bachelor's degree,492,11960,0.18959149057590793
+Costa Rica,Graduate or professional degree,392,9179,0.14550671337761362
+Cote d'Ivoire,Less than bachelor's degree,411,13733,0.6241705299518225
+Cote d'Ivoire,Bachelor's degree,124,4377,0.19893646032178894
+Cote d'Ivoire,Graduate or professional degree,135,3892,0.17689300972638852
+Croatia,Less than bachelor's degree,459,11031,0.5173044456949916
+Croatia,Bachelor's degree,241,5947,0.27888763834177455
+Croatia,Graduate or professional degree,230,4346,0.20380791596323392
+Cuba,Less than bachelor's degree,20511,569545,0.7106272489980885
+Cuba,Bachelor's degree,6071,154367,0.19260531923919608
+Cuba,Graduate or professional degree,3569,77556,0.09676743176271542
+Czech Republic,Less than bachelor's degree,377,8999,0.5086767282799164
+Czech Republic,Graduate or professional degree,265,5103,0.288451755129727
+Czech Republic,Bachelor's degree,164,3589,0.20287151659035668
+Czechoslovakia,Less than bachelor's degree,156,3434,0.4700246372844238
+Czechoslovakia,Graduate or professional degree,136,2321,0.31768409526416647
+Czechoslovakia,Bachelor's degree,74,1551,0.2122912674514098
+DR Congo,Less than bachelor's degree,802,28963,0.7092690094281866
+DR Congo,Bachelor's degree,229,7808,0.19120852210113873
+DR Congo,Graduate or professional degree,162,4064,0.09952246847067467
+Denmark,Graduate or professional degree,284,5465,0.4322550027683303
+Denmark,Less than bachelor's degree,215,3920,0.31005299375148304
+Denmark,Bachelor's degree,163,3258,0.25769200348018667
+Dominica,Less than bachelor's degree,365,12994,0.6592592592592592
+Dominica,Bachelor's degree,117,3654,0.18538812785388128
+Dominica,Graduate or professional degree,101,3062,0.15535261288685948
+Dominican Republic,Less than bachelor's degree,17504,568392,0.7915121520549109
+Dominican Republic,Bachelor's degree,3559,101828,0.14180020024815174
+Dominican Republic,Graduate or professional degree,1797,47889,0.06668764769693737
+Ecuador,Less than bachelor's degree,8587,262714,0.7779969201610992
+Ecuador,Bachelor's degree,1903,50154,0.14852523098791756
+Ecuador,Graduate or professional degree,1089,24812,0.07347784885098319
+Egypt,Bachelor's degree,2162,52860,0.41501138415639477
+Egypt,Less than bachelor's degree,1431,40248,0.3159927769490461
+Egypt,Graduate or professional degree,1453,34262,0.26899583889455914
+El Salvador,Less than bachelor's degree,29463,872832,0.9051916980122395
+El Salvador,Bachelor's degree,2476,64478,0.06686848133940229
+El Salvador,Graduate or professional degree,1073,26941,0.027939820648358156
+Eritrea,Less than bachelor's degree,693,22163,0.7306804694711856
+Eritrea,Bachelor's degree,177,5387,0.1776012132401424
+Eritrea,Graduate or professional degree,104,2782,0.09171831728867202
+Ethiopia,Less than bachelor's degree,3531,117585,0.63599681961024
+Ethiopia,Bachelor's degree,1316,44023,0.23811275238934895
+Ethiopia,Graduate or professional degree,835,23275,0.12589042800041106
+Fiji,Less than bachelor's degree,862,18773,0.7167182071545832
+Fiji,Bachelor's degree,215,4667,0.17817737563471156
+Fiji,Graduate or professional degree,115,2753,0.10510441721070515
+Finland,Graduate or professional degree,215,3989,0.40708235534238185
+Finland,Bachelor's degree,156,3262,0.3328911113378916
+Finland,Less than bachelor's degree,137,2548,0.2600265333197265
+France,Graduate or professional degree,2911,59693,0.5247413345991895
+France,Less than bachelor's degree,1403,28885,0.25391844018390075
+France,Bachelor's degree,1174,25179,0.22134022521690974
+Gambia,Less than bachelor's degree,277,9981,0.6587249208025343
+Gambia,Bachelor's degree,65,2770,0.1828141499472017
+Gambia,Graduate or professional degree,71,2401,0.158460929250264
+Georgia,Bachelor's degree,293,8042,0.3842331581462016
+Georgia,Less than bachelor's degree,287,7384,0.3527950310559006
+Georgia,Graduate or professional degree,259,5504,0.2629718107978978
+Germany,Less than bachelor's degree,5547,110907,0.462916817971225
+Germany,Graduate or professional degree,3806,74113,0.30934164777968387
+Germany,Bachelor's degree,2614,54563,0.22774153424909113
+Ghana,Less than bachelor's degree,2535,80620,0.5365116758835938
+Ghana,Graduate or professional degree,1151,35035,0.23315165671770915
+Ghana,Bachelor's degree,1088,34612,0.230336667398697
+Greece,Less than bachelor's degree,1087,24162,0.48972394503222666
+Greece,Graduate or professional degree,763,15324,0.31059224127447405
+Greece,Bachelor's degree,435,9852,0.1996838136932993
+Grenada,Less than bachelor's degree,373,11617,0.6365828264562442
+Grenada,Graduate or professional degree,108,3579,0.1961203353608417
+Grenada,Bachelor's degree,113,3053,0.16729683818291413
+Guatemala,Less than bachelor's degree,22456,690821,0.9169756122165897
+Guatemala,Bachelor's degree,1618,44670,0.059293652911123235
+Guatemala,Graduate or professional degree,721,17878,0.02373073487228702
+Guinea,Less than bachelor's degree,272,10339,0.6797054763000461
+Guinea,Bachelor's degree,98,3421,0.22490303070146606
+Guinea,Graduate or professional degree,53,1451,0.09539149299848794
+Guyana,Less than bachelor's degree,4736,118440,0.708839547549225
+Guyana,Bachelor's degree,1260,31748,0.19000538631875039
+Guyana,Graduate or professional degree,775,16902,0.10115506613202466
+Haiti,Less than bachelor's degree,10319,351826,0.7596307059854821
+Haiti,Bachelor's degree,2225,72417,0.15635620117714627
+Haiti,Graduate or professional degree,1295,38911,0.08401309283737159
+Honduras,Less than bachelor's degree,13312,444205,0.8988728803270064
+Honduras,Bachelor's degree,1250,36388,0.07363308915779676
+Honduras,Graduate or professional degree,544,13587,0.02749403051519689
+Hong Kong,Bachelor's degree,3108,54725,0.3769121100879519
+Hong Kong,Less than bachelor's degree,2689,48709,0.3354776056696948
+Hong Kong,Graduate or professional degree,2362,41759,0.2876102842423533
+Hungary,Less than bachelor's degree,635,13511,0.4600272386789241
+Hungary,Graduate or professional degree,444,8680,0.29553966632618317
+Hungary,Bachelor's degree,342,7179,0.24443309499489274
+Iceland,Less than bachelor's degree,58,1591,0.4650686933645133
+Iceland,Bachelor's degree,27,991,0.2896813797135341
+Iceland,Graduate or professional degree,52,839,0.24524992692195263
+India,Graduate or professional degree,45334,1035615,0.5354979422719242
+India,Bachelor's degree,26527,608006,0.3143889977346635
+India,Less than bachelor's degree,12740,290308,0.15011305999341237
+Indonesia,Less than bachelor's degree,1098,24005,0.3947606439836208
+Indonesia,Bachelor's degree,1096,22117,0.36371260833100366
+Indonesia,Graduate or professional degree,766,14687,0.24152674768537552
+Iran,Graduate or professional degree,4751,101139,0.41268422856583264
+Iran,Less than bachelor's degree,3233,76925,0.3138822242896081
+Iran,Bachelor's degree,3005,67012,0.27343354714455925
+Iraq,Less than bachelor's degree,2420,71886,0.6041246470350948
+Iraq,Bachelor's degree,1207,31716,0.2665389269866882
+Iraq,Graduate or professional degree,639,15390,0.129336425978217
+Ireland,Less than bachelor's degree,1377,29968,0.4554407294832827
+Ireland,Bachelor's degree,858,18207,0.27670212765957447
+Ireland,Graduate or professional degree,848,17625,0.26785714285714285
+Israel/Palestine,Less than bachelor's degree,1447,34059,0.3969626685625707
+Israel/Palestine,Graduate or professional degree,1306,28394,0.330936257998345
+Israel/Palestine,Bachelor's degree,1072,23346,0.27210107343908435
+Italy,Less than bachelor's degree,3145,65683,0.5266267919566403
+Italy,Graduate or professional degree,1848,36086,0.2893268336486963
+Italy,Bachelor's degree,1109,22955,0.18404637439466343
+Jamaica,Less than bachelor's degree,11589,365193,0.687107826443622
+Jamaica,Bachelor's degree,3293,97218,0.1829149207985806
+Jamaica,Graduate or professional degree,2572,69082,0.12997725275779737
+Japan,Bachelor's degree,3320,67134,0.38454136165240405
+Japan,Less than bachelor's degree,2996,59440,0.3404703806807116
+Japan,Graduate or professional degree,2379,48008,0.27498825766688434
+Jordan,Less than bachelor's degree,805,22850,0.4714158981659136
+Jordan,Bachelor's degree,562,14111,0.29112252687173773
+Jordan,Graduate or professional degree,485,11510,0.23746157496234863
+Kazakhstan,Less than bachelor's degree,502,10490,0.3989655041265736
+Kazakhstan,Bachelor's degree,401,9089,0.3456813600578101
+Kazakhstan,Graduate or professional degree,303,6714,0.2553531358156163
+Kenya,Less than bachelor's degree,1832,59439,0.5044299607923011
+Kenya,Bachelor's degree,996,31746,0.2694129028972962
+Kenya,Graduate or professional degree,944,26649,0.22615713631040277
+Korea,Bachelor's degree,10473,220331,0.37024384260045
+Korea,Less than bachelor's degree,9818,203285,0.3415997728101469
+Korea,Graduate or professional degree,8585,171481,0.28815638458940307
+Kosovo,Less than bachelor's degree,342,8465,0.6805756552500402
+Kosovo,Bachelor's degree,122,2970,0.23878437047756873
+Kosovo,Graduate or professional degree,41,1003,0.08063997427239106
+Kuwait,Bachelor's degree,324,8269,0.37097353073126965
+Kuwait,Less than bachelor's degree,279,7510,0.33692238672050245
+Kuwait,Graduate or professional degree,295,6511,0.2921040825482279
+Kyrgyzstan,Bachelor's degree,135,3476,0.38972979033523936
+Kyrgyzstan,Less than bachelor's degree,142,3231,0.3622603430877901
+Kyrgyzstan,Graduate or professional degree,110,2212,0.24800986657697052
+Laos,Less than bachelor's degree,3254,76609,0.7901011746991058
+Laos,Bachelor's degree,644,14896,0.15362877858107898
+Laos,Graduate or professional degree,235,5456,0.056270046719815184
+Latvia,Less than bachelor's degree,198,3956,0.3764750666159117
+Latvia,Bachelor's degree,178,3462,0.3294632660829844
+Latvia,Graduate or professional degree,156,3090,0.29406166730110395
+Lebanon,Less than bachelor's degree,1405,34881,0.4283977303431505
+Lebanon,Graduate or professional degree,1154,24069,0.29560806661590233
+Lebanon,Bachelor's degree,944,22472,0.2759942030409472
+Liberia,Less than bachelor's degree,1095,45886,0.6697806127662059
+Liberia,Bachelor's degree,382,14855,0.21683282488432176
+Liberia,Graduate or professional degree,262,7768,0.11338656234947234
+Libya,Graduate or professional degree,109,2691,0.3724052034320509
+Libya,Less than bachelor's degree,87,2307,0.3192637697204539
+Libya,Bachelor's degree,84,2228,0.30833102684749514
+Lithuania,Less than bachelor's degree,360,8535,0.3879721805536615
+Lithuania,Bachelor's degree,324,7789,0.35406154825219327
+Lithuania,Graduate or professional degree,245,5675,0.25796627119414517
+Malaysia,Less than bachelor's degree,774,16608,0.35787704441140344
+Malaysia,Bachelor's degree,808,15763,0.3396685844807895
+Malaysia,Graduate or professional degree,739,14036,0.302454371107807
+Marshall Islands,Less than bachelor's degree,398,11722,0.922120830711139
+Marshall Islands,Bachelor's degree,25,615,0.048379483952171176
+Marshall Islands,Graduate or professional degree,12,375,0.029499685336689743
+Mexico,Less than bachelor's degree,218533,6133290,0.894406932558227
+Mexico,Bachelor's degree,20420,513667,0.07490715844618252
+Mexico,Graduate or professional degree,8985,210425,0.030685908995590445
+Micronesia,Less than bachelor's degree,636,18921,0.9042293906810036
+Micronesia,Bachelor's degree,54,1372,0.06556750298685783
+Micronesia,Graduate or professional degree,27,632,0.03020310633213859
+Moldova,Less than bachelor's degree,733,20129,0.5347910412072584
+Moldova,Bachelor's degree,461,10727,0.284996944658466
+Moldova,Graduate or professional degree,310,6783,0.18021201413427562
+Mongolia,Bachelor's degree,235,5693,0.4248824539144712
+Mongolia,Less than bachelor's degree,195,4789,0.3574147324427196
+Mongolia,Graduate or professional degree,131,2917,0.21770281364280916
+Montenegro,Less than bachelor's degree,258,7146,0.7530031612223393
+Montenegro,Bachelor's degree,69,1724,0.18166491043203373
+Montenegro,Graduate or professional degree,31,620,0.06533192834562697
+Morocco,Less than bachelor's degree,1300,35013,0.5687252290299526
+Morocco,Bachelor's degree,575,15677,0.25464557208758365
+Morocco,Graduate or professional degree,444,10874,0.17662919888246378
+Nepal,Less than bachelor's degree,2112,52727,0.434969476983996
+Nepal,Graduate or professional degree,1527,34501,0.2846147500412473
+Nepal,Bachelor's degree,1450,33992,0.2804157729747566
+Netherlands,Less than bachelor's degree,747,14330,0.3640752032520325
+Netherlands,Graduate or professional degree,783,13943,0.3542428861788618
+Netherlands,Bachelor's degree,583,11087,0.2816819105691057
+New Zealand,Less than bachelor's degree,446,9092,0.42583485551028055
+New Zealand,Bachelor's degree,319,6983,0.3270572806894291
+New Zealand,Graduate or professional degree,296,5276,0.24710786380029037
+Nicaragua,Less than bachelor's degree,5406,148076,0.7731862944745553
+Nicaragua,Bachelor's degree,1114,30070,0.15701202000898107
+Nicaragua,Graduate or professional degree,566,13368,0.06980168551646355
+Nigeria,Less than bachelor's degree,3392,114621,0.35142137084411523
+Nigeria,Graduate or professional degree,3570,107123,0.3284329355784207
+Nigeria,Bachelor's degree,3090,104420,0.3201456935774641
+North Macedonia,Less than bachelor's degree,421,10203,0.5810033597175559
+North Macedonia,Bachelor's degree,193,4354,0.2479357667558795
+North Macedonia,Graduate or professional degree,109,3004,0.17106087352656454
+Norway,Graduate or professional degree,208,3897,0.39615736505032023
+Norway,Less than bachelor's degree,181,3100,0.3151367286774423
+Norway,Bachelor's degree,142,2840,0.28870590627223747
+Other Africa,Less than bachelor's degree,1329,55424,0.6640308628663169
+Other Africa,Bachelor's degree,409,16439,0.1969544485179594
+Other Africa,Graduate or professional degree,329,11603,0.13901468861572377
+Other Americas,Less than bachelor's degree,278,8983,0.7376416488750205
+Other Americas,Bachelor's degree,85,2107,0.1730169157497126
+Other Americas,Graduate or professional degree,45,1088,0.08934143537526687
+Other Asia,Less than bachelor's degree,893,25116,0.46136042175646136
+Other Asia,Graduate or professional degree,708,15436,0.28354672201914066
+Other Asia,Bachelor's degree,587,13887,0.2550928562243979
+Other Caribbean,Less than bachelor's degree,479,15395,0.5771321462043112
+Other Caribbean,Bachelor's degree,207,6873,0.25765698219306465
+Other Caribbean,Graduate or professional degree,170,4407,0.16521087160262418
+Other East Africa,Less than bachelor's degree,355,10613,0.4982395192713957
+Other East Africa,Bachelor's degree,181,5806,0.272569362940707
+Other East Africa,Graduate or professional degree,179,4882,0.22919111778789727
+Other Europe,Less than bachelor's degree,374,9294,0.4345833722996353
+Other Europe,Graduate or professional degree,301,6377,0.29818572898157675
+Other Europe,Bachelor's degree,255,5715,0.26723089871878797
+Other North Africa,Less than bachelor's degree,257,9200,0.5826103476663923
+Other North Africa,Bachelor's degree,135,3431,0.2172756633525426
+Other North Africa,Graduate or professional degree,117,3160,0.20011398898106517
+Other South America,Less than bachelor's degree,135,4174,0.6968280467445743
+Other South America,Bachelor's degree,38,1169,0.1951585976627713
+Other South America,Graduate or professional degree,24,647,0.10801335559265443
+Other West Africa,Less than bachelor's degree,542,19790,0.6140242010549177
+Other West Africa,Bachelor's degree,194,6791,0.2107043127520943
+Other West Africa,Graduate or professional degree,160,5649,0.1752714861929879
+"Other, n.e.c.",Less than bachelor's degree,181,4210,0.6726314107684934
+"Other, n.e.c.",Bachelor's degree,46,1101,0.17590669436012144
+"Other, n.e.c.",Graduate or professional degree,39,948,0.1514618948713852
+Pakistan,Less than bachelor's degree,3943,89377,0.37064207248041603
+Pakistan,Bachelor's degree,3254,77000,0.31931525539000005
+Pakistan,Graduate or professional degree,3391,74764,0.3100426721295839
+Panama,Less than bachelor's degree,1362,35697,0.6454570111201519
+Panama,Bachelor's degree,496,12125,0.21923876683844137
+Panama,Graduate or professional degree,370,7483,0.13530422204140674
+Paraguay,Less than bachelor's degree,342,7994,0.5544842893805924
+Paraguay,Bachelor's degree,130,3959,0.2746063674828328
+Paraguay,Graduate or professional degree,107,2464,0.17090934313657488
+Peru,Less than bachelor's degree,7842,205503,0.6502230659705742
+Peru,Bachelor's degree,2850,71816,0.2272298686916627
+Peru,Graduate or professional degree,1751,38731,0.12254706533776301
+Philippines,Less than bachelor's degree,28621,579408,0.45658520901841837
+Philippines,Bachelor's degree,27796,545207,0.42963413010055923
+Philippines,Graduate or professional degree,7400,144388,0.11378066088102234
+Poland,Less than bachelor's degree,5702,133374,0.5487603169770332
+Poland,Graduate or professional degree,2814,56202,0.23124017675666333
+Poland,Bachelor's degree,2274,53470,0.2199995062663035
+Portugal,Less than bachelor's degree,2778,62484,0.7874976369021363
+Portugal,Bachelor's degree,463,9519,0.11996975234734387
+Portugal,Graduate or professional degree,385,7342,0.09253261075051988
+Republic of the Congo,Less than bachelor's degree,443,18983,0.7770046252711719
+Republic of the Congo,Bachelor's degree,85,3775,0.1545168024231509
+Republic of the Congo,Graduate or professional degree,53,1673,0.06847857230567721
+Romania,Less than bachelor's degree,1936,43119,0.40798387707213685
+Romania,Bachelor's degree,1379,31410,0.297195518885777
+Romania,Graduate or professional degree,1572,31159,0.29482060404208615
+Russia,Less than bachelor's degree,3595,88065,0.35429364552531534
+Russia,Graduate or professional degree,4133,86751,0.3490073019129805
+Russia,Bachelor's degree,3186,73749,0.2966990525617042
+Rwanda,Less than bachelor's degree,205,7013,0.582233291822333
+Rwanda,Bachelor's degree,99,3051,0.25330012453300127
+Rwanda,Graduate or professional degree,65,1981,0.16446658364466585
+Saudi Arabia,Bachelor's degree,427,11023,0.3819340979176051
+Saudi Arabia,Graduate or professional degree,446,10985,0.3806174422230692
+Saudi Arabia,Less than bachelor's degree,250,6853,0.23744845985932572
+Senegal,Less than bachelor's degree,439,14947,0.5945268684618751
+Senegal,Bachelor's degree,147,6328,0.25170040968935203
+Senegal,Graduate or professional degree,130,3866,0.15377272184877291
+Serbia,Less than bachelor's degree,489,12805,0.4617076512583832
+Serbia,Graduate or professional degree,364,7776,0.2803778755318382
+Serbia,Bachelor's degree,294,7153,0.2579144732097786
+Sierra Leone,Less than bachelor's degree,669,20964,0.6329519036260982
+Sierra Leone,Bachelor's degree,200,6855,0.20696838863560882
+Sierra Leone,Graduate or professional degree,188,5302,0.16007970773829291
+Singapore,Bachelor's degree,405,8616,0.3882480173035328
+Singapore,Graduate or professional degree,420,8172,0.36824080749819754
+Singapore,Less than bachelor's degree,286,5404,0.24351117519826965
+Slovakia,Less than bachelor's degree,237,4900,0.40382396571616946
+Slovakia,Graduate or professional degree,223,4185,0.34489863194329984
+Slovakia,Bachelor's degree,132,3049,0.25127740234053075
+Somalia,Less than bachelor's degree,972,48874,0.817004062118654
+Somalia,Bachelor's degree,166,7630,0.1275471824275756
+Somalia,Graduate or professional degree,85,3317,0.05544875545377041
+South Africa,Less than bachelor's degree,1563,34088,0.3905904460715227
+South Africa,Bachelor's degree,1201,28691,0.32875001432287193
+South Africa,Graduate or professional degree,1171,24494,0.2806595396056054
+Spain,Graduate or professional degree,1401,31603,0.4390891155139356
+Spain,Less than bachelor's degree,1004,25444,0.35351654764220414
+Spain,Bachelor's degree,645,14927,0.20739433684386027
+Sri Lanka,Less than bachelor's degree,617,14025,0.365643819902495
+Sri Lanka,Graduate or professional degree,730,13871,0.3616289073702323
+Sri Lanka,Bachelor's degree,518,10461,0.2727272727272727
+St. Kitts and Nevis,Less than bachelor's degree,170,5251,0.5672464081235822
+St. Kitts and Nevis,Bachelor's degree,77,2170,0.2344171977962623
+St. Kitts and Nevis,Graduate or professional degree,65,1836,0.19833639408015555
+St. Lucia,Less than bachelor's degree,406,12253,0.6787237578241844
+St. Lucia,Bachelor's degree,107,3246,0.17980391070736165
+St. Lucia,Graduate or professional degree,76,2554,0.141472331468454
+St. Vincent and the Grenadines,Less than bachelor's degree,324,9048,0.672513750557455
+St. Vincent and the Grenadines,Bachelor's degree,87,2457,0.18262226847034338
+St. Vincent and the Grenadines,Graduate or professional degree,73,1949,0.14486398097220157
+Sudan,Less than bachelor's degree,573,20890,0.5593038821954485
+Sudan,Bachelor's degree,284,10529,0.28190093708166
+Sudan,Graduate or professional degree,211,5931,0.15879518072289156
+Sweden,Less than bachelor's degree,463,8959,0.35024825051800307
+Sweden,Graduate or professional degree,474,8755,0.34227295828609405
+Sweden,Bachelor's degree,382,7865,0.3074787911959029
+Switzerland,Graduate or professional degree,443,8608,0.4323455549974887
+Switzerland,Less than bachelor's degree,334,5740,0.2882973380210949
+Switzerland,Bachelor's degree,288,5562,0.27935710698141636
+Syria,Less than bachelor's degree,1112,29336,0.5266030013642565
+Syria,Graduate or professional degree,619,13410,0.24071946578588355
+Syria,Bachelor's degree,521,12962,0.23267753284985998
+Taiwan,Graduate or professional degree,6238,114492,0.5181032025087903
+Taiwan,Bachelor's degree,3652,66387,0.30041677414099727
+Taiwan,Less than bachelor's degree,2215,40104,0.18148002335021246
+Tanzania,Less than bachelor's degree,349,9723,0.5161649944258639
+Tanzania,Bachelor's degree,179,4702,0.24961511918033658
+Tanzania,Graduate or professional degree,182,4412,0.23421988639379943
+Thailand,Less than bachelor's degree,3762,89292,0.579103703223296
+Thailand,Bachelor's degree,2037,42301,0.27434334262922366
+Thailand,Graduate or professional degree,1105,22597,0.14655295414748037
+Togo,Less than bachelor's degree,526,17847,0.6939767468989384
+Togo,Bachelor's degree,139,5008,0.1947350001944239
+Togo,Graduate or professional degree,116,2862,0.11128825290663763
+Tonga,Less than bachelor's degree,268,6574,0.7668260818849878
+Tonga,Bachelor's degree,45,1382,0.16120377930712704
+Tonga,Graduate or professional degree,25,617,0.07197013880788522
+Trinidad and Tobago,Less than bachelor's degree,3231,90161,0.6370001413028119
+Trinidad and Tobago,Bachelor's degree,1051,29530,0.208633601808676
+Trinidad and Tobago,Graduate or professional degree,888,21849,0.15436625688851208
+Turkey,Graduate or professional degree,1775,37387,0.3888888888888889
+Turkey,Less than bachelor's degree,1210,30178,0.3139029312030623
+Turkey,Bachelor's degree,1200,28573,0.2972081799080488
+"USSR, n.s.",Graduate or professional degree,930,18134,0.4477530864197531
+"USSR, n.s.",Bachelor's degree,586,13654,0.3371358024691358
+"USSR, n.s.",Less than bachelor's degree,352,8712,0.21511111111111111
+Uganda,Less than bachelor's degree,377,10187,0.4318172184307575
+Uganda,Bachelor's degree,273,8159,0.3458522317833072
+Uganda,Graduate or professional degree,231,5245,0.2223305497859353
+Ukraine,Less than bachelor's degree,4574,114332,0.44224052233985356
+Ukraine,Bachelor's degree,3132,73384,0.2838521016984555
+Ukraine,Graduate or professional degree,3310,70813,0.27390737596169096
+United Arab Emirates,Bachelor's degree,228,5644,0.37922461869246793
+United Arab Emirates,Graduate or professional degree,264,5501,0.36961634079150707
+United Arab Emirates,Less than bachelor's degree,176,3738,0.251159040516025
+United Kingdom,Less than bachelor's degree,7563,155330,0.39115303645355926
+United Kingdom,Bachelor's degree,6266,128025,0.3223934043131843
+United Kingdom,Graduate or professional degree,5825,113753,0.28645355923325644
+Uruguay,Less than bachelor's degree,936,26220,0.7335291649181703
+Uruguay,Bachelor's degree,219,5438,0.15213316547768918
+Uruguay,Graduate or professional degree,177,4087,0.11433766960414044
+Uzbekistan,Less than bachelor's degree,797,20981,0.45431120349919885
+Uzbekistan,Bachelor's degree,550,15286,0.33099475986315013
+Uzbekistan,Graduate or professional degree,424,9915,0.21469403663765102
+Venezuela,Less than bachelor's degree,7098,218387,0.49555022056020476
+Venezuela,Bachelor's degree,5064,144455,0.3277883166627335
+Venezuela,Graduate or professional degree,3040,77854,0.17666146277706174
+Vietnam,Less than bachelor's degree,25849,542303,0.6589151713680281
+Vietnam,Bachelor's degree,9594,189097,0.22975879196718443
+Vietnam,Graduate or professional degree,4597,91624,0.11132603666478742
+Yemen,Less than bachelor's degree,703,22446,0.787717143358484
+Yemen,Bachelor's degree,153,4233,0.14855237761010703
+Yemen,Graduate or professional degree,77,1816,0.06373047903140902
+Yugoslavia,Less than bachelor's degree,315,8823,0.5789749983594724
+Yugoslavia,Bachelor's degree,136,3479,0.2282958199356913
+Yugoslavia,Graduate or professional degree,137,2937,0.19272918170483627
+Zambia,Less than bachelor's degree,188,5281,0.4386576958219121
+Zambia,Bachelor's degree,117,3475,0.2886452363153086
+Zambia,Graduate or professional degree,132,3283,0.2726970678627793
+Zimbabwe,Less than bachelor's degree,278,8066,0.38645074741280183
+Zimbabwe,Graduate or professional degree,278,7424,0.3556918359524722
+Zimbabwe,Bachelor's degree,224,5382,0.25785741663472594

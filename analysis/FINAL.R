@@ -65,7 +65,18 @@ recode_visa_country = function(x) {
         x %in% c("No Nationality", "Other")                   ~ NA_character_,
         TRUE ~ x)}
 
-# check visa countries match ACS countries 
+# appendix table: every raw visa country/territory mapped to its matched ACS category
+country_crosswalk = iv_totals %>%
+    filter(country != "ALL COUNTRIES") %>%
+    distinct(country) %>%
+    mutate(acs_category = recode_visa_country(country),
+        acs_category = if_else(is.na(acs_category), "Not matched (excluded)", acs_category)) %>%
+    rename(visa_country = country) %>%
+    arrange(acs_category, visa_country)
+
+write_csv(country_crosswalk, "results/country_crosswalk.csv")
+
+# check visa countries match ACS countries
 acs_bpl = acs %>%
     filter(country != "United States") %>%
     distinct(country)
@@ -88,8 +99,9 @@ iv_totals = iv_totals %>%
 # monthly totals, all countries
 iv_monthly = iv_totals %>%
     filter(country == "ALL COUNTRIES") %>%
-    mutate(month_date = as.Date(paste0(date, "-01"))) %>%
-    select(month_date, year, month, issuances) %>%
+    mutate(month_date = as.Date(paste0(date, "-01")),
+        fy = if_else(month >= 10, year + 1L, year)) %>%   # Oct-Sep fiscal year
+    select(month_date, year, month, fy, issuances) %>%
     arrange(month_date)
 
 print(iv_monthly, n = Inf)
@@ -101,6 +113,7 @@ iv_country_monthly = iv_totals %>%
     filter(country != "ALL COUNTRIES") %>%
     group_by(country, date, year, month) %>%
     summarise(issuances = sum(issuances), .groups = "drop") %>%
+    mutate(fy = if_else(month >= 10, year + 1L, year)) %>%   # Oct-Sep fiscal year
     arrange(country, date)
 
 write_csv(iv_country_monthly, "results/iv_monthly_by_country.csv")
@@ -145,14 +158,14 @@ ggplot(iv_monthly, aes(month_date, issuances)) +
 
 ggsave("results/iv_monthly_totals.png", width = 15, height = 10)
 
-## 2026 visa projections based on 2024 
-# compare jan/feb 2026 month to the same month in 2024
+## 2026 visa projections based on fiscal year 2024
+# compare each actual month of fiscal year 2026 (oct 2025-feb 2026) to the same month in fy2024
 visas_2024_by_month = iv_monthly %>%
-    filter(year == 2024) %>%
+    filter(fy == 2024) %>%
     select(month, visas_2024 = issuances)
 
 iv_2026 = iv_monthly %>%
-    filter(year == 2026) %>%
+    filter(fy == 2026) %>%
     select(month, month_date, visas_2026 = issuances) %>%
     left_join(visas_2024_by_month, by = "month") %>%
     mutate(change = visas_2026 - visas_2024,
@@ -160,13 +173,13 @@ iv_2026 = iv_monthly %>%
 
 print(iv_2026)
 
-write_csv(iv_2026, "results/iv_decline_2026_vs_2024.csv")
+write_csv(iv_2026, "results/iv_decline_fy2026_vs_fy2024.csv")
 
-# march-september projection, based on february's change vs. 2024
+# march-september projection, based on february's change vs. fiscal year 2024
 feb_pct_change = iv_2026$pct_change[iv_2026$month == 2]
 
 iv_projection = iv_monthly %>%
-    filter(year == 2024, month >= 3, month <= 9) %>%
+    filter(fy == 2024, month >= 3, month <= 9) %>%
     transmute(month,
         visas_2024 = issuances,
         visas_2026_projected = round(issuances * (1 + feb_pct_change)),
@@ -188,7 +201,7 @@ projection_total = bind_rows(
 
 print(projection_total)
 
-write_csv(projection_total, "results/iv_projection_total_jan_sep_2026.csv")
+write_csv(projection_total, "results/iv_projection_total_fy2026.csv")
 
 # plot: actual visas with march-september 2026 projected (dotted) off 2024 levels
 plot_data = bind_rows(
@@ -207,7 +220,7 @@ ggplot(plot_data, aes(month_date, issuances, linetype = series)) +
     scale_y_continuous(labels = scales::comma, expand = c(0.02, 0), limits = c(0, NA)) +
     labs(
         title = "Immigrant Visas Issued per Month, 2021-2026",
-        subtitle = "Mar-Sep 2026 projected using February's change versus 2024",
+        subtitle = "Mar-Sep 2026 projected using February's change versus fiscal year 2024",
         x = NULL,
         y = NULL,
         linetype = NULL,
@@ -260,16 +273,17 @@ occ_group_fn = function(occ) {
         occ >= 9800 & occ <= 9830 ~ "Military",
         TRUE ~ NA_character_)}
 
-# country totals: immigrants and how many work
+# country totals: n, pop, n_workers, workers, pct_workers
 country_totals = acs %>%
     filter(country != "United States", citizen %in% c(2, 3)) %>%
+    mutate(employed = empstat == 1) %>%
     group_by(country) %>%
-    summarise(n = n(),
-        pop = sum(perwt),
-        n_workers = sum(empstat == 1),
-        workers = sum(perwt[empstat == 1]),
+    summarise(n           = n(),
+        pop         = sum(perwt),
+        n_workers   = sum(employed),
+        workers     = sum(perwt[employed]),
         .groups = "drop") %>%
-    mutate(workers_per_immig = workers / pop) %>%
+    mutate(pct_workers = workers / pop) %>%
     arrange(desc(pop))
 
 print(country_totals, n = Inf)
@@ -316,3 +330,115 @@ country_occ_detail = acs %>%
     relocate(occ_title, .after = occ)
 
 write_csv(country_occ_detail, "results/country_occ_detail.csv")
+
+# education groups by country (employed immigrants)
+# educ == 10: 4 years of college (bachelor's degree); educ == 11: 5+ years of college (graduate/professional)
+educ_group_fn = function(educ) {
+    case_when(
+        educ == 10 ~ "Bachelor's degree",
+        educ == 11 ~ "Graduate or professional degree",
+        TRUE       ~ "Less than bachelor's degree")}
+
+country_educ_group = acs %>%
+    filter(country != "United States", citizen %in% c(2, 3), empstat == 1) %>%
+    mutate(educ_group = educ_group_fn(as.integer(zap_labels(educ)))) %>%
+    group_by(country, educ_group) %>%
+    summarise(educ_n = n(),
+        educ_workers = sum(perwt),
+        .groups = "drop_last") %>%
+    mutate(educ_share = educ_workers / sum(educ_workers)) %>%
+    arrange(desc(educ_workers), .by_group = TRUE) %>%
+    ungroup()
+
+write_csv(country_educ_group, "results/country_educ_groups.csv")
+
+# wide: one row per country, one column per education group (shares)
+# apply to IV visa counts to estimate missing workers by education level
+country_educ_group_wide = country_educ_group %>%
+    select(country, educ_group, educ_share) %>%
+    pivot_wider(names_from = educ_group, values_from = educ_share, values_fill = 0) %>%
+    left_join(country_totals %>% select(country, n_workers, workers), by = "country") %>%
+    relocate(n_workers, workers, .after = country) %>%
+    arrange(desc(workers))
+
+write_csv(country_educ_group_wide, "results/country_educ_groups_wide.csv")
+
+## MISSING WORKERS: apply country occupation/education shares to the IV shortfall
+
+# missing visas by country: fy2026 actual (oct 2025-feb 2026) + mar-sep 2026 projected, vs. fy2024
+iv_country_2024 = iv_country_monthly %>%
+    filter(fy == 2024) %>%
+    select(country, month, visas_2024 = issuances)
+
+iv_country_2026 = iv_country_monthly %>%
+    filter(fy == 2026) %>%
+    select(country, month, visas_2026 = issuances) %>%
+    left_join(iv_country_2024, by = c("country", "month")) %>%
+    mutate(change = visas_2026 - visas_2024)
+
+# march-september projection by country, using each country's own feb2024 vs. feb2026
+country_pct_change = iv_country_2026 %>%
+    filter(month == 2) %>%
+    transmute(country, visas_2024, visas_2026,
+        pct_change = (visas_2026 - visas_2024) / visas_2024)
+
+iv_country_projection = iv_country_monthly %>%
+    filter(fy == 2024, month >= 3, month <= 9) %>%
+    select(country, month, visas_2024 = issuances) %>%
+    left_join(country_pct_change %>% select(country, pct_change), by = "country") %>%
+    mutate(visas_2026_projected = round(visas_2024 * (1 + pct_change)),
+        change = visas_2026_projected - visas_2024)
+
+write_csv(iv_country_projection, "results/iv_country_projection_mar_sep_2026.csv")
+
+# appendix table: by country, change in visas issued and estimated total missing workers
+missing_visas_by_country = bind_rows(
+        iv_country_2026 %>% select(country, month, visas_2024, visas_2026),
+        iv_country_projection %>% select(country, month, visas_2024, visas_2026 = visas_2026_projected)) %>%
+    group_by(country) %>%
+    summarise(visas_2024 = sum(visas_2024),
+        visas_2026 = sum(visas_2026),
+        .groups = "drop") %>%
+    mutate(change = visas_2026 - visas_2024,
+        pct_change = change / visas_2024) %>%
+    arrange(change)
+
+print(missing_visas_by_country, n = Inf)
+
+write_csv(missing_visas_by_country, "results/missing_visas_by_country.csv")
+
+feb_check = iv_country_monthly %>%
+    filter(month == 2, year %in% c(2024, 2026)) %>%
+    select(country, year, issuances) %>%
+    pivot_wider(names_from = year, values_from = issuances, names_prefix = "feb_") %>%
+    mutate(feb_pct_change = (feb_2026 - feb_2024) / feb_2024)
+
+missing_visas_by_country = missing_visas_by_country %>%
+    left_join(feb_check, by = "country")
+
+print(missing_visas_by_country, n = Inf, width = Inf)
+
+# 2026 projection, but using each individual state's february numbers
+missing_visas_by_country %>% summarise(total_fy2026 = sum(visas_2026, na.rm = TRUE))
+
+country_pct_change = country_totals %>%
+    distinct(country) %>%
+    left_join(
+        iv_country_2026 %>%
+            filter(month == 2) %>%
+            transmute(country, visas_2024, visas_2026,
+                pct_change = (visas_2026 - visas_2024) / visas_2024),
+        by = "country") %>%
+    mutate(pct_change = if_else(is.finite(pct_change), pct_change, -1))
+
+country_pct_change = country_totals %>%
+    distinct(country) %>%
+    left_join(
+        iv_country_2026 %>%
+            filter(month == 2) %>%
+            select(country, visas_2024, visas_2026),
+        by = "country") %>%
+    filter(!(is.na(visas_2024) & !is.na(visas_2026))) %>%   # drop countries that went from zero to >=1 in february
+    mutate(visas_2024 = coalesce(visas_2024, 0),
+        visas_2026 = coalesce(visas_2026, 0),
+        pct_change = if_else(visas_2024 == 0, -1, (visas_2026 - visas_2024) / visas_2024))
