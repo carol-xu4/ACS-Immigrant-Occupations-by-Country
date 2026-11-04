@@ -442,3 +442,4 @@ country_pct_change = country_totals %>%
     mutate(visas_2024 = coalesce(visas_2024, 0),
         visas_2026 = coalesce(visas_2026, 0),
         pct_change = if_else(visas_2024 == 0, -1, (visas_2026 - visas_2024) / visas_2024))
+

@@ -332,6 +332,156 @@ missing_visas_total_by_country = missing_visas_by_country %>%
 
 print(missing_visas_total_by_country)
 
+## 2026 visa projections based on february vs. fiscal year 2024 (by region) -------------------------
+
+# assign each country to a broad region for the regional trend plot
+country_region = function(x) {
+    case_when(
+        x %in% c("Canada", "Bermuda", "Cape Verde") ~ "North America",
+
+        x %in% c("Mexico", "Belize", "Costa Rica", "El Salvador", "Guatemala", "Honduras",
+            "Nicaragua", "Panama", "Cuba", "Dominican Republic", "Haiti", "Jamaica",
+            "Antigua and Barbuda", "Bahamas", "Barbados", "Dominica", "Grenada",
+            "St. Kitts and Nevis", "St. Lucia", "St. Vincent and the Grenadines",
+            "Trinidad and Tobago", "Other Caribbean", "Other Americas") ~ "Central America and Caribbean",
+
+        x %in% c("Argentina", "Bolivia", "Brazil", "Chile", "Colombia", "Ecuador", "Guyana",
+            "Paraguay", "Peru", "Uruguay", "Venezuela", "Other South America") ~ "South America",
+
+        x %in% c("Denmark", "Finland", "Iceland", "Norway", "Sweden", "United Kingdom", "Ireland",
+            "Belgium", "France", "Netherlands", "Switzerland", "Albania", "Greece",
+            "North Macedonia", "Italy", "Portugal", "Spain", "Austria", "Bulgaria",
+            "Czechoslovakia", "Slovakia", "Czech Republic", "Germany", "Hungary", "Poland",
+            "Romania", "Yugoslavia", "Croatia", "Montenegro", "Serbia", "Bosnia and Herzegovina",
+            "Kosovo", "Latvia", "Lithuania", "Russia", "Belarus", "Moldova", "Ukraine",
+            "Armenia", "Azerbaijan", "Georgia", "Kazakhstan", "Kyrgyzstan", "Uzbekistan",
+            "USSR, n.s.", "Other Europe") ~ "Europe",
+
+        x %in% c("China", "Hong Kong", "Mongolia", "Taiwan", "Japan", "Korea") ~ "East Asia",
+
+        x %in% c("Cambodia", "Indonesia", "Laos", "Malaysia", "Philippines", "Singapore",
+            "Thailand", "Vietnam") ~ "Southeast Asia",
+
+        x %in% c("Afghanistan", "India", "Bangladesh", "Bhutan", "Burma", "Pakistan",
+            "Sri Lanka", "Iran", "Nepal") ~ "India/Southwest Asia",
+
+        x %in% c("Iraq", "Israel/Palestine", "Jordan", "Kuwait", "Lebanon", "Saudi Arabia",
+            "Syria", "Turkey", "United Arab Emirates", "Yemen") ~ "Middle East",
+
+        x == "Other Asia" ~ "Other Asia",
+
+        x %in% c("Algeria", "Egypt", "Libya", "Morocco", "Sudan", "Other North Africa",
+            "Gambia", "Ghana", "Guinea", "Cote d'Ivoire", "Liberia", "Nigeria", "Senegal",
+            "Sierra Leone", "Togo", "Other West Africa", "Ethiopia", "Kenya", "Rwanda",
+            "Somalia", "Tanzania", "Uganda", "Zambia", "Zimbabwe", "Eritrea", "South Sudan",
+            "Other East Africa", "Cameroon", "Republic of the Congo", "DR Congo",
+            "South Africa", "Other Africa") ~ "Africa",
+
+        x %in% c("Australia", "New Zealand", "Fiji", "Tonga", "Marshall Islands",
+            "Micronesia", "Other, n.e.c.") ~ "Other",
+
+        TRUE ~ NA_character_)}
+
+region_order = c("North America", "Central America and Caribbean", "South America", "Europe",
+    "East Asia", "Southeast Asia", "India/Southwest Asia", "Middle East", "Other Asia",
+    "Africa", "Other")
+
+# check every country lands in a region
+iv_country_monthly %>%
+    distinct(country) %>%
+    mutate(region = country_region(country)) %>%
+    filter(is.na(region)) %>%
+    print(n = Inf)
+
+# monthly totals by region
+iv_region_monthly = iv_country_monthly %>%
+    mutate(region = country_region(country)) %>%
+    group_by(region, date, year, month, fy) %>%
+    summarise(issuances = sum(issuances), .groups = "drop") %>%
+    mutate(month_date = as.Date(paste0(date, "-01")))
+
+write_csv(iv_region_monthly, "results/iv_monthly_by_region.csv")
+
+# fy2026 actual (oct-feb) vs. fy2024, by region
+region_2024_by_month = iv_region_monthly %>%
+    filter(fy == 2024) %>%
+    select(region, month, visas_2024 = issuances)
+
+iv_region_2026 = iv_region_monthly %>%
+    filter(fy == 2026) %>%
+    select(region, month, visas_2026 = issuances) %>%
+    left_join(region_2024_by_month, by = c("region", "month")) %>%
+    mutate(change = visas_2026 - visas_2024,
+        pct_change = change / visas_2024)
+
+print(iv_region_2026, n = Inf)
+
+# march-september projection, based on each region's own february change vs. fiscal year 2024
+region_feb_pct_change = iv_region_2026 %>%
+    filter(month == 2) %>%
+    select(region, pct_change)
+
+iv_region_projection = iv_region_monthly %>%
+    filter(fy == 2024, month >= 3, month <= 9) %>%
+    select(region, month, visas_2024 = issuances) %>%
+    left_join(region_feb_pct_change, by = "region") %>%
+    mutate(visas_2026_projected = round(visas_2024 * (1 + pct_change)),
+        change = visas_2026_projected - visas_2024,
+        month_date = as.Date(paste0("2026-", sprintf("%02d", month), "-01")))
+
+print(iv_region_projection, n = Inf)
+
+write_csv(iv_region_projection, "results/iv_region_projection_mar_sep_2026.csv")
+
+# plot: actual visas by region, march-september 2026 projected (dotted) off fiscal year 2024 levels
+plot_data_region = bind_rows(
+    iv_region_monthly %>%
+        transmute(region, month_date, issuances, series = "Actual"),
+    iv_region_monthly %>%
+        filter(month_date == max(month_date)) %>%
+        transmute(region, month_date, issuances, series = "Projected"),   # connects the two lines
+    iv_region_projection %>%
+        transmute(region, month_date, issuances = visas_2026_projected, series = "Projected")) %>%
+    mutate(region = factor(region, levels = region_order))
+
+ggplot(plot_data_region, aes(month_date, issuances, linetype = series)) +
+    geom_line(color = "#3043B4", linewidth = 1.3) +
+    scale_linetype_manual(values = c("Actual" = "solid", "Projected" = "dotted")) +
+    scale_x_date(date_breaks = "2 years", date_labels = "%Y", expand = c(0.02, 0)) +
+    scale_y_continuous(labels = scales::comma, expand = c(0.02, 0), limits = c(0, NA)) +
+    facet_wrap(~region, scales = "free_y", ncol = 3) +
+    labs(
+        title = "Immigrant Visas Issued per Month, by Region",
+        subtitle = "Mar-Sep 2026 projected using each region's February change versus fiscal year 2024",
+        x = NULL,
+        y = NULL,
+        linetype = NULL,
+        caption = "Source: U.S. Department of State, Monthly Immigrant Visa Issuance Statistics, Feb 2021-Feb 2026.") +
+    theme_minimal() +
+    theme(
+        plot.title = element_text(size = 30, face = "bold", hjust = 0, color = "black"),
+        plot.subtitle = element_text(size = 16, color = "gray40", hjust = 0, margin = margin(b = 12)),
+        legend.position = "top",
+        legend.justification = "left",
+        legend.text = element_text(size = 18),
+        legend.key.width = unit(1.5, "cm"),
+        strip.text = element_text(size = 16, face = "bold", color = "black"),
+        panel.grid.major.x = element_blank(),
+        panel.grid.minor.x = element_blank(),
+        panel.grid.major.y = element_line(color = "gray90", linewidth = 0.5),
+        panel.grid.minor.y = element_blank(),
+        axis.line = element_blank(),
+        axis.ticks = element_blank(),
+        axis.text.x = element_text(size = 14, color = "gray40"),
+        axis.text.y = element_text(size = 14, color = "gray40"),
+        plot.caption = element_text(size = 12, color = "gray40", hjust = 0),
+        plot.caption.position = "plot",
+        plot.title.position = "plot",
+        plot.background = element_rect(fill = "white", color = NA),
+        panel.background = element_rect(fill = "white", color = NA))
+
+ggsave("results/iv_monthly_by_region.png", width = 15, height = 10)
+
 ## ACS: immigrants by country and their occupation shares ------------------------------------------
 
 # workers by country, all ages
