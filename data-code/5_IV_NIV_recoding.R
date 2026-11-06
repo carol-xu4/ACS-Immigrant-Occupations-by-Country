@@ -104,17 +104,14 @@ check_recode = function(totals, label) {
 check_recode(iv_totals, "IV")
 check_recode(niv_totals, "NIV")
 
-## apply recoding and write out 
+## apply recoding to national-level totals (kept separate — still used for the blanket/national
+## projection method, since "ALL COUNTRIES" isn't a meaningful concept once NIV is class-filtered)
 iv_totals = iv_totals %>%
     mutate(country = if_else(country == "ALL COUNTRIES", country, recode_visa_country(country)))
 
-niv_totals = niv_totals %>%
-    mutate(country = if_else(country == "ALL COUNTRIES", country, recode_visa_country(country)))
-
 write_csv(iv_totals, "data/output/iv_issuances_monthly_totals_recoded.csv")
-write_csv(niv_totals, "data/output/niv_issuances_monthly_totals_recoded.csv")
 
-# combine all IV and selected NIV (workers, students, exchange visitors who would appear in ACS as US residents)
+## combine all IV and selected NIV (workers, students, exchange visitors who would appear in ACS as US residents)
 niv_classes_included = c(
   # diplomats, int'l orgs, NATO, and their personal employees
   "A1", "A2", "A3",
@@ -142,12 +139,24 @@ niv_classes_included = c(
 
 niv_by_class = read_csv("data/output/niv_issuances_by_country_visa_class.csv")
 
-niv_country_monthly = niv_by_class %>%
-    filter(country != "ALL COUNTRIES", visa_class %in% niv_classes_included) %>%
-    mutate(country = recode_visa_country(country)) %>%   # from 0_recode_visa_countries.R
+# country-level, recoded, same shape for both IV and NIV, tagged by visa_type
+iv_country_monthly = iv_totals %>%
+    filter(country != "ALL COUNTRIES") %>%
     group_by(country, date, year, month) %>%
     summarise(issuances = sum(issuances), .groups = "drop") %>%
     mutate(fy = if_else(month >= 10, year + 1L, year)) %>%
     arrange(country, date)
 
-write_csv(niv_country_monthly, "data/output/niv_monthly_by_country.csv")
+niv_country_monthly = niv_by_class %>%
+    filter(country != "ALL COUNTRIES", visa_class %in% niv_classes_included) %>%
+    mutate(country = recode_visa_country(country)) %>%
+    group_by(country, date, year, month) %>%
+    summarise(issuances = sum(issuances), .groups = "drop") %>%
+    mutate(fy = if_else(month >= 10, year + 1L, year)) %>%
+    arrange(country, date)
+
+visa_country_monthly = bind_rows(
+    iv_country_monthly %>% mutate(visa_type = "IV"),
+    niv_country_monthly %>% mutate(visa_type = "NIV"))
+
+write_csv(visa_country_monthly, "data/output/visa_country_monthly.csv")
