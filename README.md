@@ -21,15 +21,24 @@
 - Population and occupation data: [IPUMS USA, American Community Survey (ACS) 5-year PUMS, 2020–2024](https://usa.ipums.org)
 
 ### Formulas
-**1. Projected FY2026 visa decline, by country (c):**
-- `r_c = (Feb_2026_c − Feb_2024_c) / Feb_2024_c`
-- `Projected Mar–Sep 2026_c = Mar–Sep 2024_c × (1 + r_c)`
-- `ΔV_c = (FY2026 actual + projected) − FY2024 actual` (Oct–Feb actual, Mar–Sep projected)
-- Same formula applied separately to IV and to the included NIV classes, then summed per country.
+**1. Projected FY2026 visa decline, by country $c$:**
 
-**2. Occupation share, by country and occupation (o):**
-- `s_{c,o}` = share of **all** immigrants (naturalized + noncitizen) born in country c who work in occupation o (ACS), using all immigrants — not just the employed — as the denominator, since visa data doesn't distinguish workers from family members.
+$$r_c = \frac{V_c^{\text{Feb2026}} - V_c^{\text{Feb2024}}}{V_c^{\text{Feb2024}}}$$
+
+$$V_c^{\text{Mar-Sep2026, projected}} = V_c^{\text{Mar-Sep2024}} \times (1 + r_c)$$
+
+$$\Delta V_c = \left(V_c^{\text{Oct-Feb2026, actual}} + V_c^{\text{Mar-Sep2026, projected}}\right) - V_c^{\text{FY2024, actual}}$$
+
+Applied separately to IV and to the included NIV classes, then summed per country.
+
+**2. Occupation share, by country $c$ and occupation $o$:**
+
+$$s_{c,o} = \frac{\text{immigrants from country } c \text{ working in occupation } o}{\text{all immigrants from country } c}$$
+
+using all immigrants — not just the employed — as the denominator, since visa data doesn't distinguish workers from family members.
 
 **3. Missing workers:**
-- `Missing_o = Σ_c ΔV_c × s_{c,o}`
-- `Total missing workers = Σ_o Missing_o`
+
+$$\text{Missing}_o = \sum_c \Delta V_c \times s_{c,o}$$
+
+$$\text{Total missing workers} = \sum_o \text{Missing}_o$$
