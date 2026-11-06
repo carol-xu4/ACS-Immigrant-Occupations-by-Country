@@ -4,17 +4,26 @@
 
 ### Visa types included
 - **Immigrant visas (IV):** all countries/classes, State Department Monthly IV Issuance Statistics by Foreign State of Chargeability.
-- **Nonimmigrant visas (NIV):** restricted to classes representing workers, students, and exchange visitors likely to appear in ACS as US residents:
+- **Nonimmigrant visas (NIV):** all classes whose holders would likely appear in the ACS as US residents (staying 2+ months at a US address within ACS geography). This excludes only visitors, transit/crew, CNMI-only classes, and defunct classes.
   - Students: `F1`, `F2`, `M1`, `M2`
-  - Temp/specialty workers: `H1B`, `H1B1`, `H1C`, `H2A`, `H2B`, `H3`, `H4`
+  - Exchange visitors: `J1`, `J2`
+  - Temp/specialty workers: `H1B`, `H1B1`, `H2A`, `H2B`, `H3`, `H4`
   - Intracompany transferees: `L1`, `L2`
   - Extraordinary ability / athletes / entertainers: `O1`, `O2`, `O3`, `P1`–`P4`
-  - Treaty traders/investors: `E1`, `E2`, `E2C`, `E3`, `E3D`, `E3R`
+  - Treaty traders/investors and Australian specialty workers: `E1`, `E2`, `E3`, `E3D`, `E3R`
   - NAFTA/USMCA professionals: `TN`, `TD`
   - Religious workers: `R1`, `R2`
-  - CNMI transitional workers: `CW1`, `CW2`
-  - Exchange visitors: `J1`, `J2`
-- **Excluded NIV classes:** tourism/business (`B1`, `B2`, `B1/B2`), transit/crew (`C`/`D` series), diplomatic/international org/NATO staff (`A`, `G`, `NATO` series), victim-protection visas (`T`, `U`, `N8`/`N9`), media (`I`), and fiancé(e)/spouse visas (`K1`–`K4` — immigrant-track, excluded here to avoid double-counting against IV).
+  - International cultural exchange: `Q1`
+  - Foreign media: `I`
+  - Diplomats, international organization staff, NATO, and their personal employees: `A1`–`A3`, `G1`–`G5`, `NATO1`–`NATO7`
+  - Fiancé(e)s and spouses of US citizens and their children: `K1`–`K4` (K holders adjust status inside the US, so they do not also receive an IV and are not double-counted)
+  - Derivatives of crime and trafficking victims: `U1`–`U5`, `T2`–`T6`
+  - Parents/children of G-4 special immigrants: `N8`, `N9`
+- **Excluded NIV classes:**
+  - Visitors (tourism/business) and border crossing cards: `B1`, `B2`, `B1/B2`, `BBBCC`, `BBBCV`
+  - Transit and crew: `C1`, `C1/D`, `C2`, `C3`, `C4`, `C4/D3`, `D`, `D3`
+  - CNMI-only classes (CNMI is outside ACS geography): `CW1`, `CW2`, `E2C`
+  - Defunct: `H1C` (program expired 2009)
 
 ### Data sources
 - Immigrant Visa issuances: [U.S. Department of State, Monthly Immigrant Visa Issuance Statistics](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/immigrant-visa-statistics/monthly-immigrant-visa-issuances.html)
