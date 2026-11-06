@@ -141,7 +141,7 @@ niv_by_class = read_csv("data/output/niv_issuances_by_country_visa_class.csv")
 
 # country-level, recoded, same shape for both IV and NIV, tagged by visa_type
 iv_country_monthly = iv_totals %>%
-    filter(country != "ALL COUNTRIES") %>%
+    filter(is.na(country) | country != "ALL COUNTRIES") %>%
     group_by(country, date, year, month) %>%
     summarise(issuances = sum(issuances), .groups = "drop") %>%
     mutate(fy = if_else(month >= 10, year + 1L, year)) %>%
