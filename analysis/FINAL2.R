@@ -332,7 +332,10 @@ missing_visas_total_by_country = missing_visas_by_country %>%
 
 print(missing_visas_total_by_country)
 
+
+
 ## 2026 visa projections based on february vs. fiscal year 2024 (by region) -------------------------
+
 
 # assign each country to a broad region for the regional trend plot
 country_region = function(x) {
@@ -556,6 +559,64 @@ write_csv(bpl_jobs, "results/bpl_jobs_occ_shares.csv")
 
 write_csv(missing_visas_by_country, "results/missing_visas_by_country.csv")
 
+## TOTAL MISSING WORKERS
+missing_workers_total = missing_visas_by_country %>%
+    select(country, change) %>%
+    left_join(bpl_table_workers %>% select(country, pct_workers), by = "country") %>%
+    mutate(missing_workers = change * pct_workers)
+
+print(missing_workers_total, n = Inf)
+
+missing_workers_total %>%
+    summarise(total_missing = sum(missing_workers, na.rm = TRUE))
+
+# region-level immigrant worker share (ACS side)
+bpl_region_workers = acs %>%
+    filter(country != "United States", citizen %in% c(2, 3)) %>%
+    mutate(region = country_region(country),
+        employed = empstat == 1) %>%
+    group_by(region) %>%
+    summarise(pop = sum(perwt),
+        workers = sum(perwt[employed]),
+        .groups = "drop") %>%
+    mutate(pct_workers = workers / pop)
+
+# region-level visa totals 
+region_marsep_total = iv_region_projection %>%
+    group_by(region) %>%
+    summarise(visas_2024 = sum(visas_2024),
+        visas_2026 = sum(visas_2026_projected),
+        .groups = "drop")
+
+region_octfeb_actual = iv_region_monthly %>%
+    filter(fy %in% c(2024, 2026), month %in% c(10, 11, 12, 1, 2)) %>%
+    group_by(region, fy) %>%
+    summarise(issuances = sum(issuances), .groups = "drop") %>%
+    pivot_wider(names_from = fy, values_from = issuances, values_fill = 0, names_prefix = "visas_")
+
+missing_workers_by_region = bind_rows(region_octfeb_actual, region_marsep_total) %>%
+    group_by(region) %>%
+    summarise(visas_2024 = sum(visas_2024),
+        visas_2026 = sum(visas_2026),
+        .groups = "drop") %>%
+    mutate(change = visas_2026 - visas_2024,
+        pct_change = change / visas_2024) %>%
+    left_join(bpl_region_workers %>% select(region, pct_workers), by = "region") %>%
+    mutate(missing_workers = change * pct_workers) %>%
+    arrange(missing_workers)
+
+print(missing_workers_by_region, n = Inf)
+
+missing_workers_by_region %>%
+    summarise(total_missing = sum(missing_workers, na.rm = TRUE))
+
+missing_workers_by_region %>%
+    select(region, visas_2024, visas_2026, change, pct_change, missing_workers) %>%
+    arrange(missing_workers) %>%
+    print(n = Inf)
+
+write_csv(missing_workers_by_region, "results/missing_workers_by_region.csv")
+
 # total missing healthcare workers
 missing_healthcare_workers = missing_visas_by_country %>%
     select(country, change) %>%
@@ -580,3 +641,387 @@ missing_healthcare_workers %>%
     summarise(missing_workers = sum(missing_workers, na.rm = TRUE), .groups = "drop") %>%
     arrange(missing_workers) %>%
     print(n = Inf)
+
+# total healthcare workforce and % immigrants
+healthcare_workforce = acs %>%
+    filter(empstat == 1) %>%
+    mutate(occ_group = occ_group_fn(as.integer(zap_labels(occ))),
+        immigrant = citizen %in% c(2, 3)) %>%
+    filter(occ_group %in% c("Healthcare practitioners & technical", "Healthcare support")) %>%
+    group_by(occ_group) %>%
+    summarise(total_workers = sum(perwt),
+        immigrant_workers = sum(perwt[immigrant]),
+        .groups = "drop") %>%
+    mutate(pct_immigrant = immigrant_workers / total_workers)
+
+healthcare_workforce_total = healthcare_workforce %>%
+    summarise(occ_group = "All healthcare",
+        total_workers = sum(total_workers),
+        immigrant_workers = sum(immigrant_workers)) %>%
+    mutate(pct_immigrant = immigrant_workers / total_workers)
+
+bind_rows(healthcare_workforce, healthcare_workforce_total) %>%
+    print(n = Inf)
+
+# nurses only 
+occ_labels = read_csv("data/output/occ2018_labels.csv")
+
+nurse_codes = c("3255", "3256", "3258", "3500", "3603")
+
+nurses = acs %>%
+    filter(empstat == 1) %>%
+    mutate(occ = sprintf("%04d", as.integer(zap_labels(occ))),
+        immigrant = citizen %in% c(2, 3)) %>%
+    filter(occ %in% nurse_codes) %>%
+    left_join(occ_labels, by = "occ") %>%
+    group_by(occ, occ_title) %>%
+    summarise(total_workers = sum(perwt),
+        immigrant_workers = sum(perwt[immigrant]),
+        .groups = "drop") %>%
+    mutate(pct_immigrant = immigrant_workers / total_workers) %>%
+    arrange(occ)
+
+nurses_total = nurses %>%
+    summarise(occ = NA_character_,
+        occ_title = "Total nurse occupations",
+        total_workers = sum(total_workers),
+        immigrant_workers = sum(immigrant_workers)) %>%
+    mutate(pct_immigrant = immigrant_workers / total_workers)
+
+nurses = bind_rows(nurses, nurses_total) %>%
+    print(n = Inf)
+
+write_csv(nurses, "results/nurses_immigrant_shares.csv")
+
+# missing nurses
+bpl_nurse_share = acs %>%
+    filter(country != "United States", citizen %in% c(2, 3)) %>%
+    group_by(country) %>%
+    mutate(pop = sum(perwt)) %>%
+    filter(empstat == 1) %>%
+    mutate(occ = sprintf("%04d", as.integer(zap_labels(occ))),
+        is_nurse = occ %in% nurse_codes) %>%
+    group_by(country, pop) %>%
+    summarise(nurse_workers = sum(perwt[is_nurse]), .groups = "drop") %>%
+    mutate(nurse_share = nurse_workers / pop)
+
+missing_nurses = missing_visas_by_country %>%
+    select(country, change) %>%
+    left_join(bpl_nurse_share %>% select(country, nurse_share), by = "country") %>%
+    mutate(missing_workers = change * nurse_share)
+
+print(missing_nurses, n = Inf)
+
+missing_nurses %>%
+    summarise(total_missing = sum(missing_workers, na.rm = TRUE))
+
+# only losses, exclude countries that saw an increase
+missing_nurses %>%
+    filter(change < 0) %>%
+    summarise(total_missing = sum(missing_workers, na.rm = TRUE))
+
+missing_nurses %>%
+    arrange(missing_workers) %>%
+    print(n = Inf)
+
+# missing nurses by occ code
+bpl_nurse_occ_share = acs %>%
+    filter(country != "United States", citizen %in% c(2, 3)) %>%
+    group_by(country) %>%
+    mutate(pop = sum(perwt)) %>%
+    filter(empstat == 1) %>%
+    mutate(occ = sprintf("%04d", as.integer(zap_labels(occ)))) %>%
+    filter(occ %in% nurse_codes) %>%
+    group_by(country, pop, occ) %>%
+    summarise(nurse_workers = sum(perwt), .groups = "drop") %>%
+    mutate(nurse_share = nurse_workers / pop) %>%
+    left_join(occ_labels, by = "occ")
+
+missing_nurses_by_occ = missing_visas_by_country %>%
+    select(country, change) %>%
+    left_join(bpl_nurse_occ_share %>% select(country, occ, occ_title, nurse_share), by = "country") %>%
+    mutate(missing_workers = change * nurse_share)
+
+print(missing_nurses_by_occ, n = Inf)
+
+missing_nurses_by_occ %>%
+    group_by(occ, occ_title) %>%
+    summarise(total_missing = sum(missing_workers, na.rm = TRUE), .groups = "drop") %>%
+    arrange(total_missing)
+
+missing_nurses_by_occ %>%
+    mutate(occ_category = if_else(occ == "3255", "Registered nurses", "Other nursing occupations")) %>%
+    group_by(occ_category) %>%
+    summarise(total_missing = sum(missing_workers, na.rm = TRUE), .groups = "drop")
+
+# total workers by occupation groups
+occ_group_totals = acs %>%
+    filter(empstat == 1) %>%
+    mutate(occ_group = occ_group_fn(as.integer(zap_labels(occ))),
+        immigrant = citizen %in% c(2, 3)) %>%
+    group_by(occ_group) %>%
+    summarise(total_workers = sum(perwt),
+        immigrant_workers = sum(perwt[immigrant]),
+        .groups = "drop") %>%
+    mutate(pct_immigrant = (immigrant_workers / total_workers)*100) %>%
+    arrange(desc(pct_immigrant))
+
+print(occ_group_totals, n = Inf)
+
+write_csv(occ_group_totals, "results/occ_group_totals.csv")
+
+occ_group_stacked = occ_group_totals %>%
+    mutate(native_workers = total_workers - immigrant_workers) %>%
+    select(occ_group, pct_immigrant, Native = native_workers, Immigrant = immigrant_workers) %>%
+    pivot_longer(c(Native, Immigrant), names_to = "status", values_to = "workers") %>%
+    mutate(status = factor(status, levels = c("Native", "Immigrant")),
+        occ_group = factor(occ_group, levels = occ_group_totals$occ_group[order(occ_group_totals$pct_immigrant)]))
+
+ggplot(occ_group_stacked, aes(workers, occ_group, fill = status)) +
+    geom_col(width = 0.7) +
+    geom_text(data = occ_group_stacked %>% filter(status == "Immigrant"),
+        aes(label = paste0(round(pct_immigrant, 1), "%")), position = position_stack(vjust = 0.5),
+        size = 5, color = "white", fontface = "bold") +
+    scale_fill_manual(values = c("Native" = "#3043B4", "Immigrant" = "#C97703")) +
+    scale_x_continuous(labels = scales::comma, expand = c(0, 0)) +
+    labs(
+        title = "Immigrant Share of the U.S. Workforce, by Occupation",
+        subtitle = "Number of employed immigrants (naturalized + noncitizen) vs. native-born in each occupation group",
+        x = NULL,
+        y = NULL,
+        fill = NULL,
+        caption = "Source: American Community Survey, 2020-2024 5-year estimates.") +
+    theme_minimal() +
+    theme(
+        plot.title = element_text(size = 28, face = "bold", hjust = 0, color = "black"),
+        plot.subtitle = element_text(size = 18, color = "gray40", hjust = 0, margin = margin(b = 12)),
+        legend.position = "top",
+        legend.justification = "left",
+        legend.text = element_text(size = 18),
+        legend.key.width = unit(1.5, "cm"),
+        panel.grid.major.y = element_blank(),
+        panel.grid.minor.y = element_blank(),
+        panel.grid.major.x = element_line(color = "gray90", linewidth = 0.5),
+        panel.grid.minor.x = element_blank(),
+        axis.line = element_blank(),
+        axis.ticks = element_blank(),
+        axis.text.x = element_text(size = 16, color = "gray40"),
+        axis.text.y = element_text(size = 17, color = "black"),
+        plot.caption = element_text(size = 12, color = "gray40", hjust = 0),
+        plot.caption.position = "plot",
+        plot.title.position = "plot",
+        plot.background = element_rect(fill = "white", color = NA),
+        panel.background = element_rect(fill = "white", color = NA))
+
+ggsave("results/occ_group_pct_immigrant.png", width = 15, height = 12)
+
+# healthcare workers by region
+bpl_region_fn = function(x) if_else(x == "United States", "United States", country_region(x))
+
+region_order_all = c("United States", "North America", "Central America and Caribbean", "South America",
+    "Europe", "East Asia", "Southeast Asia", "India/Southwest Asia", "Middle East", "Other Asia",
+    "Africa", "Other")
+
+region_colors = c(
+    "United States"                   = "#7C756D",
+    "North America"                   = "#3043B4",
+    "Central America and Caribbean"   = "#5C6AC4",
+    "South America"                   = "#8793D4",
+    "Europe"                          = "#B3342C",
+    "East Asia"                       = "#C97703",
+    "Southeast Asia"                  = "#D28A25",
+    "India/Southwest Asia"            = "#DB9D47",
+    "Other Asia"                      = "#E4B069",
+    "Middle East"                     = "#3D7A4C",
+    "Africa"                          = "#7FA86B",
+    "Other"                           = "#BAB6B1")
+
+healthcare_by_region = acs %>%
+    filter(empstat == 1) %>%
+    mutate(occ_int = as.integer(zap_labels(occ)),
+        occ = sprintf("%04d", occ_int),
+        occ_group = occ_group_fn(occ_int),
+        region = bpl_region_fn(country),
+        area = case_when(
+            occ %in% nurse_codes                              ~ "Nursing",
+            occ_group == "Healthcare practitioners & technical" ~ "Physicians & other practitioners",
+            occ_group == "Healthcare support"                 ~ "Healthcare support",
+            TRUE ~ NA_character_)) %>%
+    filter(!is.na(area)) %>%
+    group_by(area, region) %>%
+    summarise(workers = sum(perwt), .groups = "drop") %>%
+    mutate(region = factor(region, levels = rev(region_order_all)),
+        area = factor(area, levels = c("Physicians & other practitioners", "Healthcare support", "Nursing")))
+
+ggplot(healthcare_by_region, aes(area, workers, fill = region)) +
+    geom_col(width = 0.6) +
+    scale_fill_manual(values = region_colors, breaks = region_order_all) +
+    scale_y_continuous(labels = scales::comma, expand = c(0.02, 0)) +
+    guides(fill = guide_legend(nrow = 3, byrow = TRUE)) +
+    labs(
+        title = "U.S. Healthcare Workers by Birthplace Region",
+        subtitle = "Employed workers by occupation area, 2020-2024",
+        x = NULL,
+        y = NULL,
+        fill = NULL,
+        caption = "Source: American Community Survey, 2020-2024 5-year estimates.") +
+    theme_minimal() +
+    theme(
+        plot.title = element_text(size = 28, face = "bold", hjust = 0, color = "black"),
+        plot.subtitle = element_text(size = 18, color = "gray40", hjust = 0, margin = margin(b = 12)),
+        legend.position = "top",
+        legend.justification = "left",
+        legend.text = element_text(size = 14),
+        legend.key.width = unit(1, "cm"),
+        panel.grid.major.x = element_blank(),
+        panel.grid.minor.x = element_blank(),
+        panel.grid.major.y = element_line(color = "gray90", linewidth = 0.5),
+        panel.grid.minor.y = element_blank(),
+        axis.line = element_blank(),
+        axis.ticks = element_blank(),
+        axis.text.x = element_text(size = 18, color = "black"),
+        axis.text.y = element_text(size = 16, color = "gray40"),
+        plot.caption = element_text(size = 12, color = "gray40", hjust = 0),
+        plot.caption.position = "plot",
+        plot.title.position = "plot",
+        plot.background = element_rect(fill = "white", color = NA),
+        panel.background = element_rect(fill = "white", color = NA))
+
+ggsave("results/healthcare_workers_by_region.png", width = 15, height = 10)
+
+# immigrants are % of the population
+acs %>%
+    summarise(pop = sum(perwt),
+        immigrants = sum(perwt[citizen %in% c(2, 3)])) %>%
+    mutate(pct_immigrant = 100 * immigrants / pop)
+
+# immigrants are % of the labor force (employed + unemployed but seeking work), matches [LABFORCE] variable exactly
+acs %>%
+    filter(empstat %in% c(1, 2)) %>%
+    summarise(labor_force = sum(perwt),
+        immigrants = sum(perwt[citizen %in% c(2, 3)])) %>%
+    mutate(pct_immigrant = 100 * immigrants / labor_force)
+
+# bottom-up fy2026 mar-sep projection: sum each country's own feb-based projection, rather than one national rate
+bottom_up_marsep = iv_country_projection %>%
+    group_by(month) %>%
+    summarise(issuances = sum(visas_2026_projected), .groups = "drop") %>%
+    mutate(month_date = as.Date(paste0("2026-", sprintf("%02d", month), "-01")))
+
+plot_data_bottomup = bind_rows(
+    iv_monthly %>%
+        filter(fy %in% c(2024, 2025, 2026)) %>%
+        transmute(month_date, issuances, series = "Actual"),
+    iv_monthly %>%
+        filter(month_date == max(month_date)) %>%
+        transmute(month_date, issuances, series = "Projected"),   # connects the two lines
+    bottom_up_marsep %>%
+        transmute(month_date, issuances, series = "Projected"))
+
+ggplot(plot_data_bottomup, aes(month_date, issuances, linetype = series)) +
+    geom_line(color = "#3043B4", linewidth = 1.8) +
+    scale_linetype_manual(values = c("Actual" = "solid", "Projected" = "dotted")) +
+    scale_x_date(date_breaks = "6 months", date_labels = "%b %Y", expand = c(0.02, 0)) +
+    scale_y_continuous(labels = scales::comma, expand = c(0.02, 0), limits = c(0, NA)) +
+    labs(
+        title = "Immigrant Visas Issued per Month, FY2024-FY2026",
+        subtitle = "Mar-Sep 2026 projected using each country's own February change versus fiscal year 2024, summed",
+        x = NULL,
+        y = NULL,
+        linetype = NULL,
+        caption = "Source: U.S. Department of State, Monthly Immigrant Visa Issuance Statistics, Oct 2023-Feb 2026.") +
+    theme_minimal() +
+    theme(
+        plot.title = element_text(size = 30, face = "bold", hjust = 0, color = "black"),
+        plot.subtitle = element_text(size = 18, color = "gray40", hjust = 0, margin = margin(b = 12)),
+        legend.position = "top",
+        legend.justification = "left",
+        legend.text = element_text(size = 20),
+        legend.key.width = unit(1.5, "cm"),
+        panel.grid.major.x = element_blank(),
+        panel.grid.minor.x = element_blank(),
+        panel.grid.major.y = element_line(color = "gray90", linewidth = 0.5),
+        panel.grid.minor.y = element_blank(),
+        axis.line = element_blank(),
+        axis.ticks = element_blank(),
+        axis.text.x = element_text(size = 18, color = "gray40", angle = 45, hjust = 1),
+        axis.text.y = element_text(size = 25, color = "gray40"),
+        plot.caption = element_text(size = 12, color = "gray40", hjust = 0),
+        plot.caption.position = "plot",
+        plot.title.position = "plot",
+        plot.background = element_rect(fill = "white", color = NA),
+        panel.background = element_rect(fill = "white", color = NA))
+
+ggsave("results/iv_monthly_projection_bottomup.png", width = 15, height = 10)
+
+# ALL missing jobs by occ group
+bpl_occ_share = acs %>%
+  filter(citizen %in% c(2, 3)) %>%
+  group_by(country) %>%
+  mutate(total_immigrants = sum(perwt)) %>%
+  filter(empstat == 1) %>%
+  mutate(occ_group = occ_group_fn(occ)) %>%
+  group_by(country, occ_group) %>%
+  summarise(share = sum(perwt) / first(total_immigrants), .groups = "drop")
+
+missing_workers_by_occ = missing_visas_by_country %>%
+  select(country, change) %>%
+  inner_join(bpl_occ_share, by = "country") %>%
+  mutate(missing = change * share) %>%
+  group_by(occ_group) %>%
+  summarise(missing_workers = sum(missing, na.rm = TRUE), .groups = "drop") %>%
+  arrange(missing_workers)
+
+print(missing_workers_by_occ, n = Inf)
+
+sum(missing_workers_by_occ$missing_workers)
+
+missing_workers_by_occ_table = missing_workers_by_occ %>%
+  filter(!is.na(occ_group)) %>%
+  left_join(occ_group_totals %>% select(occ_group, pct_immigrant), by = "occ_group") %>%
+  select(occ_group, pct_immigrant, missing_workers) %>%
+  arrange(missing_workers)
+
+print(missing_workers_by_occ_table, n = Inf)
+
+write_csv(missing_workers_by_occ_table, "results/missing_workers_by_occ_group.csv")
+
+sum(missing_workers_by_occ_table$missing_workers)
+
+# FY2025 total iv visas
+iv_fy_totals = iv_monthly %>%
+  filter(fy != 2026) %>%
+  group_by(fy) %>%
+  summarise(total_issuances = sum(issuances)) %>%
+  bind_rows(tibble(fy = 2026, total_issuances = sum(missing_visas_by_country$visas_2026)))
+
+ggplot(iv_fy_totals, aes(x = fy, y = total_issuances, group = 1)) +
+  geom_line(linewidth = 1.8, color = "#3043B4") +
+  geom_point(size = 3, color = "#3043B4") +
+  scale_y_continuous(expand = c(0.02, 0), limits = c(0, NA), labels = scales::comma) +
+  labs(
+    title = "Immigrant Visas Issued by Fiscal Year",
+    subtitle = "FY2026 projected by summing each country's own Mar-Sep change versus fiscal year 2024",
+    x = NULL,
+    y = NULL,
+    caption = "Source: U.S. Department of State, Monthly Immigrant Visa Issuance Statistics.") +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(size = 30, face = "bold", hjust = 0, color = "black"),
+    plot.subtitle = element_text(size = 20, color = "gray40", hjust = 0, margin = margin(b = 12)),
+    legend.position = "none",
+    panel.grid.major.x = element_blank(),
+    panel.grid.minor.x = element_blank(),
+    panel.grid.major.y = element_line(color = "gray90", linewidth = 0.5),
+    panel.grid.minor.y = element_blank(),
+    axis.line = element_blank(),
+    axis.ticks = element_blank(),
+    axis.text.x = element_text(size = 25, color = "gray40"),
+    axis.text.y = element_text(size = 25, color = "gray40"),
+    plot.caption = element_text(size = 12, color = "gray40", hjust = 0),
+    plot.caption.position = "plot",
+    plot.title.position = "plot",
+    plot.background = element_rect(fill = "white", color = NA),
+    panel.background = element_rect(fill = "white", color = NA))
+
+ggsave("results/iv_fy_totals.png", width = 15, height = 10)
