@@ -17,27 +17,32 @@
 - **Excluded NIV classes:** tourism/business (`B1`, `B2`, `B1/B2`), transit/crew (`C`/`D` series), diplomatic/international org/NATO staff (`A`, `G`, `NATO` series), victim-protection visas (`T`, `U`, `N8`/`N9`), media (`I`), and fiancé(e)/spouse visas (`K1`–`K4` — immigrant-track, excluded here to avoid double-counting against IV).
 
 ### Data sources
-- Visa issuances: [U.S. Department of State, Monthly Immigrant and Nonimmigrant Visa Issuance Statistics](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics.html)
+- Immigrant Visa issuances: [U.S. Department of State, Monthly Immigrant Visa Issuance Statistics](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/immigrant-visa-statistics/monthly-immigrant-visa-issuances.html)
+- Nonimmigrant Visa issuances: [U.S. Department of State, Monthly Nonimmigrant Visa Issuance Statistics](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/nonimmigrant-visa-statistics/monthly-nonimmigrant-visa-issuances.html)
 - Population and occupation data: [IPUMS USA, American Community Survey (ACS) 5-year PUMS, 2020–2024](https://usa.ipums.org)
 
 ### Formulas
-**1. Projected FY2026 visa decline, by country $c$:**
+**1. Projected FY2026 decline, by country $c$ and visa channel $k \in \{IV, NIV\}$:**
 
-$$r_c = \frac{V_c^{\text{Feb2026}} - V_c^{\text{Feb2024}}}{V_c^{\text{Feb2024}}}$$
+$$r_c^{k} = \frac{V_c^{k,\text{Feb2026}} - V_c^{k,\text{Feb2024}}}{V_c^{k,\text{Feb2024}}}$$
 
-$$V_c^{\text{Mar-Sep2026, projected}} = V_c^{\text{Mar-Sep2024}} \times (1 + r_c)$$
+$$V_c^{k,\text{Mar-Sep2026, projected}} = V_c^{k,\text{Mar-Sep2024}} \times (1 + r_c^{k})$$
 
-$$\Delta V_c = \left(V_c^{\text{Oct-Feb2026, actual}} + V_c^{\text{Mar-Sep2026, projected}}\right) - V_c^{\text{FY2024, actual}}$$
+$$\Delta V_c^{k} = \left(V_c^{k,\text{Oct-Feb2026, actual}} + V_c^{k,\text{Mar-Sep2026, projected}}\right) - V_c^{k,\text{FY2024, actual}}$$
 
-Applied separately to IV and to the included NIV classes, then summed per country.
+IV and NIV are projected separately, each using its own Feb-based rate, because NIV volume is far larger than IV — pooling the two series before computing a rate would let NIV's trend dominate and misstate IV's decline (and vice versa).
 
-**2. Occupation share, by country $c$ and occupation $o$:**
+**2. Combined decline, by country:**
+
+$$\Delta V_c = \Delta V_c^{IV} + \Delta V_c^{NIV}$$
+
+**3. Occupation share, by country $c$ and occupation $o$:**
 
 $$s_{c,o} = \frac{\text{immigrants from country } c \text{ working in occupation } o}{\text{all immigrants from country } c}$$
 
 using all immigrants — not just the employed — as the denominator, since visa data doesn't distinguish workers from family members.
 
-**3. Missing workers:**
+**4. Missing workers:**
 
 $$\text{Missing}_o = \sum_c \Delta V_c \times s_{c,o}$$
 
