@@ -216,6 +216,7 @@ acs = acs %>%
       bpld == 71042 ~ "Micronesia",
 
       # Other
+      bpld == 10010 ~ "Other, n.e.c.",                  # Samoa (independent) -- not American Samoa (10000)
       bpld == 95000 ~ "Other, n.e.c.",
       TRUE ~ NA_character_))
 
