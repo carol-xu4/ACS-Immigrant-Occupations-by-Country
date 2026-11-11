@@ -1,0 +1,338 @@
+fy,nationality,arrivals
+2021,Democratic Republic of the Congo,4891.0
+2021,Syria,1246.0
+2021,Afghanistan,872.0
+2021,Ukraine,803.0
+2021,Burma,772.0
+2021,Sudan,513.0
+2021,Iraq,497.0
+2021,El Salvador,200.0
+2021,Eritrea,184.0
+2021,Iran,184.0
+2021,Somalia,174.0
+2021,Pakistan,131.0
+2021,Burundi,124.0
+2021,South Sudan,93.0
+2021,Honduras,83.0
+2021,Moldova,78.0
+2021,Ethiopia,72.0
+2021,Guatemala,64.0
+2021,Colombia,48.0
+2021,Rwanda,44.0
+2021,Russia,40.0
+2021,Palestine,35.0
+2021,Armenia,34.0
+2021,Ivory Coast,30.0
+2021,Uganda,29.0
+2021,Liberia,25.0
+2021,Kazakhstan,23.0
+2021,Nepal,23.0
+2021,Central African Republic,22.0
+2021,Sri Lanka (Ceylon),20.0
+2021,Morocco,9.0
+2021,Yemen,7.0
+2021,Bangladesh,5.0
+2021,Kenya,4.0
+2021,Belarus,3.0
+2021,Congo,3.0
+2021,Djibouti,3.0
+2021,Gambia,3.0
+2021,Venezuela,3.0
+2021,Cambodia,2.0
+2021,Cuba,2.0
+2021,India,2.0
+2021,Sierra Leone,2.0
+2021,Uzbekistan,2.0
+2021,Vietnam,2.0
+2021,Bahrain,1.0
+2021,Bhutan,1.0
+2021,Guinea,1.0
+2021,Mali,1.0
+2021,Namibia,1.0
+2022,Democratic Republic of the Congo,7810.0
+2022,Syria,4556.0
+2022,Burma,2156.0
+2022,Sudan,1669.0
+2022,Afghanistan,1618.0
+2022,Ukraine,1610.0
+2022,Guatemala,1085.0
+2022,El Salvador,519.0
+2022,Moldova,507.0
+2022,Iraq,498.0
+2022,Somalia,456.0
+2022,Honduras,450.0
+2022,Eritrea,325.0
+2022,South Sudan,293.0
+2022,Colombia,261.0
+2022,Iran,255.0
+2022,Ethiopia,252.0
+2022,Armenia,200.0
+2022,Burundi,185.0
+2022,Central African Republic,181.0
+2022,Venezuela,163.0
+2022,Rwanda,88.0
+2022,Uganda,63.0
+2022,Pakistan,36.0
+2022,Cambodia,32.0
+2022,Sri Lanka (Ceylon),19.0
+2022,Russia,19.0
+2022,Palestine,16.0
+2022,Yemen,15.0
+2022,Vietnam,14.0
+2022,Bhutan,14.0
+2022,Liberia,10.0
+2022,Kazakhstan,10.0
+2022,China,8.0
+2022,Libya,7.0
+2022,Nicaragua,7.0
+2022,Chad,6.0
+2022,Nepal,6.0
+2022,Egypt,6.0
+2022,Jordan,5.0
+2022,Mali,4.0
+2022,"Korea, North",4.0
+2022,Turkey,3.0
+2022,Ivory Coast,3.0
+2022,Congo,3.0
+2022,Uzbekistan,3.0
+2022,Cameroon,2.0
+2022,Djibouti,2.0
+2022,Zimbabwe,2.0
+2022,Senegal,2.0
+2022,India,2.0
+2022,Belarus,1.0
+2022,Indonesia,1.0
+2022,Guinea,1.0
+2022,Tanzania,1.0
+2022,Turkmenistan,1.0
+2023,Democratic Republic of the Congo,18145.0
+2023,Syria,10781.0
+2023,Afghanistan,6594.0
+2023,Burma,6185.0
+2023,Guatemala,1748.0
+2023,Sudan,1635.0
+2023,Venezuela,1442.0
+2023,Somalia,1385.0
+2023,Ukraine,1337.0
+2023,Iraq,1235.0
+2023,Colombia,1165.0
+2023,El Salvador,1056.0
+2023,Eritrea,973.0
+2023,Iran,743.0
+2023,Central African Republic,634.0
+2023,Honduras,598.0
+2023,South Sudan,592.0
+2023,Pakistan,492.0
+2023,Moldova,489.0
+2023,Ethiopia,441.0
+2023,Burundi,335.0
+2023,Russia,297.0
+2023,Nicaragua,217.0
+2023,Yemen,204.0
+2023,Armenia,190.0
+2023,Kyrgyzstan,146.0
+2023,Belarus,126.0
+2023,Uzbekistan,90.0
+2023,Senegal,86.0
+2023,Rwanda,85.0
+2023,Kazakhstan,70.0
+2023,Palestine,56.0
+2023,Cuba,45.0
+2023,Vietnam,45.0
+2023,Uganda,39.0
+2023,Haiti,34.0
+2023,Cameroon,29.0
+2023,Mali,26.0
+2023,Guinea,25.0
+2023,Ivory Coast,22.0
+2023,Sri Lanka (Ceylon),22.0
+2023,Nepal,18.0
+2023,Bhutan,17.0
+2023,China,15.0
+2023,Tajikistan,11.0
+2023,Cambodia,10.0
+2023,Liberia,9.0
+2023,Turkey,8.0
+2023,Indonesia,7.0
+2023,Kenya,6.0
+2023,Libya,6.0
+2023,Egypt,5.0
+2023,Turkmenistan,5.0
+2023,Jordan,4.0
+2023,Lithuania,4.0
+2023,Algeria,3.0
+2023,Jamaica,3.0
+2023,Namibia,3.0
+2023,Chad,2.0
+2023,Peru,2.0
+2023,Tunisia,2.0
+2023,Zimbabwe,2.0
+2023,Bangladesh,1.0
+2023,Benin,1.0
+2023,Burkina Faso (UVolta),1.0
+2023,Costa Rica,1.0
+2023,Guyana,1.0
+2023,India,1.0
+2023,Lebanon,1.0
+2023,Morocco,1.0
+2023,Niger,1.0
+2023,Nigeria,1.0
+2023,Tanzania,1.0
+2023,Togo,1.0
+2023,Zambia,1.0
+2024,Democratic Republic of the Congo,19923.0
+2024,Afghanistan,14708.0
+2024,Venezuela,12875.0
+2024,Syria,11274.0
+2024,Burma,7347.0
+2024,Guatemala,5017.0
+2024,Somalia,4801.0
+2024,Nicaragua,3299.0
+2024,Eritrea,2411.0
+2024,Iraq,2282.0
+2024,Sudan,2184.0
+2024,Ukraine,1448.0
+2024,Colombia,1381.0
+2024,El Salvador,1332.0
+2024,South Sudan,1322.0
+2024,Honduras,905.0
+2024,Central African Republic,864.0
+2024,Pakistan,856.0
+2024,Burundi,590.0
+2024,Ethiopia,504.0
+2024,Iran,472.0
+2024,Belarus,391.0
+2024,Moldova,368.0
+2024,Congo,353.0
+2024,Russia,349.0
+2024,Armenia,320.0
+2024,Haiti,260.0
+2024,Cuba,258.0
+2024,Rwanda,226.0
+2024,Yemen,203.0
+2024,Mali,188.0
+2024,Cameroon,125.0
+2024,Vietnam,120.0
+2024,Nigeria,112.0
+2024,Kazakhstan,111.0
+2024,Senegal,92.0
+2024,Guinea,84.0
+2024,Kyrgyzstan,80.0
+2024,Ivory Coast,74.0
+2024,Cambodia,60.0
+2024,Uzbekistan,55.0
+2024,Uganda,54.0
+2024,Libya,49.0
+2024,Liberia,36.0
+2024,Georgia,34.0
+2024,Palestine,31.0
+2024,Jamaica,17.0
+2024,The Gambia,16.0
+2024,Algeria,13.0
+2024,Sri Lanka (Ceylon),12.0
+2024,Azerbaijan,11.0
+2024,Kenya,11.0
+2024,Chad,10.0
+2024,Jordan,9.0
+2024,Niger,8.0
+2024,Nepal,8.0
+2024,Turkmenistan,8.0
+2024,China,8.0
+2024,India,7.0
+2024,Lebanon,6.0
+2024,Sierra Leone,6.0
+2024,Tanzania,6.0
+2024,Indonesia,4.0
+2024,Guyana,4.0
+2024,Egypt,4.0
+2024,Ecuador,4.0
+2024,Burkina Faso (UVolta),4.0
+2024,Brazil,3.0
+2024,Djibouti,3.0
+2024,Mauritania,3.0
+2024,Sweden,3.0
+2024,Bangladesh,2.0
+2024,Angola,2.0
+2024,Togo,2.0
+2024,Tunisia,2.0
+2024,Costa Rica,1.0
+2024,Canada,1.0
+2024,Guinea-Bissau,1.0
+2024,Germany,1.0
+2024,Norway,1.0
+2024,Peru,1.0
+2024,South Africa,1.0
+2024,South Korea,1.0
+2024,Turkey,1.0
+2024,Zimbabwe,1.0
+2025,Afghanistan,6758.0
+2025,Dem. Rep. Congo,5672.0
+2025,Venezuela,4559.0
+2025,Syria,4553.0
+2025,Burma,3599.0
+2025,Somalia,2496.0
+2025,Nicaragua,1381.0
+2025,Guatemala,1166.0
+2025,Eritrea,1075.0
+2025,Republic of South Sudan,707.0
+2025,Iraq,663.0
+2025,Sudan,654.0
+2025,Iran,528.0
+2025,Central African Republic,444.0
+2025,El Salvador,411.0
+2025,Ethiopia,359.0
+2025,South Africa,342.0
+2025,Ukraine,334.0
+2025,Honduras,315.0
+2025,Yemen,303.0
+2025,Colombia,285.0
+2025,Burundi,239.0
+2025,Armenia,217.0
+2025,Rwanda,141.0
+2025,Cuba,128.0
+2025,Pakistan,108.0
+2025,Haiti,87.0
+2025,Belarus,73.0
+2025,Kazakhstan,69.0
+2025,Russia,60.0
+2025,Vietnam,46.0
+2025,Nigeria,37.0
+2025,Congo,27.0
+2025,Moldova,21.0
+2025,Cambodia,17.0
+2025,Liberia,17.0
+2025,Palestine,15.0
+2025,Cameroon,14.0
+2025,Kyrgyzstan,14.0
+2025,Turkey,14.0
+2025,China,13.0
+2025,Uzbekistan,13.0
+2025,Sri Lanka (Ceylon),12.0
+2025,Egypt,11.0
+2025,Ivory Coast,11.0
+2025,Mali,11.0
+2025,Azerbaijan,10.0
+2025,Jamaica,8.0
+2025,Kenya,7.0
+2025,Guinea,6.0
+2025,Chad,5.0
+2025,Guyana,5.0
+2025,Libya,5.0
+2025,Senegal,5.0
+2025,Zimbabwe,5.0
+2025,Bangladesh,4.0
+2025,Peru,4.0
+2025,Latvia,3.0
+2025,Brazil,2.0
+2025,Ghana,2.0
+2025,Nepal,2.0
+2025,The Gambia,2.0
+2025,Uganda,2.0
+2025,Burkina Faso (UVolta),1.0
+2025,Ecuador,1.0
+2025,Georgia,1.0
+2025,Norway,1.0
+2025,Trinidad and Tobago,1.0
+2025,Tunisia,1.0
+2026,South Africa,16287.0
+2026,Afghanistan,5.0

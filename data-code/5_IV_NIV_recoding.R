@@ -31,6 +31,7 @@ recode_visa_country = function(x) {
         x %in% c("China - Taiwan born", "Taiwan")             ~ "Taiwan",
         x == "Congo, Democratic Republic of the"              ~ "DR Congo",
         x == "Congo, Republic of the"                         ~ "Republic of the Congo",
+        x == "Ivory Coast"                                    ~ "Cote d'Ivoire",
         x %in% c("Gambia, The", "The Gambia")                 ~ "Gambia",
         x %in% c("Great Britain and Northern Ireland", "United Kingdom",
             "Northern Ireland", "Northern Ireland (DV only)") ~ "United Kingdom",
@@ -160,3 +161,37 @@ visa_country_monthly = bind_rows(
     niv_country_monthly %>% mutate(visa_type = "NIV"))
 
 write_csv(visa_country_monthly, "data/output/visa_country_monthly.csv")
+
+# unmatched countries, restricted NIV
+niv_by_class %>%
+    filter(country != "ALL COUNTRIES", visa_class %in% niv_classes_included) %>%
+    mutate(country = recode_visa_country(country)) %>%
+    filter(is.na(country)) %>%
+    summarise(issuances = sum(issuances))
+
+# unmatched, not restricted (full niv)
+niv_totals %>%
+    filter(country != "ALL COUNTRIES") %>%
+    mutate(country = recode_visa_country(country)) %>%
+    filter(is.na(country)) %>%
+    summarise(issuances = sum(issuances))
+
+# NIV unsrestricted full breakdown, feb 2024 - feb 2026 only  --------------------------
+niv_by_class_national = niv_by_class %>%
+    filter(country != "ALL COUNTRIES") %>%
+    group_by(visa_class, date, year, month) %>%
+    summarise(issuances = sum(issuances), .groups = "drop") %>%
+    mutate(fy = if_else(month >= 10, year + 1L, year))
+
+niv_class_feb = niv_by_class_national %>%
+    filter(fy %in% c(2024, 2026), month == 2) %>%
+    group_by(visa_class, fy) %>%
+    summarise(issuances = sum(issuances), .groups = "drop") %>%
+    pivot_wider(names_from = fy, values_from = issuances, values_fill = 0, names_prefix = "visas_") %>%
+    mutate(change = visas_2026 - visas_2024,
+        pct_change = change / visas_2024) %>%
+    arrange(desc(visas_2024))
+
+print(niv_class_feb, n = Inf)
+
+write_csv(niv_class_feb, "results/niv_class_breakdown_feb_2024_2026.csv")

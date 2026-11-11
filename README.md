@@ -28,6 +28,8 @@
 ### Data sources
 - Immigrant Visa issuances: [U.S. Department of State, Monthly Immigrant Visa Issuance Statistics](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/immigrant-visa-statistics/monthly-immigrant-visa-issuances.html)
 - Nonimmigrant Visa issuances: [U.S. Department of State, Monthly Nonimmigrant Visa Issuance Statistics](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/nonimmigrant-visa-statistics/monthly-nonimmigrant-visa-issuances.html)
+- Refugee Arrivals by Nationality: [U.S. Department of State | Bureau of Population, Refugees, and Migration](https://www.rpc.state.gov/archives/)
+- Asylees: [U.S. Customs and Border Protection | Nationwide Encounters](https://www.cbp.gov/document/stats/nationwide-encounters)
 - Population and occupation data: [IPUMS USA, American Community Survey (ACS) 5-year PUMS, 2020–2024](https://usa.ipums.org)
 
 ### Formulas
@@ -39,17 +41,25 @@ $$V_c^{k,\text{Mar-Sep2026, projected}} = V_c^{k,\text{Mar-Sep2024}} \times (1 +
 
 $$\Delta V_c^{k} = \left(V_c^{k,\text{Oct-Feb2026, actual}} + V_c^{k,\text{Mar-Sep2026, projected}}\right) - V_c^{k,\text{FY2024, actual}}$$
 
-IV and NIV are projected separately, each using its own Feb-based rate, because NIV volume is far larger than IV — pooling the two series before computing a rate would let NIV's trend dominate and misstate IV's decline (and vice versa).
+> $r_c^k$ is the rate of change from Feb 2024 to Feb 2026, and is negative when a country's visas declined. Multiplying the FY2024 base months by $(1 + r_c^k)$ applies that rate to project what FY2026 would look like if the Feb trend held.
+
+> IV and NIV are projected separately, each using its own Feb-based rate, because NIV volume is far larger than IV — pooling the two series before computing a rate would let NIV's trend dominate and misstate IV's decline (and vice versa).
 
 **2. Combined decline, by country:**
 
-$$\Delta V_c = \Delta V_c^{IV} + \Delta V_c^{NIV}$$
+$$\Delta R_c = R_c^{\text{FY2026, actual}} - R_c^{\text{FY2024, actual}}$$
+
+$$\Delta A_c = A_c^{\text{FY2026, actual}} - A_c^{\text{FY2024, actual}}$$
+
+$$\Delta V_c = \Delta V_c^{IV} + \Delta V_c^{NIV} + \Delta R_c + \Delta A_c$$
+
+where $R_c$ is refugee arrivals and $A_c$ is asylee admissions (CBP nationwide encounters). Both are reported as actual full-year totals for FY2024 and FY2026, so — unlike IV/NIV — no projection step is needed for either.
 
 **3. Occupation share, by country $c$ and occupation $o$:**
 
 $$s_{c,o} = \frac{\text{immigrants from country } c \text{ working in occupation } o}{\text{all immigrants from country } c}$$
 
-using all immigrants — not just the employed — as the denominator, since visa data doesn't distinguish workers from family members.
+> using all immigrants — not just the employed — as the denominator, since visa & arrivals data don't distinguish workers from family members.
 
 **4. Missing workers:**
 

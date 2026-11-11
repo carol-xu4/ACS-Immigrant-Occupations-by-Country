@@ -575,7 +575,7 @@ bpl_nurse_occ_share = acs %>%
     left_join(occ_labels, by = "occ")
 
 #recent arrival samples? compare workforce shares of recent arrivals vs all immigrants
-bpl_table_workers %>% arrange(n) %>% print(n = 20)
+bpl_table_workers %>% arrange(desc(n)) %>% print(n = 20, width = Inf)
 
 worker_rates_all = acs %>%
     filter(country != "United States", citizen %in% c(2, 3)) %>%
@@ -611,3 +611,266 @@ bind_rows(
         filter(country != "United States", citizen %in% c(2, 3), yrimmig %in% RECENT_YEARS) %>%
         summarise(group = "Recent arrivals (2020-2024)", pop = sum(perwt), workers = sum(perwt[empstat == 1]))) %>%
     mutate(pct_workers = workers / pop)
+
+# missing workers, all occs
+missing_workers_by_occ = missing_visas_total_by_country %>%
+    select(country, change) %>%
+    inner_join(bpl_occ_group %>% select(country, occ_group, occ_share), by = "country") %>%
+    mutate(missing = change * occ_share) %>%
+    group_by(occ_group) %>%
+    summarise(missing_workers = sum(missing, na.rm = TRUE), .groups = "drop")
+
+occ_group_totals = acs %>%
+    filter(empstat == 1) %>%
+    mutate(occ_group = occ_group_fn(as.integer(zap_labels(occ))),
+        immigrant = citizen %in% c(2, 3)) %>%
+    group_by(occ_group) %>%
+    summarise(total_workers = sum(perwt),
+        immigrant_workers = sum(perwt[immigrant]),
+        .groups = "drop") %>%
+    mutate(pct_immigrant = (immigrant_workers / total_workers) * 100)
+
+# national aggregate of occ_share: occ_workers / ALL recent immigrants (employed or not), pooled across countries
+recent_immigrant_pop = acs %>%
+    filter(country != "United States", citizen %in% c(2, 3), yrimmig %in% RECENT_YEARS) %>%
+    summarise(pop = sum(perwt)) %>%
+    pull(pop)
+
+recent_immigrant_occ_share = acs %>%
+    filter(country != "United States", citizen %in% c(2, 3), yrimmig %in% RECENT_YEARS, empstat == 1) %>%
+    mutate(occ_group = occ_group_fn(as.integer(zap_labels(occ)))) %>%
+    group_by(occ_group) %>%
+    summarise(occ_workers = sum(perwt), .groups = "drop") %>%
+    mutate(pct_of_recent_immigrants = (occ_workers / recent_immigrant_pop) * 100)
+
+missing_workers_by_occ_table = missing_workers_by_occ %>%
+    filter(!is.na(occ_group)) %>%
+    left_join(occ_group_totals %>% select(occ_group, pct_immigrant), by = "occ_group") %>%
+    left_join(recent_immigrant_occ_share %>% select(occ_group, pct_of_recent_immigrants), by = "occ_group") %>%
+    select(occ_group, pct_immigrant, pct_of_recent_immigrants, missing_workers) %>%
+    arrange(missing_workers)
+
+print(missing_workers_by_occ_table, n = Inf)
+
+write_csv(missing_workers_by_occ_table, "results/missing_workers_by_occ_recent.csv")
+
+## HEALTHCARE — practitioners & support 
+
+missing_healthcare_workers = missing_visas_total_by_country %>%
+    select(country, change) %>%
+    left_join(
+        bpl_occ_group %>%
+            filter(occ_group %in% c("Healthcare practitioners & technical", "Healthcare support")) %>%
+            select(country, occ_group, occ_share),
+        by = "country") %>%
+    mutate(missing_workers = change * occ_share)
+
+missing_healthcare_workers %>%
+    group_by(occ_group) %>%
+    summarise(total_missing = sum(missing_workers, na.rm = TRUE))
+
+missing_healthcare_workers %>%
+    summarise(total_missing = sum(missing_workers, na.rm = TRUE))
+
+## NURSES — total and registered-nurses-only 
+missing_nurses = missing_visas_total_by_country %>%
+    select(country, change) %>%
+    left_join(bpl_nurse_share %>% select(country, nurse_share), by = "country") %>%
+    mutate(missing_workers = change * nurse_share)
+
+missing_nurses %>%
+    summarise(total_missing = sum(missing_workers, na.rm = TRUE))
+
+missing_nurses_by_occ = missing_visas_total_by_country %>%
+    select(country, change) %>%
+    left_join(bpl_nurse_occ_share %>% select(country, occ, occ_title, nurse_share), by = "country") %>%
+    mutate(missing_workers = change * nurse_share)
+
+missing_nurses_by_occ %>%
+    mutate(occ_category = if_else(occ == "3255", "Registered nurses", "Other nursing occupations")) %>%
+    group_by(occ_category) %>%
+    summarise(total_missing = sum(missing_workers, na.rm = TRUE), .groups = "drop")
+
+# new healthcare arrivals over time
+# 3 categories: nursing, healthcare practitioners, other health support workers
+bpl_health_detail_share = acs %>%
+    filter(country != "United States", citizen %in% c(2, 3), yrimmig %in% RECENT_YEARS) %>%
+    group_by(country) %>%
+    mutate(pop = sum(perwt)) %>%
+    filter(empstat == 1) %>%
+    mutate(occ_int = as.integer(zap_labels(occ)),
+        occ_str = sprintf("%04d", occ_int),
+        occ_group = occ_group_fn(occ_int),
+        health_category = case_when(
+            occ_str %in% nurse_codes                              ~ "Nursing occupations",
+            occ_group == "Healthcare practitioners & technical"   ~ "Healthcare practitioners",
+            occ_group == "Healthcare support"                     ~ "Other health support workers",
+            TRUE ~ NA_character_)) %>%
+    filter(!is.na(health_category)) %>%
+    group_by(country, pop, health_category) %>%
+    summarise(category_workers = sum(perwt), .groups = "drop") %>%
+    mutate(category_share = category_workers / pop)
+
+visa_country_monthly_total_actual = visa_country_monthly %>%
+    group_by(country, date, year, month, fy) %>%
+    summarise(issuances = sum(issuances), .groups = "drop") %>%
+    mutate(month_date = as.Date(paste0(date, "-01")))
+
+visa_country_monthly_total_projected = visa_country_projection %>%
+    group_by(country, month) %>%
+    summarise(issuances = sum(visas_2026_projected), .groups = "drop") %>%
+    mutate(month_date = as.Date(paste0("2026-", sprintf("%02d", month), "-01")))
+
+health_workers_monthly = visa_country_monthly_total_actual %>%
+    select(country, month_date, issuances) %>%
+    inner_join(bpl_health_detail_share %>% select(country, health_category, category_share),
+        by = "country", relationship = "many-to-many") %>%
+    mutate(workers = issuances * category_share) %>%
+    group_by(month_date, health_category) %>%
+    summarise(workers = sum(workers, na.rm = TRUE), .groups = "drop")
+
+health_workers_monthly_projected = visa_country_monthly_total_projected %>%
+    select(country, month_date, issuances) %>%
+    inner_join(bpl_health_detail_share %>% select(country, health_category, category_share),
+        by = "country", relationship = "many-to-many") %>%
+    mutate(workers = issuances * category_share) %>%
+    group_by(month_date, health_category) %>%
+    summarise(workers = sum(workers, na.rm = TRUE), .groups = "drop")
+
+plot_data_health = bind_rows(
+    health_workers_monthly %>% mutate(series = "Actual"),
+    health_workers_monthly %>%
+        group_by(health_category) %>%
+        filter(month_date == max(month_date)) %>%
+        ungroup() %>%
+        mutate(series = "Projected"),
+    health_workers_monthly_projected %>% mutate(series = "Projected"))
+
+ggplot(plot_data_health, aes(month_date, workers, color = health_category, linetype = series)) +
+    geom_line(linewidth = 1.8) +
+    scale_color_manual(values = c(
+        "Healthcare practitioners" = "#3043B4",
+        "Other health support workers" = "#C97703",
+        "Nursing occupations" = "#0D0E51")) +
+    scale_linetype_manual(values = c("Actual" = "solid", "Projected" = "dotted")) +
+    guides(linetype = "none") +
+    scale_x_date(date_breaks = "1 year", date_labels = "%Y", expand = c(0.02, 0)) +
+    scale_y_continuous(labels = scales::comma, expand = c(0.02, 0)) +
+    labs(
+        title = "Estimated New Immigrant Healthcare Workers per Month",
+        subtitle = "Mar-Sep 2026 projected using each country's own change versus fiscal year 2024",
+        x = NULL, y = NULL, color = NULL, linetype = NULL,
+        caption = "Source: U.S. Department of State, Monthly Immigrant and Nonimmigrant Visa Issuance Statistics; American Community Survey.") +
+    cato_plot_theme
+
+ggsave("results/health_workers_monthly_by_category.png", width = 15, height = 10)
+
+ggplot(plot_data_health %>% filter(month_date >= as.Date("2023-10-01")),
+        aes(month_date, workers, color = health_category, linetype = series)) +
+    geom_line(linewidth = 1.8) +
+    scale_color_manual(values = c(
+        "Healthcare practitioners" = "#3043B4",
+        "Other health support workers" = "#C97703",
+        "Nursing occupations" = "#0D0E51")) +
+    scale_linetype_manual(values = c("Actual" = "solid", "Projected" = "dotted")) +
+    guides(linetype = "none") +
+    scale_x_date(date_breaks = "6 months", date_labels = "%b %Y", expand = c(0.02, 0)) +
+    scale_y_continuous(labels = scales::comma, expand = c(0.02, 0), limits = c(0, NA)) +
+    labs(
+        title = "Estimated New Immigrant Healthcare Workers per Month, FY2024-2026",
+        subtitle = "Mar-Sep 2026 projected using each country's own change versus fiscal year 2024",
+        x = NULL, y = NULL, color = NULL, linetype = NULL,
+        caption = "Source: U.S. Department of State, Monthly Immigrant and Nonimmigrant Visa Issuance Statistics; American Community Survey.") +
+    cato_plot_theme
+
+ggsave("results/health_workers_monthly_by_category_fy2024_2026.png", width = 15, height = 10)
+
+# typical year, how many healthcare workers arrive
+healthcare_arrivals_by_year = acs %>%
+    filter(citizen %in% c(2, 3), empstat == 1, yrimmig > 0) %>%
+    mutate(occ_int = as.integer(zap_labels(occ)),
+        occ_str = sprintf("%04d", occ_int),
+        occ_group = occ_group_fn(occ_int),
+        health_category = case_when(
+            occ_str %in% nurse_codes                              ~ "Nursing occupations",
+            occ_group == "Healthcare practitioners & technical"   ~ "Healthcare practitioners",
+            occ_group == "Healthcare support"                     ~ "Other health support workers",
+            TRUE ~ NA_character_)) %>%
+    filter(!is.na(health_category)) %>%
+    group_by(yrimmig, health_category) %>%
+    summarise(workers = sum(perwt), .groups = "drop")
+
+print(healthcare_arrivals_by_year, n = Inf)
+
+# "typical year" window -- excludes the COVID-depressed 2020-2021 arrivals and the
+TYPICAL_YEARS = 2000:2024
+
+healthcare_arrivals_typical = healthcare_arrivals_by_year %>%
+    filter(yrimmig %in% TYPICAL_YEARS) %>%
+    group_by(health_category) %>%
+    summarise(avg_annual_workers = sum(workers) / length(TYPICAL_YEARS), .groups = "drop")
+
+print(healthcare_arrivals_typical)
+
+healthcare_arrivals_typical %>%
+    summarise(avg_annual_workers = sum(avg_annual_workers))
+
+healthcare_arrivals_table = healthcare_arrivals_by_year %>%
+    filter(yrimmig %in% 2000:2024) %>%
+    pivot_wider(names_from = health_category, values_from = workers, values_fill = 0) %>%
+    mutate(total_healthcare_workers = `Healthcare practitioners` + `Other health support workers` + `Nursing occupations`) %>%
+    arrange(yrimmig)
+
+print(healthcare_arrivals_table, n = Inf)
+
+view(healthcare_arrivals_table)
+
+write_csv(healthcare_arrivals_table, "results/healthcare_arrivals_by_year_2000_2024.csv")
+
+# read in single year ACS for unemployment stats ---------------------------------------------------
+acs2024 = read_rds("data/output/acs_2021_2024.RDS")
+
+# ACS immigrants workers unemployed
+acs2024 %>%
+    filter((citizen %in% c(2, 3)), age >= 16, year == 2024) %>%
+    summarise(pop = sum(perwt),
+        employed = sum(perwt[empstat == 1]),
+        unemployed = sum(perwt[empstat == 2]),
+        nilf = sum(perwt[empstat == 3])) %>%
+    mutate(labor_force = employed + unemployed,
+        pct_unemployed = unemployed / labor_force * 100,
+        pct_nilf = nilf / pop * 100)
+
+# us-born unemployed
+acs2024 %>%
+    filter((citizen %in% c(0, 1)), age >= 16, year == 2024) %>%
+    summarise(pop = sum(perwt),
+        employed = sum(perwt[empstat == 1]),
+        unemployed = sum(perwt[empstat == 2]),
+        nilf = sum(perwt[empstat == 3])) %>%
+    mutate(labor_force = employed + unemployed,
+        pct_unemployed = unemployed / labor_force * 100,
+        pct_nilf = nilf / pop * 100)
+
+# education levels - bachelors or higher, natives vs immigrants
+# standard Census/BLS convention for "educational attainment" stats is age 25+
+acs2024 %>%
+    filter(age >= 25, year == 2024) %>%
+    mutate(immigrant = citizen %in% c(2, 3),
+        bachelors_plus = educd >= 101) %>%
+    group_by(immigrant) %>%
+    summarise(pop = sum(perwt),
+        bachelors_plus_n = sum(perwt[bachelors_plus]),
+        .groups = "drop") %>%
+    mutate(pct_bachelors_plus = bachelors_plus_n / pop * 100)
+
+# of unemployed, how many have a bachelors degree or higher
+acs2024 %>%
+    filter(empstat == 2, year == 2024) %>%
+    mutate(immigrant = citizen %in% c(2, 3),
+        bachelors_plus = educd >= 101) %>%
+    group_by(immigrant) %>%
+    summarise(unemployed = sum(perwt),
+        bachelors_plus_n = sum(perwt[bachelors_plus]),
+        .groups = "drop") %>%
+    mutate(pct_bachelors_plus = bachelors_plus_n / unemployed * 100)
