@@ -53,7 +53,7 @@ $$\Delta A_c = A_c^{\text{FY2026, actual}} - A_c^{\text{FY2024, actual}}$$
 
 $$\Delta V_c = \Delta V_c^{IV} + \Delta V_c^{NIV} + \Delta R_c + \Delta A_c$$
 
-where $R_c$ is refugee arrivals and $A_c$ is asylee admissions (CBP nationwide encounters). Both are reported as actual full-year totals for FY2024 and FY2026, so — unlike IV/NIV — no projection step is needed for either.
+where $R_c$ is refugee arrivals and $A_c$ is asylee admissions, proxied by CBP nationwide encounters at ports of entry (component = OFO, Southwest Land Border). Both are reported as actual full-year totals for FY2024 and FY2026, so — unlike IV/NIV — no projection step is needed for either.
 
 **3. Occupation share, by country $c$ and occupation $o$:**
 
