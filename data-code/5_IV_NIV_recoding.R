@@ -29,22 +29,25 @@ recode_visa_country = function(x) {
         x == "Cabo Verde"                                     ~ "Cape Verde",
         str_detect(x, "^China") & !str_detect(x, "Taiwan")    ~ "China",
         x %in% c("China - Taiwan born", "Taiwan")             ~ "Taiwan",
-        x == "Congo, Democratic Republic of the"              ~ "DR Congo",
-        x == "Congo, Republic of the"                         ~ "Republic of the Congo",
+        x %in% c("Congo, Democratic Republic of the", "Democratic Republic of the Congo",
+            "Dem. Rep. Congo")                                ~ "DR Congo",
+        x %in% c("Congo, Republic of the", "Congo")           ~ "Republic of the Congo",
         x == "Ivory Coast"                                    ~ "Cote d'Ivoire",
         x %in% c("Gambia, The", "The Gambia")                 ~ "Gambia",
         x %in% c("Great Britain and Northern Ireland", "United Kingdom",
             "Northern Ireland", "Northern Ireland (DV only)") ~ "United Kingdom",
         str_detect(x, "^Hong Kong") |
             x == "British National Overseas (Hong Kong) Passport" ~ "Hong Kong",  # Hong Kong-BNO (IV) / BNO passport (NIV)
-        str_detect(x, "^Korea")                               ~ "Korea",          # ACS Korea incl. North Korea
+        str_detect(x, "^Korea") | x == "South Korea"          ~ "Korea",          # ACS Korea incl. North Korea
         x %in% c("Macedonia", "North Macedonia")              ~ "North Macedonia",
         str_detect(x, "^Micronesia")                          ~ "Micronesia",
         x %in% c("Saint Kitts and Nevis", "St. Kitts and Nevis") ~ "St. Kitts and Nevis",
         x == "Saint Lucia"                                    ~ "St. Lucia",
         x == "Saint Vincent and the Grenadines"               ~ "St. Vincent and the Grenadines",
-        x %in% c("Israel", "Jerusalem",
+        x %in% c("Israel", "Jerusalem", "Palestine",
             "Palestinian Authority Travel Document")         ~ "Israel/Palestine",
+        x == "Sri Lanka (Ceylon)"                             ~ "Sri Lanka",
+        x == "Myanmar (Burma)"                                ~ "Burma",
 
         # no own ACS code: assign to the ACS catch-all they fall into
         x == "Samoa"                                          ~ "Other, n.e.c.",  # independent Samoa
@@ -59,10 +62,10 @@ recode_visa_country = function(x) {
         x %in% c("Bahrain", "Brunei", "Cyprus", "Macau", "Macau S.A.R.", "Maldives",
             "Oman", "Qatar", "Timor-Leste", "Tajikistan", "Turkmenistan") ~ "Other Asia",
         x %in% c("Tunisia", "Western Sahara")                 ~ "Other North Africa",
-        x %in% c("Benin", "Burkina Faso", "Guinea-Bissau", "Mali",
-            "Mauritania", "Niger")                           ~ "Other West Africa",
+        x %in% c("Benin", "Burkina Faso", "Burkina Faso (UVolta)", "Guinea-Bissau",
+            "Guinea - Bissau", "Mali", "Mauritania", "Niger")  ~ "Other West Africa",
         x %in% c("Burundi", "Comoros", "Djibouti", "Madagascar", "Malawi", "Mauritius",
-            "Mozambique", "Seychelles", "South Sudan",
+            "Mozambique", "Seychelles", "South Sudan", "Republic of South Sudan",
             "British Indian Ocean Territory")                ~ "Other East Africa",
         x %in% c("Angola", "Central African Republic", "Chad", "Equatorial Guinea",
             "Gabon", "Sao Tome and Principe", "Botswana", "Eswatini", "Lesotho",

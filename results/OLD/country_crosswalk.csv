@@ -114,6 +114,7 @@ Haiti,NIV,Haiti
 Honduras,IV,Honduras
 Honduras,NIV,Honduras
 British National Overseas (Hong Kong) Passport,NIV,Hong Kong
+Hong Kong S.A.R,IV,Hong Kong
 Hong Kong S.A.R.,IV,Hong Kong
 Hong Kong S.A.R.,NIV,Hong Kong
 Hong Kong-BNO,IV,Hong Kong
@@ -133,6 +134,7 @@ Ireland,IV,Ireland
 Ireland,NIV,Ireland
 Israel,IV,Israel/Palestine
 Israel,NIV,Israel/Palestine
+Jerusalem,IV,Israel/Palestine
 Palestinian Authority Travel Document,IV,Israel/Palestine
 Palestinian Authority Travel Document,NIV,Israel/Palestine
 Italy,IV,Italy
@@ -175,6 +177,7 @@ Marshall Islands,IV,Marshall Islands
 Marshall Islands,NIV,Marshall Islands
 Mexico,IV,Mexico
 Mexico,NIV,Mexico
+Micronesia,NIV,Micronesia
 "Micronesia, Federated States of",IV,Micronesia
 "Micronesia, Federated States of",NIV,Micronesia
 Moldova,IV,Moldova
