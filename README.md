@@ -10,13 +10,16 @@
 - Population and occupation data: [IPUMS USA, American Community Survey (ACS) 5-year PUMS, 2020–2024](https://usa.ipums.org)
 
 ### Formulas
+
+> **Notation:** $\hat{V}$ (and similarly $\hat{R}$, $\hat{A}$) denotes a projected value; an unmarked $V$ is actual/observed. $c$ indexes country, $k$ indexes source ($IV$, $NIV$, $Refugees$, $Asylees$), $m$ indexes calendar month, and $o$ indexes occupation group.
+
 **1. Projected FY2026 decline, by country $c$ and visa channel $k \in \{IV, NIV\}$:**
 
 $$r_c^{k} = \frac{V_c^{k,\text{Feb2026}} - V_c^{k,\text{Feb2024}}}{V_c^{k,\text{Feb2024}}}$$
 
-$$V_c^{k,\text{Mar-Sep2026, projected}} = V_c^{k,\text{Mar-Sep2024}} \times (1 + r_c^{k})$$
+$$\hat{V}_c^{k,\text{Mar-Sep2026}} = V_c^{k,\text{Mar-Sep2024}} \times (1 + r_c^{k})$$
 
-$$\Delta V_c^{k} = \left(V_c^{k,\text{Oct-Feb2026, actual}} + V_c^{k,\text{Mar-Sep2026, projected}}\right) - V_c^{k,\text{FY2024, actual}}$$
+$$\Delta V_c^{k} = \left(V_c^{k,\text{Oct-Feb2026}} + \hat{V}_c^{k,\text{Mar-Sep2026}}\right) - V_c^{k,\text{FY2024}}$$
 
 > $r_c^k$ is the rate of change from Feb 2024 to Feb 2026, and is negative when a country's visas declined. Multiplying the FY2024 base months by $(1 + r_c^k)$ applies that rate to project what FY2026 would look like if the Feb trend held.
 
@@ -24,9 +27,9 @@ $$\Delta V_c^{k} = \left(V_c^{k,\text{Oct-Feb2026, actual}} + V_c^{k,\text{Mar-S
 
 **2. Combined decline, by country:**
 
-$$\Delta R_c = R_c^{\text{FY2026, actual}} - R_c^{\text{FY2024, actual}}$$
+$$\Delta R_c = R_c^{\text{FY2026}} - R_c^{\text{FY2024}}$$
 
-$$\Delta A_c = A_c^{\text{FY2026, actual}} - A_c^{\text{FY2024, actual}}$$
+$$\Delta A_c = A_c^{\text{FY2026}} - A_c^{\text{FY2024}}$$
 
 $$\Delta V_c = \Delta V_c^{IV} + \Delta V_c^{NIV} + \Delta R_c + \Delta A_c$$
 
@@ -38,7 +41,7 @@ $$\Delta V_{c,m}^{k} = V_{c,m}^{k} - V_{c,m}^{k,\text{FY2024}}, \quad k \in \{IV
 
 $$\Delta V_c^{\text{cumulative}} = \sum_{k} \sum_{m} \Delta V_{c,m}^{k}$$
 
-> $V_{c,m}^{k,\text{FY2024}}$ is that source's value in the *same calendar month* $m$ during FY2024 — so January 2025 and January 2026 both compare to January 2024, consistent with how Mar-Sep 2026 is already projected in Formula 1. For visas, March-September 2026 uses the projected values from Formula 1 in place of actuals; refugees and asylees are actual full-year data throughout, since both are already complete through FY2026.
+> For March-September 2026, $V_{c,m}^{IV}$ and $V_{c,m}^{NIV}$ are the projected values $\hat{V}_c^{k,\text{Mar-Sep2026}}$ from Formula 1, not actuals. Refugees and asylees are actual data throughout, since both are already complete through FY2026. $V_{c,m}^{k,\text{FY2024}}$ is that source's value in the *same calendar month* $m$ during FY2024 — so January 2025 and January 2026 both compare to January 2024, consistent with how Mar-Sep 2026 is projected above.
 
 **3. Occupation share, by country $c$ and occupation $o$:**
 
@@ -46,7 +49,7 @@ $$s_{c,o} = \frac{\text{immigrants from country } c \text{ working in occupation
 
 > using all immigrants — not just the employed — as the denominator, since visa & arrivals data don't distinguish workers from family members.
 
-**4. Missing workers (FY2026):**
+**4. Missing workers:**
 
 $$\text{Missing}_o = \sum_c \Delta V_c \times s_{c,o}$$
 
