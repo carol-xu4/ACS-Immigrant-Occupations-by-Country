@@ -83,3 +83,29 @@ $$\text{Total missing workers} = \sum_o \text{Missing}_o$$
   - Transit and crew: `C1`, `C1/D`, `C2`, `C3`, `C4`, `C4/D3`, `D`, `D3`
   - CNMI-only classes (CNMI is outside ACS geography): `CW1`, `CW2`, `E2C`
   - Defunct: `H1C` (program expired 2009)
+
+## Instructions for Replication
+
+### Input data (not included in this repo)
+Place these in `data/input/` unless noted:
+- **ACS 2024 5-year sample** from IPUMS USA (extract `usa_00039`): variables YEAR, MULTYEAR, PERWT, HHWT, BPL, BPLD, CITIZEN, YRNATUR, YRIMMIG, AGE, SEX, EMPSTAT, EMPSTATD, LABFORCE, OCC, OCCSOC, IND, INDNAICS, EDUC, EDUCD, INCTOT, INCWAGE, HHINCOME
+- **State Department Monthly Immigrant and Nonimmigrant Visa Issuance Statistics**, monthly PDFs from October 2020 to February 2026, zipped (the notebooks read the zips from a local Downloads folder; update the path)
+- **Refugee Admissions Report** (Excel), FY 2021–FY 2026 sheets
+- **CBP Nationwide Encounters** CSVs: `nationwide-encounters-fy20-fy23-aor.csv` and `nationwide-encounters-fy23-fy26-sep-aor.csv`
+
+### Run order
+Scripts in [data-code](https://github.com/carol-xu4/ACS-Immigrant-Occupations-by-Country/tree/main/data-code) write cleaned files to `data/output/`. Update the `setwd()` and file paths at the top of each script before running.
+
+1. `1_ACS_cleaning.R`: assigns ACS country-of-birth categories in the 2024 5-year sample → `acs.RDS`
+2. `3_monthly_IV_issuances.ipynb`: parses the monthly immigrant visa PDFs → `iv_issuances_monthly_totals.csv`, `iv_issuances_by_country_visa_class.csv`
+3. `4_monthly_NIV_issuances.ipynb`: parses the monthly nonimmigrant visa PDFs → `niv_issuances_monthly_totals.csv`, `niv_issuances_by_country_visa_class.csv`
+   *(The notebooks save to their working directory; move the CSVs to `data/output/`.)*
+4. `5_IV_NIV_recoding.R`: matches visa countries to ACS categories, restricts NIVs to long-term classes (workers, students, exchange visitors, diplomats, and family of US citizens), and combines IV and NIV → `visa_country_monthly.csv`. Requires `acs.RDS`.
+5. `7_refugee_recode.R`: converts the refugee Excel file to monthly country counts matched to ACS categories → `refugee_arrivals_by_country_fy2021_fy2026_recoded.csv`. Runs `5_IV_NIV_recoding.R` automatically.
+6. `8_asylees_recode.R`: filters CBP encounters to Office of Field Operations inadmissibles at the southwest land border, reshapes them to monthly counts, and matches ACS categories → `asylee_encounters_by_country_fy2021_fy2026_recoded.csv`. **Run in the same R session right after step 5**; it uses functions defined there.
+7. [FINAL_ANALYSIS.R](https://github.com/carol-xu4/ACS-Immigrant-Occupations-by-Country/blob/main/analysis/FINAL_ANALYSIS.R): produces all tables, figures, and estimates in the paper. Outputs go to `results/`.
+
+### Not used in the final analysis
+- `2_recent_immigrants_cleaning.R` (ACS 2021–2024 1-year samples; earlier draft)
+- `6_refugees.ipynb` (annual refugee arrivals by state and nationality; replaced by the monthly Refugee Admissions Report)
+- Other files in `analysis/` are earlier versions
