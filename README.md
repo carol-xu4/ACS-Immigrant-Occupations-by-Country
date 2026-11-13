@@ -11,8 +11,6 @@
 
 ### Formulas
 
-> **Notation:** $\hat{V}$ (and similarly $\hat{R}$, $\hat{A}$) denotes a projected value; an unmarked $V$ is actual/observed. $c$ indexes country, $k$ indexes source ($IV$, $NIV$, $Refugees$, $Asylees$), $m$ indexes calendar month, and $o$ indexes occupation group.
-
 **1. Projected FY2026 decline, by country $c$ and visa channel $k \in \{IV, NIV\}$:**
 
 $$r_c^{k} = \frac{V_c^{k,\text{Feb2026}} - V_c^{k,\text{Feb2024}}}{V_c^{k,\text{Feb2024}}}$$
