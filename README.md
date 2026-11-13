@@ -103,7 +103,7 @@ Scripts in [data-code](https://github.com/carol-xu4/ACS-Immigrant-Occupations-by
 4. `5_IV_NIV_recoding.R`: matches visa countries to ACS categories, restricts NIVs to long-term classes (workers, students, exchange visitors, diplomats, and family of US citizens), and combines IV and NIV → `visa_country_monthly.csv`. Requires `acs.RDS`.
 5. `7_refugee_recode.R`: converts the refugee Excel file to monthly country counts matched to ACS categories → `refugee_arrivals_by_country_fy2021_fy2026_recoded.csv`. Runs `5_IV_NIV_recoding.R` automatically.
 6. `8_asylees_recode.R`: filters CBP encounters to Office of Field Operations inadmissibles at the southwest land border, reshapes them to monthly counts, and matches ACS categories → `asylee_encounters_by_country_fy2021_fy2026_recoded.csv`. **Run in the same R session right after step 5**; it uses functions defined there.
-7. [FINAL_ANALYSIS.R](https://github.com/carol-xu4/ACS-Immigrant-Occupations-by-Country/blob/main/analysis/FINAL_ANALYSIS.R): produces all tables, figures, and estimates in the paper. Outputs go to `results/`.
+7. [FINAL_ANALYSIS.R](https://github.com/carol-xu4/ACS-Immigrant-Occupations-by-Country/blob/main/analysis/FINAL_ANALYSIS.R): produces all tables, figures, and estimates in the paper. Outputs go to [`results/`](https://github.com/carol-xu4/ACS-Immigrant-Occupations-by-Country/tree/main/results).
 
 ### Not used in the final analysis
 - `2_recent_immigrants_cleaning.R` (ACS 2021–2024 1-year samples; earlier draft)
