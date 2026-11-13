@@ -35,12 +35,15 @@ where $R_c$ is refugee arrivals and $A_c$ is asylee admissions, proxied by CBP n
 
 **2b. Cumulative decline, January 2025 - September 2026 (21 months), by country:**
 
-$$\Delta V_{c,m}^{k} = V_{c,m}^{k} - V_{c,m}^{k,\text{FY2024}}, \quad k \in \{IV, NIV, Refugees, Asylees\}, \quad m \in \{\text{Jan 2025}, \dots, \text{Sep 2026}\}$$
+For each source $k \in \{IV, NIV, Refugees, Asylees\}$ and calendar month $m$ from January 2025 through September 2026:
+
+$$V_{c,m}^{k} = \begin{cases} \hat{V}_c^{k,\text{Mar-Sep2026}} & k \in \{IV, NIV\} \text{ and } m \in \{\text{Mar 2026}, \dots, \text{Sep 2026}\} \\ \text{actual value} & \text{otherwise} \end{cases}$$
+
+$$\Delta V_{c,m}^{k} = V_{c,m}^{k} - V_{c,m}^{k,\text{FY2024}}$$
 
 $$\Delta V_c^{\text{cumulative}} = \sum_{k} \sum_{m} \Delta V_{c,m}^{k}$$
 
-> For March-September 2026, $V_{c,m}^{IV}$ and $V_{c,m}^{NIV}$ are the projected values $\hat{V}_c^{k,\text{Mar-Sep2026}}$ from Formula 1, not actuals. Refugees and asylees are actual data throughout, since both are already complete through FY2026. $V_{c,m}^{k,\text{FY2024}}$ is that source's value in the *same calendar month* $m$ during FY2024 — so January 2025 and January 2026 both compare to January 2024, consistent with how Mar-Sep 2026 is projected above.
-
+> $V_{c,m}^{k,\text{FY2024}}$ is that source's value in the *same calendar month* $m$ during FY2024 — so January 2025 and January 2026 both compare to January 2024, consistent with how Mar-Sep 2026 is projected in Formula 1.
 **3. Occupation share, by country $c$ and occupation $o$:**
 
 $$s_{c,o} = \frac{\text{immigrants from country } c \text{ working in occupation } o}{\text{all immigrants from country } c}$$
