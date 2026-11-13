@@ -31,7 +31,7 @@ $$\Delta R_c = R_c^{\text{FY2026}} - R_c^{\text{FY2024}}$$
 
 $$\Delta A_c = A_c^{\text{FY2026}} - A_c^{\text{FY2024}}$$
 
-$$\Delta L_c = \Delta V_c + \Delta R_c + \Delta A_c$$
+$$\Delta E_c = \Delta V_c + \Delta R_c + \Delta A_c$$
 
 where $R_c$ is refugee arrivals and $A_c$ is asylee admissions, proxied by CBP nationwide encounters at ports of entry (component = OFO, Southwest Land Border). Both are reported as actual full-year totals for FY2024 and FY2026 (no projection).
 
@@ -39,13 +39,13 @@ where $R_c$ is refugee arrivals and $A_c$ is asylee admissions, proxied by CBP n
 
 For each source $k \in \{IV, NIV, Refugees, Asylees\}$ and calendar month $m$ from January 2025 through September 2026:
 
-$$L_{c,m}^{k} = \begin{cases} \hat{V}_c^{k,\text{Mar-Sep2026}} & \text{if } k \in \{IV, NIV\} \text{ and } m \in \{\text{Mar 2026}, \dots, \text{Sep 2026}\} \\ \text{actual value} & \text{if } k \in \{Refugees, Asylees\}, \text{ or } k \in \{IV, NIV\} \text{ and } m \notin \{\text{Mar 2026}, \dots, \text{Sep 2026}\} \end{cases}$$
+$$E_{c,m}^{k} = \begin{cases} \hat{V}_c^{k,\text{Mar-Sep2026}} & \text{if } k \in \{IV, NIV\} \text{ and } m \in \{\text{Mar 2026}, \dots, \text{Sep 2026}\} \\ \text{actual value} & \text{if } k \in \{Refugees, Asylees\}, \text{ or } k \in \{IV, NIV\} \text{ and } m \notin \{\text{Mar 2026}, \dots, \text{Sep 2026}\} \end{cases}$$
 
-$$\Delta L_{c,m}^{k} = L_{c,m}^{k} - L_{c,m}^{k,\text{FY2024}}$$
+$$\Delta E_{c,m}^{k} = E_{c,m}^{k} - E_{c,m}^{k,\text{FY2024}}$$
 
-$$\Delta L_c^{\text{cumulative}} = \sum_{k} \sum_{m} \Delta L_{c,m}^{k}$$
+$$\Delta E_c^{\text{cumulative}} = \sum_{k} \sum_{m} \Delta E_{c,m}^{k}$$
 
-> $L_{c,m}^{k,\text{FY2024}}$ is that source's value in the *same calendar month* $m$ during FY2024 — so January 2025 and January 2026 both compare to January 2024, consistent with how Mar-Sep 2026 is projected in Formula 1.
+> $E_{c,m}^{k,\text{FY2024}}$ is that source's value in the *same calendar month* $m$ during FY2024 — so January 2025 and January 2026 both compare to January 2024, consistent with how Mar-Sep 2026 is projected in Formula 1.
 
 **3. Occupation share, by country $c$ and occupation $o$:**
 
@@ -55,11 +55,11 @@ $$s_{c,o} = \frac{\text{immigrants from country } c \text{ working in occupation
 
 **4. Missing workers:**
 
-$$\text{Missing}_o = \sum_c \Delta L_c \times s_{c,o}$$
+$$\text{Missing}_o = \sum_c \Delta E_c \times s_{c,o}$$
 
 $$\text{Total missing workers} = \sum_o \text{Missing}_o$$
 
-> Substituting $\Delta L_c^{\text{cumulative}}$ (Formula 2b) for $\Delta L_c$ (Formula 2) gives the cumulative missing-workers total for January 2025 - September 2026 instead of the FY2024-vs-FY2026 snapshot; both use the same occupation shares $s_{c,o}$.
+> Substituting $\Delta E_c^{\text{cumulative}}$ (Formula 2b) for $\Delta E_c$ (Formula 2) gives the cumulative missing-workers total for January 2025 - September 2026 instead of the FY2024-vs-FY2026 snapshot; both use the same occupation shares $s_{c,o}$.
 
 ### Visa types included
 - **Immigrant visas (IV):** all countries/classes, State Department Monthly IV Issuance Statistics by Foreign State of Chargeability.
