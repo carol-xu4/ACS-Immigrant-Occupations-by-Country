@@ -93,6 +93,16 @@ print(master_fy_totals, n = Inf)
 
 write_csv(master_fy_totals, "results/master_fy_totals.csv")
 
+# Table 1 + projected visas
+master_fy_totals = visa_fy_totals_updated %>%
+    select(fy, IV, NIV) %>%
+    left_join(refugee_fy_totals %>% rename(Refugees = arrivals), by = "fy") %>%
+    left_join(asylee_fy_totals %>% rename(Asylees = total), by = "fy")
+
+print(master_fy_totals, n = Inf)
+
+write_csv(master_fy_totals, "results/master_fy_totals.csv")
+
 # MASTERFILE: by month_year and country, all entries
 visa_wide = visas %>%
     select(visa_type, country, year, month, fy, issuances) %>%
@@ -405,12 +415,7 @@ missing_workers_by_occ %>%
 
 write_csv(missing_workers_by_occ, "results/missing_workers_by_occ_fy2024_fy2026.csv")
 
-
-
-
-
-
-## missing workers, broken down by source category --------------------------------------------------
+## missing workers, broken down by source category 
 missing_workers_by_category = bind_rows(
     visa_change_by_country %>% mutate(category = NA_character_),  # placeholder, filled below
     ) # see note below -- build per-category, not just combined
@@ -523,3 +528,299 @@ cumulative_missing_workers_by_source = cumulative_missing %>%
 print(cumulative_missing_workers_by_source, n = Inf)
 
 write_csv(cumulative_missing_workers_by_source, "results/cumulative_missing_workers_by_source_jan2025_sep2026.csv")
+
+# Table 3: workers blocked, cumulative, by occupation group
+occ_group_totals = acs %>%
+    filter(empstat == 1) %>%
+    mutate(occ_group = occ_group_fn(as.integer(zap_labels(occ))),
+        immigrant = citizen %in% c(2, 3)) %>%
+    group_by(occ_group) %>%
+    summarise(total_workers = sum(perwt),
+        immigrant_workers = sum(perwt[immigrant]),
+        .groups = "drop") %>%
+    mutate(pct_immigrant = (immigrant_workers / total_workers) * 100)
+
+cumulative_missing_workers_by_occ_table = cumulative_missing_workers_by_occ %>%
+    filter(!is.na(occ_group)) %>%
+    left_join(occ_group_totals %>% select(occ_group, pct_immigrant), by = "occ_group") %>%
+    select(occ_group, pct_immigrant, missing_workers) %>%
+    arrange(missing_workers)
+
+print(cumulative_missing_workers_by_occ_table, n = Inf)
+
+cumulative_missing_workers_by_occ_table = cumulative_missing_workers_by_occ %>%
+    filter(!is.na(occ_group)) %>%
+    left_join(occ_group_totals %>% select(occ_group, total_workers, pct_immigrant), by = "occ_group") %>%
+    mutate(pct_missing = (missing_workers / total_workers) * 100) %>%
+    select(occ_group, pct_immigrant, missing_workers, pct_missing) %>%
+    arrange(missing_workers)
+
+cumulative_missing_workers_by_occ_table = cumulative_missing_workers_by_occ %>%
+    filter(!is.na(occ_group)) %>%
+    left_join(occ_group_totals %>% select(occ_group, total_workers, pct_immigrant), by = "occ_group") %>%
+    mutate(pct_missing = (missing_workers / total_workers) * 100) %>%
+    select(occ_group, total_workers, pct_immigrant, missing_workers, pct_missing) %>%
+    arrange(missing_workers)
+
+print(cumulative_missing_workers_by_occ_table, n = Inf)
+
+write_csv(cumulative_missing_workers_by_occ_table, "results/cumulative_missing_workers_by_occ_table.csv")
+
+sum(cumulative_missing_workers_by_occ_table$missing_workers)
+
+# HEALTHCARE -------------------------------------------------------------------------------
+# current immigrant share of healthcare workforce
+healthcare_share = acs %>%
+    filter(empstat == 1) %>%
+    mutate(occ_group = occ_group_fn(as.integer(zap_labels(occ))),
+        immigrant = citizen %in% c(2, 3)) %>%
+    filter(occ_group %in% c("Healthcare practitioners & technical", "Healthcare support")) %>%
+    summarise(total_workers = sum(perwt),
+        immigrant_workers = sum(perwt[immigrant]),
+        .groups = "drop") %>%
+    mutate(pct_immigrant = immigrant_workers / total_workers * 100)
+
+print(healthcare_share)
+
+labor_force_share = acs %>%
+    filter(empstat %in% c(1, 2)) %>%   # employed + unemployed
+    mutate(immigrant = citizen %in% c(2, 3)) %>%
+    summarise(labor_force = sum(perwt),
+        immigrant_labor_force = sum(perwt[immigrant]),
+        .groups = "drop") %>%
+    mutate(pct_immigrant = immigrant_labor_force / labor_force * 100)
+
+print(labor_force_share)
+
+population_share = acs %>%
+    mutate(immigrant = citizen %in% c(2, 3)) %>%
+    summarise(pop = sum(perwt),
+        immigrant_pop = sum(perwt[immigrant]),
+        .groups = "drop") %>%
+    mutate(pct_immigrant = immigrant_pop / pop * 100)
+
+print(population_share)
+
+# missing healthcare workers, 21 month period
+missing_healthcare_workers = cumulative_missing_by_country %>%
+    select(country, missing) %>%
+    left_join(
+        bpl_occ_group %>%
+            filter(occ_group %in% c("Healthcare practitioners & technical", "Healthcare support")) %>%
+            select(country, occ_group, occ_share),
+        by = "country") %>%
+    mutate(missing_workers = missing * occ_share)
+
+missing_healthcare_workers %>%
+    group_by(occ_group) %>%
+    summarise(total_missing = sum(missing_workers, na.rm = TRUE))
+
+missing_healthcare_workers %>%
+    summarise(total_missing = sum(missing_workers, na.rm = TRUE))
+
+# nurses
+nurse_codes = c("3255", "3256", "3258", "3500", "3603")
+
+bpl_nurse_share = acs %>%
+    filter(country != "United States", citizen %in% c(2, 3), yrimmig %in% RECENT_YEARS) %>%
+    group_by(country) %>%
+    mutate(pop = sum(perwt)) %>%
+    filter(empstat == 1) %>%
+    mutate(occ = sprintf("%04d", as.integer(zap_labels(occ))),
+        is_nurse = occ %in% nurse_codes) %>%
+    group_by(country, pop) %>%
+    summarise(nurse_workers = sum(perwt[is_nurse]), .groups = "drop") %>%
+    mutate(nurse_share = nurse_workers / pop)
+
+missing_nurses = cumulative_missing_by_country %>%
+    select(country, missing) %>%
+    left_join(bpl_nurse_share %>% select(country, nurse_share), by = "country") %>%
+    mutate(missing_workers = missing * nurse_share)
+
+missing_nurses %>%
+    summarise(total_missing = sum(missing_workers, na.rm = TRUE))
+
+bpl_nurse_occ_share = acs %>%
+    filter(country != "United States", citizen %in% c(2, 3), yrimmig %in% RECENT_YEARS) %>%
+    group_by(country) %>%
+    mutate(pop = sum(perwt)) %>%
+    filter(empstat == 1) %>%
+    mutate(occ = sprintf("%04d", as.integer(zap_labels(occ)))) %>%
+    filter(occ %in% nurse_codes) %>%
+    group_by(country, pop, occ) %>%
+    summarise(nurse_workers = sum(perwt), .groups = "drop") %>%
+    mutate(nurse_share = nurse_workers / pop)
+
+missing_nurses_by_occ = cumulative_missing_by_country %>%
+    select(country, missing) %>%
+    left_join(bpl_nurse_occ_share %>% select(country, occ, nurse_share), by = "country") %>%
+    mutate(missing_workers = missing * nurse_share)
+
+missing_nurses_by_occ %>%
+    mutate(occ_category = if_else(occ == "3255", "Registered nurses", "Other nursing occupations")) %>%
+    group_by(occ_category) %>%
+    summarise(total_missing = sum(missing_workers, na.rm = TRUE), .groups = "drop")
+
+
+## TOTAL PERCENT DECLINE OF ENTRIES, 21 MONTH PERIOD ------------------------------------------------------
+cumulative_pct_change_by_source = cumulative_missing %>%
+    group_by(source) %>%
+    summarise(total_value = sum(value, na.rm = TRUE),
+        total_baseline = sum(baseline, na.rm = TRUE),
+        total_missing = sum(missing, na.rm = TRUE),
+        .groups = "drop") %>%
+    mutate(pct_change = total_missing / total_baseline)
+
+print(cumulative_pct_change_by_source, n = Inf)
+
+cumulative_pct_change_total = cumulative_missing %>%
+    summarise(total_value = sum(value, na.rm = TRUE),
+        total_baseline = sum(baseline, na.rm = TRUE),
+        total_missing = sum(missing, na.rm = TRUE)) %>%
+    mutate(pct_change = total_missing / total_baseline)
+
+print(cumulative_pct_change_total)
+
+combined_fy_totals = visa_fy_totals_updated %>%
+    select(fy, Total) %>%
+    rename(visas = Total) %>%
+    left_join(refugee_fy_totals %>% rename(refugees = arrivals), by = "fy") %>%
+    left_join(asylee_fy_totals %>% rename(asylees = total), by = "fy") %>%
+    mutate(combined_total = visas + refugees + asylees)
+
+print(combined_fy_totals, n = Inf)
+
+fy2024_baseline = combined_fy_totals %>% filter(fy == 2024) %>% pull(combined_total)
+
+combined_pct_change = combined_fy_totals %>%
+    mutate(pct_change_vs_2024 = (combined_total - fy2024_baseline) / fy2024_baseline * 100)
+
+print(combined_pct_change, n = Inf)
+
+# EDUCATIONAL ATTAINMENT OF MISSING WORKERS --------------------------------------------------------------
+# bachelor's or higher share, recent immigrants (2020-2024)
+bpl_bachelors_share = acs %>%
+    filter(country != "United States", citizen %in% c(2, 3), yrimmig %in% RECENT_YEARS, age >= 25) %>%
+    group_by(country) %>%
+    summarise(pop = sum(perwt),
+        bachelors_plus = sum(perwt[educd >= 101]),
+        .groups = "drop") %>%
+    mutate(bachelors_share = bachelors_plus / pop)
+
+# missing workers with bachelors degree or higher
+missing_bachelors = cumulative_missing_by_country %>%
+    select(country, missing) %>%
+    left_join(bpl_bachelors_share %>% select(country, bachelors_share), by = "country") %>%
+    mutate(missing_bachelors = missing * bachelors_share)
+
+missing_bachelors %>%
+    summarise(total_missing_bachelors = sum(missing_bachelors, na.rm = TRUE))
+
+acs %>%
+    filter(age >= 25) %>%
+    summarise(pop = sum(perwt),
+        bachelors_plus_n = sum(perwt[educd >= 101]),
+        .groups = "drop") %>%
+    mutate(pct_bachelors_plus = bachelors_plus_n / pop * 100)
+
+acs %>%
+    filter(age >= 25, citizen %in% c(2, 3), yrimmig %in% RECENT_YEARS) %>%
+    summarise(pop = sum(perwt),
+        bachelors_plus = sum(perwt[educd >= 101]),
+        .groups = "drop") %>%
+    mutate(pct_bachelors_plus = bachelors_plus / pop * 100)
+
+# CUMULATIVE MISSING: overall decline in legal entries
+plot_data_decline = cumulative_pct_change_by_source %>%
+    select(source, total_baseline, total_value) %>%
+    pivot_longer(c(total_baseline, total_value), names_to = "period", values_to = "count") %>%
+    mutate(period = recode(period,
+            total_baseline = "FY2024 baseline",
+            total_value = "Jan 2025 - Sep 2026"),
+        source = factor(source, levels = c("IV", "NIV", "Refugees", "Asylees")))
+
+ggplot(plot_data_decline, aes(period, count, fill = period)) +
+    geom_col(width = 0.6) +
+    facet_wrap(~ source, scales = "free_y", nrow = 1) +
+    scale_fill_manual(values = c(
+        "FY2024 baseline" = "#7C756D",
+        "Jan 2025 - Sep 2026" = "#3043B4")) +
+    scale_y_continuous(labels = scales::comma, expand = c(0.02, 0)) +
+    guides(fill = "none") +
+    labs(
+        title = "Legal Entries: FY2024 Baseline vs. Jan 2025 - Sep 2026",
+        subtitle = "FY2024 baseline reflects the same 21 calendar months' worth of activity, using FY2024 as the comparison year",
+        x = NULL, y = NULL,
+        caption = "Source: U.S. Department of State; U.S. Customs and Border Protection; Bureau of Population, Refugees, and Migration.") +
+    cato_plot_theme +
+    theme(axis.text.x = element_text(size = 16, angle = 0))
+
+ggsave("results/legal_entries_fy2024_vs_cumulative.png", width = 14, height = 7)
+
+visa_monthly_total = visas %>%
+    group_by(year, month) %>%
+    summarise(value = sum(issuances), .groups = "drop")
+
+visa_projected_monthly_total = visa_marsep_projected %>%
+    group_by(month) %>%
+    summarise(value = sum(visas_2026_projected), .groups = "drop") %>%
+    mutate(year = 2026L)
+
+visa_full_monthly_total = bind_rows(
+    visa_monthly_total %>% filter(!(year == 2026 & month %in% 3:9)),
+    visa_projected_monthly_total)
+
+refugee_monthly_total = refugees %>%
+    group_by(year, month) %>%
+    summarise(value = sum(arrivals), .groups = "drop")
+
+asylee_monthly_total = asylees %>%
+    group_by(year, month) %>%
+    summarise(value = sum(encounters, na.rm = TRUE), .groups = "drop")
+
+total_monthly = bind_rows(visa_full_monthly_total, refugee_monthly_total, asylee_monthly_total) %>%
+    group_by(year, month) %>%
+    summarise(value = sum(value), .groups = "drop") %>%
+    mutate(month_date = as.Date(sprintf("%d-%02d-01", year, month)),
+        series = if_else(year == 2026 & month %in% 3:9, "Projected", "Actual"))
+
+# duplicate the last actual month as the first projected point, so the dotted line connects with no gap
+plot_data_total = bind_rows(
+    total_monthly %>% filter(series == "Actual"),
+    total_monthly %>% filter(series == "Actual") %>% filter(month_date == max(month_date)) %>% mutate(series = "Projected"),
+    total_monthly %>% filter(series == "Projected"))
+
+ggplot(plot_data_total, aes(month_date, value, linetype = series)) +
+    geom_vline(xintercept = as.Date("2025-01-01"), linetype = "dashed", color = "gray40", linewidth = 0.8) +
+    geom_line(linewidth = 1.8, color = "#3043B4") +
+    geom_line(linewidth = 1.8, color = "#3043B4") +
+    scale_linetype_manual(values = c("Actual" = "solid", "Projected" = "dotted")) +
+    guides(linetype = "none") +
+    scale_x_date(date_breaks = "1 year", date_labels = "%Y", expand = c(0.02, 0)) +
+    scale_y_continuous(labels = scales::comma, expand = c(0.02, 0), limits = c(0, 400000), breaks = seq(0, 400000, by = 100000)) +
+    labs(
+        title = "Total Monthly Legal Entries, FY2021-2026",
+        subtitle = "Immigrant visas, nonimmigrant visas, refugee arrivals, and asylee encounters combined; Mar-Sep 2026 visas projected",
+        x = NULL, y = NULL,
+        caption = "Source: U.S. Department of State; U.S. Customs and Border Protection; Bureau of Population, Refugees, and Migration.") +
+    cato_plot_theme
+
+ggsave("results/total_monthly_legal_entries.png", width = 15, height = 8)
+
+# zoomed version: fy2024-2026
+ggplot(plot_data_total %>% filter(month_date >= as.Date("2023-10-01")),
+        aes(month_date, value, linetype = series)) +
+    geom_vline(xintercept = as.Date("2025-01-01"), linetype = "dashed", color = "gray40", linewidth = 0.8) +
+    geom_line(linewidth = 1.8, color = "#3043B4") +
+    scale_linetype_manual(values = c("Actual" = "solid", "Projected" = "dotted")) +
+    guides(linetype = "none") +
+    scale_x_date(date_breaks = "6 months", date_labels = "%b %Y", expand = c(0.02, 0)) +
+    scale_y_continuous(labels = scales::comma, expand = c(0.02, 0), limits = c(0, 400000), breaks = seq(0, 400000, by = 100000)) +
+    labs(
+        title = "Total Monthly Legal Entries, FY2024-2026",
+        subtitle = "Immigrant visas, nonimmigrant visas, refugee arrivals, and asylee encounters combined; Mar-Sep 2026 visas projected",
+        x = NULL, y = NULL,
+        caption = "Source: U.S. Department of State; U.S. Customs and Border Protection; Bureau of Population, Refugees, and Migration.") +
+    cato_plot_theme
+
+ggsave("results/total_monthly_legal_entries_fy2024_2026.png", width = 15, height = 8)

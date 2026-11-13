@@ -1,4 +1,4 @@
-# Visa blans block XXX,XXX legal immigrant workers
+# Visa blans block 933,177 legal immigrant workers
 
 ## Methodology
 
@@ -46,7 +46,7 @@ $$s_{c,o} = \frac{\text{immigrants from country } c \text{ working in occupation
 
 > using all immigrants — not just the employed — as the denominator, since visa & arrivals data don't distinguish workers from family members.
 
-**4. Missing workers:**
+**4. Missing workers (FY2026):**
 
 $$\text{Missing}_o = \sum_c \Delta V_c \times s_{c,o}$$
 
