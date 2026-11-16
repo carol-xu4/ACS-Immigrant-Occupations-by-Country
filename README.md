@@ -1,5 +1,4 @@
-# Visa blans block 933,177 legal immigrant workers
-
+# The Trump administration has blocked 986,715 legal immigrant workers 
 ## Methodology
 
 ### Data sources
