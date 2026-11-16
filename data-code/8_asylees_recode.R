@@ -46,3 +46,17 @@ asylees_recoded %>%
     anti_join(acs_bpl, by = "country")
 
 write_csv(asylees_recoded, "data/output/asylee_encounters_by_country_fy2021_fy2026_recoded.csv")
+
+# "other" country encounters in asylee data 
+asylee_other_by_fy = asylees_monthly %>%
+    filter(citizenship == "OTHER") %>%
+    group_by(fy) %>%
+    summarise(other_encounters = sum(encounters), .groups = "drop") %>%
+    left_join(
+        asylees_monthly %>% group_by(fy) %>% summarise(total_encounters = sum(encounters), .groups = "drop"),
+        by = "fy") %>%
+    mutate(pct_other = other_encounters / total_encounters)
+
+print(asylee_other_by_fy, n = Inf)
+
+write_csv(asylee_other_by_fy, "results/asylee_unattributed_by_fy.csv")

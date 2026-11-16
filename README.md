@@ -35,7 +35,7 @@ $$\Delta E_c = \Delta V_c + \Delta R_c + \Delta A_c$$
 
 where $R_c$ is refugee arrivals and $A_c$ is asylee admissions, proxied by CBP nationwide encounters at ports of entry (component = OFO, Southwest Land Border). Both are reported as actual full-year totals for FY2024 and FY2026 (no projection).
 
-**2b. Cumulative decline, January 2025 - September 2026 (21 months), by country:**
+**2a. Cumulative decline, January 2025 - September 2026 (21 months), by country:**
 
 For each source $k \in \{IV, NIV, Refugees, Asylees\}$ and calendar month $m$ from January 2025 through September 2026:
 
@@ -59,7 +59,7 @@ $$\text{Missing}_o = \sum_c \Delta E_c \times s_{c,o}$$
 
 $$\text{Total missing workers} = \sum_o \text{Missing}_o$$
 
-> Substituting $\Delta E_c^{\text{cumulative}}$ (Formula 2b) for $\Delta E_c$ (Formula 2) gives the cumulative missing-workers total for January 2025 - September 2026 instead of the FY2024-vs-FY2026 snapshot; both use the same occupation shares $s_{c,o}$.
+> Substituting $\Delta E_c^{\text{cumulative}}$ (Formula 2a) for $\Delta E_c$ (Formula 2) gives the cumulative missing-workers total for January 2025 - September 2026 instead of the FY2024-vs-FY2026 snapshot; both use the same occupation shares $s_{c,o}$.
 
 ### Visa types included
 - **Immigrant visas (IV):** all countries/classes, State Department Monthly IV Issuance Statistics by Foreign State of Chargeability.
@@ -94,7 +94,7 @@ Place these in `data/input/` unless noted:
 - **CBP Nationwide Encounters** CSVs: `nationwide-encounters-fy20-fy23-aor.csv` and `nationwide-encounters-fy23-fy26-sep-aor.csv`
 
 ### Run order
-Scripts in [data-code](https://github.com/carol-xu4/ACS-Immigrant-Occupations-by-Country/tree/main/data-code) write cleaned files to `data/output/`. Update the `setwd()` and file paths at the top of each script before running.
+Scripts in ['data-code/'](https://github.com/carol-xu4/ACS-Immigrant-Occupations-by-Country/tree/main/data-code) write cleaned files to `data/output/`. Update the `setwd()` and file paths at the top of each script before running.
 
 1. `1_ACS_cleaning.R`: assigns ACS country-of-birth categories in the 2024 5-year sample → `acs.RDS`
 2. `3_monthly_IV_issuances.ipynb`: parses the monthly immigrant visa PDFs → `iv_issuances_monthly_totals.csv`, `iv_issuances_by_country_visa_class.csv`
