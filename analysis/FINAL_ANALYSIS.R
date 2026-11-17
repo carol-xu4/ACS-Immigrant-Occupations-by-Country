@@ -802,6 +802,20 @@ missing_bachelors %>%
               total_missing_adults = sum(missing_adults)) %>%
     mutate(pct_bachelors_of_adults = total_missing_bachelors / total_missing_adults)
 
+missing_25plus_by_country = cumulative_missing %>%
+    filter(!is.na(country)) %>%
+    left_join(bpl_bachelors_share %>% select(country, pop, adults), by = "country") %>%
+    mutate(missing_25plus = missing * (adults / pop)) %>%
+    group_by(country) %>%
+    summarise(missing_25plus = sum(missing_25plus, na.rm = TRUE), .groups = "drop")
+
+missing_workers_degrees_25plus = missing_25plus_by_country %>%
+    inner_join(bpl_degree_share %>% select(country, degree, degree_share), by = "country") %>%
+    mutate(missing_degree = missing_25plus * degree_share) %>%
+    group_by(degree) %>%
+    summarise(missing_degree = sum(missing_degree, na.rm = TRUE), .groups = "drop") %>%
+    mutate(pct = missing_degree / sum(missing_degree) * 100, group = "Missing Workers")
+
 # CUMULATIVE MISSING: overall decline in legal entries
 plot_data_decline = cumulative_pct_change_by_source %>%
     select(source, total_baseline, total_value) %>%
@@ -895,3 +909,51 @@ ggplot(plot_data_total %>% filter(month_date >= as.Date("2023-10-01")),
     cato_plot_theme
 
 ggsave("results/total_monthly_legal_entries_fy2024_2026.png", width = 15, height = 8)
+
+# agriculture workers! how many H2As
+niv_by_class_h2a = read_csv("data/output/niv_issuances_by_country_visa_class.csv") %>%
+    filter(visa_class == "H2A") %>%
+    mutate(fy = if_else(month >= 10, year + 1L, year))
+
+h2a_countries = niv_by_class_h2a %>% distinct(country)
+
+print(h2a_countries, n = Inf)
+
+h2a_feb_change = h2a_countries %>%
+    left_join(
+        niv_by_class_h2a %>%
+            filter(month == 2, fy %in% c(2024, 2026)) %>%
+            group_by(country, fy) %>%
+            summarise(issuances = sum(issuances), .groups = "drop") %>%
+            pivot_wider(names_from = fy, values_from = issuances, names_prefix = "issuances_"),
+        by = "country") %>%
+    filter(!(is.na(issuances_2024) & !is.na(issuances_2026))) %>%
+    mutate(issuances_2024 = coalesce(issuances_2024, 0),
+        issuances_2026 = coalesce(issuances_2026, 0),
+        pct_change = if_else(issuances_2024 == 0, -1, (issuances_2026 - issuances_2024) / issuances_2024))
+
+h2a_marsep_projected = niv_by_class_h2a %>%
+    filter(fy == 2024, month %in% 3:9) %>%
+    select(country, month, issuances_2024 = issuances) %>%
+    inner_join(h2a_feb_change %>% select(country, pct_change), by = "country") %>%
+    mutate(issuances_2026_projected = round(issuances_2024 * (1 + pct_change)))
+
+h2a_octfeb_actual = niv_by_class_h2a %>%
+    filter(fy %in% c(2024, 2026), month %in% c(10, 11, 12, 1, 2)) %>%
+    group_by(fy) %>%
+    summarise(issuances = sum(issuances), .groups = "drop") %>%
+    pivot_wider(names_from = fy, values_from = issuances, values_fill = 0, names_prefix = "issuances_")
+
+h2a_marsep_total = h2a_marsep_projected %>%
+    summarise(issuances_2024 = sum(issuances_2024),
+        issuances_2026 = sum(issuances_2026_projected))
+
+h2a_fy2026_updated = bind_rows(h2a_octfeb_actual, h2a_marsep_total) %>%
+    summarise(issuances_2024 = sum(issuances_2024), issuances_2026 = sum(issuances_2026))
+
+h2a_by_fy_updated = h2a_by_fy %>%
+    filter(fy != 2026) %>%
+    bind_rows(tibble(fy = 2026, issuances = h2a_fy2026_updated$issuances_2026))
+
+print(h2a_by_fy_updated, n = Inf)
+
