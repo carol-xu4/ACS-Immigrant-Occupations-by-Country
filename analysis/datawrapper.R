@@ -173,6 +173,10 @@ degree_chart = bind_rows(
 
 write_csv(degree_chart, "results/datawrapper/fig6.csv")
 
+missing_workers_degrees %>%
+    select(degree, missing_degree, pct) %>%
+    arrange(factor(degree, levels = DEGREE_LEVELS))
+
 # healthcare workers?
 ## missing healthcare workers by category, Jan 2025 - Sep 2026 cumulative ---------------------------
 missing_healthcare_cumulative = cumulative_missing_by_country %>%
