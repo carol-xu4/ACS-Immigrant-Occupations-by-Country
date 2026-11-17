@@ -809,6 +809,15 @@ missing_25plus_by_country = cumulative_missing %>%
     group_by(country) %>%
     summarise(missing_25plus = sum(missing_25plus, na.rm = TRUE), .groups = "drop")
 
+bpl_degree_share = acs %>%
+    filter(country != "United States", citizen %in% c(2, 3), yrimmig %in% RECENT_YEARS, age >= 25) %>%
+    mutate(degree = degree_category_fn(educd)) %>%
+    group_by(country) %>%
+    mutate(pop = sum(perwt)) %>%
+    group_by(country, pop, degree) %>%
+    summarise(degree_workers = sum(perwt), .groups = "drop") %>%
+    mutate(degree_share = degree_workers / pop)
+
 missing_workers_degrees_25plus = missing_25plus_by_country %>%
     inner_join(bpl_degree_share %>% select(country, degree, degree_share), by = "country") %>%
     mutate(missing_degree = missing_25plus * degree_share) %>%
