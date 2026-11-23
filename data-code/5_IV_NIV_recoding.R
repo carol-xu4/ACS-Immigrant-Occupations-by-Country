@@ -198,3 +198,22 @@ niv_class_feb = niv_by_class_national %>%
 print(niv_class_feb, n = Inf)
 
 write_csv(niv_class_feb, "results/niv_class_breakdown_feb_2024_2026.csv")
+
+iv_by_class = read_csv("data/output/iv_issuances_by_country_visa_class.csv")
+
+niv_by_class = read_csv("data/output/niv_issuances_by_country_visa_class.csv")
+
+visa_class_country_monthly = bind_rows(
+        iv_by_class %>% mutate(visa_type = "IV"),
+        niv_by_class %>% filter(visa_class %in% niv_classes_included) %>% mutate(visa_type = "NIV")) %>%
+    filter(country != "ALL COUNTRIES") %>%
+    mutate(country = recode_visa_country(country)) %>%
+    group_by(visa_type, visa_class, country, date, year, month) %>%
+    summarise(issuances = sum(issuances), .groups = "drop") %>%
+    mutate(fy = if_else(month >= 10, year + 1L, year))
+
+write_csv(visa_class_country_monthly, "data/output/visa_class_country_monthly.csv")
+
+# check total IV issuances in visa_country_monthly = total IV issuances
+sum(iv_class_country_monthly$issuances)
+visa_country_monthly %>% filter(visa_type == "IV") %>% summarise(sum(issuances))

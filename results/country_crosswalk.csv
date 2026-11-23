@@ -1,0 +1,438 @@
+visa_country,source,acs_category
+Afghanistan,IV,Afghanistan
+Afghanistan,NIV,Afghanistan
+Albania,IV,Albania
+Albania,NIV,Albania
+Algeria,IV,Algeria
+Algeria,NIV,Algeria
+Antigua and Barbuda,IV,Antigua and Barbuda
+Antigua and Barbuda,NIV,Antigua and Barbuda
+Argentina,IV,Argentina
+Argentina,NIV,Argentina
+Armenia,IV,Armenia
+Armenia,NIV,Armenia
+Australia,IV,Australia
+Australia,NIV,Australia
+Austria,IV,Austria
+Austria,NIV,Austria
+Azerbaijan,IV,Azerbaijan
+Azerbaijan,NIV,Azerbaijan
+"Bahamas, The",IV,Bahamas
+"Bahamas, The",NIV,Bahamas
+Bangladesh,IV,Bangladesh
+Bangladesh,NIV,Bangladesh
+Barbados,IV,Barbados
+Barbados,NIV,Barbados
+Belarus,IV,Belarus
+Belarus,NIV,Belarus
+Belgium,IV,Belgium
+Belgium,NIV,Belgium
+Belize,IV,Belize
+Belize,NIV,Belize
+Bermuda,IV,Bermuda
+Bermuda,NIV,Bermuda
+Bhutan,IV,Bhutan
+Bhutan,NIV,Bhutan
+Bolivia,IV,Bolivia
+Bolivia,NIV,Bolivia
+Bosnia-Herzegovina,IV,Bosnia and Herzegovina
+Bosnia-Herzegovina,NIV,Bosnia and Herzegovina
+Brazil,IV,Brazil
+Brazil,NIV,Brazil
+Bulgaria,IV,Bulgaria
+Bulgaria,NIV,Bulgaria
+Burma,IV,Burma
+Burma,NIV,Burma
+Cambodia,IV,Cambodia
+Cambodia,NIV,Cambodia
+Cameroon,IV,Cameroon
+Cameroon,NIV,Cameroon
+Canada,IV,Canada
+Canada,NIV,Canada
+Cabo Verde,IV,Cape Verde
+Cabo Verde,NIV,Cape Verde
+Chile,IV,Chile
+Chile,NIV,Chile
+China - mainland,NIV,China
+China - mainland born,IV,China
+Colombia,IV,Colombia
+Colombia,NIV,Colombia
+Costa Rica,IV,Costa Rica
+Costa Rica,NIV,Costa Rica
+Cote d'Ivoire,IV,Cote d'Ivoire
+Cote d'Ivoire,NIV,Cote d'Ivoire
+Croatia,IV,Croatia
+Croatia,NIV,Croatia
+Cuba,IV,Cuba
+Cuba,NIV,Cuba
+Czech Republic,IV,Czech Republic
+Czech Republic,NIV,Czech Republic
+"Congo, Democratic Republic of the",IV,DR Congo
+"Congo, Democratic Republic of the",NIV,DR Congo
+Denmark,IV,Denmark
+Denmark,NIV,Denmark
+Dominica,IV,Dominica
+Dominica,NIV,Dominica
+Dominican Republic,IV,Dominican Republic
+Dominican Republic,NIV,Dominican Republic
+Ecuador,IV,Ecuador
+Ecuador,NIV,Ecuador
+Egypt,IV,Egypt
+Egypt,NIV,Egypt
+El Salvador,IV,El Salvador
+El Salvador,NIV,El Salvador
+Eritrea,IV,Eritrea
+Eritrea,NIV,Eritrea
+Ethiopia,IV,Ethiopia
+Ethiopia,NIV,Ethiopia
+Fiji,IV,Fiji
+Fiji,NIV,Fiji
+Finland,IV,Finland
+Finland,NIV,Finland
+France,IV,France
+France,NIV,France
+"Gambia, The",IV,Gambia
+"Gambia, The",NIV,Gambia
+Georgia,IV,Georgia
+Georgia,NIV,Georgia
+Germany,IV,Germany
+Germany,NIV,Germany
+Ghana,IV,Ghana
+Ghana,NIV,Ghana
+Greece,IV,Greece
+Greece,NIV,Greece
+Grenada,IV,Grenada
+Grenada,NIV,Grenada
+Guatemala,IV,Guatemala
+Guatemala,NIV,Guatemala
+Guinea,IV,Guinea
+Guinea,NIV,Guinea
+Guyana,IV,Guyana
+Guyana,NIV,Guyana
+Haiti,IV,Haiti
+Haiti,NIV,Haiti
+Honduras,IV,Honduras
+Honduras,NIV,Honduras
+British National Overseas (Hong Kong) Passport,NIV,Hong Kong
+Hong Kong S.A.R,IV,Hong Kong
+Hong Kong S.A.R.,IV,Hong Kong
+Hong Kong S.A.R.,NIV,Hong Kong
+Hong Kong-BNO,IV,Hong Kong
+Hungary,IV,Hungary
+Hungary,NIV,Hungary
+Iceland,IV,Iceland
+Iceland,NIV,Iceland
+India,IV,India
+India,NIV,India
+Indonesia,IV,Indonesia
+Indonesia,NIV,Indonesia
+Iran,IV,Iran
+Iran,NIV,Iran
+Iraq,IV,Iraq
+Iraq,NIV,Iraq
+Ireland,IV,Ireland
+Ireland,NIV,Ireland
+Israel,IV,Israel/Palestine
+Israel,NIV,Israel/Palestine
+Jerusalem,IV,Israel/Palestine
+Palestinian Authority Travel Document,IV,Israel/Palestine
+Palestinian Authority Travel Document,NIV,Israel/Palestine
+Italy,IV,Italy
+Italy,NIV,Italy
+Jamaica,IV,Jamaica
+Jamaica,NIV,Jamaica
+Japan,IV,Japan
+Japan,NIV,Japan
+Jordan,IV,Jordan
+Jordan,NIV,Jordan
+Kazakhstan,IV,Kazakhstan
+Kazakhstan,NIV,Kazakhstan
+Kenya,IV,Kenya
+Kenya,NIV,Kenya
+"Korea, North",IV,Korea
+"Korea, North",NIV,Korea
+"Korea, South",IV,Korea
+"Korea, South",NIV,Korea
+Kosovo,IV,Kosovo
+Kosovo,NIV,Kosovo
+Kuwait,IV,Kuwait
+Kuwait,NIV,Kuwait
+Kyrgyzstan,IV,Kyrgyzstan
+Kyrgyzstan,NIV,Kyrgyzstan
+Laos,IV,Laos
+Laos,NIV,Laos
+Latvia,IV,Latvia
+Latvia,NIV,Latvia
+Lebanon,IV,Lebanon
+Lebanon,NIV,Lebanon
+Liberia,IV,Liberia
+Liberia,NIV,Liberia
+Libya,IV,Libya
+Libya,NIV,Libya
+Lithuania,IV,Lithuania
+Lithuania,NIV,Lithuania
+Malaysia,IV,Malaysia
+Malaysia,NIV,Malaysia
+Marshall Islands,IV,Marshall Islands
+Marshall Islands,NIV,Marshall Islands
+Mexico,IV,Mexico
+Mexico,NIV,Mexico
+Micronesia,NIV,Micronesia
+"Micronesia, Federated States of",IV,Micronesia
+"Micronesia, Federated States of",NIV,Micronesia
+Moldova,IV,Moldova
+Moldova,NIV,Moldova
+Mongolia,IV,Mongolia
+Mongolia,NIV,Mongolia
+Montenegro,IV,Montenegro
+Montenegro,NIV,Montenegro
+Morocco,IV,Morocco
+Morocco,NIV,Morocco
+Nepal,IV,Nepal
+Nepal,NIV,Nepal
+Netherlands,IV,Netherlands
+Netherlands,NIV,Netherlands
+New Zealand,IV,New Zealand
+New Zealand,NIV,New Zealand
+Nicaragua,IV,Nicaragua
+Nicaragua,NIV,Nicaragua
+Nigeria,IV,Nigeria
+Nigeria,NIV,Nigeria
+North Macedonia,IV,North Macedonia
+North Macedonia,NIV,North Macedonia
+Norway,IV,Norway
+Norway,NIV,Norway
+No Nationality,IV,Not matched (excluded)
+Non-Nationality Based Issuances,NIV,Not matched (excluded)
+Other,IV,Not matched (excluded)
+Unknown,NIV,Not matched (excluded)
+Angola,IV,Other Africa
+Angola,NIV,Other Africa
+Botswana,IV,Other Africa
+Botswana,NIV,Other Africa
+Central African Republic,IV,Other Africa
+Central African Republic,NIV,Other Africa
+Chad,IV,Other Africa
+Chad,NIV,Other Africa
+Equatorial Guinea,IV,Other Africa
+Equatorial Guinea,NIV,Other Africa
+Eswatini,IV,Other Africa
+Eswatini,NIV,Other Africa
+Gabon,IV,Other Africa
+Gabon,NIV,Other Africa
+Lesotho,IV,Other Africa
+Lesotho,NIV,Other Africa
+Namibia,IV,Other Africa
+Namibia,NIV,Other Africa
+Sao Tome and Principe,IV,Other Africa
+Sao Tome and Principe,NIV,Other Africa
+Greenland,IV,Other Americas
+Bahrain,IV,Other Asia
+Bahrain,NIV,Other Asia
+Brunei,IV,Other Asia
+Brunei,NIV,Other Asia
+Cyprus,IV,Other Asia
+Cyprus,NIV,Other Asia
+Macau,IV,Other Asia
+Macau S.A.R.,NIV,Other Asia
+Maldives,IV,Other Asia
+Maldives,NIV,Other Asia
+Oman,IV,Other Asia
+Oman,NIV,Other Asia
+Qatar,IV,Other Asia
+Qatar,NIV,Other Asia
+Tajikistan,IV,Other Asia
+Tajikistan,NIV,Other Asia
+Timor-Leste,IV,Other Asia
+Timor-Leste,NIV,Other Asia
+Turkmenistan,IV,Other Asia
+Turkmenistan,NIV,Other Asia
+Anguilla,IV,Other Caribbean
+Anguilla,NIV,Other Caribbean
+Aruba,IV,Other Caribbean
+British Virgin Islands,IV,Other Caribbean
+British Virgin Islands,NIV,Other Caribbean
+Cayman Islands,IV,Other Caribbean
+Cayman Islands,NIV,Other Caribbean
+Curacao,IV,Other Caribbean
+Guadeloupe,IV,Other Caribbean
+Montserrat,IV,Other Caribbean
+Montserrat,NIV,Other Caribbean
+Saint Martin,IV,Other Caribbean
+Sint Maarten,IV,Other Caribbean
+Turks and Caicos Islands,IV,Other Caribbean
+Turks and Caicos Islands,NIV,Other Caribbean
+British Indian Ocean Territory,IV,Other East Africa
+Burundi,IV,Other East Africa
+Burundi,NIV,Other East Africa
+Comoros,IV,Other East Africa
+Comoros,NIV,Other East Africa
+Djibouti,IV,Other East Africa
+Djibouti,NIV,Other East Africa
+Madagascar,IV,Other East Africa
+Madagascar,NIV,Other East Africa
+Malawi,IV,Other East Africa
+Malawi,NIV,Other East Africa
+Mauritius,IV,Other East Africa
+Mauritius,NIV,Other East Africa
+Mozambique,IV,Other East Africa
+Mozambique,NIV,Other East Africa
+Seychelles,IV,Other East Africa
+Seychelles,NIV,Other East Africa
+South Sudan,IV,Other East Africa
+South Sudan,NIV,Other East Africa
+Andorra,IV,Other Europe
+Andorra,NIV,Other Europe
+Estonia,IV,Other Europe
+Estonia,NIV,Other Europe
+Faroe Islands,IV,Other Europe
+Gibraltar,IV,Other Europe
+Gibraltar,NIV,Other Europe
+Liechtenstein,NIV,Other Europe
+Luxembourg,IV,Other Europe
+Luxembourg,NIV,Other Europe
+Malta,IV,Other Europe
+Malta,NIV,Other Europe
+Monaco,IV,Other Europe
+Monaco,NIV,Other Europe
+San Marino,IV,Other Europe
+San Marino,NIV,Other Europe
+Slovenia,IV,Other Europe
+Slovenia,NIV,Other Europe
+Vatican City,IV,Other Europe
+Vatican City,NIV,Other Europe
+Tunisia,IV,Other North Africa
+Tunisia,NIV,Other North Africa
+Western Sahara,NIV,Other North Africa
+Falkland Islands,IV,Other South America
+Suriname,IV,Other South America
+Suriname,NIV,Other South America
+Benin,IV,Other West Africa
+Benin,NIV,Other West Africa
+Burkina Faso,IV,Other West Africa
+Burkina Faso,NIV,Other West Africa
+Guinea-Bissau,IV,Other West Africa
+Guinea-Bissau,NIV,Other West Africa
+Mali,IV,Other West Africa
+Mali,NIV,Other West Africa
+Mauritania,IV,Other West Africa
+Mauritania,NIV,Other West Africa
+Niger,IV,Other West Africa
+Niger,NIV,Other West Africa
+Christmas Island,IV,"Other, n.e.c."
+Cocos (Keeling) Islands,IV,"Other, n.e.c."
+French Polynesia,IV,"Other, n.e.c."
+Kiribati,IV,"Other, n.e.c."
+Kiribati,NIV,"Other, n.e.c."
+Nauru,IV,"Other, n.e.c."
+Nauru,NIV,"Other, n.e.c."
+New Caledonia,IV,"Other, n.e.c."
+Niue,IV,"Other, n.e.c."
+Palau,IV,"Other, n.e.c."
+Palau,NIV,"Other, n.e.c."
+Papua New Guinea,IV,"Other, n.e.c."
+Papua New Guinea,NIV,"Other, n.e.c."
+Pitcairn,IV,"Other, n.e.c."
+Pitcairn,NIV,"Other, n.e.c."
+Samoa,IV,"Other, n.e.c."
+Samoa,NIV,"Other, n.e.c."
+Solomon Islands,IV,"Other, n.e.c."
+Solomon Islands,NIV,"Other, n.e.c."
+Tuvalu,NIV,"Other, n.e.c."
+Vanuatu,IV,"Other, n.e.c."
+Vanuatu,NIV,"Other, n.e.c."
+Wallis and Futuna,IV,"Other, n.e.c."
+Pakistan,IV,Pakistan
+Pakistan,NIV,Pakistan
+Panama,IV,Panama
+Panama,NIV,Panama
+Paraguay,IV,Paraguay
+Paraguay,NIV,Paraguay
+Peru,IV,Peru
+Peru,NIV,Peru
+Philippines,IV,Philippines
+Philippines,NIV,Philippines
+Poland,IV,Poland
+Poland,NIV,Poland
+Portugal,IV,Portugal
+Portugal,NIV,Portugal
+"Congo, Republic of the",IV,Republic of the Congo
+"Congo, Republic of the",NIV,Republic of the Congo
+Romania,IV,Romania
+Romania,NIV,Romania
+Russia,IV,Russia
+Russia,NIV,Russia
+Rwanda,IV,Rwanda
+Rwanda,NIV,Rwanda
+Saudi Arabia,IV,Saudi Arabia
+Saudi Arabia,NIV,Saudi Arabia
+Senegal,IV,Senegal
+Senegal,NIV,Senegal
+Serbia,IV,Serbia
+Serbia,NIV,Serbia
+Sierra Leone,IV,Sierra Leone
+Sierra Leone,NIV,Sierra Leone
+Singapore,IV,Singapore
+Singapore,NIV,Singapore
+Slovakia,IV,Slovakia
+Slovakia,NIV,Slovakia
+Somalia,IV,Somalia
+Somalia,NIV,Somalia
+South Africa,IV,South Africa
+South Africa,NIV,South Africa
+Spain,IV,Spain
+Spain,NIV,Spain
+Sri Lanka,IV,Sri Lanka
+Sri Lanka,NIV,Sri Lanka
+Saint Kitts and Nevis,IV,St. Kitts and Nevis
+Saint Kitts and Nevis,NIV,St. Kitts and Nevis
+Saint Lucia,IV,St. Lucia
+Saint Lucia,NIV,St. Lucia
+Saint Vincent and the Grenadines,IV,St. Vincent and the Grenadines
+Saint Vincent and the Grenadines,NIV,St. Vincent and the Grenadines
+Sudan,IV,Sudan
+Sudan,NIV,Sudan
+Sweden,IV,Sweden
+Sweden,NIV,Sweden
+Switzerland,IV,Switzerland
+Switzerland,NIV,Switzerland
+Syria,IV,Syria
+Syria,NIV,Syria
+China - Taiwan born,IV,Taiwan
+Taiwan,IV,Taiwan
+Taiwan,NIV,Taiwan
+Tanzania,IV,Tanzania
+Tanzania,NIV,Tanzania
+Thailand,IV,Thailand
+Thailand,NIV,Thailand
+Togo,IV,Togo
+Togo,NIV,Togo
+Tonga,IV,Tonga
+Tonga,NIV,Tonga
+Trinidad and Tobago,IV,Trinidad and Tobago
+Trinidad and Tobago,NIV,Trinidad and Tobago
+Turkey,IV,Turkey
+Turkey,NIV,Turkey
+Uganda,IV,Uganda
+Uganda,NIV,Uganda
+Ukraine,IV,Ukraine
+Ukraine,NIV,Ukraine
+United Arab Emirates,IV,United Arab Emirates
+United Arab Emirates,NIV,United Arab Emirates
+Great Britain and Northern Ireland,IV,United Kingdom
+Great Britain and Northern Ireland,NIV,United Kingdom
+Northern Ireland,IV,United Kingdom
+Uruguay,IV,Uruguay
+Uruguay,NIV,Uruguay
+Uzbekistan,IV,Uzbekistan
+Uzbekistan,NIV,Uzbekistan
+Venezuela,IV,Venezuela
+Venezuela,NIV,Venezuela
+Vietnam,IV,Vietnam
+Vietnam,NIV,Vietnam
+Yemen,IV,Yemen
+Yemen,NIV,Yemen
+Zambia,IV,Zambia
+Zambia,NIV,Zambia
+Zimbabwe,IV,Zimbabwe
+Zimbabwe,NIV,Zimbabwe

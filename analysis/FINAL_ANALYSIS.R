@@ -148,6 +148,10 @@ visa_feb_change %>%
     group_by(visa_type) %>%
     summarise(mean_pct_change = mean(pct_change, na.rm = TRUE), .groups = "drop")
 
+visa_feb_change %>%
+    group_by(visa_type) %>%
+    summarise(mean_pct_change = median(pct_change, na.rm = TRUE), .groups = "drop")
+
 # march-september 2026 projection, by country and visa type
 visa_marsep_projected = visas %>%
     filter(fy == 2024, month %in% 3:9) %>%
@@ -966,3 +970,236 @@ h2a_by_fy_updated = h2a_by_fy %>%
 
 print(h2a_by_fy_updated, n = Inf)
 
+## FAMILY MEMBERS -------------------------------------------------------------------------------------
+## VISAS BY CATEGORY: FY2024, FY2025, FY2026 (including projected), 21 month net missing -----------
+visa_by_class = read_csv("data/output/visa_class_country_monthly.csv")
+
+class_groups = visa_by_class %>%
+    mutate(category = case_when(
+        # NONIMMIGRANT
+        # work: specialty (H-1B, H-1B1), agricultural and seasonal (H-2A, H-2B), trainees (H-3), intracompany transferees (L-1),
+        # extraordinary ability (O-1, O-2), athletes and entertainers (P-1 to P-4), treaty traders and investors (E-1, E-2),
+        # Australian specialty workers (E-3), religious workers (R-1), USMCA professionals (TN), cultural exchange (Q-1),
+        # foreign media (I), and their spouses and children (H-4, L-2, O-3, TD, E-3D, R-2)
+        visa_type == "NIV" & visa_class %in% c("H1B", "H1B1", "H2A", "H2B", "H3", "H4", "L1", "L2",
+            "O1", "O2", "O3", "P1", "P2", "P3", "P4", "E1", "E2", "E3", "E3D", "E3R",
+            "TN", "TD", "R1", "R2", "Q1", "I") ~ "Work",
+        # students (F-1, M-1) and exchange visitors (J-1), with spouses and children (F-2, M-2, J-2)
+        visa_type == "NIV" & visa_class %in% c("F1", "F2", "M1", "M2", "J1", "J2") ~ "Students and exchange visitors",
+        # fiancé(e)s and spouses of US citizens and their children
+        visa_type == "NIV" & visa_class %in% c("K1", "K2", "K3", "K4") ~ "Citizens' spouses, fiancé(e)s + minors",
+        # other: diplomats, international organization officials, NATO personnel and their families,
+        # crime victims and family members of trafficking victims (U, T), parents and children of certain special immigrants (N-8, N-9)
+        visa_type == "NIV" ~ "Other",
+        # IMMIGRANT
+        # work: employment-based first through third preference and other workers, with spouses and children
+        visa_type == "IV" & visa_class %in% c("E1", "E11", "E13", "E14", "E15", "E2", "E21", "E22", "E23",
+            "E3", "E31", "E32", "E34", "E35", "EW", "EW3", "EW4", "EW5") ~ "Work",
+        # spouses and children of permanent residents (F2A, F2A numbers exempt from the per-country limit,
+        # conditional, and self-petitioning)
+        visa_type == "IV" & visa_class %in% c("F2A", "FX", "FX1", "FX2", "FX3", "CX", "C21", "BX", "BX2") ~ "Residents' spouses + minors",
+        # spouses and children of US citizens: spouse, conditional spouse, self-petitioning spouse,
+        # surviving spouse, child, conditional child, self-petitioning child, orphans and Hague adoptees
+        visa_type == "IV" & visa_class %in% c("IR1", "CR1", "IB1", "IW", "IR2", "CR2", "IB2",
+            "IR3", "IR4", "IH3", "IH4") ~ "Citizens' spouses + minors",
+        # parents of US citizens
+        visa_type == "IV" & visa_class == "IR5" ~ "Citizens' parents",
+        # other family: unmarried adult children (F1), married children (F3), and siblings (F4) of US citizens
+        # with their derivatives, and unmarried adult children of permanent residents (F2B)
+        visa_type == "IV" & visa_class %in% c("F1", "F11", "F12", "F3", "F31", "F32", "F33", "F4", "F41", "F42", "F43",
+            "F2B", "F24", "F25") ~ "Other family",
+        # other: diversity visa, investors, special immigrants (Afghans and Iraqis, employees abroad,
+        # religious workers, etc.), EB-4, and all remaining classes
+        TRUE ~ "Other")) %>%
+    semi_join(visa_feb_change, by = c("visa_type", "country"))   # same countries as the main projection
+
+# FY2024 and FY2025 actual
+class_fy_actual = class_groups %>%
+    filter(fy %in% c(2024, 2025)) %>%
+    group_by(visa_type, category, fy) %>%
+    summarise(issuances = sum(issuances), .groups = "drop") %>%
+    pivot_wider(names_from = fy, values_from = issuances, names_prefix = "fy", values_fill = 0)
+
+# FY2026: actual Oct-Feb plus projected Mar-Sep (each country's own Feb 2024 to Feb 2026 change)
+class_octfeb = class_groups %>%
+    filter(fy == 2026, month %in% c(10, 11, 12, 1, 2)) %>%
+    group_by(visa_type, category) %>%
+    summarise(octfeb_2026 = sum(issuances), .groups = "drop")
+
+class_marsep = class_groups %>%
+    filter(fy == 2024, month %in% 3:9) %>%
+    inner_join(visa_feb_change %>% select(visa_type, country, pct_change), by = c("visa_type", "country")) %>%
+    mutate(projected = issuances * (1 + pct_change)) %>%
+    group_by(visa_type, category) %>%
+    summarise(marsep_2026_proj = sum(projected), .groups = "drop")
+
+# 21 month net missing, Jan 2025 - Sep 2026, each month vs. same calendar month of FY2024
+class_baseline = class_groups %>%
+    filter(fy == 2024) %>%
+    group_by(visa_type, category, country, month) %>%
+    summarise(baseline = sum(issuances), .groups = "drop")
+
+class_actual = class_groups %>%
+    filter(year == 2025 | (year == 2026 & month <= 2)) %>%
+    group_by(visa_type, category, country, year, month) %>%
+    summarise(value = sum(issuances), .groups = "drop")
+
+class_projected = class_baseline %>%
+    filter(month %in% 3:9) %>%
+    inner_join(visa_feb_change %>% select(visa_type, country, pct_change), by = c("visa_type", "country")) %>%
+    transmute(visa_type, category, country, year = 2026L, month, value = baseline * (1 + pct_change))
+
+class_net_missing = class_groups %>%
+    distinct(visa_type, category, country) %>%
+    cross_join(window_months) %>%
+    left_join(bind_rows(class_actual, class_projected),
+        by = c("visa_type", "category", "country", "year", "month")) %>%
+    left_join(class_baseline, by = c("visa_type", "category", "country", "month")) %>%
+    mutate(value = coalesce(value, 0), baseline = coalesce(baseline, 0),
+        missing = value - baseline) %>%
+    group_by(visa_type, category) %>%
+    summarise(net_missing = sum(missing), baseline_21 = sum(baseline), .groups = "drop")
+
+# final table, rows ordered like the ban table: nonimmigrant panel, then immigrant panel
+category_order = c("Work", "Students and exchange visitors", "Citizens' spouses, fiancé(e)s + minors",
+    "Residents' spouses + minors", "Citizens' spouses + minors", "Citizens' parents", "Other family",
+    "Other", "Total")
+
+category_table = class_fy_actual %>%
+    left_join(class_octfeb, by = c("visa_type", "category")) %>%
+    left_join(class_marsep, by = c("visa_type", "category")) %>%
+    left_join(class_net_missing, by = c("visa_type", "category")) %>%
+    mutate(fy2026_proj = octfeb_2026 + marsep_2026_proj) %>%
+    select(visa_type, category, fy2024, fy2025, fy2026_proj, net_missing, baseline_21)
+
+category_table_full = bind_rows(
+        category_table,
+        category_table %>%
+            group_by(visa_type) %>%
+            summarise(category = "Total", across(where(is.numeric), sum), .groups = "drop"),
+        category_table %>%
+            summarise(visa_type = "ALL", category = "Total", across(where(is.numeric), sum))) %>%
+    mutate(Panel = recode(visa_type, NIV = "Nonimmigrant", IV = "Immigrant", ALL = "Total visas"),
+        pct_decline_21 = -net_missing / baseline_21 * 100) %>%      # computed after the totals, so total rows are weighted
+    arrange(match(visa_type, c("NIV", "IV", "ALL")), match(category, category_order)) %>%
+    select(Panel, Category = category,
+        `FY2024` = fy2024,
+        `FY2025` = fy2025,
+        `FY2026 (including projected)` = fy2026_proj,
+        `Net missing (21 months)` = net_missing,
+        `Percent decline vs. FY2024 levels (21 months)` = pct_decline_21,
+        `FY2024-level entries (21 months)` = baseline_21)
+
+print(category_table_full, n = Inf)
+
+# checks: FY totals should match visa_fy_totals_updated, net missing should match cumulative_missing (IV and NIV)
+
+visa_fy_totals_updated
+cumulative_missing %>%
+    filter(source %in% c("IV", "NIV")) %>%
+    group_by(source) %>%
+    summarise(missing = sum(missing, na.rm = TRUE), .groups = "drop")
+
+write_csv(category_table_full, "results/visa_category_table.csv")
+
+# total IV and NIV mismatch bc of missing country names
+cumulative_missing %>%
+    filter(source %in% c("IV", "NIV")) %>%
+    group_by(source, country) %>%
+    summarise(missing = sum(missing), .groups = "drop") %>%
+    anti_join(visa_feb_change %>% rename(source = visa_type), by = c("source", "country")) %>%
+    arrange(source, missing) %>%
+    print(n = Inf)
+
+# total by source
+cumulative_missing %>%
+    filter(source %in% c("IV", "NIV")) %>%
+    group_by(source, in_table = paste(source, country) %in% paste(visa_feb_change$visa_type, visa_feb_change$country)) %>%
+    summarise(missing = sum(missing), .groups = "drop")
+
+## LEGAL ENTRIES BY CATEGORY: FY2024, 21 month actual, 21 month at FY2024 levels, percent decline -------
+# 21 month totals by source; cumulative_missing includes every country, so these tie to the totals in the text
+source_totals_21 = cumulative_missing %>%
+    group_by(source) %>%
+    summarise(value_21 = sum(value, na.rm = TRUE),
+        baseline_21 = sum(baseline, na.rm = TRUE),
+        .groups = "drop")
+
+fy2024_by_source = tibble(
+    source = c("IV", "NIV", "Refugees", "Asylees"),
+    fy2024 = c(visa_fy_totals_updated$IV[visa_fy_totals_updated$fy == 2024],
+        visa_fy_totals_updated$NIV[visa_fy_totals_updated$fy == 2024],
+        refugee_fy_totals$arrivals[refugee_fy_totals$fy == 2024],
+        asylee_fy_totals$total[asylee_fy_totals$fy == 2024]))
+
+source_totals = source_totals_21 %>%
+    left_join(fy2024_by_source, by = "source")
+
+# visa categories come from the class tables; "Other" is the remainder so each panel ties to its source total
+visa_named_rows = class_fy_actual %>%
+    select(source = visa_type, category, fy2024) %>%
+    left_join(class_net_missing %>% mutate(value_21 = baseline_21 + net_missing),
+        by = c("source" = "visa_type", "category")) %>%
+    filter(category != "Other") %>%
+    select(source, category, fy2024, value_21, baseline_21)
+
+visa_other_rows = source_totals %>%
+    filter(source %in% c("IV", "NIV")) %>%
+    left_join(visa_named_rows %>%
+            group_by(source) %>%
+            summarise(fy2024_named = sum(fy2024), value_named = sum(value_21),
+                baseline_named = sum(baseline_21), .groups = "drop"),
+        by = "source") %>%
+    transmute(source, category = "Other",
+        fy2024 = fy2024 - fy2024_named,
+        value_21 = value_21 - value_named,
+        baseline_21 = baseline_21 - baseline_named)
+
+refugee_asylee_rows = source_totals %>%
+    filter(source %in% c("Refugees", "Asylees")) %>%
+    transmute(source,
+        category = recode(source, Refugees = "Refugees", Asylees = "Asylum seekers at ports of entry"),
+        fy2024, value_21, baseline_21)
+
+panel_levels = c("Immigrant visas", "Nonimmigrant visas", "Refugees and asylum seekers")
+
+category_order = c("Work", "Students and exchange visitors", "Citizens' spouses, fiancé(e)s + minors",
+    "Residents' spouses + minors", "Citizens' spouses + minors", "Citizens' parents", "Other family",
+    "Refugees", "Asylum seekers at ports of entry", "Other")
+
+entries_rows = bind_rows(visa_named_rows, visa_other_rows, refugee_asylee_rows) %>%
+    mutate(panel = recode(source, IV = "Immigrant visas", NIV = "Nonimmigrant visas",
+        Refugees = "Refugees and asylum seekers", Asylees = "Refugees and asylum seekers"))
+
+# panel header rows carry the panel totals
+entries_panel_totals = entries_rows %>%
+    group_by(panel) %>%
+    summarise(across(c(fy2024, value_21, baseline_21), sum), .groups = "drop") %>%
+    mutate(category = str_to_upper(panel), row_order = 0)
+
+entries_table = bind_rows(
+        entries_panel_totals,
+        entries_rows %>% mutate(row_order = match(category, category_order))) %>%
+    arrange(match(panel, panel_levels), row_order) %>%
+    bind_rows(entries_rows %>%
+            summarise(across(c(fy2024, value_21, baseline_21), sum)) %>%
+            mutate(panel = "Total", category = "TOTAL LEGAL ENTRIES")) %>%
+    mutate(fewer_entries = baseline_21 - value_21,
+        pct_decline = fewer_entries / baseline_21 * 100) %>%
+    select(panel, category, fy2024, value_21, baseline_21, fewer_entries, pct_decline)
+
+print(entries_table, n = Inf)
+
+# checks: fewer entries by source should be 293,632 / 756,013 / 151,188 / 951,929, and 2,152,762 in total
+entries_panel_totals %>% mutate(fewer_entries = baseline_21 - value_21)
+sum(entries_table$fewer_entries[entries_table$category == "TOTAL LEGAL ENTRIES"])
+
+write_csv(entries_table, "results/entries_table.csv")
+
+usc_family_combined = entries_table %>%
+    filter((panel == "Immigrant visas" & category == "Citizens' spouses + minors") |
+           (panel == "Nonimmigrant visas" & category == "Citizens' spouses, fiancé(e)s + minors")) %>%
+    summarise(across(c(fy2024, value_21, baseline_21, fewer_entries), sum)) %>%
+    mutate(pct_decline = fewer_entries / baseline_21 * 100)
+
+print(usc_family_combined)

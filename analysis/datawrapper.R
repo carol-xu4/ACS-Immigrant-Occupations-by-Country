@@ -224,3 +224,17 @@ health_range_chart = current_health_workforce %>%
     select(`Health Category`, `Current Workforce`, `Would-Have-Been Workforce`)
 
 write_csv(health_range_chart, "results/datawrapper/healthcare_workers_range.csv")
+
+# table 2 -- visa groups, family members
+table2 = entries_table %>%
+    mutate(across(c(fy2024, value_21, baseline_21, fewer_entries), round),
+        pct_decline = round(pct_decline, 1)) %>%
+    select(Category = category,
+        `Entries in FY2024` = fy2024,
+        `Entries, Jan 2025-Sep 2026 (Actual and Projected)` = value_21,
+        `Would Have Entered at FY2024 Levels` = baseline_21,
+        `Fewer Entries` = fewer_entries,
+        `Percent Decline` = pct_decline)
+
+write_csv(table2, "results/datawrapper/table2.csv")
+
