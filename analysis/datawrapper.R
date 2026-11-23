@@ -238,3 +238,37 @@ table2 = entries_table %>%
 
 write_csv(table2, "results/datawrapper/table2.csv")
 
+# fig. 3 copy -- add asylum seekers to visa graph 
+asylees_monthly_wide = asylees %>%
+    group_by(year, month) %>%
+    summarise(`Asylum Seekers` = sum(encounters, na.rm = TRUE), .groups = "drop") %>%
+    mutate(Month = as.Date(sprintf("%d-%02d-01", year, month))) %>%
+    select(Month, `Asylum Seekers`)
+
+fig3_asylum = fig3 %>%
+    full_join(asylees_monthly_wide, by = "Month") %>%
+    arrange(Month) %>%
+    select(Month, IV, NIV, `Asylum Seekers`, `Projected IV`, `Projected NIV`)
+
+write_csv(fig3_asylum, "results/datawrapper/fig3_with_asylum.csv")
+
+# fig. 3 copy -- asylum and refugees too
+refugees_monthly_wide = refugees %>%
+    group_by(year, month) %>%
+    summarise(Refugees = sum(arrivals, na.rm = TRUE), .groups = "drop") %>%
+    mutate(Month = as.Date(sprintf("%d-%02d-01", year, month))) %>%
+    select(Month, Refugees)
+
+asylees_monthly_wide = asylees %>%
+    group_by(year, month) %>%
+    summarise(`Asylum Seekers` = sum(encounters, na.rm = TRUE), .groups = "drop") %>%
+    mutate(Month = as.Date(sprintf("%d-%02d-01", year, month))) %>%
+    select(Month, `Asylum Seekers`)
+
+fig3_asylum_refugees = fig3 %>%
+    full_join(refugees_monthly_wide, by = "Month") %>%
+    full_join(asylees_monthly_wide, by = "Month") %>%
+    arrange(Month) %>%
+    select(Month, IV, NIV, Refugees, `Asylum Seekers`, `Projected IV`, `Projected NIV`)
+
+write_csv(fig3_asylum_refugees, "results/datawrapper/fig3_with_asylum_refugees.csv")
