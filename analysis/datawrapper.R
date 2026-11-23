@@ -177,6 +177,114 @@ missing_workers_degrees %>%
     select(degree, missing_degree, pct) %>%
     arrange(factor(degree, levels = DEGREE_LEVELS))
 
+# fig.6 -- education of MISSING WORKERS (employed, age 25+), same denominator as the occupation shares (CORRECT VERSION)
+bpl_worker_degree_share = acs %>%
+    filter(country != "United States", citizen %in% c(2, 3), yrimmig %in% RECENT_YEARS) %>%
+    group_by(country) %>%
+    mutate(pop = sum(perwt)) %>%                       # all recent immigrants from the country, all ages
+    filter(empstat == 1, age >= 25) %>%
+    mutate(degree = degree_category_fn(educd)) %>%
+    group_by(country, pop, degree) %>%
+    summarise(degree_workers = sum(perwt), .groups = "drop") %>%
+    mutate(degree_share = degree_workers / pop)
+
+missing_workers_degrees = cumulative_missing_by_country %>%
+    select(country, missing) %>%
+    inner_join(bpl_worker_degree_share %>% select(country, degree, degree_share), by = "country") %>%
+    mutate(missing_degree = missing * degree_share) %>%
+    group_by(degree) %>%
+    summarise(missing_degree = sum(missing_degree, na.rm = TRUE), .groups = "drop") %>%
+    mutate(missing_degree = abs(missing_degree),
+        pct = missing_degree / sum(missing_degree) * 100,
+        group = "Missing Workers")
+
+# the number and percent for the title and text: bachelor's or higher
+missing_workers_bachelors = missing_workers_degrees %>%
+    filter(degree %in% c("Bachelor's degree", "Graduate or professional degree")) %>%
+    summarise(missing_workers_bachelors = sum(missing_degree),
+        pct_bachelors = sum(pct))
+
+missing_workers_total_25plus = sum(missing_workers_degrees$missing_degree)
+
+print(missing_workers_degrees %>% arrange(factor(degree, levels = DEGREE_LEVELS)))
+print(missing_workers_bachelors)
+missing_workers_total_25plus   
+
+degree_category_fn = function(educd) {
+    case_when(
+        educd < 62 ~ "Less than high school",
+        educd %in% c(62, 63, 64) ~ "High school diploma or equivalent",
+        educd >= 65 & educd <= 100 ~ "Some college or associate's degree",
+        educd == 101 ~ "Bachelor's degree",
+        educd > 101 ~ "Graduate or professional degree",
+        TRUE ~ NA_character_)}
+
+DEGREE_LEVELS = c("Graduate or professional degree", "Bachelor's degree",
+    "Some college or associate's degree", "High school diploma or equivalent",
+    "Less than high school")
+
+us_workers_degrees = acs %>%
+    filter(empstat == 1, age >= 25) %>%
+    mutate(degree = degree_category_fn(educd)) %>%
+    group_by(degree) %>%
+    summarise(pop = sum(perwt), .groups = "drop") %>%
+    mutate(pct = pop / sum(pop) * 100, group = "US Workers")
+
+recent_immigrant_workers_degrees = acs %>%
+    filter(citizen %in% c(2, 3), yrimmig %in% RECENT_YEARS, empstat == 1, age >= 25) %>%
+    mutate(degree = degree_category_fn(educd)) %>%
+    group_by(degree) %>%
+    summarise(pop = sum(perwt), .groups = "drop") %>%
+    mutate(pct = pop / sum(pop) * 100, group = "Recent Immigrant Workers")
+
+# missing workers (employed, age 25+), same denominator as the occupation shares
+bpl_worker_degree_share = acs %>%
+    filter(country != "United States", citizen %in% c(2, 3), yrimmig %in% RECENT_YEARS) %>%
+    group_by(country) %>%
+    mutate(pop = sum(perwt)) %>%                       # all recent immigrants from the country, all ages
+    filter(empstat == 1, age >= 25) %>%
+    mutate(degree = degree_category_fn(educd)) %>%
+    group_by(country, pop, degree) %>%
+    summarise(degree_workers = sum(perwt), .groups = "drop") %>%
+    mutate(degree_share = degree_workers / pop)
+
+missing_workers_degrees = cumulative_missing_by_country %>%
+    select(country, missing) %>%
+    inner_join(bpl_worker_degree_share %>% select(country, degree, degree_share), by = "country") %>%
+    mutate(missing_degree = missing * degree_share) %>%
+    group_by(degree) %>%
+    summarise(missing_degree = sum(missing_degree, na.rm = TRUE), .groups = "drop") %>%
+    mutate(missing_degree = abs(missing_degree),
+        pct = missing_degree / sum(missing_degree) * 100,
+        group = "Missing Workers")
+
+degree_chart = bind_rows(
+        us_workers_degrees %>% select(group, degree, pct),
+        recent_immigrant_workers_degrees %>% select(group, degree, pct),
+        missing_workers_degrees %>% select(group, degree, pct)) %>%
+    filter(!is.na(degree)) %>%
+    mutate(degree = factor(degree, levels = DEGREE_LEVELS)) %>%
+    pivot_wider(names_from = degree, values_from = pct, names_sort = TRUE) %>%
+    rename(Group = group)
+
+write_csv(degree_chart, "results/datawrapper/fig6.csv")
+
+# the number and percent for the title and text: missing workers with a bachelor's or higher
+missing_workers_bachelors = missing_workers_degrees %>%
+    filter(degree %in% c("Bachelor's degree", "Graduate or professional degree")) %>%
+    summarise(missing_workers_bachelors = sum(missing_degree), pct_bachelors = sum(pct))
+
+print(degree_chart)
+print(missing_workers_bachelors)
+sum(missing_workers_degrees$missing_degree)      # missing workers age 25+; below the 986,715 headline
+
+# counts by education for annotations
+missing_workers_degrees %>%
+    select(degree, missing_degree, pct) %>%
+    arrange(factor(degree, levels = DEGREE_LEVELS))
+
+
+
 # healthcare workers?
 ## missing healthcare workers by category, Jan 2025 - Sep 2026 cumulative ---------------------------
 missing_healthcare_cumulative = cumulative_missing_by_country %>%

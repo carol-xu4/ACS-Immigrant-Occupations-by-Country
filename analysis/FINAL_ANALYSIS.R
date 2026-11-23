@@ -856,6 +856,15 @@ ggplot(plot_data_decline, aes(period, count, fill = period)) +
 
 ggsave("results/legal_entries_fy2024_vs_cumulative.png", width = 14, height = 7)
 
+acs %>%
+    filter(citizen %in% c(2, 3), yrimmig %in% RECENT_YEARS, age >= 25, educd >= 101) %>%
+    summarise(adults_with_degree = sum(perwt),
+        employed = sum(perwt[empstat == 1]),
+        unemployed = sum(perwt[empstat == 2]),
+        not_in_labor_force = sum(perwt[empstat == 3])) %>%
+    mutate(pct_employed = employed / adults_with_degree * 100,
+        pct_not_employed = 100 - pct_employed) %>% print(width = Inf)
+
 visa_monthly_total = visas %>%
     group_by(year, month) %>%
     summarise(value = sum(issuances), .groups = "drop")
